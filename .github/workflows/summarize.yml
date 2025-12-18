@@ -1,0 +1,36 @@
+name: Summarize feeds
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 12 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - name: Install dependencies
+        run: npm install
+      - name: Generate summaries
+        run: npm run summarize
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          MAX_FEEDS: ${{ vars.MAX_FEEDS }}
+          MAX_ITEMS_PER_FEED: ${{ vars.MAX_ITEMS_PER_FEED }}
+          SUMMARY_FEED_LINK: ${{ vars.SUMMARY_FEED_LINK }}
+          SUMMARY_FEED_TITLE: ${{ vars.SUMMARY_FEED_TITLE }}
+          SUMMARY_FEED_DESCRIPTION: ${{ vars.SUMMARY_FEED_DESCRIPTION }}
+      - name: Commit updated summary feed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update summary feed'
+          file_pattern: summary.xml

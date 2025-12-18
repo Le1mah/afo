@@ -1,0 +1,17 @@
+{
+  "name": "afo",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "AI-powered RSS summarization tooling",
+  "scripts": {
+    "summarize": "node src/summarize-feeds.js",
+    "parse:opml": "node src/opml.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.4.0",
+    "openai": "^4.50.0"
+  }
+}
