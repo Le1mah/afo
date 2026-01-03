@@ -23,8 +23,8 @@ jobs:
         run: npm run summarize
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
           MAX_FEEDS: ${{ vars.MAX_FEEDS }}
           MAX_ITEMS_PER_FEED: ${{ vars.MAX_ITEMS_PER_FEED }}
           MAX_CONCURRENT_FEEDS: ${{ vars.MAX_CONCURRENT_FEEDS }}
