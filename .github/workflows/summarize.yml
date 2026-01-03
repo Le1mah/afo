@@ -23,14 +23,30 @@ jobs:
         run: npm run summarize
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
           MAX_FEEDS: ${{ vars.MAX_FEEDS }}
           MAX_ITEMS_PER_FEED: ${{ vars.MAX_ITEMS_PER_FEED }}
+          MAX_CONCURRENT_FEEDS: ${{ vars.MAX_CONCURRENT_FEEDS }}
+          MAX_CONCURRENT_ITEMS: ${{ vars.MAX_CONCURRENT_ITEMS }}
+          MAX_RETRIES: ${{ vars.MAX_RETRIES }}
+          RATE_LIMIT_DELAY_MS: ${{ vars.RATE_LIMIT_DELAY_MS }}
+          ENABLE_FULL_ARTICLE_FETCH: ${{ vars.ENABLE_FULL_ARTICLE_FETCH }}
+          ENABLE_DIGEST_CACHE: ${{ vars.ENABLE_DIGEST_CACHE }}
+          ENABLE_REPORTING: ${{ vars.ENABLE_REPORTING }}
           SUMMARY_FEED_LINK: ${{ vars.SUMMARY_FEED_LINK }}
           SUMMARY_FEED_TITLE: ${{ vars.SUMMARY_FEED_TITLE }}
           SUMMARY_FEED_DESCRIPTION: ${{ vars.SUMMARY_FEED_DESCRIPTION }}
-      - name: Commit updated summary feed
+      - name: Upload reports as artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: execution-reports
+          path: reports/
+          retention-days: 30
+          if-no-files-found: ignore
+      - name: Commit updated feed and reports
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'chore: update summary feed'
-          file_pattern: summary.xml
+          commit_message: 'chore: update summary feed and reports'
+          file_pattern: 'summary.xml reports/*.json reports/*.md'

@@ -5,13 +5,18 @@
   "description": "AI-powered RSS summarization tooling",
   "scripts": {
     "summarize": "node src/summarize-feeds.js",
-    "parse:opml": "node src/opml.js"
+    "parse:opml": "node src/opml.js",
+    "test:local": "node src/cli.js",
+    "test:content": "node src/test-content-fetcher.js"
   },
   "engines": {
     "node": ">=18"
   },
   "dependencies": {
+    "@extractus/feed-extractor": "^7.1.3",
+    "cheerio": "^1.0.0-rc.12",
     "fast-xml-parser": "^4.4.0",
-    "openai": "^4.50.0"
+    "openai": "^4.50.0",
+    "p-limit": "^5.0.0"
   }
 }
