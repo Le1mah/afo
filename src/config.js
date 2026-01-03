@@ -79,8 +79,8 @@ config.digestCacheEnabled = config.enableDigestCache && config.digestCacheTtlMs 
 export const requireEnv = (key) => {
   const value = process.env[key];
   if (!value) {
+    console.error(`Available environment variables: ${Object.keys(process.env).join(', ')}`);
     throw new Error(`Missing required environment variable: ${key}`);
   }
   return value;
 };
-
