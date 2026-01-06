@@ -90,8 +90,12 @@ jobs:
           path: reports/
           retention-days: 30
           if-no-files-found: ignore
+      - name: Stage files for commit
+        run: |
+          git add summary.xml
+          git add reports/ || echo "No reports directory to add"
       - name: Commit updated feed and reports
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: update summary feed and reports'
-          file_pattern: 'summary.xml reports/*.json reports/*.md'
+          skip_dirty_check: true
