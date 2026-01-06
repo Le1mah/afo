@@ -10,6 +10,10 @@ const __dirname = path.dirname(__filename);
 const projectRoot = path.resolve(__dirname, '..');
 
 const parseNumber = (value, defaultValue) => {
+  // Return default for undefined, null, or empty string
+  if (value === undefined || value === null || value === '') {
+    return defaultValue;
+  }
   const parsed = Number(value);
   return Number.isFinite(parsed) ? parsed : defaultValue;
 };
