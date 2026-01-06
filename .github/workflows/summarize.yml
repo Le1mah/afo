@@ -19,6 +19,51 @@ jobs:
           cache: npm
       - name: Install dependencies
         run: npm install
+      - name: Verify configuration
+        run: |
+          echo "🔧 Configuration Verification"
+          echo "=============================="
+          echo "API Key set: $([[ -n "$OPENAI_API_KEY" ]] && echo "✓ Yes (${#OPENAI_API_KEY} chars)" || echo "✗ No")"
+          echo "Base URL set: $([[ -n "$OPENAI_BASE_URL" ]] && echo "✓ Yes" || echo "✗ No (will use default)")"
+          echo "Model: ${OPENAI_MODEL:-not set}"
+          echo ""
+          echo "📊 Feed Limits:"
+          echo "  MAX_FEEDS: ${MAX_FEEDS:-not set}"
+          echo "  MAX_ITEMS_PER_FEED: ${MAX_ITEMS_PER_FEED:-not set}"
+          echo ""
+          echo "⚡ Concurrency:"
+          echo "  MAX_CONCURRENT_FEEDS: ${MAX_CONCURRENT_FEEDS:-not set}"
+          echo "  MAX_CONCURRENT_ITEMS: ${MAX_CONCURRENT_ITEMS:-not set}"
+          echo "  RATE_LIMIT_DELAY_MS: ${RATE_LIMIT_DELAY_MS:-not set}"
+          echo ""
+          echo "🔁 Retry:"
+          echo "  MAX_RETRIES: ${MAX_RETRIES:-not set}"
+          echo ""
+          echo "🎛️ Features:"
+          echo "  ENABLE_FULL_ARTICLE_FETCH: ${ENABLE_FULL_ARTICLE_FETCH:-not set}"
+          echo "  ENABLE_DIGEST_CACHE: ${ENABLE_DIGEST_CACHE:-not set}"
+          echo "  ENABLE_REPORTING: ${ENABLE_REPORTING:-not set}"
+          echo ""
+          echo "📝 Feed Metadata:"
+          echo "  SUMMARY_FEED_TITLE: ${SUMMARY_FEED_TITLE:-not set}"
+          echo "  SUMMARY_FEED_LINK: ${SUMMARY_FEED_LINK:-not set}"
+          echo "=============================="
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          MAX_FEEDS: ${{ vars.MAX_FEEDS }}
+          MAX_ITEMS_PER_FEED: ${{ vars.MAX_ITEMS_PER_FEED }}
+          MAX_CONCURRENT_FEEDS: ${{ vars.MAX_CONCURRENT_FEEDS }}
+          MAX_CONCURRENT_ITEMS: ${{ vars.MAX_CONCURRENT_ITEMS }}
+          MAX_RETRIES: ${{ vars.MAX_RETRIES }}
+          RATE_LIMIT_DELAY_MS: ${{ vars.RATE_LIMIT_DELAY_MS }}
+          ENABLE_FULL_ARTICLE_FETCH: ${{ vars.ENABLE_FULL_ARTICLE_FETCH }}
+          ENABLE_DIGEST_CACHE: ${{ vars.ENABLE_DIGEST_CACHE }}
+          ENABLE_REPORTING: ${{ vars.ENABLE_REPORTING }}
+          SUMMARY_FEED_LINK: ${{ vars.SUMMARY_FEED_LINK }}
+          SUMMARY_FEED_TITLE: ${{ vars.SUMMARY_FEED_TITLE }}
+          SUMMARY_FEED_DESCRIPTION: ${{ vars.SUMMARY_FEED_DESCRIPTION }}
       - name: Generate summaries
         run: npm run summarize
         env:
