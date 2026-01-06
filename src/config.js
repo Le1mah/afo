@@ -78,9 +78,26 @@ config.digestCacheEnabled = config.enableDigestCache && config.digestCacheTtlMs 
 
 export const requireEnv = (key) => {
   const value = process.env[key];
-  if (!value) {
+  
+  // Check if variable exists
+  if (value === undefined || value === null) {
+    console.error(`❌ Environment variable ${key} is not set`);
     console.error(`Available environment variables: ${Object.keys(process.env).join(', ')}`);
-    throw new Error(`Missing required environment variable: ${key}`);
+    throw new Error(`Missing required environment variable: ${key} (not set)`);
   }
-  return value;
+  
+  // Check if variable is empty
+  if (value === '') {
+    console.error(`❌ Environment variable ${key} is set but empty`);
+    throw new Error(`Missing required environment variable: ${key} (empty string)`);
+  }
+  
+  // Check if variable is only whitespace
+  const trimmed = value.trim();
+  if (trimmed === '') {
+    console.error(`❌ Environment variable ${key} is set but contains only whitespace`);
+    throw new Error(`Missing required environment variable: ${key} (whitespace only)`);
+  }
+  
+  return trimmed;
 };

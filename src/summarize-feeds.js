@@ -317,14 +317,50 @@ const writeOutput = async (outputPath, atomXml) => {
 };
 
 /**
+ * Verify API key is valid by making a test call
+ */
+const verifyApiKey = async (client) => {
+  console.log('🔐 Verifying API key...');
+  try {
+    const response = await client.chat.completions.create({
+      model: config.openaiModel,
+      messages: [{ role: 'user', content: 'test' }],
+      max_tokens: 5,
+    });
+    console.log('✓ API key verified successfully');
+    console.log(`✓ Model: ${config.openaiModel}`);
+    console.log(`✓ Base URL: ${config.openaiBaseUrl || 'default (OpenAI)'}`);
+    return true;
+  } catch (error) {
+    console.error('❌ API key verification failed!');
+    console.error(`Error: ${error.message}`);
+    if (error.status === 401) {
+      console.error('→ The API key is invalid or unauthorized');
+    } else if (error.status === 404) {
+      console.error('→ Model not found. Check OPENAI_MODEL is correct for your provider');
+    } else if (error.code === 'ENOTFOUND') {
+      console.error('→ Cannot reach API endpoint. Check OPENAI_BASE_URL');
+    }
+    throw new Error(`API verification failed: ${error.message}`);
+  }
+};
+
+/**
  * Main execution
  */
 export const main = async () => {
   const apiKey = requireEnv('OPENAI_API_KEY');
+  
+  console.log('🚀 Starting AFO Feed Digest');
+  console.log(`📝 API Key: ${apiKey.slice(0, 7)}...${apiKey.slice(-4)} (${apiKey.length} chars)`);
+  
   const openai = new OpenAI({
     apiKey,
     baseURL: config.openaiBaseUrl || undefined,
   });
+  
+  // Verify API key works before processing
+  await verifyApiKey(openai);
   
   const report = createReportCollector();
   const feeds = await loadFeedDefinitions();
