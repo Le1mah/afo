@@ -22,6 +22,9 @@ jobs:
       - name: Generate summaries
         run: npm run summarize
         env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
           MAX_FEEDS: ${{ vars.MAX_FEEDS }}
           MAX_ITEMS_PER_FEED: ${{ vars.MAX_ITEMS_PER_FEED }}
           MAX_CONCURRENT_FEEDS: ${{ vars.MAX_CONCURRENT_FEEDS }}
@@ -34,10 +37,6 @@ jobs:
           SUMMARY_FEED_LINK: ${{ vars.SUMMARY_FEED_LINK }}
           SUMMARY_FEED_TITLE: ${{ vars.SUMMARY_FEED_TITLE }}
           SUMMARY_FEED_DESCRIPTION: ${{ vars.SUMMARY_FEED_DESCRIPTION }}
-        secrets: 
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
       - name: Upload reports as artifacts
         if: always()
         uses: actions/upload-artifact@v4
