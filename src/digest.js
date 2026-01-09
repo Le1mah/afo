@@ -5,6 +5,18 @@ import { config } from './config.js';
 import { fetchArticleContent, truncateText } from './content-fetcher.js';
 import { retryOnError } from './retry.js';
 
+// Load custom prompt if it exists
+let customPrompt = null;
+try {
+  const promptPath = path.join(config.projectRoot, 'summary-prompt.md');
+  customPrompt = await fs.readFile(promptPath, 'utf-8');
+  console.log('✓ Loaded custom summary prompt from summary-prompt.md');
+} catch (error) {
+  if (error.code !== 'ENOENT') {
+    console.warn('Failed to load summary-prompt.md:', error.message);
+  }
+}
+
 /**
  * Generate a hash for an item to use as cache key
  * @param {Object} item - The feed item
@@ -106,6 +118,61 @@ const callOpenAI = async (client, systemPrompt, userPrompt) => {
   );
   
   return response.choices?.[0]?.message?.content?.trim() || '';
+};
+
+/**
+ * Generate all summaries using custom prompt (if available)
+ * @param {Object} client - OpenAI client
+ * @param {string} content - Full article content
+ * @returns {Promise<Object|null>} Structured summary or null if custom prompt not used
+ */
+const generateWithCustomPrompt = async (client, content) => {
+  if (!customPrompt) {
+    return null;
+  }
+  
+  console.log(`  → Using custom prompt to generate all summaries...`);
+  
+  try {
+    const truncatedContent = truncateText(content, 12000);
+    
+    const userPrompt = `${customPrompt}
+
+## Article to Summarize:
+
+${truncatedContent}
+
+Remember: Output ONLY the JSON object, no additional text.`;
+    
+    const response = await callOpenAI(
+      client,
+      'You are an article summarization agent. Follow the instructions exactly and output only valid JSON.',
+      userPrompt
+    );
+    
+    // Parse JSON response
+    let result;
+    try {
+      // Try to extract JSON from response (in case there's markdown formatting)
+      const jsonMatch = response.match(/\{[\s\S]*\}/);
+      const jsonStr = jsonMatch ? jsonMatch[0] : response;
+      result = JSON.parse(jsonStr);
+    } catch (parseError) {
+      console.warn('  ⚠️  Failed to parse custom prompt JSON response');
+      console.warn('  Response:', response.slice(0, 200));
+      return null;
+    }
+    
+    console.log(`  ✓ Custom prompt generated: ${result.metadata?.paragraph_count || 0} paragraphs`);
+    
+    await new Promise(resolve => setTimeout(resolve, config.rateLimitDelayMs));
+    
+    return result;
+    
+  } catch (error) {
+    console.error('  ✗ Failed with custom prompt:', error.message);
+    return null;
+  }
 };
 
 /**
@@ -350,17 +417,36 @@ export const generateMultiLayerDigest = async (client, item) => {
   
   console.log(`  → Content ready: ${content.split(' ').length} words`);
   
-  // Generate digests at each level - let AI split content intelligently
-  const paragraphDigests = await generateParagraphDigests(client, content);
+  // Try custom prompt first (single API call for all summaries)
+  const customResult = await generateWithCustomPrompt(client, content);
   
-  console.log(`  → Generating section digest...`);
-  const sectionDigest = await generateSectionDigest(client, paragraphDigests, content);
+  let paragraphDigests, sectionDigest, overallDigest, oneLineDigest;
   
-  console.log(`  → Generating overall digest...`);
-  const overallDigest = await generateOverallDigest(client, item.title, content, paragraphDigests);
-  
-  console.log(`  → Generating one-line digest...`);
-  const oneLineDigest = await generateOneLineDigest(client, item.title, overallDigest);
+  if (customResult) {
+    // Use custom prompt results
+    paragraphDigests = (customResult.paragraph_summary || []).map((summary, index) => ({
+      index,
+      title: `Section ${index + 1}`,
+      summary,
+    }));
+    sectionDigest = ''; // Not used with custom prompt
+    overallDigest = customResult.overall_summary || '';
+    oneLineDigest = customResult.one_line_summary || '';
+  } else {
+    // Fallback to multi-step approach
+    console.log(`  → Falling back to multi-step digest generation...`);
+    
+    paragraphDigests = await generateParagraphDigests(client, content);
+    
+    console.log(`  → Generating section digest...`);
+    sectionDigest = await generateSectionDigest(client, paragraphDigests, content);
+    
+    console.log(`  → Generating overall digest...`);
+    overallDigest = await generateOverallDigest(client, item.title, content, paragraphDigests);
+    
+    console.log(`  → Generating one-line digest...`);
+    oneLineDigest = await generateOneLineDigest(client, item.title, overallDigest);
+  }
   
   const digest = {
     itemHash,
