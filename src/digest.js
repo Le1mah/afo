@@ -121,6 +121,44 @@ const callOpenAI = async (client, systemPrompt, userPrompt) => {
 };
 
 /**
+ * Try to extract and parse JSON from a response that might be wrapped in markdown
+ * @param {string} response - Raw response
+ * @returns {Object|null} Parsed object or null
+ */
+const extractJson = (response) => {
+  if (!response) return null;
+  
+  // Try direct parse first
+  try {
+    return JSON.parse(response.trim());
+  } catch (e) {
+    // Continue to other methods
+  }
+  
+  // Try to extract JSON from markdown code block
+  const codeBlockMatch = response.match(/```(?:json)?\s*([\s\S]*?)```/);
+  if (codeBlockMatch) {
+    try {
+      return JSON.parse(codeBlockMatch[1].trim());
+    } catch (e) {
+      // Continue
+    }
+  }
+  
+  // Try to find JSON object pattern
+  const jsonMatch = response.match(/\{[\s\S]*\}/);
+  if (jsonMatch) {
+    try {
+      return JSON.parse(jsonMatch[0]);
+    } catch (e) {
+      // Continue
+    }
+  }
+  
+  return null;
+};
+
+/**
  * Generate all summaries using custom prompt (if available)
  * @param {Object} client - OpenAI client
  * @param {string} content - Full article content
@@ -133,46 +171,54 @@ const generateWithCustomPrompt = async (client, content) => {
   
   console.log(`  → Using custom prompt to generate all summaries...`);
   
-  try {
-    const truncatedContent = truncateText(content, 12000);
-    
-    const userPrompt = `${customPrompt}
+  const truncatedContent = truncateText(content, 12000);
+  const maxRetries = config.maxRetries || 3;
+  
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      const userPrompt = `${customPrompt}
 
 ## Article to Summarize:
 
 ${truncatedContent}
 
-Remember: Output ONLY the JSON object, no additional text.`;
-    
-    const response = await callOpenAI(
-      client,
-      'You are an article summarization agent. Follow the instructions exactly and output only valid JSON.',
-      userPrompt
-    );
-    
-    // Parse JSON response
-    let result;
-    try {
-      // Try to extract JSON from response (in case there's markdown formatting)
-      const jsonMatch = response.match(/\{[\s\S]*\}/);
-      const jsonStr = jsonMatch ? jsonMatch[0] : response;
-      result = JSON.parse(jsonStr);
-    } catch (parseError) {
-      console.warn('  ⚠️  Failed to parse custom prompt JSON response');
-      console.warn('  Response:', response.slice(0, 200));
-      return null;
+IMPORTANT: Output ONLY the JSON object, no markdown formatting, no code blocks, no additional text.`;
+      
+      const response = await callOpenAI(
+        client,
+        'You are an article summarization agent. Follow the instructions exactly. Output ONLY valid JSON - no markdown, no code blocks, no explanations.',
+        userPrompt
+      );
+      
+      // Try to parse JSON response
+      const result = extractJson(response);
+      
+      if (result) {
+        console.log(`  ✓ Custom prompt generated: ${result.metadata?.paragraph_count || result.paragraph_summary?.length || 0} paragraphs`);
+        await new Promise(resolve => setTimeout(resolve, config.rateLimitDelayMs));
+        return result;
+      }
+      
+      // JSON parsing failed
+      if (attempt < maxRetries) {
+        console.warn(`  ⚠️  JSON parse failed (attempt ${attempt}/${maxRetries}), retrying...`);
+        await new Promise(resolve => setTimeout(resolve, config.rateLimitDelayMs * 2));
+      } else {
+        console.warn(`  ⚠️  Failed to parse custom prompt JSON after ${maxRetries} attempts`);
+        console.warn(`  Response preview:`, response.slice(0, 150).replace(/\n/g, ' '));
+      }
+      
+    } catch (error) {
+      if (attempt < maxRetries) {
+        console.warn(`  ⚠️  Custom prompt error (attempt ${attempt}/${maxRetries}): ${error.message}`);
+        await new Promise(resolve => setTimeout(resolve, config.rateLimitDelayMs * 2));
+      } else {
+        console.error(`  ✗ Failed with custom prompt after ${maxRetries} attempts:`, error.message);
+      }
     }
-    
-    console.log(`  ✓ Custom prompt generated: ${result.metadata?.paragraph_count || 0} paragraphs`);
-    
-    await new Promise(resolve => setTimeout(resolve, config.rateLimitDelayMs));
-    
-    return result;
-    
-  } catch (error) {
-    console.error('  ✗ Failed with custom prompt:', error.message);
-    return null;
   }
+  
+  return null;
 };
 
 /**
