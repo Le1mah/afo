@@ -2,7 +2,7 @@ import fs from 'fs/promises';
 import crypto from 'crypto';
 import OpenAI from 'openai';
 import { extract } from '@extractus/feed-extractor';
-import { XMLBuilder } from 'fast-xml-parser';
+import { XMLBuilder, XMLParser } from 'fast-xml-parser';
 import pLimit from 'p-limit';
 import { parseOpml } from './opml.js';
 import { loadEnvFile } from './load-env.js';
@@ -386,11 +386,78 @@ const formatDailyDigestHtml = (groupedDigests, dateString) => {
 };
 
 /**
- * Build daily digest Atom feed XML (single entry)
+ * Read existing feed entries from output file
+ * @returns {Promise<Array>} Array of existing entries
+ */
+const readExistingFeedEntries = async () => {
+  try {
+    const content = await fs.readFile(config.outputFeed, 'utf-8');
+    
+    const parser = new XMLParser({
+      ignoreAttributes: false,
+      attributeNamePrefix: '@_',
+    });
+    
+    const parsed = parser.parse(content);
+    const entries = parsed?.feed?.entry;
+    
+    if (!entries) {
+      return [];
+    }
+    
+    // Ensure it's an array
+    return Array.isArray(entries) ? entries : [entries];
+  } catch (error) {
+    if (error.code !== 'ENOENT') {
+      console.warn(`  ⚠️  Failed to read existing feed: ${error.message}`);
+    }
+    return [];
+  }
+};
+
+/**
+ * Filter entries to keep only those within retention period
+ * @param {Array} entries - Array of feed entries
+ * @param {number} retentionDays - Number of days to retain
+ * @returns {Array} Filtered entries
+ */
+const filterEntriesByRetention = (entries, retentionDays) => {
+  if (!entries || entries.length === 0) {
+    return [];
+  }
+  
+  const cutoffDate = new Date();
+  cutoffDate.setUTCDate(cutoffDate.getUTCDate() - retentionDays);
+  cutoffDate.setUTCHours(0, 0, 0, 0);
+  
+  return entries.filter(entry => {
+    // Try to parse date from entry ID (daily-digest-YYYY-MM-DD) or published date
+    const id = entry.id || '';
+    const dateMatch = id.match(/daily-digest-(\d{4}-\d{2}-\d{2})/);
+    
+    let entryDate;
+    if (dateMatch) {
+      entryDate = new Date(dateMatch[1] + 'T00:00:00Z');
+    } else if (entry.published) {
+      entryDate = new Date(entry.published);
+    } else if (entry.updated) {
+      entryDate = new Date(entry.updated);
+    } else {
+      // Keep entry if we can't determine its date
+      return true;
+    }
+    
+    return entryDate >= cutoffDate;
+  });
+};
+
+/**
+ * Build daily digest Atom feed XML with retention of previous entries
  * @param {Object} groupedDigests - Digests grouped by feed
+ * @param {Array} previousEntries - Previous entries to retain
  * @returns {string} Atom XML
  */
-const buildDailyDigestFeed = (groupedDigests) => {
+const buildDailyDigestFeed = (groupedDigests, previousEntries = []) => {
   const dateString = formatDateForTitle();
   const dateId = formatDateForId();
   const htmlContent = formatDailyDigestHtml(groupedDigests, dateString);
@@ -401,6 +468,39 @@ const buildDailyDigestFeed = (groupedDigests) => {
   const title = config.includeDateInTitle 
     ? `${config.channelTitle} - ${dateString}`
     : config.channelTitle;
+  
+  // Create today's entry
+  const todayEntry = {
+    title: title,
+    link: {
+      '@_href': config.channelLink,
+      '@_rel': 'alternate',
+    },
+    id: `daily-digest-${dateId}`,
+    updated: new Date().toISOString(),
+    published: new Date().toISOString(),
+    author: {
+      name: 'AFO Feed Digest',
+    },
+    summary: `${totalArticles} articles from ${feedNames.length} feeds`,
+    content: {
+      '@_type': 'html',
+      '#text': htmlContent,
+    },
+  };
+  
+  // Filter out any existing entry with the same ID (today's date) to avoid duplicates
+  const filteredPrevious = previousEntries.filter(entry => entry.id !== `daily-digest-${dateId}`);
+  
+  // Combine: today's entry first, then previous entries (newest first)
+  const allEntries = [todayEntry, ...filteredPrevious];
+  
+  // Sort by date (newest first)
+  allEntries.sort((a, b) => {
+    const dateA = new Date(a.published || a.updated || 0);
+    const dateB = new Date(b.published || b.updated || 0);
+    return dateB - dateA;
+  });
   
   const atomObject = {
     '?xml': {
@@ -417,24 +517,7 @@ const buildDailyDigestFeed = (groupedDigests) => {
       id: config.channelLink,
       updated: new Date().toISOString(),
       subtitle: config.channelDescription,
-      entry: {
-        title: title,
-        link: {
-          '@_href': config.channelLink,
-          '@_rel': 'alternate',
-        },
-        id: `daily-digest-${dateId}`,
-        updated: new Date().toISOString(),
-        published: new Date().toISOString(),
-        author: {
-          name: 'AFO Feed Digest',
-        },
-        summary: `${totalArticles} articles from ${feedNames.length} feeds`,
-        content: {
-          '@_type': 'html',
-          '#text': htmlContent,
-        },
-      },
+      entry: allEntries,
     },
   };
   
@@ -720,8 +803,21 @@ export const main = async () => {
   if (config.dateFilterEnabled) {
     // Daily digest mode: single entry grouped by feed
     const groupedDigests = groupDigestsByFeed(digests);
-    atomXml = buildDailyDigestFeed(groupedDigests);
+    
+    // Read existing entries and apply retention
+    console.log(`\n📂 Checking for previous digests (retention: ${config.digestRetentionDays} days)...`);
+    const existingEntries = await readExistingFeedEntries();
+    const retainedEntries = filterEntriesByRetention(existingEntries, config.digestRetentionDays);
+    
+    if (existingEntries.length > 0) {
+      console.log(`  Found ${existingEntries.length} existing entries, keeping ${retainedEntries.length} within retention period`);
+    } else {
+      console.log(`  No existing entries found (first run or new file)`);
+    }
+    
+    atomXml = buildDailyDigestFeed(groupedDigests, retainedEntries);
     console.log(`\n✓ Generated daily digest with ${Object.keys(groupedDigests).length} feed sections`);
+    console.log(`✓ Feed now contains ${retainedEntries.length + 1} entries (today + ${retainedEntries.length} previous)`);
   } else {
     // Legacy mode: individual entries
     digests.sort((a, b) => {
