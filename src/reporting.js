@@ -1,6 +1,7 @@
 import fs from 'fs/promises';
 import path from 'path';
 import { config } from './config.js';
+import { formatDateForTitle, formatDateForId } from './date-filter.js';
 
 /**
  * Create a new report collector
@@ -8,9 +9,15 @@ import { config } from './config.js';
  */
 export const createReportCollector = () => {
   const startTime = Date.now();
+  const now = new Date();
   
   return {
     startTime,
+    date: {
+      dateString: formatDateForTitle(now),
+      dateId: formatDateForId(now),
+      dateFilterEnabled: config.dateFilterEnabled,
+    },
     config: {
       maxFeeds: config.maxFeeds,
       maxItemsPerFeed: config.maxItemsPerFeed,
@@ -18,12 +25,15 @@ export const createReportCollector = () => {
       maxConcurrentItems: config.maxConcurrentItems,
       enableFullArticleFetch: config.enableFullArticleFetch,
       digestCacheEnabled: config.digestCacheEnabled,
+      dateFilterEnabled: config.dateFilterEnabled,
       openaiModel: config.openaiModel,
     },
     feeds: {
       total: 0,
       successful: 0,
       failed: 0,
+      withArticles: 0,
+      articlesPerFeed: {},
       errors: [],
     },
     items: {
@@ -64,6 +74,19 @@ export const recordFeedResult = (report, success, error = null, feedTitle = '') 
         timestamp: new Date().toISOString(),
       });
     }
+  }
+};
+
+/**
+ * Record articles count for a feed
+ * @param {Object} report - Report collector
+ * @param {string} feedTitle - Feed title
+ * @param {number} articleCount - Number of articles processed
+ */
+export const recordFeedArticles = (report, feedTitle, articleCount) => {
+  if (articleCount > 0) {
+    report.feeds.withArticles++;
+    report.feeds.articlesPerFeed[feedTitle] = articleCount;
   }
 };
 
@@ -173,6 +196,12 @@ export const generateMarkdownReport = (report) => {
   
   lines.push('# AFO Feed Digest Report');
   lines.push('');
+  
+  // Daily digest info
+  if (report.date) {
+    lines.push(`**📅 Date:** ${report.date.dateString}`);
+    lines.push(`**Mode:** ${report.date.dateFilterEnabled ? 'Daily Digest (today\'s articles)' : 'Legacy (latest N articles)'}`);
+  }
   lines.push(`**Generated:** ${report.timestamp}`);
   lines.push(`**Duration:** ${report.performance.totalDurationFormatted}`);
   lines.push('');
@@ -181,7 +210,10 @@ export const generateMarkdownReport = (report) => {
   lines.push('');
   lines.push(`- **Model:** ${report.config.openaiModel}`);
   lines.push(`- **Max Feeds:** ${report.config.maxFeeds}`);
-  lines.push(`- **Max Items Per Feed:** ${report.config.maxItemsPerFeed}`);
+  lines.push(`- **Date Filter:** ${report.config.dateFilterEnabled ? 'Enabled (daily mode)' : 'Disabled (legacy mode)'}`);
+  if (!report.config.dateFilterEnabled) {
+    lines.push(`- **Max Items Per Feed:** ${report.config.maxItemsPerFeed}`);
+  }
   lines.push(`- **Concurrent Feeds:** ${report.config.maxConcurrentFeeds}`);
   lines.push(`- **Concurrent Items:** ${report.config.maxConcurrentItems}`);
   lines.push(`- **Full Article Fetch:** ${report.config.enableFullArticleFetch ? 'Enabled' : 'Disabled'}`);
@@ -190,10 +222,23 @@ export const generateMarkdownReport = (report) => {
   
   lines.push('## Feed Processing Summary');
   lines.push('');
-  lines.push(`- **Total Feeds:** ${report.feeds.total}`);
+  lines.push(`- **Total Feeds Checked:** ${report.feeds.total}`);
+  lines.push(`- **Feeds with Articles:** ${report.feeds.withArticles || 0}`);
   lines.push(`- **Successful:** ${report.feeds.successful}`);
   lines.push(`- **Failed:** ${report.feeds.failed}`);
   lines.push('');
+  
+  // Articles per feed breakdown
+  if (report.feeds.articlesPerFeed && Object.keys(report.feeds.articlesPerFeed).length > 0) {
+    lines.push('### Articles Per Feed');
+    lines.push('');
+    lines.push('| Feed | Articles |');
+    lines.push('|------|----------|');
+    for (const [feed, count] of Object.entries(report.feeds.articlesPerFeed).sort((a, b) => b[1] - a[1])) {
+      lines.push(`| ${feed} | ${count} |`);
+    }
+    lines.push('');
+  }
   
   if (report.feeds.errors.length > 0) {
     lines.push('### Feed Errors');
@@ -280,11 +325,23 @@ export const printReportSummary = (report) => {
   console.log('\n' + '='.repeat(60));
   console.log('EXECUTION SUMMARY');
   console.log('='.repeat(60));
+  
+  // Date info for daily digest mode
+  if (report.date) {
+    console.log(`Date: ${report.date.dateString}`);
+    console.log(`Mode: ${report.date.dateFilterEnabled ? 'Daily Digest' : 'Legacy'}`);
+  }
+  
   console.log(`Duration: ${report.performance.totalDurationFormatted}`);
-  console.log(`Feeds: ${report.feeds.successful}/${report.feeds.total} successful`);
-  console.log(`Items: ${report.items.successful}/${report.items.total} successful (${report.items.cached} from cache)`);
+  console.log(`Feeds Checked: ${report.feeds.total}`);
+  console.log(`Feeds with Articles: ${report.feeds.withArticles || 0}`);
+  console.log(`Articles Processed: ${report.items.successful}/${report.items.total} successful`);
+  
+  if (report.items.cached > 0) {
+    console.log(`  └─ From Cache: ${report.items.cached}`);
+  }
   if (report.items.failed > 0) {
-    console.log(`Failed Items: ${report.items.failed}`);
+    console.log(`  └─ Failed: ${report.items.failed}`);
   }
   if (report.feeds.failed > 0) {
     console.log(`Failed Feeds: ${report.feeds.failed}`);

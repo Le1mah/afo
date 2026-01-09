@@ -11,12 +11,19 @@ import { generateMultiLayerDigest, formatDigestForFeed, generateItemHash } from 
 import {
   createReportCollector,
   recordFeedResult,
+  recordFeedArticles,
   recordItemResult,
   finalizeReport,
   saveReports,
   printReportSummary,
 } from './reporting.js';
 import { retryOnError } from './retry.js';
+import {
+  filterTodayArticles,
+  getTodayInfo,
+  formatDateForTitle,
+  formatDateForId,
+} from './date-filter.js';
 
 loadEnvFile();
 
@@ -257,7 +264,192 @@ const fetchFeedEntries = async (feed) => {
 };
 
 /**
- * Build Atom feed XML
+ * Group digests by source feed
+ * @param {Array} digests - Array of digests
+ * @returns {Object} Digests grouped by feed title
+ */
+const groupDigestsByFeed = (digests) => {
+  const grouped = {};
+  
+  for (const digest of digests) {
+    const feedTitle = digest.sourceTitle || 'Unknown Feed';
+    if (!grouped[feedTitle]) {
+      grouped[feedTitle] = [];
+    }
+    grouped[feedTitle].push(digest);
+  }
+  
+  // Sort feeds alphabetically
+  const sortedFeeds = Object.keys(grouped).sort();
+  const result = {};
+  for (const feed of sortedFeeds) {
+    // Sort articles within each feed by publish time (newest first)
+    result[feed] = grouped[feed].sort((a, b) => {
+      const dateA = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
+      const dateB = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
+      return dateB - dateA;
+    });
+  }
+  
+  return result;
+};
+
+/**
+ * Format a single article for the daily digest HTML
+ * @param {Object} digest - Article digest
+ * @returns {string} HTML for the article
+ */
+const formatArticleHtml = (digest) => {
+  const lines = [];
+  
+  // Article title with link
+  const title = digest.title || 'Untitled';
+  const link = digest.link || '';
+  lines.push(`<h3 style="margin: 16px 0 8px 0; color: #333;">▸ <a href="${link}" style="color: #0066cc; text-decoration: none;">${escapeHtml(title)}</a></h3>`);
+  
+  // One-line summary
+  if (digest.digests?.oneLine) {
+    lines.push(`<p style="margin: 4px 0; font-weight: bold; color: #555;">💡 ${escapeHtml(digest.digests.oneLine)}</p>`);
+  }
+  
+  // Overall summary
+  if (digest.digests?.overall) {
+    lines.push(`<p style="margin: 8px 0; color: #444; line-height: 1.6;">${escapeHtml(digest.digests.overall)}</p>`);
+  }
+  
+  // Paragraph summaries (collapsible)
+  if (digest.digests?.paragraphs && digest.digests.paragraphs.length > 0) {
+    lines.push(`<details style="margin: 8px 0;">`);
+    lines.push(`<summary style="cursor: pointer; color: #666;">📝 关键要点 (${digest.digests.paragraphs.length} sections)</summary>`);
+    lines.push(`<ul style="margin: 8px 0; padding-left: 20px; color: #555;">`);
+    for (const p of digest.digests.paragraphs) {
+      const title = p.title && p.title !== `Section ${p.index + 1}` ? `<strong>${escapeHtml(p.title)}:</strong> ` : '';
+      lines.push(`<li style="margin: 4px 0;">${title}${escapeHtml(p.summary)}</li>`);
+    }
+    lines.push(`</ul>`);
+    lines.push(`</details>`);
+  }
+  
+  return lines.join('\n');
+};
+
+/**
+ * Escape HTML special characters
+ * @param {string} str - String to escape
+ * @returns {string} Escaped string
+ */
+const escapeHtml = (str) => {
+  if (!str) return '';
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
+};
+
+/**
+ * Format the daily digest as HTML
+ * @param {Object} groupedDigests - Digests grouped by feed
+ * @param {string} dateString - Formatted date string
+ * @returns {string} HTML content
+ */
+const formatDailyDigestHtml = (groupedDigests, dateString) => {
+  const feedNames = Object.keys(groupedDigests);
+  const totalArticles = feedNames.reduce((sum, f) => sum + groupedDigests[f].length, 0);
+  
+  const lines = [];
+  
+  // Header
+  lines.push(`<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">`);
+  lines.push(`<h1 style="border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;">📰 Daily Digest - ${escapeHtml(dateString)}</h1>`);
+  lines.push(`<p style="color: #666; margin-bottom: 20px;">Found <strong>${totalArticles}</strong> articles from <strong>${feedNames.length}</strong> feeds</p>`);
+  
+  // Each feed section
+  for (const feedTitle of feedNames) {
+    const articles = groupedDigests[feedTitle];
+    
+    lines.push(`<hr style="border: none; border-top: 2px solid #ddd; margin: 24px 0;" />`);
+    lines.push(`<h2 style="color: #444; margin: 16px 0;">📰 ${escapeHtml(feedTitle)} <span style="color: #888; font-size: 0.8em; font-weight: normal;">(${articles.length} article${articles.length > 1 ? 's' : ''})</span></h2>`);
+    
+    for (const digest of articles) {
+      lines.push(formatArticleHtml(digest));
+    }
+  }
+  
+  // Footer
+  lines.push(`<hr style="border: none; border-top: 2px solid #ddd; margin: 24px 0;" />`);
+  lines.push(`<p style="color: #888; font-size: 0.9em; text-align: center;">Generated by AFO Feed Digest</p>`);
+  lines.push(`</div>`);
+  
+  return lines.join('\n');
+};
+
+/**
+ * Build daily digest Atom feed XML (single entry)
+ * @param {Object} groupedDigests - Digests grouped by feed
+ * @returns {string} Atom XML
+ */
+const buildDailyDigestFeed = (groupedDigests) => {
+  const dateString = formatDateForTitle();
+  const dateId = formatDateForId();
+  const htmlContent = formatDailyDigestHtml(groupedDigests, dateString);
+  
+  const feedNames = Object.keys(groupedDigests);
+  const totalArticles = feedNames.reduce((sum, f) => sum + groupedDigests[f].length, 0);
+  
+  const title = config.includeDateInTitle 
+    ? `${config.channelTitle} - ${dateString}`
+    : config.channelTitle;
+  
+  const atomObject = {
+    '?xml': {
+      '@_version': '1.0',
+      '@_encoding': 'UTF-8',
+    },
+    feed: {
+      '@_xmlns': 'http://www.w3.org/2005/Atom',
+      title: config.channelTitle,
+      link: [
+        { '@_href': config.channelLink, '@_rel': 'alternate' },
+        { '@_href': config.channelLink, '@_rel': 'self' },
+      ],
+      id: config.channelLink,
+      updated: new Date().toISOString(),
+      subtitle: config.channelDescription,
+      entry: {
+        title: title,
+        link: {
+          '@_href': config.channelLink,
+          '@_rel': 'alternate',
+        },
+        id: `daily-digest-${dateId}`,
+        updated: new Date().toISOString(),
+        published: new Date().toISOString(),
+        author: {
+          name: 'AFO Feed Digest',
+        },
+        summary: `${totalArticles} articles from ${feedNames.length} feeds`,
+        content: {
+          '@_type': 'html',
+          '#text': htmlContent,
+        },
+      },
+    },
+  };
+  
+  const builder = new XMLBuilder({
+    ignoreAttributes: false,
+    format: true,
+    suppressEmptyNode: true,
+    attributeNamePrefix: '@_',
+  });
+  
+  return builder.build(atomObject);
+};
+
+/**
+ * Build Atom feed XML (legacy mode - multiple entries)
  */
 const buildAtomFeed = (digests) => {
   const atomObject = {
@@ -354,6 +546,15 @@ export const main = async () => {
   console.log('🚀 Starting AFO Feed Digest');
   console.log(`📝 API Key: ${apiKey.slice(0, 7)}...${apiKey.slice(-4)} (${apiKey.length} chars)`);
   
+  // Show date filter info
+  if (config.dateFilterEnabled) {
+    const todayInfo = getTodayInfo();
+    console.log(`📅 Daily Digest Mode: ${todayInfo.dateString}`);
+    console.log(`   Date Range (UTC): ${todayInfo.start} to ${todayInfo.end}`);
+  } else {
+    console.log(`📅 Legacy Mode: Processing latest ${config.maxItemsPerFeed} items per feed`);
+  }
+  
   const openai = new OpenAI({
     apiKey,
     baseURL: config.openaiBaseUrl || undefined,
@@ -366,88 +567,108 @@ export const main = async () => {
   const feeds = await loadFeedDefinitions();
   const limitedFeeds = feeds.slice(0, config.maxFeeds);
   
-  console.log(`Processing ${limitedFeeds.length} feeds (max: ${config.maxFeeds})`);
+  console.log(`\nProcessing ${limitedFeeds.length} feeds (max: ${config.maxFeeds})`);
   
-  const feedLimit = pLimit(config.maxConcurrentFeeds);
   const digests = [];
+  let totalTodayArticles = 0;
+  let feedsWithArticles = 0;
   
-  // Process feeds with concurrency control
-  await Promise.all(
-    limitedFeeds.map((feed) =>
-      feedLimit(async () => {
+  // Process feeds sequentially for better control and logging
+  for (const feed of limitedFeeds) {
+    try {
+      console.log(`\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`);
+      console.log(`📰 Processing feed: ${feed.title}`);
+      
+      const entries = await fetchFeedEntries(feed);
+      
+      // Apply date filter if enabled
+      let entriesToProcess;
+      if (config.dateFilterEnabled) {
+        entriesToProcess = filterTodayArticles(entries);
+        console.log(`  📅 Found ${entriesToProcess.length} articles from today (${entries.length} total)`);
+      } else {
+        entriesToProcess = entries.slice(0, config.maxItemsPerFeed);
+        console.log(`  📄 Processing ${entriesToProcess.length} latest articles`);
+      }
+      
+      if (!entriesToProcess.length) {
+        console.log(`  ⏭️  No articles to process, skipping feed`);
+        recordFeedResult(report, true, null, feed.title);
+        continue;
+      }
+      
+      feedsWithArticles++;
+      totalTodayArticles += entriesToProcess.length;
+      recordFeedArticles(report, feed.title, entriesToProcess.length);
+      
+      // Process each article
+      for (let i = 0; i < entriesToProcess.length; i++) {
+        const item = entriesToProcess[i];
+        const itemStartTime = Date.now();
+        
         try {
-          console.log(`\nProcessing feed: ${feed.title}`);
-          const entries = await fetchFeedEntries(feed);
-          const limitedEntries = entries.slice(0, config.maxItemsPerFeed);
-          
-          if (!limitedEntries.length) {
-            console.warn(`Feed "${feed.title}" returned no entries to process.`);
-            recordFeedResult(report, true, null, feed.title);
-            return;
-          }
-          
-          console.log(`  Found ${limitedEntries.length} items to process`);
-          
-          // Process items with concurrency control
-          const itemLimit = pLimit(config.maxConcurrentItems);
-          const itemResults = [];
-          
-          for (let i = 0; i < limitedEntries.length; i++) {
-            const item = limitedEntries[i];
-            const itemStartTime = Date.now();
-            
-            try {
-              console.log(`  Processing: ${item.title}`);
-              const digest = await generateMultiLayerDigest(openai, item);
-              digests.push(digest);
-              const processingTime = Date.now() - itemStartTime;
-              recordItemResult(report, 'success', processingTime, null, item.title);
-              console.log(`  ✓ Completed in ${processingTime}ms`);
-            } catch (error) {
-              console.error(`  ✗ Failed to process "${item.title}":`, error.message);
-              recordItemResult(report, 'failed', Date.now() - itemStartTime, error, item.title);
-            }
-            
-            // Delay between items (if configured)
-            if (config.delayBetweenItemsMs > 0 && i < limitedEntries.length - 1) {
-              console.log(`  ⏳ Waiting ${config.delayBetweenItemsMs}ms before next item...`);
-              await new Promise(resolve => setTimeout(resolve, config.delayBetweenItemsMs));
-            }
-          }
-          
-          recordFeedResult(report, true, null, feed.title);
-          
-          // Delay between feeds (if configured)
-          if (config.delayBetweenFeedsMs > 0) {
-            console.log(`⏳ Waiting ${config.delayBetweenFeedsMs}ms before next feed...`);
-            await new Promise(resolve => setTimeout(resolve, config.delayBetweenFeedsMs));
-          }
+          console.log(`  [${i + 1}/${entriesToProcess.length}] ${item.title}`);
+          const digest = await generateMultiLayerDigest(openai, item);
+          digests.push(digest);
+          const processingTime = Date.now() - itemStartTime;
+          recordItemResult(report, 'success', processingTime, null, item.title);
+          console.log(`      ✓ Completed in ${processingTime}ms`);
         } catch (error) {
-          console.error(`Failed to process feed "${feed.title}" (${feed.xmlUrl}):`, error.message);
-          recordFeedResult(report, false, error, feed.title);
+          console.error(`      ✗ Failed: ${error.message}`);
+          recordItemResult(report, 'failed', Date.now() - itemStartTime, error, item.title);
         }
-      })
-    )
-  );
+        
+        // Delay between items (if configured) - applies after EVERY item including last
+        if (config.delayBetweenItemsMs > 0) {
+          await new Promise(resolve => setTimeout(resolve, config.delayBetweenItemsMs));
+        }
+      }
+      
+      recordFeedResult(report, true, null, feed.title);
+      
+      // Delay between feeds (if configured) - adds to item delay for finer rate control
+      if (config.delayBetweenFeedsMs > 0) {
+        await new Promise(resolve => setTimeout(resolve, config.delayBetweenFeedsMs));
+      }
+      
+    } catch (error) {
+      console.error(`  ❌ Failed to process feed: ${error.message}`);
+      recordFeedResult(report, false, error, feed.title);
+    }
+  }
+  
+  console.log(`\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`);
   
   if (!digests.length) {
-    console.warn('No digests were generated; skipping feed creation.');
+    console.warn('📭 No articles found for today. No digest generated.');
     const finalReport = finalizeReport(report);
     await saveReports(finalReport);
     printReportSummary(finalReport);
     return;
   }
   
-  // Sort digests by published date (newest first)
-  digests.sort((a, b) => {
-    const dateA = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
-    const dateB = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
-    return dateB - dateA;
-  });
+  console.log(`\n📊 Summary: ${digests.length} articles from ${feedsWithArticles} feeds`);
   
-  const atomXml = buildAtomFeed(digests);
+  // Build output based on mode
+  let atomXml;
+  if (config.dateFilterEnabled) {
+    // Daily digest mode: single entry grouped by feed
+    const groupedDigests = groupDigestsByFeed(digests);
+    atomXml = buildDailyDigestFeed(groupedDigests);
+    console.log(`\n✓ Generated daily digest with ${Object.keys(groupedDigests).length} feed sections`);
+  } else {
+    // Legacy mode: individual entries
+    digests.sort((a, b) => {
+      const dateA = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
+      const dateB = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
+      return dateB - dateA;
+    });
+    atomXml = buildAtomFeed(digests);
+    console.log(`\n✓ Generated feed with ${digests.length} individual entries`);
+  }
+  
   await writeOutput(config.outputFeed, atomXml);
-  console.log(`\n✓ Wrote ${digests.length} digests to ${config.outputFeed}`);
+  console.log(`✓ Wrote output to ${config.outputFeed}`);
   
   const finalReport = finalizeReport(report);
   await saveReports(finalReport);

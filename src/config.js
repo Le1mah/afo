@@ -72,6 +72,11 @@ export const config = {
   enableFullArticleFetch: parseBoolean(process.env.ENABLE_FULL_ARTICLE_FETCH, true),
   enableDigestCache: parseBoolean(process.env.ENABLE_DIGEST_CACHE, true),
   enableReporting: parseBoolean(process.env.ENABLE_REPORTING, true),
+
+  // Daily Digest Mode
+  dateFilterEnabled: parseBoolean(process.env.DATE_FILTER_ENABLED, true),
+  includeDateInTitle: parseBoolean(process.env.INCLUDE_DATE_IN_TITLE, true),
+  fallbackDays: parseNumber(process.env.FALLBACK_DAYS, 0), // 0 = no fallback, just skip
 };
 
 // Derived values

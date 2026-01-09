@@ -44,6 +44,15 @@ jobs:
           echo "  ENABLE_DIGEST_CACHE: ${ENABLE_DIGEST_CACHE:-not set}"
           echo "  ENABLE_REPORTING: ${ENABLE_REPORTING:-not set}"
           echo ""
+          echo "📅 Daily Digest Mode:"
+          echo "  DATE_FILTER_ENABLED: ${DATE_FILTER_ENABLED:-not set (default: true)}"
+          echo "  INCLUDE_DATE_IN_TITLE: ${INCLUDE_DATE_IN_TITLE:-not set (default: true)}"
+          echo "  FALLBACK_DAYS: ${FALLBACK_DAYS:-not set (default: 0)}"
+          echo ""
+          echo "⏱️ Delays:"
+          echo "  DELAY_BETWEEN_ITEMS_MS: ${DELAY_BETWEEN_ITEMS_MS:-not set}"
+          echo "  DELAY_BETWEEN_FEEDS_MS: ${DELAY_BETWEEN_FEEDS_MS:-not set}"
+          echo ""
           echo "📝 Feed Metadata:"
           echo "  SUMMARY_FEED_TITLE: ${SUMMARY_FEED_TITLE:-not set}"
           echo "  SUMMARY_FEED_LINK: ${SUMMARY_FEED_LINK:-not set}"
@@ -58,6 +67,11 @@ jobs:
           MAX_CONCURRENT_ITEMS: ${{ vars.MAX_CONCURRENT_ITEMS }}
           MAX_RETRIES: ${{ vars.MAX_RETRIES }}
           RATE_LIMIT_DELAY_MS: ${{ vars.RATE_LIMIT_DELAY_MS }}
+          DELAY_BETWEEN_ITEMS_MS: ${{ vars.DELAY_BETWEEN_ITEMS_MS }}
+          DELAY_BETWEEN_FEEDS_MS: ${{ vars.DELAY_BETWEEN_FEEDS_MS }}
+          DATE_FILTER_ENABLED: ${{ vars.DATE_FILTER_ENABLED }}
+          INCLUDE_DATE_IN_TITLE: ${{ vars.INCLUDE_DATE_IN_TITLE }}
+          FALLBACK_DAYS: ${{ vars.FALLBACK_DAYS }}
           ENABLE_FULL_ARTICLE_FETCH: ${{ vars.ENABLE_FULL_ARTICLE_FETCH }}
           ENABLE_DIGEST_CACHE: ${{ vars.ENABLE_DIGEST_CACHE }}
           ENABLE_REPORTING: ${{ vars.ENABLE_REPORTING }}
@@ -76,6 +90,11 @@ jobs:
           MAX_CONCURRENT_ITEMS: ${{ vars.MAX_CONCURRENT_ITEMS }}
           MAX_RETRIES: ${{ vars.MAX_RETRIES }}
           RATE_LIMIT_DELAY_MS: ${{ vars.RATE_LIMIT_DELAY_MS }}
+          DELAY_BETWEEN_ITEMS_MS: ${{ vars.DELAY_BETWEEN_ITEMS_MS }}
+          DELAY_BETWEEN_FEEDS_MS: ${{ vars.DELAY_BETWEEN_FEEDS_MS }}
+          DATE_FILTER_ENABLED: ${{ vars.DATE_FILTER_ENABLED }}
+          INCLUDE_DATE_IN_TITLE: ${{ vars.INCLUDE_DATE_IN_TITLE }}
+          FALLBACK_DAYS: ${{ vars.FALLBACK_DAYS }}
           ENABLE_FULL_ARTICLE_FETCH: ${{ vars.ENABLE_FULL_ARTICLE_FETCH }}
           ENABLE_DIGEST_CACHE: ${{ vars.ENABLE_DIGEST_CACHE }}
           ENABLE_REPORTING: ${{ vars.ENABLE_REPORTING }}
