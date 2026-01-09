@@ -565,49 +565,62 @@ export const main = async () => {
   
   const report = createReportCollector();
   const feeds = await loadFeedDefinitions();
-  const limitedFeeds = feeds.slice(0, config.maxFeeds);
-  
-  console.log(`\nProcessing ${limitedFeeds.length} feeds (max: ${config.maxFeeds})`);
   
   const digests = [];
   let totalTodayArticles = 0;
   let feedsWithArticles = 0;
   
-  // Process feeds sequentially for better control and logging
-  for (const feed of limitedFeeds) {
-    try {
-      console.log(`\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`);
-      console.log(`📰 Processing feed: ${feed.title}`);
-      
-      const entries = await fetchFeedEntries(feed);
-      
-      // Apply date filter if enabled
-      let entriesToProcess;
-      if (config.dateFilterEnabled) {
-        entriesToProcess = filterTodayArticles(entries);
-        console.log(`  📅 Found ${entriesToProcess.length} articles from today (${entries.length} total)`);
-      } else {
-        entriesToProcess = entries.slice(0, config.maxItemsPerFeed);
-        console.log(`  📄 Processing ${entriesToProcess.length} latest articles`);
-      }
-      
-      if (!entriesToProcess.length) {
-        console.log(`  ⏭️  No articles to process, skipping feed`);
+  if (config.dateFilterEnabled) {
+    // Daily Digest Mode: First scan all feeds for today's articles, then limit
+    console.log(`\n🔍 Scanning ${feeds.length} feeds for today's articles...`);
+    
+    const feedsWithTodayArticles = [];
+    
+    for (const feed of feeds) {
+      try {
+        const entries = await fetchFeedEntries(feed);
+        const todayEntries = filterTodayArticles(entries);
+        
+        if (todayEntries.length > 0) {
+          feedsWithTodayArticles.push({
+            feed,
+            entries: todayEntries,
+          });
+          console.log(`  ✓ ${feed.title}: ${todayEntries.length} article(s) today`);
+        }
+        
         recordFeedResult(report, true, null, feed.title);
-        continue;
+      } catch (error) {
+        console.error(`  ✗ ${feed.title}: ${error.message}`);
+        recordFeedResult(report, false, error, feed.title);
       }
+    }
+    
+    console.log(`\n📊 Found ${feedsWithTodayArticles.length} feeds with articles today`);
+    
+    // Apply MAX_FEEDS limit to feeds WITH articles
+    const limitedFeedsWithArticles = feedsWithTodayArticles.slice(0, config.maxFeeds);
+    
+    if (limitedFeedsWithArticles.length < feedsWithTodayArticles.length) {
+      console.log(`📋 Processing ${limitedFeedsWithArticles.length} feeds (limited by MAX_FEEDS=${config.maxFeeds})`);
+    }
+    
+    // Process the feeds with articles
+    for (const { feed, entries } of limitedFeedsWithArticles) {
+      console.log(`\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`);
+      console.log(`📰 Processing: ${feed.title} (${entries.length} articles)`);
       
       feedsWithArticles++;
-      totalTodayArticles += entriesToProcess.length;
-      recordFeedArticles(report, feed.title, entriesToProcess.length);
+      totalTodayArticles += entries.length;
+      recordFeedArticles(report, feed.title, entries.length);
       
       // Process each article
-      for (let i = 0; i < entriesToProcess.length; i++) {
-        const item = entriesToProcess[i];
+      for (let i = 0; i < entries.length; i++) {
+        const item = entries[i];
         const itemStartTime = Date.now();
         
         try {
-          console.log(`  [${i + 1}/${entriesToProcess.length}] ${item.title}`);
+          console.log(`  [${i + 1}/${entries.length}] ${item.title}`);
           const digest = await generateMultiLayerDigest(openai, item);
           digests.push(digest);
           const processingTime = Date.now() - itemStartTime;
@@ -618,22 +631,75 @@ export const main = async () => {
           recordItemResult(report, 'failed', Date.now() - itemStartTime, error, item.title);
         }
         
-        // Delay between items (if configured) - applies after EVERY item including last
+        // Delay between items (if configured)
         if (config.delayBetweenItemsMs > 0) {
           await new Promise(resolve => setTimeout(resolve, config.delayBetweenItemsMs));
         }
       }
       
-      recordFeedResult(report, true, null, feed.title);
-      
-      // Delay between feeds (if configured) - adds to item delay for finer rate control
+      // Delay between feeds (if configured)
       if (config.delayBetweenFeedsMs > 0) {
         await new Promise(resolve => setTimeout(resolve, config.delayBetweenFeedsMs));
       }
-      
-    } catch (error) {
-      console.error(`  ❌ Failed to process feed: ${error.message}`);
-      recordFeedResult(report, false, error, feed.title);
+    }
+  } else {
+    // Legacy Mode: Limit feeds first, then process latest items
+    const limitedFeeds = feeds.slice(0, config.maxFeeds);
+    console.log(`\nProcessing ${limitedFeeds.length} feeds (max: ${config.maxFeeds})`);
+    
+    for (const feed of limitedFeeds) {
+      try {
+        console.log(`\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`);
+        console.log(`📰 Processing feed: ${feed.title}`);
+        
+        const entries = await fetchFeedEntries(feed);
+        const entriesToProcess = entries.slice(0, config.maxItemsPerFeed);
+        console.log(`  📄 Processing ${entriesToProcess.length} latest articles`);
+        
+        if (!entriesToProcess.length) {
+          console.log(`  ⏭️  No articles to process, skipping feed`);
+          recordFeedResult(report, true, null, feed.title);
+          continue;
+        }
+        
+        feedsWithArticles++;
+        totalTodayArticles += entriesToProcess.length;
+        recordFeedArticles(report, feed.title, entriesToProcess.length);
+        
+        // Process each article
+        for (let i = 0; i < entriesToProcess.length; i++) {
+          const item = entriesToProcess[i];
+          const itemStartTime = Date.now();
+          
+          try {
+            console.log(`  [${i + 1}/${entriesToProcess.length}] ${item.title}`);
+            const digest = await generateMultiLayerDigest(openai, item);
+            digests.push(digest);
+            const processingTime = Date.now() - itemStartTime;
+            recordItemResult(report, 'success', processingTime, null, item.title);
+            console.log(`      ✓ Completed in ${processingTime}ms`);
+          } catch (error) {
+            console.error(`      ✗ Failed: ${error.message}`);
+            recordItemResult(report, 'failed', Date.now() - itemStartTime, error, item.title);
+          }
+          
+          // Delay between items (if configured)
+          if (config.delayBetweenItemsMs > 0) {
+            await new Promise(resolve => setTimeout(resolve, config.delayBetweenItemsMs));
+          }
+        }
+        
+        recordFeedResult(report, true, null, feed.title);
+        
+        // Delay between feeds (if configured)
+        if (config.delayBetweenFeedsMs > 0) {
+          await new Promise(resolve => setTimeout(resolve, config.delayBetweenFeedsMs));
+        }
+        
+      } catch (error) {
+        console.error(`  ❌ Failed to process feed: ${error.message}`);
+        recordFeedResult(report, false, error, feed.title);
+      }
     }
   }
   
