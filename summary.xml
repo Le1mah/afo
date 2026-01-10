@@ -4,8 +4,85 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-01-09T20:12:13.396Z</updated>
+  <updated>2026-01-10T20:06:07.355Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - January 10, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-01-10</id>
+    <updated>2026-01-10T20:06:07.355Z</updated>
+    <published>2026-01-10T20:06:07.355Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>6 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 10, 2026&lt;/h1&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;6&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/why-my-nfc-passport-didnt-work-at-heathrows-egates/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Why my NFC passport didn&amp;#039;t work at Heathrow&amp;#039;s eGates&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 NFC戒指导致护照门读取失败&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了一个有趣的发现：在希思罗机场使用电子护照门时屡次失败的原因，竟然是右手佩戴的NFC戒指。通过实验对比，作者发现用左手（只戴普通婚戒）按住护照就能成功通过，而用右手（戴NFC戒指）则会失败。这是因为电子护照门只期待接收一个NFC信号响应，NFC戒指与护照芯片产生了信号冲突（card clash）。作者提醒佩戴NFC设备的旅客注意这一问题，并指出其他国家的电子门因为自动拉入护照的设计避免了这个问题。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者经常旅行，护照通常能顺利通过各国边检，但在希思罗机场使用电子门时总是被拒绝，需要寻求边检人员帮助。边检人员表示护照没有问题，这种情况只在希思罗发生。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在多次失败后决定测试一个理论：换了一个门，用左手按住护照，这次成功通过了。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分析差异在于右手戴着NFC戒指，左手只戴普通婚戒。电子护照门只期待一个NFC响应，作者的NFC戒指造成了信号冲突。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;大多数其他国家的电子门会自动拉入护照，不需要手按住，所以不会遇到这个问题。作者提醒佩戴NFC戒指或植入NFC芯片的人注意可能造成的卡片冲突。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-10T12:53Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-10T12:53Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple强制收费认证导致开源软件被macOS封杀&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章批评了Apple的软件认证政策及其对开源生态的影响。Homebrew包管理器开始移除未支付Apple年费99美元认证费的软件，导致如Alacritty等应用在macOS上被阻止运行。虽然用户目前可以通过设置绕过限制，但作者认为这是Apple的「安全剧场」，实质是收取保护费。文章指出macOS正在效仿iOS的封闭模式，逐步限制用户的软件自由，让用户只能使用Apple认为有利可图的软件。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Homebrew包管理器正在移除未支付Apple认证费用的软件，Apple每年收取99美元用于签名和在应用商店列出软件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;如果开发者拒绝支付费用，macOS会拒绝打开应用程序，显示无法验证该应用不含恶意软件的警告。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前macOS用户可以通过设置中的选项绕过此限制，但Apple正在逐步将macOS向iOS的封闭生态系统转变，限制软件自由。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-10T10:04Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-10T10:04Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 批评主流媒体假借反抗之名行监控之实&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是对Wired.com的严厉批评,引用Heather Burns的观点指出该媒体打着为读者提供反抗建议的旗号,实际却在为可能伤害读者的势力收集信息。文章警告人们远离大型主流媒体,并建议避免使用Chrome浏览器,因为Google是在线追踪的最大推手。作者呼吁使用各种广告拦截工具,不要被那些抱怨广告收入下降的人进行道德绑架,因为是他们将广告与追踪捆绑并建立了基于滥用用户的商业模式。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-10T09:32Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-10T09:32Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Polypane基于Electron构建令人惊讶&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在阅读Polypane博客关于浏览器API的文章时,意外发现Polypane竟然是基于Electron构建的应用,这让作者感到震惊。作者原本以为Polypane是纯粹的Chromium浏览器,但使用Electron来构建浏览器的做法令人着迷。作者表示从未使用过Polypane但应该尝试一下,并对Kilian Valkhof关于如何构建自己浏览器的博客表示兴趣,同时希望Polypane能开源以便深入研究这一创新实现。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 好色龍的網路生活觀察日誌 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://hornydragon.blogspot.com/feeds/2589588061649235425/comments/default&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;雜七雜八短篇漫畫翻譯2221&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博客漫画翻译文章的幽默评论互动&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇博客评论页面的内容，包含对一篇名为《雜七雜八短篇漫畫翻譯2221》的文章的评论。评论者HankCharath发表了一条简短的评论，提到了睡相不好需要绑起来的玩笑话，并引用了圣诞歌曲《Rudolph the Red-Nosed Reindeer》，最后用多个w表示笑声。这是典型的轻松幽默的网络社区互动内容。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105308&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;丢掉遥控器，寻找生命感：这是我的 Vbot「大头」机器狗使用体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Vbot大头机器狗首测:具备生命感的智能家用机器人&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Vbot大头家用机器狗的全网首测评测。大头采用仿生外观设计,重14kg,具备优秀的运动性能(最高18km/h)和3-6小时续航。硬件方面搭载16线激光雷达、双目深度摄像头和128 TOPS AI算力芯片。核心亮点包括领航、跟随、导航、牵引四大模式,通过UWB信令和视觉感知实现精准交互,无需遥控器即可完成复杂任务。产品支持负载10kg的扩展板,可安装相机进行跟拍。最具创新性的是Avatar替身功能和基于思维链的生命感表现,大头能自主决策、识别环境并做出符合生物直觉的动作。评测者认为这是一款完成度极高的下一代家用机器人,将未来体验带入当下,展现了机器人从工具到伙伴的转变。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍Vbot大头机器人的评测内容框架,包括外观设计、运动性能、硬件规格、感知能力等方面,强调这是一款超出预期的下一代家用机器人产品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细描述大头的外观设计特点,包括尺寸(61×34×57cm)、重量(14kg)、弧线机身、喷粉工艺处理、关节限位和安全设计等,同时展示其对人类和动物的友好性及静音特性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示大头的运动性能和导航能力,能够通过复杂地形和各种台阶,最高速度18km/h,具备优秀的抗干扰能力和克制的调整策略以确保用户安全。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍硬件配置:续航3-6小时(594Wh电池)、Type-C或无线充电(最高240W)、16线激光雷达、双目深度摄像头、1080p图传、S100P芯片(128 TOPS算力)及四麦克风阵列。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细演示领航功能,类似遛狗体验,大头能自主感知障碍、寻路规划、在路口自主选择路线,用户可通过拉狗绳引导方向或让其停下,整体交互自然且仅依靠激光雷达和视觉感知。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍跟随模式和扩展功能,使用UWB信令实现精准跟随,配备可负载10kg的扩展板和筐,支持安装运动相机、云台等设备进行视频跟拍,UWB信令内置麦克风可避免环境噪音干扰。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;演示导航和牵引功能,导航需先建图后可通过语音指令到达指定地点,具备泛化能力和夜间导航能力,无需手动设置位置信息;牵引模式适用于复杂环境,可直接拉着大头行走。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明大头不需要遥控器的原因,但App中仍保留遥控选项作为安全冗余;重点介绍Avatar替身功能,可远程控制机器人本体并获得低延迟体验,以新视角与世界互动,带来纯粹的快乐。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍闻歌起舞功能,大头能识别音频波形并根据音乐节奏自动生成踩点动作,解决了传统机器狗舞蹈需手动控制播放时机的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;重点阐述大头的生命感来源:不可预测的自主决策能力和符合生物直觉的动作,通过思维链示例展示大头能自主寻找感兴趣的事物、做出抬头等自然动作、识别同类并主动与人互动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍空间Agent能力使大头能完成多步骤复杂任务;总结Vbot用现有技术实现了大量创新体验,产品完成度高、使用门槛低、细节打磨到位,让用户能沉浸在功能带来的神奇体验中。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;结尾表达对产品的高度认可,认为大头已超越尝鲜产品水平,是真正值得陪伴的机器人,感谢Vbot团队和北京林业大学Vlight Studio的支持。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - January 9, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
