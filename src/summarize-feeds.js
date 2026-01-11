@@ -146,6 +146,34 @@ const writeFeedCache = async (feedUrl, entries) => {
 };
 
 /**
+ * Format error details for logging
+ */
+const formatErrorDetails = (error) => {
+  const details = [];
+  
+  if (error.status) {
+    details.push(`HTTP ${error.status}`);
+    if (error.statusText) {
+      details.push(`(${error.statusText})`);
+    }
+  }
+  
+  if (error.contentType) {
+    details.push(`[${error.contentType}]`);
+  }
+  
+  if (error.contentLength) {
+    details.push(`[${error.contentLength} bytes]`);
+  }
+  
+  if (error.code) {
+    details.push(`[${error.code}]`);
+  }
+  
+  return details.length > 0 ? ` ${details.join(' ')}` : '';
+};
+
+/**
  * Pick a link from entry
  */
 const pickLink = (entry) => {
@@ -240,25 +268,69 @@ const fetchFeedEntries = async (feed) => {
     return cachedEntries;
   }
   
+  let lastError = null;
+  let responseInfo = null;
+  
   const feedData = await retryOnError(
     async () => {
-      return await extract(feed.xmlUrl, {
-        requestOptions: {
-          headers: {
-            'user-agent': 'afo-feed-summarizer/1.0 (+https://github.com/tenki/afo)',
+      try {
+        const result = await extract(feed.xmlUrl, {
+          requestOptions: {
+            headers: {
+              'user-agent': 'afo-feed-summarizer/1.0 (+https://github.com/tenki/afo)',
+            },
           },
-        },
-      });
+        });
+        
+        // Capture response info for logging
+        if (result.response) {
+          responseInfo = {
+            status: result.response.status,
+            statusText: result.response.statusText,
+            headers: result.response.headers,
+            contentLength: result.response.headers?.['content-length'] || 'unknown',
+          };
+        }
+        
+        return result;
+      } catch (error) {
+        lastError = error;
+        
+        // Enhance error with response info if available
+        if (error.response) {
+          error.status = error.response.status;
+          error.statusText = error.response.statusText;
+          error.contentLength = error.response.headers?.['content-length'] || 'unknown';
+          error.contentType = error.response.headers?.['content-type'] || 'unknown';
+        }
+        
+        throw error;
+      }
     },
     {
       onRetry: (error, attempt, delay) => {
-        console.warn(`Retry ${attempt} for feed ${feed.title} after ${delay}ms: ${error.message}`);
+        const errorDetails = formatErrorDetails(error);
+        console.warn(`Retry ${attempt} for feed ${feed.title} after ${delay}ms: ${error.message}${errorDetails}`);
       },
     }
   );
   
   const sourceTitle = feedData?.title || feed.title || feed.xmlUrl;
   const entries = (feedData?.entries ?? []).map((entry) => normalizeEntry(entry, sourceTitle));
+  
+  // Log success with response info
+  if (responseInfo) {
+    console.log(`  ✓ ${feed.title}: ${entries.length} article(s) [HTTP ${responseInfo.status}, ${responseInfo.contentLength} bytes]`);
+    
+    // Log content preview if verbose logging is enabled
+    if (config.enableVerboseFeedLogging && feedData.raw) {
+      const contentPreview = typeof feedData.raw === 'string' 
+        ? feedData.raw.substring(0, 300) 
+        : JSON.stringify(feedData.raw).substring(0, 300);
+      console.log(`    Content preview: ${contentPreview}${feedData.raw.length > 300 ? '...' : ''}`);
+    }
+  }
+  
   await writeFeedCache(feed.xmlUrl, entries);
   return entries;
 };
@@ -669,12 +741,21 @@ export const main = async () => {
             feed,
             entries: todayEntries,
           });
-          console.log(`  ✓ ${feed.title}: ${todayEntries.length} article(s) today`);
         }
         
         recordFeedResult(report, true, null, feed.title);
       } catch (error) {
-        console.error(`  ✗ ${feed.title}: ${error.message}`);
+        const errorDetails = formatErrorDetails(error);
+        console.error(`  ✗ ${feed.title}: ${error.message}${errorDetails}`);
+        
+        // Log content snippet for debugging (first 200 chars)
+        if (error.response && error.response.data) {
+          const contentSnippet = typeof error.response.data === 'string' 
+            ? error.response.data.substring(0, 200) 
+            : JSON.stringify(error.response.data).substring(0, 200);
+          console.error(`    Content preview: ${contentSnippet}${error.response.data.length > 200 ? '...' : ''}`);
+        }
+        
         recordFeedResult(report, false, error, feed.title);
       }
     }
@@ -780,7 +861,8 @@ export const main = async () => {
         }
         
       } catch (error) {
-        console.error(`  ❌ Failed to process feed: ${error.message}`);
+        const errorDetails = formatErrorDetails(error);
+        console.error(`  ❌ Failed to process feed: ${error.message}${errorDetails}`);
         recordFeedResult(report, false, error, feed.title);
       }
     }

@@ -72,6 +72,7 @@ export const config = {
   enableFullArticleFetch: parseBoolean(process.env.ENABLE_FULL_ARTICLE_FETCH, true),
   enableDigestCache: parseBoolean(process.env.ENABLE_DIGEST_CACHE, true),
   enableReporting: parseBoolean(process.env.ENABLE_REPORTING, true),
+  enableVerboseFeedLogging: parseBoolean(process.env.ENABLE_VERBOSE_FEED_LOGGING, false),
 
   // Daily Digest Mode
   dateFilterEnabled: parseBoolean(process.env.DATE_FILTER_ENABLED, true),

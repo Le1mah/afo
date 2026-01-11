@@ -83,20 +83,31 @@ export const retryWithBackoff = async (fn, options = {}) => {
  */
 export const isRetryableError = (error) => {
   // Network errors
-  if (error.code === 'ECONNRESET' || error.code === 'ETIMEDOUT' || error.code === 'ENOTFOUND') {
+  if (error.code === 'ECONNRESET' || error.code === 'ETIMEDOUT' || error.code === 'ENOTFOUND' || 
+      error.code === 'ECONNREFUSED' || error.code === 'EHOSTUNREACH' || error.code === 'EAI_AGAIN') {
     return true;
   }
   
   // HTTP status codes that should be retried
   if (error.status || error.statusCode) {
     const status = error.status || error.statusCode;
-    // Retry on 429 (rate limit), 500, 502, 503, 504
-    return status === 429 || (status >= 500 && status <= 504);
+    // Retry on 429 (rate limit), 500, 502, 503, 504, and also on timeouts
+    return status === 429 || status === 408 || (status >= 500 && status <= 504);
   }
   
   // OpenAI specific errors
   if (error.type === 'rate_limit_error' || error.type === 'server_error') {
     return true;
+  }
+  
+  // Socket errors
+  if (error.message && error.message.includes('socket hang up')) {
+    return true;
+  }
+  
+  // Certificate errors (might be temporary)
+  if (error.code === 'UNABLE_TO_VERIFY_LEAF_SIGNATURE' || error.code === 'CERT_HAS_EXPIRED') {
+    return false; // Don't retry certificate errors
   }
   
   return false;

@@ -84,7 +84,7 @@ Usage: node src/cli.js [options]
 
 Options:
   --dry-run              Process feeds but don't write output files
-  --verbose, -v          Show detailed logging and progress
+  --verbose, -v          Show detailed logging and progress (includes HTTP status, content length, error details)
   --debug                Enable debug mode (implies --verbose)
   --feed <url|index>     Process only a specific feed (by URL or index)
   --max-items <n>        Limit number of items per feed (overrides config)
@@ -143,6 +143,7 @@ const applyOptions = (options) => {
   
   if (options.verbose) {
     console.log('[CLI] Verbose mode enabled');
+    config.enableVerboseFeedLogging = true;
     console.log('[CLI] Current configuration:', {
       maxFeeds: config.maxFeeds,
       maxItemsPerFeed: config.maxItemsPerFeed,
@@ -151,6 +152,7 @@ const applyOptions = (options) => {
       openaiModel: config.openaiModel,
       enableFullArticleFetch: config.enableFullArticleFetch,
       digestCacheEnabled: config.digestCacheEnabled,
+      enableVerboseFeedLogging: config.enableVerboseFeedLogging,
     });
   }
   
