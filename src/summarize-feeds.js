@@ -24,6 +24,10 @@ import {
   formatDateForTitle,
   formatDateForId,
 } from './date-filter.js';
+import {
+  runExtensions,
+  formatExtensionSections,
+} from './extensions/index.js';
 
 loadEnvFile();
 
@@ -424,9 +428,10 @@ const escapeHtml = (str) => {
  * Format the daily digest as HTML
  * @param {Object} groupedDigests - Digests grouped by feed
  * @param {string} dateString - Formatted date string
+ * @param {string} extensionHtml - HTML from extensions (optional)
  * @returns {string} HTML content
  */
-const formatDailyDigestHtml = (groupedDigests, dateString) => {
+const formatDailyDigestHtml = (groupedDigests, dateString, extensionHtml = '') => {
   const feedNames = Object.keys(groupedDigests);
   const totalArticles = feedNames.reduce((sum, f) => sum + groupedDigests[f].length, 0);
   
@@ -435,6 +440,14 @@ const formatDailyDigestHtml = (groupedDigests, dateString) => {
   // Header
   lines.push(`<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">`);
   lines.push(`<h1 style="border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;">📰 Daily Digest - ${escapeHtml(dateString)}</h1>`);
+  
+  // Extension sections (before feeds)
+  if (extensionHtml) {
+    lines.push(extensionHtml);
+    lines.push(`<hr style="border: none; border-top: 2px solid #ddd; margin: 24px 0;" />`);
+  }
+  
+  // Feed summary
   lines.push(`<p style="color: #666; margin-bottom: 20px;">Found <strong>${totalArticles}</strong> articles from <strong>${feedNames.length}</strong> feeds</p>`);
   
   // Each feed section
@@ -527,12 +540,13 @@ const filterEntriesByRetention = (entries, retentionDays) => {
  * Build daily digest Atom feed XML with retention of previous entries
  * @param {Object} groupedDigests - Digests grouped by feed
  * @param {Array} previousEntries - Previous entries to retain
+ * @param {string} extensionHtml - HTML from extensions (optional)
  * @returns {string} Atom XML
  */
-const buildDailyDigestFeed = (groupedDigests, previousEntries = []) => {
+const buildDailyDigestFeed = (groupedDigests, previousEntries = [], extensionHtml = '') => {
   const dateString = formatDateForTitle();
   const dateId = formatDateForId();
-  const htmlContent = formatDailyDigestHtml(groupedDigests, dateString);
+  const htmlContent = formatDailyDigestHtml(groupedDigests, dateString, extensionHtml);
   
   const feedNames = Object.keys(groupedDigests);
   const totalArticles = feedNames.reduce((sum, f) => sum + groupedDigests[f].length, 0);
@@ -886,6 +900,10 @@ export const main = async () => {
     // Daily digest mode: single entry grouped by feed
     const groupedDigests = groupDigestsByFeed(digests);
     
+    // Run extensions
+    const extensionResults = await runExtensions({ date: new Date() });
+    const extensionHtml = formatExtensionSections(extensionResults);
+    
     // Read existing entries and apply retention
     console.log(`\n📂 Checking for previous digests (retention: ${config.digestRetentionDays} days)...`);
     const existingEntries = await readExistingFeedEntries();
@@ -897,8 +915,11 @@ export const main = async () => {
       console.log(`  No existing entries found (first run or new file)`);
     }
     
-    atomXml = buildDailyDigestFeed(groupedDigests, retainedEntries);
+    atomXml = buildDailyDigestFeed(groupedDigests, retainedEntries, extensionHtml);
     console.log(`\n✓ Generated daily digest with ${Object.keys(groupedDigests).length} feed sections`);
+    if (extensionResults.length > 0) {
+      console.log(`✓ Included ${extensionResults.length} extension(s): ${extensionResults.map(e => e.name).join(', ')}`);
+    }
     console.log(`✓ Feed now contains ${retainedEntries.length + 1} entries (today + ${retainedEntries.length} previous)`);
   } else {
     // Legacy mode: individual entries

@@ -7,3 +7,4 @@ npm-debug.log*
 reports/*.json
 reports/*.md
 !reports/.gitkeep
+extension-preview.html

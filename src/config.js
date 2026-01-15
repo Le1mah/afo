@@ -79,6 +79,10 @@ export const config = {
   includeDateInTitle: parseBoolean(process.env.INCLUDE_DATE_IN_TITLE, true),
   fallbackDays: parseNumber(process.env.FALLBACK_DAYS, 0), // 0 = no fallback, just skip
   digestRetentionDays: parseNumber(process.env.DIGEST_RETENTION_DAYS, 10), // Keep last N days of digests
+
+  // Extensions
+  extensionsEnabled: parseBoolean(process.env.EXTENSIONS_ENABLED, true),
+  extensionYearProgress: parseBoolean(process.env.EXTENSION_YEAR_PROGRESS, true),
 };
 
 // Derived values

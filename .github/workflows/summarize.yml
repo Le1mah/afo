@@ -50,6 +50,10 @@ jobs:
           echo "  FALLBACK_DAYS: ${FALLBACK_DAYS:-not set (default: 0)}"
           echo "  DIGEST_RETENTION_DAYS: ${DIGEST_RETENTION_DAYS:-not set (default: 10)}"
           echo ""
+          echo "🧩 Extensions:"
+          echo "  EXTENSIONS_ENABLED: ${EXTENSIONS_ENABLED:-not set (default: true)}"
+          echo "  EXTENSION_YEAR_PROGRESS: ${EXTENSION_YEAR_PROGRESS:-not set (default: true)}"
+          echo ""
           echo "⏱️ Delays:"
           echo "  DELAY_BETWEEN_ITEMS_MS: ${DELAY_BETWEEN_ITEMS_MS:-not set}"
           echo "  DELAY_BETWEEN_FEEDS_MS: ${DELAY_BETWEEN_FEEDS_MS:-not set}"
@@ -74,6 +78,8 @@ jobs:
           INCLUDE_DATE_IN_TITLE: ${{ vars.INCLUDE_DATE_IN_TITLE }}
           FALLBACK_DAYS: ${{ vars.FALLBACK_DAYS }}
           DIGEST_RETENTION_DAYS: ${{ vars.DIGEST_RETENTION_DAYS }}
+          EXTENSIONS_ENABLED: ${{ vars.EXTENSIONS_ENABLED }}
+          EXTENSION_YEAR_PROGRESS: ${{ vars.EXTENSION_YEAR_PROGRESS }}
           ENABLE_FULL_ARTICLE_FETCH: ${{ vars.ENABLE_FULL_ARTICLE_FETCH }}
           ENABLE_DIGEST_CACHE: ${{ vars.ENABLE_DIGEST_CACHE }}
           ENABLE_REPORTING: ${{ vars.ENABLE_REPORTING }}
@@ -98,6 +104,8 @@ jobs:
           INCLUDE_DATE_IN_TITLE: ${{ vars.INCLUDE_DATE_IN_TITLE }}
           FALLBACK_DAYS: ${{ vars.FALLBACK_DAYS }}
           DIGEST_RETENTION_DAYS: ${{ vars.DIGEST_RETENTION_DAYS }}
+          EXTENSIONS_ENABLED: ${{ vars.EXTENSIONS_ENABLED }}
+          EXTENSION_YEAR_PROGRESS: ${{ vars.EXTENSION_YEAR_PROGRESS }}
           ENABLE_FULL_ARTICLE_FETCH: ${{ vars.ENABLE_FULL_ARTICLE_FETCH }}
           ENABLE_DIGEST_CACHE: ${{ vars.ENABLE_DIGEST_CACHE }}
           ENABLE_REPORTING: ${{ vars.ENABLE_REPORTING }}

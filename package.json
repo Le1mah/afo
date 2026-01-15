@@ -8,7 +8,8 @@
     "parse:opml": "node src/opml.js",
     "test:local": "node src/cli.js",
     "test:content": "node src/test-content-fetcher.js",
-    "test:date-filter": "node src/test-date-filter.js"
+    "test:date-filter": "node src/test-date-filter.js",
+    "preview:extensions": "node src/extensions/preview.js"
   },
   "engines": {
     "node": ">=18"
