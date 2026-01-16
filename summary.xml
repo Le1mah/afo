@@ -4,8 +4,251 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-01-15T20:08:59.834Z</updated>
+  <updated>2026-01-16T20:13:48.882Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - January 16, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-01-16</id>
+    <updated>2026-01-16T20:13:48.882Z</updated>
+    <published>2026-01-16T20:13:48.882Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>12 articles from 9 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 16, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;17.534246575342465&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    4.4%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;16&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;349&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4.4%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;9&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-1-15/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.1.15&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 车没电在家办公顺便换电池的一天&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者记录了一次因车辆电瓶没电导致的意外在家办公经历。早上准备开车上班时发现2018年的硫酸电池已无法启动车辆,在向老板说明情况后被要求在家远程工作。作者一边参加线上会议一边处理车辆问题,网购了充电设备和新电池,下午成功充电后前往autozone更换了300美元的AGM电池。整个过程中作者展现出一种从容应对突发状况的态度,将工作与生活琐事巧妙平衡,最终顺利完成了一天的工作。文章用轻松幽默的笔调描述了都市打工人典型的一天。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;早上准备上班时发现车辆无法启动,电瓶没电了,尝试多次打火失败后开始寻找jump starter但没找到,只找到了maintainer但无法使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;向老板请假说明情况,老板让在家远程工作,于是在家参加会议的同时在网上订购延长线、jump starter和新电池,下午充电后开车去autozone换了新的AGM电池。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在autozone等待时与店员闲聊车辆状况,被提醒冷却液不足需要补充,换好电池开车回家后参加了一小时的大组会议,然后工作到五点下班。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/should-htmls-blocks-be-translated/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Should HTML&amp;#039;s code blocks be translated?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 探讨网站代码块自动翻译的技术挑战与解决方案&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文讨论了网站多语言翻译中代码块处理的技术难题。作者发现自动翻译工具会错误翻译代码关键词,导致代码失效。虽然HTML的translate属性可以标记不可翻译内容,但这带来新问题:代码注释是否应该翻译,以及翻译后注释与代码中变量名不一致是否合理。作者认为这反映了当前机器翻译算法的局限性——缺乏对页面整体和语义关联的理解能力。作为权衡方案,作者选择不翻译代码块但允许翻译注释,并希望听取读者意见。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在测试博客的从右到左文本渲染时发现,自动翻译工具会错误地翻译代码片段中的英文关键词,导致代码失效。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;HTML规范提供了translate属性来标记不应被翻译的内容,可以通过translate=&amp;quot;no&amp;quot;阻止代码块被翻译。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这种方法存在局限性:代码中的注释可能需要翻译以帮助理解,可以使用translate=&amp;quot;yes&amp;quot;单独标记注释部分使其可翻译。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;另一个复杂问题是,当注释被翻译后,变量名称在注释和代码中会出现不一致,这在不同场景下有不同的实用性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出当前机器翻译算法的局限在于缺乏对整个页面的全局理解和语义关联能力,目前采取代码块不翻译但允许注释翻译的策略。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Twokinds &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://twokinds.keenspot.com/comic/1280/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[1280] Blue Eyes&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网络漫画的导航和书签功能页面&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一个网络漫画导航页面，提供了漫画浏览的基本功能。页面包含标准的导航控件（首页、上一页、存档、下一页、最新页），支持键盘快捷键操作（方向键或J/K键），并允许用户为任意页面添加书签以便日后访问。页面还标注了相关角色标签包括Clovis、Madelyn、Mike和Evals，并提供RSS订阅和永久链接功能。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/01/15/the-integrated-explicit-analytic-number-theory-network/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The integrated explicit analytic number theory network&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 利用AI和形式化工具解决显式解析数论的计算更新难题&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章讨论了解析数论中使用渐近符号的便利性及其局限性,即许多结果仅在渐近意义上成立。显式解析数论虽明确所有常数,但因计算复杂、易出错且更新缓慢(数十年周期),导致研究者依赖过时文献。作者提出利用现代AI和形式化工具解决这一问题,启动了集成显式解析数论网络项目,包括在Lean中众包形式化相关结果,以及创建可自动传播数值影响的交互式电子表格。项目采用Github协调系统,按难度分级任务,允许AI辅助但需人工审核,旨在将繁琐计算任务自动化,同时探索AI生成形式化陈述的可能性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解析数论通常使用渐近符号表示结果,这使得论文更易于撰写和阅读,但代价是许多结果仅在渐近意义上成立,例如Vinogradov定理中的&amp;#039;足够大&amp;#039;阈值最初并未明确给出。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;显式解析数论致力于将所有常数完全明确化,虽然遵循类似证明策略,但需要大量细致的计算和数值优化,且依赖先前的显式结果,但已发表文献中的数值错误给下游应用带来了质疑。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于错误风险,更新显式解析数论结果以纳入计算改进需要数十年时间且仅由少数专家完成,导致作者常被迫依赖过时的论文,虽知可改进但缺乏专业知识来更新数值系数。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为这种情况适合应用现代AI和形式化工具,不是替代数学研究的乐趣,而是将极其繁琐但必要的数学任务外包给半自动或全自动工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者启动了集成显式解析数论网络项目,包含两个组件:一是在Lean中形式化相关显式解析数论结果的众包项目;二是在IPAM提取交互式&amp;#039;电子表格&amp;#039;,可添加或移除估计并自动传播数值影响。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;电子表格初期将改编自形式化论文中的论证,第二阶段计划使用AI工具修改这些论证以找到比源文献更高效的数值参数关系,目前欢迎对形式化方面的贡献。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;项目使用基于Github issues的系统协调,志愿者可认领任务并提交PR,蓝图将主要结果分解为可独立形式化的小引理,每个任务按XS到XL标注难度大小。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;项目允许使用AI完成证明形式化任务但需披露AI使用并由人工编辑代码,所有提交必须通过Lean的CI系统检查,项目也谨慎尝试让AI自动或半自动生成形式化陈述,并欢迎添加新论文的建议。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-16T06:35Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-16T06:35Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Svelte出现安全漏洞，反思JavaScript生态复杂性&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章讨论了Svelte生态系统最近出现的CVE安全漏洞问题，其中三个漏洞与实验性远程函数相关。作者批判性地分析了JavaScript生态系统存在的问题，包括快速迭代、同构JavaScript架构以及安全审计不足。文章强调大多数网站应采用静态方案，而非当前复杂的服务端渲染加客户端重建的模式，认为这种做法的成本远超其带来的价值，不应成为开发的默认选择。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Svelte生态系统出现了CVE漏洞，其严重程度需要受影响用户重视，五个漏洞中有三个需要启用实验性远程函数功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;JavaScript生态系统快速变化、同构JavaScript需求以及代码审计缺乏安全专业知识是导致问题的主要因素。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为大多数网站应该是静态的，当前主流的服务端渲染、组件打包和浏览器重建HTML的做法过于复杂，成本高于开发者预期，不应作为默认选择。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 好色龍的網路生活觀察日誌 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://hornydragon.blogspot.com/feeds/6740745779470933812/comments/default&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;雜七雜八短篇漫畫翻譯2227&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博客漫画翻译帖子的读者评论&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇博客评论文章,来自博客「好色龍的網路生活觀察日誌」中关于「雜七雜八短篇漫畫翻譯」的帖子评论区。评论者HankCharath发表了一条简短的评论,表达了对某个内容与预期不符的感受,并提到了「Dragon Car Sex」的相关内容。文章为中英混合的非正式评论文本,反映了网络社区中的即兴讨论氛围。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105504&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 11 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派编辑部推荐11部近期佳作及影视资讯汇总&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部推出的影视推荐栏目,精选了近期值得观看的11部作品,涵盖美剧、动画、电影、台剧、日剧等多种类型。重点推荐包括医疗剧《匹兹堡医护前线 第二季》、国产动画《中国奇谭 2》、日本动画《咒术回战》新季、韩国电影《3670》等。文章采用编辑部多位作者联合撰写的形式,每部作品都附有关键词、片长、观看渠道和豆瓣链接,并配以编辑的简短点评。此外还汇总了本周重要预告片信息和影视新闻,包括多部作品的内地定档消息,为读者提供全面的影视资讯和观影指南。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇介绍了本期推荐的11部影视作品,包括美剧、动画、电影等多种类型,涵盖医疗、奇幻、动作等题材,并提供了几则精彩预告和影视资讯。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;推荐了《匹兹堡医护前线 第二季》,这部获奖医疗剧延续首季风格,以一集一小时的形式展现急诊室的高度紧张节奏和真实案例,具有极强的写实感和压力感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《中国奇谭 2》由上海美术电影制片厂联合出品,每集由不同团队打造,题材形式多元,以奇幻色彩包裹现实议题,延续第一季的高口碑。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《咒术回战 死灭回游 前篇》在导演御所园翔太的执导下,充分发挥动画师创作自由,通过顶级作画和创新演出手法,将漫画转换为极具实验气质的商业动画大作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影《3670》聚焦韩国脱北者与同性恋双重身份,通过主人公哲俊的孤独处境,细腻诗意地展现了边缘群体在身份夹层中寻找灵魂出路的挣扎。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《投行风云 第四季》围绕金融科技公司展开,哈珀和雅思敏因利益站在对立面,展现金融圈中金钱至上、可以出卖一切的残酷现实。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《槲寄生谋杀案 第二季》保持两集一案的节奏,通过双线叙事深化艾米丽的人物形象,展现她通过破案进行心理创伤自救的过程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;其他推荐作品包括《菜鸟老警 第八季》展现中年男性再出发的励志故事,台剧《人生只租不卖》以轻喜剧风格呈现台北租房生态,日剧《京都人的私房雅趣 Rouge 继承》延续系列古典淡雅风格。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画方面还推荐了《命运/奇异赝品》这部满足中二少年对圣杯战争一切幻想的爆米花动画,以及《史前战纪 第三季》延续暴力美学和蛮荒冒险风格。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还介绍了多部作品的预告片,包括《葬送的芙莉莲 第二季》《机动战士高达 闪光的哈萨维 喀耳刻的魔女》《海贼王 第二季》《木乃伊》《亢奋 第三季》等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;影视新闻方面,《呼啸山庄》确认引进内地,《闪灵》定档1月30日,《暗黑新娘!》定档3月6日,《庇护之地》也将于1月30日上映。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105008&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从技术选型重识 Apple Intelligence：为什么 Apple 如此设计 AI？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 深度解析Apple Intelligence端云协同架构设计的技术合理性与现实困境&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文从技术角度深入分析了Apple Intelligence的设计架构与合理性。Apple Intelligence采用端云协同架构,以端侧模型为主力,配合Private Cloud Compute处理复杂任务,旨在解决AI工具的数据割裂、缺乏个人语境和隐私焦虑问题。其设计在系统集成、实时响应、用户易用性、隐私保护和商业可持续性方面均具合理性,通过将AI能力拆解为UI控件降低学习成本,动态加载适配器优化性能功耗。然而目前面临边界感、短期与长期矛盾、预期管理失误等困境,核心的情景智能功能尚未落地。文章澄清了Apple Intelligence并非套壳ChatGPT等误区,指出其走的是与通用大模型不同的个人智能系统路线。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了Apple Intelligence发布一年半以来的发展历程,从iPhone 15 Pro系列开始测试到iPhone 16全系以AI为卖点,但国行设备仍停留在&amp;#039;为Apple智能预备好&amp;#039;状态。目前国行用户体验Apple Intelligence的方式有限且存在风险,文章旨在从技术角度解释其设计架构和合理性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Intelligence采用端云协同架构,左侧为设备端侧包含个人智能系统(语义索引、App意图工具箱、端侧模型),右侧为云端服务器。个人智能系统由三部分组成,其中ChatGPT并非狭义上Apple Intelligence的组成部分,而只是可选的第三方扩展。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple设计Apple Intelligence是为了解决2023年AI工具的三大体验断层:AI孤岛造成的数据割裂、缺乏个人语境、隐私焦虑与云端算力的矛盾。Apple选择避开通用大模型参数军备竞赛,转而利用芯片、操作系统和隐私安全优势,构建端侧优先、隐私至上的混合AI架构。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Intelligence在设计上实现了与系统各处的无缝集成、多模态能力和全新的计算架构。通过端侧模型保证数据在本地处理,创新的Private Cloud Compute(PCC)实现了&amp;#039;阅后即焚&amp;#039;的云端处理机制,在硬件层面复刻iPhone安全机制,开放镜像供安全研究人员审查。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;端侧模型设计具有多重合理性:实时响应不依赖网络、针对不同任务优化响应速度、降低用户学习成本。Apple将AI能力拆解为具体UI控件而非要求用户编写复杂提示词,通过动态加载适配器而非庞大通用模型来节省内存和功耗,既实现易用化又保证可控性和安全性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Intelligence的商业模式具有可持续性,计算主力在用户端设备而非云端服务器,以极低边际成本提供AI服务。依托成熟的硬件、系统和App Store生态,通过系统更新实现广泛覆盖,形成难以复制的&amp;#039;护城河&amp;#039;,且未见大规模反对声音。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Intelligence目前面临三大困境:边界感问题导致易用性与工具能力难以平衡、短时刺激与长期发展存在矛盾、预期管理失误。WWDC 2024详细展示所有能力过度拉高用户预期,而重头戏情景智能至今未落地,演示与实际落地功能落差令用户失望。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章澄清了几个常见误区:Apple Intelligence并非套壳ChatGPT而是完整的自研技术栈、AI发展与个人隐私数据不存在对立关系、云端模型合作伙伴问题不构成落地障碍、Apple在AI领域走的是不同赛道聚焦个人智能系统而非通用大模型。Apple Intelligence将AI变成基础设施而非工具,但不完整的功能和失误的预期管理让其暂时无法完全令人满意。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/104549&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从理论、方法到工具，一套科学的时间精力待办管理系统：TimeGPT&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科学的时间精力待办管理系统及其软件实现&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;TimeGPT是一套科学的时间精力待办管理系统,核心是UCEVI评分系统(紧急、花费、努力、价值、影响),通过层次分析法确定权重,使用期望效用理论和彩票机制评估目标价值。系统将待办分为三类,利用线性规划推荐最优任务组合,结合精力曲线将任务安排在最佳时段。时间管理采用间歇日记记录,精力管理通过288个时间段向量计算平均精力分布。三者形成正循环帮助实现目标。作者开发了免费软件FluxTime实现该系统,已上架App Store。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;TimeGPT是一套以目标为导向的时间精力待办管理系统,通过将目标拆解为项目和待办事项,并提供UCEVI评分系统来最大化实现高价值目标,最终形成时间、精力与待办的正循环。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;UCEVI评分系统基于艾森豪威尔矩阵发展而来,增加了花费(Cost)、努力(Effort)、价值(Value)、影响(Impact)等维度,并通过层次分析法确定各维度权重,克服了传统矩阵同象限任务无优先级和忽略过程的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;系统通过期望效用理论定义目标价值,考虑一次性收入和年收入增加,并引入成功概率计算;同时使用彩票机制比较精神获得与金钱收入,为非直接收入目标提供等价评估方法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;推荐系统将待办分为任务、提醒和日程三类,利用线性规划在有限时间内为每天安排最优任务搭配,目标函数是最大化评分总和,约束条件包括时间限制和任务类型要求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;时间管理强调精确记录时间投入的重要性,作者通过间歇日记方式记录时间使用,将时间分为六大类别,避免了自动记录和手动记录的弊端,帮助清晰认识实际时间投入。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;精力管理通过将一天分为288个五分钟时间段,记录高低精力时段形成精力向量,计算平均精力曲线,在推荐任务后将其分配到最佳精力时段执行。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;时间、待办、精力形成三位一体的良性循环系统,作者开发了FluxTime软件实现该系统,已上架App Store且完全免费,用户只需专注时间记录和创建待办即可。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105494&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：iQOO 发布 iQOO Z11 Turbo 手机、大疆发布 DJI RS 5 轻量商拍稳定器等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派科技早报汇总多项硬件发布和服务更新&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派科技早报,汇总了多个科技产品和服务动态。iQOO发布搭载骁龙8 Gen 5处理器和半固态电池的Z11 Turbo手机;大疆推出RS 5稳定器强化智能追踪;联发科发布两款优化AI能力的天玑芯片;菲律宾宣布对华免签;千问App接入阿里生态实现AI购物;Apple Pay支持Visa卡跨境支付;Google Gemini上线个人智能功能;微软将移除Edge收藏集功能。文章以简明扼要的方式呈现各项产品参数、功能特性和发布信息,为读者提供快速的科技资讯概览。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iQOO发布Z11 Turbo手机,配备6.59英寸144Hz OLED屏幕、骁龙8 Gen 5处理器、2亿像素主摄、7600mAh半固态电池,支持100W快充和IP68/IP69防护,起售价2699元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;大疆发布RS 5轻量商拍稳定器,引入RS增强智能追踪模块支持多类主体跟随,电机峰值扭矩提升50%,续航最长30小时,最大负载3千克,标准版售价3099元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;联发科发布天玑9500s和天玑8500芯片,优化生成式AI推理和多模态模型,支持端侧AI功能;天玑9500s采用台积电第二代3nm制程,天玑8500基于N4P工艺。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;菲律宾宣布对华免签政策,自2026年1月16日起中国公民可免签入境停留最长14天,仅适用于马尼拉和宿务机场入境。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;千问App全面接入淘宝、支付宝等阿里生态业务,开放AI购物与生活服务功能测试,支持点外卖、订机票等一体化操作,新增「任务助理」功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple宣布Apple Pay支持中国大陆用户在境外使用本地发行的Visa信用卡与借记卡进行跨境支付,多家银行卡片已支持该功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google Gemini发布「个人智能」功能,可整合Gmail、谷歌相册等应用信息提供个性化回答,优先向美国地区AI Pro和Ultra订阅用户开放,默认关闭状态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软计划删除Microsoft Edge收藏集功能,用户需手动将数据导出为CSV文件或迁移至收藏夹,否则数据将永久丢失,该功能于2020年推出。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;纯CSS实现折线连接两个任意元素效果&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 纯CSS实现两元素折线相连的技术探索&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了使用纯CSS实现两个元素之间折线自动相连的技术方案。作者利用CSS Anchor Positioning锚点定位API,通过定义anchor-name、使用CSS变量计算位置、对角线渐变绘制线条以及mask遮罩处理等技术,实现了动态连接效果。由于元素位置的不确定性,最终采用4条线的方案来适配各种方位。文章同时指出了当前方案的局限性,即圆心在同一直线时连接线不显示的问题,虽然存在解决方案但实现复杂度较高。作者以实践案例展示了CSS新特性的创意应用。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在介绍CSS锚点定位时提到可以实现任意两点相连的折线效果,但实际尝试后发现比想象中复杂。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过GIF演示展示了纯CSS实现两个元素之间折线自动相连的效果,并提供了在线demo页面供读者体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;实现原理从最简单的两个圆和一条线开始,使用anchor-name定义锚点名称,通过CSS锚点定位API使线条定位在两个球之间。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用CSS变量计算位置,通过对角线渐变绘制连接线,并使用mask遮罩处理端点避免线条覆盖圆球。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于两个球的位置不固定可能在任意方向,最终方案使用了4条线来确保在各种位置下都能正确显示连接线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出当前实现不完美,当两圆圆心在同一水平线或垂直线时连接线不显示,虽有解决方法但实现成本已超过JS方案。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 中国AI大模型领导者探讨行业现状与未来发展路径&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期科技爱好者周刊聚焦中国AI大模型发展现状与未来。通过AGI-Next前沿峰会的嘉宾分享,展现了中国顶尖AI领导者的思考:从Chat到做事的范式转变、多模态模型的追求、To C与To B的分化趋势,以及对中国AI未来的审慎乐观态度。嘉宾们承认与美国的差距,但对新生代的冒险精神和改善的营商环境充满信心。周刊还涵盖了载人飞艇商业飞行、越南禁止不可跳过广告等科技动态,推荐了多个开源工具和AI应用,并收录了Redis创始人等业界人士对AI时代的深刻见解,为读者提供了全面的技术视野和行业洞察。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (13 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期周刊介绍了1月10日在北京举办的AGI-Next前沿峰会,中国顶尖AI大模型领导者包括唐杰、杨植麟、林俊旸、姚顺雨出席并分享了对大模型和中国AI发展的看法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;唐杰分享了智谱的起源,讲述2019年从清华成果转化成立智谱公司,坚定转向大模型研发。他阐述了通过Scaling实现模型泛化能力的三个层面:知识记忆、对齐推理、RLVR强化学习。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;唐杰认为2025年DeepSeek的出现标志着Chat范式基本到头,AI下一步应该让每个人用AI做事,方向是将Coding、Agentic、Reasoning三个能力整合。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;林俊旸讲述千问开源的初心源于让更多学生有机会做实验,逐步发展出多种型号服务不同需求。他强调团队追求的是多模态基础智能体,希望实现三进三出的全模态模型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;姚顺雨观察到To C和To B模型出现明显分化,To B市场中用户愿意为最强模型付费。他还发现垂直整合和模型应用分层开始分化,To B领域模型应用分层趋势明显。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;姚顺雨指出AI需要更大的Context来提供更多价值,通过额外输入而非更大模型来改善回答质量。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;圆桌对话环节讨论中国AI未来,姚顺雨认为中国AI领先概率高,关键在于算力突破、To B市场成熟和冒险精神。林俊旸认为概率约20%,指出中美算力差距和软硬结合机会。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;唐杰承认中国与美国仍有差距且可能在拉大,但对90后、00后一代的冒险精神、改善的营商环境和坚持精神表示乐观。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;科技动态部分介绍了中国首次载人飞艇商业飞行、鼻子触控笔发明、越南禁止不可跳过广告等新闻。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章推荐涵盖开源闭源争议、视觉回归测试、PostgreSQL替代Redis、CSS修复水平滚动条、消息队列原理、macOS圆角问题等技术话题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工具推荐包括whenwords无代码库、Hongdown文本美化器、VAM Seek视频播放器、kodbox文件管理器等多个开源工具和AI应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;资源部分推荐了EverMsg区块链查看网站和DeepTime Mammalia哺乳动物演化树可视化项目。图片部分展示了俄罗斯北极圈船厂冰下修船的特殊作业方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;言论部分收录了Redis创始人Antirez对AI吸收代码的看法、图灵奖得主Manuel Blum关于写作的比喻,以及关于摆脱困境的三个主要原因。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - January 15, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
