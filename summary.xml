@@ -4,8 +4,152 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-01-16T20:13:48.882Z</updated>
+  <updated>2026-01-17T20:05:58.005Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - January 17, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-01-17</id>
+    <updated>2026-01-17T20:05:58.005Z</updated>
+    <published>2026-01-17T20:05:58.005Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>5 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 17, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;18.63013698630137&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    4.7%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;17&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;348&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4.7%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;5&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22359&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Saturday afternoon kitchen session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 社交媒体生活分享帖子记录厨房时刻&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇简短的社交媒体帖子,发布于2026年1月17日星期六下午。作者分享了一个厨房活动的时刻,并附有地理坐标(北纬51度,东经0度,可能位于伦敦附近)。帖子包含社交媒体链接(Mastodon、Bluesky、Instagram)和互动元素,包括两个点赞记录。内容风格简洁,更像是生活分享而非正式文章,具有典型的社交媒体碎片化特征。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/455&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 455: Cloudflare buys Astro&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Cloudflare收购Astro框架并保持开源&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文报道了Cloudflare收购开源框架Astro的消息。Astro因付费功能尝试失败而面临资金困境,Cloudflare提供了收购方案并承诺保持其开源特性。对Cloudflare而言,这是一次战略性的收购,旨在获得优秀团队和开发者社区影响力。文章还涵盖了多个技术动态,包括Sentry的生产环境感知AI代码审查工具、Chrome浏览器新特性、Safari开发工具更新、npm安全建议等。此外还通过代码示例讲解了JavaScript中this关键字的常见陷阱和正确用法。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cloudflare收购了开源框架Astro,尽管此前预测是Netlify会收购。Astro将保持开源并继续支持多种部署目标,不仅限于Cloudflare。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;从Astro角度看,这次收购源于资金需求。创始人Fred Schott表示他们尝试推出付费功能但都失败了,因此急需资金支持框架开发。Cloudflare为整个团队提供工作机会并为开源贡献者提供持续资金支持。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cloudflare的动机在于通过Astro实现&amp;#039;构建更快互联网&amp;#039;的使命,同时获得优秀工程团队和开发者社区的认可。凭借650亿美元市值,Cloudflare可以进行这类基于品牌价值的收购。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还介绍了Sentry的AI代码审查工具,它结合生产环境错误数据进行代码审查,使用多代理验证过滤误报,并针对大型变更提供实用建议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;其他技术动态包括:macOS Tahoe窗口调整问题、Chrome 144新增地理定位HTML元素、Trigger.dev开源平台、Safari开发工具CSS Grid功能、ESLint创始人关于npm安全的建议等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;最后通过一个JavaScript代码示例说明了this关键字的引用问题,展示了在嵌套对象中正确使用this的方法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/review-lander-23/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Review: Lander 23 by Punchdrunk ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 有趣但设计欠佳的真人动作游戏体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Lander 23是Punchdrunk公司在伍尔维奇推出的真人动作游戏体验,四人团队分组协作,一组操作控制台指挥另一组在废墟城市场景中探索。项目融合了沉浸式剧场、密室逃脱和激光枪战元素,但难以明确归类。虽然场景布置精美、互动装置设计出色,但存在故事薄弱、游戏时间短、收集系统不明确、缺乏个性化反馈和售后服务等问题。尽管有诸多设计缺陷,整体体验仍然充满乐趣和刺激感,适合愿意接受不完美游戏设计的玩家在工作日优惠时段尝试。评分三星半。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Lander 23是位于伍尔维奇的体验项目,四人团队分为两组,一组操作开关指挥另一组在废墟城市中探索,需要团队协作完成任务,类似加长版的《水晶迷宫》。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这个项目难以归类,由Punchdrunk公司推出,被定位为真人动作电子游戏,不是传统LARP或密室逃脱,没有谜题,故事单薄,但像成人版无枪激光枪战游戏,相当有趣。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;前期准备不错,场景布置精美,互动控制台设计精良,按钮和旋钮手感极佳,但利用率不高,许多输入装置实际上没什么用处。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;城市场景来自之前的《燃烧之城》作品,视觉效果华丽但与故事背景不符,在被守卫追逐时令人兴奋,但没有太多时间欣赏精致的布景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏过程中有收集能量、躲避守卫、操作开关等多项任务,节奏紧张刺激,但每人实际游戏时间仅15-20分钟,关于磁带、印章和文物的收集说明不清,似乎也没有实际作用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏结束后只显示团队编号和排名,没有个性化反馈、纪念品或后续跟进邮件,缺乏售后关怀,排行榜不记录分数也削弱了重玩动力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;照相环节需要玩家互相帮忙拍照,没有工作人员协助或发送照片服务,不如大多数密室逃脱体验周到,之后在酒吧喝鸡尾酒复盘时,四人都认为体验不错。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总体而言Lander 23像是由听说过但没玩过激光枪战/密室逃脱/《水晶迷宫》的人设计的,尽管如此仍然很有趣,在走廊奔跑很有《神秘博士》感觉,操作开关按钮的触感体验愉快,值得选择工作日便宜时段尝试。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-17T09:23Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-17T09:23Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 新Markdown解析器代码更优但速度稍慢,作者决定继续开发&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了新Markdown解析器实验的进展情况。积极方面包括代码库更加精简整洁,测试通过率高达87%(41/47),剩余问题可修复。消极方面是性能略有下降,通过464篇博客文章的基准测试显示速度稍慢,且优化潜力有限。尽管如此,作者认为代码质量和可维护性的优势超过了性能劣势,决定继续开发这个项目。这反映了软件开发中在性能与代码质量之间权衡取舍的实践。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的新Markdown解析器实验代码库更小更整洁,通过了47个测试中的41个,剩余6个失败可以修复,完成后将易于使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;负面方面是新解析器速度稍慢,通过解析464篇博客文章进行基准测试,尚未考虑优化且未发现明显瓶颈,未达到预期的性能提升。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管存在速度问题,但优点大于缺点,作者决定继续推进该项目。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105413&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Matrix 圆桌 | 少数派们的 13 张 2025 年度新专辑&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Matrix社区8位作者推荐13张2025年度专辑&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Matrix社区2025年度音乐盘点,由8位作者推荐13张年度专辑。推荐涵盖多元风格:陈郁夫的复古灵魂乐、Youth Lagoon的梦幻流行、八仙的摇滚、Tizzy Bac的钢琴摇滚、Sufjan Stevens的独立民谣、Conan Gray的酷儿流行、Suede的英伦摇滚、许哲珮和汉堡黄的华语流行、Taylor Swift的主流流行、超级市场的电子摇滚、ROSALÍA的先锋流行、祁紫檀的国语流行及彩虹合唱团的现场录音。文章强调音乐在生活中的陪伴价值,各位作者从个人角度分享专辑的独特魅力和情感共鸣,展现2025年音乐创作的丰富性与多样性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (15 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇介绍了Matrix社区的年度音乐盘点传统,邀请多位作者分享2025年度专辑推荐,强调音乐在生活中的独特价值和记忆功能,提醒读者继续让音乐陪伴生活。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;北鸮推荐陈郁夫的《Heal Me Good》,这是一张以1970年代Gospel Soul为核心的R&amp;amp;B/灵魂乐专辑,在华语音乐界属于罕见的风格,适合作为生活BGM,营造温暖治愈的氛围。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cleo阿直推荐Youth Lagoon的《Rarely Do I Dream》,专辑采样童年录像带音频,用模糊的低保真处理和复古合成器营造地下室般的怀旧空间,融入黑色电影元素构建可视化的异质体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kasper推荐八仙的《巨人川》,延续乐队不急于取悦的自信气质,适合微醺时播放,能带来松弛的律动感和恰到好处的放松状态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;蔡菜寀推荐Tizzy Bac的《说出我的名字》,这是复团后的新作,延续钢琴摇滚风格,以&amp;#039;名字&amp;#039;为核心探讨自我认知与救赎,展现成军26年后多了几分岁月慈悲的成熟表达。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cleo阿直推荐Sufjan Stevens的《Carrie &amp;amp; Lowell》十周年纪念版,增加七首未发表Demo和作者文章,虽然Stevens对这张关于母亲去世的专辑感到自我厌弃,但音乐本身仍是一场生者需要的超度仪式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cleo阿直推荐Conan Gray的《Wishbone》,这是一张直接裸露的酷儿失恋日记,增加90年代摇滚元素,MV致敬多部经典同志电影,是2025年无法遗漏的酷儿书写作品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;化学心情下2推荐Suede的《Antidepressants》,专辑保持Britpop基底但部分编曲接近后朋克,Brett Anderson的高亢神经质唱腔依然是标志,58岁仍能继续创作已属难得。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;化学心情下2推荐许哲珮的《树洞里可以悲伤》,打破以往统一主题叙事风格,通过树洞故事集呈现低谷后的自我救赎之旅,重新定义了从自我之爱到母爱的情感扩展。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kasper推荐Taylor Swift的《The Life of a Showgirl》,专辑整体气质明亮,旋律传唱度高,首曲《The Fate of Ophelia》在各大榜单表现优异,可能成为2025流行乐坛的代表作品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;化学心情下2推荐超级市场的《阳光,空气,还有水》,田鹏在合成器音色上做出巨大调整,构建充满自然气息的音乐空间,核心仍是运用大量合成器的摇滚乐而非纯电子乐。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;北鸮推荐ROSALÍA的《LUX》,这是一张完全私人化的先锋流行作品,大量使用管弦乐配合多语种歌词,从世界各国女性人物取材,营造神性与人性共存的氛围,展现Rosalía的音乐天才。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;宛潼推荐汉堡黄的《少女,飞》,专辑记录23岁成长中的痛苦与蜕变,从《23(grow)》的沉重到《园丁》《麦子》的振作,最后在同名曲中宣告重生,展现女性探索自我的过程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;宛潼推荐祁紫檀的《世界与孤独女王》,暌违三年的新作展现女性成长的进阶阶段,从此前探索爱与自我到如今自洽后的安然,主体性前所未有的清晰坚定,&amp;#039;无归属&amp;#039;的小镇女孩成长为微笑闪耀的孤独女王。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;ROB1N推荐上海彩虹室内合唱团的《生活瞬间(Live)》,相比磅礴叙事更注重小人物生活缩影,从开篇生活化对话到中间每首歌的独白,展现了强烈的临场感与叙事力,建议完整聆听体验。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - January 16, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
