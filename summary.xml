@@ -4,8 +4,134 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-01-17T20:05:58.005Z</updated>
+  <updated>2026-01-18T20:08:26.064Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - January 18, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-01-18</id>
+    <updated>2026-01-18T20:08:26.064Z</updated>
+    <published>2026-01-18T20:08:26.064Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>6 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 18, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;19.726027397260275&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    4.9%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;18&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;347&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4.9%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;6&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22361&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The best thing about the cold weather is seeing all the good doggos out walking in their winter outfits.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 分享寒冷天气中看到穿冬装狗狗的快乐&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条发布于2026年1月18日的简短社交媒体帖子,作者分享了在寒冷天气中看到穿着冬装的狗狗散步的愉悦心情。帖子包含时间、地理位置信息,并在Mastodon和Bluesky平台上同步发布,获得了6个点赞。这是一条轻松愉快的日常生活观察类内容。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22360&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The datalist element on iOS 26&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iOS 26的Safari中datalist元素bug导致输入框被建议框遮挡&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章讨论了iOS 26上Safari浏览器中datalist元素的严重bug。作者的朋友在使用The Session网站搜索曲目时,datalist的建议框完全遮挡了输入框,使搜索功能无法使用。作者指出这是Safari的典型问题模式:技术上支持HTML特性,但实现质量差到无法使用。由于iOS上所有浏览器都基于Webkit,问题影响范围广泛。作者已提交bug报告,但发现传统的user-agent嗅探解决方案可能也行不通,只能等待苹果发布修复更新。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的朋友在iOS 26的Safari上使用The Session网站搜索时,datalist元素的建议框遮挡了整个输入框,当输入到&amp;#039;The Road To&amp;#039;时就出现了这个问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Safari在功能支持上存在模式性问题:技术上支持某些特性,但实现得非常buggy导致无法使用。作者不得不考虑使用讨厌的user-agent嗅探,但这无法只针对Safari,因为iOS上所有浏览器本质上都是Webkit。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者已提交bug报告,但在等待修复期间发现user-agent嗅探可能无法实现。文章还记录了多位开发者对此问题的回应和分享。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-18T09:02Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-18T09:02Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者安装新PCIe网卡并计划配置OPNsense&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者收到了一块新的PCIe网络卡用于自托管系统更新。这块网卡有两个新端口,在系统中被识别为独立的PCI设备并拥有各自的IOMMU组,原有的板载端口仍保持独立运行。作者计划接下来在设备上运行OPNsense并测试网卡性能,暂不配置高可用性方案,而是选择手动同步设置。整个过程显示硬件安装顺利,为后续网络配置工作做好了准备。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 overreacted — A blog by Dan Abramov &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://overreacted.io/a-social-filesystem/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A Social Filesystem&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 将文件系统理念应用于社交应用,通过AT协议实现用户数据独立于应用&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文提出将传统文件系统的理念应用于社交计算领域的创新概念。作者首先回顾了文件系统的优势——文件属于用户而非应用,通过开放格式实现应用间互操作。随后提出&amp;#039;everything folder&amp;#039;概念,将社交媒体的帖子、关注等活动视为用户文件夹中的文件。文章介绍了AT协议作为实现这一理念的实际技术方案,已在Bluesky等应用中运行。通过&amp;#039;记录&amp;#039;(record)、&amp;#039;记录键&amp;#039;(record key)和&amp;#039;Lexicon&amp;#039;模式语言等技术细节,构建了一个分布式社交文件系统,使用户数据独立于应用存在,避免供应商锁定,让用户真正拥有自己的社交数据。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇介绍了传统文件系统的概念,强调文件属于用户而非应用程序,用户可以自由检查、分享和使用不同应用打开文件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;阐述了文件格式作为应用间协作的API,通过SVG等开放规范为例说明不同应用可以无需相互了解就能协同工作,文件的生命周期独立于创建它的应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提出将社交应用的数据(如帖子、关注、点赞)视为文件的概念,设想一个包含用户所有社交数据的&amp;#039;everything folder&amp;#039;,其中文件是真实数据源而非归档。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍AT协议作为实现社交文件系统的实际方案,已在Bluesky等应用中大规模运行,通过将用户数据从应用中分离,避免数据被应用锁定。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细解析社交文件系统中的&amp;#039;记录&amp;#039;(record)概念,通过一条推文示例说明如何将社交媒体内容转换为JSON格式的文件,剔除派生数据保留核心创建数据。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论记录的命名机制,采用基于时间戳的唯一标识符作为记录键(record key),确保本地生成且几乎不会冲突,同时支持按时间顺序排序。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;引入Lexicon概念作为定义社交文件格式的模式语言,比TypeScript类型定义更强大,能表达字符长度限制、日期时间格式等约束条件,确保文件格式的稳定性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 好色龍的網路生活觀察日誌 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://hornydragon.blogspot.com/feeds/5827503347587525474/comments/default&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;雜七雜八短篇漫畫翻譯2228&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博客漫画翻译文章的读者评论互动&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇博客评论页面的元数据内容,来自好色龍的網路生活觀察日誌博客。文章标题为《雜七雜八短篇漫畫翻譯2228》,包含一条用户评论,评论者表示通过某张图片记住了三个可爱角色的名字。这是一个关于漫画翻译内容的简短互动评论,体现了读者对作品中角色的喜爱。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/104972&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1｜它和你的 Pixel 更配，宛如原生的网速显示工具&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者用AI辅助开发Pixel网速显示应用&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者针对Pixel原生系统缺乏网速显示功能,以及市面上第三方应用存在UI过时、代理模式下统计虚高等痛点,利用AI辅助开发了Pixel Meter应用。该应用通过Android S新API实现精准流量统计,采用实时活动通知优雅展示网速,外观融入系统如同原生功能。开发过程中作者采用人机协作模式,使用Gemini配合自定义规则文件,由AI完成90%的代码编写、文档生成和宣传素材制作,展示了AI时代个人开发的新范式。应用已开源并上架Google Play商店。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者作为Pixel用户，因原生Android系统缺乏实时网速显示功能而感到困扰,市面上的第三方网速应用存在UI过时、显示效果差、功能臃肿以及开启代理后网速统计虚高等问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;传统网速应用统计不准的原因在于Android旧版统计机制会对物理网卡和代理虚拟接口的流量重复统计,导致显示速度是实际速度的2倍,作者因此决定利用AI帮助开发专门适配Pixel的网速应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pixel Meter通过使用Android S引入的新API TrafficStats.getRxBytes实现精准流量统计,利用网卡白名单与黑名单机制过滤重复数据,无需Root或Shizuku权限即可准确显示网速。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pixel Meter采用Android 16的实时活动通知(Live Update Notification)展示网速,相比传统状态栏图标拥有更好的可读性和更丰富的展示内容,外观融入系统如同原生功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者采用人机协作模式开发Pixel Meter,使用AntiGravity配合自定义GEMINI.md规则文件让AI拥有长期记忆,作者负责架构设计和需求分析,Gemini负责代码编写和文档生成,90%的代码由AI完成。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pixel Meter已在GitHub开源并上架Google Play商店,作者邀请用户体验这款纯净的网速显示工具,同时展示AI辅助开发的代码质量。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - January 17, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
