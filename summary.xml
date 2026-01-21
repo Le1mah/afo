@@ -4,8 +4,232 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-01-20T20:32:12.226Z</updated>
+  <updated>2026-01-21T20:11:41.624Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - January 21, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-01-21</id>
+    <updated>2026-01-21T20:11:41.624Z</updated>
+    <published>2026-01-21T20:11:41.624Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>11 articles from 7 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 21, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;23.013698630136986&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    5.8%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;21&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;344&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5.8%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22367&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Web Day Out × State Of The Browser&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 两个网页技术会议推出联票优惠活动&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了两个英国网页技术会议的联合优惠活动。Web Day Out专注于浏览器实用技术,将于3月12日在布莱顿举行;State Of The Browser侧重前沿演示,将于2月28日(周六)在伦敦举行。主办方推出联票优惠:购买Web Day Out门票可享受State Of The Browser 50%折扣或免费在线票;已购买State Of The Browser门票者也会获得Web Day Out的特别折扣。由于State Of The Browser安排在周六,参会者只需请一天假即可参加两场活动,非常便利。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了Web Day Out和State Of The Browser两个技术会议的特点,前者关注浏览器当前实用技术,后者包含更多前沿演示内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明了两场活动的时间安排:State Of The Browser在2月28日周六举行,Web Day Out在3月12日周四举行,购买Web Day Out门票可享受State Of The Browser 50%折扣或免费在线门票。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;强调State Of The Browser在周六举行,参加者只需请一天假即可参加两场活动,鼓励尽快购买Web Day Out门票以获取优惠。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提醒已购买State Of The Browser门票的参与者会收到Web Day Out的特别折扣码,作者表示期待在伦敦和布莱顿的两场活动见面。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/456&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 456: Nothing can kill jQuery&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 jQuery发布4.0版本,专注现代化改进而非AI炒作&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇技术通讯介绍了jQuery 4.0的发布,作为20周年纪念版本,它专注于实用改进而非追逐AI热潮。主要更新包括放弃对旧版浏览器的支持、增强安全性、迁移到现代ES模块架构,总体积减小约3KB。文章采用轻松幽默的写作风格,还涵盖了其他前端技术动态,如Static Hermes、Expo的AI代理工具、HTTP Archive年鉴等。最后通过一个字符串反转bug示例,说明了处理Unicode字符时需要注意代理对的问题。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;jQuery在20周年之际发布了4.0版本,这是近十年来的首个主要版本更新,包含了一些实用的改进而非追逐AI趋势。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;jQuery 4.0的主要更新包括:停止支持IE10及更老版本浏览器,减小了约3KB的体积;支持Trusted Types和CSP以提高安全性;迁移到ES模块并使用Rollup进行现代化构建。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还介绍了其他技术动态,包括Devon Govett关于将JavaScript编译为C的工作、Expo推出Claude Code Skills、HTTP Archive发布2025 Web年鉴等多个开发工具和资源更新。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bug示例部分展示了字符串反转函数在处理emoji等特殊字符时的问题,因为split方法将字符串视为16位单元数组而非字符数组,解决方案是使用Array.from()或展开运算符来正确处理代理对。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/convo-what-how.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Conversation: LLMs and the what/how loop&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 软件开发的核心是通过What/How反馈循环构建可演化系统&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了软件开发中What(领域意图)和How(实现机制)之间的反馈循环关系。作者认为编程的核心挑战不是将需求转换为代码,而是构建能应对变化的系统,这需要通过管理认知负荷来实现。TDD通过先写测试、再实现、后重构的方式将What/How循环操作化。在LLM时代,作者建议将LLM作为翻译层辅助探索这个循环,而非替代人类的设计决策。真正的价值在于通过抽象、内聚和解耦构建能够容纳未来变化的系统结构,而不仅仅是满足当前场景。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章探讨了软件开发的核心挑战是构建能够应对变化的系统,而非简单地将需求转换为代码。新手程序员常误认为编程是线性翻译过程,但真正的挑战在于构建可持续演化的系统。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为了让系统更易于变化,需要管理认知负荷。通过良好的模块化结构和领域映射,开发者可以只关注少量代码就能推进工作。代码应该镜像开发者熟悉的领域概念。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编程的核心是将真实领域(What)映射到计算模型(How),这不是单向过程而是持续的反馈循环。What和How相互提供深刻洞察,帮助发现系统的稳定部分和未来可能变化的方向。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;What和How并非分离的宇宙而是相互交织的。在系统、类和函数的每个层级都存在What的问题,答案决定了逻辑分组和命名。How的决策则塑造了解决方案的结构。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;选择如何在计算机中表示真实领域是How的关键部分。将领域映射到状态机、表或流等计算模型会影响我们的推理方式,解决方案的结构从这种映射中浮现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;从具体场景出发可以打破What和How的循环依赖。通过用例和测试用例在系统和模块层面定义叙事和契约,TDD将这个反馈循环操作化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;TDD通过先写测试锁定What,再实现How,最后重构来优化结构。测试帮助开发者专注于接口而不耦合实现,是一种即时的可用性测试。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用LLM时这些原则同样重要。LLM生成的代码往往过于过程化或过度复杂,作者更喜欢将LLM作为What/How循环中的翻译层,用于快速草图但仍依赖重构来塑造结构。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;仅通过prompts满足场景无法构建解决方案的结构。真正的目标是固化和构建解决方案结构以容纳未来场景,这需要通过内聚性和解耦来组织代码,提取相似行为形成领域特定抽象。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/book-review-exterminate-regenerate-the-story-of-doctor-who-by-john-higgs/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Exterminate/Regenerate - The Story of Doctor Who by John Higgs ★★★★☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 哲学视角解读Doctor Who历史与粉丝文化&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇书评评论John Higgs关于Doctor Who的著作,指出作者通过哲学视角而非简单罗列琐事来撰写这部跨越半个多世纪的电视剧历史。书中不仅涵盖节目从诞生到Ncuti Gatwa时代的发展历程,还深入探讨了电视叙事本质、粉丝文化的复杂性以及节目的内在矛盾。作者对粉丝群体和制作团队都进行了诚实而尖锐的剖析,揭露了一些令人不安的真相,虽然有时略显夸张和不够聚焦,但整体而言是一本引人深思的作品,适合愿意接受批判性视角的Doctor Who爱好者阅读。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇讨论粉丝文化的特点,即对所有细节都充满兴趣,以及Doctor Who历史书籍面临的挑战:如何让资深粉丝和普通观众都感兴趣。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;John Higgs通过哲学视角解决这一难题,从电视本质、故事对创作者的影响以及观众在节目演变中的作用等角度,涵盖了从Doctor Who诞生前史到Ncuti Gatwa首季的内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中既有熟悉的幕后故事,也揭露了创作者的一些令人不安的真相,虽然有些内容缺失(如1960年代电影被简略带过),但在反思节目本质时真正精彩起来。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中探讨了节目应该随观众成长还是针对新一代儿童的问题,揭穿了粉丝对节目的表面理解,指出Doctor Who表面倡导科学逻辑,实则充满神秘主义。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中对粉丝文化进行了残酷而诚实的剖析,认为粉丝也是受害者,并引用Valeyard作为英国粉丝阴暗面的代表,说明有毒粉丝文化如何导致节目的衰落和复兴。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中有时显得夸张,如将Sylvester McCoy在1996年电影中的再生场景解读为廉价英国版节目被昂贵美国制作团队扼杀的隐喻。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;全书在制作八卦和批判性评价之间摇摆,未能明确定位为历史、哲学还是心理剖析,但对于不介意打破偶像崇拜的Doctor Who爱好者来说,这是一本引人入胜的读物。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-21T09:43Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-21T09:43Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 怀念伦敦丰富的技术活动,现居曼彻斯特参会为零&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者对TechConf.Directory这个技术会议目录项目表示支持,认为它有助于提高会议可发现性。作者怀念十多年前在伦敦时丰富的技术活动氛围,当时几乎每晚都有活动可参加。相比之下,目前居住的曼彻斯特地区技术会议较少,需要跋涉到其他地区参会,但作者坦言主要原因是自己变懒了,参会次数已降至零。文章反映了技术社区活动地域差异和个人参与度变化。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者赞扬了Declan Chidlow的TechConf.Directory项目,认为任何改善技术会议和聚会可发现性的尝试都对所有人有益。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆十多年前在伦敦工作时,几乎每晚都有技术活动可参加,周五晚上常去科技巨头总部参加活动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出曼彻斯特和兰开夏郡的技术会议场景不太活跃,需要南下或跨越奔宁山脉去约克郡参会,但承认自己只是懒惰。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-21T06:44Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-21T06:44Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 苹果利用平台垄断进行安全表演和多重收费&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章批评苹果公司的安全措施是一种表演性质的做法,引用Alex Russell的文章《Naked Power》指出苹果应用商店在欺诈和诈骗问题上不作为甚至纵容。苹果通过A/B测试操纵搜索结果以获取利润,采用锁定用户、双重收费的策略:开发者需付费避免警告提示,再付费保护搜索排名,最后还要被抽取30%的分成。文章揭示了苹果利用平台垄断地位榨取开发者和用户价值的商业模式。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n153c0c3d9456&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ぼくすた的っ★東京スタジオルーキー座談会2025③アーティスト編&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 两位新人动画师分享入职经历与工作目标&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是CyberConnect2东京工作室2025年新人座谈会的艺术家篇,由25届的宫崎和26届的志野木两位动画师新员工参与。两人分享了各自的入职经历:志野木通过作品展被发掘,看重公司氛围;宫崎在校内说明会上被公司作品和培训体系吸引。他们互相赞赏对方的优点,志野木努力且早早确定工作,宫崎则善于沟通交流。两人都认为东京工作室氛围活跃开放,重视团队协作。志野木目标是成为即战力并改善弱点,宫崎则注重提升技术的同时加强人际沟通能力。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了期待全社会议的心情,这是CyberConnect2公司每年在福岡举行的全员经营方针发表会,同时也是享受美食的好机会。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本次座谈会是「东京工作室新人座谈会2025」的艺术家篇,由25届和26届的宫崎和志野木两位新员工参加。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;志野木通过作品展被发掘加入公司,选择CyberConnect2是因为公司氛围好、面试官诚实且从大一就开始收集企业信息后认为这家公司最合适;宫崎则是在校内联合企业说明会上遇到公司,被公司制作的游戏作品、完善的研修制度和众多前辈吸引。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;两人互相评价对方:宫崎认为志野木非常优秀且努力,虽然是后辈但很早就确定了工作;志野木则认为宫崎开朗积极,善于与同事沟通和向前辈请教。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;关于东京工作室的印象,两人都认为工作氛围明朗活跃,员工之间会边讨论边推进开发,还有桌游会等业余活动促进交流。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;志野木的目标是利用提前入职的机会成为即战力并改善技术弱点;宫崎除了提升技术外还想加强沟通能力,与更多人建立联系以促进开发工作。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/on-dsstore&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 从.DS_Store文件探讨macOS与Windows文件管理的设计哲学差异&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文从.DS_Store文件出发,探讨macOS Finder与Windows资源管理器的设计差异。文章首先介绍了.DS_Store(macOS文件夹元数据存储)、Desktop.ini(Windows文件夹配置)和Thumbs.db(缩略图缓存)三个文件的功能。通过对比分析,作者指出.DS_Store之所以更频繁出现并引发用户不满,主要源于macOS激进的生成策略——每个文件夹都会产生且几乎所有操作都会触发,而Windows的Desktop.ini生成更保守。此外,两个系统在隐藏文件策略上的差异也加剧了跨平台使用时的问题。文章最终指出,这些差异反映了两个系统根本的设计哲学不同:Windows强调统一的秩序和展示规则,而macOS则更注重个性化的文件夹配置。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章引入了.DS_Store文件的使用场景,指出在Windows与macOS之间切换、使用NAS或与Mac用户交换文件时会遇到该文件,并提到互联网上充斥着大量关于删除和阻止.DS_Store文件的讨论。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出大多数批评意见只关注.DS_Store文件本身,而忽视了它与macOS Finder的关联,强调需要从整体设计角度理解这一文件,并提出将通过与Windows平台类似文件的对比来论述两个系统在设计上的差异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了.DS_Store、Desktop.ini和Thumbs.db三个文件的基本概念:.DS_Store是macOS用于存储Finder文件夹自定义属性的二进制文件,Desktop.ini用于Windows文件夹自定义设置,Thumbs.db用于缩略图缓存,并指出Desktop.ini在功能上更接近.DS_Store。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;分析了.DS_Store频繁出现的原因:macOS采用激进的生成策略,每个文件夹都会产生.DS_Store,且几乎所有操作都可能触发生成;相比之下,Desktop.ini生成策略保守,主要出现在系统预置文件夹中,普通操作不会触发生成,而Thumbs.db自Vista后已改为中心化存储。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论了隐藏文件策略的差异:macOS默认隐藏点号开头的文件,而Windows的Desktop.ini被标记为受保护系统文件需要更深层设置才能显示,这导致在跨平台数据交换时用户对.DS_Store的感知更强烈。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;从设计哲学角度比较两个系统:Windows资源管理器强调秩序和统一性,内容必须按特定顺序排列并对齐网格(桌面除外),这种设计虽然在文件夹拷贝时会丢失视图配置,但保证了文件夹状态的干净和展示逻辑的统一。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105408&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;让背单词像「抽卡」一样快乐：我设计了一台「美食盲盒机」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用抽卡游戏化机制让背餐饮英语单词变快乐&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者Pyacark因出国旅行时看不懂餐厅菜单,发现传统英语学习与生活场景脱节,开发了鸿蒙背单词App「上菜单词」。该应用创新性地将背单词设计成抽卡游戏,通过学习赚餐券、抽取3D美食卡牌、收集图鉴的机制,用即时满足和收集癖对抗学习的延迟满足特性。内核采用FSRS算法精准控制复习节奏,并提供餐厅场景对话实战功能,从点餐到结账全流程模拟。App聚焦餐饮垂直领域,将枯燥记忆转化为游戏化体验,解决出国点餐痛点和学习动力问题,目前免费提供。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者作为英语考试经历者发现,虽然词汇量尚可,但在国外餐厅看菜单时仍感到尴尬,因为考试单词与生活场景单词(如菜单专业术语)存在巨大差异,这促使开发专注于餐饮场景的背单词App「上菜单词」。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;传统背单词是延迟满足,反馈链路太长难以持续,而游戏抽卡是即时满足能产生多巴胺,作者因此将背单词设计成抽卡游戏机制,让枯燥的学习变成快乐的收集体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;「上菜单词」通过学习赚取餐券、用餐券抽取3D美食卡牌、收集卡牌填充图鉴的游戏化闭环,利用人类收集癖对抗遗忘曲线,让用户为了抽卡和集齐图鉴而主动高频复习单词。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;App内核采用FSRS间隔重复算法,比传统艾宾浩斯算法更精准地捕捉遗忘临界点,根据用户反馈动态调整复习时间,抽卡负责吸引开始,算法负责确保记住。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为解决只会蹦单词的问题,App加入场景对话实战板块,模拟从就座到结账的完整餐厅流程,教授实用表达如咖啡定制、过敏确认等,让用户不仅收集词汇更能实战应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;「上菜单词」是开发者对快乐学习的探索,目前完全免费无广告,旨在解决出国点餐的场景化痛点和背单词的动力问题,通过游戏化设计让背单词从苦差事变成快乐盛宴。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105471&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;5 款替代品，找回 LaunchPad 的快捷&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 macOS移除LaunchPad后的5款替代应用推荐&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章介绍了Apple在macOS Tahoe中移除LaunchPad后,市场上出现的5款第三方替代应用。LaunchNext最像原版但存在bug,LaunchOS是最佳上位替代品,完美复刻原生体验并优化了操作;米粒窗口借鉴Windows的Fences设计,将应用管理放在桌面;Blossom增强了Spotlight功能,提供快捷键系统;Vector则是AI加持的Spotlight再造版,支持自然语言搜索。作者推荐LaunchOS作为LaunchPad继承者,Blossom作为免费的Spotlight替代品。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;LaunchPad自2011年发布以来已有十多年历史,但Apple在macOS Tahoe中移除了这一功能,将应用启动整合到Spotlight子菜单,引发用户不满,促使第三方替代应用出现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;LaunchNext是最接近原版的免费替代品,可导入LaunchPad数据库,保留原有设计和交互,支持自定义背景、图标管理等功能,但存在拖拽bug。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;LaunchOS是最佳上位替代品,完美复刻原生界面,支持Liquid Glass效果,优化了图标拖拽体验,提供滚动模式、重命名、隐藏图标等功能,免费版足够日常使用,Pro版售价35元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;米粒窗口是macOS版的Fences,将应用管理界面放在桌面,支持App智能窗、文件夹窗、空白窗三种形式,提供丰富的个性化选项和挂件功能,免费使用但解锁完整功能需48元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Blossom是Spotlight的增强版,自动分类应用程序,通过快捷键系统实现快速切换和启动,支持置顶、计算器、词典等功能,完全免费。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vector是AI加持的Spotlight再造版,固定在屏幕右下角,支持应用搜索、剪贴板管理等基础功能,特色是环境模式和Semantic Search自然语言搜索,使用本地Machine Learning技术,最低售价7美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为LaunchOS是LaunchPad最佳继承者,Blossom因免费而在类Spotlight应用中胜出,米粒窗口和LaunchNext还需打磨改进。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105365&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;致敬好剧新姿势：纯代码从零复刻 Pluribus 片头动画&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用Python纯代码复刻Pluribus片头动画的技术实践&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细记录了作者使用Python和Matplotlib从零手写复刻Apple TV剧集Pluribus片头动画的完整过程。作者首先构建了基础粒子系统，然后分别实现背景点的Lennard-Jones势能交互、圆圈点的均匀扩散、以及文字点的指纹图案效果。在遇到性能瓶颈后，通过空间哈希算法和生命周期管理将渲染时间从6分钟优化到1分钟。最后通过添加锚点力、呼吸效果和屏幕循环等细节打磨视觉效果。作者强调虽然成果不如AI生成的炫酷，但手写代码的过程更有意义和乐趣。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了自己对Apple TV剧集Pluribus的喜爱，特别欣赏其极简风格的片头动画，认为这是第一次觉得可以用代码复刻的片头。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了粒子系统的基本概念，包括使用Python和Matplotlib创建粒子类，追踪位置、速度和加速度等物理状态，并应用高中物理公式更新这些值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;将片头动画中的点分为背景点、圆圈点和文字点三类，对背景点应用Lennard-Jones势能实现点之间的排斥和吸引效果，复杂度为O(n²)。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;实现圆圈点的均匀分布和扩散效果，通过给粒子添加质量属性解决圆圈点与背景点碰撞时形状散乱的问题，质量大的圆圈点不易被推动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用PIL库提取字体像素位置渲染文字，并通过正弦波创建指纹图案效果，根据距离中心的远近推拉文字点形成波浪状图案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对渲染60帧需要6分钟的性能问题，使用空间哈希算法将复杂度优化，并实现粒子生命周期管理，将渲染时间从6分10秒降至1分06秒。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过添加锚点力和阻尼解决文字形状散架问题，为背景点添加呼吸效果和屏幕循环功能，使点的大小有节奏地缩放并在屏幕边缘循环出现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结这是首次尝试粒子系统，虽然相比AI生成的3D粒子系统显得简陋，但从零构建的过程更加enjoyable，认为这种感觉正是《Pluribus》想表达的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - January 20, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1692,83 +1916,6 @@ Google has reversed its default indexing policy, now requiring websites to have 
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Fraimic推出Smart Canvas彩色墨水屏智能画框,Vinabot推出会动会说话的魔法画像相框,售价299-999美元。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Superheat推出使用挖矿芯片余热加热的热水器,安装成本2000美元,用电量与普通热水器相当但可挖矿。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Takway推出需孵化养育的蛋形AI宠物,深圳推出仿生熊猫安安为老年人提供陪伴,情绪陪伴产品越来越注重可爱而非拟真。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - January 10, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-01-10</id>
-    <updated>2026-01-10T20:06:07.355Z</updated>
-    <published>2026-01-10T20:06:07.355Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>6 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 10, 2026&lt;/h1&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;6&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/why-my-nfc-passport-didnt-work-at-heathrows-egates/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Why my NFC passport didn&amp;#039;t work at Heathrow&amp;#039;s eGates&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 NFC戒指导致护照门读取失败&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了一个有趣的发现：在希思罗机场使用电子护照门时屡次失败的原因，竟然是右手佩戴的NFC戒指。通过实验对比，作者发现用左手（只戴普通婚戒）按住护照就能成功通过，而用右手（戴NFC戒指）则会失败。这是因为电子护照门只期待接收一个NFC信号响应，NFC戒指与护照芯片产生了信号冲突（card clash）。作者提醒佩戴NFC设备的旅客注意这一问题，并指出其他国家的电子门因为自动拉入护照的设计避免了这个问题。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者经常旅行，护照通常能顺利通过各国边检，但在希思罗机场使用电子门时总是被拒绝，需要寻求边检人员帮助。边检人员表示护照没有问题，这种情况只在希思罗发生。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在多次失败后决定测试一个理论：换了一个门，用左手按住护照，这次成功通过了。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分析差异在于右手戴着NFC戒指，左手只戴普通婚戒。电子护照门只期待一个NFC响应，作者的NFC戒指造成了信号冲突。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;大多数其他国家的电子门会自动拉入护照，不需要手按住，所以不会遇到这个问题。作者提醒佩戴NFC戒指或植入NFC芯片的人注意可能造成的卡片冲突。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-10T12:53Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-10T12:53Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple强制收费认证导致开源软件被macOS封杀&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章批评了Apple的软件认证政策及其对开源生态的影响。Homebrew包管理器开始移除未支付Apple年费99美元认证费的软件，导致如Alacritty等应用在macOS上被阻止运行。虽然用户目前可以通过设置绕过限制，但作者认为这是Apple的「安全剧场」，实质是收取保护费。文章指出macOS正在效仿iOS的封闭模式，逐步限制用户的软件自由，让用户只能使用Apple认为有利可图的软件。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Homebrew包管理器正在移除未支付Apple认证费用的软件，Apple每年收取99美元用于签名和在应用商店列出软件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;如果开发者拒绝支付费用，macOS会拒绝打开应用程序，显示无法验证该应用不含恶意软件的警告。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前macOS用户可以通过设置中的选项绕过此限制，但Apple正在逐步将macOS向iOS的封闭生态系统转变，限制软件自由。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-10T10:04Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-10T10:04Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 批评主流媒体假借反抗之名行监控之实&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是对Wired.com的严厉批评,引用Heather Burns的观点指出该媒体打着为读者提供反抗建议的旗号,实际却在为可能伤害读者的势力收集信息。文章警告人们远离大型主流媒体,并建议避免使用Chrome浏览器,因为Google是在线追踪的最大推手。作者呼吁使用各种广告拦截工具,不要被那些抱怨广告收入下降的人进行道德绑架,因为是他们将广告与追踪捆绑并建立了基于滥用用户的商业模式。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-10T09:32Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-10T09:32Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Polypane基于Electron构建令人惊讶&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在阅读Polypane博客关于浏览器API的文章时,意外发现Polypane竟然是基于Electron构建的应用,这让作者感到震惊。作者原本以为Polypane是纯粹的Chromium浏览器,但使用Electron来构建浏览器的做法令人着迷。作者表示从未使用过Polypane但应该尝试一下,并对Kilian Valkhof关于如何构建自己浏览器的博客表示兴趣,同时希望Polypane能开源以便深入研究这一创新实现。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 好色龍的網路生活觀察日誌 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://hornydragon.blogspot.com/feeds/2589588061649235425/comments/default&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;雜七雜八短篇漫畫翻譯2221&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博客漫画翻译文章的幽默评论互动&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇博客评论页面的内容，包含对一篇名为《雜七雜八短篇漫畫翻譯2221》的文章的评论。评论者HankCharath发表了一条简短的评论，提到了睡相不好需要绑起来的玩笑话，并引用了圣诞歌曲《Rudolph the Red-Nosed Reindeer》，最后用多个w表示笑声。这是典型的轻松幽默的网络社区互动内容。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105308&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;丢掉遥控器，寻找生命感：这是我的 Vbot「大头」机器狗使用体验&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Vbot大头机器狗首测:具备生命感的智能家用机器人&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Vbot大头家用机器狗的全网首测评测。大头采用仿生外观设计,重14kg,具备优秀的运动性能(最高18km/h)和3-6小时续航。硬件方面搭载16线激光雷达、双目深度摄像头和128 TOPS AI算力芯片。核心亮点包括领航、跟随、导航、牵引四大模式,通过UWB信令和视觉感知实现精准交互,无需遥控器即可完成复杂任务。产品支持负载10kg的扩展板,可安装相机进行跟拍。最具创新性的是Avatar替身功能和基于思维链的生命感表现,大头能自主决策、识别环境并做出符合生物直觉的动作。评测者认为这是一款完成度极高的下一代家用机器人,将未来体验带入当下,展现了机器人从工具到伙伴的转变。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍Vbot大头机器人的评测内容框架,包括外观设计、运动性能、硬件规格、感知能力等方面,强调这是一款超出预期的下一代家用机器人产品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细描述大头的外观设计特点,包括尺寸(61×34×57cm)、重量(14kg)、弧线机身、喷粉工艺处理、关节限位和安全设计等,同时展示其对人类和动物的友好性及静音特性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示大头的运动性能和导航能力,能够通过复杂地形和各种台阶,最高速度18km/h,具备优秀的抗干扰能力和克制的调整策略以确保用户安全。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍硬件配置:续航3-6小时(594Wh电池)、Type-C或无线充电(最高240W)、16线激光雷达、双目深度摄像头、1080p图传、S100P芯片(128 TOPS算力)及四麦克风阵列。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细演示领航功能,类似遛狗体验,大头能自主感知障碍、寻路规划、在路口自主选择路线,用户可通过拉狗绳引导方向或让其停下,整体交互自然且仅依靠激光雷达和视觉感知。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍跟随模式和扩展功能,使用UWB信令实现精准跟随,配备可负载10kg的扩展板和筐,支持安装运动相机、云台等设备进行视频跟拍,UWB信令内置麦克风可避免环境噪音干扰。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;演示导航和牵引功能,导航需先建图后可通过语音指令到达指定地点,具备泛化能力和夜间导航能力,无需手动设置位置信息;牵引模式适用于复杂环境,可直接拉着大头行走。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明大头不需要遥控器的原因,但App中仍保留遥控选项作为安全冗余;重点介绍Avatar替身功能,可远程控制机器人本体并获得低延迟体验,以新视角与世界互动,带来纯粹的快乐。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍闻歌起舞功能,大头能识别音频波形并根据音乐节奏自动生成踩点动作,解决了传统机器狗舞蹈需手动控制播放时机的问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;重点阐述大头的生命感来源:不可预测的自主决策能力和符合生物直觉的动作,通过思维链示例展示大头能自主寻找感兴趣的事物、做出抬头等自然动作、识别同类并主动与人互动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍空间Agent能力使大头能完成多步骤复杂任务;总结Vbot用现有技术实现了大量创新体验,产品完成度高、使用门槛低、细节打磨到位,让用户能沉浸在功能带来的神奇体验中。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;结尾表达对产品的高度认可,认为大头已超越尝鲜产品水平,是真正值得陪伴的机器人,感谢Vbot团队和北京林业大学Vlight Studio的支持。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
