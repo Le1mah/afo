@@ -4,8 +4,228 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-01-22T20:12:34.574Z</updated>
+  <updated>2026-01-23T20:09:23.667Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - January 23, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-01-23</id>
+    <updated>2026-01-23T20:09:23.667Z</updated>
+    <published>2026-01-23T20:09:23.667Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>11 articles from 8 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 23, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;25.205479452054796&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    6.3%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;23&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;342&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6.3%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22369&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;I’m sick. I think it‘s manflu. Symptoms include aches, pains, pouts, and petulance. Please send pics/videos of your dogs and cats to cheer me up.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Developer requests pet photos while sick with flu, receiving supportive community response with numerous cat and dog images.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;A developer posted on social media about being sick with flu-like symptoms (humorously termed &amp;quot;manflu&amp;quot;), requesting pet photos/videos for comfort. The community responded with numerous images of their cats, dogs, and other pets, along with supportive messages acknowledging the genuine severity of the illness. Context was provided that the current flu variant is particularly harsh, having knocked people out for extended periods during the holiday season. The post gained traction across platforms (Mastodon, Bluesky) with engagement from multiple community members, demonstrating the supportive nature of the tech community even around lighthearted requests.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Original Post Context:&lt;/strong&gt; Author reports being sick with &amp;#039;manflu&amp;#039; on January 23rd, 2026, experiencing aches, pains, and general discomfort. Requests pet photos/videos from followers to help improve their mood.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Community Pet Responses:&lt;/strong&gt; Multiple community members respond with photos of their pets including cats (Keiko, Roxy, Itsy, Badger cat), dogs (Lily, Olive, Sir Christopher Wigglebutt), and other animals. Contributors include Pierre Spring, Markus Finell, Mark Norman Francis, Kerry Buckley, Ethan Marcotte, and others.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Sympathy and Validation:&lt;/strong&gt; Respondents acknowledge the legitimacy of &amp;#039;manflu&amp;#039; symptoms with supportive messages. ManFlu account emphasizes that &amp;#039;the pain is REAL&amp;#039; and encourages the author to stay strong.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Illness Severity Context:&lt;/strong&gt; Andy Davies notes the current flu variant is particularly severe, mentioning it knocked people out for a week after Christmas. This provides context that the illness is genuinely serious beyond the humorous &amp;#039;manflu&amp;#039; framing.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Social Engagement Metrics:&lt;/strong&gt; The post received 6 documented likes from various users including Daniel Appelquist, Marijke Luttekes, Andy Davies, Ethan Marcotte, and Ms. Jen throughout January 23rd, 2026. Post was shared across multiple platforms including Mastodon and Bluesky.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-269-/viewer?title_no=853933&amp;episode_no=282&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 269&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画DOGHAUS第269集目录页面&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是WEBTOON平台上名为DOGHAUS的网络漫画系列第269集的目录页面。页面展示了从第1集到第269集的完整剧集列表,包括常规集数和特别公告集(如Sunday Strip和Book Announcement)。页面提供了订阅、分享、举报等互动功能,并在底部展示了CANVAS平台上其他漫画作品的排行榜,包括浪漫、喜剧、超级英雄等不同类型的推荐作品。创作者为Moowsie。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/book-review-surely-you-cant-be-serious-the-true-story-of-airplane/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Surely You Can&amp;#039;t Be Serious - The True Story of Airplane! ★★⯪☆☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《空前绝后满天飞》制作口述史,有趣但不够深刻&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一本关于经典喜剧电影《空前绝后满天飞》(Airplane!)制作过程的口述历史扩展版。全书以访谈片段形式呈现,涵盖了项目前史、拍摄过程和后续影响,风格类似DVD花絮特辑。虽然包含一些有趣的幕后故事和照片,展示了如何致敬《Zero Hour》等细节,但整体偏向好莱坞式互相吹捧,缺乏深度批评。书中透露派拉蒙丢弃了包括20分钟原始剪辑在内的所有素材,令人遗憾。作者认为本书适合影迷消遣,但不算特别有启发性,给出三星半评价。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本书是Will Harris关于电影《空前绝后满天飞》(Airplane!)口述历史的扩展版本,以访谈片段形式呈现了该项目的前史、制作过程和后续影响,整体风格类似DVD花絮特辑,充满好莱坞式的互相吹捧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中包含一些温和的批评,如对拒绝剧本的人的调侃,以及关于OJ Simpson在《白头神探》中糟糕演技的评论,但Quentin Tarantino的点评等内容显得多余,Tim Allen对喜剧现状的抱怨也不合时宜。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中照片质量不错,特别是展示了如何模仿《Zero Hour》镜头构图的内容,虽然有些轶事像IMDb琐事一样被反复讲述,但对于电影学生来说仍有娱乐价值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中透露了一个令人沮丧的事实:派拉蒙当时为节省空间丢弃了所有每日样片,包括《空前绝后满天飞》20分钟更长原始剪辑版的素材,只有《教父》的花絮被保留下来。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为这本书适合影迷浏览,但缺乏重大发现,给出了三星半的评价,并提供了多个购书链接。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/01/22/a-crowdsourced-repository-for-optimization-constants/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A crowdsourced repository for optimization constants?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Tao提议建立优化常数众包库以促进数学研究&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Terence Tao观察到Thomas Bloom的Erdös问题网站通过AI辅助方法取得显著进展后,提出创建一个优化常数众包数据库的想法。这些优化常数来自各种数学优化问题,目标是记录已知的最佳上下界,激励各方(专业数学家、业余爱好者、科技公司)改进现有结果。作者已在Github上建立包含两个示例常数的概念验证库,并欢迎社区贡献新常数或改进现有界限,特别关注适合计算和AI方法的问题。这一倡议旨在复制Erdös问题网站的成功模式,通过精心策划的数据库促进数学研究的系统性进展。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Thomas Bloom的Erdös问题网站近期活跃度很高,因为一些未解决的开放问题可以通过AI辅助方法解决,形成了一个包含人类、AI及混合贡献的活跃社区。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为维护一个精心策划的数学问题数据库可以让其他方以多种方式(包括AI和人工方法)系统地在部分问题上取得进展,并思考可以创建哪些其他数学数据库来激发类似活动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出创建一个众包的优化常数库,记录各种数学优化问题中常数的最佳上下界,以鼓励专业数学家、业余数学家或科技公司研究团队改进现有成果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在Github上建立了概念验证库,初始包含两个常数:与Sidon集相关的自相关量常数和Erdös最小重叠问题常数,并为每个常数分配编号以便参考。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该库已准备好接受更多贡献,包括添加新常数或改进现有常数界限的拉取请求,作者特别关注那些有大量渐进改进文献且适合计算或AI辅助方法的常数,并希望获得改进库的反馈。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-23T10:39Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-23T10:39Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 赞扬GOV.uk以简洁实用的设计提供优质用户体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者高度赞扬了英国政府网站GOV.uk的开发者，称赞他们在处理税务系统时提供了愉快的用户体验。文章强调该网站采用了传统的多页面HTML表单设计，具有良好的可访问性，没有使用过度复杂的前端技术、没有以开发者体验为名义造成用户障碍，也没有采用那些流行但不实用的设计趋势（如极小字号的灰色文字）。作者通过对比隐含批评了当前web开发中过度工程化和追求形式大于功能的现象。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21286&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ドラマ『チェイサーゲームW』公式ノベライズ 小説 チェイサーゲームW 1/23より2巻配信！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 女性复仇爱情剧《チェイサーゲームW》官方小说化隔周发售&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文宣布电视剧《チェイサーゲームW》的官方小说化作品于2026年1月9日起隔周发布。这部描绘女性间复仇爱恨剧的小说在原剧情基础上增加了原创内容、心理描写和官能场景。故事围绕游戏开发者春本樹与前女友林冬雨在职场重逢后的爱恨纠葛展开,包含职场权力斗争和项目机密泄露等情节。作品由CyberConnect2的松山洋总监修,售价660日元,同时宣布了5月15日电影版上映的消息。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;电视剧《チェイサーゲームW》的官方小说化作品于1月9日起隔周发布单行本，1月23日已发布第2卷，在各大电子书店均可购买。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这部小说改编自描绘女性之间爱恨纠葛的人气剧集，以剧情为基础添加了原创故事、人物心理描写和官能场景，从全新视角讲述故事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第1卷讲述游戏开发公司职员春本樹被任命为中日合作项目负责人，却发现中方负责人是她曾单方面分手的前女友林冬雨，冬雨因怨恨而对樹施加刁难。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第2卷中冬雨在欢迎会上向樹泼洒红酒进行报复,同时项目机密信息遭泄露,樹向冬雨告知此事却得到令人震惊的回应。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小说由CyberConnect2公司的松山洋总监修,保坂星耀编剧,售价660日元,并宣布电影《チェイサーゲームW 水魚の交わり》将于5月15日上映。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105709&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 11 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本周11部优质影视作品推荐及最新预告资讯&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部推出的每周影视推荐栏目,精选了11部近期值得观看的优质作品,涵盖美剧、日剧、韩剧、动画和电影等多种类型。推荐作品包括《权力的游戏》衍生剧《七王朝的骑士》、科幻惊悚剧《哥本哈根测试》、温馨喜剧《乔治与曼迪的头婚生活》第二季、奇幻日剧《侦探先生你的背包开着呢》、探讨爱情的韩剧《爱我》、治愈系动画《葬送的芙莉莲》第二季以及音乐科幻电影《超时空辉夜姬》等。此外还汇总了本周重要影视预告和新闻,包括多部动画电影预告发布和院线定档信息,为读者提供全方位的观影指南。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了本周推荐观看的11部影视作品,包括美剧《七王朝的骑士》《哥本哈根测试》等,日剧《侦探先生,你的背包开着呢》等,韩剧《爱我》,以及动画《葬送的芙莉莲》第二季和多部电影。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《七王朝的骑士》是《权力的游戏》衍生剧,讲述邓克与伊戈的中世纪公路冒险故事;《哥本哈根测试》聚焦华裔特工被植入纳米机器成为人形摄像头的高概念科幻惊悚剧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《乔治与曼迪的头婚生活》第二季以轻松诙谐方式探讨婚姻真实;《历劫惊途》第二季将劫持事件从航班转移到柏林地铁。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;日剧《侦探先生,你的背包开着呢》是温暖治愈的奇幻荒诞侦探剧;《二子多磨》探讨30代社畜的同居与婚姻现状。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;韩剧《爱我》通过母亲离世后家庭成员的爱情故事,指出东亚语境下要先爱自己的主题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《葬送的芙莉莲》第二季继续芙莉莲的旅程,以恬淡日常戏为主;电影《超时空辉夜姬》是汇集知名Vocaloid P主的音乐科幻作品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《时空奇旅》讲述少年穿越时空的冒险故事;真人秀《背叛者》第四季进行真人版狼人杀游戏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还推荐了更多日韩剧集和电影,包括《缉毒警与疯犬》《亲爱的盗贼大人》《真理与背叛》等作品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周新预告包括《花绿青绽放的黎明》《机动警察EZY》《宇宙巨人:希曼崛起》《飞驰人生3》等多部动画和电影作品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;影视新闻方面,《你好,爱美丽》确认引进内地,《奇迹梦之队》定档3月14日,《呼啸山庄》定档3月13日,《爱乐之城》2月14日重映,《镖人:风起大漠》定档春节。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105475&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版）&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 美国新膳食指南强调真实食物,蛋白质优先,脂肪正名,碳水降级&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;美国2025-2030版膳食指南在特朗普政府推动下发布,核心理念是&amp;quot;吃真实的食物&amp;quot;,反对超加工食品。新指南最大变化是膳食金字塔倒置:蛋白质优先级大幅提升(推荐量从0.8克/公斤提至1.2-1.6克/公斤),为天然脂肪正名(但仍限制饱和脂肪在总热量10%以内),碳水化合物从基础降为配角(全谷物压缩至2-4份/天)。此外提出六条建议:零容忍添加糖、推荐全脂乳品、重视肠道健康、多吃完整蔬果、健康烹饪方式、限制酒精。作者认为这是对近年研究的官方总结,有参考价值但非颠覆性发现,强调适量原则和因人而异,同时指出健康饮食需要时间、金钱和自律,具有一定&amp;quot;奢侈性&amp;quot;。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2025年1月7日美国发布新版膳食指南,在特朗普政府领导下提出&amp;quot;Make America Healthy Again&amp;quot;口号,旨在应对美国严峻的公共健康危机,包括50%的美国人患有糖尿病前期或糖尿病、75%成年人患慢性病等问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新指南核心理念是&amp;quot;吃真实的食物&amp;quot;,强调食物的完整性和成分纯净性,反对超加工食品。研究显示超加工食品与多种健康风险相关,包括全因死亡风险升高21%、心脏病死亡风险升高66%等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新版膳食金字塔发生倒置,将蛋白质和健康脂肪提升至优先位置,蛋白质推荐摄入量从每公斤体重0.8克提升至1.2-1.6克,体现从&amp;quot;防止缺乏&amp;quot;到&amp;quot;促进最优&amp;quot;的转变。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;指南为脂肪正名,认为天然饱和脂肪并非想象中有害,真正应警惕的是反式脂肪。推荐健康脂肪来源包括肉类、鸡蛋、海鲜、坚果等,但仍建议饱和脂肪不超过总热量10%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;碳水化合物从膳食基础降级为配角,全谷物推荐量压缩至每天2-4份,强调减少精制碳水。研究显示碳水供能比在50-55%左右最佳,过高或过低都会增加死亡率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;六条饮食健康建议包括:对添加糖零容忍、全脂乳品回归、重视肠道健康摄入发酵食物、多吃完整蔬菜水果、选择健康烹饪方式、限制酒精摄入。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为该指南是对近年主流研究的官方总结,具有参考价值但需警惕断章取义。强调适量才是关键,健康饮食需要时间、精力和预算,有时还需要与本能对抗,是一件并不轻松的事。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105578&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一日一技 | 老 Mac 系统恢复指北&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通过修改NVRAM等技巧成功修复被T2芯片锁定的旧MacBook Pro&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者修复2018款MacBook Pro的完整过程。设备因T2安全芯片和旧Apple ID管理员账号删除导致重置失败，U盘启动被拒，网络恢复因系统过旧报错。作者通过三个关键步骤解决问题：在iCloud中移除设备、校准系统时间、修改NVRAM重定向下载源。最终成功将系统从High Sierra升级到Ventura，让闲置设备重获新生。文章为遇到类似T2芯片Mac重置问题的用户提供了实用的技术解决方案。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在2022年购入M1芯片MacBook Pro后，闲置了2018年的Intel芯片版本，尝试重置时遇到T2安全芯片阻拦，差点将设备变砖。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;设备曾使用过两个Apple ID，原管理员账号被删除，导致无法通过U盘启动和修改安全性设置，网络恢复也因High Sierra系统过旧而报错-2100F。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解决方案包括三步：在iCloud的Find中移除设备以避免激活锁、在终端中校准系统时间以修复HTTPS握手失败、通过修改NVRAM重新定向下载源指向包含更多系统版本的地址。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;完成所有操作后重新进入网络恢复，系统从High Sierra变为Ventura，成功下载并恢复，闲置多年的设备得以重生。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105695&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：realme 真我发布新品、Xbox 应用登陆 Arm PC 等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技品牌集中发布新品及服务更新&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期派早报汇总了多个科技品牌的最新动态。realme发布搭载骁龙8 Gen 5的Neo8手机,主打游戏性能和超大电池;索尼推出轻量化开放式耳机LinkBuds Clip;Adobe为Acrobat Studio引入AI功能,支持PDF转播客;微软Xbox应用正式支持Arm架构PC;Marshall推出基于Auracast技术的音乐流媒体中枢;Keychron发布首款磁轴数字小键盘;CHERRY中国辟谣倒闭传闻;苹果被曝计划推出配备机器人底座的智能家居设备。内容涵盖手机、音频、软件、游戏和智能家居等多个领域的产品更新与市场动态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;realme真我发布Neo8手机等新品,Neo8搭载第五代骁龙8 SoC,首发165Hz三星苍穹屏,配备8000mAh电池,支持PC掌机模式,售价2399元起。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;索尼推出LinkBuds Clip开放式耳机,采用C形桥轻量化设计,单耳续航9小时,配备AI降噪和高精度语音拾取技术,售价1299元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Adobe更新Acrobat Studio,整合AI技术推出三大功能:自动生成演示文稿、将PDF转换为播客音频、自然语言编辑模式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软宣布Xbox应用正式支持Arm架构Windows 11 PC,超过85%的Game Pass游戏已兼容,Prism模拟器支持AVX指令集。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Marshall推出Heddon音乐流媒体中枢,采用Auracast技术实现多房间同步播放,支持Spotify Connect、Tidal等服务,定价300美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Keychron推出首款磁轴数字小键盘Q0 HE,采用铝合金外壳,搭载佳达隆双轨磁轴,支持三模连接和1000Hz回报率,售价139.99美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CHERRY中国发布声明辟谣倒闭传闻,强调全球业务持续运营,中国市场运营正常,此前传闻系德国工厂调整消息的误传。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;The Information报道称苹果计划春季发布配备机器人旋转底座的智能家居中枢,结合具身智能技术提升交互体验,预计与iOS 26.4同期发布。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;科技爱好者周刊（第 382 期）：独立软件的黄昏&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 独立软件时代落幕,AI重塑开发与推广生态&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是科技爱好者周刊第382期,主题为&amp;#039;独立软件的黄昏&amp;#039;。作者阮一峰深入分析了独立软件从2005年黄金时代到如今逐渐没落的演变过程,指出AI改变流量模式、开发门槛降低、用户转向网络软件等七大因素正在终结个人开发者靠销售软件为生的时代。文章还涵盖了VS Code定位转变、智能脖巾等科技动态,推荐了数据库、AI工具等技术文章和开源工具,展示了中国新能源建设摄影作品,并分享了谷歌工程师的职场经验和行业观点,内容丰富全面地呈现了当前科技领域的多个重要趋势。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了独立软件的历史和现状,指出从共享软件时代到现在,个人开发的独立软件在市场中的比重正在急剧下降,公司开发的软件占据主导地位。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2005年后互联网普及、智能手机、在线支付等因素推动了独立软件的黄金时代,程序员可以通过SEO和付费广告获利,许多独立软件发展成为大公司。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;最近两三年独立软件面临七大挑战:AI改变流量模式导致推广渠道失效;AI降低开发门槛加剧竞争;应用商店竞争激烈;用户转向网络软件;平台规则风险;用户期望免费或低价;这些趋势将长期存在并加深。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;科技动态包括VS Code将产品定位改为&amp;#039;AI代码编辑器&amp;#039;、英国发明帮助中风患者的智能脖巾、迪斯尼推出雪宝机器人、LG展示家务机器人等内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章推荐部分介绍了多篇技术文章,包括建议用MariaDB替代MySQL、AI代码评审技巧、使用Pandoc生成静态网站、HTML锚点元素技巧、自定义元素教程、编程语言对比和个人基础设施搭建等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工具推荐涵盖GoRead电子书阅读器、EasyPostman API调试工具、端口哨兵、楼盘采光模拟工具、Office网页应用、截屏工具、SSH服务器、文件传输工具、路由器插件和族谱工具等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI相关工具包括ChatGPT翻译功能、本地文件搜索工具Mango Desk、OpenWork文件操作工具和AI狼人杀游戏等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;资源部分介绍了维基百科25周年纪念网站、HTTP标头查看工具和现代Java教程,图片展示了中国新能源建设的惊人规模。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文摘分享了一位工程师在谷歌14年工作的经验教训,包括沟通的重要性、晋升需要他人推荐、专注可控事项、简化工作提高绩效、时间比金钱更宝贵等五点核心经验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;言论部分收录了关于AGI、Netflix制作策略、程序员知识分享文化、iOS界面亮度问题和批评大型组织的思考等五条有见地的观点。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - January 22, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
