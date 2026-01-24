@@ -4,8 +4,116 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-01-23T20:09:23.667Z</updated>
+  <updated>2026-01-24T20:04:41.325Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - January 24, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-01-24</id>
+    <updated>2026-01-24T20:04:41.325Z</updated>
+    <published>2026-01-24T20:04:41.325Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>4 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 24, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;26.301369863013697&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    6.6%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;24&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;341&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6.6%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22370&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reading The Morrigan by Kim Curran.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年1月阅读《The Morrigan》的记录&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条简短的阅读记录,记录了作者在2026年1月24日下午2点48分阅读Kim Curran所著的《The Morrigan》。记录中包含了地理位置信息(北纬51度,东经0度),并提供了Bookshop和Open Library的链接,同时邀请读者分享回应链接。这是一条典型的个人阅读日志或社交媒体分享。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/installing-and-updating-filezilla-from-a-zip-file-on-pop_os-ubuntu/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Installing and Updating Filezilla from a Zip File on Pop_OS / Ubuntu&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 在Linux上将Filezilla解压安装到/opt/目录的完整指南&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者关于在Linux系统上安装Filezilla的个人笔记。由于Flatpak和apt提供的版本存在问题,作者选择使用官方提供的压缩包版本。文章详细记录了将Filezilla解压到/opt/目录的完整步骤,包括使用tar命令解压、调整目录权限、处理软件更新,以及创建desktop文件以便从系统启动器启动的方法。作者以实用性为导向,提供了具体的命令和配置文件内容,方便日后查阅和其他用户参考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因为Flatpak版本无人维护且apt版本过时,选择下载Filezilla的压缩包版本进行安装,但官方Wiki没有说明解压位置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解决方案是将文件解压到/opt/目录,使用tar命令解压,首次安装需要调整目录权限为root用户和组。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Filezilla会定期检查更新并下载到~/Downloads/目录,需要手动运行命令安装新版本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为了从启动器或dock启动Filezilla,需要在/usr/share/applications/目录下创建Filezilla.desktop文件并添加指定的配置内容。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Twokinds &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://twokinds.keenspot.com/comic/1282/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[1282] Dark Reflection&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网络漫画导航页面提供浏览和书签功能&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一个网络漫画导航页面，提供了浏览漫画的基本功能。页面包含标准的导航链接（首页、上一页、归档、下一页、最新页），支持使用方向键或J/K键进行快捷导航，并允许用户为任意页面添加书签以便日后查看。该页面标记为ZenEric标签，并提供RSS订阅和永久链接功能。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105679&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;地产人勇闯科技圈：在少数派造物的 180 天&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 三位地产中年人转型科技圈180天造物记&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;三位房地产行业中年人在AI时代转型科技圈的180天历程。他们通过使用AI工具开始学习编程,在少数派社区了解到共创模式后深受启发。团队成立无界造物科技公司,从举办AI创意破壁大会到实际开发各类软硬件产品,经历了从创意爆发到认清商业现实的过程。他们深入供应链、手焊电路板、跑工厂,开发出AI采访工具、智能硬件、效率工具等多个产品。文章强调了传统行业与科技的底层逻辑相通,以及AI时代普通人试错和造物的可能性,呼吁更多人勇敢跨界创造。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三位来自房地产行业的中年人林毅、作者和Sunny,在AI时代开始学习编程和技术,分别开发了体重控制算法、会所预定系统和桌面机器人等产品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过使用ChatGPT并在少数派分享经验而破圈,参加AI论坛并接触到科技圈,意识到AI是普通人也能拥有的新质生产力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者了解到少数派的共创模式,看到Quote/0团队从无技术背景到产品落地只用5个月,受到启发决定也尝试造物。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三人在鲲鹏会10周年大会上承办AI分会场,开发了产品研发AI agent工具,成立无界造物科技有限公司并获得投资。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者发现从创意到交付存在巨大挑战,总结出9条商业原则,包括科学、技术、工程、商业的区别,以及产品定价和市场竞争等规律。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;团队在少数派支持下开始实际造物,开发了AI采访工具、求签机、塔罗牌、音乐产品、效率工具等多个项目,并深入学习供应链和生产流程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;团队认为最大收获是学会了动手做产品,强调试错的重要性,并计划2026年继续在少数派开源产品和经历,邀请更多人加入造物行列。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - January 23, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2143,175 +2251,6 @@ Google has reversed its default indexing policy, now requiring websites to have 
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;任天堂否认在My Mario玩具广告中使用AI生成工具，参演模特确认实际参与拍摄，争议主要围绕模特拇指的呈现方式。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;小道消息包括Google计划将Pixel生产迁出中国、Apple以20%市场份额登顶全球智能手机市场、拼多多内测百亿超市业务、荣耀将与泡泡玛特合作推出联名手机。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派近期动态包括2025年度盘点上线、会员年终福利活动、扭扭宝充电宝开售、GAMEBABY系列和蓝皮书新版上架等内容。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - January 13, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-01-13</id>
-    <updated>2026-01-13T20:09:59.740Z</updated>
-    <published>2026-01-13T20:09:59.740Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>13 articles from 7 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 13, 2026&lt;/h1&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;13&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22354&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;There should be a German word for the slightly smug warm feeling you get from using an obscure HTML element like `dfn` in your most recent blog post, like wot I did. Elementenrichtigkeitsgefühl&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享使用冷门HTML标签的愉悦感&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇简短的博客文章,作者Jeremy Keith分享了在博客中使用了HTML的&amp;lt;dfn&amp;gt;标签后产生的微妙自豪感,并幽默地创造了一个德语词汇&amp;#039;Elementenrichtigkeitsgefühl&amp;#039;来描述这种感受。文章引发了社交媒体上的互动,其他用户提出了更符合德语构词习惯的替代词汇,如&amp;#039;Elementstolz&amp;#039;和&amp;#039;Elementnutzungserhabenheitsgefühl&amp;#039;,还有挪威语版本。这反映了开发者社区对技术细节的关注和幽默感。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22353&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;RAMO&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 别让RAMO成真，快来参加Web Day Out前端开发会议&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者通过描述错过心仪会议后看到他人分享而产生的遗憾感受，创造了RAMO（regret at missing out）这个概念。文章以轻松幽默的口吻提醒读者不要错过即将举办的Web Day Out前端开发会议。作者详细列举了会议的精彩议题，涵盖JavaScript、浏览器兼容性、PWA、web排版等前沿话题，并强调票价合理（225英镑+VAT）。文章采用共鸣式写作手法，先引发读者对错过精彩活动的回忆，再推出解决方案，鼓励读者及时行动购票参会。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者描述了一个常见场景：听说了一个很好的会议但因忙于工作而没有买票，等到会议当天看到社交媒体上参会者的精彩分享时才后悔错过。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将这种情况称为RAMO（regret at missing out，错过后的遗憾），并以FFconf、dConstruct和Beyond Tellerrand等会议为例说明这种感受。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者强烈推荐Web Day Out会议，列举了8个精彩主题演讲，包括JavaScript、浏览器支持、PWA、web开发、web排版等前端开发相关内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者呼吁读者现在就购买225英镑+VAT的门票，强调这是新年开始后需要期待的激动人心的网站开发盛会，并提供说服老板的帮助。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22352&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The best film I saw in the cinema in 2025 was definitely…&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享2025年最佳观影体验但未透露片名&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇简短的社交媒体帖子,发布于2026年1月13日。作者提到2025年他们在电影院观看的最佳电影,但并未透露具体片名,留下了悬念。帖子包含时间戳、地理位置标记(北纬51度,东经0度)以及社交平台互动信息,显示有两位用户点赞。这是一个典型的个人博客或微博式的简短分享,鼓励读者互动和回应。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/stop-picking-sides.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Stop Picking Sides: Manage the Tension Between Adaptation and                Optimization&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 管理适应与优化的张力而非选边站&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨如何管理软件开发中适应性与优化之间的张力。作者Jim Highsmith提出通过探索模式(快速学习)和利用模式(可靠交付)的主导性调整来应对不确定性。关键洞察包括:大多数项目在阶段交接处失败而非阶段内部;扩展阶段是连接两种模式的桥梁;应使用不确定性、风险、变更成本和证据阈值四个旋钮来调整主导性;采用DARE决策框架而非RACI;通过早期集成减少交接税。文章强调这是需要管理的张力而非需要选边站的立场,真正的裁剪是为适配而设计运营模式。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;许多团队陷入了只专注于适应性或优化的极端,但实际上两者都很重要,需要管理它们之间的张力。可以通过探索模式(适应性主导)和利用模式(优化主导)来实现,根据不确定性、风险、变更成本和证据阈值来调整团队的运营模式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者Jim Highsmith从编程到高管咨询的丰富经历,是敏捷宣言联合作者之一,目前处于半退休状态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;软件行业多年来一直面临这种张力,现在更多行业也开始遇到同样的问题。生命科学领域通过CRISPR、AlphaFold等工具加速了早期探索周期,但下游工作变得更昂贵、更受限制。更快的学习速度并不能消除约束,反而提高了草率决策的成本。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;探索模式以快速降低不确定性为目的,将工作视为一系列假设并运行短周期测试。利用模式以在约束下减少变异为目的,收紧流程并提高证据阈值。两种模式并非纯粹存在,而是存在主导性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;扩展阶段是连接探索和利用的桥梁状态,需要同时扩大证据规模、提高约束并减少模糊性。许多组织在这个阶段支付最高的交接税,因为团队保持探索行为而工作已要求利用纪律。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;大多数项目不是在某个阶段内失败,而是在阶段接缝处失败。交接税包括翻译失败、证据不匹配、所有权模糊和可追溯性差距。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;双模IT试图通过将探索性工作和稳定交付分离到不同组织单元来解决张力,但实践中演变成了部落战争。这种能力必须存在于每个决策者中,而不能外包给组织架构。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Sciex案例展示了早期集成如何减少交接税。通过让固件、硬件和软件在迭代中早期集成,而不是等到完全功能板才开始,实现了更早发现问题、更快解决和更好的沟通。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过四个旋钮使主导性可操作:不确定性、风险、变更成本和证据阈值。探索主导模式优化学习循环,扩展阶段扩大证据并收紧约束,利用主导模式在护栏内适应。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;决策权应使用DARE而非RACI。DARE包括决策者、顾问、推荐者和执行利益相关者,保持快速承诺的同时给予更多人发言权但不是投票权。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;真正的裁剪意味着为适配而设计,保留保护安全、质量和可追溯性的约束,保留保护学习速度的实践,并设计好模式间的接缝。裁剪需要判断力,而判断力无法规模化购买。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结要点:停止售卖敏捷vs传统的故事,而是为张力而设计,将探索-扩展-利用视为主导模式集合,有目的地调整旋钮,在接缝处减少交接税,将裁剪视为运营设计。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/book-review-under-the-eye-of-the-big-bird-hiromi-kawakami/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Under the Eye of the Big Bird - Hiromi Kawakami ★★★★☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 梦幻迷离的末世科幻寓言探讨人性困境&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这部科幻小说融合多部经典作品元素,以梦幻朦胧的叙事风格讲述人类残余文明的故事。作者采用渐进式披露手法,用晦涩的语言反映新人类的困惑。故事探讨了等级制度和社会结构问题,展现人们在渴望自由与维护现状之间的矛盾。尽管倒数第二章的大量背景信息倾倒影响了叙事节奏,跨越永恒的故事略显压抑,但整体仍是一部优秀作品,获得四星评价。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这是一部引人入胜的科幻小说,融合了《Oryx and Crake》和《A Canticle for Leibowitz》的元素,讲述人类残余文明在被污染的地球上挣扎求存的故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;叙事风格梦幻朦胧,类似石黑一雄的《Never Let Me Go》,故事采用渐进式披露方式,倒数第二章突然大量倾倒背景信息破坏了整体节奏。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;语言晦涩模糊,反映新人类的困惑状态,故事探讨了对日本式社会等级制度的反思,人们既渴望逃离束缚又固守现状,最终导致灾难性后果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这是一个跨越永恒岁月的漫长故事,整体基调略显压抑,但仍获得四星评价。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-13T09:34Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-13T09:34Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 游戏总监揭秘《Anthem》从十年计划到惨败的内幕&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Mark Darrah作为游戏总监在YouTube上发布了一段4小时的深度分析视频,详细揭露了游戏《Anthem》失败的真相。这不是普通YouTuber的猜测,而是来自内部人士的珍贵见解。《Anthem》原本被规划为一个持续十年的游戏系列,但最终却遭遇了惨败。这段视频为人们提供了理解大型游戏项目为何会失败的独特视角。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-13T08:23Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-13T08:23Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 开发者幽默自嘲不懂Git rebase操作&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇幽默的开发者日志,作者以自嘲的口吻承认在Git发布1080周年后仍然不理解rebase操作。作者一直使用merge策略,不确定其他人是否注意到这个弱点,或者其他人是否也有同样的困惑。文章以轻松诙谐的方式提出关于rebase工作原理的疑问,反映了许多开发者在使用Git高级功能时的共同困扰。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202601/62882&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【『戦場のフーガ』開発記録】『インターミッション』第79回 公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 『戦場のフーガ』第79話の開発記録と制作裏話&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文は『戦場のフーガ』のマンガ連載第79回の開発記録。ワッパがマルトを連れて来ない中、メイから「アッシュって誰？」と問われる展開が描かれ、5年前の事件の真相が明かされる予告がなされる。キャラクターの異名設定の裏話として、各キャラクターの能力や性格に基づいた命名過程が紹介され、敵戦艦ガルガンチュアの見開きページとマンガ表現技法についても解説される。次回は1月20日掲載予定で、松山洋氏の新著『ゲーム業界の攻略法』も2月16日発売予定と告知されている。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ワッパは朝まで待ってもマルトを連れて来ず、メイから「アッシュって、誰？」と聞かれる展開となり、真相を知るハンナたちが困惑している。5年前の事件の真相がゲーム版とは異なる形で語られる予定。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;「魔弾のアッシュ」などの異名について、ディレクターと脚本担当がキャラクターの能力や性格に基づいて考案したことが説明される。パイロックの「火焔魔人」、サイクの「怠惰の天使」、ティーレの「哭き姫」などの由来が紹介されている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;敵側の戦艦ガルガンチュアの見開きページが公開され、マンガ版のために新たに設定された機体番号などが紹介される。マンガの右から左への進行方向に合わせた演出についても解説されている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;編集部コメントとして、ガルガンチュアを追う子どもたちとワッパの目的、マルトの真実の語られ方への期待が述べられ、次回は2026年1月20日掲載予定と告知される。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;松山洋氏の著書『ゲーム業界の攻略法』が2026年2月16日に発売予定で、ゲーム業界志望者向けの内容や就職面接の実態、合格者のポートフォリオなどが収録されていることが紹介されている。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 好色龍的網路生活觀察日誌 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://hornydragon.blogspot.com/feeds/2876386522241398682/comments/default&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;雜七雜八短篇漫畫翻譯2224&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博客漫画翻译的读者评论互动集&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇博客评论集合，包含四条读者对漫画翻译内容的回复。评论内容涉及异世界题材中的厨艺技能、快龙的北欧型态、嚕嚕米（Moomin）的河马形象以及其他轻松幽默的讨论。评论者们以诙谐的语气交流，展现了对漫画内容的喜爱和互动氛围。整体呈现出轻松愉快的网络社群交流特点。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105406&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 126 | 语音输入法大讨论、派友辣评CES、让桌面更整洁的磁吸方案&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 语音输入法讨论、CES新品点评与桌面整理方案分享&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期少数派社区速递聚焦语音输入法、CES新品和桌面整理方案。352名派友参与语音输入工具大讨论,微信和豆包输入法获高度认可,但隐私和场景限制仍是痛点。CES 2026展会呈现诸多创新产品,从联想带鱼屏笔记本到家用清扫机器人,引发派友热烈吐槽。社区还分享了HM Hub拓展坞和磁吸桌垫的桌面整理方案,以及科沃斯窗宝mini擦窗机器人的深度评测。整体内容涵盖数字工具、消费电子、生活方式等多个维度,展现了少数派社区活跃的讨论氛围和实用的产品分享。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期社区速递第126期包含语音输入法讨论、CES展会盘点和桌面磁吸方案等内容,由Matrix机器人整理发布。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;一派热议环节中,352名派友参与了语音输入工具讨论,微信和系统输入法占据主流,派友们分享了讯飞语音鼠标、VoiceSnap、豆包等多种工具的使用体验,也讨论了语音输入的场景限制和准确率问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;下期讨论话题为超广角镜头拍摄,本周热评涵盖了年度回顾、ThinkPad维修、CES 2026新品等多篇文章的精彩评论。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;热评话题包括CES展会上的创新产品如联想带鱼屏笔记本、家用清扫机器人、超声波菜刀等,派友们对这些产品进行了幽默犀利的点评。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;其他热议文章涵盖动态磁贴消亡、Gemini使用、浏览器扩展推荐、输入法对比、年度计划制定、南极旅游等话题,展现了社区丰富多元的讨论内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;社区摘要部分推荐了多篇优质文章,涉及产品经理、游戏开发、滑雪运动、阅读笔记、手机摄影等领域。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者新玩意栏目中,风马牛分享了HM Hub拓展坞和GWANG磁吸桌垫的使用体验,通过磁吸方案解决了桌面线材管理问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;东眠的熊详细评测了科沃斯窗宝mini擦窗机器人,593元购入,有效解决了高层住宅外窗清洁的安全性和便利性问题,擦窗效果超预期但智能化程度有待提升。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105358&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Typeless：语音输入法新物种，开启 AI 信息记录新时代&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI驱动的智能语音输入法,实现完美还原思维表达&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Typeless是一款突破性的AI语音输入法,它超越了传统语音输入法追求100%精确转录的局限,通过AI技术实现了还原大脑原始表达的目标。其基础功能包括100多种语言混合识别、实用按键布局、个性化词典和轻声输入支持。核心的AI进阶功能则包括自动移除语气词、实时编辑修正、智能排版,以及根据应用场景自动调整语气和用词正式度。这些功能真正解决了语音输入在实际使用中的痛点,让语音输入成为可替代实体键盘的主力输入方式,适用于微信沟通、写作记录等多种场景。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;传统语音输入法追求100%还原口述内容,但忽略了人类口头表达不完美的事实,导致编辑过程会被完整记录,这使得作者一直不习惯使用语音输入法,直到Typeless出现改变了这一困境。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Typeless的基础功能包括支持100多种语言混合输入、内置实用按键(@、空格、删除、Return)、提供词典功能实现个性化输入,以及支持轻声输入和不受背景音乐影响的语音识别能力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Typeless的AI进阶功能是其核心优势,包括自动移除语气词和重复输入、支持语音输入时实时编辑修改之前的表述、自动排版清单和要点内容,以及根据不同应用场景自动调整语气和词汇的正式程度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作为AI时代的新型语音输入法,Typeless真正解决了语音输入不够实用的问题,作者在iPhone上用它发送微信消息,在Mac上用它写作和记录想法,目前支持macOS、Windows和iOS平台,提供30天免费试用,之后按月或年订阅Pro计划。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105394&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;译文｜Tahoe 的图标令人难评&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 macOS Tahoe图标设计违背人机交互原则&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文批评了macOS Tahoe版本的图标设计,指出其违背了Apple自己在1992年提出的人机交互设计原则。作者从多个维度分析了问题:图标缺乏区分度和一致性,同一操作在不同应用中使用完全不同的图标;图标复用严重,同一图标代表多种不同操作;细节过多且尺寸过小(24×24像素)导致难以辨认;使用矢量字体造成模糊效果;隐喻令人困惑甚至误导用户;成对操作缺乏视觉关联;在图标中使用纯文字和系统元素。作者认为为每个菜单项添加图标的做法本身就是错误的,不仅缺乏足够的合理隐喻,还破坏了用户体验。文章强调基于人类认知的设计原则具有永恒价值,并批评Apple在图标设计上的全面倒退。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (13 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章通过对比1992年Macintosh人机交互指南与2025年macOS Tahoe版本,指出新版本在菜单选项中添加了大量难以辨认、杂乱无章的图标,违背了Apple自己曾提出的设计原则。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细分析了图标设计的核心原则:图标应具有区分度,不应为所有元素添加图标。微软的案例显示,选择性使用彩色图标能提高定位速度和易用性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章列举了Tahoe系统中图标缺乏一致性的大量案例,包括「新建」「打开」「保存」「关闭」「查找」「删除」等基础操作在不同应用中使用完全不同的图标设计。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;除了跨应用不一致,同一应用内部的工具栏和菜单也使用不同图标表示相同操作,如「预览」「照片」「地图」等应用都存在这一问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;图标复用是另一严重问题:同一图标在不同场景代表完全不同的操作,如同一图标既表示「新建」又表示「快速查看」,既表示「导入」又表示「更新」。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者批评了图标设计中细节要素过多的问题,指出用户难以区分仅在箭头角度、描边宽度等微小细节上有差异的图标,这种设计缺乏实用性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Tahoe的图标尺寸过小(24×24像素),物理尺寸仅为2.4毫米,导致许多细节根本无法清晰辨认,如微型相机取景器、2像素高的字母i等设计完全不切实际。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用矢量字体替代位图虽然灵活,但导致图标在像素网格上无法精确对齐,造成模糊和平庸的视觉效果,在高分辨率屏幕普及前这个问题尤为严重。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;许多图标的隐喻令人困惑或错误,如「全选」图标与实际选中效果不符,书签用书本图标,权限编辑像密码输入等,有些图标甚至完全误导用户。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章指出为成对操作(如撤销/重做)选择不同隐喻是常见错误,应保持视觉关联性。同时批评了在图标中使用纯文字的做法,因为难以区分图标和菜单文本。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;图标中使用系统元素(如窗口控件、快捷键符号)会造成混淆。有图标和无图标的菜单项混排破坏了阅读流畅性,用户无法快速扫视菜单。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为1992年的HIG设计原则依然适用,因为这些原则基于人类认知规律而非技术,人的记忆力、视力和注意力机制并未改变。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结指出Apple试图为每个菜单项添加图标是不可能完成的任务,既缺乏足够的合理隐喻,前提本身也存在问题,且在一致性和设计质量上表现糟糕,集齐了图标设计的所有常见错误。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105403&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Google 公布 UCP 通用商务协议等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技巨头在AI商务医疗领域密集布局&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了科技行业多条重要资讯。Google推出UCP通用商务协议并与Apple在AI领域达成合作,闲鱼上线潮玩寄卖业务。AI医疗领域动态频繁,Anthropic推出符合HIPAA的医疗服务,OpenAI收购健康公司Torch,但Google因误导性医疗总结移除相关功能。Instagram系统漏洞误发重置邮件,国内首款3D打印航空发动机试飞成功。此外还有高通发布新芯片、微软停止多项服务等行业动态,展现了AI技术在商务、医疗等领域的快速渗透及应用挑战。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google联合沃尔玛、Shopify等零售巨头发布UCP通用商务协议标准,旨在统一数字商务并集成到搜索引擎和Gemini中,方便用户快速购物。沃尔玛将与Google合作,让消费者通过Gemini在沃尔玛和山姆购物,业务率先在美国推出。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google与Apple宣布多年合作,下一代Apple Foundation Models将基于Google Gemini大模型,为Apple Intelligence和新Siri提供支持。Apple每年可能支付Google约10亿美元,新Siri使用1.2万亿参数模型。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;闲鱼上线潮玩寄卖业务鱼鲤购,提供官方检验、正品溯源和全程视频记录。商品为确认款无需盲抽,由卖家自主定价并实时展示最低售价。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Anthropic的Claude上线符合HIPAA要求的AI医疗服务,可处理受保护健康数据并整合科学数据库。班纳健康系统超22000名临床人员使用Claude,85%认为工作效率提升,且不会使用医疗数据训练模型。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI宣布收购成立不满一年的AI健康公司Torch,该公司开发的iOS应用可整合医疗健康数据为AI服务提供统一医疗记忆。交易价格超过一亿美元股权,Torch四位创始人将加入OpenAI。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google因AI总结功能对医疗关键词给出误导性总结而移除相关功能。《卫报》发现AI总结忽略重要条件直接给出数字,专家认为可能导致用户误判健康状况。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Instagram因系统漏洞误发数百万封密码重置邮件,外部第三方绕过验证批量发起重置请求。Meta强调这只是触发邮件的漏洞,并非系统遭入侵,已完成修复。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;中国航发湖南动力机械研究所研发的国内首款3D打印涡喷航空发动机试飞成功。3D打印增材制造材料利用率达90%以上,可实现传统工艺无法完成的精密设计,研发周期缩短30%以上。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;高通发布骁龙X2 Plus芯片,性能提升功耗降低。CineBench跑分显示单核落后Apple M4,多核险胜。其他消息包括Microsoft Lens停服、Chrome 150将是最后支持macOS 12版本、Meta移除54万未成年账号等。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
