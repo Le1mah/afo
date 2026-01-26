@@ -4,8 +4,271 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-01-25T20:05:31.676Z</updated>
+  <updated>2026-01-26T20:12:38.101Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - January 26, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-01-26</id>
+    <updated>2026-01-26T20:12:38.101Z</updated>
+    <published>2026-01-26T20:12:38.101Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>14 articles from 8 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 26, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;28.493150684931507&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    7.1%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;26&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;339&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 7.1%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;14&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-270-/viewer?title_no=853933&amp;episode_no=283&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 270&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画DOGHAUS第270集页面&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是WEBTOON平台上一部名为DOGHAUS的网络漫画系列的第270集页面。页面主要包含导航元素,列出了从第1集到第270集的所有章节编号,包括常规章节、Sunday Strip特别篇和特别公告。页面提供订阅、分享、举报等互动功能,显示该系列在CANVAS平台自主发布,被评为成熟内容。页面底部展示了CANVAS平台上其他温馨类漫画的排行榜,以及新兴作品推荐。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/457&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 457: Stop, Drop and Rolldown&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Vite发布Rust编写的Rolldown打包工具统一开发体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文主要报道了Vite团队发布的Rolldown 1.0 RC版本,这是一个用Rust编写的新型打包工具,旨在统一esbuild的速度和Rollup的兼容性优势。文章强调Vite成功的关键在于强大的领导力、全职工程师支持和明确的问题导向。此外,还介绍了CodeRabbit的PR验证功能、一个关于parseInt进制使用的代码bug案例,以及多个前端开发工具和技术资源,包括JavaScript框架分析、CSS竞赛、版本控制系统等内容。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了Vite团队发布的Rolldown 1.0 RC版本,这是一个用Rust编写的快速打包工具,旨在统一Vite现有的两个打包器的优点,避免维护分离的转换管道和插件系统。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Rolldown结合了esbuild的原生速度和Rollup的生态系统兼容性,提供了内置的TypeScript和JSX转换、原生CJS/ESM互操作、精细的代码拆分以及与Rollup兼容的插件API等功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CodeRabbit的issue验证功能可以读取GitHub、Linear或Jira问题,提取实际需求,并在PR中显示代码是否真正解决了每个目标。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;代码Bug示例展示了parseInt函数使用错误的进制参数导致二进制字符串解析失败,应该使用进制2而不是默认的10。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还介绍了Ryan Carniato关于2026年JavaScript框架的深度分析、March MadCSS竞赛、Lix通用版本控制系统等多个开发工具和资源。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-1-26/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.1.26&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 十年后重启太空游戏梦想&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了周末生活和新项目进展。周末去了farmers market，汽车cayman即将修好。为了对抗工作压力，开始在Playdate掌机上开发名为Epoch的太空游戏，使用AI辅助编程效率很高。这让作者回想起十年前大二时用Unity为iPhone开发同类游戏但未完成的经历，感慨十年后仍在用业余时间追逐同样的梦想，而工作日则被公司项目占据。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/do-savings-accounts-really-lose-money-to-inflation/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Do savings accounts really lose money to inflation?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 储蓄能否跑赢通胀取决于时期和账户选择&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章探讨储蓄是否会被通货膨胀侵蚀的问题。作者通过Reddit英国个人理财论坛的常见建议引入话题,解释了通胀和利息的基本概念,并用英格兰银行数据说明当前利率略高于通胀。通过历史数据对比发现,长期来看(1975-2023)复利储蓄能战胜通胀,但短期(2008-2023)储蓄却出现贬值。过去17年利率多低于通胀,主要受2008年金融危机影响,但近期趋势显示情况可能改善。作者承认这是简化分析,未考虑个人情况和最优账户选择,但认为储蓄账户可能重新具备抗通胀功能。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者喜欢浏览Reddit英国个人理财论坛,该论坛社区氛围良好,人们互相帮助解决财务问题,但常见建议称储蓄会被通货膨胀侵蚀。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通货膨胀是指商品价格的平均涨跌,例如面包价格上涨50%而电视价格下跌50%,综合计算得出平均通胀率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;利息是银行为吸引储蓄而支付的回报,例如5%的利率意味着存100英镑一年后获得5英镑,若通胀率高于利率则储蓄贬值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;英格兰银行数据显示当前利率3.75%高于通胀率3.2%,理论上储蓄能跑赢通胀,但实际情况更复杂。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通胀率有多种统计口径(3.2%-4.4%),不同储蓄账户利率差异大,促销期后利率可能骤降,难以精确建模。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;历史数据对比显示1975年的1000英镑通过复利储蓄到2023年价值约18000英镑,远超通胀调整后的7300英镑,复利战胜通胀。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;但2008年存入的1000英镑到2023年仅值1180英镑,低于通胀调整后的1540英镑,损失超300英镑。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;过去17年利率多数时间低于通胀率,2008年金融危机影响显著,但近期趋势显示利率可能再次超过通胀。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;普通人未必能优化选择储蓄账户,通胀也非完美指标,但储蓄账户可能重新提供抗通胀保护,尽管回报率仍低于定投策略。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Technium &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kk.org/thetechnium/the-march-of-nines/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The March of Nines&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 每增加一个9需要巨大努力,自动驾驶离真正普及还很远&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章探讨了&amp;#039;九的进军&amp;#039;概念,即通过不断增加9(如从99%到99.9%到99.999%)来衡量质量改进。作者指出每增加一个9并非线性提升,而是需要与前一步相当甚至10倍的努力,因为无法通过重复现有方法达成,必须创新。以自动驾驶汽车为例,虽然Waymo等公司已投入16年和250亿美元,但距离真正无人自主驾驶仍需数个9的提升。人类驾驶员已达到8个9的安全水平,而超过5个9后会进入罕见事件主导的极端领域。作者预测真正的自动驾驶普及可能要到2036年或更晚,需要与现有投入相当的时间和资金。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;现代世界通过百分比来衡量质量和进步,如水箱容量、材料纯度等,数值从90%提升到99%再到99.9%,通过不断增加9来表示持续改进。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;高科技领域多年来一直在进行&amp;#039;九的进军&amp;#039;,如硅晶片制造商努力提高晶体纯度,顶级网络托管公司追求5个9甚至6个9的正常运行时间。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;每增加一个9并非线性提升,而是需要付出巨大努力;业界认为每增加一个9所需的工作量与前一个相当,有些技术专家认为甚至需要10倍的努力,这意味着每一步可能需要比之前所有步骤加起来更多的资源。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;无法通过简单重复现有做法来达到下一个9,必须采用新方法、重组流程或发明新事物,这既昂贵又容易遭到抵制,因为当前方法运作良好。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI专家Andrej Karpathy指出自动驾驶汽车仍远未达到成为主流所需的精度水平;随着准确度从90%提升到99%再到99.9%,人类监督员的比例从1:1降低到1:6,只有达到更高精度时才能让普通公民负担得起。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;人类驾驶员实际表现出色,每百万英里仅发生一次导致伤害的碰撞,每1亿英里仅发生一次致命事故,伤害安全性达99.9999%,致命碰撞性能达99.999999%,即惊人的8个9。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;当超过5个9时进入奇特领域,罕见事件的概率极低到难以描述,可能每千亿次才发生一次,远超人类经验,设计过程开始变得无意义,这个极端区域充满不确定性和未知。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Waymo目前比人类安全90%但仍依赖人类参与,没有人类辅助的真实安全水平未知;尽管已行驶数十亿英里,仍未获得可靠的安全测量数据,观察者认为自动驾驶尚未真正解决,Tesla的FSD并非真正自主。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;达到完全自主可能需要与Waymo至今投入相当的努力;Waymo成立16年已花费约250亿美元,预计还需至少10年和250亿美元才能达到一个人监管10万辆车的水平并实现真正自主且比人类更安全。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;虽然看似接近完全无人自动驾驶,但在&amp;#039;九的进军&amp;#039;中,额外的9需要与迄今为止相当的投资;作者预计直到2036年或更晚,道路上真正自动驾驶车辆(无人类参与)才会达到三分之一。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/01/26/ai-policy-and-the-inevitable/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;AI Policy and The Inevitable&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 批判AI过度营销与必然论，坚持拒用AI工具&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者更新了AI政策，批评AI行业的过度营销和实际效果的差距。文章指出两个核心问题：AI表现远不及承诺，且作者拒绝从事AI监督工作。作者质疑所谓的生产力提升缺乏数据支撑，认为AI进步并非必然，高昂成本限制了普通人使用。文章强调在面对试图摧毁职业的经济力量时，AI批评并非个人攻击，而是对现实的客观观察。作者呼吁开发者保持清醒，拒绝盲目接受AI必然论。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者更新了AI政策，但认为读者已因AI的必然性而疲于接受批评，指出数十亿美元的营销机器有效地对抗了人们的理性判断。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者并非AI仇恨者，只是看到两个现实：AI效果远不如承诺的好，且不想以监督聊天机器人为职业生涯。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者质疑AI必然论，指出生产力提升缺乏实际数据支持，AI进步无保证，训练成本指数增长，且高昂订阅费用排除了大多数人。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者重申AI政策立场，拒绝使用AI工具，扩展了道德伦理部分，并表示在经济力量试图摧毁其职业时无需保持中立态度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n016ca769f1f5&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『Ghost of Yōtei』を経て&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 游戏中过度真实的NPC碰撞系统反而降低体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇游戏体验感想文章。作者在通关《Ghost of Yōtei》后,通过玩其他游戏发现了一个令自己不快的设计:过度真实的NPC碰撞系统。虽然现代游戏技术让碰撞反馈更加真实,但作者认为在移动时频繁与NPC碰撞并被抱怨会带来严重的游戏体验负担。作者更偏好《鬼灭之刃》游戏中关闭NPC碰撞判定的做法,认为适度的真实感比过度追求真实更重要。文章以开发者视角探讨了游戏设计中真实性与游戏性的平衡问题。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在通关《Ghost of Yōtei》后玩了其他游戏,发现了一个自己不喜欢的游戏设计元素。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;随着技术发展,游戏中的碰撞系统变得更加真实,玩家角色碰撞物体或NPC时会产生真实的物理反馈和反应,包括语音抱怨。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者特别讨厌在移动过程中与NPC发生碰撞后被阻挡或被抱怨的设定,这在想快速到达目的地时尤其令人不快。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;即使只是正常行走速度也会触发碰撞判定导致NPC摇晃并抱怨,作者认为这种过度真实的设定反而带来不适感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者更倾向于像《鬼灭之刃 火之神血风譚》那样关闭NPC碰撞判定的设计,认为这样可以减少不必要的不适感。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/film/chasergamew-movie&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新たに「CyberConnect2 FILM」の実績紹介ページがオープン！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 人气剧集《ChaseGame W》续集电影化决定&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;电视剧系列《ChaseGame W》因真实描绘游戏业界及细腻刻画女性之间的恋爱而获得观众热烈支持,现决定推出续集电影《ChaseGame W 水魚の交わり》。影片由菅井友香、中村ゆりか主演,原作松山洋,预定于2026年5月15日上映。制作方包括CyberConnect2担任制作干事,NAKACHIKA PICTURES负责发行,延续了该系列对游戏行业现实和女性情感的深入探索。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202601/64203&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『チェイサーゲーム』シーズン2外伝 正負の法則編 公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 &amp;quot;Chaser Game&amp;quot; Season 2 side story released, exploring President Nishikawa&amp;#039;s struggles; creator Matsuyama launches game industry guide for CyberConnect2&amp;#039;s 30th anniversary.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
+
+This article announces the release of a &amp;quot;Chaser Game&amp;quot; Season 2 side story episode titled &amp;quot;The Law of Positive and Negative,&amp;quot; exploring the theme that gaining something requires losing something—exemplified by President Nishikawa&amp;#039;s dual reality of assuming CC4&amp;#039;s presidency while facing life threats. The manga is serialized on Famitsu.com with the next episode scheduled for February 9, 2026, and Volume 14 is currently available for purchase. Coinciding with CyberConnect2&amp;#039;s 30th anniversary, creator Hiroshi Matsuyama is releasing a &amp;quot;Game Industry Strategy Guide&amp;quot; on February 16, 2026, designed as a comprehensive resource for aspiring game industry professionals with interview tips and actual portfolios. The article also features current Amazon gaming sales rankings dominated by Minecraft and Roblox gift cards, along with links to related manga series and upcoming game releases.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Series Introduction:&lt;/strong&gt; This is an article about &amp;#039;Chaser Game&amp;#039; Season 2 Side Story episode titled &amp;#039;The Law of Positive and Negative&amp;#039;. The manga is serialized on Famitsu.com and focuses on the theme &amp;#039;to gain something, you must lose something&amp;#039;.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Editor&amp;#039;s Commentary:&lt;/strong&gt; The editor notes that the central theme &amp;#039;to gain something, you must lose something&amp;#039; relates to the current storyline where President Nishikawa becomes CC4&amp;#039;s president while his life is being threatened. The next episode will be published on February 9, 2026.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Volume 14 Availability:&lt;/strong&gt; Volume 14 of &amp;#039;Chaser Game&amp;#039; is available for purchase through Amazon.co.jp and Rakuten Books.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;New Book Release:&lt;/strong&gt; Hiroshi Matsuyama is releasing &amp;#039;Game Industry Strategy Guide&amp;#039; on February 16, 2026, coinciding with CyberConnect2&amp;#039;s 30th anniversary. The book serves as a new bible for game industry aspirants and includes job interview insights and actual portfolios from successful applicants.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Amazon Sales Rankings:&lt;/strong&gt; The article displays current Amazon gaming sales rankings, predominantly featuring Minecraft and various Roblox gift cards in the top 5 positions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Related Content Links:&lt;/strong&gt; The page includes links to related manga series like &amp;#039;Battlefield Fuga: Steel Melody&amp;#039; and other gaming articles, as well as upcoming game release schedules across multiple platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105782&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《派评》推荐TabTab等六款优质应用及行业速报&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期《派评》聚焦近期值得关注的应用工具,涵盖macOS窗口管理、跨平台日历同步、Android开发调试、AI翻译、习惯养成和桌面美化等多个领域。文章详细介绍了TabTab、KashCal、aShell You、Lexibird、Halo和WidgetWall等应用的核心功能、使用场景和收费模式。这些应用大多采用现代化设计语言,注重用户体验和隐私保护,部分应用融合AI技术提升功能性。文章还报道了iOS应用安全漏洞和Epic Games法律纠纷等行业动态,为读者提供全面的应用推荐和科技资讯。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期《派评》介绍了多款值得关注的应用,包括macOS窗口切换器、Android日历同步工具、ADB命令工具等,并提供了应用目录供读者快速跳转。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;TabTab是一款macOS窗口切换器,支持应用窗口、浏览器标签页切换,提供搜索功能,采用⌥Option+Tab快捷键,免费版限制5个窗口,付费解锁全部功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;KashCal是Android端支持iCloud同步的日历应用,注重隐私保护且代码开源,通过Apple ID专属密码登录,支持订阅日历和导入导出功能,完全免费。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;aShell You是采用Material You设计的ADB命令工具,支持Root、Shizuku等多种调试模式,内置预设命令库并提供标签分类,可通过GitHub和F-Droid免费下载。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Lexibird是全方位AI翻译工具,集成文本/图片/语音翻译、写作辅助、词典等功能,基础版每月提供100000 AI点数,Pro版可获取更高点数和高阶模型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Halo是AI驱动的习惯养成应用,支持HealthKit等系统接口自动打卡,提供Progress进度追踪和Toolkit教程,AI Coach功能通过短信对话提供建议,年订阅398元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;WidgetWall是macOS桌面小组件应用,内置29款功能组件包括时钟、浏览器、视频播放等,支持iPod经典造型组件,提供订阅和买断两种付费方式,Setapp用户可免费使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;App速报指出数十款iOS AI应用存在安全漏洞可能泄露敏感信息,Epic Games与Google的8亿美元合作协议遭法院审查涉及反垄断问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/the-state-of-ios-background-tasks&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从「墓碑」到见机行事：iOS 后台机制现状分析&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iOS后台机制从无到墓碑再到智能刷新的演变历程&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文回顾了iOS后台机制的演变历程。早期iPhoneOS完全没有后台,通过APNs推送服务维持应用与用户联系。iOS 4引入墓碑后台机制,提供应用快速切换、特定场景真后台和短时后台三种有限能力。从iOS 7开始,Apple转向智能后台刷新模型,系统通过学习用户习惯、综合设备状态和应用表现评分,主动调度后台任务执行时机。这一演变体现了Apple在用户体验、续航和性能之间不断权衡优化的策略。最新的iOS 26进一步开放后台API,支持计算密集型任务和相册备份等功能。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在WWDC25上,Apple为iPadOS 26和iOS 26推出新的后台API,支持计算密集型任务后台运行并通过Live Activity显示,iOS 26.1还新增相册后台备份API允许第三方应用后台上传照片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;早期iPhoneOS时代完全没有后台功能,按Home键应用直接终止。Scott Forstall在2008年WWDC上解释这是因为后台会耗电占用CPU,当时硬件配置羸弱不支持多任务。Apple通过APNs推送服务解决应用与用户联系问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iOS 4引入有限的多任务机制,包括应用间快速切换、特定任务始终允许和部分任务短时允许三种能力,采用墓碑后台机制让应用暂停而非终止。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;应用间快速切换通过冻结暂停状态实现,应用在内存中保留但不消耗计算资源。当内存压力过高时,iOS会按时间顺序清理冻结状态的应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iOS 4开放音频播放、定位服务和VoIP三类场景的真后台运行能力,允许用户在后台听歌、记录位置和接听VoIP来电。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于文件上传和数据同步等操作,iOS允许部分后台任务短时运行,通常限制为10分钟,超时后系统强制停止。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;从iOS 7开始,Apple转向智能后台刷新模型,iOS根据用户使用习惯、设备状态等动态信号主导后台执行时间分配。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iOS通过学习用户打开应用的频率和时间分布,预测用户何时会再次打开应用并提前安排后台刷新。同时综合考虑电量、温度、网络、负载等因素决定是否执行刷新。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iOS根据应用后台执行的成功率、耗时和能耗表现评分,高评分应用获得更高调度优先级。系统采用统一唤醒执行机制减少碎片化唤醒,用户手动关闭的应用不会进行刷新。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105685&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Kindle Paperwhite 3 杂谈：为什么它是我高中生涯最值的电子产品？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 高中生使用二手Kindle学习的实践经验与选购建议&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者对使用Kindle PaperWhite 3度过高中学习生活的回顾。作者以270元购入二手KPW3，通过越狱安装KOReader实现了阅读课外书、背单词、查看课件等多种学习功能。文章详细介绍了KPW3的选购标准、越狱方法、使用技巧，特别强调了其便携性和价格优势适合高中生。同时也指出了续航一般、笔记体验差、生态残缺等缺点。作者认为虽然KPW3在200-300元价位段性价比极高，但随着国产电纸书的崛起，如今更推荐预算充足者购买功能更全面的新款产品。文章既是对这台陪伴自己高中时光设备的纪念，也为学生群体提供了电纸书选购和使用的实用建议。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在2024年以270元购入二手Kindle PaperWhite 3，并在高中期间广泛使用它完成各种学习任务，认为这是五年来最值得购买的电子产品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kindle于2023年退出中国市场并关闭电子书店，虽然新款性价比不如国产电纸书，但二手市场仍然活跃，作者给出了选购二手KPW3的具体标准。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;推荐高中生使用KPW3的理由包括：价格在200-300元适合学生预算；2015年发布的KPW3配备300ppi高质量墨水屏；学校通常未明确禁止电纸书，可以规避手机禁令。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用KPW3需要越狱并安装KOReader软件来实现完整功能，包括多格式支持、字体调整、RSS推送等，虽然越狱过程需要一定技术基础但能显著提升使用体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kindle的便携性培养了作者的阅读习惯，6英寸小体积可随时随地阅读，解决了实体书笨重和阅读起步困难的问题，适合碎片时间阅读。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;KOReader的单词本功能成为作者背诵高中3500词的主要工具，支持艾宾浩斯遗忘曲线、随时添加生词和云同步，虽然复习方式单一但充分利用了碎片时间。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kindle可方便查看老师课件，只需将PPT或Word导出为PDF传输到设备即可，解决了课堂笔记记不全和打印资料不便的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;KPW3的主要缺陷包括：生态残缺需越狱、续航一般约四天一充、笔记体验极差不适合专业书籍、阅读的娱乐属性可能分散学习注意力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为虽然KPW3作为200-300元入门级电纸书合格，但如今国产电纸书功能更强，建议预算充足的学生购买600元以上支持微信读书和安卓系统的新款产品。上大学后KPW3已基本闲置，被平板取代，但它代表了高中生首次用科技解决传统问题的美好体验。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105506&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;NAS 自部署 TrendRadar：搭建基于 AI 的热点情报站&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 手把手教你在NAS上部署TrendRadar实现AI驱动的个性化资讯聚合&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇详细的TrendRadar部署教程,介绍了这个GitHub上获得4.3万星的开源项目如何帮助用户打破信息茧房。文章以威联通NAS为例,从下载项目文件、Docker Compose部署、到配置监控平台、关键词过滤、热点权重、推送设置、AI分析等方面提供了完整的手把手教程。TrendRadar支持多平台热点聚合、7种关键词匹配语法、多渠道智能推送,并在5.0版本中加入了AI深度分析功能。作者强调这类工具让用户从被动信息接收转变为主动信息获取,NAS成为实现功能自主化的重要平台。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了在信息茧房时代,TrendRadar项目通过关键词监控和AI分析,能够聚合多平台热点和RSS订阅,主动获取有价值信息,特别适合投资者、自媒体人等用户使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细说明了在威联通NAS上通过Docker Compose部署TrendRadar的完整流程,包括下载项目文件、上传到NAS、修改YAML配置文件等步骤。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了TrendRadar的核心配置选项,包括监控平台选择、关键词过滤语法(支持7种匹配规则)、热点权重调整(rank、frequency、hotness三个参数)等个性化设置方法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示了推送配置的设置方法,以163邮箱为例说明如何配置SMTP服务实现HTML格式的邮件推送,支持多种推送渠道和三种推送模式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了5.0版本新增的AI分析功能,以DeepSeek为例说明如何接入AI大模型API进行热点趋势分析、关键词热度分析等深度内容解读。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结指出TrendRadar让用户从算法的被动接受者转变为信息的主动掌控者,NAS不仅是家用存储设备,更是实现各种功能自主化的重要工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105741&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：高铁客服和专家回应「高铁二氧化碳超标」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技行业动态汇总:高铁空气质量争议、AI滥用冲击开源、VR转型AI&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期派早报涵盖多个科技热点话题。高铁二氧化碳浓度争议引发关注,专家回应称铁路标准不同于民用建筑标准。cURL因AI生成的垃圾漏洞报告泛滥而终止赏金计划,反映开源项目维护困境。联通推出整合AppleCare服务的果粉卡套餐,微软向FBI移交BitLocker密钥引发隐私讨论。Meta大幅裁减VR团队转向AI,行业担忧VR寒冬来临。硅谷用宝可梦游戏测试AI能力成为新趋势。此外还有iPhone Air销售不佳、徕卡考虑出售、新版Siri即将上线、安卓侧载限制加强、.ai域名火爆以及QQ秀回归等消息。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;近日有视频显示高铁二等座车厢内二氧化碳浓度超过2000ppm,远超民用建筑标准的1000ppm限值,引发网友热议。12306客服回应不一,有的建议自行吸氧,有的称没有相关标准。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;动车组专家陶桂东回应称,铁路列车执行TB/T 3493-2017标准,正常运行时二氧化碳浓度限值为2500ppm,欧洲标准为5000ppm,民用建筑标准不适用于列车。动车组通过空调系统换气,非隧道区段浓度一般不超过1500ppm,通过隧道时会短暂升高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;cURL项目因收到大量AI生成的低质量漏洞报告,宣布于1月底终止漏洞赏金计划。创始人表示近期AI生成报告充斥幻觉内容,包括虚构CVE编号和无法编译的代码,迫使维护团队花费大量精力甄别,为保护团队心理健康不得不取消赏金。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;联通推出「果粉·王卡」套餐,首年月费49元,整合AppleCare Services权益,包括无限次前屏保修和电池免费更换。套餐包含80GB流量,支持eSIM和国际漫游。用户需在激活90天内领取权益,绑定30天内激活的国行新iPhone,该服务范围不同于苹果官方AppleCare+。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软首次证实向FBI移交BitLocker恢复密钥,协助解锁涉嫌欺诈案的笔记本电脑。微软表示每年收到约20起此类请求,只要有合法搜查令且拥有密钥访问权就会配合。此事凸显微软与苹果、Meta等采用端到端加密的公司在隐私架构上的差异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Meta对Reality Labs部门裁员约10%,涉及1000人,主要集中在VR团队。IDC预测2025年VR头显出货量将暴跌42.8%至390万台,而AI眼镜出货量将激增两倍以上。Meta战略重心正从VR转向AI和智能眼镜,Reality Labs自2020年底已累计亏损超700亿美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;硅谷AI实验室普遍采用《宝可梦红/蓝》游戏来测试AI模型的推理与决策能力。Anthropic、OpenAI和Google都让其AI模型游玩该游戏,以评估长期规划和复杂任务处理能力。研究人员认为宝可梦的非线性复杂环境比传统基准测试更能模拟AI在现实世界中的挑战。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;京东和天猫宣布iPhone Air特惠活动,叠加优惠后256GB型号降至5499元。据供应链消息,iPhone Air累计激活量不足20万台,而同期iPhone 17系列各机型激活量均超400万。苹果官方也上线新春优惠活动,覆盖iPhone 16系列、iPad和Mac产品线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;徕卡所有者考虑出售公司控股权,估值约10亿欧元,竞购者包括弘沙集团和Altor。新版Siri首批功能预计3-4月随iOS 26.4上线,核心算力由Gemini提供。谷歌将在Android中引入高阻力侧载应用安装流程,2026年起要求开发者注册验证身份。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;截至2026年1月,全球.ai域名注册数突破100万,为安圭拉带来约7000万美元收入。注册.ai域名标准费用为两年140美元,续费率达90%。过期域名拍卖获利颇丰,you.ai以70万美元成交。腾讯QQ宣布将带回QQ秀功能,新版可通过AI生成虚拟形象。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - January 25, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1955,184 +2218,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;工具推荐包括whenwords无代码库、Hongdown文本美化器、VAM Seek视频播放器、kodbox文件管理器等多个开源工具和AI应用。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;资源部分推荐了EverMsg区块链查看网站和DeepTime Mammalia哺乳动物演化树可视化项目。图片部分展示了俄罗斯北极圈船厂冰下修船的特殊作业方式。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;言论部分收录了Redis创始人Antirez对AI吸收代码的看法、图灵奖得主Manuel Blum关于写作的比喻,以及关于摆脱困境的三个主要原因。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - January 15, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-01-15</id>
-    <updated>2026-01-15T20:08:59.834Z</updated>
-    <published>2026-01-15T20:08:59.834Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>8 articles from 5 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 15, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;16.43835616438356&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    4.1%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;15&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;350&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4.1%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;8&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Theresa O’Connor &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://tess.oconnor.cx/2026/01/14&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;38&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 以太空探索历史致敬38岁生日礼物&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章讲述了Omega Speedmaster手表与太空探索的历史联系。38岁的Neil Armstrong在登月时使用Speedmaster作为备用计时器,38岁的Jack Swigert在阿波罗13号任务中用它计时关键的轨道修正。作者以此为背景,为同样38岁的Eryn购买了一块白色表盘的Speedmaster腕表作为礼物,这款表搭载Omega Cal. 3861机芯,采用蓝宝石表底设计。文章巧妙地将个人纪念与航天历史结合。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Things That Caught My Attention &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://newsletter.danhon.com/archive/s21e03-the-problem-is-defining-the-problem-the/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;s21e03: The Problem is Defining the Problem; The Unreasonable Effectiveness of Caring&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI编码工具的价值取决于人类定义问题的能力&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨AI辅助编码工具的实际应用价值和局限性。作者认为,虽然像Simon Willison和Jesse Vincent这样的专家能够通过LLM工具大幅提升生产力,但这些工具能力参差不齐,需要使用者具备深厚专业知识。关键问题在于定义软件目标和质量标准是人类独有的技能,AI难以复制。LLM辅助编码只有在不关心具体结果时才真正便利,一旦需要精确输出就会变得复杂。作者批评产品营销者不负责任地将这些工具宣传为通用产品,强调快速编写代码而不明确目标反而有害。真正的挑战在于人类能否清晰定义问题和期望结果,这比工具本身更重要。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (16 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在2026年1月14日于波特兰撰写本文,故意提前完成以赶在Pavel的The Product Picnic之前发布。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为AI不会完全摧毁其工作,但对AI在软件开发中的应用存在巨大争议。Jesse Vincent和Simon Willison等专家通过LLM辅助编码(如Claude Code)大幅提升生产力,成为超级开发者。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI能力参差不齐,在某些领域表现出色但在其他方面(如计算单词中字母数量)表现糟糕。这些工具需要使用者具备专业知识和系统思维能力,否则容易出错。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Simon和Jesse擅长定义软件质量标准和确定适当的评判标准,这是AI难以一致复制的人类技能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Iris Meredith指出,LLM辅助编码只有在不关心结果时才灵活,一旦需要特定输出就会变得比手动编写更复杂和挑剔,这与LLM助手的承诺相反。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者部分同意Meredith的观点,但强调AI工具的能力不均衡意味着它们并非通用工具。问题在于聊天界面隐藏了LLM的特定擅长领域,且缺乏任务特定的用户界面。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Simon和Jesse大量定制工具以适应自己的使用场景,这与开箱即用的LLM辅助编码不同。这些工具尚未准备好供大众使用,产品营销者不负责任地将其宣传为通用产品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者批评OpenAI在使用条款中隐藏ChatGPT的不当用途说明是不负责任的行为,并承认LLM辅助编码在特定情况下确实有用且有人从中受益。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者搁置但不忽视AI训练数据获取的道德问题,包括数据盗用和政治监管环境对这种行为的纵容,以及对艺术家补偿问题的回避。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Meredith强调的关键是关心特定输出而非模糊输出,这是人类问题而非LLM问题。人类是最终设定目标的主体,这是当前经验中唯一能做到的。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;人类理解始终重要,因为技术不存在于真空中,总是存在人类参与。技术具有人类偏见,因为人类总是第一推动者,定义目标、结果和参数。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;确定我们想要什么是世界上最难的事情之一,总有更多细节和边缘情况。敏捷开发通过迭代和反馈来应对这个问题,但迭代本身不保证改进。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出&amp;quot;敏捷是更快地做错事的好方法&amp;quot;这一观点,强调在没有明确目标的情况下,快速编写更多代码是无用甚至有害的。实现目标的关键是能够定义想要什么。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;定义问题需要几乎无限的上下文来确定什么是足够好,这是没有人能一次性做对的。许多人不喜欢做决策因为害怕犯错,这是阻碍社会进步的真正问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;LLM可能能够产生一系列&amp;quot;足够好&amp;quot;的方案。作者使用Claude Code的规划模式来探索不同权衡方案。在某些情况下软件实现并不重要,但在其他领域架构和实现有重大影响,这需要经验判断。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI编码可能适用于低风险、不太关心正确性的小案例,或用于非生产环境的原型开发。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-15T15:15Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-15T15:15Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者重写Markdown解析器并验证新架构可行性&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了重写Markdown/HTML解析器Hmmarkdown的经历。该解析器最初在16个月前编写,虽然在严格规则下能实现独特功能,但原始架构存在缺陷,许多边缘情况处理不当。作者一直有重构的想法但缺乏动力执行。现在作者开始实施第二版的开发,已编写足够代码验证新方向的可行性,即将进行测试验证。作者以幽默的方式表示如果之后不再提及此项目,就意味着重构失败。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者16个月前编写了Hmmarkdown解析器并在上个月改进了性能,该库在严格规则下实现了其他markdown库无法做到的功能,这正好符合作者的markdown写作习惯。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Hmmarkdown的原始架构存在问题,作者处理了许多边缘情况,虽然有改进想法但需要大规模重构,直到现在才有动力执行。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者今天编写了足够的代码相信这次方向正确,即将对第二版进行测试,如果之后不再提及此事则说明失败了。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 好色龍的網路生活觀察日誌 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://hornydragon.blogspot.com/feeds/7699797512563157047/comments/default&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;雜七雜八短篇漫畫翻譯2226&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 宝可梦玩家讨论游戏队伍配置和工具宝可梦&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于宝可梦游戏的博客评论讨论。评论者们幽默地谈论游戏中的队伍配置策略,包括提到使用全BBB(未进化宝可梦)队伍进行撞击测试,以及讨论那些专门用来学习各种秘传机技能(如怪力、居合斩、冲浪等)的工具宝可梦。评论充满了玩家社群特有的梗和游戏术语,展现了宝可梦玩家之间轻松诙谐的交流氛围。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105458&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 233｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派编辑部分享3D打印机、键盘、标签机等四款新品使用体验&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部第233期新玩意栏目,编辑们分享了四款最近购入的产品使用体验。包括张奕源Nick的拓竹P2S 3D打印机(易用稳定、适合家庭收纳)和MelGeek奇点60磁轴键盘(紧凑美观、手感清脆),克莱德的米家标签打印机(解决收纳标记需求但功能简陋),以及PlatyHsu的徕芬Swift 4吹风机(性价比高但设计缺乏创意)。编辑们从实际使用角度详细评测了各产品的优缺点,并推荐了3D打印模型等实用资源,最后邀请读者参与栏目投稿分享自己的新玩意体验。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派编辑部推出新玩意栏目,介绍编辑们最近使用的新产品和体验,本期包含拓竹3D打印机、磁轴键盘、标签打印机和吹风机四款产品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;张奕源Nick分享了拓竹P2S 3D打印机的使用体验,该产品易用性强、出品稳定、噪音低,配合Makerworld社区可直接打印各种实用模型,特别适合家庭收纳需求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;张奕源还推荐了MelGeek蜜氪奇点Centauri 60磁轴键盘,60%配列紧凑美观,TTC反斗万磁王白轴手感清脆适合办公,支持完全自定义但灯效速率调节有限。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;克莱德购入米家标签打印机解决换季收纳标记问题,设备使用透明标签纸、打印清晰,但仅支持黑白打印且编辑功能较简陋,在深色物品上使用效果欠佳。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;PlatyHsu体验徕芬Swift 4吹风机,产品设计致敬苹果风格,铝合金机身精致、风速快、噪音低,国补后性价比高,但智能功能实用性有限且电源线略短。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后邀请读者参与新玩意栏目投稿,需撰写800字以上产品介绍并配实拍图,入选可获108元红包奖励并在社区速递展示。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/83522&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;科普 | 高帧率、好画质的「光追」是如何实现的？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 解析RTX显卡光追与DLSS技术如何实现高画质高帧率游戏体验&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文系统介绍了英伟达RTX显卡的光线追踪和DLSS技术演进历程。从传统光栅化渲染的局限性出发,详细阐述了实时光线追踪如何通过逆向追踪实现更真实的光影效果,以及如何通过RT Core硬件加速实现从简单阴影到全景光追的不同实现方式。随后深入解析DLSS技术如何利用深度学习和Tensor Core实现超分辨率、帧生成等功能,平衡画质与性能。文章特别强调了从DLSS 2到4.5的技术迭代,包括Transformer模型的引入、多帧生成技术以及Reflex延迟优化,展现了AI技术在游戏图形领域的革命性应用,使高分辨率高帧率光追游戏体验成为可能。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇介绍了《赛博朋克2077》游戏利用光线追踪和DLSS技术打造夜之城的视觉效果,随着RTX 50系列显卡推出,游戏也支持了最新的DLSS技术,光追从少数玩家的前沿体验变成3A大作的标配。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;传统游戏光照基于光栅化技术实现,通过将3D模型转化为屏幕像素并上色来呈现最终效果,本质上是对光照结果的描绘而非过程还原,优点是速度快但缺点是不够真实,如投影效果单一。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;光线追踪采用逆向追踪方式模拟光线传播,从观察点反推光源和路径,比正向模拟效率更高。英伟达RTX 20系列引入RT Core硬件加速,游戏中的光追实现分为阴影、高级反射、全局光照和全景光线追踪等多种方式,复杂度和真实度递增。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;DLSS技术通过深度学习实现低分辨率渲染后的高质量超分辨率输出。DLSS 2提供4倍实时超采样和通用模型,大幅提升性能和画质。DLSS 3引入帧生成技术配合RTX Reflex降低延迟,实现高帧率。DLSS 3.5加入光线重建,用AI模型替代人工降噪器优化光追效果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;DLSS 4采用Transformer模型替代CNN,能够理解3D模型和场景上下文,提供更稳定清晰的画面。RTX 50系列支持多帧生成技术,可渲染1帧生成4帧,配合Reflex 2的帧扭曲功能进一步降低延迟。DLSS 4.5使用更大的Transformer模型,支持6倍帧生成和动态多帧生成。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105462&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Apple Pay 公布 2025 年成绩单，迎来入华十周年大更新&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple Pay入华十年迎来Visa卡支持&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Apple Pay自2014年推出以来已发展成为覆盖全球89个国家的综合性电子钱包平台,在中国市场迎来入华十周年重大更新。文章介绍了Apple Pay的发展成就、安全隐私机制、在华合作覆盖情况,重点强调了突破性进展——Visa成为首个在中国大陆支持本地接入的国际卡组织,已有9家主要银行的Visa卡支持添加,Mastercard也将于未来数月支持。这一更新打破了十年来仅支持银联卡的限制,为用户出境旅游和国际支付提供更多便利,体现了Apple Pay在安全性和功能性上的持续进化。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;自2014年推出以来,Apple Pay已从电子支付发展为覆盖交易、身份认证、出行的电子钱包平台,截至2025年已进入全球89个国家与地区,与超过1.1万家银行合作,去年为商户带来超过1000亿美元额外收入。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Pay以安全和隐私为核心设计理念,不在云端存储实体卡号而使用加密的专属设备账号,2025年阻止了超过10亿美元的欺诈性交易,获得全球众多银行的合作支持。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在中国大陆市场,Apple Pay已支持近50家银行、40家服务提供商,以及全国近40座城市交通卡的添加使用,覆盖300多个城市的公共交通出行。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2016年2月18日Apple Pay在中国大陆上线,十年来仅支持银联卡,现在这一限制终于解除,Visa成为首个在大陆支持本地接入的国际卡组织,已于1月15日正式支持接入。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前已有中国工商银行、中国银行等9家银行的Visa卡支持添加至Apple Pay,未来几个月将有更多银行及Mastercard卡陆续支持,全球范围内支持Visa交易的商户都可使用国内Visa银行卡刷卡。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于双币银行卡可选择添加银联或Visa标识,或同时添加两种卡片,虽然目前功能刚上线可能存在适配问题,但期待Apple Pay未来继续扩展更多银行和功能支持。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105459&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：SK 海力士称并未有计划退出消费级存储器市场等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技行业一周要闻速览&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了科技行业多条新闻动态。SK海力士否认退出消费级存储市场但产能受限；监管部门对携程涉嫌垄断立案调查；影石、佳明、宜家等发布新硬件产品；Google Chrome恢复JPEG-XL支持，Apple停更iOS版Pixelmator；智谱开源国产芯片训练的GLM-Image模型；英伟达H200对华出口政策出现反复，美国先批准后中国限制进口。文章采用简讯形式，涵盖存储芯片、反垄断、消费电子、开源AI等多个领域的最新进展。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;SK海力士否认退出消费级存储器市场的传闻，但承认大宗DRAM产能增长受限，主要因厂商将资源转向AI需求，可能推高内存价格。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;市场监管总局对携程涉嫌滥用市场支配地位立案调查，携程表示将积极配合调查，业务正常运行。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;影石发布Link 2 Pro系列旗舰网络摄像头，采用大底传感器支持4K分辨率和HDR，具备AI追踪和双轴云台功能，售价1398-1758元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google Chrome重新支持JPEG-XL图像格式，基于Rust安全解码器实现，默认关闭需手动启用，此前因安全和采用率低曾被移除。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple确认iOS版Pixelmator停止更新但保留基础功能，Photomator将继续独立更新，同时发布iPad版Pixelmator Pro和订阅服务。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;瀚斯宝丽推出Lumo阅读平板，采用7.8英寸反射式LCD屏幕无背光，搭载Helio G99处理器，售价369欧元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;佳明发布quatix 8 Pro航海智能手表，集成卫星通信和LTE网络，支持离岸80公里通信和SOS求救，配备钛金属表圈续航15天，售价1299.99美元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;宜家推出Kallsup蓝牙音箱，立方体设计支持蓝牙5.3和广播模式最多连接100台设备，续航9小时售价10美元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;智谱联合华为开源GLM-Image多模态图像生成模型，首个在国产AI芯片上完成训练的SOTA模型，支持多分辨率和复杂场景生成。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;美国批准英伟达向中国出口H200芯片但收取25%费用，随后中国海关通知不允许进口H200并要求企业原则上不得采购。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派发布2025年度盘点，会员福利上线，推出扭扭宝充电宝和GAMEBABY系列产品。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
