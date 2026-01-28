@@ -4,8 +4,241 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-01-27T20:11:13.778Z</updated>
+  <updated>2026-01-28T20:18:36.723Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - January 28, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-01-28</id>
+    <updated>2026-01-28T20:18:36.723Z</updated>
+    <published>2026-01-28T20:18:36.723Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>10 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 28, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;30.684931506849317&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    7.7%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;28&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;337&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;4&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 7.7%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;10&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blog.jim-nielsen.com/2026/say-no-to-data/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;You Can Just Say No to the Data - Jim Nielsen’s Blog&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Data reveals what users do, not what companies should do—ethical product decisions require human judgment beyond algorithmic predictions.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;# Summary
+
+This article argues that data-driven decision-making is often used to abdicate ethical responsibility rather than provide genuine justification for product choices. The author contends that demand can be artificially manufactured through algorithms and dark patterns, making appeals to &amp;quot;giving users what they want&amp;quot; fundamentally flawed. While data effectively answers &amp;quot;what is happening,&amp;quot; it cannot address &amp;quot;what should happen&amp;quot;—questions of ethics, values, and vision that require human judgment. The core message is that developers and creators have both the agency and responsibility to reject data-driven suggestions when they conflict with ethical considerations, as prediction of user behavior doesn&amp;#039;t create an obligation to act on it.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Data Doesn&amp;#039;t Justify:&lt;/strong&gt; Using data to justify actions is an attempt at exoneration rather than a valid reason to exist. The cigarette industry example illustrates how demand alone doesn&amp;#039;t make something right or worthwhile.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Engineered Demand Problem:&lt;/strong&gt; Demand can be artificially created through algorithms, dark patterns, and growth hacking. Claiming to &amp;quot;give people what they want&amp;quot; ignores how desire is actively shaped and manipulated.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Data as Abdication:&lt;/strong&gt; Appealing to data as ultimate authority, especially when demand is engineered, represents an abdication of responsibility rather than neutrality. It&amp;#039;s a way to avoid making ethical decisions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Higher Aspirations Needed:&lt;/strong&gt; Simply satisfying human desire is not the highest aspiration for builders and creators. We are capable of doing much more than merely supplying what data indicates is in demand.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Values Over Data:&lt;/strong&gt; Data reveals what people consume, not what you should create. Values, ethics, and vision are necessary to answer the &amp;quot;should&amp;quot; question that data cannot address.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Different Questions Require Different Approaches:&lt;/strong&gt; &amp;quot;What is happening?&amp;quot; and &amp;quot;What should happen?&amp;quot; are fundamentally different questions. They require separate frameworks and should not be conflated or treated identically.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Power Demands Responsibility:&lt;/strong&gt; The more powerful our ability to understand and predict demand becomes, the more important our responsibility to decide whether to respond to it. We have the agency to say no to data-driven suggestions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Choosing What to Profit From:&lt;/strong&gt; Data can predict user behavior and clicks, but creators retain the power and responsibility to decide what they will actually build and profit from. Prediction doesn&amp;#039;t equal obligation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://tess.oconnor.cx/2026/01/library&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Don’t judge a book by its cover&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用CSS随机颜色函数将书单变成视觉化书架&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了如何将Goodreads图书馆网页从简单的书名列表改造成视觉化的书籍展示页面。通过使用HTML和CSS技术，特别是CSS的random()和contrast-color()函数，为每本书生成随机背景色和对比文字颜色。作者还利用书籍的类型、书名、作者等元数据作为CSS类，实现了灵活的布局定制和特定书籍封面的视觉呼应。整个实现过程展示了现代CSS功能在创建动态、美观的网页界面方面的应用，同时保持了代码的简洁性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在上个月为Goodreads图书馆创建网页时，索引页只是按时间倒序排列的标题列表，对于数百本书来说不够理想，因此花了几个周末时间改进展示方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展示了书籍的HTML标记结构，使用简单的div、h3和链接元素来构建每本书的基本信息展示。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在支持CSS的random()和contrast-color()函数的浏览器中，每本书会获得随机颜色背景和可读的文字颜色，作者详细解释了CSS代码的工作原理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;图书馆中的许多书籍都标记了类型等元数据，这些标签作为CSS类应用，可以自定义书籍布局，包括书名和作者标签。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展示了几本特定书籍的封面样式定制示例，虽然不是精确重现真实封面，但通过CSS实现了视觉上的呼应效果，并推荐了这些书籍。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/bliki/ExcessiveBold.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Bliki: Excessive Bold&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 过度使用粗体会削弱其强调效果&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者Martin Fowler批评当前技术和商业写作中过度使用粗体的现象，这种做法被LLM广泛传播。文章系统分析了各种排版强调工具（粗体、斜体、大写、下划线）的特点和适用场景。作者认为粗体的价值在于吸引浏览者目光，但只有谨慎使用才有效，过度使用会削弱其强调力量。他更偏好使用斜体进行细微强调，并建议用callout代替粗体句子，用散文段落代替项目符号列表。文章强调写作应注重读者体验，让阅读成为愉悦的过程，而非通过过度排版来强调重点。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者观察到技术和商业写作中过度使用粗体字来强调重点，这种做法被LLM广泛传播，但过度使用会削弱强调效果，最终失去其作用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了各种排版强调工具（粗体、斜体、大写、下划线），指出粗体被过度使用，大写被视为喊叫，下划线已成为超链接标志，而斜体是更微妙的强调形式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者偏好使用斜体进行强调，因为它不会在视觉上突出，只在完整阅读时才显现，且作者很少使用，仅在真正需要强调时才用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;粗体的最大价值在于即使读者只是浏览页面也能吸引目光，但这只有在谨慎使用时才有效，标题常用粗体帮助读者导航长文档。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者很少在段落中使用粗体，但会用它来突出显示解释新术语的位置，这个技巧来自Giarratano和Riley，帮助读者快速找回术语含义。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;将重要句子加粗可以在浏览时突出显示，但效果与使用频率成反比，callout通常是更好的工具，因为它们更能吸引目光且可以使用不同措辞。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在项目符号列表的首句使用粗体是边缘案例，虽然像标题但并非每段都需要标题，项目符号本身已足够吸引目光，且列表也被过度使用，散文段落更流畅易读。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者考虑用过度粗体的段落来说明问题，但担心会削弱清晰表达，因此将示例放在文末作为最后点睛。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/are-there-any-open-apis-left/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Are there any open APIs left?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 十年后回顾开放API的兴衰与现实困境&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章回顾了Web 2.0时代开放API的理想与现实。作者在10年后重新审视当年推荐的免费开放API，发现只有少数如Wikipedia、MusicBrainz等仍保持完全开放，许多已经关闭或要求注册。作者分析了导致API关闭的主要原因：运营成本、缺乏使用分析、无法与用户沟通以及需要防止滥用。尽管追踪和注册被视为限制，但它们对于API的可持续运营至关重要。文章反思了开放互联的理想与商业现实之间的矛盾。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章回顾了Web 2.0时代关于开放API的梦想，即网站之间通过API无缝集成数据，用户可以自由获取和使用多个来源的数据，无需注册或API密钥。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者检查了10年前列出的开放API现状，发现Wikipedia、Police.uk、Google Books ISBN、iTunes Lookup、Pokémon API、MusicBrainz和Open Notify仍然存活并保持开放。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;BBC Radio 1、Twitter URL统计、Star Wars API、英国国家书目和Football Data等API已经关闭或停止服务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;部分API如Google Location、Spotify、OpenMovieDB和Open Air Quality虽然仍在运行，但现在需要注册或付费才能使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分析了API关闭或加锁的原因：运营成本、缺乏分析数据、无法与用户沟通、需要防止滥用等，这些因素使得开放API难以持续维护。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/01/28/mozilla-slopaganda/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Mozilla Slopaganda&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Mozilla发布空洞AI报告却无产品&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章尖锐批评了Mozilla的State of Mozilla报告，指出其充满企业空话和混乱视觉效果，包括奇怪的蘑菇意象。作者讽刺Mozilla声称要在AI领域复制其在web领域的成功，但实际上没有任何AI产品，86%收入依赖Google却攻击Microsoft。文章揭露Mozilla拥有14亿美元储备和巨额Google资金，呼吁停止捐款。作者认为Mozilla已成为其曾反对的Big Tech，只能依靠Firefox的历史荣光和空洞的AI承诺，唯一具体目标竟是AI关闭开关。尽管批评严厉，作者承认web仍需要Firefox。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mozilla发布了新的State of Mozilla报告，充满了企业术语和混乱的视觉效果，网站包含闪烁图形、假终端控制台和奇怪的蘑菇引用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mozilla声称要&amp;#039;为AI做我们为web做的事&amp;#039;，但实际上没有任何AI产品，同时86%的收入来自Google这一个客户，却将Microsoft描绘为敌人。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;报告要求读者在两个未来中选择：Future A是Microsoft（用机器人司机代表），Future B是Mozilla（用蘑菇代表），但这只是AI幻想因为Mozilla没有实际产品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mozilla拥有14亿美元储备金和每年超过5亿美元的Google资金，文章呼吁停止向Mozilla捐款，因为它已成为自己曾反对的Big Tech。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;报告充满空洞的AI承诺，唯一明确的目标是在Firefox中添加AI&amp;#039;关闭开关&amp;#039;，作者认为Mozilla只能谈论过去和幻想未来，因为现在一无所有。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105823&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;将专业创作工具交到更多人手中：Apple Creator Studio 你也许想了解的那些事&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple推出Creator Studio订阅服务整合专业创作工具&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Apple推出全新订阅服务Apple Creator Studio，整合旗下专业创作软件包括Pro App套装、iWork套件和Pixelmator Pro，将于1月29日上线。订阅价格为中区¥38/月或¥380/年，支持家庭共享。已购用户可继续使用原有app，但订阅版本将获得独家功能如Pixelmator Pro的扭曲工具和Final Cut Pro的部分高级内容。新版Final Cut Pro增加节拍检测、视觉搜索等实用功能，Pixelmator Pro推出iPad版本，iWork套件新增高级模版。虽然部分AI功能因Apple Intelligence限制在国行设备不可用，但核心专业功能均得到支持，显著降低了专业创作门槛，为更多人提供了成为创作者的机会。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple宣布推出全新订阅服务Apple Creator Studio，这是一个面向专业创作人士的一站式捆绑订阅服务，包含Mac和iPad平台的Pro App套装、iWork套件以及Pixelmator Pro等专业创作软件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Creator Studio将于1月29日正式上线，包含Pro App套装（Final Cut Pro、Motion、Compressor、Logic Pro、MainStage）、iWork套件的AI功能与高级内容、Pixelmator Pro的Mac和iPad版本，以及无边记app的高级功能。Pixelmator Pro将推出iPad版本，而移动版Pixelmator将停止维护。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于已购用户，原有Mac版Pro App套装可以继续使用，iWork和无边记的现有功能保持免费。Apple Creator Studio版本的应用将使用全新图标独立上架，与一次性购买版本区分。iPad版Final Cut Pro和Logic Pro将直接更新为Apple Creator Studio版本，原有独立订阅将不再提供。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;订阅版本与一次性购买版本存在功能差异。Pixelmator Pro的全新扭曲工具仅向订阅用户提供，Final Cut Pro的部分高级内容也仅限订阅用户，但视觉搜索、听写文本搜索、节拍检测等核心功能会向一次性购买用户开放。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Final Cut Pro新增的节拍检测功能可自动识别音乐节拍并生成网格，帮助用户快速完成踩点剪辑。视觉搜索和文本听写搜索功能可根据关键词筛选视频片段，实测中文关键词的视觉搜索也能正常工作。iPad版还支持蒙太奇制作器功能，可实现一键自动成片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pixelmator Pro for iPad的界面与Mac版保持一致，同时针对触控操作进行了优化，支持Apple Pencil Pro但轻捏操作选项有限。iWork套件增加了订阅专属的高级模版和AI生成图像内容，但多数智能功能因依赖Apple Intelligence而在国行设备上无法使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Creator Studio的订阅价格为美区$12.99/月或$129/年，中区¥38/月或¥380/年，支持家庭共享最多6人。教育优惠价格为¥18/月或¥180/年但不支持家庭共享。新用户可获1个月免费试用，购买新设备的用户可获3个月免费试用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;虽然国区因缺少Apple Intelligence导致iWork智能功能不可用，但桌面端各app的新功能基本都得到支持。近年来这些专业级app通过新增实用功能大幅降低了学习门槛，Apple Creator Studio进一步降低了专业创作的门槛。对于已购买桌面app的用户，没必要急于订阅，用好现有工具完成创作更为重要。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105554&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;跨越肠胃镜心理障碍：记一次胶囊胃镜体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享胶囊胃镜检查全流程及与传统胃镜对比&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者在深圳大学总医院进行胶囊胃镜检查的详细经验分享。作者因对传统胃镜的恐惧选择了价格较高的胶囊胃镜（4038元），详细对比了两种检查方式的优缺点：胶囊胃镜无需插管和麻醉、心理负担小，但无法活检且大肠检查不全面。文章完整记录了从挂号、问诊、缴费到正式检查的全流程，特别描述了检查前需喝4升电解质散清肠的痛苦过程，以及检查当天吞服胶囊、变换体位、穿戴记录马甲等细节。作者认为该检查方式适合有严重心理障碍者，并期待AI等技术能推动医学检查的进步。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因身体原因和对传统胃镜的恐惧选择了胶囊胃镜检查，文章介绍了胶囊胃镜的基本原理：通过吞服带摄像头的胶囊进行检查，胶囊在胃部拍摄后自然排出，整个过程无需插管且基本无不适感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;无痛胃镜通常与肠镜一起进行，采用全身麻醉后插管检查，优点是检查全面且可直接处理息肉和活检，缺点是麻醉有风险且插管会造成不适；胶囊胃镜通过吞服胶囊进行拍摄，优点是无需插管和麻醉、心理负担小，缺点是无法取活检、大肠检查不全面且价格昂贵。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细描述了在深圳大学总医院进行胶囊胃镜检查的完整流程：首先通过医院小程序挂号胃肠科，问诊后医生开具检查单，由于该项目归体检科负责需要调整用药方案，最终花费4038元（二档社保无法报销），预约了下周六的检查时间。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;检查前一天晚上七点后禁食，需要喝4升电解质散溶液清空肠胃，其中前一晚喝3升、次日凌晨四点再喝1升，作者描述药物味道怪异且后期难以下咽，喝完后开始频繁上厕所直至排出清水，整个准备过程较为痛苦。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;检查当天早上八点到医院，先喝二甲硅油散后吞服胶囊，胶囊在胃中旋转拍摄约20分钟，期间需变换平躺、左侧躺、右侧躺等姿势并多次喝药，过程无痛苦；胃部检查完成后需穿上记录马甲继续记录肠道情况，下午三点前禁食，次日归还设备，约一周后出结果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结这是2024年3月的检查经历，胶囊胃镜相比无痛胃镜价格昂贵且有明显缺点，建议没有严重心理障碍者慎重考虑，最后祝愿医学技术特别是AI能为此类检查带来突破性进步。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105134&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Matrix 圆桌 | 可惜！聊聊那些好用但停更的 App&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 盘点那些设计独特但已停更的优质应用&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了少数派12月主题征稿活动中关于停更应用的投稿。多位作者分享了曾经惊艳但已停更的应用：小米计算器作为iPad最佳计算器替代品，具有亲戚称呼计算等特色功能；Planetary以星系视觉呈现音乐播放，艺术性极强但实用性不足；Momentum提供极简打卡体验；恋爱ing帮助情侣记录恋爱点滴；Zenly开创地图社交模式；VVebo提升微博浏览体验。这些应用虽因各种原因停更或下架，但其独特设计理念和用户体验至今难以被完全替代，成为用户珍贵的数字记忆。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了少数派12月主题征稿活动，邀请作者分享那些曾经惊艳但已停更的应用，这些应用虽然设计不再时髦，但独特体验至今难以被替代。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Latte分享了小米计算器，这款2017年上架的应用成为iPad上最好用的计算器替代品，具有汇率换算、个税计算、亲戚称呼计算等特色功能，但随着iPadOS 18带来原生计算器后失去存在必要性而下架。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;缝纫机动队介绍了Planetary音乐星球，这是2011年发布的极具视觉冲击力的音乐播放器，将音乐专辑层级与星系-星球-卫星对应，虽然画面惊艳但实用性和扩展性不佳，4年前停更，目前仍可在App Store下载但已不再更新。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Voyager_1分享了Momentum极简打卡应用，它将每日打卡变成填满绿色格子的连击，没有多余功能和社交分享，提供私密的自律空间，但现已从商店消失。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Voyager_1还介绍了恋爱ing应用，具有纪念日记录、二人朋友圈、恋爱信等功能，帮助情侣记录恋爱点滴，但应用下架后只能在未升级的设备上保留。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Voyager_1分享了Zenly地图社交应用，可在地图上实时显示好友位置和动态，点亮走过的地方，但最终被开发商突然关停。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Voyager_1最后介绍了VVebo第三方微博客户端，提供纯粹的时间线布局、流畅手势操作和无广告体验，但因微博平台限制成为历史。文章最后感谢投稿作者并邀请读者分享更多停更应用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105818&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;少数派新年礼遇季：为你精选 2025 值得入手的热销好物&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派新年礼遇季直播推荐2025热销好物&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派新年礼遇季将于2026年1月29日晚19:30在小红书和视频号直播，为用户精选推荐2025年最具口碑的热销好物。活动涵盖多个品类产品，包括Keychron Q1 MAX机械键盘、Quote/0摘录、阅星曈X4墨水屏阅读器、GAMEBABY和BANG!CASE手机壳、MeetCard碰碰卡、磁吸洞洞充电宝、麦金獭67W充电器、特洛克数据线、CMF Buds Pro 2耳机，以及芬乘车载香氛和EraClean净化器系列等产品。所有产品均提供直播间专属优惠价格和补贴，部分产品还附赠配件，为用户提供难得的惊喜特惠购物体验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了少数派新年礼遇季活动，将在2026年1月29日晚19:30通过小红书和视频号进行直播，为用户推荐2025年值得入手的热销产品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Keychron Q1 MAX是一款支持三模连接的75%配列全金属机械键盘，采用6063全铝CNC一体雕刻工艺，具有高度可自定义属性和复古外观设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Quote/0摘录是一款受用户喜爱的产品，最新固件已成熟，软件功能更完善，直播间售价119元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;阅星曈X4是一款4.3英寸墨水屏超便携阅读器，重77g，支持多种格式和无线传输，续航一周，直播间售价239-269元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;GAMEBABY手机壳基于Delta模拟器，可将iPhone变为游戏掌机，无需连线充电，配备硅胶按键和金属键帽，售价99元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;BANG!CASE手机壳可调用iOS系统功能和快捷指令，通过单击、双击、长按按钮完成各种操作，售价99元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;MeetCard碰碰卡兼具防丢卡片与数字名片功能，银行卡大小，可随时定位并快速分享社交媒体联系方式，售价99元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;磁吸洞洞充电宝采用非对称设计，5000mAh容量，支持20W有线和15W无线充电，重146g，配有可装饰的孔洞设计，售价199元并赠送数据线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;麦金獭67W充电器配备数位阵列屏显示器，可显示充电速度和数字雨动画，最高67W功率，售价199元并赠送数据线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;特洛克100W数据线采用弹簧线设计可伸缩，最高100W充电速率，内置E-Marker芯片，锌合金接口配LED灯，售价39元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CMF Buds Pro 2耳机搭载双单元，支持50dB混合ANC降噪、LDAC高清音频和可自定义智能旋钮，续航最长43小时。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;芬乘智能车载香氛搭载震感启停、异味中和和超声波雾化技术，支持两档浓度调节，采用天然精油配方，适配99%车型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;EraClean车载净味器采用负离子+活性氧双效净化，可高效分解甲醛和除菌，内置3000mAh电池，支持多档模式和智能启停。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;EraClean冰箱除味杀菌器MAX采用臭氧离子技术，除菌率99.9%，可除味保鲜和降解农药残留，内置800mAh电池，续航30天，可在-30℃使用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105830&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：森海塞尔发布两款 USB-C 有线耳机等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技行业硬件新品与AI模型更新汇总&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了科技行业的多条资讯。硬件方面，森海塞尔发布USB-C有线耳机，Sonos推出专业级功率放大器，Bigme发布彩墨屏办公本。AI领域动态频繁：Google升级Gemini模型并推出AI Plus订阅，Yahoo发布AI搜索Yahoo Scout，阿里发布Qwen3-Max-Thinking推理模型，Anthropic和OpenAI分别推出交互式应用和科学研究协作空间。隐私和监管方面，三星预热防肩窥功能，Google因Assistant非法录音支付和解金，Meta在儿童保护问题上面临争议。文章以快讯形式呈现，涵盖硬件、AI、隐私等多个科技领域的最新动态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;森海塞尔发布CX 80U入耳式耳塞和HD 400U头戴式耳机，采用USB-C接口替代3.5mm接口，支持24-bit/96kHz无损音频，CX 80U定价40美元，HD 400U定价100美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Sonos推出首款专业级多通道流媒体功率放大器Amp Multi，搭载氮化镓功率架构，提供8路各125W功率输出，支持4个独立控制分区，预计未来数月通过授权安装商渠道发售。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bigme大我发布10.3英寸B10 4G彩墨办公本，搭载天玑1080处理器、8GB内存、256GB存储，配备Kaleido 3彩色墨水屏支持30FPS刷新率，定价699美元，预售价594美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google为Gemini 3 Flash引入代理视觉能力，通过思考-行动-观察循环逻辑实现动态图像理解；Gemini 3成为AI概览功能默认模型；Google AI Plus订阅方案在全球34个国家上线，月费8美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Yahoo推出由Claude支持的AI问答搜索Yahoo Scout，整合500亿用户配置文件和18万亿条消费行为信号，已在美国上线测试版；阿里发布千问旗舰推理模型Qwen3-Max-Thinking，总参数超万亿。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Anthropic推出Claude交互式应用，允许用户在对话界面直接调用Slack、Canva、Figma等办公应用；OpenAI发布科学研究AI协作空间Prism，深度集成GPT-5.2 Thinking模型，支持LaTeX编辑和多人协作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三星预热新隐私保护功能防止公共场所肩窥；Meta计划在Instagram、Facebook和WhatsApp启动高级订阅服务测试；Google同意支付6800万美元和解Google Assistant非法录音集体诉讼。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Meta首席执行官扎克伯格否决在AI聊天机器人中加入家长控制功能的决定引发争议；Google意外泄露代号Aluminum OS的桌面界面截图，证实正在Chromebook上测试Android与ChromeOS融合版本。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - January 27, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2056,150 +2289,6 @@ This article announces the release of a &amp;quot;Chaser Game&amp;quot; Season 2
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Pixel Meter采用Android 16的实时活动通知(Live Update Notification)展示网速,相比传统状态栏图标拥有更好的可读性和更丰富的展示内容,外观融入系统如同原生功能。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者采用人机协作模式开发Pixel Meter,使用AntiGravity配合自定义GEMINI.md规则文件让AI拥有长期记忆,作者负责架构设计和需求分析,Gemini负责代码编写和文档生成,90%的代码由AI完成。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Pixel Meter已在GitHub开源并上架Google Play商店,作者邀请用户体验这款纯净的网速显示工具,同时展示AI辅助开发的代码质量。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - January 17, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-01-17</id>
-    <updated>2026-01-17T20:05:58.005Z</updated>
-    <published>2026-01-17T20:05:58.005Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>5 articles from 5 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 17, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;18.63013698630137&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    4.7%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;17&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;348&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4.7%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;5&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22359&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Saturday afternoon kitchen session&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 社交媒体生活分享帖子记录厨房时刻&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇简短的社交媒体帖子,发布于2026年1月17日星期六下午。作者分享了一个厨房活动的时刻,并附有地理坐标(北纬51度,东经0度,可能位于伦敦附近)。帖子包含社交媒体链接(Mastodon、Bluesky、Instagram)和互动元素,包括两个点赞记录。内容风格简洁,更像是生活分享而非正式文章,具有典型的社交媒体碎片化特征。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/455&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 455: Cloudflare buys Astro&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Cloudflare收购Astro框架并保持开源&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文报道了Cloudflare收购开源框架Astro的消息。Astro因付费功能尝试失败而面临资金困境,Cloudflare提供了收购方案并承诺保持其开源特性。对Cloudflare而言,这是一次战略性的收购,旨在获得优秀团队和开发者社区影响力。文章还涵盖了多个技术动态,包括Sentry的生产环境感知AI代码审查工具、Chrome浏览器新特性、Safari开发工具更新、npm安全建议等。此外还通过代码示例讲解了JavaScript中this关键字的常见陷阱和正确用法。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cloudflare收购了开源框架Astro,尽管此前预测是Netlify会收购。Astro将保持开源并继续支持多种部署目标,不仅限于Cloudflare。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;从Astro角度看,这次收购源于资金需求。创始人Fred Schott表示他们尝试推出付费功能但都失败了,因此急需资金支持框架开发。Cloudflare为整个团队提供工作机会并为开源贡献者提供持续资金支持。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cloudflare的动机在于通过Astro实现&amp;#039;构建更快互联网&amp;#039;的使命,同时获得优秀工程团队和开发者社区的认可。凭借650亿美元市值,Cloudflare可以进行这类基于品牌价值的收购。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还介绍了Sentry的AI代码审查工具,它结合生产环境错误数据进行代码审查,使用多代理验证过滤误报,并针对大型变更提供实用建议。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;其他技术动态包括:macOS Tahoe窗口调整问题、Chrome 144新增地理定位HTML元素、Trigger.dev开源平台、Safari开发工具CSS Grid功能、ESLint创始人关于npm安全的建议等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;最后通过一个JavaScript代码示例说明了this关键字的引用问题,展示了在嵌套对象中正确使用this的方法。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/review-lander-23/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Review: Lander 23 by Punchdrunk ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 有趣但设计欠佳的真人动作游戏体验&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Lander 23是Punchdrunk公司在伍尔维奇推出的真人动作游戏体验,四人团队分组协作,一组操作控制台指挥另一组在废墟城市场景中探索。项目融合了沉浸式剧场、密室逃脱和激光枪战元素,但难以明确归类。虽然场景布置精美、互动装置设计出色,但存在故事薄弱、游戏时间短、收集系统不明确、缺乏个性化反馈和售后服务等问题。尽管有诸多设计缺陷,整体体验仍然充满乐趣和刺激感,适合愿意接受不完美游戏设计的玩家在工作日优惠时段尝试。评分三星半。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Lander 23是位于伍尔维奇的体验项目,四人团队分为两组,一组操作开关指挥另一组在废墟城市中探索,需要团队协作完成任务,类似加长版的《水晶迷宫》。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这个项目难以归类,由Punchdrunk公司推出,被定位为真人动作电子游戏,不是传统LARP或密室逃脱,没有谜题,故事单薄,但像成人版无枪激光枪战游戏,相当有趣。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;前期准备不错,场景布置精美,互动控制台设计精良,按钮和旋钮手感极佳,但利用率不高,许多输入装置实际上没什么用处。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;城市场景来自之前的《燃烧之城》作品,视觉效果华丽但与故事背景不符,在被守卫追逐时令人兴奋,但没有太多时间欣赏精致的布景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏过程中有收集能量、躲避守卫、操作开关等多项任务,节奏紧张刺激,但每人实际游戏时间仅15-20分钟,关于磁带、印章和文物的收集说明不清,似乎也没有实际作用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏结束后只显示团队编号和排名,没有个性化反馈、纪念品或后续跟进邮件,缺乏售后关怀,排行榜不记录分数也削弱了重玩动力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;照相环节需要玩家互相帮忙拍照,没有工作人员协助或发送照片服务,不如大多数密室逃脱体验周到,之后在酒吧喝鸡尾酒复盘时,四人都认为体验不错。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总体而言Lander 23像是由听说过但没玩过激光枪战/密室逃脱/《水晶迷宫》的人设计的,尽管如此仍然很有趣,在走廊奔跑很有《神秘博士》感觉,操作开关按钮的触感体验愉快,值得选择工作日便宜时段尝试。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-17T09:23Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-17T09:23Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 新Markdown解析器代码更优但速度稍慢,作者决定继续开发&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了新Markdown解析器实验的进展情况。积极方面包括代码库更加精简整洁,测试通过率高达87%(41/47),剩余问题可修复。消极方面是性能略有下降,通过464篇博客文章的基准测试显示速度稍慢,且优化潜力有限。尽管如此,作者认为代码质量和可维护性的优势超过了性能劣势,决定继续开发这个项目。这反映了软件开发中在性能与代码质量之间权衡取舍的实践。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的新Markdown解析器实验代码库更小更整洁,通过了47个测试中的41个,剩余6个失败可以修复,完成后将易于使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;负面方面是新解析器速度稍慢,通过解析464篇博客文章进行基准测试,尚未考虑优化且未发现明显瓶颈,未达到预期的性能提升。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管存在速度问题,但优点大于缺点,作者决定继续推进该项目。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105413&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Matrix 圆桌 | 少数派们的 13 张 2025 年度新专辑&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Matrix社区8位作者推荐13张2025年度专辑&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Matrix社区2025年度音乐盘点,由8位作者推荐13张年度专辑。推荐涵盖多元风格:陈郁夫的复古灵魂乐、Youth Lagoon的梦幻流行、八仙的摇滚、Tizzy Bac的钢琴摇滚、Sufjan Stevens的独立民谣、Conan Gray的酷儿流行、Suede的英伦摇滚、许哲珮和汉堡黄的华语流行、Taylor Swift的主流流行、超级市场的电子摇滚、ROSALÍA的先锋流行、祁紫檀的国语流行及彩虹合唱团的现场录音。文章强调音乐在生活中的陪伴价值,各位作者从个人角度分享专辑的独特魅力和情感共鸣,展现2025年音乐创作的丰富性与多样性。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (15 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇介绍了Matrix社区的年度音乐盘点传统,邀请多位作者分享2025年度专辑推荐,强调音乐在生活中的独特价值和记忆功能,提醒读者继续让音乐陪伴生活。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;北鸮推荐陈郁夫的《Heal Me Good》,这是一张以1970年代Gospel Soul为核心的R&amp;amp;B/灵魂乐专辑,在华语音乐界属于罕见的风格,适合作为生活BGM,营造温暖治愈的氛围。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cleo阿直推荐Youth Lagoon的《Rarely Do I Dream》,专辑采样童年录像带音频,用模糊的低保真处理和复古合成器营造地下室般的怀旧空间,融入黑色电影元素构建可视化的异质体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kasper推荐八仙的《巨人川》,延续乐队不急于取悦的自信气质,适合微醺时播放,能带来松弛的律动感和恰到好处的放松状态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;蔡菜寀推荐Tizzy Bac的《说出我的名字》,这是复团后的新作,延续钢琴摇滚风格,以&amp;#039;名字&amp;#039;为核心探讨自我认知与救赎,展现成军26年后多了几分岁月慈悲的成熟表达。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cleo阿直推荐Sufjan Stevens的《Carrie &amp;amp; Lowell》十周年纪念版,增加七首未发表Demo和作者文章,虽然Stevens对这张关于母亲去世的专辑感到自我厌弃,但音乐本身仍是一场生者需要的超度仪式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cleo阿直推荐Conan Gray的《Wishbone》,这是一张直接裸露的酷儿失恋日记,增加90年代摇滚元素,MV致敬多部经典同志电影,是2025年无法遗漏的酷儿书写作品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;化学心情下2推荐Suede的《Antidepressants》,专辑保持Britpop基底但部分编曲接近后朋克,Brett Anderson的高亢神经质唱腔依然是标志,58岁仍能继续创作已属难得。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;化学心情下2推荐许哲珮的《树洞里可以悲伤》,打破以往统一主题叙事风格,通过树洞故事集呈现低谷后的自我救赎之旅,重新定义了从自我之爱到母爱的情感扩展。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kasper推荐Taylor Swift的《The Life of a Showgirl》,专辑整体气质明亮,旋律传唱度高,首曲《The Fate of Ophelia》在各大榜单表现优异,可能成为2025流行乐坛的代表作品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;化学心情下2推荐超级市场的《阳光,空气,还有水》,田鹏在合成器音色上做出巨大调整,构建充满自然气息的音乐空间,核心仍是运用大量合成器的摇滚乐而非纯电子乐。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;北鸮推荐ROSALÍA的《LUX》,这是一张完全私人化的先锋流行作品,大量使用管弦乐配合多语种歌词,从世界各国女性人物取材,营造神性与人性共存的氛围,展现Rosalía的音乐天才。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;宛潼推荐汉堡黄的《少女,飞》,专辑记录23岁成长中的痛苦与蜕变,从《23(grow)》的沉重到《园丁》《麦子》的振作,最后在同名曲中宣告重生,展现女性探索自我的过程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;宛潼推荐祁紫檀的《世界与孤独女王》,暌违三年的新作展现女性成长的进阶阶段,从此前探索爱与自我到如今自洽后的安然,主体性前所未有的清晰坚定,&amp;#039;无归属&amp;#039;的小镇女孩成长为微笑闪耀的孤独女王。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ROB1N推荐上海彩虹室内合唱团的《生活瞬间(Live)》,相比磅礴叙事更注重小人物生活缩影,从开篇生活化对话到中间每首歌的独白,展现了强烈的临场感与叙事力,建议完整聆听体验。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
