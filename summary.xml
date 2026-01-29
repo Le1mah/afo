@@ -4,8 +4,222 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-01-28T20:18:36.723Z</updated>
+  <updated>2026-01-29T20:19:13.532Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - January 29, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-01-29</id>
+    <updated>2026-01-29T20:19:13.532Z</updated>
+    <published>2026-01-29T20:19:13.532Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>12 articles from 7 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 29, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;31.780821917808222&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    7.9%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;29&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;336&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;4&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 7.9%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22379&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Daughters of Sparta by Claire Heywood&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 评《Daughters Of Sparta》独特视角重述希腊神话&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于Claire Heywood小说《Daughters Of Sparta》的书评。作者决定改变写作习惯，读完书后立即撰写评论。书评重点讨论了现代希腊神话改编作品中神祇角色的处理方式，指出Heywood采用了无超自然角色的纯人类叙事。该书通过交替讲述Helen和Clytemnestra姐妹的故事，独特地将特洛伊战争和Clytemnestra复仇两条线索结合。尽管存在时间跳跃等叙事局限，作者仍认为这是一部成功的希腊古典故事现代改编作品。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在2025年底决定改变书评写作方式，不再等到年末集中写评论，而是读完一本书就立即写评论，并以2026年读的第一本书开始实践这个新方法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出现代希腊神话改编作品的一个有趣视角是如何处理神祇角色，Claire Heywood在《The Shadow Of Perseus》中采用了纯人类角色的非干预主义叙事方式，这给作者留下深刻印象，促使其回顾作者的处女作《Daughters Of Sparta》。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这本书采用独特的框架结构，交替讲述姐妹Helen和Clytemnestra的分歧故事，将特洛伊战争和Clytemnestra复仇的故事首次以这种方式结合，虽然存在时间跳跃和叙事必须在某处结束的局限，但整体上是希腊古典故事现代改编的优秀作品。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22378&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Wednesday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年1月的社交媒体帖子元数据页面&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇社交媒体帖子的元数据页面，发布于2026年1月29日星期三上午9:25。内容包含地理位置信息（北纬51度，东经0度）、社交媒体链接（Mastodon、Bluesky、Instagram）以及5个点赞记录。页面采用CC Attribution许可，并邀请读者分享回应链接。这是一个典型的个人博客或社交媒体聚合页面的结构化展示。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/book-review-the-players-act-1-by-amy-sparkes/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: The Players Act 1 by Amy Sparkes ★★⯪☆☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 关于18世纪流浪莎剧团的幽默小说书评&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于莎士比亚戏剧题材小说的书评。故事讲述18世纪流浪演员剧团的经历,充满幽默和轻微悲剧色彩。评论者认为角色塑造较为单一,类似commedia dell&amp;#039;arte的固定角色类型,包括反派、穿裤装的女性、理想主义者等。情节发展有些拖沓曲折。作者欣赏出版商提供无DRM的ePub格式。评分为2.5星,认为可能更适合青少年读者群体。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-29T07:35Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-29T07:35Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Tech companies ignore overwhelming user rejection of AI features (90% in polls), prioritizing financial narratives over user-centered design principles.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;# Summary
+
+This article critiques the tech industry&amp;#039;s dismissal of user preferences regarding AI integration, citing polls from Firefox and DuckDuckGo showing approximately 90% of users reject AI features. Despite overwhelming negative feedback, software companies continue pushing AI implementations while disregarding user-centered design principles, instead telling users what they need rather than listening to their concerns. The author identifies &amp;quot;AI Inevitablism&amp;quot; as a financially-driven narrative that frames AI adoption as unstoppable and inevitable, while users who resist are dismissed as luddites. The piece questions whether companies will honor promises like Mozilla&amp;#039;s &amp;quot;off switch&amp;quot; and highlights a broader trend of AI non-consent, suggesting this narrative&amp;#039;s persistence depends entirely on continued funding rather than genuine user demand.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;User Polling Results:&lt;/strong&gt; Firefox and DuckDuckGo both conducted polls showing users overwhelmingly reject AI features. DuckDuckGo&amp;#039;s poll revealed approximately 90% of voters don&amp;#039;t want AI integration.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Corporate Response Concerns:&lt;/strong&gt; Despite negative user feedback, questions remain whether companies will actually listen to their users. Mozilla has promised an off switch, but AI non-consent is becoming a growing trend.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;End of UX:&lt;/strong&gt; Software companies no longer prioritize listening to users or caring about their needs. Users are told what they like and need, rather than being consulted.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Luddite Accusations:&lt;/strong&gt; Users who reject AI features are dismissed as luddites and accused of being &amp;quot;behind the times.&amp;quot; This represents a shift away from user-centered design principles.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Inevitablism:&lt;/strong&gt; The concept of &amp;quot;AI Inevitablism&amp;quot; describes the narrative that AI is permanent and unstoppable, backed by massive financial investment. This narrative persists only as long as funding continues.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21343&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【1/30(金)10:00～12:00】サーバーメンテナンスのお知らせ&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网站将于2026年1月30日进行服务器维护&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一则服务器维护通知公告。网站将于2026年1月30日（周五）上午10:00至12:00进行服务器维护，目的是为用户提供更舒适的使用环境。维护期间，网站访问和邮件发送可能会出现无法正常连接的情况。文章感谢用户的理解与配合，并在页面底部列出了多个相关的历史维护通知链接。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/?p=10839&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【採用情報】[新卒・中途採用]開発支援（ネットワーク・サーバー室、PCサポート室、ツール開発室）スタッフ募集！（福岡本社・東京スタジオ・大阪スタジオ）&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 游戏公司招募IT支援人才负责开发环境维护&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2游戏公司开发支援课招募多个职位,包括网络服务器室、PCサポート室和工具开发室。该部门约占公司15%员工,负责IT基础设施、机材管理、工具开发等支援工作,确保游戏开发者能专注创作。公司重视自我解决能力、逻辑思维和主动性,寻求对新技术有好奇心、善于沟通的人才。职位分布在福冈、东京、大阪三地,要求高中以上学历和IT基础知识,有相关经验者优先。应聘者需提交履历书、职务经历书和应募问卷,公司承诺严格保密个人信息。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CyberConnect2公司新增PCサポート室职位招募,该部门负责机材管理、基础设施整备和工具开发等工作,为游戏开发提供环境支持和业务效率化帮助。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;公司约300名员工中15%为业务部管理事务职种,包括总务、经理、人事、企划、宣传、广报和开发支援等,业务部的支持对游戏开发者专注开发至关重要,各部门跨福冈、东京、大阪三地协作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发支援课包含网络服务器室、PC支持室和工具开发室三个部门,分别负责IT基础设施构建运维、PC配置机材管理、工具开发和业务自动化,通过解决员工困难获得成就感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发支援课寻求对新技术有好奇心、具备逻辑思维能力和主体行动力的人才,重视自我解决能力,能主动发现问题并提出解决方案,有硬件软件知识经验者优先。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;网络服务器室招募开发支援staff,工作地点在福冈或东京,负责网络设备和服务器管理、故障处理、保守业务等,要求高中以上学历、IT基础知识和良好沟通能力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;PCサポート室招募开发支援staff,工作地点在大阪,负责PC配置、硬件软件资产管理、机材设置和故障处理等helpdesk工作,要求高中以上学历和IT基础知识。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工具开发室招募开发支援staff,工作地点在福冈,负责开发新工具和推进业务自动化效率化,包括数据库工具、销售集计工具和翻译检查工具等的开发维护。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;所有职位都要求对游戏等娱乐产业有兴趣、具备良好沟通能力和IT基础知识,各职位有相应的优先技能要求但非必须,应聘需提交履历书、职务经历书和应募问卷。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 好色龍的網路生活觀察日誌 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://hornydragon.blogspot.com/feeds/8101753683057547625/comments/default&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;雜七雜八短篇漫畫翻譯2232&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博客评论区的简短互动交流&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇博客文章的评论区内容，包含三条用户评论。评论者们使用了隐晦和暗示性的语言进行交流，似乎在讨论某种需要长期积累才能获得特殊服务的场所或活动。评论风格轻松随意，带有一定的调侃意味。整体内容较为简短，缺乏完整的上下文信息。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105869&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 234｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派编辑部分享近期购买的摄影配件、文创夹子等新品体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部第234期「新玩意」栏目，介绍了编辑们最近购买的多款产品。包括华为Mate X7专业摄影套装（铁头品牌手机壳和长焦镜头组合）、上海译文出版社的文创黄铜夹子、奶油小狗主题春联、新款AirTag以及贝尔金Stage PowerGrip多功能充电宝手柄。编辑们从做工、设计、实用性、价格等多个维度分享了真实使用体验，既有专业摄影配件，也有文创装饰品，涵盖了数码、文具、节日装饰等多个品类，为读者提供了丰富的购物参考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派编辑部推出「新玩意」栏目，介绍编辑们最近购买和使用的新奇产品，让读者了解这些产品的真实使用体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;老麦介绍了华为Mate X7专业摄影套装，包括铁头品牌的手机壳、蓝牙手柄和长焦镜头，整体做工扎实，设计兼顾实用性，镜头可实现13.5倍无损增距拍摄，适合旅拍需求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Lotta分享了上海译文出版社的两款黄铜夹子，分别是寒鸦咖啡馆和海上书展主题，设计精美且富有文学背景故事，虽然价格偏贵但颜值高，适合夹厚重书页或作为装饰。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Lotta还购买了奶油小狗春联，采用毛毡材质，设计可爱，虽然价格较高但印刷质量好，红色元素也符合春节喜庆氛围，可灵活DIY贴在室内门上。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;waychane体验了新款AirTag，外观与旧款基本相同但印字改为全大写并新增NFC标识，主要升级在于查找范围更大、扬声器音量更响，配件方面官方钥匙扣改用精织斜纹材料。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Clyde推荐了贝尔金Stage PowerGrip，这是一款9000mAh容量的充电宝兼蓝牙拍照手柄，具有7.5W无线充电、相机人体工学设计、标准三脚架螺口等特点，也可作为无线充电底座使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后邀请读者参与Matrix共创计划，分享自己的新玩意体验，成功入选可获得108元红包奖励，并在社区速递栏目中展示。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105622&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;左手 Tana，右手 Heptabase：为什么我两个都要？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 双修Heptabase和Tana的知识管理实践&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者分享了在Heptabase和Tana两款知识管理工具之间的选择困扰与最终的双修实践。文章深入对比了两款工具的核心理念：Heptabase强调空间化思维，通过白板和卡片将思考过程可视化；Tana侧重结构化建模，通过Supertag将信息转化为可复用的思维框架。作者通过实际案例展示了两款工具的应用场景，并指出知识管理的关键不在于寻找完美的All in One工具，而在于理解自己的思考方式，根据不同场景选择合适的工具组合。文章强调知识管理的终点是成为更清晰的思考者，工具只是承载思维逻辑的方法。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了在笔记管理工具选择中的困扰，特别是在Heptabase和Tana之间的纠结。指出人们总希望找到All in One工具，但往往忽略了更本质的问题：自己究竟想要获得什么。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了2023年离职后重新搭建知识体系的经历，在Heptabase和Tana之间反复切换，最终意识到问题不在工具本身，而是困在了All in One的执念里。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细对比了两款工具的核心理念：Heptabase是空间化思维工具，强调通过二维平面组织信息来理解知识；Tana则通过Supertag实现信息结构化，将信息从记录层面推进到建模层面。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;深入阐述Heptabase的空间化思考方式，通过白板上的卡片移动、连接和分组，将思考过程外部化和可视化，帮助用户发现隐藏的关联并涌现新的认知。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍Tana的结构化思考能力，通过三个实际案例展示如何用Supertag构建思维框架：日常思考捕捉、写作框架固化和公司分析建模，将思考逻辑显性化和可复用化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;强调知识管理的根本在于理解自己的思考方式和建立个人的知识观，工具选择应该契合个人的思维逻辑，而不是盲目追逐新工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了双修两个工具的实践经验：Tana负责快速记录和结构化作为基础资料库，Heptabase负责用白板构建全局思考。认为不应执着于All in One，多工具组合反而能更好支撑思考流程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结指出知识管理的目的不是存储信息而是更好地思考，两款工具的价值在于帮助用户理解自己的思维方式。建议先想清楚自己如何思考，再选择合适的工具，知识管理的终点是成为更清晰的思考者。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/99910&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;你的隐私你做主，所有人都应该知道的 9 个 iPhone 隐私保护技巧&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 全面介绍iPhone隐私保护的9大技巧&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇全面的iPhone隐私保护指南，在国际数据隐私日之际更新发布。文章从生物识别、网络安全、密码管理、权限控制、应用锁定、iCloud保护、防盗措施等多个维度，系统介绍了9大类iPhone隐私保护技巧。内容涵盖Face ID/Touch ID设置、Wi-Fi安全、密码app使用、权限最小化授予、失窃设备保护、双重验证、加密备份等实用功能。文章特别强调了iOS 18的新功能，如应用锁定和增强的失窃保护机制，并警告用户避免使用非官方渠道下载应用。通过这些技巧，用户可以有效保护手机中的照片、文件、证件、密码等敏感信息，防止隐私泄露和数据丢失。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了国际数据隐私日的意义，并提出在春节期间使用各类app时需要注意隐私保护，避免广告骚扰和隐私泄漏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;强调手机承载了大量重要隐私信息，包括照片、笔记、证件、密码等，这些数据一旦泄露后果严重，因此需要掌握保护iPhone数据和隐私安全的技巧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了Touch ID和Face ID等生物识别技术的本地加密特性，以及iOS 18新增的应用锁定功能，建议用户在设置中关闭锁定后的Widget访问等权限。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;推荐开启Face ID的注视启用功能、使用Apple Watch解锁、保存密码到iPhone以及开启抹掉数据选项，以提高设备安全性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;强调Wi-Fi网络安全的重要性，介绍了iOS的私有无线局域网地址和限制IP地址跟踪功能，以及Safari的隐私报告功能来阻止网页跟踪器。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了iOS 18新增的密码app，可以统一管理密码、展示安全漏洞，相比第三方工具使用门槛更低且与系统高度绑定。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细说明了iOS的权限管理系统，建议只开启最低限度的必要权限，介绍了定位、照片、剪贴板等临时权限的使用方法，以及麦克风和相机的指示灯提醒功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了iOS的app锁定和隐藏功能，可以将重要app锁定并隐藏到App资源库的隐藏文件夹中，每次启动需要生物识别或密码解锁。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;强调保护iCloud账户的重要性，建议开启双重验证功能，并手动选择iCloud保存的内容以节省空间和减少数据泄露风险。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;警告用户警惕第三方应用商城和企业证书的风险，这些渠道的app可能调用私有API窥探隐私，建议只在App Store下载应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了iPhone丢失后的应对措施，包括加密备份、使用查找功能、开启失窃设备保护功能以及设置SIM卡PIN码等方法来保护数据安全。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了引导式访问和屏幕使用时间中的内容和隐私限制功能，可以在将手机交给他人时限制操作，或隐藏特定应用和功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105850&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Apple Creator Studio 正式上线、Kimi K2.5 模型发布等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技行业五大更新：Apple创作工具、Kimi AI模型、英伟达游戏技术等&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派第29期早报，汇总了2025年1月27-28日科技行业的五大重要动态。Apple正式上线Creator Studio专业创作工具订阅服务；月之暗面发布并开源Kimi K2.5多模态AI模型，引入Agent集群机制；英伟达推出RTX Remix Logic功能，为老游戏MOD创作提供无代码可视化工具；英特尔向Arc GPU推送XeSS 3多帧生成技术；Google升级Android 16防盗机制，强化生物识别保护。这些更新涵盖了创作工具、人工智能、游戏图形技术和移动安全等多个领域，展现了科技行业的最新发展趋势。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Creator Studio于1月28日正式上线，这是一个面向专业创作者的一站式订阅服务，整合了Mac和iPad平台的Pro App套装、iWork套件以及Pixelmator Pro等专业创作工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;月之暗面于1月27日发布并开源了Kimi K2.5模型，这是其最智能和最全能的模型，采用原生多模态架构，支持视觉与文本输入、思考与非思考模式，并引入了Agent集群机制，同时推出了面向开发者的编程工具Kimi Code。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;英伟达于1月27日更新NVIDIA App，加入RTX Remix Logic功能，允许MOD作者通过可视化无代码节点式界面，在不访问源代码的情况下根据实时游戏事件动态触发图形特效。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;英特尔于1月27日向Arc GPU推送最新驱动，正式带来XeSS 3多帧生成特性，通过在每帧传统渲染画面后插入最多三帧AI生成的插值帧来提高帧率和流畅度，同时修复了多项已知问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google于1月27日宣布升级Android 16防盗机制，强化了身份检查功能覆盖范围，调整了屏幕解锁防猜测机制，并优化了远程锁定工具，全面提升设备盗窃后的数据与金融安全保护。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Kimi 的一体化，Manus 的分层&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Kimi开创性地将K2.5模型与Agent一体化发布&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章介绍了Kimi公司发布的K2.5旗舰模型及其配套的Agent智能体。K2.5在性能评测中表现优异，编码能力在开源模型中排名第一。Kimi开创性地将大模型与Agent一体化发布，区别于Manus等采用的分层开发模式。K2.5 Agent推出了视觉编程和蜂群功能等创新特性，作者通过实际测试验证了其视觉编程能力，能够通过理解视频内容生成高还原度的网页和动画。这种一体化策略不仅提升了用户体验，还因使用自研开源模型而避免了技术依赖风险，在当前国际竞争格局中具有独特优势。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kimi公司低调发布旗舰模型K2.5，该模型在全球范围内获得高度评价，属于第一梯队，但真正有趣的是Kimi同时做了另一件创新的事情。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;K2.5模型性能强大，评测跑分全球前三，编码能力在开源模型中排名第一。最大亮点是Kimi同时发布了基于该模型的Agent智能体，这是首次有大模型公司将模型和Agent绑定发布，走上了一体化道路。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;大模型与Agent的关系有两种模式：分层开发和一体化。Manus代表分层开发模式，使用Claude模型开发独立智能体并被收购；而Kimi选择一体化方向，将大模型和Agent合并开发，两种模式各有优势。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kimi对K2.5 Agent投入很大，除了常规的Office文件生成、代码工具、长程操作等功能外，还推出了两个创新功能：视觉编程（通过理解图片视频生成网页）和蜂群功能（自动调用最多100个Agent并发执行复杂任务）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者测试了K2.5 Agent的视觉编程功能，首先上传了一段Lottie动画视频，模型成功识别并使用Python生成SVG动画文件，虽然主体小猫的还原度有限，但动画效果基本正确还原。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二个测试是上传设计师网站视频让模型还原网站，生成结果的还原度非常高，几乎可以直接上线使用，完全超出预期。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;经过测试，Kimi K2.5 Agent的视觉编程功能确实具备视觉理解能力，能生成可用结果。一体化尝试成功，既发挥了模型能力又扩展了用例。此外，Kimi使用自研开源模型，不存在依赖海外模型的风险，在国际竞争中具有额外优势。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - January 28, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2163,132 +2377,6 @@ This article announces the release of a &amp;quot;Chaser Game&amp;quot; Season 2
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;text-decoration-inset语法支持auto关键字、单个长度值或两个长度值,两个值分别表示左右方向的下划线缩进。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;当text-decoration-inset设置为auto时,连续元素的下划线之间会产生间隙,而不设置则会严丝合缝地连接。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;这是国内第一个介绍text-decoration-inset属性的文章,该特性非常新,兼容性较差,可用于绘制基于字符的长波浪线。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - January 18, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-01-18</id>
-    <updated>2026-01-18T20:08:26.064Z</updated>
-    <published>2026-01-18T20:08:26.064Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>6 articles from 5 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 18, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;19.726027397260275&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    4.9%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;18&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;347&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4.9%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;6&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22361&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The best thing about the cold weather is seeing all the good doggos out walking in their winter outfits.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 分享寒冷天气中看到穿冬装狗狗的快乐&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条发布于2026年1月18日的简短社交媒体帖子,作者分享了在寒冷天气中看到穿着冬装的狗狗散步的愉悦心情。帖子包含时间、地理位置信息,并在Mastodon和Bluesky平台上同步发布,获得了6个点赞。这是一条轻松愉快的日常生活观察类内容。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22360&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The datalist element on iOS 26&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iOS 26的Safari中datalist元素bug导致输入框被建议框遮挡&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章讨论了iOS 26上Safari浏览器中datalist元素的严重bug。作者的朋友在使用The Session网站搜索曲目时,datalist的建议框完全遮挡了输入框,使搜索功能无法使用。作者指出这是Safari的典型问题模式:技术上支持HTML特性,但实现质量差到无法使用。由于iOS上所有浏览器都基于Webkit,问题影响范围广泛。作者已提交bug报告,但发现传统的user-agent嗅探解决方案可能也行不通,只能等待苹果发布修复更新。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的朋友在iOS 26的Safari上使用The Session网站搜索时,datalist元素的建议框遮挡了整个输入框,当输入到&amp;#039;The Road To&amp;#039;时就出现了这个问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Safari在功能支持上存在模式性问题:技术上支持某些特性,但实现得非常buggy导致无法使用。作者不得不考虑使用讨厌的user-agent嗅探,但这无法只针对Safari,因为iOS上所有浏览器本质上都是Webkit。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者已提交bug报告,但在等待修复期间发现user-agent嗅探可能无法实现。文章还记录了多位开发者对此问题的回应和分享。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-18T09:02Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-18T09:02Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者安装新PCIe网卡并计划配置OPNsense&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者收到了一块新的PCIe网络卡用于自托管系统更新。这块网卡有两个新端口,在系统中被识别为独立的PCI设备并拥有各自的IOMMU组,原有的板载端口仍保持独立运行。作者计划接下来在设备上运行OPNsense并测试网卡性能,暂不配置高可用性方案,而是选择手动同步设置。整个过程显示硬件安装顺利,为后续网络配置工作做好了准备。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 overreacted — A blog by Dan Abramov &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://overreacted.io/a-social-filesystem/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A Social Filesystem&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 将文件系统理念应用于社交应用,通过AT协议实现用户数据独立于应用&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文提出将传统文件系统的理念应用于社交计算领域的创新概念。作者首先回顾了文件系统的优势——文件属于用户而非应用,通过开放格式实现应用间互操作。随后提出&amp;#039;everything folder&amp;#039;概念,将社交媒体的帖子、关注等活动视为用户文件夹中的文件。文章介绍了AT协议作为实现这一理念的实际技术方案,已在Bluesky等应用中运行。通过&amp;#039;记录&amp;#039;(record)、&amp;#039;记录键&amp;#039;(record key)和&amp;#039;Lexicon&amp;#039;模式语言等技术细节,构建了一个分布式社交文件系统,使用户数据独立于应用存在,避免供应商锁定,让用户真正拥有自己的社交数据。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇介绍了传统文件系统的概念,强调文件属于用户而非应用程序,用户可以自由检查、分享和使用不同应用打开文件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阐述了文件格式作为应用间协作的API,通过SVG等开放规范为例说明不同应用可以无需相互了解就能协同工作,文件的生命周期独立于创建它的应用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提出将社交应用的数据(如帖子、关注、点赞)视为文件的概念,设想一个包含用户所有社交数据的&amp;#039;everything folder&amp;#039;,其中文件是真实数据源而非归档。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍AT协议作为实现社交文件系统的实际方案,已在Bluesky等应用中大规模运行,通过将用户数据从应用中分离,避免数据被应用锁定。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细解析社交文件系统中的&amp;#039;记录&amp;#039;(record)概念,通过一条推文示例说明如何将社交媒体内容转换为JSON格式的文件,剔除派生数据保留核心创建数据。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论记录的命名机制,采用基于时间戳的唯一标识符作为记录键(record key),确保本地生成且几乎不会冲突,同时支持按时间顺序排序。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;引入Lexicon概念作为定义社交文件格式的模式语言,比TypeScript类型定义更强大,能表达字符长度限制、日期时间格式等约束条件,确保文件格式的稳定性。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 好色龍的網路生活觀察日誌 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://hornydragon.blogspot.com/feeds/5827503347587525474/comments/default&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;雜七雜八短篇漫畫翻譯2228&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博客漫画翻译文章的读者评论互动&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇博客评论页面的元数据内容,来自好色龍的網路生活觀察日誌博客。文章标题为《雜七雜八短篇漫畫翻譯2228》,包含一条用户评论,评论者表示通过某张图片记住了三个可爱角色的名字。这是一个关于漫画翻译内容的简短互动评论,体现了读者对作品中角色的喜爱。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/104972&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1｜它和你的 Pixel 更配，宛如原生的网速显示工具&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者用AI辅助开发Pixel网速显示应用&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者针对Pixel原生系统缺乏网速显示功能,以及市面上第三方应用存在UI过时、代理模式下统计虚高等痛点,利用AI辅助开发了Pixel Meter应用。该应用通过Android S新API实现精准流量统计,采用实时活动通知优雅展示网速,外观融入系统如同原生功能。开发过程中作者采用人机协作模式,使用Gemini配合自定义规则文件,由AI完成90%的代码编写、文档生成和宣传素材制作,展示了AI时代个人开发的新范式。应用已开源并上架Google Play商店。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者作为Pixel用户，因原生Android系统缺乏实时网速显示功能而感到困扰,市面上的第三方网速应用存在UI过时、显示效果差、功能臃肿以及开启代理后网速统计虚高等问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;传统网速应用统计不准的原因在于Android旧版统计机制会对物理网卡和代理虚拟接口的流量重复统计,导致显示速度是实际速度的2倍,作者因此决定利用AI帮助开发专门适配Pixel的网速应用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pixel Meter通过使用Android S引入的新API TrafficStats.getRxBytes实现精准流量统计,利用网卡白名单与黑名单机制过滤重复数据,无需Root或Shizuku权限即可准确显示网速。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pixel Meter采用Android 16的实时活动通知(Live Update Notification)展示网速,相比传统状态栏图标拥有更好的可读性和更丰富的展示内容,外观融入系统如同原生功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者采用人机协作模式开发Pixel Meter,使用AntiGravity配合自定义GEMINI.md规则文件让AI拥有长期记忆,作者负责架构设计和需求分析,Gemini负责代码编写和文档生成,90%的代码由AI完成。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pixel Meter已在GitHub开源并上架Google Play商店,作者邀请用户体验这款纯净的网速显示工具,同时展示AI辅助开发的代码质量。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
