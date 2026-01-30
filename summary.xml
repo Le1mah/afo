@@ -4,8 +4,222 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-01-29T20:19:13.532Z</updated>
+  <updated>2026-01-30T20:19:09.766Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - January 30, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-01-30</id>
+    <updated>2026-01-30T20:19:09.766Z</updated>
+    <published>2026-01-30T20:19:09.766Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>11 articles from 7 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 30, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;32.87671232876712&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    8.2%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;30&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;335&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;4&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8.2%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22380&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Going to Carlingford. brb&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者发布前往Carlingford的简短状态更新&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇简短的个人博客更新，作者于2026年1月30日上午10点发布，表示将前往Carlingford并很快回来。文章包含地理坐标（北纬51度，东经0度）以及社交媒体链接（Mastodon和Bluesky）。文章还显示了一条来自Roberto Baca的回复祝福，以及Ms. Jen的点赞记录。这是一篇典型的微博客式简短状态更新。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Practical Use Of AI Coding Tools For The Responsible Developer&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 实用指南：如何负责任地使用AI编码工具提升开发效率&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文分享了在实际开发工作中使用AI编码工具（如Copilot、Cursor、Claude）的实用技巧和最佳实践。作者基于两年的实践经验，介绍了AI工具在理解陌生代码库、处理依赖升级、代码重构、学习新技术、编写测试、创建内部工具等场景中的应用。文章强调了作为负责任的开发者，需要确保代码质量、妥善处理安全隐私问题，并提供了具体的提示词技巧和工作流程建议。作者认为AI工具能显著提升生产力，但同时警告开发者必须保持批判性思维，彻底审查AI生成的代码，因为AI可能产生错误输出。文章最后强调解决问题的核心能力永远重要，初学者不应过度依赖AI而忽视基础学习。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者Stefan Kaltenegger介绍了他的团队在过去两年中测试和集成AI编码工具（如Copilot、Cursor、Claude和ChatGPT）的经验，强调了作为负责任的开发者需要确保代码质量、不给同事增加负担，并妥善处理安全和隐私问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细介绍了AI编码工具的多个实用场景：理解陌生代码库、处理依赖升级中的破坏性变更、跨文件安全复制重构、在不熟悉的技术中实现功能（如GLSL着色器动画）、编写测试、创建内部工具、更新旧代码以及总结和起草文档。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提供了最佳实践建议，包括使用具体详细的提示词、在提示结尾添加&amp;#039;在开始之前，你有什么问题要问我吗？&amp;#039;来获得更好的输出、使用版本控制并将工作分解为可消化的块、彻底审查AI生成的代码。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结尾强调AI工具可以提高开发者的生产力并释放思考能力，但同时警告AI可能会产生幻觉（自信地说谎），因此必须检查和测试输出。作者认为解决问题的能力永远不会过时，并提醒初学者不要过度依赖AI而失去通过调试学习的机会。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-271/viewer?title_no=853933&amp;episode_no=284&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 271&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画DOGHAUS第271集导航页面&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是WEBTOON平台上名为DOGHAUS的网络漫画系列第271集的页面。页面主要包含导航元素,列出了从第1集到第271集的所有章节编号,包括常规集数、Sunday Strip特别篇和特别公告。页面提供了订阅、分享、举报等互动功能,并显示该系列为自出版的CANVAS作品,评级为成熟内容。页面底部展示了其他浪漫类漫画的排行榜推荐。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/theatre-review-the-hitchhikers-guide-to-the-galaxy-immersive-experience/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Theatre Review: The Hitchhiker’s Guide to The Galaxy - Immersive Experience ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 技术出色但故事零散的H2G2沉浸式体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章评论了《银河系漫游指南》沉浸式体验演出。作者从演出前、演出中和演出后三个阶段进行了详细描述。技术层面表现出色，激光、木偶、音效等元素完美融合，演员表演专业。但故事缺乏连续性，更像是从不同版本中重混的系列小品，90分钟时长不足以展现原作的复杂性。尽管如此，演出整体有趣且温馨，适合熟悉原作的观众。作者给予3.5星评价，认为这是对Douglas Adams作品的有价值改编。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这是一场90分钟的《银河系漫游指南》沉浸式体验，包含全体演员阵容、木偶机器人、名人配音客串和众多歌曲表演。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;演出前鼓励观众提前到达存放外套并融入氛围，酒吧场景充满细节，屏幕展示各种内部笑话，演员与观众互动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;从技术角度看演出令人惊叹，激光显示板、木偶、干冰、环绕声和众多装饰细节完美融合，演员机智且擅长即兴表演。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;中场休息时可以购买品牌啤酒，建议演出前先在酒吧喝一杯Pan Galactic Gargle Blaster，在Vogon飞船中漫步是视听盛宴。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;故事方面没有连续性，不是原著的忠实重现也不是全新创作，而是从各个版本中撕裂和重混的系列小品，角色会消失后重新出现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对H2G2有基本了解的观众会喜欢，否则可能感觉零散，90分钟不足以建立复杂性或戏剧张力，但整体有趣且温馨。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;演出结束后观众被引导到酒吧，这是对Douglas Adams作品的有价值改编，在Riverside Studios演出至2月15日，门票起价42英镑。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://x.com/ChaserGameW2026/status/2017070274747699342?s=20&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;映画『チェイサーゲームW水魚の交わり』特報解禁！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网站错误提示建议禁用隐私扩展后重试&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条错误提示信息，告知用户在x.com网站上遇到了问题。提示建议用户重试，并指出某些与隐私相关的浏览器扩展程序可能导致网站功能异常。建议用户禁用这些扩展程序后再次尝试访问。这是一个典型的网站技术故障提示，旨在帮助用户排查和解决访问问题。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/a-guide-to-muscle-explosive-power&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;别只练力量和心肺，人生下半场拼的是肌肉爆发力&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 肌肉爆发力是预测寿命的关键指标&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文基于Mayo Clinic Proceedings研究指出，肌肉爆发力比力量更能预测寿命，爆发力最差者死亡风险高6倍。文章系统阐述了爆发力的科学定义（力量×速度），强调其在日常生活和应对意外中的重要性。从30岁起爆发力开始流失，60岁后年衰减3%-4%，导致老年人独立能力下降和跌倒风险增加。通过解析跳跃动作的三个阶段，揭示爆发力由弹性势能、牵张反射和主动收缩三部分组成。文章提出两种训练方法：增强式训练和负重爆发力训练，并推荐使用药球等器械的具体动作，为普通人科学训练爆发力提供实用指导。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;研究表明肌肉爆发力比单纯肌肉力量更能预测寿命，爆发力最差者的死亡风险比最强者高6倍。文章将探讨爆发力的定义、重要性及训练方法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;爆发力是肌肉在极短时间内产生最大力量输出的能力，等于力量乘以速度。真正的爆发力需要同时具备足够的力量和速度，并依赖神经系统高效控制肌肉快速收缩。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;爆发力与日常生活息息相关，是应对意外的第一道防线。从30岁开始爆发力会流失，60岁后衰减速度达每年3%-4%，远快于肌肉力量流失速度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;爆发力流失导致老年人独立生活能力丧失，无法应对意外情况。跌倒可能导致髋部骨折等严重后果，但通过科学训练可以延缓爆发力衰退。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过原地跳高动作解析爆发力产生过程：离心阶段储存弹性势能并触发肌梭反射，过渡阶段需快速转换以保持能量，向心阶段释放三股力量完成爆发。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;爆发力训练分为两种：快速伸缩复合训练（增强式训练）加强弹性势能和牵张反射，使用自重或轻负重；负重爆发力训练提高肌肉主动发力，使用大负重快速动作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;推荐适合新手的爆发力训练动作，上肢训练主要使用药球进行，药球是健身房常见但容易被忽视的训练器械。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105907&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 8 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派编辑部推荐8部优质影视作品及最新预告资讯&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部推出的影视推荐栏目，精选了8部近期值得观看的作品，涵盖美剧、日韩剧、动画、电影和纪录片等多种类型。重点推荐包括漫威新剧《奇迹人》、治愈动画《异国日记》、日本票房冠军《国宝》等。文章采用多位编辑联合推荐的形式，每部作品都配有关键词、简介和个人评价。此外还汇总了《攻壳机动队》《超级马力欧》等多部即将上映作品的预告片信息，以及《龙珠超》新作制作、《洛杉矶劫案》引进等影视资讯。内容丰富全面，为读者提供了多元化的观影选择和行业动态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇介绍了本周推荐的8部影视作品，包括美剧《奇迹人》、动画《异国日记》、电影《国宝》、韩剧《爱情怎么翻译？》、日剧《丰臣兄弟！》、电影《极限审判》、英剧《强制窃贼》和纪录片《四海中医》，并预告了多部即将上映的影视作品预告片和相关资讯。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《奇迹人》是漫威版《片场风云》，讲述无名演员西蒙的故事，抛弃传统超级英雄路线，采用大量文戏刻画小演员的职场焦虑。《异国日记》改编自漫画，由《夏目友人帐》制作公司打造，讲述小说家与外甥女的治愈同居生活。《国宝》是日本影史票房最高真人电影，讲述歌舞伎世界的人生大戏，获奥斯卡最佳化妆与发型设计提名。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《爱情怎么翻译？》讲述女明星与口译员的浪漫爱情，同时探讨原生家庭创伤。《丰臣兄弟！》是NHK第65部大河剧，讲述丰臣秀吉兄弟的战国故事，节奏明快。《极限审判》是科幻悬疑片，主角被困电椅上需在90分钟内洗刷冤屈，采用第一视角营造紧张氛围。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《强制窃贼》讲述40亿英镑养老金盗窃案，充满高能反转，揭示金融体系黑暗面。《四海中医》是凤凰卫视纪录片，探索中医药文化在全球的传播与影响，展现中医传承者的坚守与努力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还推荐了《废世界》《临租家庭》《弗兰茨》《伪术奇才》等多部电影，以及《紫菜包饭和饭团》《凡妇俗女》《御赐小仵作2》《南极厨师》等剧集和真人秀节目。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;预告片部分包括《攻壳机动队 THE GHOST IN THE SHELL》将于7月播出，《超级马力欧银河大电影》4月北美上映，《超级少女》6月上映，《夜魔侠：重生第二季》3月上线，《哆啦A梦：新·大雄的海底鬼岩城》将推出4D版本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;影视资讯方面，《龙珠超 银河巡警篇》制作决定，《洛杉矶劫案》确认引进内地，《鹿鼎记2》4K修复版2月7日重映，《杀死比尔》3月在香港重映并新增7分钟未曝光画面。文章最后设置了看图猜电影彩蛋互动环节。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/104564&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;停更但好用的 DriveDroid：把 Android 手机变成 USB 启动盘&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 介绍停更但实用的DriveDroid应用&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了已停更7年但仍好用的Android应用DriveDroid，它能将手机变成USB启动盘。作者作为Arch Linux用户，常用它来修复系统引导问题。文章详细说明了DriveDroid的首次配置流程，包括ROOT授权、设置向导和兼容性检测。应用存在无法模拟CD-ROM的限制，但可通过转换ISO文件解决。文章演示了直接启动Linux ISO和转换Windows ISO的两种使用方法，强调了这款小众应用在紧急情况下的实用价值，建议用户常备。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者作为Arch Linux长期用户，虽然系统相对稳定，但偶尔会遇到GRUB更新导致的引导损坏问题，需要用U盘启动修复，而DriveDroid可以在没有U盘时将Android手机变成USB启动盘。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;DriveDroid是一款将Android手机变成USB启动盘的小众应用，已停更至少7年，在Play商店已下架，但在Android 16设备上仍可正常工作，部分设备可能需要安装Magisk模块修复兼容性问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;首次使用DriveDroid需要ROOT权限，并运行设置向导检测兼容性，包括授予ROOT权限、设置镜像存储文件夹、选择USB System、连接电脑检测设备识别情况，以及重启进入BIOS确认启动项。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;部分设备不能模拟CD-ROM，只能模拟U盘，这对大多数Linux发行版ISO没问题，但Windows ISO只能作为CD盘使用就无法启动，解决方案是安装定制内核/ROM或转换ISO文件格式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于支持U盘模拟的Linux系统ISO，可直接下载ISO文件放入指定文件夹，在DriveDroid中选择只读USB模式挂载，连接电脑后即可从该启动项启动系统。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于不支持的ISO文件如Windows，可创建空白img文件并模拟为可读写USB，连接电脑后用写盘软件将系统镜像写入，完成后即可作为USB启动盘使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;DriveDroid虽然功能小众，但在特殊情况下能够救急，值得在手机中常备，理论上也可用于创建Ventoy启动盘或存储资料，但实用性有限。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105677&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;你真的是记性不好吗？关于记忆和遗忘的常见误区&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 健忘不是病，而是大脑高效运作的正常表现&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文从认知心理学角度系统解析了日常健忘现象的科学原理。文章指出，转头就忘、日常断片、看过就忘等现象并非记忆力衰退，而是大脑正常运作的表现。通过介绍工作记忆、长时记忆、情景记忆、语义记忆等概念，以及存储强度和提取强度理论，作者揭示了记忆形成和遗忘的内在机制。文章强调遗忘具有积极意义，是大脑过滤信息、强化重要记忆、适应环境的必要手段。针对不同类型的健忘问题，文章提供了减少干扰、复述、记录、间隔复习等实用应对方法，帮助读者更科学地理解和改善记忆。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇描述了人们普遍存在的记忆力下降感受，如转头就忘、日常断片等现象，并指出这些并非大脑疾病或衰老的表现，而是对大脑运行机制的误解。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了工作记忆和长时记忆的区别，以及注意力在记忆形成中的关键作用。工作记忆容量有限，只有被注意力关注的信息才能进入长时记忆。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了&amp;#039;门口效应&amp;#039;现象：场景切换时新环境的感官信息会抢占注意力，导致原有念头从工作记忆中被清除。这是大脑适应新环境的本能机制。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了应对门口效应的方法：减少干扰、不断复述、记录下来、情境重现等，核心是保护注意力或给工作记忆减负。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论了日常琐事断片现象，解释了情景记忆的特点。大脑会将高度重复的日常行为合并压缩成通用模板，而非单独存储每次经历。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明了大脑对反常事件的记忆机制：当惯例被打破时，大脑会单独标记存储这些差异化的记忆，就像监控摄像头的移动侦测功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了加深情景记忆的方法：多感官调动、留下线索、仪式动作、记录下来等，并指出随年龄增长的记忆衰退是自然规律。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;分析了&amp;#039;看过就忘&amp;#039;现象，引入存储强度和提取强度两个概念。真正的遗忘往往不是记忆丢失，而是提取线索丢失。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细阐述了记忆的四种状态组合，指出舒适的学习方式往往无法形成扎实记忆，并介绍了&amp;#039;必要难度&amp;#039;理论：提取过程越困难，记忆扎根越深。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结了遗忘的三重积极作用：作为注意力过滤器、强化存储的必要条件、维持内心秩序的手段。遗忘是大脑高效运转的必要机制。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105895&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：小米发布 REDMI Turbo 5 系列手机等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技行业一周要闻速览与产品发布汇总&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇科技新闻速览，汇总了2025年1月29日的多条科技资讯。主要内容包括：小米发布REDMI Turbo 5系列手机，主打大电池和高性价比；微信开展第三方违规行为专项整治；MiniMax发布音乐生成AI模型；微软承诺Copilot数据隐私保护；Chrome浏览器集成Gemini AI功能；特斯拉宣布停产Model S/X为机器人项目让路；以及罗技和树莓派的新品消息。文章采用简明扼要的新闻播报风格，快速传递科技行业动态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米发布REDMI Turbo 5系列手机，包括搭载天玑9500s芯片的Max版本和搭载天玑8500-Ultra的标准版，两款手机均配备大容量电池和高刷新率屏幕，起售价分别为2499元和1999元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微信发布专项打击公告，针对虚假营销、过度营销和数据安全违规行为进行整治，将对违规链接、小程序和第三方App采取限制访问、封禁等措施。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;MiniMax稀宇科技发布MiniMax Music 2.5音乐生成模型，支持14种音乐结构变体和100余种乐器，针对华语流行音乐进行深度优化，可应用于影视配乐等专业场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软承诺用户与Copilot的互动数据不会用于训练AI系统，强调用户对个人数据拥有完全控制权，Copilot将继承Microsoft 365的安全合规体系。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Chrome浏览器引入Gemini自动浏览功能，支持通过自然语言指令完成多步骤操作，并在侧边栏集成AI助手，可与Gmail、日历等服务联动提供智能建议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;特斯拉计划于2026年第二季度停产Model S和Model X车型，以便为Optimus人形机器人项目腾出产能，反映公司战略重心向自动驾驶和机器人技术转移。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小道消息包括罗技G即将发布G325 LIGHTSPEED无线耳机，以及树莓派正筹备为Compute Module 5推出智能显示模块，后者将于ISE 2026展会首次亮相。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;科技爱好者周刊（第 383 期）：你是第几级 AI 编程&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 探讨AI编程的8个级别及其对软件开发的深远影响&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期科技爱好者周刊以AI编程为主题，详细介绍了史蒂夫·耶格提出的AI编程8级理论，从初级的AI插件使用到高级的AI任务编排器管理。文章探讨了AI编程带来的工作方式转变，从手工编码到&amp;#039;雕刻代码&amp;#039;，甚至出现了&amp;#039;黑箱编程&amp;#039;现象。此外，周刊还涵盖了科技动态（牛使用工具、轨道储能、喉部发声贴片）、技术文章推荐、开源工具介绍、AI应用、学习资源等丰富内容。文摘和言论部分深入反思了AI编程的利弊，包括效率提升与技能退化的矛盾，以及对传统软件开发流程的冲击。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了史蒂夫·耶格这位著名美国程序员，他曾在亚马逊和谷歌工作，以撰写长篇博客文章而闻名，其文章结集出版为《程序员的呐喊》。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细阐述了AI编程的8个级别：从第1级未接触AI编程，到第2级安装AI插件，第3级进入YOLO模式全盘接受AI建议，第4-5级逐步扩大AI占用屏幕空间，第6-7级同时使用多个AI编程窗口，最终第8级使用AI任务编排器管理并行的多个AI编程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;史蒂夫·耶格开发了名为&amp;#039;煤气镇&amp;#039;的AI任务编排工具，拥有22.5万行Go代码但他从未查看过，这个工具完全由AI编写，体现了对AI的极度信任。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;科技动态部分介绍了四项发现和发明：奥地利农民发现牛会使用工具挠痒，美国公司设计的山地轨道储能系统，加州大学研发的喉部发声贴片帮助失声病人重新发声。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章栏目推荐了多篇技术文章，涵盖Linux音乐播放器、nginx配置、GitHub安全、CSS动画、n8n工作流、HTML新特性等主题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工具栏目介绍了10款开源工具，包括teemux日志查看工具、daedalOS虚拟桌面、VS Code笔记插件Dendron、Cloudflare Workers评论系统、Chrome鼠标手势插件、中国亲戚关系计算库、macOS剪贴板管理应用等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI相关栏目介绍了电子书转有声书工具、AI Agent桌面客户端WorkAny、语音转文字工具Voice Key、视频分镜工具等AI应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;资源栏目推荐了Claude Code官方教程、GitHub活动证书生成器、字体识别工具Fontsniff、可视化元素周期表、日语学习平台等学习资源。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;图片栏目展示了AI编程带来的工作方式转变，将编程比作雕刻，以及法国艺术家在世界各地绘制的蝴蝶壁画。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文摘部分探讨了&amp;#039;黑箱编程&amp;#039;现象，即小公司完全依赖AI编程而不查看代码的做法，以及这种方式的合理性和风险。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;言论部分收集了关于DevOps实践、文档编写、编程学习价值、AI编程依赖性等方面的观点和反思。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - January 29, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2117,266 +2331,6 @@ This article announces the release of a &amp;quot;Chaser Game&amp;quot; Season 2
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;小红书上线社区公约2.0，合并了社区公约与商业公约，要求用户真诚分享、友好互动、有序经营，包括标明AI工具使用、不塑造虚假人设等规范。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;华硕董事长施崇棠宣布未来不再推出新手机，将研发资源转向商用PC和实体AI领域如机器人和AI眼镜，证实Zenfone和ROG Phone将停更。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;小道消息包括微软为Xbox云游戏引入广告方案、Pixel 10a或于2月发布、Android侧载流程增加验证步骤、M4 MacBook Pro供货收紧暗示M5将发布、小米玄戒O2采用N3P工艺并将应用于平板等非手机产品、Threads日活超过X平台、《失落星船：马拉松》3月上线、《疯狂动物城2》成最卖座好莱坞动画电影。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - January 19, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-01-19</id>
-    <updated>2026-01-19T20:10:50.666Z</updated>
-    <published>2026-01-19T20:10:50.666Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>15 articles from 9 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 19, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;20.82191780821918&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    5.2%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;19&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;346&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5.2%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;15&lt;/strong&gt; articles from &lt;strong&gt;9&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22363&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Trad travels&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 爱尔兰传统音乐爱好者的全年音乐节与session旅行指南&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者作为爱尔兰传统音乐爱好者，详细分享了2026年的音乐节和session旅行计划。文章系统介绍了爱尔兰及西班牙的主要传统音乐节，包括Féile na Tána、Tullamore Trad Fest、Belfast Trad Fest等，提供了交通、住宿和活动特色等实用信息。作者特别推荐Belfast Trad Fest，并强调即使不参加音乐节，Galway、Ennis和Belfast等城市也常年提供丰富的session机会。文章以个人经验为基础，为热爱传统音乐session的旅行者提供了全面的出行指南。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者多年来每年9月底都会前往西班牙Cáceres参加Irish Fleadh音乐节，去年成功说服朋友Liam和Monica同行。作者和Liam都热爱参加传统音乐session，并喜欢在1月份计划旅行。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;爱尔兰传统音乐节主要集中在爱尔兰本土。作者将在1月底前往Carlingford参加Féile na Tána，这是首次参加，活动包括工作坊、音乐会和session，从Belfast或Dublin都可抵达。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;3月底将前往Tullamore Trad Fest，这也是首次参加。从都柏林乘火车仅需1小时，作者特意为曼陀林单独购买了机票座位以避免Ryan Air的托运风险。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;强烈推荐7月底的Belfast Trad Fest，从Gatwick乘EasyJet直飞Belfast市中心机场非常便利，提供学生公寓住宿，工作坊质量高，session trail组织完善，可以整个下午和晚上都参加session。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;今年Belfast trad fest之后紧接着是全爱尔兰fleadh，这是史上首次。7月初的Willie Clancy Festival在Miltown Malbay举办，但住宿极难预订，活动规模庞大，提供不间断的session和优质工作坊。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;其他值得关注的音乐节包括10月在Kerry的Pádraig O&amp;#039;Keeffe Festival（以polkas和slides著称）、3月的Kilkenny trad fest和11月的Ennis Trad Fest，但这些地点的交通和住宿各有挑战。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;即使不参加音乐节，爱尔兰也有几个地方几乎每晚都有session。Galway有下午和晚上的多个session场所，Ennis大多数晚上都有音乐活动，Belfast一周七天都有session。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结了全年的音乐节行程：1月Carlingford的Féile na Tána、3月Tullamore和Kilkenny的Trad Fest、7月Miltown Malbay的Willie Clancy Festival、7-8月Belfast的两个大型活动、9月西班牙Cáceres、10月Kerry的Pádraig O&amp;#039;Keeffe festival和11月Ennis Trad Fest，以及全年可访问的Galway、Ennis和Belfast。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-268-/viewer?title_no=853933&amp;episode_no=280&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 268&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON惊悚漫画DOGHAUS第268话目录页&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是WEBTOON平台上名为DOGHAUS的网络漫画系列第268话的目录页面。页面列出了从第1话到第268话的完整章节列表,包括常规章节和特别篇(Sunday Strip和Special Announcement)。作为自助发布在CANVAS平台上的作品,该系列被评级为成人内容(Mature)。页面提供了订阅、分享、举报等互动功能,创作者为Moowsie。该作品属于惊悚类型,在CANVAS惊悚类别中有一定排名。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 TJ&amp;#039;s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thaddeusjiang.com/20260119-shi-yong-mise-ti-dai-just&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;20260119 使用 mise 替代 just&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 mise通过依赖管理和环境配置功能完整替代just和direnv&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章解释了作者从just切换到mise的原因。主要问题是just无法管理依赖安装，导致在新环境中执行命令时出现错误。mise通过mise install安装依赖、mise task查看任务、直接执行命令等功能完整替代了just。此外，mise还提供env环境管理功能，可以替代direnv，进一步减少了工具依赖。作者认为mise是一个更完整的解决方案。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thaddeusjiang.com/2025-12-18-xiu-fu-ruby-lsp-wu-fa-qi-dong&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2025-12-18 修复 Ruby LSP 无法启动&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 配置Cursor使Ruby LSP支持mise版本管理器&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了在使用mise作为Ruby版本管理器时配置Ruby LSP扩展的解决方案。由于Ruby LSP默认使用rbenv，切换到mise后会导致LSP无法启动。解决方法是在.vscode/settings.json中指定rubyVersionManager为mise。对于使用GitHub Packages管理私有包的用户，还需要在mise.toml中配置GitHub Packages认证，通过环境变量BUNDLE_RUBYGEMS__PKG__GITHUB__COM设置访问令牌。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/book-review-sky-daddy-by-kate-folk/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Sky Daddy by Kate Folk ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一部讽刺科技行业、描写病态执念的创意小说&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇对小说《Linda》的书评。小说讲述科技公司内容审核员Linda对飞机坠毁有着病态的性幻想。作者认为这是一部极具创意但令人不安的作品,既包含对科技行业剥削底层员工的讽刺,又深入刻画了一个心理偏执的主角。虽然不算传统意义上的有趣或情色小说,但其独特的叙事视角和持续的荒诞感让人着迷。作者给出3.5星评价,认为这是一次进入极端偏执者内心世界的独特阅读体验。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在国际航班上阅读了一本关于内容审核员Linda的小说,她对飞机坠毁有着极端的性幻想,试图通过意念和自慰来实现空难。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这本书不仅是情色小说,还包含对现代科技行业的讽刺,展现了行业如何消耗从事平台安全工作的底层员工。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;主角是一个令人毛骨悚然的空白角色,有着不健康的执念,作者认为这是一部极具创意的小说,前所未见。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表示这本书不一定有趣或性感,但引人入胜、令人困惑,能让读者进入一个极端偏执者的内心世界,每隔一段就让人想写下&amp;#039;WTF&amp;#039;。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/01/19/rogers-theorem-on-sieving/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Rogers’ theorem on sieving&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Rogers定理揭示筛法中子群密度最小性质&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文讨论筛法理论中的一个经典问题：从整数中移除有限个同余类后剩余集合的密度。文章介绍了Rogers定理，该定理指出当筛掉的是子群（余数为零）而非一般陪集时，剩余集合密度最小。这个1966年由Rogers提出但未发表的结果极为冷门，甚至Erdös在1980年提出相关问题时也不知晓。作者将定理推广到有限循环Abel群，并通过对称化思想给出现代化证明：先处理素数幂阶情形（利用子群全序性），再证明定理在互质阶群直积下保持，最终通过群分解和切片求和完成论证。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了筛法理论中的一个基本问题：从整数中移除若干同余类后，剩余整数集合的密度问题。当模数互质时，可用中国剩余定理得到密度的乘积公式；但当模数不互质时，情况变得复杂。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Rogers定理指出，对于固定的模数，当所有余数为零时（即筛掉的是子群而非一般陪集），筛后集合的密度达到最小值。文章通过具体例子说明了这一现象。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这个定理非常冷门，仅在1966年Halberstam和Roth的教材中提及（Rogers未发表的结果），文献引用极少。直到最近，该定理在解决Erdös第281号问题时才被重新发现，而Erdös本人提出问题时似乎也不知道这个结果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Rogers定理可推广到有限循环Abel群的情形：给定有限循环Abel群和若干陪集，将陪集替换为对应子群后，并集的基数不会增加。这类似于重排不等式或对称化方法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;证明思路是将Rogers定理分解为两个观察：一是素数幂阶循环群的情形（因子群全序所以平凡成立），二是定理在互质阶群的直积下保持。通过群论论证（如Goursat引理），子群和陪集在直积中分解，分别对垂直和水平切片应用定理即可完成证明。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/01/19/self-hosted-update-winter-2026/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Winter 2026: Self-Hosted… Success!&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用£28网卡实现家庭路由器虚拟机故障转移备份&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在路由器几乎损坏后意识到家庭网络缺乏冗余备份的风险,制定了故障转移计划。通过购买£28的双口网卡为Mini-ITX服务器增加端口,成功将Beelink EQ12上运行的OPNsense虚拟路由器克隆到服务器。使用Proxmox的VM备份和恢复功能,重新分配网络接口后测试稳定运行。这个手动故障转移方案成本低廉,在主路由器失效时只需切换网线即可维持网络运行,为硬件替换争取时间。虽然虚拟化路由器存在局限性,但这套方案有效解决了单点故障问题。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的路由器几乎损坏,意识到家庭网络的脆弱性,因为复杂的VLAN和防火墙规则使其无法简单替换ISP提供的路由器,因此制定了故障转移计划。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;解决方案是从AliExpress购买了一张£28的双口PCIe网卡,为Mini-ITX服务器增加网络端口,以便复制Beelink EQ12上的路由器虚拟机。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在Proxmox上运行虚拟化的OPNsense路由器,最初尝试创建新VM但发现没有配置记录,于是改为备份现有VM并在服务器上恢复克隆。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;克隆成功后重新分配网络接口,将物理WAN和LAN网线从EQ12切换到新网卡,测试显示千兆速度稳定,整个方案仅花费£28。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这个手动故障转移方案使作者在EQ12真正损坏时只需切换网线即可,保持网络运行并有时间规划替换,虽然虚拟化路由器有缺点但在风扇故障前运行良好。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-19T08:04Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-19T08:04Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI技术强制推广引发道德担忧,但技术停滞预示泡沫终将破裂&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章批评了AI技术强制推广的现状,指出AI开发者存在不尊重用户意愿的问题,甚至骚扰批评者。作者观察到AI已经渗透到各大科技生态系统中,包括Microsoft、Linux、Apple和WebKit,使得避免AI变得几乎不可能。尽管当前形势令人担忧,作者认为这并非意味着AI不可避免,因为大语言模型的技术进步已经停滞,行业只是在重新包装旧技术。作者预测AI泡沫终将破裂,届时软件开发将回归常识和理性。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;The Register关于OpenSlopware的文章令人担忧,AI开发者存在严重的不尊重用户意愿问题,甚至骚扰批评者迫使他们离开互联网。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI技术已经无处不在且难以避免,Microsoft生态系统已全面转向AI,Linux内核开发者也表现出兴趣,Apple与AI公司达成合作,WebKit也整合了AI工具。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于认为AI在道德上令人反感的人来说这是一个困境,但作者认为这不会导致AI不可避免,因为大语言模型的进步已经放缓,公司只是在重新包装旧模型,泡沫破裂后软件开发才会回归理性。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/na194b5bc82dc&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;組織化、効率化って何ですか？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 組織化と効率化で頑張る人が報われる仕組みを作る&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーの山岡執行役員が、2026年2月から始まる31期目に向けて「組織化」と「効率化」の真の意味を解説。これらは手抜きや現場軽視ではなく、頑張っている人が無理をし続けなくて済む仕組み作りである。組織化は判断基準の言語化や役割の明確化により一人で抱えなくていい状態を作り、効率化はテンプレート化や自動化により無駄な消耗を減らす。特定の人に依存する構造から脱却し、真面目に頑張る人が報われる、みんなの力で前に進める組織を目指す。個人の頑張りに頼らず、チーム全体で成果を積み上げる持続可能な体制の構築が目的である。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーは2026年2月から31期目を迎え、「組織化」と「効率化」に取り組む方針を発表。多くの人が効率化を手抜き、組織化を現場軽視と誤解しているが、実際は頑張っている人が無理をし続けなくて済む状態を作ることが目的である。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;現場では特定の人に仕事が集中し、責任感の強い人ほど抱え込んでしまう構造的な問題が存在する。これは個人の努力不足ではなく、「頑張る人に頼る構造」そのものが問題である。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;組織化とは一人で抱えなくていい状態を作ることで、判断基準の言語化、役割と責任範囲の明確化、報告・相談しやすい環境作り、指示命令系統の整理などを通じて、特定の人に依存しない体制を構築する取り組みである。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;効率化とは無駄な消耗を減らすことで、テンプレート化、チェックリストやマニュアルの整備、過去の成果の再利用、自動化やツールの使用などにより、成果に直結しない頑張りを減らし、考えるべきところに時間を使えるようにする。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;組織化と効率化は人の努力を不要にするのではなく、一人で背負わなくてよくし、無駄な踏ん張りを減らすことで、頑張りが正しくチームの成果として積み上がる状態を目指す。真面目に頑張る人がちゃんと報われるための考え方である。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202601/63332&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【漫画の裏側を語る！】『チェイサーゲーム』原作コラム 『デバッグルーム』シーズン2 第61話 天使の舞う日（14）公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 揭秘《Chaser Game》漫画制作幕后&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了漫画《Chaser Game》第61话的幕后制作故事。作画松島幸太朗老师为追求真实效果,在手上滴墨汁拍照作为流血场景的参考。作为CyberConnect2的正式员工,松島老师的工作受到严格的进度和质量管理。他配备两名拥有25年以上经验的顶级助手,通过在线协作完成高密度作画。文章还预告了《Chaser Game》第14卷和松山洋社长新书《游戏业界攻略法》的发售信息。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;松島幸太朗老师为了准确描绘流血场景,在自己手上滴墨汁拍照作为参考,展现了对漫画作画真实性的极致追求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;松島幸太朗作为CyberConnect2的正式员工兼漫画家,每天到公司上班领取工资和奖金,工作进度和质量都受到严格的公司评估管理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《Chaser Game》配有两名顶级在线助手,他们拥有25年以上经验,负责除人物外的所有作画,包括背景、车辆、武器等,作画质量和速度都极为出色。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《Chaser Game》第14卷将于2026年2月4日发售,松山洋社长的新书《游戏业界攻略法》也将于2月16日发行,面向游戏行业求职者和从业者。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105585&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派编辑部推荐五款应用及Apple最新动态&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期派评介绍了五款值得关注的应用。Focast是Mac平台的专注应用,以高保真环境音和混音功能为特色;三星浏览器Windows Beta版解除区域限制并支持Galaxy AI功能;Quiche Browser为iOS用户提供高度可定制的浏览体验;Activas利用Apple本地AI分析健康数据;什么时辰将传统日历文化与现代应用设计结合。此外,Apple宣布推出Creator Studio订阅服务,并将与Google合作为Siri引入Gemini AI技术支持。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了Focast这款Mac平台专注应用,提供90多款高保真环境音和专注计时功能,支持混音模式和多平台音乐叠加播放。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;三星浏览器Windows Beta版重新上线并解除区域限制,保留侧边栏特色功能,支持设备同步、Galaxy AI摘要和翻译功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Quiche Browser是iOS平台可自定义布局的浏览器,提供40多个交互按键和16种布局预设,支持广告拦截和强制深色模式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Activas是基于Apple本地AI的健康分析助手,可导入健康数据进行分析评分并提供建议,但对话功能仅支持预设问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;什么时辰是结合日历、万年历和黄历的应用,提供时辰显示、农历信息、黄历宜忌查询及节日推送提醒等功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;速报部分提到Apple将推出Creator Studio订阅服务,包含专业创作应用,价格38元/月或380元/年;Apple与Google合作由Gemini为新版Siri提供AI支持。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/101074&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Windows 视觉史 04（下）｜Vista：余烬散去，余晖依旧&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Windows Vista虽遭遇失败但影响深远&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细回顾了Windows Vista从2004年Longhorn项目重置到2017年退出历史舞台的完整历程。文章描述了Vista开发过程中的起起落落,从最初的代号Omega-13到正式命名Vista,介绍了其标志性的Aero视觉风格、毛玻璃效果、极光主题壁纸等创新设计。尽管Vista发布初期市场表现强劲,但因硬件要求过高、性能问题和营销失误等原因遭遇惨败。然而Vista并非毫无价值,她为后续Windows版本奠定了技术基础,Aero设计风格更是影响深远,在当代操作系统设计中仍能看到其痕迹。文章指出Vista的失败更多源于负面印象而非产品本身,而Windows 7的成功正是建立在解决Vista问题的基础之上。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了2004年8月微软重置Longhorn项目后的情况,当时外界对项目内部几乎一无所知,微软宣布新系统将于2006年上市并带来显著改进。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;重置后的项目代号为Omega-13,微软侧重于Windows组件化和功能重新集成,但许多原计划功能被推迟或放弃,早期版本与Windows XP区别不大。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2005年5月Build 5048发布后开发缓慢复苏,但与重置前相比仍接近XP,令人失望;直到7月微软宣布正式名称Vista并发布Beta版本,开发才真正步入正轨。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Windows Vista保留并完善了Aero视觉风格,包括毛玻璃模糊效果、窗口预览、Flip 3D等特性,但需要较高硬件配置才能完整体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vista引入了重新设计的侧边栏、以极光为主题的默认壁纸、DreamScene动态壁纸功能,以及更精致的拟物化图标设计。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2006-2007年Vista正式发布,初期市场表现强劲,但很快因硬件要求过高、性能问题、兼容性差和UAC功能扰民等问题遭遇严重批评。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软的营销失误(如Vista Capable标签事件)和竞争对手的攻击使Vista声誉受损,尽管后续更新改善了许多问题,但已无法挽回失败的命运。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vista于2017年结束支持后被遗忘,但她奠定了后续Windows版本的内核基础,UAC、文件管理器等设计被继承,Aero设计风格影响深远。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Aero的影响延续至今,在Windows 10的Acrylic和Windows 11的Mica材料中都能看到其影子,2017年提出的Frutiger Aero美学在2022年突然流行。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结Vista虽然失败但倾注了微软心血,成为独特的时代印记,微软2008年的Mojave实验证明Vista的失败更多是感受问题,而Windows 7则继承了Vista的优点并解决了其问题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105227&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;把「搜打撤」玩成模拟经营，我在《逃离鸭科夫》实现「财务自由」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 在游戏中通过市场交易实现财富自由却失去乐趣&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在射击游戏《逃离鸭科夫》中通过「鸭鸭市场」mod进行道具交易,将游戏玩成了模拟经营。通过观察市场价格波动,倒卖比特币和空间晶体等道具,几小时内从几千金币积累到500万,实现了游戏中的财务自由。然而当拥有无限资源后,游戏失去了搜刮、探索的乐趣。作者最终退出游戏并反思:虚拟市场展现了现实经济的贪婪与博弈,真正的快乐不是拥有一切,而是享受规则中的探索过程。这段经历揭示了游戏机制设计对玩家体验的深刻影响。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《逃离鸭科夫》是一款由bilibili发行的PVE俯视角射击游戏,玩家扮演鸭子在废土世界生存。作者介绍将分享一个把游戏玩成模拟经营、成为百万富翁的故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;玩家Cyerol开发的「鸭鸭市场」mod实现了P2P交易功能,让玩家可以互相买卖道具。这个市场以金钱体现道具价值,玩家可以高价卖出道具或快速获取急需物品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者发现市场中存在巨大价格波动,特别是比特币道具的售价远超NPC收购价,最高达50万。这个虚拟市场充满投机泡沫和套利空间。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者开始倒卖比特币,通过低买高卖在两三小时内将资金从几千翻到50多万,并解锁了百万富翁成就。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者转向倒卖空间晶体,这是后期升级必备道具,价格波动在3万到50万之间。通过精心定价和把握时机,30分钟内资产翻倍达到100万。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者遇到大块空间晶体以8万低价大量出售的机会。经过犹豫后决定倾尽所有资金收购,最终赌对了,以20万到50万的价格出货,资产突破500万。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;实现财务自由后作者开始疯狂购买,但很快发现游戏失去了乐趣。不再需要搜刮物资和探索地图,游戏的核心体验消失了,最终退出游戏很久没再打开。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者反思这段经历,认为鸭鸭市场展现了虚拟经济与现实经济的相似性,包括贪婪、恐惧和博弈。真正的快乐不是拥有无限资源,而是在规则中找到乐趣,享受过程才是最重要的。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105551&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：ChatGPT 将上线广告&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技行业一周要闻速览&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了多条科技和商业新闻:OpenAI将在ChatGPT免费版中测试广告以应对商业化压力;国家医保局上线药品比价小程序方便民众购药;新规禁止直播销售13类不合格食品;Setapp Mobile因Apple收费政策退出欧盟市场;英伟达博客笔误引发铜价波动;华为手机出货量重回中国第一;西贝与罗永浩论战双方被禁言;少数派网站改版引发用户对易读性的讨论。这些事件反映了AI商业化、医疗民生、平台监管、科技竞争等多个领域的最新动态。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI宣布将在未来几周内在ChatGPT中测试广告功能,首批针对美国免费版和低价订阅用户,广告以独立方框形式出现在回复下方,不会改变答案内容,用户可关闭广告数据权限。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;国家医保局在全国上线定点药店医保药品比价小程序,提供药品价格、库存等信息,支持多种排序筛选方式,部分地区新增拍照识药、线上购药等功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;市场监管总局发布新规,明确13类不得直播销售的食品,包括有毒有害、过期变质、无标签等食品,并将平台、直播间运营者、主播等全部纳入监管。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;乌克兰软件开发商MacPaw宣布2月16日关闭欧盟第三方iOS应用商店Setapp Mobile,称复杂的商业条款不再契合商业模式,暗示受Apple核心技术费影响盈利困难。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;英伟达博客文章中将1吉瓦数据中心铜需求量误写为50万吨(实际应为20万公斤),勘误后引发国际铜价短线大跌约3.4%,伦铜此前刚创下每吨13407美元历史新高。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;IDC数据显示2025年华为手机出货量4670万部,5年来首次重回中国市场第一,超越苹果的4620万部,得益于麒麟芯片和Mate80系列的销售表现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;西贝创始人贾国龙与罗永浩因西贝事件在微博论战,双方账号被禁言,微博CEO表示以后论战需通过媒体采访方式进行;独居安全app「死了么」在中国内地App Store下架。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派网站优化首页样式,更新设计风格、横幅版式和内容流布局,但部分用户反馈新版信息密度低、头图过大影响易读性,希望保留旧版选项。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;CSS text-decoration-inset属性首发简介&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CSS新增text-decoration-inset属性用于控制下划线缩进&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章介绍了CSS text-decoration的最新特性text-decoration-inset属性,该属性可以控制下划线的左右缩进大小。语法支持auto关键字和长度值,当设置为auto时连续元素下划线会产生间隙。目前仅Firefox 146+浏览器支持此特性,兼容性还不理想。作者通过实际测试展示了该属性的效果,并指出这个特性可以用来绘制基于字符的长波浪线。作为国内首个介绍该属性的文章,作者建议在AI时代了解即可,无需深入研究。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;CSS text-decoration属性新增了text-decoration-inset子属性,可以控制下划线的左右缩进大小,目前仅Firefox浏览器支持。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;text-decoration-inset语法支持auto关键字、单个长度值或两个长度值,两个值分别表示左右方向的下划线缩进。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;当text-decoration-inset设置为auto时,连续元素的下划线之间会产生间隙,而不设置则会严丝合缝地连接。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这是国内第一个介绍text-decoration-inset属性的文章,该特性非常新,兼容性较差,可用于绘制基于字符的长波浪线。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
