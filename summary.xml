@@ -4,8 +4,131 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-02-01T20:06:34.205Z</updated>
+  <updated>2026-02-03T11:35:37.288Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - February 3, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-02-03</id>
+    <updated>2026-02-03T11:35:37.288Z</updated>
+    <published>2026-02-03T11:35:37.288Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>6 articles from 3 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - February 3, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;37.26027397260274&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    9.3%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;34&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;331&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;4&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9.3%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;6&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DatoCMS Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.datocms.com/blog/introducing-our-2026-pricing-changes&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Introducing our 2026 pricing changes: more value, less problems&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 DatoCMS调整定价降低视频和CDA成本&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;DatoCMS发布2026年定价调整,主要变化包括:视频成本大幅降低(流媒体分钟数增至50K并取消编码费),API调用费用拆分(CDA调用比CMA便宜10倍),模型数量增至100个但locale减至5个,环境数量从8个减至3个。调整目标是降低不可控成本、优化平台性能,同时鼓励使用更具扩展性的功能。现有计划基本保持不变,仅CDA/CMA拆分强制应用但会增加10%调用补偿。整体策略是通过精细化定价提供更可预测的成本和更好的用户体验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;DatoCMS宣布对Professional计划进行更新,旨在解决用户反馈的常见问题,同时优化内部性能,调整定价以降低不可控成本(如终端用户流量),并减少计算密集型功能的使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;视频成本大幅下降,Professional计划包含的流媒体分钟数从9K增加到50K,额外包从9K增至12K分钟,价格仍为€9,同时取消视频编码费用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;API调用费用进行拆分,CDA调用比CMA调用便宜10倍,CDA额外包为€9可获100万次调用,CMA额外包为€9可获10万次调用,此变更也适用于现有计划。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;模型数量从60增加到100以鼓励使用可扩展的模型而非blocks,但locale数量从8减少到5,block限制调整为500个(约每个locale 100个blocks)。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;环境数量从8个减少到3个,额外环境费用为€39/月,订阅内额外项目费用也增至€39/月,以减轻平台性能压力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;现有计划保持不变,但CDA/CMA拆分必须应用,现有计划将增加10%的调用次数作为补偿,用户可从仪表板升级到新计划或联系支持团队寻求帮助。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202602/64931&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;公式コミカライズ『戦場のフーガ 鋼鉄のメロディ』第81話 公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《战场上的赋格》第81话更新公告&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是日本游戏娱乐网站Famitsu.com上连载的漫画《战场上的赋格 钢铁旋律》第81话的更新公告。文章简要介绍了本话的剧情发展:孩子们对Ash这个名字怀有复杂情感,Belman帝国开始行动,Ash对未来感到震惊,Malt的失踪令他不安。文章还预告了下一话将于2026年2月17日发布,并附带了游戏相关的销售排名、推荐内容和其他连载漫画的链接。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106004&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 128 | 小红书里的「奇怪知识」、打开 14 天的血糖盲盒&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派Matrix社区重启周报以展示更多优质内容&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于少数派Matrix社区重启周报的公告文章。文章说明了重启周报的原因——许多优质内容因曝光限制无法被用户发现,因此决定通过周报形式展示更多社区内容、作者投稿和新发现。文章提到这是在原有首页时间流和侧栏精选展位基础上的补充措施,旨在为优秀内容提供更多展示机会,同时涉及年度创作活动。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105893&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;不是只做样子货：铁三角 ATH-CKS50TW2 星战联名耳机体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CKS50TW2注重功能多样性而非音质调校&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章简要对比了两款产品CKS50TW2和TWX7的设计侧重点。TWX7主要专注于声音调校优化，而CKS50TW2则采取了不同的产品策略，没有将重点放在音质调校上，而是在多个功能维度上进行了平衡开发，打造出一款功能丰富、各方面表现均衡有趣的产品。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105644&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1 | 开源免费、多人协作，用 Cent 一站式搞定记账&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 基于Github的免费开源多人协作记账应用&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Cent是一款完全免费开源的记账应用，作者因不满现有记账软件收费和广告问题而开发。它基于Github仓库存储数据，无需服务器，支持多设备同步和多人协作。功能包括二级分类、自定义标签、多维度统计、预算管理、AI助手、语音记账等。采用增量同步策略，数据完全由用户掌控，支持PWA安装。作为纯前端应用部署在Cloudflare Pages，成本几乎为零。尽管功能强大，但目前由单人维护，使用前需注意数据备份。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因不满现有记账软件收费和广告问题，开发了Web应用Oncent，但因手动同步问题导致数据丢失后，受博客存储方式启发，决定开发基于Github的新记账应用Cent。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cent支持二级分类、自定义标签、多维度统计筛选、预算管理、图片附件上传等功能，完全免费且只需Github账号即可使用所有功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cent基于Github仓库实现协作，支持邀请协作者共享账本，数据存储在私人仓库中，用户完全掌控数据，可通过git命令回滚，支持PWA安装。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cent是纯PWA应用，无后端服务器，通过Github API同步数据，部署成本几乎为零，实现了增量同步策略压缩同步时长。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cent新增AI助手、语音记账、多币种支持、地图可视化、周期记账等功能,支持S3协议同步和兼容OpenAI接口,但目前由单人维护需注意数据备份。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105996&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：SpaceX 收购 xAI，Adobe 停运 Animate 等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 SpaceX收购xAI等科技行业重要动态汇总&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期派早报汇总了科技行业多项重要动态。SpaceX以1.25万亿美元市值收购xAI,计划建设天基数据中心;Adobe宣布停运Animate并推荐替代方案;鹰角网络就《终末地》支付异常完成退款处理;OpenClaw平台出现针对加密货币用户的恶意技能攻击;ROG联合HIFIMAN推出高端游戏耳机。此外还包括QQ农场回归、萝卜快跑登陆青岛、Apple供应链调整、AR光学产业链变动等消息,展现了游戏、AI、硬件、出行等多个领域的最新进展。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;SpaceX宣布收购马斯克旗下的人工智能公司xAI,交易后SpaceX市值达1.25万亿美元,成为最高市值私营公司,主要目标是建立天基数据中心以解决AI运行的电力和制冷问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Adobe宣布将于2026年3月1日起停止运营Adobe Animate并从官网下架,企业用户可使用至2029年3月,其他用户可使用至2027年3月,Adobe推荐用户使用After Effects或Adobe Express替代。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;鹰角网络回应《明日方舟:终末地》海外服PayPal支付异常事件,受影响订单3429单、金额不超8万美元、用户不超1800人,单个用户最高异常扣费5289美元,已完成全额退款。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw技能库出现超230个恶意技能,伪装成加密货币交易自动化工具,在Windows/macOS上盗取用户的交易API令牌、钱包私钥、SSH证书和浏览器密码等敏感信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;ROG发布Kithara臻世游戏耳机,与HIFIMAN合作打造,采用100mm平板振膜发声单元和开放式设计,配备可换插头平衡耳机线和全频带线控MEMS麦克风,首发价1999元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;腾讯《QQ经典农场》将于2月6日回归并登陆QQ和微信;萝卜快跑2月3日登陆青岛城阳区;Apple考虑将部分低端处理器生产从台积电转移;Apple智能眼镜计划影响AR光学供应链;Google Desktop Camera应用上架。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - February 1, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1639,487 +1762,6 @@ This article announces the release of a &amp;quot;Chaser Game&amp;quot; Season 2
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者发现从创意到交付存在巨大挑战,总结出9条商业原则,包括科学、技术、工程、商业的区别,以及产品定价和市场竞争等规律。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;团队在少数派支持下开始实际造物,开发了AI采访工具、求签机、塔罗牌、音乐产品、效率工具等多个项目,并深入学习供应链和生产流程。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;团队认为最大收获是学会了动手做产品,强调试错的重要性,并计划2026年继续在少数派开源产品和经历,邀请更多人加入造物行列。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - January 23, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-01-23</id>
-    <updated>2026-01-23T20:09:23.667Z</updated>
-    <published>2026-01-23T20:09:23.667Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>11 articles from 8 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 23, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;25.205479452054796&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    6.3%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;23&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;342&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6.3%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22369&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;I’m sick. I think it‘s manflu. Symptoms include aches, pains, pouts, and petulance. Please send pics/videos of your dogs and cats to cheer me up.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Developer requests pet photos while sick with flu, receiving supportive community response with numerous cat and dog images.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;A developer posted on social media about being sick with flu-like symptoms (humorously termed &amp;quot;manflu&amp;quot;), requesting pet photos/videos for comfort. The community responded with numerous images of their cats, dogs, and other pets, along with supportive messages acknowledging the genuine severity of the illness. Context was provided that the current flu variant is particularly harsh, having knocked people out for extended periods during the holiday season. The post gained traction across platforms (Mastodon, Bluesky) with engagement from multiple community members, demonstrating the supportive nature of the tech community even around lighthearted requests.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Original Post Context:&lt;/strong&gt; Author reports being sick with &amp;#039;manflu&amp;#039; on January 23rd, 2026, experiencing aches, pains, and general discomfort. Requests pet photos/videos from followers to help improve their mood.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Community Pet Responses:&lt;/strong&gt; Multiple community members respond with photos of their pets including cats (Keiko, Roxy, Itsy, Badger cat), dogs (Lily, Olive, Sir Christopher Wigglebutt), and other animals. Contributors include Pierre Spring, Markus Finell, Mark Norman Francis, Kerry Buckley, Ethan Marcotte, and others.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Sympathy and Validation:&lt;/strong&gt; Respondents acknowledge the legitimacy of &amp;#039;manflu&amp;#039; symptoms with supportive messages. ManFlu account emphasizes that &amp;#039;the pain is REAL&amp;#039; and encourages the author to stay strong.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Illness Severity Context:&lt;/strong&gt; Andy Davies notes the current flu variant is particularly severe, mentioning it knocked people out for a week after Christmas. This provides context that the illness is genuinely serious beyond the humorous &amp;#039;manflu&amp;#039; framing.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Social Engagement Metrics:&lt;/strong&gt; The post received 6 documented likes from various users including Daniel Appelquist, Marijke Luttekes, Andy Davies, Ethan Marcotte, and Ms. Jen throughout January 23rd, 2026. Post was shared across multiple platforms including Mastodon and Bluesky.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-269-/viewer?title_no=853933&amp;episode_no=282&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 269&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画DOGHAUS第269集目录页面&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是WEBTOON平台上名为DOGHAUS的网络漫画系列第269集的目录页面。页面展示了从第1集到第269集的完整剧集列表,包括常规集数和特别公告集(如Sunday Strip和Book Announcement)。页面提供了订阅、分享、举报等互动功能,并在底部展示了CANVAS平台上其他漫画作品的排行榜,包括浪漫、喜剧、超级英雄等不同类型的推荐作品。创作者为Moowsie。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/book-review-surely-you-cant-be-serious-the-true-story-of-airplane/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Surely You Can&amp;#039;t Be Serious - The True Story of Airplane! ★★⯪☆☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《空前绝后满天飞》制作口述史,有趣但不够深刻&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一本关于经典喜剧电影《空前绝后满天飞》(Airplane!)制作过程的口述历史扩展版。全书以访谈片段形式呈现,涵盖了项目前史、拍摄过程和后续影响,风格类似DVD花絮特辑。虽然包含一些有趣的幕后故事和照片,展示了如何致敬《Zero Hour》等细节,但整体偏向好莱坞式互相吹捧,缺乏深度批评。书中透露派拉蒙丢弃了包括20分钟原始剪辑在内的所有素材,令人遗憾。作者认为本书适合影迷消遣,但不算特别有启发性,给出三星半评价。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本书是Will Harris关于电影《空前绝后满天飞》(Airplane!)口述历史的扩展版本,以访谈片段形式呈现了该项目的前史、制作过程和后续影响,整体风格类似DVD花絮特辑,充满好莱坞式的互相吹捧。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中包含一些温和的批评,如对拒绝剧本的人的调侃,以及关于OJ Simpson在《白头神探》中糟糕演技的评论,但Quentin Tarantino的点评等内容显得多余,Tim Allen对喜剧现状的抱怨也不合时宜。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中照片质量不错,特别是展示了如何模仿《Zero Hour》镜头构图的内容,虽然有些轶事像IMDb琐事一样被反复讲述,但对于电影学生来说仍有娱乐价值。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中透露了一个令人沮丧的事实:派拉蒙当时为节省空间丢弃了所有每日样片,包括《空前绝后满天飞》20分钟更长原始剪辑版的素材,只有《教父》的花絮被保留下来。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为这本书适合影迷浏览,但缺乏重大发现,给出了三星半的评价,并提供了多个购书链接。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/01/22/a-crowdsourced-repository-for-optimization-constants/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A crowdsourced repository for optimization constants?&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Tao提议建立优化常数众包库以促进数学研究&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Terence Tao观察到Thomas Bloom的Erdös问题网站通过AI辅助方法取得显著进展后,提出创建一个优化常数众包数据库的想法。这些优化常数来自各种数学优化问题,目标是记录已知的最佳上下界,激励各方(专业数学家、业余爱好者、科技公司)改进现有结果。作者已在Github上建立包含两个示例常数的概念验证库,并欢迎社区贡献新常数或改进现有界限,特别关注适合计算和AI方法的问题。这一倡议旨在复制Erdös问题网站的成功模式,通过精心策划的数据库促进数学研究的系统性进展。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Thomas Bloom的Erdös问题网站近期活跃度很高,因为一些未解决的开放问题可以通过AI辅助方法解决,形成了一个包含人类、AI及混合贡献的活跃社区。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为维护一个精心策划的数学问题数据库可以让其他方以多种方式(包括AI和人工方法)系统地在部分问题上取得进展,并思考可以创建哪些其他数学数据库来激发类似活动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出创建一个众包的优化常数库,记录各种数学优化问题中常数的最佳上下界,以鼓励专业数学家、业余数学家或科技公司研究团队改进现有成果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在Github上建立了概念验证库,初始包含两个常数:与Sidon集相关的自相关量常数和Erdös最小重叠问题常数,并为每个常数分配编号以便参考。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;该库已准备好接受更多贡献,包括添加新常数或改进现有常数界限的拉取请求,作者特别关注那些有大量渐进改进文献且适合计算或AI辅助方法的常数,并希望获得改进库的反馈。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-23T10:39Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-23T10:39Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 赞扬GOV.uk以简洁实用的设计提供优质用户体验&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者高度赞扬了英国政府网站GOV.uk的开发者，称赞他们在处理税务系统时提供了愉快的用户体验。文章强调该网站采用了传统的多页面HTML表单设计，具有良好的可访问性，没有使用过度复杂的前端技术、没有以开发者体验为名义造成用户障碍，也没有采用那些流行但不实用的设计趋势（如极小字号的灰色文字）。作者通过对比隐含批评了当前web开发中过度工程化和追求形式大于功能的现象。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21286&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ドラマ『チェイサーゲームW』公式ノベライズ 小説 チェイサーゲームW 1/23より2巻配信！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 女性复仇爱情剧《チェイサーゲームW》官方小说化隔周发售&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文宣布电视剧《チェイサーゲームW》的官方小说化作品于2026年1月9日起隔周发布。这部描绘女性间复仇爱恨剧的小说在原剧情基础上增加了原创内容、心理描写和官能场景。故事围绕游戏开发者春本樹与前女友林冬雨在职场重逢后的爱恨纠葛展开,包含职场权力斗争和项目机密泄露等情节。作品由CyberConnect2的松山洋总监修,售价660日元,同时宣布了5月15日电影版上映的消息。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;电视剧《チェイサーゲームW》的官方小说化作品于1月9日起隔周发布单行本，1月23日已发布第2卷，在各大电子书店均可购买。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这部小说改编自描绘女性之间爱恨纠葛的人气剧集，以剧情为基础添加了原创故事、人物心理描写和官能场景，从全新视角讲述故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第1卷讲述游戏开发公司职员春本樹被任命为中日合作项目负责人，却发现中方负责人是她曾单方面分手的前女友林冬雨，冬雨因怨恨而对樹施加刁难。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第2卷中冬雨在欢迎会上向樹泼洒红酒进行报复,同时项目机密信息遭泄露,樹向冬雨告知此事却得到令人震惊的回应。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;小说由CyberConnect2公司的松山洋总监修,保坂星耀编剧,售价660日元,并宣布电影《チェイサーゲームW 水魚の交わり》将于5月15日上映。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105709&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 11 部作品&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本周11部优质影视作品推荐及最新预告资讯&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部推出的每周影视推荐栏目,精选了11部近期值得观看的优质作品,涵盖美剧、日剧、韩剧、动画和电影等多种类型。推荐作品包括《权力的游戏》衍生剧《七王朝的骑士》、科幻惊悚剧《哥本哈根测试》、温馨喜剧《乔治与曼迪的头婚生活》第二季、奇幻日剧《侦探先生你的背包开着呢》、探讨爱情的韩剧《爱我》、治愈系动画《葬送的芙莉莲》第二季以及音乐科幻电影《超时空辉夜姬》等。此外还汇总了本周重要影视预告和新闻,包括多部动画电影预告发布和院线定档信息,为读者提供全方位的观影指南。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了本周推荐观看的11部影视作品,包括美剧《七王朝的骑士》《哥本哈根测试》等,日剧《侦探先生,你的背包开着呢》等,韩剧《爱我》,以及动画《葬送的芙莉莲》第二季和多部电影。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《七王朝的骑士》是《权力的游戏》衍生剧,讲述邓克与伊戈的中世纪公路冒险故事;《哥本哈根测试》聚焦华裔特工被植入纳米机器成为人形摄像头的高概念科幻惊悚剧。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《乔治与曼迪的头婚生活》第二季以轻松诙谐方式探讨婚姻真实;《历劫惊途》第二季将劫持事件从航班转移到柏林地铁。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;日剧《侦探先生,你的背包开着呢》是温暖治愈的奇幻荒诞侦探剧;《二子多磨》探讨30代社畜的同居与婚姻现状。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;韩剧《爱我》通过母亲离世后家庭成员的爱情故事,指出东亚语境下要先爱自己的主题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《葬送的芙莉莲》第二季继续芙莉莲的旅程,以恬淡日常戏为主;电影《超时空辉夜姬》是汇集知名Vocaloid P主的音乐科幻作品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《时空奇旅》讲述少年穿越时空的冒险故事;真人秀《背叛者》第四季进行真人版狼人杀游戏。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还推荐了更多日韩剧集和电影,包括《缉毒警与疯犬》《亲爱的盗贼大人》《真理与背叛》等作品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周新预告包括《花绿青绽放的黎明》《机动警察EZY》《宇宙巨人:希曼崛起》《飞驰人生3》等多部动画和电影作品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;影视新闻方面,《你好,爱美丽》确认引进内地,《奇迹梦之队》定档3月14日,《呼啸山庄》定档3月13日,《爱乐之城》2月14日重映,《镖人:风起大漠》定档春节。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105475&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版）&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 美国新膳食指南强调真实食物,蛋白质优先,脂肪正名,碳水降级&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;美国2025-2030版膳食指南在特朗普政府推动下发布,核心理念是&amp;quot;吃真实的食物&amp;quot;,反对超加工食品。新指南最大变化是膳食金字塔倒置:蛋白质优先级大幅提升(推荐量从0.8克/公斤提至1.2-1.6克/公斤),为天然脂肪正名(但仍限制饱和脂肪在总热量10%以内),碳水化合物从基础降为配角(全谷物压缩至2-4份/天)。此外提出六条建议:零容忍添加糖、推荐全脂乳品、重视肠道健康、多吃完整蔬果、健康烹饪方式、限制酒精。作者认为这是对近年研究的官方总结,有参考价值但非颠覆性发现,强调适量原则和因人而异,同时指出健康饮食需要时间、金钱和自律,具有一定&amp;quot;奢侈性&amp;quot;。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2025年1月7日美国发布新版膳食指南,在特朗普政府领导下提出&amp;quot;Make America Healthy Again&amp;quot;口号,旨在应对美国严峻的公共健康危机,包括50%的美国人患有糖尿病前期或糖尿病、75%成年人患慢性病等问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新指南核心理念是&amp;quot;吃真实的食物&amp;quot;,强调食物的完整性和成分纯净性,反对超加工食品。研究显示超加工食品与多种健康风险相关,包括全因死亡风险升高21%、心脏病死亡风险升高66%等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新版膳食金字塔发生倒置,将蛋白质和健康脂肪提升至优先位置,蛋白质推荐摄入量从每公斤体重0.8克提升至1.2-1.6克,体现从&amp;quot;防止缺乏&amp;quot;到&amp;quot;促进最优&amp;quot;的转变。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;指南为脂肪正名,认为天然饱和脂肪并非想象中有害,真正应警惕的是反式脂肪。推荐健康脂肪来源包括肉类、鸡蛋、海鲜、坚果等,但仍建议饱和脂肪不超过总热量10%。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;碳水化合物从膳食基础降级为配角,全谷物推荐量压缩至每天2-4份,强调减少精制碳水。研究显示碳水供能比在50-55%左右最佳,过高或过低都会增加死亡率。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;六条饮食健康建议包括:对添加糖零容忍、全脂乳品回归、重视肠道健康摄入发酵食物、多吃完整蔬菜水果、选择健康烹饪方式、限制酒精摄入。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为该指南是对近年主流研究的官方总结,具有参考价值但需警惕断章取义。强调适量才是关键,健康饮食需要时间、精力和预算,有时还需要与本能对抗,是一件并不轻松的事。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105578&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一日一技 | 老 Mac 系统恢复指北&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通过修改NVRAM等技巧成功修复被T2芯片锁定的旧MacBook Pro&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者修复2018款MacBook Pro的完整过程。设备因T2安全芯片和旧Apple ID管理员账号删除导致重置失败，U盘启动被拒，网络恢复因系统过旧报错。作者通过三个关键步骤解决问题：在iCloud中移除设备、校准系统时间、修改NVRAM重定向下载源。最终成功将系统从High Sierra升级到Ventura，让闲置设备重获新生。文章为遇到类似T2芯片Mac重置问题的用户提供了实用的技术解决方案。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在2022年购入M1芯片MacBook Pro后，闲置了2018年的Intel芯片版本，尝试重置时遇到T2安全芯片阻拦，差点将设备变砖。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;设备曾使用过两个Apple ID，原管理员账号被删除，导致无法通过U盘启动和修改安全性设置，网络恢复也因High Sierra系统过旧而报错-2100F。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;解决方案包括三步：在iCloud的Find中移除设备以避免激活锁、在终端中校准系统时间以修复HTTPS握手失败、通过修改NVRAM重新定向下载源指向包含更多系统版本的地址。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;完成所有操作后重新进入网络恢复，系统从High Sierra变为Ventura，成功下载并恢复，闲置多年的设备得以重生。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105695&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：realme 真我发布新品、Xbox 应用登陆 Arm PC 等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技品牌集中发布新品及服务更新&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期派早报汇总了多个科技品牌的最新动态。realme发布搭载骁龙8 Gen 5的Neo8手机,主打游戏性能和超大电池;索尼推出轻量化开放式耳机LinkBuds Clip;Adobe为Acrobat Studio引入AI功能,支持PDF转播客;微软Xbox应用正式支持Arm架构PC;Marshall推出基于Auracast技术的音乐流媒体中枢;Keychron发布首款磁轴数字小键盘;CHERRY中国辟谣倒闭传闻;苹果被曝计划推出配备机器人底座的智能家居设备。内容涵盖手机、音频、软件、游戏和智能家居等多个领域的产品更新与市场动态。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;realme真我发布Neo8手机等新品,Neo8搭载第五代骁龙8 SoC,首发165Hz三星苍穹屏,配备8000mAh电池,支持PC掌机模式,售价2399元起。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;索尼推出LinkBuds Clip开放式耳机,采用C形桥轻量化设计,单耳续航9小时,配备AI降噪和高精度语音拾取技术,售价1299元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Adobe更新Acrobat Studio,整合AI技术推出三大功能:自动生成演示文稿、将PDF转换为播客音频、自然语言编辑模式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软宣布Xbox应用正式支持Arm架构Windows 11 PC,超过85%的Game Pass游戏已兼容,Prism模拟器支持AVX指令集。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Marshall推出Heddon音乐流媒体中枢,采用Auracast技术实现多房间同步播放,支持Spotify Connect、Tidal等服务,定价300美元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Keychron推出首款磁轴数字小键盘Q0 HE,采用铝合金外壳,搭载佳达隆双轨磁轴,支持三模连接和1000Hz回报率,售价139.99美元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;CHERRY中国发布声明辟谣倒闭传闻,强调全球业务持续运营,中国市场运营正常,此前传闻系德国工厂调整消息的误传。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;The Information报道称苹果计划春季发布配备机器人旋转底座的智能家居中枢,结合具身智能技术提升交互体验,预计与iOS 26.4同期发布。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;科技爱好者周刊（第 382 期）：独立软件的黄昏&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 独立软件时代落幕,AI重塑开发与推广生态&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是科技爱好者周刊第382期,主题为&amp;#039;独立软件的黄昏&amp;#039;。作者阮一峰深入分析了独立软件从2005年黄金时代到如今逐渐没落的演变过程,指出AI改变流量模式、开发门槛降低、用户转向网络软件等七大因素正在终结个人开发者靠销售软件为生的时代。文章还涵盖了VS Code定位转变、智能脖巾等科技动态,推荐了数据库、AI工具等技术文章和开源工具,展示了中国新能源建设摄影作品,并分享了谷歌工程师的职场经验和行业观点,内容丰富全面地呈现了当前科技领域的多个重要趋势。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了独立软件的历史和现状,指出从共享软件时代到现在,个人开发的独立软件在市场中的比重正在急剧下降,公司开发的软件占据主导地位。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2005年后互联网普及、智能手机、在线支付等因素推动了独立软件的黄金时代,程序员可以通过SEO和付费广告获利,许多独立软件发展成为大公司。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;最近两三年独立软件面临七大挑战:AI改变流量模式导致推广渠道失效;AI降低开发门槛加剧竞争;应用商店竞争激烈;用户转向网络软件;平台规则风险;用户期望免费或低价;这些趋势将长期存在并加深。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;科技动态包括VS Code将产品定位改为&amp;#039;AI代码编辑器&amp;#039;、英国发明帮助中风患者的智能脖巾、迪斯尼推出雪宝机器人、LG展示家务机器人等内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章推荐部分介绍了多篇技术文章,包括建议用MariaDB替代MySQL、AI代码评审技巧、使用Pandoc生成静态网站、HTML锚点元素技巧、自定义元素教程、编程语言对比和个人基础设施搭建等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;工具推荐涵盖GoRead电子书阅读器、EasyPostman API调试工具、端口哨兵、楼盘采光模拟工具、Office网页应用、截屏工具、SSH服务器、文件传输工具、路由器插件和族谱工具等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI相关工具包括ChatGPT翻译功能、本地文件搜索工具Mango Desk、OpenWork文件操作工具和AI狼人杀游戏等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;资源部分介绍了维基百科25周年纪念网站、HTTP标头查看工具和现代Java教程,图片展示了中国新能源建设的惊人规模。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文摘分享了一位工程师在谷歌14年工作的经验教训,包括沟通的重要性、晋升需要他人推荐、专注可控事项、简化工作提高绩效、时间比金钱更宝贵等五点核心经验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;言论部分收录了关于AGI、Netflix制作策略、程序员知识分享文化、iOS界面亮度问题和批评大型组织的思考等五条有见地的观点。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - January 22, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-01-22</id>
-    <updated>2026-01-22T20:12:34.574Z</updated>
-    <published>2026-01-22T20:12:34.574Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>15 articles from 9 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 22, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;24.10958904109589&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    6.0%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;22&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;343&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6.0%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;15&lt;/strong&gt; articles from &lt;strong&gt;9&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Beyond Generative: The Rise Of Agentic AI And User-Centric Design&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Agentic AI需要新研究方法来平衡自主性与用户控制&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章系统阐述了Agentic AI的概念、特征及研究方法。Agentic AI区别于RPA在于其推理和主动决策能力,能够理解目标、规划执行并持续适应。作者提出四种自主模式分类框架:观察建议、计划提议、确认执行和自主执行,每种模式对应不同的设计和监督要求。通过HR面试协调等实际案例,展示了各模式的应用场景。文章强调开发Agentic AI需要全新的研究方法,特别是心智模型访谈,以理解用户对自动化边界、控制权和信任的期望,为UX从业者和产品经理提供了实践指导框架。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Agentic AI与传统RPA的区别在于推理能力而非规则执行,它能够基于目标制定计划而非仅执行预定义任务,例如在招聘和会议管理场景中展现主动决策能力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Agentic AI系统结合大语言模型和规划算法,能够理解目标、规划步骤、执行任务并适应变化,通过与各种工具和API交互来完成目标,与传统生成式AI的单次请求响应模式根本不同。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章提出四种Agentic行为模式分类:观察建议模式(仅监控和标记问题)、计划提议模式(生成多步策略等待审批)、确认执行模式(完成准备工作等待最终授权)和自主执行模式(在定义边界内独立执行任务)。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;每种自主模式对设计和监督有不同要求:从清晰的通知机制、易懂的计划可视化、稳健的确认流程,到明确的边界设定和强大的监控工具,UX从业者和产品经理需要根据不同模式建立相应的治理和审核机制。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;HR技术中的面试协调Agent案例展示了四种模式的实际应用:从仅标记日程冲突、提出重新安排方案、准备好邮件等待确认,到根据预设规则自主解决冲突并记录操作日志。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发有效的Agentic AI需要专门的研究方法,包括心智模型访谈来揭示用户对AI Agent行为的预期,重点在于理解用户内部模型而非简单询问需求,并通过情景化探测问题发现用户对自动化边界和控制权的期望。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/book-announcement/viewer?title_no=853933&amp;episode_no=281&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Announcement!&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 DOGHAUS网络漫画宣布推出实体书并启动众筹&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是WEBTOON平台上的DOGHAUS漫画系列第273集的页面,主要内容是创作者Moowsie发布的实体书出版公告。创作者宣布DOGHAUS将推出实体书,通过Kickstarter众筹平台进行资金筹集。页面包含了从第1集到第268集的完整章节列表,以及Sunday Strip特别篇和特别公告。这是一个重要的里程碑公告,标志着这部网络漫画系列将从数字形式扩展到实体出版物。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-01-22.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: January 22&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Fowler讨论AI开发平台与美国威权主义威胁&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Martin Fowler的博客片段集合,涵盖技术和政治两大主题。技术方面,介绍了Thoughtworks的AI/works™平台,讨论了AI开发的电力消耗问题,以及AI驱动开发需要的纪律性和严格评估。政治方面,重点关注明尼苏达州ICE执法事件,批评联邦特工的暴力行为和缺乏问责,担忧美国正滑向威权主义,并将特朗普与委内瑞拉查韦斯类比,同时呼吁关注伊朗的威权压迫。文章反映了作者对技术发展和民主制度的双重关切。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Martin Fowler介绍了Thoughtworks推出的AI/works™平台,这是一个用于AI驱动软件开发的平台,目前主要支持Thoughtworks顾问的客户工作,未来将分享使用和开发经验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Simon Couch分析了AI使用的电力消耗,发现他作为重度用户(同时运行2-3个Claude Code实例)每天消耗约1300瓦时,相当于4400次&amp;#039;典型查询&amp;#039;,但仍与运行洗碗机的耗电量相当。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Chad Fowler认为agentic coding带来的转变类似于极限编程、动态语言和持续部署所要求的严格性和纪律性,强调AI开发需要对软件行为和内部质量进行严格评估,工程师应重新定位纪律而非放弃它。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Martin Fowler转载Noah Smith关于明尼苏达州事件的文章,指出ICE和CBP表现出残暴、侵略性和违法行为,质疑美国是否正在变成一个不受监督的政府特工随意逮捕和射击民众的威权警察国家。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者担忧2016年对特朗普的警告正在成真,由于制衡力量的缺失,明尼苏达事件可能预示更糟糕的事情将至,并将特朗普比作委内瑞拉的查韦斯,质疑谁将成为&amp;#039;特朗普的马杜罗&amp;#039;。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后提醒在关注国内动荡的同时,不应忽视伊朗发生的可怕事件,那里的人民再次遭受根深蒂固的威权警察国家的后果。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/removing-subtype-watermark-images-from-a-pdf-using-linux/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Removing &amp;quot;/Subtype /Watermark&amp;quot; images from a PDF using Linux&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通过技术手段和AI辅助开发脚本批量删除PDF水印&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章描述了作者处理带水印PDF文件的技术探索过程。从手动删除到使用pdftk解压分析PDF结构,发现水印以Marked Content Blocks形式存在。尝试PyMuPDF库失败后,借助LLM开发了Python脚本,通过正则表达式匹配并删除包含/Subtype /Watermark标记的内容块。作者反思了AI辅助编程的局限性,指出其效果严重依赖用户的专业知识储备,在不熟悉PDF规范的情况下与AI工具的交互充满试错,对当前AI编程工具的实用性表达了质疑和无奈。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者收到一份每页都有大型水印遮挡的PDF文件,通过LibreOffice Draw发现水印是浮动在其他内容上方的独立图像,手动删除需要重复500次操作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用pdftk工具解压PDF后可以用文本编辑器打开,搜索watermark关键词找到了包含/Subtype /Watermark标记的内容块,这些是Marked Content Blocks,直接删除会导致布局错乱因为需要调整length变量。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尝试使用PyMuPDF库但只能删除部分水印且在某些页面陷入无限循环,最终借助LLM构建了一个基本可用的Python脚本来批量删除水印。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者使用正则表达式匹配水印块并循环处理PDF的每一页,找到并删除包含/Subtype /Watermark的内容后保存为新文件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者反思AI编程(Vibe Coding)的问题在于使用效果高度依赖用户对主题领域的了解程度,自己对PDF规范知之甚少导致与AI工具的交互充满反复试错,对这种AI辅助编程的未来表示无奈。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/01/22/hmmarkdown2/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Hmmarkdown 2&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者重构了支持HTML混合解析的markdown库Hmmarkdown&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章介绍了作者开发的Hmmarkdown 2,一个支持HTML与markdown混合解析的库。不同于传统markdown库跳过HTML的做法,Hmmarkdown允许在markdown中自然嵌入HTML标签并正确解析。新版本采用tokenizer架构替代旧的正则表达式方法,通过字符级迭代生成token数组,再递归构建DOM树并转换为HTML。作者详细说明了从tokenization到最终HTML输出的完整流程,并分享了用PLUS token预处理简化有序列表解析的巧妙技巧。尽管代码仍需优化,但新架构更易维护和扩展。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了Hmmarkdown,一个HTML感知的markdown库,已用于构建网站内容一年,并宣布推出Hmmarkdown 2版本,新版本通过重构解决了原有解析方法中的边缘案例bug问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Hmmarkdown的核心目的是允许在markdown中混合使用HTML标签,与其他跳过HTML的markdown库不同,它能解析和转换HTML与markdown的混合内容,作者举例说明了figure和blockquote的混合使用场景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;旧版解析器通过换行符分割并使用正则表达式处理块级和内联元素,而新版本采用传统tokenizer方法,逐字符迭代生成token数组,包括星号、反引号、HTML标签等多种token类型。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新解析器通过递归解析token树节点实现markdown到HTML的转换,示例展示了&amp;lt;aside&amp;gt;标签中**粗体**语法如何被解析为&amp;lt;strong&amp;gt;标签的完整过程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;解析过程包括用段落标签包裹文本、合并相邻文本token、应用SmartyPants替换和HTML实体转义等步骤,最终递归生成HTML字符串输出。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过PLUS token的预处理技巧解决了有序列表解析的复杂性问题,将数字列表标记替换为加号,避免了为0-9数字创建额外token的开销,同时说明Hmmarkdown不支持嵌套列表因为作者从未使用过此功能。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-01-22T14:12Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-01-22T14:12Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 基于AT Protocol的新RSS应用Skyreader问世&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章介绍了Tim Disney开发的新RSS应用Skyreader,该应用基于AT Protocol构建,适合喜欢已停运的Google Reader社交功能的用户。作者表达了个人对社交功能的抵触,不愿公开分享RSS订阅,且承认不完全理解AT Protocol的工作原理。尽管如此,作者对更多RSS选择的出现表示欢迎,认为RSS正在回归。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/01/22/proton-spam/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Proton Spam and the AI Consent Problem&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Proton无视用户明确拒绝发送AI产品邮件,反映AI行业普遍的非同意文化&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者揭露了Proton公司在明知用户已取消订阅Lumo(其AI产品)邮件的情况下,仍发送Lumo营销邮件的行为。尽管作者明确取消了&amp;#039;Lumo产品更新&amp;#039;订阅,Proton支持团队却辩称该邮件属于&amp;#039;商业版通讯&amp;#039;而非Lumo邮件,这一借口显得牵强。作者将此事件置于更广泛的背景下批判,指出整个AI行业存在系统性问题:无视用户的明确拒绝,强行推广AI功能。从版权侵犯到网站攻击,再到各大科技公司的类似做法,AI行业建立在不尊重用户同意的基础上,这种趋势令人不安。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Proton在1月14日发送了一封主题为介绍Lumo新功能的营销邮件,Lumo是Proton的AI产品,但作者此前已明确取消订阅Lumo相关邮件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展示了已取消勾选的&amp;#039;Lumo产品更新&amp;#039;订阅选项,指出这是Proton唯一未订阅的主题,因此收到的邮件构成垃圾邮件,可能违反GDPR和英国数据保护法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者联系Proton支持团队寻求解释,客服最初只是重复说明如何取消订阅,指向作者已经取消的同一选项开关。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;经过多次沟通和提供截图后,Proton支持声称该邮件属于&amp;#039;Proton商业版通讯&amp;#039;,而非&amp;#039;Lumo产品更新&amp;#039;,这一解释被作者认为是荒谬的借口。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出AI行业普遍存在不尊重用户拒绝的问题,从侵犯版权、DDoS攻击到Mozilla等公司的类似行为,整个AI行业建立在无视用户同意的基础上,表达了对这一趋势的强烈反感。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://fukuoka-game.com/archives/2323/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;3/20（金・祝）『FUKUOKA ゲームクリエイターズ・ネクスト』開催のお知らせ&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 福冈举办游戏创作者培养盛会，众星云集&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;福冈游戏产业振兴机构将于2026年3月20日举办设立20周年纪念活动，以培养未来游戏创作者为目标。活动邀请了有野晋哉、ひろゆき、Square Enix吉田直树、Level-5日野晃博等重量级嘉宾，举办脱口秀和特别对谈。同时举办第19届福冈游戏大赛，并设有Bandai Namco Studio讲座、游戏制作体验、作品试玩等多样化内容。活动面向从小学生到专业创作者的广泛人群，免费开放，旨在打造&amp;#039;世界瞩目的游戏产业城市·福冈&amp;#039;，为热爱游戏的人们提供了解行业、实现梦想的宝贵机会。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;福岡ゲーム产业振兴机构宣布将于2026年3月20日在福岡市科学館举办设立20周年纪念活动&amp;#039;FUKUOKA游戏创作者·Next&amp;#039;，旨在培养下一代游戏创作者，为小学生到专业人士提供了解、学习和体验游戏行业的机会。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;活动邀请了艺人有野晋哉进行特别脱口秀，分享游戏的乐趣和深度，并设有儿童问答互动环节，为热爱游戏的孩子们提供了将兴趣转化为未来梦想的机会。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;特别企划包括ひろゆき、Square Enix的吉田直树和Level-5的日野晃博三人对谈，主题为&amp;#039;如何靠喜欢的事情生活&amp;#039;，将深入探讨游戏制作魅力、创作者工作实况以及Final Fantasy和Inazuma Eleven系列的开发幕后故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第19届福冈游戏大赛&amp;#039;GFF AWARD 2026&amp;#039;同期举办，吉田直树担任嘉宾评委，将与福冈游戏产业振兴机构评委共同评审游戏软件部门大奖作品，并举行公开演示和点评会。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bandai Namco Studio将举办面向中小学生的&amp;#039;游戏创作者工作&amp;#039;讲座，由现役游戏创作者讲解职业内容和入行方法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;活动还包括游戏制作体验教室、游戏开发企业作品试玩、游戏行业展板展示、游戏相关企业展位等丰富内容，并正在招募赞助企业和团体参与。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://gc-conf.com/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;3/28（土）『GAME CREATORS CONFERENCE ’26』 にサイバーコネクトツースタッフの登壇が決定！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 游戏开发技术会议的讲座主题与活动更新公告&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于游戏开发和数字内容创作会议的公告文章,列举了多个技术讲座主题,包括《NINJA GAIDEN 4》的背景制作、好莱坞角色设计理论、高质量rigging验证、吉本兴业的游戏IP开发案例、代码审查实践、Autodesk Maya与Flow Studio的AI新功能、Cygames的大规模开发管理、GS2 Studio预览以及《Dreams of Another》的创作理念等内容。文章还包含了2026年1月和2025年9月的会议相关更新信息,如门票开售、赞助商信息和预告网站发布等。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 好色龍的網路生活觀察日誌 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://hornydragon.blogspot.com/feeds/4012294104405158019/comments/default&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;雜七雜八短篇漫畫翻譯2230&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Blogger comment feed for Chinese manga translation post with two user comments, following standard XML/Atom structure with metadata.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article describes a Blogger comment feed for a Chinese-language blog post titled &amp;quot;Miscellaneous Short Manga Translations 2230&amp;quot; from &amp;#039;HornyDragon&amp;#039;s Internet Life Observation Journal.&amp;#039; The post received comments from two users (Nina and HankCharath) between January 22-23, 2026, discussing translated manga content. The feed follows Blogger&amp;#039;s standard XML/Atom structure with UTC+8 timestamps and includes typical metadata like post ID (4012294104405158019) and blog ID (13254059). The content appears to be a technical breakdown of the blog&amp;#039;s comment system architecture rather than the actual manga translations themselves.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Blog Comment System:&lt;/strong&gt; This appears to be a Blogger platform comment feed structure for a blog post. The content shows metadata and comment entries from a Chinese-language blog called &amp;#039;好色龍的網路生活觀察日誌&amp;#039; (HornyDragon&amp;#039;s Internet Life Observation Journal).&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Post Identification:&lt;/strong&gt; The main post being commented on is titled &amp;#039;雜七雜八短篇漫畫翻譯&amp;#039; (Miscellaneous Short Manga Translations). It has a unique post ID (4012294104405158019) within the Blogger system.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Comment Timestamps:&lt;/strong&gt; Comments were posted between January 22-23, 2026, with timestamps in UTC+8 timezone. The latest activity shows comment updates on January 23, 2026 at 01:31:30.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;User Comments:&lt;/strong&gt; Two commenters (Nina and HankCharath) left responses on the post. The comments appear to reference content from the manga translations, though the full context is partially obscured.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Platform Metadata:&lt;/strong&gt; The feed uses Blogger&amp;#039;s standard XML/Atom format with noreply@blogger.com addresses and profile URLs. The blog ID is 13254059 within Blogger&amp;#039;s system.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105568&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;尝试了几次周末一日游，我和「害怕看不完」的想法和解了&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通过周末单日往返游克服旅行FOMO焦虑的实践与反思&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者对周末单日往返欧洲城市旅游模式的深度探索报告。作者因在西班牙旅行时的FOMO焦虑,开始尝试这种新型旅行方式,并详细分享了城市选择、机票预订、行李精简、交通规划、精力管理等实操经验。虽然日均花费约£225与传统多日游相当,但这种模式帮助作者逐渐克服了「必须一次看完」的焦虑。然而作者也坦言其局限性:体验浅薄、审美疲劳、缺乏文化沉浸感,以及可能形成的旅行依赖。最终作者通过这些实践与FOMO和解,认识到旅行应是休息而非逃避,欧洲城市随时可以再访无需过度焦虑。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在西班牙旅行时感到倦怠,发现自己过度追求完美行程,产生了严重的FOMO焦虑,于是决定尝试周末单日往返旅游模式来改变这种状态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了单日往返旅游的具体操作方法,包括城市选择标准(飞行2小时内、景点集中的欧洲城市)、机票机场选择策略(优先大航司和商务机场、考虑入关效率和市区交通)。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细说明了随身行李准备(极简主义,只带必需品)、当地交通方案(Apple Pay和Google Maps为主)、旅行计划制定(按优先级排序景点而非严格时间表)等实操经验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分析了单日往返旅游的经济成本(日均约£225),发现与传统多日游差别不大,主要优势在于节省挑选酒店的时间和减少出行前的琐碎担忧。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者坦言这种旅行方式存在明显缺陷:只能停留在游客区域、欧洲景点同质化导致审美疲劳、可控性差、缺乏深度体验、容易形成不健康的旅行依赖。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过这些高频短途旅行,作者逐渐与FOMO和解,意识到欧洲城市可以随时再访,不必强迫自己一次看完所有景点,找回了更松弛的旅行心态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后附上了巴黎、米兰、柏林、苏黎世、布鲁塞尔五座城市的具体行程安排和个人评价,供读者参考。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105410&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Mac 视觉史（四）：用动效交互为 Mac OS X 附魔&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Mac OS X用拟物化设计和物理交互重新定义桌面操作系统&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深入分析了Mac OS X视觉和交互设计的历史背景与设计哲学。在1988-1994年GUI版权诉讼失败后,苹果意识到必须在视觉表达上建立护城河。Mac OS X融合了NeXTSTEP的技术基因、iMac G3的半透明美学和Macintosh遗产,由Cordell Ratzlaff设计的Aqua视觉语言以可供性为核心,通过拟物化设计降低认知负荷。Bas Ording则为系统赋予物理灵魂,创造了鱼眼效果Dock和Genie Effect等标志性交互,让动效成为解释系统运作的语言而非装饰。这种将视觉美学与交互逻辑深度融合的设计范式,不仅成就了Mac OS X,也为后来iPhone的交互革命奠定了基础。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇引用乔布斯对微软缺乏审美的批评,指出Mac OS X在2000年前后不仅是版本更新,更是计算机历史上最激进成功的视觉革命,是苹果在法庭败诉后对桌面隐喻的重塑。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;回顾1988-1994年苹果与微软、惠普的GUI版权诉讼,法院裁定版权只保护具体表达而非思想本身,这迫使苹果必须在视觉表达和感官体验上建立技术与艺术的护城河。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mac OS X的设计目标明确:必须拥有强大底层技术、无法复制的美学特征和独创交互,让竞争对手尤其是Windows无法模仿甚至无法运行。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mac OS X融合了NeXTSTEP的工业逻辑、iMac G3的消费美学和Macintosh遗产,NeXTSTEP带来了Dock、列式视图等核心交互方式,但需要整合简化Mac OS时代复杂的多级菜单和控制条。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Aqua视觉语言的拟物化设计核心是可供性(Affordance),通过Gibson和Donald Norman的理论,将数字界面设计得像实体物品一样易于理解,降低用户认知负荷,红黄绿三色窗口按钮就是典型应用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bas Ording作为交互设计师为Mac OS X赋予物理灵魂,他设计的鱼眼效果Dock解决了图标数量与尺寸的悖论,应用费茨定律让小图标在鼠标靠近时动态放大。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Genie Effect(神奇效果)通过视觉连续性原则解决了窗口最小化的物体恒常性问题,让用户清楚看到窗口去向,Bas Ording强调动效是为解释系统运作而非装饰。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mac OS X的交互范式降低了认知负荷,让操作系统从冰冷工具变为有机环境,这种物理引擎逻辑后来延续到iPhone的惯性滚动和橡皮筋回弹效果,2001年1月Mac OS X 10.0 Cheetah正式发布。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105630&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派联合飞傲发起CD机盖板设计大赛&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派与飞傲子品牌雪漫天联合发起BeatBox CD机磁吸盖板设计大赛。BeatBox是一款集2.1重低音系统、Hi-Fi音质、多功能播放和磁吸可更换盖板于一体的创新产品。大赛面向设计师和创意爱好者征集原创盖板设计，要求结合产品透视窗特性创作动态视觉效果。评选采用用户投票方式，设置一至三等奖及优秀奖共21个名额，奖金最高5000元。优秀设计将投入量产并提供销售激励，销量达标可获额外奖励。活动体现了品牌与用户的深度共创理念，让产品成为用户审美态度的延伸。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了少数派与飞傲子品牌雪漫天在广州国际耳机展上联合发布的BeatBox多功能便携CD音箱一体机，并宣布启动磁吸盖板设计大赛，邀请设计师和创意爱好者参与产品盖板的共创设计。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了BeatBox产品的三大核心特性：硬核声音素质（2.1重低音系统和Hi-Fi基因）、创新的物理交互（磁吸可更换盖板和动态视窗设计）、以及无限空间拓展能力（磁吸支持和内置电池设计）。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;明确了参赛作品的具体要求，包括需结合透视窗特性考虑CD旋转的动态视觉效果、保证原创版权、遵循188.1mm正方形尺寸规范，每人最多可投稿3套方案，需包含标题和200字设计说明。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明了投稿方式和评审机制，投稿截止时间为2026年2月22日，需在少数派社区共创空间版块发帖，评选方式为用户投票决定，最终结果将于2026年3月12日通过直播公布。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细列出了奖项设置，包括一等奖至优秀奖共21个固定奖项，奖金从1000元到5000元不等，所有获奖者均可获得联名版BeatBox套装；量产作品还可获得销售激励，销量超过200或500可分别获得800元或2000元额外奖励。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;最后说明了参与福利和活动条款，所有投稿及投票用户可获得10元优惠券，参赛者需提供真实信息并授予少数派及飞傲全球范围、永久、免版税、独家的使用许可，但署名权永久归创作者所有。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105651&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Nova Launcher 被收购、《愤怒的小鸟》将回归等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技圈四大动态:Nova Launcher易主、愤怒的小鸟回归、二次号码焕新扩容、Steam优化赠礼功能&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文报道了四则科技资讯:Nova Launcher被瑞典Instabridge收购后将在免费版引入广告;《愤怒的小鸟》通过金山世游合作回归中国大陆市场并推出两款新游戏;工信部扩大二次号码焕新服务覆盖范围已处理超2.5亿个号码;Steam推出好友赠礼捆绑包补齐功能优化赠送体验。文章采用简洁新闻快报形式,每则资讯配有用户评论互动,体现科技产品与服务的最新动态。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;瑞典公司Instabridge收购Nova Launcher,承诺继续运营并保持兼容性,但正考虑在免费版引入广告,付费版仍保持无广告体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《愤怒的小鸟》宣布回归中国大陆市场,金山世游与Rovio合作推出两款游戏,包括3D升级版《经典归来》和消除解谜游戏《梦幻爆破》。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;工信部宣布已为2.5亿个二次号码进行焕新处理,解绑互联网应用超10亿件次,将继续扩大覆盖范围推动更多民生应用接入。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Steam平台新增好友赠礼捆绑包补齐功能,系统自动识别好友已拥有的游戏并调整支付金额,避免重复付费同时保留折扣优惠。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;AI native Workspace 也许是智能体的下一阶段&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI原生工作台结合操作助手与专家系统,开启智能体新形态&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章探讨了AI智能体的演进形态,重点介绍MiniMax推出的AI native Workspace产品。该产品创新性地结合了Cowork(计算机操作助手)和Skill(专家技能系统)两大功能,既能通过自然语言操作本地计算机完成文件整理、网页自动化等任务,又能通过注入提示词文件获得特定领域专业能力。作者通过实际案例演示了整理发票、制作Logo、生成算法可视化网站等应用场景,认为这种将AI引入本地并支持技能扩展的形态,代表了智能体的下一发展阶段,将开启更多可能性。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章提出AI应用层称为智能体(agent),早期智能体从对话应用发展到具备推理能力,后来演变出编程、图像、视频等专业领域智能体,并可通过MCP获得外部应用操作能力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;MiniMax发布的AI native Workspace结合了Anthropic提出的Cowork(计算机操作助手)和Skill(预设提示词专家模式)两个概念,前者让AI通过自然语言操作计算机,后者让AI具备特定领域技能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI native Workspace的桌面端提供工作台功能,可直接访问本地文件、自动化工作流程、生成专业成果如Excel和PPT、长时间运行复杂任务,用户需指定目录并备份以防误操作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者演示了使用桌面客户端整理发票PDF并生成Excel汇总文档的过程,系统会自动安装Python虚拟环境并执行脚本,还能进行网页自动化操作如浏览和提取信息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;专家系统通过注入特定提示词文件扩展智能体技能,系统内置预设专家如Icon制作器,作者演示了制作熊猫吃冰淇淋Logo的过程并获得满意效果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;用户可创建自定义专家技能,作者输入frontend-design技能后要求生成排序算法可视化网站,系统用十分钟生成了十种排序算法动画并直接部署上线。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI native Workspace将智能体引入本地计算机实现自动化操作,同时允许注入外部知识和能力,所有操作通过自然语言完成,代表了下一阶段AI智能体的发展方向。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
