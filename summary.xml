@@ -4,8 +4,208 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-02-04T20:12:00.090Z</updated>
+  <updated>2026-02-05T20:10:39.885Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - February 5, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-02-05</id>
+    <updated>2026-02-05T20:10:39.885Z</updated>
+    <published>2026-02-05T20:10:39.885Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>8 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - February 5, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;39.45205479452055&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    9.9%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;36&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;329&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;5&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9.9%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;8&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;CSS &amp;lt;code&amp;gt;@scope&amp;lt;/code&amp;gt;: An Alternative To Naming Conventions And Heavy Abstractions&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CSS @scope规则通过原生作用域隔离解决样式维护难题&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章探讨了传统CSS在大型应用中面临的维护性挑战,包括样式泄漏和特异性冲突问题。虽然BEM等命名规范和CSS-in-JS框架提供了解决方案,但它们各有局限性。作者重点介绍了已成为Baseline兼容的CSS @scope at-rule,这是一个能够在特定DOM子树中精确隔离样式的原生CSS特性。通过@scope,开发者可以定义样式作用域边界,实现donut scoping等高级模式,无需复杂的类名管理即可避免样式冲突。该特性还引入了基于proximity的特异性解析机制,使内部作用域自然覆盖外部样式,为现代前端开发提供了更优雅的CSS解决方案。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了传统CSS维护性问题,包括样式泄漏、选择器特异性冲突等,以及BEM等命名规范在实际应用中的局限性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发者倾向于使用CSS-in-JS框架和Tailwind等工具来避免级联样式问题,但这些方案牺牲了CSS原生优势并增加了构建复杂度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CSS @scope规则作为新特性,允许开发者在特定DOM子树中精确选择元素,无需编写过度特定的选择器或过度依赖类名管理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;@scope规则的基本用法示例,展示如何使用选择器参数定义样式作用域,以及如何通过第二参数创建下边界实现donut scoping。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过多个边界创建复杂作用域模式,相比传统CSS需要重置样式的方法更加简洁,避免了HTML结构变化导致的样式破坏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示@scope在Web组件中的应用场景,能够根据内容所在的不同组件上下文应用不同样式,特别适用于Shadow DOM场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;@scope的其他优势包括可以针对任何选择器的后代元素、支持嵌套作用域、可引用根作用域,以及引入了基于proximity的新特异性解析机制。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;proximity特异性机制使得当两个选择器特异性相同时,作用域根离匹配元素更近的选择器优先,自然实现了内部组件样式覆盖外部样式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 David Heinemeier Hansson &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/clankers-with-claws-9f86fa71&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Clankers with claws&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI代理无需特殊适配即可自主完成人类数字任务&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了OpenClaw如何赋予AI代理长期记忆和持久执行能力,使其突破传统提示-响应模式。作者通过实验展示了AI代理Kef在零技术适配的情况下,仅凭人类界面就能自主完成hey.com邮箱注册、Fizzy账号创建、Basecamp协作等复杂任务,执行过程几乎零错误。测试涵盖Claude Opus 4.5和开源模型Kimi K2.5,均表现出色。作者认为当前的MCP、API等代理适配工具只是过渡性方案,未来AI代理将像自动驾驶汽车一样,仅依赖人类现有的数字界面就能完美运作,展现了AI发展的激动人心的前景。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw为AI提供了独立的机器、长期记忆、提醒和持久执行能力,使模型不再局限于提示-响应循环,能够持续检查电子邮件和Basecamp通知等。作者在Proxmox虚拟机上设置了隔离环境,但也有人冒险在个人机器上运行。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者测试了AI代理在没有任何技能、MCP或API访问的情况下导航数字世界的能力。从简单的Fizzy注册任务开始,AI代理Kef在遇到需要邮箱时,自主前往hey.com注册新账户,一次成功完成整个流程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kef成功注册Fizzy后,按要求创建了商业创意看板并添加了五张带有网络图片背景的卡片,全程零错误。随后作者将其邀请到Basecamp,Kef自动接收邮件、完成注册并在聊天室打招呼,展现了完美的执行能力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为MCP、CLI和API等代理适配工具可能只是临时性的辅助手段,因为直接执行虽然较慢且消耗token,但已经可行。在Claude Opus 4.5和中国开源模型Kimi K2.5上的测试都取得成功,后者虽然较慢但同样准确。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结AI领域变化迅速,未来的发展方向应该是让AI代理像自动驾驶汽车一样,不需要LIDAR或MCP等特殊设备,仅依靠人类界面就能与环境交互,这是一个令人兴奋的时代。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Context Engineering for Coding Agents&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 编码代理的上下文工程实践与配置策略指南&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文系统阐述了编码代理中上下文工程的概念与实践。作者将上下文分为可重用提示、上下文接口和工作区文件三大类,并区分了指令型和指导型提示。文章以Claude Code为案例,详细介绍了CLAUDE.md、规则、技能、子代理、MCP服务器等配置功能,强调需平衡上下文大小以优化代理效能。作者指出上下文配置需要迭代构建,分享配置存在挑战,并特别提醒开发者警惕控制幻觉——即使有精心设计的上下文工程,LLM的执行仍具不确定性,需要适当的人工监督。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了编码代理中上下文工程的重要性,指出Claude Code等工具在此领域的创新,以及上下文工程正成为开发者体验的核心部分。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;定义了编码代理中的上下文概念,包括可重用提示(指令和指导)、上下文接口(工具、MCP服务器、技能)以及工作区文件等主要类别。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论了上下文加载的决策者(LLM、人类或代理软件),以及保持上下文简洁的重要性,避免信息过载影响代理效能和成本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;以Claude Code为例,详细列举了其上下文配置功能,包括CLAUDE.md、规则、斜杠命令、技能、子代理、MCP服务器、钩子和插件等,并与其他编码助手进行比较。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨了共享上下文配置的挑战,包括上下文相似性要求、过度工程化倾向、经验水平差异等问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;警告读者上下文工程存在控制幻觉,强调LLM执行结果仍具有不确定性,需要根据任务选择适当的人工监督级别。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/02/get-all-the-reactions-to-your-github-content-using-graphql/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Get all the reactions to your GitHub content using GraphQL&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用GitHub GraphQL查询反应数据的痛苦经历&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者以幽默讽刺的口吻描述了使用GitHub GraphQL API查询内容反应数据的艰难过程。GitHub不提供反应通知功能，用户必须通过复杂的GraphQL查询来获取issue、Pull Request和评论的Emoji反应。文章详细展示了多个查询示例，指出API存在诸多限制：分页最多100条、只能获取最近反应、评论无法用reactions过滤等。作者将GraphQL的复杂嵌套语法比作恶魔召唤仪式，认为追踪内容反应这一看似简单的需求在GitHub上实现起来异常痛苦，充满了不一致性和反人类设计。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者描述了自己在GitHub上发布内容后想要查看Emoji反应数量的需求，但GitHub不像Facebook那样提供通知功能，必须手动检查每个issue。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;虽然GitHub API可以查询特定内容的反应数，但需要提供内容ID，因此作者转向使用GraphQL来批量查询所有有反应的issue。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提供了一个GraphQL查询示例，可以获取最近10个有反应的issue及其反应详情，但存在分页限制（最多100个）和只能获取最近50个反应的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文档显示无法搜索Pull Request的反应，但实际上PR被归类为issue类型，因此可以在一个GraphQL查询中同时搜索issue和PR的反应。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;获取评论(comment)的反应更加困难，因为无法使用reactions:&amp;gt;0过滤条件，只能获取所有评论然后手动筛选有反应的内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结了使用GitHub GraphQL API查询反应的痛苦经历，将其比作阅读Necronomicon（克苏鲁神话中的禁忌魔法书），认为这种复杂的嵌套查询语法令人抓狂。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106090&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 235｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 编辑部分享Kindle阅读器、iQOO游戏手机和护照包使用体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期新玩意栏目介绍了编辑们最近购买的三类产品。首先是Kindle Paperwhite 6,作者认为相比功能繁杂的国产墨水屏,Kindle凭借优秀的屏幕优化和完善的服务生态更适合纯阅读需求,并分享了Kobo书店和寄扫服务等电子书获取方式。其次是iQOO 15 Ultra游戏手机,采用未来舱设计和主动散热风扇,配合骁龙8至尊版提供极致游戏体验,系统针对游戏场景做了诸多优化。最后是tomtoc护照包,支持RFID防盗刷,内置AirTag隐藏位,分区设计合理,适合整理旅行证件。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了购买Kindle Paperwhite 6的原因，认为国产墨水屏虽然性价比高但彩屏和Android系统不符合需求,Kindle的屏幕优化和服务支持更好。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kindle Paperwhite 6硬件质感一般但屏幕显示效果优秀,Send to Kindle等服务便捷,原生系统功能虽更新缓慢但已支持EPUB等实用功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了两种稳定的电子书购买方式:Kobo书店的繁体书资源丰富且易于解除DRM,以及淘宝寄扫服务可将纸质书扫描成电子版。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑体验了iQOO 15 Ultra游戏手机,该机采用未来舱设计、配备能量光刃呼吸灯和主动散热风扇,搭载骁龙8至尊版提供极致游戏性能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iQOO 15 Ultra在游戏体验上做了诸多优化,支持多款游戏的高帧率和极致画质,Origin OS提供了丰富的游戏辅助功能和设置选项。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑购买了TRMNL软件授权将阅星曈X4改造成信息看板,可展示Steam特价、天气等多种信息,但软件授权价格较贵且主要支持海外平台。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者购买了tomtoc护照包用于整理证件,该包支持RFID防盗刷、配有挂绳和隐藏式AirTag位,内部分区合理可存放多本护照、银行卡等物品。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106060&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;满分五分，你给 Apple 的 2025 年打几分？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple 2025稳健但创新不足&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派连续第五年发布Apple成绩单,邀请36名科技领域专业人士评价Apple 2025年表现。总体而言,Apple在硬件领域稳健迭代,iPhone 17标准版和AirPods Pro 3成亮点,但iPad和Vision Pro创新乏力。软件方面,液态玻璃设计引发两极分化,系统稳定性下滑,Apple Intelligence未在中国落地成最大遗憾。社会责任与本地化得分最高(4.42),软件可靠性最低(3.33)。尽管面临监管压力和AI竞争挑战,Apple服务生态依然强劲,但在开发者关系、定价策略和本地化服务等方面仍需改进。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2025年Apple在硬件领域稳健迭代,Vision Pro升级但未突破大众市场,M5芯片巩固Apple Silicon地位,iPhone 17标准版成口碑之选,iPhone Air设计吸睛但存在妥协,Apple Watch和AirPods获温和更新&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;软件与生态层面充满争议,iOS 26的液态玻璃设计引发审美辩论,Siri进化未达预期,Apple Intelligence未在中国落地,App Store面临全球监管压力,但服务生态营收创新高保持强劲&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派连续第五年推出Apple成绩单策划,邀请更多嘉宾参与评分,更新评分类目和问题设置,专题页提供官方资讯回顾和互动成绩单功能&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;调查从2025年11月至12月进行,向36名受访人发送问卷,受访者包括科技媒体人、博主、开发者等各领域专业人士,问卷回收截止2026年1月5日&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总体评分显示九个维度中6个中位数4分以上但较往年偏低,社会责任与本地化得分最高(4.42),软件可靠性最低(3.33),iPhone评分大幅跃升,Mac和iPad有所回落&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iPhone平均分4.25,产品线规划清晰获好评,iPhone 17标准版升级诚意十足,iPhone Air评价两极分化,Pro系列性能强但材质和影像能力受批评&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iPad平均分3.36,硬件性能过剩但换机动力不足,iPadOS限制生产力发挥,生产力属性受质疑,超半数受访者倾向iPadOS与macOS最终融合&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mac平均分4.03,稳健常规更新成主基调,M4 MacBook Air凭性价比获好评,Mac Studio在AI时代展现吸引力,近半数受访者认为Mac Pro应被Mac Studio取代&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;XR、Watch、音频与周边平均分3.64,AirPods Pro 3成明星产品,Apple Watch和Vision Pro面临创新乏力,Vision Pro销量远低预期引发战略质疑&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;硬件可靠性平均分4.28,整体耐用性维持高水准,iPhone 17 Pro铝合金材质引发耐用性争议,但多数嘉宾认可散热改善的价值&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;软件可靠性平均分3.33,液态玻璃视觉风格成最大争议点,系统稳定性口碑下滑,iOS 26和macOS 26 bug明显增多,但也有嘉宾认可统一视觉语言的尝试&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;服务平均分3.61,Apple Intelligence缺席成最大遗憾,流媒体与内容服务质量获高度认可,iCloud连接速度和定价策略遭质疑&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;应用生态与开发者关系平均分3.94,生态系统被视为行业标杆,开发者关系维护获认可,但苹果税和商业模式引发激烈争议,超六成受访者呼吁提高透明度和合理减让&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;社会责任与本地化平均分4.42,碳中和与可持续发展投入获普遍认可,实体店扩张和社区教育受肯定,但本地化服务进展缓慢,超八成受访者支持Apple 2030计划&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105661&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从川渝之旅聊自驾：解锁更自在的旅行体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 自驾是提升旅行体验ROI最高的方式&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者通过川渝5天4晚自驾游的实际案例,从时间成本、精力消耗和投入产出比三个维度,详细论证了自驾相比公共交通的优势。数据显示自驾比公共交通节省近8小时,仅多花费200元却换来了行程自由、情绪松弛、精力充沛等多重收益。作者还分享了租车攻略,建议选择大型租车公司、购买全面保险、优选带辅助驾驶的车型。文章强调自驾不仅解决了&amp;#039;最后一公里&amp;#039;问题,更重要的是赋予旅行者控制感和自由度,能随时调整行程、发现意外美食、随地休息补充能量,是提升旅行体验ROI最高的方式。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过川渝之旅案例提出观点：旅途中最重要的是时间和状态,自驾不仅是交通方式,更是解锁更多时间、更佳状态和意外惊喜的旅行秘方。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过对比公共交通和自驾方式,自驾在成都至重庆的行程中比公共交通节省近6小时,且公共交通存在等候时间这一隐形成本,自驾让浪费在路上的时间变成享受风景和美食的时间。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;自驾带来的自由度是公共交通无法比拟的,可以随时调整行程,重新获得控制感对情绪和状态有巨大改善,避免了因赶行程带来的紧张和焦虑。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;自驾具有低决策成本的优势,成为租车公司VIP并选择全面保险和带辅助驾驶的车型,可以省去做攻略的精力消耗,获得80分以上的租车体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;自驾解决了&amp;#039;最后一公里&amp;#039;问题,点对点的特性避免了频繁换乘和步行带来的精力消耗,让旅行者以最佳状态抵达目的地,为塑造峰值体验做好准备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;投入产出比分析显示,自驾比公共交通多花费约200元,但换来8小时自由时间、免去攻略时间、节约精力和从容姿态,是旅途中ROI最高的方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;自驾带来的峰值体验包括:随遇而安发现路边美食、汽车作为随时随地的休息室、迪士尼等景点可灵活安排休息和用餐,极大提升了旅行的舒适度和自由度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106063&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：iQOO 15 Ultra 发布、Grok Imagine 1.0 推出等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技行业多项产品发布与服务调整动态速览&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了2月4日科技行业多条重要资讯。iQOO发布性能旗舰手机15 Ultra,面向游戏玩家和创作者,配备顶级硬件和7400mAh大电池。xAI推出视频生成工具Grok Imagine 1.0,阿里千问发布编程大模型Qwen3-Coder-Next。Apple提醒用户升级Home App以避免智能家居功能受限,微软宣布将逐步停售OneDrive独立商业订阅服务,Adobe则在反对声中取消了停用Animate的计划,改为维护模式。此外文章还包含少数派平台的近期活动和推荐文章信息。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iQOO发布性能旗舰手机15 Ultra,搭载骁龙8至尊版,配备2K屏幕、7400mAh电池和5000万像素三摄,售价5499元起。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;xAI推出视频生成工具Grok Imagine 1.0,支持生成最长10秒、720p分辨率短视频,并提升音频生成能力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;阿里千问发布Qwen3-Coder-Next编程模型,基于新架构并通过强化学习训练,已在ModelScope和Hugging Face发布。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple提醒用户需在2026年2月10日前升级Home App,否则可能无法访问智能家居设备和使用新功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软计划停售OneDrive for Business独立订阅服务,2026年5月停止新客户销售,2029年12月彻底停止技术支持。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Adobe取消停用Animate的计划,软件将进入维护模式,继续提供安全更新和漏洞修复但不再推出新功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - February 4, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1875,123 +2075,6 @@ This article announces the release of a &amp;quot;Chaser Game&amp;quot; Season 2
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;京东和天猫宣布iPhone Air特惠活动,叠加优惠后256GB型号降至5499元。据供应链消息,iPhone Air累计激活量不足20万台,而同期iPhone 17系列各机型激活量均超400万。苹果官方也上线新春优惠活动,覆盖iPhone 16系列、iPad和Mac产品线。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;徕卡所有者考虑出售公司控股权,估值约10亿欧元,竞购者包括弘沙集团和Altor。新版Siri首批功能预计3-4月随iOS 26.4上线,核心算力由Gemini提供。谷歌将在Android中引入高阻力侧载应用安装流程,2026年起要求开发者注册验证身份。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;截至2026年1月,全球.ai域名注册数突破100万,为安圭拉带来约7000万美元收入。注册.ai域名标准费用为两年140美元,续费率达90%。过期域名拍卖获利颇丰,you.ai以70万美元成交。腾讯QQ宣布将带回QQ秀功能,新版可通过AI生成虚拟形象。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - January 25, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-01-25</id>
-    <updated>2026-01-25T20:05:31.676Z</updated>
-    <published>2026-01-25T20:05:31.676Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>5 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 25, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;27.397260273972602&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    6.8%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;25&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;340&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6.8%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;5&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blog.mikeswanson.com/backseat-software/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Backseat Software – Mike Swanson’s Blog&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 现代软件如何从工具演变为不断打断和操纵用户的渠道&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章探讨了软件从单纯工具演变为主动干预渠道的过程。作者通过&amp;#039;后座软件&amp;#039;这一概念,描述了现代软件如何从早期的物理介质发行、用户主导的产品,逐步演变为不断打断用户、追踪数据、优化参与度的实验平台。这一转变并非突变,而是通过互联网连接、使用数据收集、A/B测试、行为助推和推送通知等看似合理的步骤逐步实现的。核心问题在于,当指标(如DAU、留存率)取代产品愿景成为决策核心,当实验取代判断成为主要方法时,软件就不再服务于用户的真实需求,而是服务于可测量的参与度。尽管某些打断和数据收集有其合理性,但整体趋势已经使软件从&amp;#039;你操作的工具&amp;#039;变成了&amp;#039;操作你的渠道&amp;#039;。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章以一个荒谬的类比开场:如果汽车像现代应用一样不断打断你的驾驶,询问体验、展示新功能教程,这会令人难以忍受。然而,这正是许多现代软件的常态表现方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;早期软件通过物理介质发行,像是一个完整的产品。用户购买、安装并使用它,软件不会自行改变或主动请求注意力。尽管这种模式存在缺陷(如bug难以修复),但用户与软件的关系是单向的、安静的。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;互联网的到达带来了巨大优势:软件可以更新、修复bug、关闭安全漏洞。微软的更新基础设施展示了这一时代的进步,自动更新成为规范,显著提升了软件质量和安全性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;一旦软件能够连接互联网,它不仅能接收指令,还能向开发公司&amp;#039;回传&amp;#039;信息。最初这是积极的(崩溃报告、更新检查),但这个反向通道逐渐扩展,从&amp;#039;发生了崩溃&amp;#039;演变为&amp;#039;我们还能了解什么?&amp;#039;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;软件开始能够发送使用数据,帮助团队理解用户行为。Google Analytics等工具的普及使得仪表盘和数据分析成为软件开发的标准做法。但重心悄然转移:从&amp;#039;这是好软件吗?&amp;#039;变成了&amp;#039;这能提高参与度吗?&amp;#039;,各种指标术语(DAU、MAU、留存率等)开始主导产品决策。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分析指标虽然看似客观,但它们只测量产品当前使其便利的行为,而非真实需求。作者举例说明,一个功能使用率低可能是因为它被深埋在菜单中,而非用户不需要。当指标成为目标时,它就失去了作为良好度量的价值(Goodhart定律)。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;A/B测试的兴起改变了产品团队的角色:从构建工具转变为对用户进行实验,调整各种元素以观察哪个版本表现更好。产品不再是完成品,而是实验室,每个界面都变得临时性,每次交互都成为假设。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;当实验成为主要决策工具时,强有力的产品愿景变得可有可无。依靠数据比依靠观点更安全,判断力逐渐让位于迭代,品味让位于性能表现。产品仍在演进,但缺乏明确方向,只有动量。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;一旦实验成为常态,改变用户行为就从理论变为程序。&amp;#039;nudge&amp;#039;(助推)成为显而易见的下一步:从功能提示、工具提示、引导教程、&amp;#039;新功能&amp;#039;屏幕到调查问卷,层层叠加。选择架构和说服式设计开始主导产品体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;智能手机时代的推送通知使打断变得更加廉价。iOS 3.0引入的推送通知服务从根本上改变了&amp;#039;谁发起交互&amp;#039;的问题。从合理的消息和提醒,演变为&amp;#039;我们想念你&amp;#039;&amp;#039;你还没完成设置&amp;#039;等营销式推送,软件从工具变得像跟踪狂。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者承认并非所有提示都是恶意的:复杂软件需要指导,某些类别(消息、安全、银行)本质上就需要警报,遥测技术对发现特殊bug至关重要。功能导览也有其存在理由,因为用户既抱怨打扰,也抱怨不知道新功能的存在。文章在此处未完结。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.youtube.com/watch?v=2L_pN56D92I&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;39C3 - Persist, resist, stitch - YouTube&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 YouTube页面标准页脚导航与版权信息&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一个YouTube页面的标准页脚信息,包含了Google LLC的各类链接和版权声明。内容涵盖关于我们、版权、联系方式、创作者工具、广告服务、开发者资源、服务条款、隐私政策、安全政策、YouTube运作方式说明以及NFL Sunday Ticket服务等标准导航链接,最后标注2026年Google LLC版权所有。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/book-review-human-rites-by-juno-dawson/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Human Rites by Juno Dawson ★★★☆☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 三部曲完结篇中规中矩，娱乐性足但缺乏创新&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是Juno Dawson的Witches of Hebden Bridge三部曲最终章的书评。作者认为这本书延续了系列的风格特点，包括尖刻的女巫角色、90年代流行文化引用等，情节曲折且娱乐性强。然而，过多的流行文化引用显得生硬，缺乏前作的愤怒和创新性。尽管结局有力且成功收尾，但整体而言这是一本不错的休闲读物，适合喜欢该系列的读者，评分为三星。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 好色龍的網路生活觀察日誌 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://hornydragon.blogspot.com/feeds/6453787825048313359/comments/default&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;雜七雜八短篇漫畫翻譯2231&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 关于Rule 34网络文化的幽默评论&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于博客评论的文章，内容涉及Rule 34（R34）这一网络文化概念。评论者提到了宝可梦角色乔伊小姐，并使用了幽默和暗示性的语言。文章采用了轻松、戏谑的口吻，包含了网络迷因和流行文化元素。整体风格偏向娱乐性质，反映了网络社区中常见的非正式交流方式。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105482&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从 triple j 到「字母汤」：澳洲音乐电台指北&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一份详细的澳洲音乐电台收听指南&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一份澳大利亚音乐电台收听指南。作者为了提前感受澳洲氛围,深入探索了当地电台生态。文章详细介绍了triple j及其家族台(Double J、Unearthed、Hottest),包括Like A Version等王牌节目;分享了通过官方App、Radio Garden和Apple Music等工具的收听方法;解释了澳洲电台&amp;#039;Triple&amp;#039;命名现象背后的呼号规则;并推荐了KIIS FM、ABC Classic、SBS Chill等不同类型电台。作者认为收听当地电台是了解异国文化最真实、最沉浸的方式,通过声音可以感受到最地道的生活气息。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过收听澳洲电台来提前感受澳大利亚的本地氛围,认为这是了解一个地方最快最沉浸的方式,并分享了澳洲电台的收听指北和有趣发现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;triple j是澳大利亚广播公司旗下的公共青年音乐电台,以推广本土新音乐著称,具有反叛、年轻的气质,拥有Like A Version、Home and Hosed、Live At The Wireless和Hottest 100等王牌节目。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;triple j家族台包括Double J(成熟稳重的大人版)、triple j Unearthed(专门挖掘未出名音乐人的平台)和triple j Hottest(24小时轮播历年百大金曲),每个都有各自的特色和定位。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;可以通过triple j官方App、Radio Garden网站和Apple Music等工具收听澳洲电台,其中triple j App功能最全面,Radio Garden提供全球电台地图式浏览体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;澳洲FM电台呼号遵循&amp;#039;1个数字+3个字母&amp;#039;规则,许多电台为了好记选择三个相同字母,形成了Triple系列电台,包括社区电台Triple R、Triple B等,保留着独立自由的气质。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;除了Triple系列,澳洲还有KIIS FM(借鉴美国品牌的商业电台)、Nova/2DayFM/Fox FM(商业流行三巨头)、ABC Classic(古典音乐台)和SBS Chill(氛围音乐台)等多样化电台。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
