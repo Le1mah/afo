@@ -4,8 +4,172 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-02-10T20:21:05.147Z</updated>
+  <updated>2026-02-11T20:13:05.842Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - February 11, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-02-11</id>
+    <updated>2026-02-11T20:13:05.842Z</updated>
+    <published>2026-02-11T20:13:05.842Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>6 articles from 3 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - February 11, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;46.02739726027397&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    11.5%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;42&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;323&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;6&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 11.5%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;6&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 构建可信赖代理AI的核心设计模式与实践框架&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是代理式AI设计系列的第二部分,提供了构建可信赖代理系统的具体实践方法。文章详细介绍了六种核心UX设计模式,分为行动前、行动中和行动后三个阶段。重点阐述了三种关键模式:意图预览模式确保用户在行动前了解并授权代理的计划;自主权限拨盘模式允许用户根据信任程度调整代理的独立性;可解释理由模式提供代理决策的透明解释。这些模式将代理AI从黑箱转变为透明可控的系统,强调通过清晰沟通和明确边界建立用户与AI代理之间的信任关系,确保自主性是用户授予的特权而非系统强占的权利。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了从生成式AI到代理式AI的转变,强调本文将提供具体的设计模式、操作框架和组织实践,用于构建既强大又透明、可控且值得信赖的代理系统。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;设计代理式AI就是设计一种关系,需要建立在清晰沟通、相互理解和明确边界之上。文章提出了六种遵循代理交互功能生命周期的模式,包括行动前、行动中和行动后三个阶段。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;意图预览模式是建立用户信任的基础,要求在代理执行任何重要操作前,用户必须清楚了解即将发生什么。有效的意图预览需要包含清晰简洁的描述、顺序步骤和明确的用户选择。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章通过旅行助手场景展示意图预览的实际应用,包括航班取消后的恢复计划,提供进行、编辑或自行处理三种选择路径。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;意图预览模式适用于不可逆操作、金融交易、信息共享等高风险场景。成功指标包括接受率(目标&amp;gt;85%)、覆盖频率和回忆准确性等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;自主权限拨盘模式允许用户根据个人风险承受能力设定代理的独立程度,从观察建议到完全自主行动四个级别,体现了信任是一个渐进的过程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;可解释理由模式主动回答代理行动的原因,将系统逻辑转化为用户可理解的语言。有效的理由应基于先例、简单直接,帮助用户建立对代理思维方式的准确心智模型。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/02/gadget-review-epomaker-th87-iso-mechanical-keyboard/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Gadget Review: Epomaker TH87 ISO Mechanical Keyboard ★★★★⯪&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Epomaker TH87机械键盘评测:灯效出色兼容性好&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于Epomaker TH87机械键盘的评测文章。作者原本不喜欢机械键盘,但被TH87的灯光效果和实用性所打动。键盘在Linux、Android等系统下兼容性优秀,支持USB、蓝牙和2.4GHz三种连接方式。噪音控制良好,按键手感出色,配备10000mAh大电池。虽然缺少自定义软件和数字键盘,但采用英国标准布局,重量达1公斤。售价60-80英镑,作者认为对于追求灯效和可定制性的用户来说物有所值,最终给予4.5星评价。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者曾对机械键盘不感兴趣,认为它们噪音大且无用,但Epomaker送来TH87键盘让作者改观,发现其灯光效果令人愉悦。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;TH87配备USB-C转A线缆,在Linux系统下即插即用无需驱动,虽然被识别为Apple设备但功能键正常工作,同时支持蓝牙和2.4GHz无线连接。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;键盘噪音适中且经过预润滑和降噪处理,按键手感优秀,结构坚固,电池容量10000mAh续航出色。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;键盘无自定义软件,固件是否开源存疑,采用5层降噪设计,无数字键盘但有英国标准布局,重达1公斤。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;售价在60-80英镑之间,作者认为对于需要灯效和热插拔功能的用户来说性价比不错,给予4星半评价。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106232&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;OpenClaw：高强度使用两周，这个 AI 工具颠覆了我的工作流&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 OpenClaw是本地AI助手,重构数字工作流&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细介绍了AI工具OpenClaw的安装配置、模型选择和实际应用场景。OpenClaw是运行在本地的数字生命中枢,可作为跨平台AI助手。文章从基础的聊天机器人、AI编程、RSS定制、写作辅助,到进阶的Notion管理、浏览器控制、智能家居等应用场景进行了全面展示。作者分享了模型选择建议,认为ChatGPT Plus性价比最高,国产模型Kimi和MiniMax也值得选择。文章还提供了创建群组、Token优化、语音交互、备份恢复等实用技巧。OpenClaw作为开源项目的核心价值在于工程整合与跨平台可用性,但需注意保护隐私安全。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (15 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了OpenClaw这款AI工具在过去一个月引起广泛关注,经历了多次命名调整和社交账号抢注事件。作者在使用两周后发现OpenClaw改变了自己的工作习惯,成为解决数字生活需求的首选工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw是运行在本地的数字生命中枢,可作为个人AI助手,支持通过Skills扩展能力和跨平台接入。所有数据储存在本地工作区,用户对数据有更高的可控性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw支持安装到Mac mini、Windows、Linux等设备,也可部署到云服务器。推荐Mac mini因其支持全天候运行、低功耗、方便调用Apple生态服务且性价比高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;安装方式分为One-liner、npm、Hackable和macOS客户端四种,需要配置AI服务提供商、通信Channel、Skills和Gateway等四个部分。macOS用户可使用Companion App进行便捷管理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;模型选择方面,ChatGPT Pro和Claude Max是最强选择,Google AI Pro/Ultra订阅用户可通过OAuth或API使用。国产模型中Kimi K2.5和MiniMax M2.1性价比较高,也可使用Ollama本地模型或免费模型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为现阶段性价比最高的方案是订阅ChatGPT Plus,GPT-5.3 Codex提供最均衡的体验。如果搞不定海外订阅,国产模型也是不错选择,注重隐私可使用本地模型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw的基础应用包括聊天机器人功能,可跨平台同步对话记录并沉淀记忆。作者习惯通过OpenClaw获取信息、进行研究分析,IM工具提供了比AI应用更好的交互体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw使普通人也能进行AI编程(Vibe Coding),用户如同产品经理向全栈工程师下达指令。通过飞书等Channel可在任何地方远程控制电脑进行编程工作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw可定制专属RSS阅读服务,包括创建订阅列表、建立抓取机制、文章筛选机制和推送机制。可将推送内容制作成播客或视频,相当于拥有个人媒体平台。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw重新整合了作者的写作工作流,在写作专属群组中完成资料搜集、事实核对、内容校对润色等工作。通过创建Skill可直接读取本地文件库进行文章核对和润色。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;进阶应用包括操作Notion作为外置大脑,可创建定时任务管理单词数据库等内容。通过浏览器插件可控制浏览器进行UI交互操作,如抓取社交平台内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;有网友在安卓手机上安装OpenClaw实现手机控制功能,开发者Peter本人用其控制床垫温度、播放音乐、调整灯光等智能家居设备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用技巧包括创建多个群组分场景使用、通过/new和/compact指令降低Token消耗、启用QMD记忆检索服务、创建Subagents系统实现子代理协作等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;支持通过Whisper进行语音输入转写和edge-tts进行文字转语音输出。建议创建自动备份和心跳监测脚本,通过远程SSH连接来应对故障情况。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结指出OpenClaw的核心创新在于工程整合与可用性,将AI Agent扩展到各个平台。作为开源项目形成了强大的社区效应,但需注意隐私安全,不要暴露敏感信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106299&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;寻源南疆：我们在冰山上拍了一部「公路电影」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派团队驾车穿越天山拍摄南疆公路电影&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派团队在天山胜利隧道通车后，驾驶鸿蒙智行享界S9T纯电版从北疆乌鲁木齐出发，开启了一场南疆寻源之旅。这趟超过一周的公路旅行穿越了沙地、冰川、山岭和雪原等多样地貌，团队不仅经历了奇妙的意外，还遇到许多温暖的人和震撼的场面。他们将这次旅行拍摄成一部具有电影感和戏剧性的影片，以独特的视角展现新疆的美丽与野性，希望在新年之际为观众带来视觉享受和精神鼓舞。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新疆充满神秘和向往，天山胜利隧道通车后将南北疆通行时间从数小时缩短到二十分钟，少数派团队决定从乌鲁木齐出发穿越隧道开启南疆寻源之旅。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;团队选择鸿蒙智行享界S9T纯电版作为座驾，这款豪华旅行车拥有舒适驾乘体验和超大储物空间，满足了跨度超过一周公路旅行的需求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;团队驾车穿越沙地、冰川、山岭和雪原，经历了意外、遇到温暖的人和震撼场面，最终以电影化和戏剧性方式呈现新疆的美丽与野性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106175&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;索尼 LinkBuds Clip 耳夹式开放真无线耳机体验 - TDS REVIEW&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通话出色漏音控制优异的索尼耳夹耳机&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细评测了索尼LinkBuds Clip耳夹式开放真无线耳机。产品采用环保包装,配备「灵动枕」配件以适应不同耳廓厚度,佩戴稳定性良好。通话表现是其突出优势,得益于双麦克风+骨传导拾音设计,在耳夹品类中属第一档水准。漏音抑制模式下的漏音控制能力极为出色,甚至优于部分半入耳式耳机。声音方面呈现明亮风格,中高频精致但存在齿音和轻度刺激感,声场规模感良好。主要不足包括缺少左右耳自动识别、佩戴检测等智能功能,且不支持高码率编码。作者给予IV级评价,认为产品尚未完全成熟但解决了耳夹品类的部分痛点,期待后续更新。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了索尼LinkBuds Clip耳夹式开放真无线耳机的诞生背景,指出其可能是为了解决小耳廓人群佩戴LinkBuds Open的稳定性问题而设计,作者选择了紫色款进行首发体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;包装采用环保设计,配件仅包含一对「灵动枕」软硅胶垫,用于适应不同厚度的耳廓边缘。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;耳机有四种配色可选,充电盒体积略大于前代产品,C桥扁平且柔性程度适中,佩戴稳定性良好,「灵动枕」可为耳廓偏薄人群提供额外稳定性支持。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;耳机采用敲击操作而非广域点击,支持操作自定义但缺少左右耳自动识别和佩戴识别功能,可通过Sound Connect app进行均衡器、360 RA测量等设置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通话表现优异,搭载单边两颗麦克风和一个骨传导拾音单元,通话稳定性和降噪能力在耳夹品类中属于第一档水准。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;信号连接稳定,近场卡顿较少,但不支持高码率编码和低延迟模式,实测续航约7小时49分钟,支持快速补电功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;搭载10mm动圈单元,支持SBC/AAC编码,提供「人声增强」和「漏音抑制」两种特殊聆听模式,漏音控制能力在漏音抑制模式下表现极为出色。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;声音表现方面,低频量感适中略偏少,中频人声精致但有明显齿音,高频亮度较高存在轻度刺激感,声场规模感良好,解析能力在高价位耳夹中属中上水平。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结认为LinkBuds Clip在通话质量和漏音控制方面表现出色,但缺少部分智能功能且声音略显刺激,最终给予IV级评价,期待后续固件更新完善功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106146&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从一台修不好的 Walkman 开始：飞傲的复古产品「补票」之路&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 飞傲从修复Walkman的执念出发打造复古音乐全系列&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;飞傲复古产品线源于创始人修不好Walkman的遗憾,团队从零学习古老的模拟电路技术,在凋零的产业链中艰难探索,2024年成功推出磁带机、CD机和黑胶机全系列产品。为拥抱更广泛用户,飞傲推出子品牌雪漫天,将高端技术下放至BeatBox这款集成2.1声道的便携CD机,突破工程难题实现外放与读碟的平衡。产品采用留白设计理念,联合少数派举办盖板设计大赛,把定义权交给用户,让复古音乐设备成为个性化的生活艺术品,实现从硬核技术到生活美学的转变。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;飞傲创始人James因为收到一台无法修好的SONY Walkman而萌生了做复古音乐播放器的想法,团队从零开始学习磁带机技术,甚至请了一位17岁的爱好者当老师,最终开发出CP13磁带机并获得用户热烈反响。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;飞傲复古产品线面临产业链凋零的困境,不到20人的团队要复刻当年几千人打磨的工艺,但仍在2024年推出了磁带机CP13、CD机DM13和黑胶机TT13三款产品,销量和口碑都获得了成功。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;飞傲推出子品牌雪漫天定位轻HiFi,试图从硬核技术走向时尚生活美学,BeatBox作为该理念下的产品,将高端CD机的核心技术下放,集成2.1声道重低音系统,通过多次迭代解决震动问题,打造面向大众的便捷音乐设备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;BeatBox采用留白设计,把盖板外观交给少数派社区用户创作,配合MagSafe磁吸功能可融入家居环境,第一期设计大赛聚焦平面设计,未来计划引入3D打印和异质材料,让用户创造更多玩法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - February 10, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1761,166 +1925,6 @@ A new game project is scheduled for a YouTube premiere release on February 16, 2
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;摄影指导高伟喆利用iPhone的轻巧便携性拍摄低机位画面,使用iPhone 17 Pro的4K 120fps慢动作和8倍光学变焦功能增强情感冲击力和画面想象力。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;iPhone 17 Pro的Apple Log 2色彩空间让团队设计专属LUT效果,四只小狗共同完成主角小白的拍摄,各司所长呈现精彩画面。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;影片通过人与动物的情感纽带探讨「家」的多重意义,是第三部带有口述影像版本的新春大片,为视障用户提供无障碍观影体验。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - January 31, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-01-31</id>
-    <updated>2026-01-31T20:13:06.810Z</updated>
-    <published>2026-01-31T20:13:06.810Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>6 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - January 31, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;33.97260273972603&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    8.5%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;31&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;334&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;4&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8.5%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;6&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Short Month, Big Ideas (February 2026 Wallpapers Edition)&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 全球设计师为2月打造的免费创意桌面壁纸合集&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是Smashing Magazine的2月桌面壁纸合集,延续了14年的传统。文章展示了来自全球各地艺术家和设计师创作的免费桌面壁纸,涵盖复古科技、抽象艺术、电影致敬、自然风光、节日主题、流行文化等多样化主题。每款壁纸都附有创作者的设计理念说明,并提供多种屏幕分辨率的下载选项(含日历版和无日历版)。文章强调对艺术家创作自由的尊重,鼓励更多设计师投稿参与未来的壁纸项目,为用户带来视觉灵感和创意激励。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了Smashing Magazine推出的2月桌面壁纸合集,这是一个持续了14年的传统项目,由全球艺术家和设计师为社区免费提供创意壁纸。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;所有壁纸均由艺术家自由创作,主题不受限制,完全表达他们的创意和情感,文章强调了对艺术家创作自由的尊重。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细展示了多款壁纸作品,包括Eternal Tech(无线电主题)、Coffee Break、Mosa-hic(马赛克风格)、Search Within(搜索栏隐喻)等,每款都附有设计师说明和多种分辨率下载链接。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;其他featured作品包括The Lighthouse Of Mystery(电影Shutter Island灵感)、That&amp;#039;s All Folks、Fall In Love With Yourself(Frida Kahlo致敬)、Plants(温馨室内场景)等,涵盖多种艺术风格。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;更多壁纸作品涵盖了爱情、动物、自然、流行文化等主题,如Love Is In The Play(猫咪编织)、True Love、February Ferns、Cupcake、Mochi等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;最后展示的壁纸包括Balloons、Magic Of Music、Love Angel Vader(星球大战恶搞)、Principles Of Good Design(Dieter Rams设计理念)、Time Thief、Dark Temptation、Ice Cream Love等多样化作品,所有壁纸均提供日历版和无日历版本下载。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/459&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 459: The ultimate Gemini has survived&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Google推出Gemini驱动的Chrome浏览器新时代&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文报道了Google在Chrome浏览器中全面集成Gemini AI的最新动态,与Firefox的保守策略形成对比。作者详细评估了三大核心功能:持久化侧边栏、智能代理浏览和图像编辑工具,认为虽然AI浏览器化趋势不可逆转,但实用性仍有待观察。文章还涵盖了多个技术更新,包括Augment Code的新代码审查工具、Tamagui v2和Astro 5.17等框架发布,以及关于包管理问题、Linux桌面迁移等行业讨论。整体呈现了前端开发领域AI集成的现状与挑战。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了Google在Firefox因用户反对而暂停AI浏览器开发后,反其道而行之,宣布在Chrome中正式集成Gemini AI,开启浏览器新时代。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者客观评估了Chrome的三大新功能:持久化Gemini侧边栏(评分7/10),可跨标签感知上下文,减少复制粘贴操作;智能代理自动浏览(评分3/10),目前仍处于初级阶段但有潜力;内置Nano Banana图像编辑功能(评分5/10),无需下载上传即可修改图片。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章穿插介绍了Augment Code的代码审查工具、Auth0 AI代理服务等赞助商信息,以及多个技术更新,包括Tamagui v2 RC、Astro 5.17、Rspress v2.0等发布消息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cool Bits部分涵盖了Simon Willison对Moltbook的分析、GitLab虚拟活动预告、包管理问题的探讨、从Windows切换到Linux的经验分享等技术话题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章以一道JavaScript编程题结束,展示了如何使用零宽连接符将单个emoji组合成家庭emoji,体现了Unicode标准的巧妙应用。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/01/book-review-with-the-end-in-mind-dying-death-and-wisdom-in-an-age-of-denial-by-kathryn-mannix/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: With the End in Mind - Dying, Death and Wisdom in an Age of Denial by Kathryn Mannix ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一本将死亡正常化但略显理想化的实用指南书&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一本关于死亡过程正常化的书籍评论。作者在疫情期间获得推荐但因恐惧推迟阅读。书中不仅探讨死亡问题，还提供实际解决方案和反思问题，涉及安乐死等敏感话题。作者认为内容既感人又真实残酷，但批评其过度理想化死亡场景，将医护人员描绘得过于完美。尽管存在不足，作者仍认为这本书值得一读，能引发对死亡的深入思考，最终给出三星半的评价。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在疫情期间被推荐了这本关于死亡的书，书籍旨在将死亡过程正常化，并提供了大量解决方案而非仅仅指出问题，每章末尾都有关于死亡的自我反思问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中内容既令人心碎又有些骇人，涉及安乐死的现实问题，作者似乎反对安乐死，但提出了反复提供选择是否构成压力的质疑。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为书中对死亡的描绘过于理想化，护士都是天使、医生有无尽耐心，还有关于纪念长椅是厄运预兆的有趣旁白。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这本书可能会在电子书架上闲置很久，但值得打开思考它提出的问题，作者给出三星半评价。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105946&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本月玩什么｜明日方舟：终末地、孤山独影、暴走甜心&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 介绍五款2026年1月新游戏的特色与玩法&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是「本月玩什么」游戏评论栏目,介绍了2026年1月发售的五款游戏。包括《明日方舟:终末地》的开放世界ARPG转型、《孤山独影》的硬核攀岩模拟、《暴走甜心》的Y2K风格FPS、《瘟疫3》的叙事艺术探索,以及《One Turn Kill》的极限卡牌玩法。作者从个人游戏体验出发,详细分析了各作品的核心机制、美学风格和创作理念,为玩家提供了多元化的游戏选择参考,涵盖PS5、Xbox、PC和移动平台。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了《明日方舟:终末地》,这是一款融合ARPG、开放世界、产线搭建等元素的衍生作品,采用免费+抽卡的商业模式,故事发生在外星球塔卫二,玩家扮演失忆的管理员。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《孤山独影》是一款硬核攀岩模拟游戏,玩家需精细控制角色四肢进行攀登,规划路线并管理体力,游戏强调拟真的声音设计和对自由意志的探讨。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《暴走甜心》是一款复古FPS游戏,采用Y2K美学风格,玩家需对抗邪恶采矿公司,游戏以高饱和度粉色、爱心元素和快节奏电子乐营造感官轰炸体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《瘟疫3》是Ice-Pick Lodge工作室的硬核叙事作品,重构了初代的医师路线,玩家在12天内需控制瘟疫传播并寻求真相,新作加入时间穿越和逻辑推理机制。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《One Turn Kill》是一款卡牌构建Roguelike游戏,核心玩法要求玩家必须在第一回合内击败敌人,将TCG中的极限战术扩展为完整游戏体验。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/inside-release-notes-260131&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;具透 Plus：Clawdbot 的成功是桌面系统的成功；如何手动开启 Chrome 中的 Gemini&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Clawdbot的成功源于桌面系统开放性而非AI突破&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章讨论了AI助理工具Clawdbot的本质和局限性。Clawdbot通过桌面系统的开放性获得强大能力,但存在高成本、低稳健性和安全隐患等问题,其成功更多归功于桌面系统而非AI技术突破。作者警告桌面操作系统正在丧失开放性,Windows和macOS都在限制用户权限,如果这一趋势继续,未来AI将变成垄断厂商的专属工具。文章还介绍了Google Chrome集成Gemini的新功能,并提供了突破地区限制的手动开启方法,让中文用户也能体验完整的Gemini浏览器集成功能。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Clawdbot(现名OpenClaw)是一个运行在桌面操作系统上的AI助理工具,通过聊天软件交互并操作系统文件和接口来执行任务。它与Claude Code类似,都采用代理循环机制,但Clawdbot驻留更久、入口更多、功能更广泛。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Clawdbot的核心是网关守护程序,连接聊天频道和AI模型接口,能主动完成定时任务并记录对话内容。但它的文档复杂、安装依赖npm、对普通用户不够友好,实际使用门槛较高。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Clawdbot存在严重的成本、稳健性和安全性问题:每次简单操作都消耗上万token,成功率不稳定,且缺乏权限请求机制导致容易受到攻击。一个周末就可能烧掉数百美元,而实际效果往往不如预期。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Clawdbot的成功本质上是桌面系统开放性的成功,而非AI技术的突破。它能直接访问文件、调用命令行和系统接口,这些能力来自桌面系统而非AI创新,类似产品Manus也曾采用相同模式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;令人担忧的是桌面操作系统正在失去开放性,Windows和macOS都在限制用户自主权和系统权限。如果桌面系统变成像移动系统那样的数据孤岛,未来的AI工具将只能成为垄断厂商的产品,而非用户自主利用数据的工具。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google在Chrome v144稳定版中集成了Gemini,提供侧边栏和弹窗功能,实现了网页上下文获取、跨应用任务执行、图片编辑等能力,甚至具备AI代理功能,但目前仅限美国地区和英语环境。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管Gemini对中文支持良好,但Chrome中的Gemini功能受地区和语言限制。文章提供了macOS和Windows平台通过修改本地配置文件来手动开启该功能的详细命令步骤。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105827&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;用数据分析项目，带你走进成语里的数字世界&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用数据分析揭示成语中数字词的使用规律与文化内涵&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文通过对3万多个四字成语的数据分析,揭示了成语中数字词的使用规律。研究发现8.2%的成语包含数字,「一」的使用频率遥遥领先,整体呈两头高中间低分布。「二」因中华文化崇尚二元论而有多种变体。数字词组合、位置、大小关系和奇偶性都呈现独特规律,如「七八」「九十」固定搭配,数字递增表达更自然,奇数(阳数)使用远多于偶数(阴数)。作者以轻松有趣的方式展示了数据分析如何挖掘语言文化现象,虽无直接实用价值但充满趣味性和文化洞察。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章从一个带数字成语接龙游戏引入,作者分享了游戏技巧:优先想带「一」的成语和「数字字字」格式的词,这个技巧来源于对3万多个成语的详细数据分析。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;数据准备阶段,作者从Modelscope获取了3万多个成语的数据集,提取成语本身和释义两项数据,并将成语中的数字词单独提取,研究重点聚焦在占比95%以上的四字成语。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在定义研究对象时,作者明确要研究的是成语中表达数字含义的词,而非仅看数字词本身,需要剔除「是数字词但不表达数字含义」的情况,同时包括「不是数字词但表达数字含义」的情况。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者发现「二」在成语中有许多变体如「两」「双」「偶」等,这与中华文化高度崇尚二元论有关,古代哲学中处处可见阴阳、乾坤等对立统一的世界观,导致数字2在文化上有大量衍生。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分析结果显示,在29502个四字成语中,2431个带有数字含义,占8.2%,其中「一」的使用频率遥遥领先,约是第二名的3倍,整体呈现两头高中间低的规律,「亿」几乎无人使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;成语中64.1%只包含1个数字词,35%包含2个数字词,数字词组合方面,「一」雨露均沾,「二三四五六」倾向于和相邻数组合,「七八」和「九十」分别是固定搭配,较大偶数有「减半组合」现象。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;数字词位置分析显示,1个数字词的成语中数字多出现在第1或第3个字,2个数字词的成语以1-3型(数字数字)为主导,如「三番五次」模式,无论几号位都是「一」最多。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;数字大小关系方面,2个数字词的成语中数字增大的情况占多数,1-3型接近整体情况,2-4型明显由数字增大主导,如「隔三差五」,递进式表达更加自然。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;奇偶数分析显示,由于「一」的高频使用,仅含奇数的成语占一半以上,奇数(阳数)在文化上更受欢迎,成语中的文化可以只用阳数或阴阳调和,但基本拒绝只用阴数。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表示数据分析技能让他能够满足各种突发奇想,虽然没有直接实用价值但纯粹图一乐呵,希望语言学者和语文老师能从中挖掘出更多数据背后的文化和历史。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
