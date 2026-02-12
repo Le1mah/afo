@@ -4,8 +4,259 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-02-11T20:13:05.842Z</updated>
+  <updated>2026-02-12T20:16:06.784Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - February 12, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-02-12</id>
+    <updated>2026-02-12T20:16:06.784Z</updated>
+    <published>2026-02-12T20:16:06.784Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>14 articles from 8 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - February 12, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;47.12328767123288&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    11.8%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;43&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;322&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;6&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████░░░░░░░░░░░░░░░░░░░░░░░░░░ 11.8%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;14&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22395&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reading Will There Ever Be Another You by Patricia Lockwood.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一条关于阅读Lockwood作品的个人动态记录&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条简短的阅读记录或社交媒体帖子,作者在2026年2月12日下午3点43分记录了自己正在阅读Patricia Lockwood的作品《Will There Ever Be Another You》。帖子包含地理坐标(51°N, 0°E,大致位于伦敦地区)以及购书链接和互动提示。这更像是一条个人阅读动态分享,而非完整文章。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22394&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Morrigan by Kim Curran&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 爱尔兰神话改编小说《The Morrigan》填补市场空白&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇书评介绍了Kim Curran的小说《The Morrigan》,该书改编自爱尔兰神话,填补了爱尔兰古代传说现代改编作品稀缺的空白。作者将其与Madeline Miller的《Circe》进行比较,指出两者在结构上相似,都是以女性神祇视角重述古代史诗。虽然写作水平不及《Circe》,但《The Morrigan》成功捕捉了原始史诗《The Táin》的血腥感,同时融入现代元素,引人入胜。作者表达了对更多爱尔兰神话改编作品的期待,并对作者的新书《Brigid》充满兴趣。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇指出每个文化都有自己的神话传说,虽然希腊神话和亚瑟王传说被多次改编,但爱尔兰古代故事却鲜有人触及,Kim Curran的《The Morrigan》试图填补这一空白。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该书被比作Madeline Miller的《Circe》,虽然写作水平不及后者,但在结构上确实相似,两者都是从神界开始讲述女性角色的故事,最终聚焦于史诗事件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者起初需要时间适应语调,但最终非常享受这个改编,认为它既捕捉到了《The Táin》血腥夸张的感觉,又带有现代气息,读到最后三分之一时完全沉浸其中。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;读完《Circe》后作者曾大量阅读希腊神话的现代改编作品,现在读完《The Morrigan》也想对爱尔兰传说做同样的事,但遗憾的是相关作品太少,作者期待Kim Curran的新书《Brigid》以及更多此类作品的出现。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22393&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;I’ve been using (and enjoying) NetNewsWire for quite a while now… https://adactio.com/journal/350&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用户分享使用NetNewsWire的体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇发布于2026年2月12日的简短社交媒体帖子,作者提到自己一直在使用并享受NetNewsWire这款应用程序。帖子包含了一个指向adactio.com网站的链接,发布时间和地理位置信息,以及在Mastodon和Bluesky平台的交叉发布标记。帖子还显示了一条来自Keri Hēnare的点赞互动,并邀请读者分享他们的回应链接。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Mozilla Hacks – the Web developer blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://hacks.mozilla.org/2026/02/launching-interop-2026/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Launching Interop 2026&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Interop 2026推进跨浏览器兼容性改进&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了跨浏览器兼容性倡议Interop项目的进展,由Apple、Google、Igalia、Microsoft和Mozilla共同推进。Interop 2025整体得分从25提升至95,实现了多项重要功能的跨浏览器支持并改进了现有功能可靠性。Interop 2026从150多个提案中选出20个重点领域和4个调查领域,涵盖Cross-document View Transitions、Scroll-driven animations、WebTransport等新功能,以及现有功能的边缘情况改进。Mozilla作为唯一非亿万富翁所有的浏览器引擎,承诺完成更多工作,致力于通过规范改进、测试完善和浏览器行为统一来减少开发者的兼容性困扰。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Interop项目是一个跨浏览器倡议,旨在改善网络兼容性,成员包括Apple、Google、Igalia、Microsoft和Mozilla,通过提案、测试和Web Platform Tests来跟踪各浏览器的进展。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Interop 2025中Firefox得分从46提升至99,整体Interop得分从25提升至95,使得Same-Document View Transitions、CSS Anchor Positioning、Navigation API等重要功能实现跨浏览器支持,同时改进了WebRTC、CSS Flexbox等现有功能的可靠性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在CSS Anchor Positioning和Navigation API等领域,发现即使通过测试也可能存在浏览器行为不一致的问题,Mozilla通过提交规范问题确保优先解决,最终改善了规范明确性、测试质量和浏览器行为的可靠性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Interop 2026收到超过150个提案,Mozilla结合开发者反馈和调查数据,并首次邀请开发者对提案进行排序,最终确定了20个重点领域(33个提案)和4个调查领域。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新功能包括Cross-document View Transitions、Scroll-driven animations、WebTransport、CSS container style queries、JavaScript Promise Integration for Wasm、CSS attr()扩展、CSS custom highlights、Scoped Custom Element Registries、CSS shape()等,以及accent-color、popover=&amp;quot;hint&amp;quot;等其他特性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;现有功能可靠性改进聚焦于fetch中的Range headers和form data、Navigation API、CSS scroll snap、CSS anchor positioning、Same-document View Transitions、JavaScript top-level await、event loop、WebRTC、CSS user-select和CSS zoom等边缘情况。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Interop 2026的调查领域包括Accessibility(改进测试基础设施以产生一致的可访问性树)、Mobile testing(动态UI导致的视口变化测试)、JPEG XL(完善测试套件)和WebVTT(确保测试套件适用性)。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作为唯一不属于亿万富翁的浏览器引擎,Firefox承诺完成比其他浏览器更多的工作,将与Interop团队成员一起在未来一年交付功能和修复,进展可在Interop dashboard上跟踪,同时JPEG XL等未列入Interop 2026的功能仍在开发中。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/02/book-review-on-the-calculation-of-volume-solvej-balle/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: On the Calculation of Volume - Solvej Balle ★★★★★&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 法国版时间循环小说的震撼阅读体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇书评讲述了作者阅读一本法国小说的独特体验。这本书永远设定在11月18日(作者生日),通过女主人公日记展现时间循环中的困境。小说风格安静沉思,类似《追忆似水年华》般描写日常琐事,但文笔更captivating。故事可从多重角度解读:痴呆症、离婚或环保主义的隐喻。作者深受震撼并给予五星评价,理解其拥有passionate following的原因,但因体验过于intense而犹豫是否继续阅读系列其他作品。这是一部revitalizes时间循环概念的contemplative作品。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了阅读这本书的独特体验,因为书中故事永远发生在11月18日,恰好是作者的生日,这种巧合让阅读过程充满了奇妙的认知冲击。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这本书虽然容易被比作法国版《土拨鼠之日》,但它通过女主人公的日记形式讲述时间循环故事,展现了她被困其中的幽闭感和怨恨情绪,叙事风格安静contemplative。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小说像《追忆似水年华》一样专注于描写平凡日常,但文笔比Proust更引人入胜,女主角试图理解并接受自己的困境,故事节奏从容不迫。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这本书可以从多个角度解读:关于痴呆症(伴侣每天都忘记前一天)、离婚(试图在自己家中隐藏)、或环保主义(试图不在世界留下痕迹)的隐喻。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者被整个阅读旅程所震撼,完全理解为何此书拥有狂热追随者,但因为体验过于强烈,不确定能否继续阅读这个系列的其余六本书,最终给出五星评价。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/02/12/declarative-dialog-menu-invoker-commands/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Declarative Dialog Menu with Invoker Commands&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 使用Invoker Command API和dialog元素实现声明式off-canvas菜单&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了作者使用现代Web标准创建声明式对话框菜单的实践经验。通过Invoker Command API和&amp;lt;dialog&amp;gt;元素,结合最少的JavaScript代码,实现了一个功能完善的off-canvas菜单。文章详细讨论了HTML的声明式实现、针对旧浏览器的polyfill方案、WebKit浏览器的focus-visible bug修复、以及使用CSS transitions和view transitions实现的动画效果。作者强调了现代Web标准的优雅性,同时也指出了在实际应用中需要注意的无障碍性和浏览器兼容性问题,为开发者提供了一个实用且符合标准的菜单实现方案。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了自己在off-canvas菜单(汉堡菜单)开发方面的历程,从2013年为Smashing Magazine撰写技术文章,到后来探索&amp;lt;dialog&amp;gt;元素和Popover API的应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通常推荐客户使用简单的、始终可见的flex-box链接列表,并认为良好的设计应该让用户无需触碰主菜单就能完成主要任务,但承认汉堡菜单已成为主流UI。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在本月重新设计网站时,决定在所有断点使用off-canvas菜单,虽然这是个艰难的决定,为了缓解焦虑,他添加了醒目的&amp;#039;Menu&amp;#039;文字而非单纯图标。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;HTML实现使用了声明式的Invoker Command API,按钮和对话框代码非常简洁,通过commandfor和command属性实现交互,提供了开箱即用的焦点管理等功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于Invoker commands是新特性,需要为旧浏览器提供JavaScript polyfill,作者提供了基础版本的实现代码来覆盖特定用例。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;WebKit浏览器在处理showModal或invoker commands时存在focus-visible样式bug,作者通过检测指针事件和重新应用焦点的方式提供了修复方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;原生dialog元素支持ESC键关闭,但点击背景关闭需要使用closedby=&amp;#039;any&amp;#039;属性;作者的菜单结合了CSS transitions和cross-document view transitions实现动画效果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CSS实现包括透明度渐变、@starting-style规则和view-transition-name等,建议将动画效果包裹在prefers-reduced-motion媒体查询中以提升无障碍性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.web.nhk/tv/pl/series-tep-RYWNP9GZQ5&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【2/23（月・祝）午後4：00～】「神ゲー創造主エボリューションへの道」【午後11：35～】「神ゲー創造主エボリューション2025」に松山洋出演のお知らせ&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 NHK游戏创新竞赛节目发掘革新游戏&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《神ゲー创造主Evolution》是NHK推出的一档创新游戏开发竞赛节目。该节目利用现代游戏开发工具的进步,为业余开发者提供平台,通过长达半年以上的比赛过程,支持和发掘最具革新性的游戏创意。节目记录决赛现场,见证最具创新性游戏的诞生时刻。2025年版将于2月23日播出,体现了节目对推动游戏产业创新和支持独立游戏开发者的持续承诺。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/nbf25a2453746&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;人生のターニングポイント&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 偶然の出会いが人生を変えた26年間の成長物語&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツー取締役の西川裕貴が、会社設立30周年を機に自身の入社までの道のりを回想した記事。1996年当時高校生だった西川は、ゲーム制作に情熱を持ちながらも業界への就職に苦戦していた。専門学校時代に偶然参加した会社説明会で創業者の松山洋と出会い、強い衝撃を受けたことが人生のターニングポイントとなった。その後の努力により2000年にアルバイトとして入社し、26年間で会社とともに大きく成長。今後も「好き」と「情熱」を込めたエンターテインメントを世界に発信し続けると決意を述べている。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー取締役の西川裕貴が、2026年に会社設立30周年を迎えることを紹介し、1996年の設立から現在までの主要な会社の歴史的節目を振り返った。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;1996年当時高校生だった西川は、大分県でRPGツクールでゲーム制作に没頭していたが、ゲーム業界への就職方法については不明確だった。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;福岡の専門学校進学後、プロになる難しさを実感し、多数のゲーム会社に作品を送ったが全て一次審査で不合格となり、絶望していた。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;専門学校の掲示板で偶然サイバーコネクトの会社説明会を見つけ、松山洋との運命的な出会いが西川の人生を大きく変えるきっかけとなった。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;その後必死に自己研鑽を続け、倍率の高い新プロジェクト(.hack//)の開発スタッフ募集にアルバイトとして滑り込み入社に成功した。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;入社から26年が経過し、多くの開発経験を通じて会社とともに成長できたことに感謝し、あの日の出会いが人生のターニングポイントだったと振り返る。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;今後も成長を続け、サイバーコネクトツーの「好き」と「情熱」を込めたエンターテインメントを世界中に発信していくと決意を表明した。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106284&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;春节长途旅行，这 6 款耐玩小游戏先备好&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 推荐6款无需联网的耐玩小游戏助你度过春节长途旅行&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文推荐6款适合春节长途旅行的小游戏,均无需联网且可重复性高。包括德州扑克Roguelike游戏Balatro、策略游戏Reigns王权、建造类Mini Metro和Shapez异形工厂、生存冒险类60 Seconds!避难所,以及沙盘建造游戏Townscaper。这些游戏涵盖不同类型,从烧脑策略到休闲创造,能满足不同玩家在旅途中打发时间的需求,帮助度过信号不佳的漫长旅程。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;春节长途旅行中会遇到信号黑洞,除了缓存影片音乐外,准备一些无需联网、可重复性高、有移动或Switch版本的游戏是打发时间的好选择。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Balatro小丑牌是2024年独立游戏黑马,结合德州扑克与Roguelike玩法,玩家通过组合小丑牌和升级牌组来达成分数要求,规则简单但可重复性几乎无限。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Reigns王权是一款策略游戏,玩家扮演国王处理随机事件,平衡宗教、民生、军事、财政四个领域,任一归零则统治结束,游戏有多个时代与IP版本可选。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mini Metro模拟地铁要求玩家根据现实城市的站点与人流设计地铁线路,需要不断调整策略平衡运力,游戏已有数十张官方地图,桌面版支持社区地图。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Shapez异形工厂是模拟流水线游戏,玩家需要切割、拼装、上色原料块组成要求形状,优化产线设计提高生产效率,游戏已推出3D版二代。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;60 Seconds!避难所生存要求玩家在60秒内搜集物资和家人进入地下室,在核爆后做决定影响剧情走向,2019年推出重制版增加更多事件和挑战。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Townscaper筑梦水乡是无目标的岛屿建造模拟器,玩家可以随意创建建筑和小镇,游戏会自动调整建筑设计并生成花园等元素,适合放松和激发灵感。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106202&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;iOS 26.3 值得关注的新特性&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iOS 26.3聚焦合规与跨平台互操作&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;iOS 26.3是一次以合规与互操作性为主的中小版本更新。主要新增了iPhone无线传输数据至Android手机的功能,为符合欧盟DMA法案开放了第三方可穿戴设备通知转发和蓝牙耳机近距配对能力,并更新了锁屏壁纸模块。Apple Intelligence暂无明显进展,备受期待的新版Siri因内部测试受挫继续推迟,部分功能可能延至iOS 26.5甚至iOS 27。此次更新主要面向特定地区合规需求,对大多数用户影响有限,但体现了科技巨头适应地区法律的趋势。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iOS 26.3正式版发布时间恰逢Apple财报发布后一周多,有趣的是Apple因AI进展缓慢股价承压,却在市场对AI投入产出产生怀疑时逆势上涨,Apple Intelligence的落后反而成为某种优势&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iOS 26.3更像是中小迭代更新,主要聚焦跨平台迁移、区域合规和隐私控制,Apple Intelligence暂无明显新增能力&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iPhone现在支持无线传输数据至Android手机,用户可通过设置中的传输功能扫描二维码实现iPhone与Pixel等Android设备的无线数据迁移&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为符合欧盟DMA数字市场法案,iOS 26.3新增通知转发功能允许第三方可穿戴设备获取iPhone通知,第三方蓝牙耳机也支持类似AirPods的近距配对&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新版本将锁屏壁纸中的天气模块独立出来提供3款主题,天文模块包含6款主题,RCS端到端加密和限制精确位置功能也在推进中&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iOS 26.3更新主要面向特定地区的合规需求,对大多数用户影响有限,但预示着未来会有更多地区倒逼科技巨头适应当地法律&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple与Google就AI合作的传闻不断,Gemini可能成为Siri的AI合作伙伴,但新版Siri因内部测试受挫部分功能将推迟至iOS 26.5甚至iOS 27,Apple Intelligence仍是Apple需要面对的重头戏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105331&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;普通人更要多动手：聊聊我把 Claude Code 变成个人助手后的那些事&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 非程序员用Claude Code实现vibe coding的实战指南&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文分享了作者作为非程序员通过Claude Code和vibe coding方式构建AI助手的完整经验。文章首先强调了demo在传达想法和建立信任中的重要价值,然后详细介绍了vibe coding的六大核心技巧,包括参考现有项目、持续提问学习、渐进式开发、模块化编码、架构思考和善用工具。作者通过实际案例展示了从想法到产品的完整工作流,包括问题定义、架构设计、模块实现和错误处理,特别强调了产品思维比代码能力更重要,AI只能解决技术实现,而产品定义和决策需要人来完成。最后鼓励普通人通过边做边学的方式掌握AI编程,认为这是最高效的学习路径。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍自己作为非程序员,通过Claude Code和Claude Agent SDK在一个下午内构建了个人AI助手,实现了24/7数据分析、文件处理等功能,全程无需编写代码,只需构思和交流。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者强调demo的重要性,认为demo是传达想法最有效的媒介,并分享了通过demo获得产品经理职位的经历。Demo能够外化思想、建立信任,且在AI时代成本极低。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了vibe coding的六大核心技巧:1)学习参考已有项目而非从零创造;2)通过持续提问逐步探索学习;3)渐进式开发理清依赖关系;4)编写模块化代码;5)先进行架构思考;6)充分利用Claude Code和Agent SDK。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;分享了从想法到产品的完整工作流程,包括问题定义、架构思考、逐模块实现、错误处理等步骤,并详细说明了三个实际遇到的坑:URL拼接错误、Markdown格式问题、目录不存在问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;强调产品思维的重要性,通过存储配额系统、长消息处理、安全设计三个实际案例说明AI只能解决&amp;#039;怎么做&amp;#039;,而&amp;#039;做什么&amp;#039;和&amp;#039;为什么&amp;#039;需要人来思考和决策。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;鼓励读者立即开始使用Claude Code等工具,不仅用于编程,还可用于个人生产力提升、知识管理、自动化操作等场景。分享了多个学习资源和替代工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;阐述普通人应该多用vibe coding的原因:边干边学是最高效的学习方式,有明确动力和即时反馈,相比传统学习路径需要数年,vibe coding只需几天就能做出可用产品。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106310&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Apple 将举办五十周年庆、VSCO 上架 Lr 预设等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报：Apple备战五十周年、VSCO预设回归等&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派科技早报，涵盖四条主要科技新闻：Apple将为2026年五十周年举办庆祝活动；VSCO限时重新上架Lightroom预设包Film 02；WhatsApp网页版测试语音视频通话功能，补全重要短板；CrossOver 26版本发布，改善Mac运行Windows游戏性能。此外还介绍了少数派平台近期的征文活动、新片上线和品牌联名项目等动态，以及推荐的精选文章。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple CEO库克在员工会议上宣布将为2026年4月1日的公司五十周年准备庆祝活动，团队正在回顾公司档案、照片和重要人物，但强调Apple文化仍以面向未来为主。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;VSCO宣布限时重新上架面向Adobe Lightroom的Film 02预设包，仅对Pro付费用户开放，支持多款Lightroom软件，由原作者更新以支持现代相机。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;WhatsApp网页版正在测试并推送语音与视频通话功能，用户可在浏览器内直接通话，支持端到端加密和屏幕共享，对Linux等缺少原生应用的环境特别有用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CrossOver发布26版本更新，集成Wine 11和多个图形组件，改善Windows游戏在Mac上的兼容性，促销价54.76美元，2月17日后涨至74美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派近期动态包括年度征文活动、新片《寻源南疆》上线、飞傲联名设计大赛、神经病应用盘点以及与Sonos等品牌的联合项目。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;JS正则表达式y标识符之粘性匹配&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 深入解析JS正则sticky粘性匹配特性及应用场景&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了JavaScript正则表达式的sticky粘性标识符(y)特性。作者从基础概念入手,详细讲解了粘性匹配必须配合lastIndex使用的特点,并通过代码示例说明匹配成功后lastIndex自动更新、失败则重置为0的机制。文章重点阐述了粘性匹配的三大应用场景:解析具有规律结构的复杂字符串(如CSS声明块)、在已知目标位置时实现极致性能优化、模拟锚点匹配。最后补充了sticky属性判断和exec()/test()方法的细节差异,为开发者提供了实用的正则表达式进阶知识。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在学习JavaScript高级语言设计时掌握了正则表达式基础,最近发现正则表达式支持sticky粘性标识(y标识符),该特性已存在五六年,决定趁春节前学习。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了粘性匹配标识符y及其他常见标识符(全局g、不区分大小写i、多行m),强调粘性匹配必须指定lastIndex属性,通过示例展示了lastIndex在匹配成功后会自动定位到匹配字符结尾,匹配失败则重置为0。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;粘性匹配适用于具有规律结构的复杂字符串解析场景,如Token解析、词法分析器构建等,通过CSS声明块解析示例展示了实际应用,同时指出在已知目标位置的场景下,sticky模式相比全局模式具有显著性能优势,避免无谓的全量扫描。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;补充了RegExp.prototype.sticky属性用于判断正则是否为粘性匹配,提到exec()和test()方法在处理同时具有粘性和全局特性的正则时存在行为差异,最后表示春节后再见。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/02/glm-5.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 GLM-5 benchmarked against Opus 4.6 and GPT-5.3-Codex, excelling in backend engineering and autonomous tasks but trailing in frontend aesthetics.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;# Summary
+
+Zhipu&amp;#039;s flagship GLM-5 model was benchmarked against Claude Opus 4.6 and GPT-5.3-Codex across multiple real-world programming tasks, including web redesign, 3D simulation, game development, and framework migration. GLM-5 excelled in backend engineering and long-running agentic tasks, completing a PHP-to-Next.js conversion in 5 minutes (vs. 20 for Opus) with zero errors, though it lagged slightly behind Opus 4.6 in frontend aesthetics and game development polish. Opus 4.6 delivered the best visual quality and game recreation, while GPT-5.3-Codex showed notable weaknesses, failing to produce a functional game clone and exhibiting inferior design. Overall, GLM-5 successfully positions itself as a competitive open-source alternative to top closed-source models, with particular strengths in complex system engineering, self-reflective debugging, and multi-hour autonomous task execution while maintaining context coherence.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Model Release Context:&lt;/strong&gt; GLM-5 was released by Zhipu as their flagship model less than two months after GLM-4.7, competing directly with newly released Claude Opus 4.6 and GPT-5.3-Codex. The author conducted comparative testing across all three models using real programming tasks to evaluate their coding capabilities.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;GLM-5 Core Capabilities:&lt;/strong&gt; GLM-5 is an open-source model designed to match top closed-source models, with special emphasis on complex system engineering and long-running agent tasks. It excels at backend tasks, system refactoring, debugging with self-reflection mechanisms, and can autonomously handle multi-stage tasks lasting several hours while maintaining context coherence.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Web Design Test:&lt;/strong&gt; All three models successfully redesigned a basic webpage into professional, visually appealing versions with responsive design. GLM-5 and Opus 4.6 performed best with clean, organized layouts and animations, while GPT-5.3 had minor issues with sticky headers and inferior design aesthetics.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;3D Sandbox Animation:&lt;/strong&gt; Models generated interactive 3D solar system simulations with adjustable parameters and celestial body management. Opus 4.6 delivered the best visual effects with gravity grid lines, GLM-5 ranked second with excellent control panels but missing grid lines, while GPT-5.3 had cluttered visuals and simpler controls.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Web Game Development:&lt;/strong&gt; Creating an &amp;quot;Angry Birds&amp;quot; clone revealed clear performance differences: Opus 4.6 produced the most authentic recreation with good gameplay, GLM-5 created a playable but less polished version, and GPT-5.3 failed to deliver a functional game. This test clearly favored Opus 4.6.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Laravel to Next.js:&lt;/strong&gt; GLM-5 completed the PHP Laravel to JavaScript Next.js conversion smoothly in 5 minutes with automatic dependency installation and zero errors. While Opus 4.6 and GPT-5.3 achieved identical functional results, GLM-5 offered superior user experience with faster completion time (5 minutes vs 20 minutes for Opus) and seamless execution.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Overall Performance Assessment:&lt;/strong&gt; GLM-5 demonstrated competitive coding capabilities comparable to leading international flagship models, excelling in system logic, backend reliability, and long-running tasks up to 2 hours. The model successfully positions itself as an open-source alternative to Opus 4.6 and GPT-5.3, with particular strengths in complex system engineering and agentic depth over frontend aesthetics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - February 11, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1820,111 +2071,6 @@ A new game project is scheduled for a YouTube premiere release on February 16, 2
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw技能库出现超230个恶意技能,主要针对加密货币交易者,通过伪装成自动化工具窃取API令牌、钱包私钥等敏感信息。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;ROG与HIFIMAN合作推出Kithara臻世游戏耳机,采用100mm平板振膜发声单元和开放式设计,首发价1999元。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;腾讯QQ经典农场将于2月6日回归,萝卜快跑登陆青岛,Apple考虑转移部分芯片生产,Google推出Desktop Camera应用等行业动态。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - February 1, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-02-01</id>
-    <updated>2026-02-01T20:06:34.205Z</updated>
-    <published>2026-02-01T20:06:34.205Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>3 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - February 1, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;35.06849315068493&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    8.8%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;32&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;333&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;4&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8.8%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;3&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22381&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Carlingford&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一条包含位置信息和社交互动的简短博客帖子&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇社交媒体类型的简短帖子,发布于2026年2月1日,来自爱尔兰Carlingford地区。内容主要记录了帖子的元数据信息,包括发布时间、地理位置(北纬54度,东经6度)以及在Mastodon和Bluesky等平台的同步发布。帖子展示了5个点赞记录,分别来自Daniel Prindii、Cyryl Szmit、Stuart Frisby、zeldman和Alan Dalton,并在结尾邀请读者分享回应链接。这是一个典型的个人博客或社交网络互动帖子。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/02/vanguard-the-government-project-to-get-british-businesses-to-use-the-internet/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Vanguard - The Government Project to get British Businesses to use the Internet&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 英国政府1980年代推广EDI技术的Vanguard项目历史回顾&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文回顾了1980年代英国Vanguard项目推广EDI(电子数据交换)的历史。当时电子邮件并非明显商业优势,因为传统信件成本低廉而计算机终端昂贵。1986年英国贸易和工业部联合BT、IBM等机构启动Vanguard项目,在10个行业推广EDI技术。然而1989年调查显示,企业采用面临挑战,管理层不熟悉技术且推卸责任。作者指出,根据Metcalfe定律,政府有责任引导这类网络技术项目,因为单个企业加入空网络无价值,但随着更多参与者加入,整体效益会增加,最终使国家、企业和公民受益。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;20世纪80年代早期,电子邮件并非明显的商业优势,因为寄信成本低廉(次日送达仅需17便士),而单个计算机终端却要3000英镑,相当于发送8000多封信的成本。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;1986年英国电信制作了《通讯计划》视频杂志,其中包含英国贸易和工业部关于Vanguard项目的广告,该项目由DTI、BT、IBM等机构联合运营,旨在推广EDI及其在英国的潜力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;EDI(电子数据交换)是一种无需打印和重新输入即可在合作企业间传输数据的方式,需要标准协议的支持,Vanguard项目在建筑、教育用品和批发食品分销等10个行业推广这项服务。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;1989年的调查报告指出,英国企业采用EDI面临挑战,Harvey-Jones爵士认为大多数公司管理者年龄较大、不熟悉技术可能性,难以想象如何通过EDI重组业务并释放成本和能源优势。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;报告批评EDI狂热者不会向管理层&amp;#039;推销&amp;#039;其好处,而管理层则认为EDI是技术问题而推卸责任,强调理解EDI并向管理层沟通的重要性,以及管理层承担责任的必要性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;政府为Vanguard项目授予了多个培训合同,到1990年代电子邮件和电子订购已成为业务常态,尽管各种原型互联网协议仍在使用但正在被快速替代。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;1991年的论文质疑撒切尔这样的非干预主义政府为何直接参与市场开发并与私营企业合作,Metcalfe定律表明网络价值随连接用户增加而增长,政府有责任引导此类技术项目以使国家、公民和企业受益。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105948&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Apple 新春大片如期而至，今年的故事有点不一样&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple新春大片用定格动画讲述治愈故事&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Apple推出第九支iPhone新春大片《碰见你》,由导演白雪执导、黄尧主演,讲述怯于拒绝他人的林微帮同事喂宠物时遇到迷路小狗,在寻家旅程中找到情感共鸣并学会勇敢说不的温情故事。影片创新采用粘土定格动画展现心理活动,摄影指导高伟喆充分利用iPhone 17 Pro的4K 120fps慢动作、8倍光学变焦和Apple Log 2色彩空间等专业功能,以人与动物的情感纽带探讨「家」的多重意义,并提供口述影像版本实现无障碍观影。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple发布第九支iPhone新春大片《碰见你》,由《过春天》导演白雪执导,黄尧主演,讲述缺乏主见的林微在帮同事喂宠物时遇到迷路小狗的故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;林微被小狗带上寻家之路,在同事家遭遇意外后情绪崩溃,却被小狗安慰,得知小狗被遗弃后找到情感共鸣,最终勇敢拒绝同事无理要求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;影片采用粘土定格动画形式展现主角心理活动,通过虚实切换增强情感表达,白雪与国外团队合作实现现实与动画的完美衔接。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;摄影指导高伟喆利用iPhone的轻巧便携性拍摄低机位画面,使用iPhone 17 Pro的4K 120fps慢动作和8倍光学变焦功能增强情感冲击力和画面想象力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;iPhone 17 Pro的Apple Log 2色彩空间让团队设计专属LUT效果,四只小狗共同完成主角小白的拍摄,各司所长呈现精彩画面。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;影片通过人与动物的情感纽带探讨「家」的多重意义,是第三部带有口述影像版本的新春大片,为视障用户提供无障碍观影体验。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
