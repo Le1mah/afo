@@ -4,8 +4,263 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-02-12T20:16:06.784Z</updated>
+  <updated>2026-02-13T20:20:18.515Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - February 13, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-02-13</id>
+    <updated>2026-02-13T20:20:18.515Z</updated>
+    <published>2026-02-13T20:20:18.515Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>17 articles from 8 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - February 13, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;48.21917808219178&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    12.1%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;44&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;321&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;6&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████░░░░░░░░░░░░░░░░░░░░░░░░░░ 12.1%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;17&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用同理心框架设计心理健康产品建立信任&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文提出了心理健康产品的以同理心为中心的UX设计框架,强调在为脆弱用户设计时,情感状态是产品运行的核心环境而非次要因素。框架包含三大支柱:将引导流程设计为支持性对话而非功能清单,采用验证性语言和渐进式信息收集;针对认知能力受限的用户设计低刺激界面,使用温和配色、简洁布局和可选个性化元素创造安全空间;建立加深信任的留存模式。通过Teeni、Bear Room和Food for Mood等实际案例,作者展示了如何将同理心原则转化为可操作的设计工具,创造既人性化又高效的心理健康体验,在每个接触点优先考虑信任、情感安全和真实需求。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇通过一个焦虑用户打开心理健康应用却遭遇糟糕设计体验的场景,强调了在心理健康产品设计中,用户的情绪状态不是次要因素而是产品运行的核心环境,以同理心为中心的用户体验设计成为基本要求而非锦上添花。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了基于三大支柱构建的实用框架:将引导流程设计为支持性的首次对话、为处于困境中的大脑设计界面、以及建立加深信任而非施压的留存模式,这些支柱共同创造优先考虑信任、情感安全和真实用户需求的体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在青少年家长应用Teeni的案例中,引导流程通过城市夜景隐喻和可选的同伴故事提供早期情感认可和缓解,采用渐进式信息收集策略只获取必要数据,并使用验证性语言将功能性流程转化为情感连接。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对焦虑或抑郁用户认知能力下降的特点,作者提倡采用低刺激、熟悉安全的视觉语言来最小化认知负荷,以WCAG 2.2为基础,在Bear Room应用中通过温暖的配色、无刺激动画和可选个性化物品创造数字安全空间。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Food for Mood应用使用彩色气泡视觉隐喻代表目标和情绪状态,让用户能够将复杂情感外化和可视化,避免了寻找合适词汇的认知负担,这种界面直接使用情感语言进行交流,在非正式测试中获得更高的参与度和积极情感评分。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-275/viewer?title_no=853933&amp;episode_no=289&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 275&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画DOGHAUS第275集页面&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是WEBTOON平台上名为DOGHAUS的网络漫画系列第275集的页面内容。页面主要包含该漫画系列从第1集到第275集的完整章节列表,以及多个特别公告和Sunday Strip特辑。页面还包含了WEBTOON平台的标准功能界面,如订阅、分享、举报等社交互动选项,并在底部展示了科幻类别的其他推荐作品排行榜。作者为Moowsie,该系列被标记为成人向内容,在CANVAS自出版平台上发布。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-2-12/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.2.12&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 美国修车经历凸显服务业效率低下与自我维权的重要性&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者记录了在湾区生活中遇到的汽车维修困扰。更换Expedition雨刮器时意外损坏部件,而Cayman的维修进度一再延迟,修车厂效率低下且服务流程繁琐。这些经历让作者深刻体会到在美国拥有第二辆车的必要性,五十天来Expedition为其节省了大量租车费用。通过与保险、修车厂、律师等服务业人员打交道,作者发现美国服务业普遍存在敷衍态度,需要自己主动维护权益。偶然收到的传教纸条引发其思考,作为无神论者虽然与传教士难以沟通,但相比之下日常的服务纠纷还不算太困扰。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因湾区下雨需要更换老化的雨刮器,在更换过程中不慎弄断了Expedition的雨刮臂卡扣,临时用塑料片修补后又订购了便宜的通用雨刮臂,感叹Expedition维修成本比Cayman低得多。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cayman在修车厂做四轮定位作为维修最后步骤,但时间不断推迟,修车厂无法自行完成四轮定位需转给dealer,涉及保险补充账单等复杂流程,作者对修车厂效率和服务态度感到失望,预计周五也无法取车。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者庆幸五十天前购买了Expedition作为第二辆车,避免了数千美元的租车费用,回顾当初急于购买第二辆车的焦虑心情,认为这是最正确的决定,父母也逐渐理解其必要性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对比国内外修车效率差异,感叹美国修车周期长且服务人员不上心,在与保险、修车厂、移民律师等服务业打交道时发现他们工作态度敷衍,小问题需反复提醒才纠正,认识到只有自己才能真正保护自身利益。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在路上收到教会传教纸条后陷入思考,作为无神论者觉得与传教士沟通比与服务业人员沟通更加困难,但对比之下与修车厂、律师、保险公司的争执虽然麻烦却不涉及存在主义层面的根本分歧。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-02-13.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: February 13&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 探讨LLM对软件开发角色、工作流程和可持续性的深远影响&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Martin Fowler在参加技术峰会期间分享的关于LLM对软件开发影响的思考片段。文章讨论了资深开发者转向架构角色、中级开发者面临的挑战、认知债务概念、开发者体验与AI代理体验的重合、IDE与LLM的整合、团队规模演变、以及supervisory programming带来的工作负荷和上下文切换问题。作者采用片段式写作风格,引用多位业内人士观点,探讨了LLM时代程序员角色转变、工作流程优化以及可持续性挑战等关键议题。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者Martin Fowler在参加湾区客户会议和The Pragmatic Summit期间,分享了Thoughtworks未来软件开发研讨会的更多思考片段。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;随着LLM的普及,资深开发者将更多专注于架构问题而非编码细节,管理LLM代理类似于管理初级开发者,实践经验对判断LLM价值至关重要。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;相比初级开发者,中级开发者面临最大挑战,因为他们缺乏LLM时代的经验积累;LLM可以作为初级开发者的随时可用导师。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Margaret-Anne Storey提出认知债务问题,类似于技术债务,团队因缺乏对系统设计决策的理解而陷入困境,需要在支付利息和偿还本金之间权衡。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;改善开发者体验(DevEx)的措施同样能提高LLM的工作效率,良好的模块化和命名对LLM和人类都有益,但管理层为机器人做的努力超过为人类做的。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;IDE需要整合LLM功能,在适当场景使用LLM或确定性方法,通过编排IDE特性来优化工作流程,如利用重构功能处理批量重命名。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;团队规模可能保持two-pizza团队不变但产出更多,pair programming可能演变为两个人类驱动多个LLM代理的协作模式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;哈佛商业评论研究显示,员工采用生成式AI后工作节奏加快、任务范围扩大、工作时间延长,但可能导致工作量悄然增长、认知疲劳和倦怠。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Camille Fournier指出,驱动多个AI代理类似于管理者工作,会带来上下文切换和同时处理多任务的心理疲劳,supervisory programming的有效工作流程仍需探索。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/02/gadget-review-topdon-ts004-thermal-monocular/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Gadget Review: Topdon TS004 Thermal Monocular ★★★★⯪&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 评测Topdon热成像单目镜用于野生动物观察&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者评测了Topdon TS004热成像单目镜,这是一款专为野生动物观察设计的设备。硬件方面做工扎实,配备256x192热成像传感器(放大至640x480),视频流畅度达42 FPS,内置30GB存储和AI识别功能。支持Linux系统文件传输,配套安卓应用可WiFi连接实现远程查看和拍摄。主要缺点包括照片无EXIF数据、UI烧录在图像中、测距仪仅支持码制、时间固定香港时区以及缺少GPS功能。售价近400英镑,虽有不足但整体表现优秀,适合野生动物爱好者使用,综合评分四星半。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了对热成像相机的喜爱,并开始评测Topdon公司的TS004热成像单目镜,这是一款专为野生动物观察设计的设备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;硬件方面,设备手感厚重扎实,橡胶眼罩密封性好,屏幕易于聚焦,配有对焦旋钮、镜头盖、挂绳和USB-C接口等配件,按键布局合理反应灵敏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;照片质量受限于256x192的热成像分辨率(放大至640x480),用户界面会被烧录到照片中,内置AI可识别野生动物种类,在识别人类和狐狸时表现准确。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;视频为640x480分辨率,42.187 FPS,码率2,162 Kbps,每分钟约20MB,设备有30GB存储空间,无音频,UI同样烧录在视频中,视频展示了在伦敦拍摄狐狸和鹦鹉的流畅画面。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Linux系统下显示为音频设备,可作为标准USB驱动器复制文件,100%兼容,但不能用作网络摄像头,复杂功能需使用官方应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;TopInfrared安卓应用通过WiFi连接相机,可实时流式传输画面并保存照片视频到手机,但无法通过应用设置所有选项,必须使用应用设置时间日期和固件更新,不需要时可关闭WiFi省电。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;设备存在一些不足:照片无EXIF数据和热数据导出功能,UI烧录到照片视频中,测距仪仅支持码制(3月固件将支持单位切换),时间戳固定为香港时间UTC+8,AI识别对英国野生动物调校不足,且无GPS功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;价格接近400英镑(使用代码TERENCE15可享15%折扣至2026年2月16日),虽然热成像设备价格高昂且形态小众,但该设备易用、范围广、橡胶眼罩舒适、电池续航出色、存储空间充足,尽管有小缺陷但仍是探索自然环境的优秀工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(6 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://youtu.be/UcjZq9RWAH8&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【2/16（月）20:09～YouTubeプレミア公開】NEW GAME PROJECT YouTubeページを公開いたしました。&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 YouTube网站页脚导航与版权信息&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是YouTube网站的标准页脚信息,包含各种链接和版权声明。内容涵盖关于YouTube、版权信息、联系方式、创作者资源、广告服务、开发者工具、服务条款、隐私政策、安全政策、YouTube运作机制说明以及NFL Sunday Ticket等链接。这是一个功能性导航页面,提供用户访问YouTube各项服务和政策文档的入口,同时声明2026年Google LLC版权所有。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://x.com/ChaserGameW2026/status/2022113495169278058&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;映画『チェイサーゲームW 水魚の交わり』3/28（土）開催 完成報告プレミアムイベントのオフィシャルグッズが販売開始！イベントを彩るペンライトやTシャツ、アクリルブロックなどがラインナップ&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网站错误提示,建议禁用隐私扩展后重试&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条错误提示信息,告知用户在x.com网站上遇到了问题。提示建议用户重新尝试,并指出某些与隐私相关的浏览器扩展程序可能导致网站功能异常。建议用户禁用这些扩展程序后再次尝试访问。这是一个标准的技术故障排除提示,旨在帮助用户解决访问问题。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://x.com/ChaserGameW2026/status/2022113503293648977&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;映画『チェイサーゲームW 水魚の交わり』ムビチケ販売開始！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 x.com提示禁用隐私扩展后重试&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条错误提示信息,告知用户在x.com网站上遇到了问题。提示建议用户重新尝试,并指出某些与隐私相关的浏览器扩展可能会导致网站功能异常。建议用户禁用这些扩展程序后再次尝试访问。这是一个典型的网站技术支持提示,旨在帮助用户解决访问障碍。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://x.com/ChaserGameW2026/status/2022113494020346262&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;映画『チェイサーゲームW 水魚の交わり』第3弾ビジュアル解禁！「愛がややこしい」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网站错误提示,建议禁用隐私扩展后重试&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一个错误提示页面,告知用户当前操作出现问题。页面建议用户重试,并特别指出某些与隐私相关的浏览器扩展可能会在x.com网站上引起问题,建议用户禁用这些扩展后再次尝试访问。这是一个典型的网站技术故障提示信息,旨在帮助用户解决访问问题。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://game.kimetsu.com/hinokami2/news/?id=69597&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『鬼滅の刃 ヒノカミ血風譚2』バトルバランス調整について&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《鬼灭之刃2》发布角色平衡调整更新&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《鬼灭之刃 火之神血风谭2》官方发布了2026年2月13日Ver.1.50版本更新的战斗平衡调整公告。更新内容主要涉及游戏中各角色的平衡性调整,官方提醒玩家需要应用最新补丁才能体验调整后的内容。公告感谢玩家对游戏的支持,并希望玩家继续关注游戏。这是一则标准的游戏版本更新通知,旨在告知玩家最新的游戏平衡性改动。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n61e1bd7267ea&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;第30期から第31期へ！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 サイバーコネクトツー第31期開始と今後の大型プロジェクト発表&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーが第30期から第31期への移行を迎え、設立30周年記念として全社員に3万円の大入袋を配布した。第31期には映画『チェイサーゲームW 水魚の交わり』の公開や新ゲームプロジェクトの発表など、重要なイベントが予定されている。筆者は総務課のよしみつで、全社会議の様子や今後の展望を紹介しつつ、個人的に連載していた愛犬コーナーの終了を報告し、読者への感謝を表明した。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーでは2月1日から第31期が始まり、その前に福岡・東京・大阪の全社員が集まる全社会議が開催された。設立30周年を記念して全員に3万円の大入袋が手渡された。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第31期には大きなプロジェクトが控えており、2026年5月15日に映画『チェイサーゲームW 水魚の交わり』が公開され、ムビチケの販売も開始された。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年2月16日20時09分に新ゲームプロジェクトが発表される予定で、第31期は盛りだくさんの内容となっている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;筆者の愛犬を紹介する「うちのわんわん」コーナーが今回で最終回となり、これまでの思い出とともに感謝の言葉が述べられた。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 好色龍的網路生活觀察日誌 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://hornydragon.blogspot.com/feeds/3164943619575998632/comments/default&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;雜七雜八短篇漫畫翻譯2235&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博客评论区关于屠龙勇士漫画的幽默讨论&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇博客文章的评论区内容,共有5条评论。评论者们围绕一个关于屠龙勇士与龙娘的漫画翻译展开讨论,涉及巴哈姆特吉祥物龙娘的起源、体格差异等话题。评论中包含了一些幽默的双关语,如&amp;quot;Slay the dragon, not Lay the dragon&amp;quot;,以及对漫画情节和角色设定的调侃。整体氛围轻松诙谐,显示出网络社群的互动特点。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106352&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 8 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派编辑部推荐本周8部优质影视作品及最新预告资讯&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部推出的一期影视推荐专栏,系统介绍了近期值得观看的8部优质作品,涵盖国产古装剧、动作电影、英美剧集、日本动画及韩国真人秀等多种类型。文章对每部作品的剧情、制作特点、看点进行了精炼点评,并附上观看渠道和豆瓣链接。此外还汇总了《来自深渊》《海贼王》等热门IP的最新预告信息,以及多部影片的内地定档消息。作为春节特别企划,文章中隐藏了红包封面彩蛋,并设置互动环节增强读者参与感,体现了少数派一贯的精品内容策划风格。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了本周值得观看的8部影视作品,包括国产剧《太平年》、电影《东北警察故事3》、英剧《蝇王》、美剧《林肯律师第四季》、动画《地狱乐第二季》、《金牌得主第二季》、《名侦探光之美少女》以及真人秀《四个愿望》。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《太平年》以五代十国为背景,讲述吴越国末代君王钱弘俶在乱世中坚持保境安民、纳土归宋的历史故事,服化精致且叙事有质感。《东北警察故事3》延续系列风格,讲述李红旗在海南调查儿童拐卖案,动作戏拳拳到肉,制作真实。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《蝇王》改编自诺贝尔文学奖同名小说,讲述男孩们荒岛求生中人性黑暗面的展现。《林肯律师第四季》中米奇被陷害入狱需自证清白,双线叙事紧凑。《地狱乐第二季》制作质量提升,画眉丸一行继续与天仙对决。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《金牌得主第二季》聚焦花样滑冰少女祈参加中部预选赛,CG质量精湛。《名侦探光之美少女》是光美系列第23部,融合侦探推理元素。《四个愿望》是韩国低成本脑力真人秀,游戏设计巧妙且纯粹。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还推荐了更多作品如爱尔兰剧《贝尔法斯特天堂路》、日剧《比熊猫更不擅长恋爱的我们》等,并汇总了本周新预告,包括《来自深渊觉醒的神秘》《克里夫·布斯继续冒险》《海贼王第二季》等多部作品的最新消息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;影视新闻方面,《异兽魔都第二季》定档4月、《河狸变身计划》和《至尊马蒂》内地定档3月20日、《洛杉矶劫案》定档3月7日、《非穷尽列举》定档3月8日等多条定档消息发布。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后设置了看图猜电影的互动彩蛋环节,猜中者可获得彩蛋提供名额和春节马獭红包封面,并提醒读者关注少数派相关平台获取更多影视推荐内容。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105853&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;或许，这就是「跨场景」个人终端的理想形态：CES 2026 后的 Khadas Mind 2体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Mind 2通过模块化设计实现跨场景个人终端理想形态&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Khadas Mind 2众测活动的优秀奖获奖文章。作者基于多年寻找理想跨场景个人终端的经历,详细评测了Mind 2的外观做工、性能表现和实际使用体验。Mind 2采用精致的金属机身设计,性能达到4060Ti台式机水平,配备256GT/s上限的Mind Link接口。作者在固定办公、移动办公、影音娱乐、游戏等多个场景中实践,发现Mind 2配合Mind Dock和Mind Graphics能够完美解决以往WTG、云主机、显卡坞等方案的各种痛点。文章最后介绍了CES 2026上Khadas发布的新品,认为Mind生态通过将用户数据与计算单元融合的方式,为跨场景个人终端提供了理想的解决方案。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了少数派与Khadas合作的Mind 2众测活动结果,宣布了两篇优秀体验文章获奖,其中作者向日葵八号获得优秀奖。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者阐述了多年来一直在寻找一台能够跨场景使用的个人终端,希望设备能够7x24随时待命,胜任所有需求,将生活和工作融合在同一个使用习惯中。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mind 2主机尺寸为146mm×105mm×19mm,重量435g,采用CNC一体成型阳极氧化铝外壳,做工精细,设计圆润不硌手,整体质感达到Mac同等水平。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;性能方面,Mind 2搭载Intel Ultra 5/7处理器,配合Mind Graphics可达到4060Ti台式机水平,在64G内存加持下本地大模型表现出色,接口配置丰富,包含256GT/s上限的Mind Link接口。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细分享了过去尝试过的WTG、云主机、显卡坞等方案的痛点,包括发热、兼容性、网络依赖等问题,这些问题在Mind 2上都得到了解决。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;固定办公场景下,Mind 2单机配合PD拓展坞即可满足日常工作需求,支持最多四路视频输出,Ultra 7 155H+64G内存配置足以胜任Office和修图剪辑工作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;移动办公方面,作者使用3D打印底座将Mind 2安装在TNT GO便携屏上,整套方案重量1.6Kg,支持手写笔和触屏操作,提供类似高性能轻薄本的使用体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;影音娱乐场景中,Mind 2搭配Mind Dock连接4K@120Hz电视,2.5G网口提供流畅的在线和本地视频播放体验,前面板的接口设计方便素材浏览。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏娱乐场景下,Mind Graphics内置4060Ti显卡可满足2K@240Hz显示器需求,主流网游和3A游戏都能流畅运行,内置双扬声器系统音质优于500元档桌面音箱。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;特殊应用场景包括配合AR观影眼镜使用,以及作为其他品牌笔记本的雷电4显卡坞使用,Mind Graphics在这些场景下提供了额外的应用价值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后介绍了CES 2026上Khadas发布的三款新品:搭载Intel Panther Lake的Mind Pro、配备RTX 5060 Ti的Mind Graphics 2,以及集成屏幕键盘的Mind xPlay。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结Mind生态展示了将用户、数据和核心计算单元融合的合理方向,Mind 2不仅是性能更强的Mini PC,更是通向跨场景个人终端的重要突破。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/zhuanglesha-260213&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;《英语自学手册》作者、创作者郝海龙都装了啥？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 创作者郝海龙分享工具使用与AI时代语言学习思考&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派对《英语自学手册》作者郝海龙的专访。他以全职爸爸和业余作家的身份,详细分享了自己的硬件设备(从iPhone、Mac到黑胶唱机、高端铅笔)和软件工具(涵盖AI、文艺、学习、创作等多个领域)。他介绍了2021-2023年运营《林中来信》会员通讯的经历,表达了对中文播客发展的看法,并计划未来尝试视频播客。最后,他深入探讨了AI时代外语学习的两大议题:如何利用AI辅助学习和学习外语的必要性,认为AI已极大降低了语言学习的门槛。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;郝海龙介绍自己是全职爸爸、业余作家,正在申请私家侦探执照,分享了他日常使用的各类硬件设备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细列举了他使用的主要硬件产品,包括iPhone 16 Pro、MacBook Pro、飞傲M21随身听、拜亚动力耳机、Kindle Colorsoft、洛斐键盘、铁三角黑胶唱机、Blackwing 602铅笔、钢笔墨水和Casio手表等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;分类介绍了他常用的软件工具,包括AI工具(ChatGPT和Gemini)、文艺相关应用(BookBuddy系列、流媒体平台、电子书阅读器)、学习工具(Anki、词典软件)、通讯社交工具(Telegram、Spark、Mastodon客户端)和创作工具(Ulysses、Day One、语音输入法等)。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示了手机主屏幕和电脑桌面,并分享了过去几年的主要项目——《林中来信》会员通讯系列(2021年7月至2023年11月)。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;谈到中文播客兴盛的观察,认为视频播客比音频播客更受欢迎,自己也考虑做视频播客,内容可能偏向罪案解读等方向。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论AI时代的英语学习,提出两个核心问题:如何利用AI辅助学习以及是否还有必要学外语,认为AI已将外语学习门槛降至只剩主观能动性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106144&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Kali LP-UNF：我心中的入门级桌面音箱最优解&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Kali LP-UNF是2000元价位段性价比极高的入门桌面监听音箱&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者关于Kali Audio LP-UNF桌面监听音箱的深度评测。作者从选购思路出发,强调了音箱的声音表现、功能配置和使用场景的重要性,并在2000-3000元价位段最终选择了LP-UNF。文章详细评测了其声音表现(三频均衡、低频出色、底噪低、声场好)、外观设计(粗犷实用但塑料感强)以及使用体验(连接便捷、有源设计省心,但塑料箱体导致低频在某些环境下表现不佳)。作者认为LP-UNF在该价位段性价比极高,适合预算有限且追求扎实声音的入门用户,尽管存在箱体材质等缺陷,但瑕不掩瑜。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者作为桌面音箱小白,在电商平台搜索时面对各种产品感到迷茫,但最终明确了选购音箱的核心标准:声音表现、功能配置和使用场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为好音箱需要足够的箱体容积、刚性、合适的声音单元和规范的接口设计,这些是避开&amp;#039;听个响&amp;#039;产品的关键,同时提醒新手不要一开始就把预算拉太高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者预算2000-3000元,这个价位有Adam D3V、IK iLoud Micro Monitor、JBL LSR305P MkII等选择,但最终以2100元购入了Kali Audio LP-UNF白色版。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kali Audio由前JBL核心成员创立,虽然品牌陌生但实力可靠,产品命名和外观设计粗犷直白,但作者对其产品实力抱有期待。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;LP-UNF的声音表现克制均衡,中频最佳,瞬态干净利落,低频下潜能力出色,底噪控制优秀,声场开阔且结像融合度好,整体声音表现超出预期。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;LP-UNF外观粗犷,采用塑料材质,正面设计包括凹槽曲线、蓝色LED灯条和标志性的微笑形倒相孔,整体风格功能优先,设计感较弱。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;LP-UNF的优点是连接方式便捷(支持USB、TRS、RCA、蓝牙),有源设计免去功放和解码器烦恼,声学性能扎实,性价比高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;缺点是采用注塑塑料箱体,刚性不足,在小房间或摆位不佳时低频容易浑浊或嗡鸣,需要通过调整声学环境、摆位或EQ来改善。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结LP-UNF适合预算有限、不想折腾前端、追求扎实声音的用户,如果对外观有要求可选达尼丘比特,预算更高推荐Focal录音室系列,最后表示即便重新选择仍会购买LP-UNF。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106337&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：智谱上线并开源 GLM-5 模型、网信办开展春节清朗行动&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技行业一周要闻速览与产品动态汇总&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了2025年2月11-12日的科技行业动态。主要内容包括:智谱AI发布GLM-5开源模型并调整收费策略;网信办启动春节清朗行动整治网络生态;字节跳动推出Seedance 2.0视频创作模型;小米Tag追踪器登陆欧洲市场;eero发布4G LTE网络热备设备。此外还包含三星Galaxy S26设计变更、Steam Deck OLED缺货、iPhone新品即将发布、Apple Siri功能延期等行业传闻。文章以新闻速览形式呈现,涵盖AI模型、网络监管、消费电子等多个领域的最新进展。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;智谱AI上线并开源GLM-5模型,在全球排名第4、开源模型第1,专注于Agentic Engineering阶段,在多个编程与Agent能力测试中取得SOTA成绩,已适配多个国产算力平台,同时调整了GLM Coding Plan套餐价格,整体涨幅自30%起。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;中央网信办开展为期1个月的春节清朗专项行动,重点整治恶意挑动负面情绪、生成传播数字泔水垃圾信息、炮制传播不实信息、为违法活动引流等四方面问题,包括针对春节相关话题的炫富斗富、饭圈互撕以及AI批量生成低质内容等行为。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;字节跳动发布Seedance 2.0视频创作模型,采用多模态音视频联合生成架构,支持文本、图片、音频、视频四类输入,可混合参考多个素材,支持15秒多镜头音视频输出和双声道音频生成,已上线即梦AI、豆包等平台。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米Tag追踪器在欧洲市场上市,支持蓝牙5.4与NFC功能,兼容苹果查找与谷歌Find Hub服务,可跨平台使用,续航约1年,法国单只售价17.99欧元,暂不支持UWB技术。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;eero发布Signal 4G LTE网络热备设备,售价99.99美元,可在家庭宽带中断时自动切换至蜂窝网络,需搭配eero Plus订阅服务使用,提供10GB和100GB两种年度套餐,计划推出5G版本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小道消息包括三星Galaxy S26系列调整相机设计、Steam Deck OLED在多地售罄、iPhone 16e库存紧张预示17e即将发布、以及Apple新一代Siri功能因软件问题延期至iOS 26.5等多条科技行业动态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - February 12, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
