@@ -4,8 +4,136 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-02-14T20:05:42.417Z</updated>
+  <updated>2026-02-15T20:06:32.654Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - February 15, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-02-15</id>
+    <updated>2026-02-15T20:06:32.654Z</updated>
+    <published>2026-02-15T20:06:32.654Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>5 articles from 3 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - February 15, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;50.41095890410959&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    12.6%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;46&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;319&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;6&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████░░░░░░░░░░░░░░░░░░░░░░░░░░ 12.6%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;5&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22398&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sunday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 社交媒体互动记录页面，包含位置、许可和点赞信息&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇社交媒体元数据页面，包含2026年2月15日星期日晚上6:45发布的内容。页面显示了地理位置信息（北纬51度，东经0度），CC Attribution许可证，以及Mastodon和Bluesky平台链接。文章记录了5个点赞互动，来自Dan Hon、epiPelagic Puck、flo、Ben Brignell和Solomon Foster等用户，时间跨度从晚上6:47到7:27。页面末尾包含响应提交功能。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22397&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;&amp;gt; Knitting is the future of coding. Nobody knits because they want a quick or cheap jumper, they knit because they love the craft. This is the future of writing code by hand. — Alice Bartlett&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 编程将像编织一样成为热爱的手工艺&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章通过编织与编程的类比,提出了一个关于编程未来的观点。作者Alice Bartlett认为,就像人们编织不是为了快速或便宜地获得毛衣,而是热爱这门手艺本身一样,未来手写代码也将成为一种出于热爱而非效率的工艺活动。这个简短的观点暗示,随着AI和自动化工具的发展,手工编程可能会从实用技能转变为一种艺术性的创造活动。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.chrbutler.com/progress-without-disruption&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Progress Without Disruption - Christopher Butler&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 进步不必然需要颠覆，我们需要重拾技术选择权&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文挑战了&amp;#039;进步必然伴随颠覆&amp;#039;的主流叙事，认为我们已被技术决定论洗脑，忘记了对技术采纳拥有主动选择权。作者以阿米什人为例，说明审慎评估技术、基于社区福祉做出选择是可行的。文章指出，将颠覆视为不可避免实际上服务于获利者的利益，而非真实的必然性。面对AI等技术变革，我们应重新获得说&amp;#039;不&amp;#039;或&amp;#039;缓行&amp;#039;的能力，通过集体合作优先考虑社会稳定，而非被动接受硅谷设定的节奏。核心问题不是能否在无颠覆中实现进步，而是能否记起并集体行使我们的选择权。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇质疑文化对末日论的沉迷，指出我们已习惯将变革视为混乱、创新视为破坏，但进步本身并不必然需要颠覆，只是我们缺乏为稳定而合作的能力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者列举了AI与工作未来的三种情景：A情景是AI快速替代人类导致社会崩溃；B情景是渐进式替代带来痛苦但可控的转型；C情景是主动放慢AI发展、有选择地接纳技术。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;大多数人认为情景C不可能实现，因为技术已存在、投资已完成、势头无法阻挡，但作者认为这种观点可能是被灌输的，而非真实情况。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;阿米什人的例子证明了技术选择的可能性：他们并非拒绝技术，而是基于社区福祉审慎评估每项技术，展现了辨别力与主动权。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为我们已内化了技术决定论，将不采纳或缓慢采纳技术视为对进步的天真抵抗，但&amp;#039;不可避免&amp;#039;这一说法实际上服务于特定利益群体。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;将进步与颠覆混为一谈符合特定利益：快速无序部署的获利者、信息经济和末日叙事的受益者，颠覆已成为强大的模因力量，让我们忘记它本是可选的。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;过去25年我们接受了许多所谓&amp;#039;不可避免&amp;#039;的变化：注意力碎片化、隐私侵蚀、人际关系商品化等，但这些都不是必然的，而是被他人为我们做出的选择。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;末日成瘾在此背景下合理：如果变革不可避免且我们无能为力，那么只能带着恐惧和迷恋等待它到来，而稳定、合作、审慎评估则显得无聊和不可能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者并非反对技术，而是主张重新获得说&amp;#039;不是这样&amp;#039;或&amp;#039;还不是时候&amp;#039;的能力，认识到技术采纳的速度和方式本身就是一种选择，应由集体而非获利者决定。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;实现情景C需要合作、优先考虑稳定而非颠覆、相信我们对世界变化有主动权，需要拒绝将技术变革视为自然力量而非特定利益者的选择。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者怀疑我们并非真的失去了合作能力，而是被长期灌输&amp;#039;无法选择&amp;#039;的观念，真正的问题是我们能否记起自己有选择权，以及能否同时做出这种选择。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/02/social-media-payments-and-perverse-incentives/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Social Media Payments and Perverse Incentives&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Social media payment integration could enable easier creator support but risks amplifying harmful behaviors like outrage farming and scams through monetary incentives.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article examines the trade-offs of integrating direct payment systems into social media platforms, where reducing friction for tipping creators could simultaneously enable easier monetization and amplify harmful behaviors like content homogeneity and impersonation scams. While technical challenges around currency handling and revenue sharing exist, examples like GitHub Sponsors demonstrate that payment integration can work without widespread fraud. The core tension lies between the author&amp;#039;s desire for frictionless micro-payments to support quality content versus concerns that monetary incentives would strengthen existing problems like outrage farming and algorithm manipulation. Despite acknowledging these risks and having no platform influence, the author advocates for decentralized platforms like Mastodon and BlueSky to experiment with integrated payment features. The piece ultimately argues that the potential benefits of reducing friction in creator support warrant exploration, even as it recognizes the perverse incentives that monetization introduces to content creation dynamics.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Direct Tipping Concept:&lt;/strong&gt; The idea emerged from discussions about enabling direct tips to journalists and creators on social media platforms without leaving the platform. This would provide a frictionless way to reward content creators for their work.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Implementation Complexity:&lt;/strong&gt; The concept hides significant technical challenges including currency handling, platform revenue sharing, and integration with existing payment systems. Questions remain about whether platforms should take a cut or simply redirect to creators&amp;#039; preferred payment methods.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Perverse Incentives Risk:&lt;/strong&gt; Monetization could amplify existing problems like content homogeneity, outrage farming, and algorithm manipulation. A/B testing of monetization strategies has already led to predictable content patterns across platforms like YouTube and Twitter.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Content Theft Concerns:&lt;/strong&gt; Adding monetary incentives would strengthen motivations for content stealing and impersonation scams. This raises questions about platform liability, security vulnerabilities, and potential damage to the platform&amp;#039;s reputation when users get scammed.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Existing Payment Precedents:&lt;/strong&gt; Many accounts already add payment links to profiles and regularly solicit donations without major issues. GitHub Sponsors demonstrates that payment integration can work without widespread fraud or impersonation problems.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Platform Payment Strategies:&lt;/strong&gt; New platforms often pay publishers to join as an incentive strategy. This creates a two-sided marketplace where platforms can incentivize both content creators and consumers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Personal Use Case:&lt;/strong&gt; The author desires frictionless micro-payments to reward helpful content and support creators they enjoy. They would also benefit personally from easier monetization of their open source work and blogging.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Call for Experimentation:&lt;/strong&gt; While acknowledging no influence over platform decisions, the author advocates for Mastodon and BlueSky to experiment with integrated payment buttons. The potential benefits of reducing friction in creator support warrant exploration despite the risks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106374&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;春节玩什么 | 过年聚会担心冷场？不妨试试这 10 款多人游戏&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 春节聚会多人游戏推荐指南&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为春节聚会推荐了10款多人游戏，涵盖合作解谜、恐怖生存、竞速对抗等多种类型。重点介绍了《双影奇境》等现象级作品和《致命公司》等创意独特的恐怖合作游戏，同时也推荐了《超级鸡马》等轻松欢乐的对抗游戏。文章还特别介绍了单人游戏《多重人生》的独特自我合作玩法，并预告了2026年即将发售的多款值得期待的多人游戏。作者以轻松幽默的笔调，结合游戏特色和玩家评价，为不同需求的玩家提供了详实的游戏选择建议。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了春节期间适合聚会游玩的多人游戏，包括免费的《PICO PARK Classic Edition》和现象级作品《双影奇境》，两款游戏都强调多人合作和欢乐氛围。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《小小梦魇 3》作为恐怖解谜系列续作转型为双人合作游戏，但因制作组更换和玩法创新不足引发争议，评价两极分化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《致命公司》《R.E.P.O》和《MIMESIS 迷魅狩猎》三款恐怖合作游戏各具特色，前两者要求玩家在恐怖氛围中完成业绩目标，后者则通过AI模仿玩家制造信任危机。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《超级鸡马》《超级浣熊羊》和《Dunk Dunk》是横版竞速对抗游戏，玩家通过布置障碍互相挖坑，其中《超级鸡马》性价比更高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《LEGO Voyagers》是乐高双人合作解谜游戏，利用乐高积木特性设计关卡；《多重人生》虽是单人游戏但通过创造分身实现独特的自我合作玩法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后预告了2026年值得期待的多人游戏，包括《深海迷航 2》加入联机模式、《胡闹厨房》团队新作《怪镇奇旅》以及双人狗狗冒险游戏《闹鬼爪子》。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - February 14, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2033,205 +2161,6 @@ A new game project is scheduled for a YouTube premiere release on February 16, 2
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple提醒用户需在2026年2月10日前升级Home App,否则可能无法访问智能家居设备和使用新功能。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;微软计划停售OneDrive for Business独立订阅服务,2026年5月停止新客户销售,2029年12月彻底停止技术支持。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Adobe取消停用Animate的计划,软件将进入维护模式,继续提供安全更新和漏洞修复但不再推出新功能。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - February 4, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-02-04</id>
-    <updated>2026-02-04T20:12:00.090Z</updated>
-    <published>2026-02-04T20:12:00.090Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>9 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - February 4, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;38.35616438356164&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    9.6%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;35&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;330&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;5&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9.6%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;9&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Jordan Mechner &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.jordanmechner.com/en/latest-news/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Winter days&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者谈《波斯王子》重制版取消与新书发布&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者对《波斯王子：时之砂》重制版被Ubisoft取消表示失望，同情开发团队，并反思游戏行业项目取消对开发者的打击。他庆幸自己过去五年专注于书籍创作，享受更大的创作自由。作者即将在维也纳参加图像回忆录《Replay》的德语版发布活动，该书讲述了他的游戏开发生涯和家族多代人的故事，包括父亲作为儿童难民逃离纳粹、祖父参加一战的经历。尽管重制版被取消，作者对《波斯王子》系列的未来仍持乐观态度，相信粉丝和开发者社区的热情终将得到回报。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对《波斯王子：时之砂》重制版被取消感到失望，对蒙特利尔开发团队表示同情，指出项目取消对游戏行业开发者尤其是年轻团队成员来说是毁灭性的打击。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表达了对过去五年专注于书籍和艺术创作的感激，因为图像小说的制作预算小且创作自由度高，作品能直接触达读者。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将于2月在维也纳参加图像回忆录《Replay》的德语版发布活动，该书讲述了他作为游戏开发者的生活以及家族的多代故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《Replay》对作者意义重大，因为Mechner家族来自奥地利，书中交织了父亲作为儿童难民的逃亡经历、祖父在一战中的经历，以及1980年代父亲为儿子游戏作曲的故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者希望这个故事能引起经历过战争和迫害的读者共鸣，并宣布将在维也纳犹太博物馆举办演讲和签售活动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管《波斯王子：时之砂》重制版被取消令人失望，但作者对该系列的长期前景保持乐观，认为粉丝和开发者社区充满激情和才华，最近的《失落王冠》和《盗贼王子》等作品证明了这一点。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-2-3/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.2.3&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录工作受阻、修车纠纷和日常生活的个人日志&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇个人生活日志，记录了作者近期的多个生活片段。包括游戏开发进展的犹豫、工作中demo准备遇阻与升职面谈的时间冲突、Kickstarter项目进展、与修车厂的糟糕经历导致的信任危机和愤怒情绪，以及驾驶Expedition大车的日常体验。文章以流水账形式呈现，真实记录了作者在工作压力、消费纠纷和日常生活中的复杂心境，既有对专业服务的失望，也有大车带来的满足感和生活中的小确幸。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者收到itchio关于潜艇游戏Atlantic &amp;#039;41的devlog邮件，想为自己的playdate版本epoch游戏创建主页，但回想十年前类似经历后决定等系统完善再发布。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;老板要求周三做demo，但作者因依赖问题被阻塞，最终老板决定暂不将作者加入demo名单，这与周四的升职面谈时间冲突让作者感到尴尬。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在Kickstarter支持的墨水屏电子相框项目成功，等待邮寄地址确认。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;修车厂多次延误取车时间并出现买车灯忘买灯泡的失误，作者对其信任崩塌，后悔让他们安装headliner，每天都很暴躁，计划向修车厂和保险公司索赔。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者给Expedition加油遇到油泵故障，手持加了120美元的油，虽然油耗高达百公里21升但性能稳定可靠，在山路停车时的表现让路人赞叹想买同款车，最后提到想重看红猪动画和听了几首歌。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-02-04.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: February  4&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Fowler分享活动中关于AI、编程学习和社会议题的片段思考&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Martin Fowler分享了在Thoughtworks活动中的片段式思考。讨论涵盖多个主题：AI时代的学习方式，强调结对编程中&amp;#039;解释&amp;#039;对学习的价值；LLM作为代码导航工具而非答案来源的定位；Drew Breunig提出的&amp;#039;无代码软件库&amp;#039;概念，探讨编码成本趋零后的软件工程；广告模式对科技公司的束缚；以及明尼苏达人民面对暴力时展现的和平抵抗精神。文章采用片段化写作风格，呈现多个独立但相关的技术和社会议题思考。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Martin Fowler参加了在犹他州Deer Valley举办的Thoughtworks活动，这是一个Open Space形式的聚会，充满了各种想法，他将以片段形式分享这些思考而非连贯叙事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论了AI使用可能导致人们对系统理解减少的担忧，有人指出结对编程的价值在于需要向搭档解释，这个解释过程本身就是重要的学习方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;一位负责超大代码库的SRE表示，他本来就无法完全理解代码，但LLM帮助他理解代码功能并导航到关键部分，说明LLM适合作为导航工具而非完全信任其答案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Drew Breunig探索了未来软件库可能只有规范而无代码的想法，他用500行markdown规范和500行YAML测试构建了一个时间戳转换库，并实现了七种语言版本，引发对&amp;#039;编码免费时代软件工程&amp;#039;的思考。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bruce Schneier讨论了LLM对话中广告可能扮演的角色，提到Google曾试图摆脱广告模式这个&amp;#039;镀金牢笼&amp;#039;，因为广告虽然利润丰厚但使公司受制于广告商，且广告商在经济衰退时会撤资并影响内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;明尼苏达州的局势令人沮丧，蒙面准军事人员的暴行加剧，但明尼苏达人民以和平方式抵抗，用吹哨和拍摄视频作为武器，展现了邻里互助和对自由法治的支持，Adam Serwer称赞他们证伪了MAGA的意识形态基石。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/02/book-review-the-examiner-janice-hallett/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: The Examiner - Janice Hallett ★★★★⯪&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 优秀的犯罪推理小说但电子书制作存在技术缺陷&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于Janice Hallett新作《The Examiner》的书评。作者高度评价这部犯罪小说，认为它延续了作者一贯的叙事风格，通过转录文本形式让读者参与推理。书中角色鲜明，情节转折出人意料，擅长通过缓慢揭示信息营造紧张氛围，并探讨了信仰和象征主义主题。然而，作者指出出版商Viper在电子书制作上存在严重技术问题，包括使用过时的CSS格式、排版错误以及无障碍功能缺陷，特别是缩写标签的自动替换导致大量错误。尽管存在技术问题，作者仍给予该书四星半的高评价。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者非常喜欢Janice Hallett之前的犯罪小说，《The Examiner》延续了她的风格，通过一系列转录文本让读者自己推理犯罪事件，受害者身份要到故事后期才揭晓。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;角色塑造生动，情节转折令人震惊，Hallett擅长通过缓慢揭示信息来营造紧张感，虽然转录文本有些不现实但作为叙事框架很有效，书中探讨了象征主义和信仰本质。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;出版商Viper在电子书制作上存在技术问题，使用了过时的ePub CSS版本，格式存在缩进和边距错误。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;无障碍功能较差，缩写标签使用了自动替换导致许多错误，例如学位缩写被错误地解释为分子相关术语，作者已联系出版商要求修正。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2store/?p=11753&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;公式コミカライズ『戦場のフーガ 鋼鉄のメロディ』11巻英語版発売！SteamとEpic Games StoreのDLCでも日英版配信開始！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《Fuga》漫画第11卷开启第三篇章&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《Fuga: Melodies of Steel》漫画第11卷英文版将于2026年2月发售。故事中，Malt和孩子们在击败Cayenne后本以为能过上平静生活，却因收音机的神秘声音被引至禁忌洞穴，在那里发现了本应消失的Taranis战舰，并遭遇神秘人物。本卷开启了故事的第三篇章，同时收录了漫画家足立隆文的独家概念艺术。足立隆文是经验丰富的漫画家，擅长SF奇幻题材的少年漫画创作。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《Fuga: Melodies of Steel》漫画第11卷英文版将于2026年2月4日发售，售价440日元（含税），可在多个电子书店和游戏平台购买。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;故事讲述Malt和孩子们击败Cayenne后回归平静生活，但某天收音机中的声音将Malt引至禁忌洞穴，在那里他发现了本应消失在云海中的Taranis战舰，并遭遇神秘人物的接近。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本卷标志着第三篇章的开始，并收录了漫画家足立隆文的独家幕后概念艺术设定。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;漫画家足立隆文出生于6月21日，B型血，擅长少年和儿童向SF奇幻漫画，2001年获小学馆第48届新人漫画家奖佳作，代表作包括《D・M Fighter Honoo》《Metal Fight Beyblade》等。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21356&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;お仕事マンガ『チェイサーゲーム』14巻発売！松山洋著書『ゲーム業界の攻略法』予約受付中！お得な電子書籍フェア開催中！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 『チェイサーゲーム』14巻発売と松山洋新著書発表&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツー代表・松山洋が原作を務めるお仕事マンガ『チェイサーゲーム』の最新14巻が2026年2月4日に発売された。本巻ではアニメ業界編の最終章に突入し、主人公・蓮実が『天女世界』のゲーム化に挑む中で、睡眠薬を飲まされたり社長が命を狙われたりする緊迫した展開が描かれる。また、松山洋の新著書『ゲーム業界の攻略法』が2月16日に発売予定で、30年以上の業界経験から採用の実態や成功のための戦略を解説する。電子書籍では記念フェアも開催中で、1～6巻が無料で読める。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー代表・松山洋が原作を務めるお仕事マンガ『チェイサーゲーム』の最新14巻が2026年2月4日に紙版と電子版で同時発売され、松山洋著書『ゲーム業界の攻略法』も2026年2月16日に発売されることが発表された。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;『チェイサーゲーム』14巻では、超人気マンガ『天女世界』のゲーム化に挑む蓮実がアニメ業界の重鎮たちと合宿を行うが、石井に睡眠薬を飲まされ身動きが取れなくなり、一方で社長・西川も命を狙われる異常事態に直面する。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;最新14巻は825円（税込）で、Amazon、セブンネット、Kindleなど100以上の電子書籍ストアで配信され、2月18日まで1～6巻無料、7～11巻割引の記念フェアが開催中。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;『チェイサーゲーム』は松山洋原作、松島幸太朗作画のお仕事マンガで、リアルすぎる描写が話題となり、クリエイティブ業界を中心に波紋を呼んだ問題作として知られている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;松山洋著書『ゲーム業界の攻略法』は2,200円（税込）で2026年2月16日発売予定で、ゲーム業界30年以上の経験から採用の実態や開発の根幹、プロとして成功するための視点を解説し、実際の合格者のポートフォリオも公開する。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105805&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;少数派 2025 年度征文：听说你对写作是真 AI？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派举办AI与人工写作对决征文活动&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派发起2025年度征文活动，探讨AI写作与人工写作的能力边界。活动设置AI助力赛道和手工匠人赛道，前者要求使用AI完成核心内容并披露过程，后者禁止AI参与实质性写作。投稿时间为2026年1月31日至3月14日，通过少数派编辑器提交并添加相应标签。评选分三级，奖励包括稿酬、AI服务报销额度、会员资格和最高8000元奖金。活动旨在通过实践对比两种创作方式的优劣，由读者投票决定最终优胜者，体现了对AI辅助写作的开放态度和对内容质量的重视。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派宣布2025年度征文活动，主题围绕AI辅助写作展开，旨在探索AI写作与人工写作的能力边界，投稿时间为2026年1月31日至3月14日。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;征文设置两个赛道：AI助力赛道要求使用AI工具完成文章核心内容并充分披露创作过程；手工匠人赛道要求完全不使用AI工具进行实质性写作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;两个赛道对AI使用的规定不同：AI助力赛道在构思、正文撰写和修改润色环节必须使用AI；手工匠人赛道在正文撰写和修改润色环节不得使用AI。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;投稿需通过少数派编辑器提交，在文章开头注明参赛赛道，添加相应标签，并选择社区提交选项以便公开浏览和互动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;评选分为入围奖、组内优胜奖和最终优胜奖三个级别，AI助力赛道提供AI服务报销额度和定额稿酬，手工匠人赛道提供按标准计算的稿酬，最终优胜者可获8000元奖金。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;活动条款规定参与者需年满18周岁或获监护人同意，投稿内容需符合用户协议，AI助力赛道豁免AI生成内容规则，手工匠人赛道必须遵守相关规则，禁止不正当拉票行为。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105859&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;城市漫步指南：软件名城，泉城济南&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者周末游济南，体验泉城风貌并反思旅行方式&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者记录了在济南的周末之行。第一天游览了趵突泉、五龙潭、大明湖、曲水亭街和黑虎泉等景点，体验了泉城特色，但对鲁菜和小吃街同质化感到失望。第二天登千佛山并参观山东博物馆，因时间安排不当差点误车。作者对济南的泉水景观、江南水乡般的古城风貌印象深刻，发现济南还是中国软件名城。文章反思了旅行中的教训，并分享了自己旅行计划的不同阶段，从周末游历史古迹到出国体验文化，再到当前关注小地方小人物，最终希望能自由行走在中国大地上记录所见所闻。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者开启第二次周末城市游，选择济南是因为夏天时看到济南泉水喷涌的景象。从北京南下途中经历了河北平原的浓雾天气，抵达济南后天气晴好。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;入住酒店后游览泉城广场，参观趵突泉景区，门票40元。景区内有大量园林造景和锦鲤，作者观察到游客匆匆而过，缺乏静心观赏的状态，引发对审美教育的思考。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;趵突泉北门外的游船已售罄，转而游览五龙潭。五龙潭免费开放，人流较少，有大量亲水区域。午餐尝试鲁菜，点了把子肉、九转大肠等特色菜，但体验不佳，九转大肠难以下咽，四道菜花费291元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;餐后游览大明湖，面积很大且亲民。从南门进入绕行一圈后来到曲水亭街，感受到江南水乡般的景致，被称为&amp;#039;小江南&amp;#039;。继续南行至芙蓉街小吃街，发现全国小吃街同质化严重，缺乏地方特色。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;沿护城河来到黑虎泉，这里有三处泉眼，黑虎泉水量最大。许多市民来此接泉水，政府还设置了直饮水设备。随后到宽厚里又是小吃街，看到济南特色&amp;#039;花车&amp;#039;，作者认为应该规范化运营而非禁止。晚上在恒隆广场体验iPhone Air，当天18点就回酒店休息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二天计划爬千佛山和参观博物馆，但起床较晚。恰逢重阳登山节，千佛山人流量很大。参观四窟万象景点，对石窟艺术的浓缩展示印象深刻。登顶后看到济南CBD天际线，发现济南是中国软件名城，浪潮科技诞生于此。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;中午赶往山东博物馆，被通顶大厅设计震撼。博物馆共三层15个展馆，但因时间紧张只用1小时逛完重点展馆。之后在万象城吃火锅耽误时间，差点误车，被迫改签并多花100元买一等座。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结此次济南之行的教训：不要贪多、要专注当下、要有风险意识。认为济南是个不错的城市，有水有山有文化。介绍了自己旅行的三个阶段：第一阶段是疫情后的周末行看历史古迹，第二阶段是出国体验不同文化，第三阶段是关注小人物小地方。未来想实现第四阶段，无拘无束地走在中国大地上，记录各地的人和事。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105951&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;见不惯 B 站 up 主的带货广告？教你利用 AI 快速跳过&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 开源插件利用AI分析字幕自动跳过B站带货广告&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了一个利用AI技术跳过B站带货广告的开源浏览器插件。作者指出传统广告拦截方法对带货广告无效，现有的SponsorBlock等众包方案也存在局限性。该插件通过获取视频字幕信息，将其转化后配合视频标题和描述发送给AI模型（目前支持Gemini）进行分析，自动识别广告时间段并跳过。插件已在Chrome应用商店上架，开源可自行编译，需要用户提供Gemini API Key，默认忽略5分钟以内的短视频以提高准确率。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表达了对B站视频中up主带货广告的不满，指出这类广告与常规网页广告不同，难以通过技术特征识别，因为它与视频内容融为一体。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了现有的SponsorBlock插件通过众包方式识别广告，但作者认为这种方法依赖用户自驱力和规模效应，只对头部视频有效，AI的出现提供了新的解决方案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细说明了插件的工作原理：通过获取B站视频字幕信息，将字幕转化为特定格式后发送给AI分析，AI会识别出广告内容的起止时间并返回结果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了插件的使用方式，可在Chrome应用商店搜索「Bilibili Ad Killer」下载，也可作为开源项目自行编译，目前仅支持Gemini模型，需要用户提供API Key，默认忽略5分钟以内的短视频以避免误判。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
