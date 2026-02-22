@@ -4,8 +4,185 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-02-21T20:06:34.436Z</updated>
+  <updated>2026-02-22T20:08:41.446Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - February 22, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-02-22</id>
+    <updated>2026-02-22T20:08:41.446Z</updated>
+    <published>2026-02-22T20:08:41.446Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>9 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - February 22, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;58.082191780821915&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    14.5%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;53&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;312&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;7&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████░░░░░░░░░░░░░░░░░░░░░░░░░░ 14.5%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;9&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blakewatson.com/journal/i-used-claude-code-and-gsd-to-build-the-accessibility-tool-ive-always-wanted/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;blakewatson.com - I used Claude Code and GSD to build the accessibility tool I’ve always wanted&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者用AI开发出解决自身滚动障碍的辅助应用&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者因脊髓性肌萎缩症面临严重的滚动操作困难，传统辅助工具无法满足需求。在接触到Claude Code和GSD元提示系统后，作者首次尝试vibe coding，完全依靠AI在8小时内开发出Scroll My Mac应用。该应用实现了操作系统级别的点击拖动滚动功能，并包含多项实用特性。作者将其免费开源，认为AI技术能让残障用户自主创建定制化辅助技术，但同时对AI可能取代开发者工作感到担忧。整个经历展现了AI辅助开发的巨大潜力和复杂的伦理困境。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因脊髓性肌萎缩症导致严重行动障碍，使用Mac时面临滚动困难，只能通过点击拖动滚动条来操作，这在某些应用中非常不便。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者曾使用ScrollAnywhere浏览器扩展缓解问题，但它无法在阅读模式、浏览器设置页面和其他应用中工作，只能依赖macOS的悬停滚动功能作为笨拙的替代方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对AI技术持矛盾态度，主要使用Copilot自动补全来提高编码效率，偶尔向ChatGPT查询问题，但此前对vibe coding（完全依赖AI编程）持保留态度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者不喜欢vibe coding的原因包括享受编程本身、对代码质量负责，以及不想成为提示词工程师，直到看到Jeffrey Zeldman关于使用Claude Code和GSD构建应用的文章后改变想法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者使用Claude Code和GSD成功开发了Scroll My Mac应用，实现了在操作系统层面通过点击拖动来滚动任何区域的功能，并添加了多项实用特性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Scroll My Mac提供了键盘快捷键切换、点击穿透、长按延迟等功能，使用户可以在保持滚动模式的同时进行正常的拖拽操作，极大改善了作者使用某些应用的体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;整个开发过程完全由AI完成，Claude通过询问问题、规划、执行和验证等阶段逐步构建应用，历时约8小时，额外花费80美元的AI使用费用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将应用免费发布在GitHub上，并进行了代码签名和公证，使其可以无警告运行，但提醒用户代码完全由AI编写，使用需自担风险。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对AI技术感到既兴奋又恐惧：一方面，残障用户可以通过AI创建定制化辅助技术；另一方面，AI是否会取代开发者的工作令人担忧。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.noemamag.com/the-mythology-of-conscious-ai/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Mythology Of Conscious AI&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 意识更可能是生命而非计算的属性，创造有意识AI是危险的想法&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了AI意识的神话及其危险性。作者Anil Seth认为，虽然AI系统展现出智能，但智能（做事的能力）与意识（主观体验）是不同的概念。人类由于人类中心主义、例外论和拟人化等心理偏见，容易将意识投射到AI系统上，尤其是具有语言能力的大语言模型。作者警告，无论AI是否真正具有意识，相信或感觉AI有意识都会带来严重后果：可能赋予AI道德地位和权利，使人类心理受到操控，并导致我们低估自身的独特性。文章批判了技术界关于机器意识即将到来的乐观预测，认为这更多是技术狂喜和商业利益驱动的结果，而非科学事实。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇探讨了人类长期以来创造人工生命的幻想，从基因工程到机器人再到AI，并提出核心问题：AI系统是否能够或将会拥有意识？这个问题为何重要？&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了合成意识的文化历史，从《弗兰肯斯坦》到《机械姬》等作品，指出这些故事中人造意识的结局往往不幸，暗示创造有意识的AI存在风险。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章提到Google工程师Blake Lemoine声称聊天机器人LaMDA具有意识和感受，虽然他被解雇，但这个问题并未消失，许多AI和神经科学领域的专家认为机器意识的出现只是时间问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者强调思考有意识AI的重要性：如果AI真的有意识，它们将具有道德地位和权利；即使AI只是看起来有意识，也会影响人类心理和伦理；更重要的是，这关系到我们如何理解人类本性和意识体验的本质。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章分析了为何人们会认为AI可能有意识的心理原因：人类倾向于将智能和意识捆绑在一起，但智能关乎&amp;#039;做事&amp;#039;（解决问题的能力），而意识关乎&amp;#039;存在&amp;#039;（主观体验）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出三种心理偏见导致我们混淆智能与意识：人类中心主义、人类例外论和拟人化倾向，这些偏见使我们容易将人类特质投射到非人类事物上。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章特别指出语言能力让人们更容易认为AI有意识，大语言模型如ChatGPT因其语言能力而被赋予意识的可能性，但作者批评用&amp;#039;幻觉&amp;#039;这个词来描述AI的错误输出，认为应该用&amp;#039;虚构&amp;#039;更准确。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者警告不应假设意识会随着AI变得更智能而自然出现，并指出指数增长曲线的心理效应让人们总觉得处于重大转变的边缘。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后提到&amp;#039;技术狂喜&amp;#039;的诱惑：创造有意识的机器被视为神的领域，这种普罗米修斯式的诱惑以及永生的承诺可能是技术界人士更倾向于宣称机器意识即将到来的原因。作者引用Adam Becker的观点，将人们在AI中投射意识的倾向描述为一种空想性错视现象。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22418&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Streetwise&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 社交媒体内容的互动传播记录页面&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇社交媒体互动记录页面，显示了2026年2月22日发布的一条内容的传播情况。页面记录了19次分享和35次点赞，包含详细的用户名称、时间戳和社交平台链接（Mastodon、Bluesky、Instagram）。内容采用CC Attribution许可协议，地理位置标注为51°N, 0°E（伦敦地区）。页面末尾提供了响应互动的功能入口。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/463&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 463: Interop 2026 browser scoreboard&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Interop 2026报告揭示浏览器互操作性进展&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文主要报道了Interop 2026浏览器互操作性项目的最新进展，该项目通过让主要浏览器厂商协同工作来推动Web标准的统一实现。报告显示不同浏览器在CSS新特性、Web兼容性和WebTransport API等方面的支持程度存在差异。文章还介绍了Puter.js这一前端SDK工具，它能让开发者无需后端即可构建全栈应用。此外，文章通过pipe函数的代码示例展示了函数式编程中的链式操作技巧，并简要介绍了多个前端开发工具和行业动态，包括CSS格式化工具、跨平台框架和AI相关技术的最新发展。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了Interop项目的背景，这是一个主要浏览器厂商每年共同协作支持相同Web特性的项目，通过Web Platform Tests进行测试并公开发布结果仪表板。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年报告显示了几个关键发现：CSS的attr()功能主要由Chromium支持，而contrast-color()则是Firefox和Safari领先；Container Style Queries被Firefox拖后腿；Web兼容性和WebTransport API是2026年的重点关注领域。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结认为Interop项目是近年来Web平台黄金时代的重要组成部分。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Puter.js是一个前端JavaScript SDK，允许开发者无需后端即可构建全栈应用，提供AI模型、云存储、数据库、认证等功能，对开发者完全免费。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了一个pipe函数的代码示例，该函数允许将多个操作链式组合在一起，通过按特定顺序将一系列函数应用于输入来实现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还包含了多个技术工具和资源的简短介绍，包括Biome v2.4、Electrobun v1、Rari框架等，以及关于AI代理、React框架调查结果和Google的WebMCP提案等行业动态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How close are we to a vision for 2010?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The 2010 vision correctly predicted wearables and cloud storage but missed on decentralized systems, embedded AI agents, and institutional technology adoption.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The 2010 vision accurately predicted wrist-worn devices consolidating multiple functions (smartphones/smartwatches), keyless car entry with app controls, cloud-based secure file sharing, and wearable health monitors with real-time tracking—though we still use multiple devices and hotels haven&amp;#039;t widely adopted personalized smart rooms due to privacy concerns. Predictions around seamless wireless immigration, government-provided traffic guidance, and anonymous peer-to-peer assistance networks failed to materialize, with physical passport scanning still standard, private companies dominating navigation, and social media replacing envisioned privacy-preserving information networks. The most ambitious prediction—body-embedded intelligent agents that autonomously negotiate and make decisions on our behalf—remains far from reality despite AI advances, as trust and technical barriers prevent widespread adoption of systems that independently represent users. Overall, the vision succeeded in predicting consumer technology convergence and personal health monitoring but underestimated institutional resistance, privacy concerns, and the dominance of centralized platforms over decentralized peer-to-peer systems.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Personal Computing Devices:&lt;/strong&gt; The vision predicted a single wrist-worn &amp;#039;P-Com&amp;#039; device would replace laptops, phones, and organizers. Reality delivered smartphones and smartwatches that largely fulfill this prediction, though we still rely on multiple devices for different tasks.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Digital Identity Systems:&lt;/strong&gt; Seamless walk-through immigration using wireless ID verification was envisioned. While NFC passport chips and some digital ID experiments exist, there&amp;#039;s no international consensus, and physical passport scanning remains standard.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Smart Transportation:&lt;/strong&gt; Keyless car entry, button-start ignition, and government-provided traffic guidance were predicted. Modern cars have wireless entry and app unlocking, but traffic guidance comes from private companies and satellites, not local governments.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ambient Home Intelligence:&lt;/strong&gt; Hotel rooms that automatically adjust temperature, lighting, and entertainment based on personal preferences were imagined. While the technology exists (voice assistants, smart controls), widespread adoption in hotels hasn&amp;#039;t materialized due to privacy concerns.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cloud Storage Security:&lt;/strong&gt; Secure cloud-based presentation storage with encryption and time-limited access was envisioned. This prediction largely came true with modern cloud services offering robust access controls, though user adoption of advanced security features varies.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Digital Avatars (D-Me):&lt;/strong&gt; Body-embedded intelligent agents that could answer calls, negotiate on behalf of users, and make autonomous decisions were predicted. Despite advances in voice cloning and AI assistants, we&amp;#039;re nowhere near trusted, embedded systems that can independently represent us.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Health Monitoring Integration:&lt;/strong&gt; Wearable cardio-monitors providing real-time health warnings and Do-Not-Disturb features were predicted. Fitness trackers like FitBit deliver health monitoring, and DND modes are standard on phones, making this prediction largely accurate.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Localized Social Networks:&lt;/strong&gt; Anonymous, location-based assistance networks where digital agents could share information while preserving privacy were envisioned. This complex peer-to-peer system never materialized; social media and online searches remain the primary information-sharing methods.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Day We Met &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/809270890924818433&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 4, Page 35&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网络漫画社交媒体互动页面记录&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一个Tumblr社交媒体页面的互动记录，显示了名为&amp;#039;The Day We Met&amp;#039;的网络漫画第4章第35页的社交反馈。内容主要包含大量用户的点赞(liked)和转发(reblogged)行为，以及一条评论表达了对漫画角色和故事的喜爱。这反映了该网络漫画在Tumblr平台上获得了积极的读者参与和社区互动。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/809211371655921664&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 4, Page 34&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网络漫画社交媒体互动记录页面&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一个社交媒体互动记录页面,显示了一个名为&amp;#039;The Day We Met&amp;#039;的网络漫画第4章第34页的笔记部分。页面列出了大量用户对该内容的点赞和转发互动,包括likes和reblogs。这是典型的Tumblr平台内容互动展示,反映了该漫画内容在社区中获得的关注度和传播情况。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-02-22T10:19Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-02-22T10:19Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI trained on inaccessible web data perpetuates exclusion at scale, exposing developers&amp;#039; checkbox approach to accessibility versus true understanding.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;AI systems are amplifying two decades of accessibility failures by training on inaccessible data, creating a civil rights crisis that systematically excludes people with disabilities at unprecedented scale. The software industry&amp;#039;s rapid AI adoption has exposed a fundamental gap: developers often treat accessibility as a checkbox rather than understanding its practical requirements. The discussion explores whether accessibility should be handled as a general AI capability for quick fixes or as a dedicated agent for comprehensive audits—highlighting that the approach depends on whether the need is a one-time correction or an ongoing evaluation process requiring iterative feedback.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Systematic Civil Rights Failure:&lt;/strong&gt; AI systems are perpetuating over 20 years of institutional accessibility barriers through their training data. This represents a fundamental civil rights issue, not just a technical bug.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Accessibility Crisis:&lt;/strong&gt; AI is systematically excluding people with disabilities at scale. The rapid adoption of these systems has amplified existing accessibility problems across the software industry.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Developer Awareness Gap:&lt;/strong&gt; Many developers mistakenly believe simply mentioning &amp;quot;accessibility&amp;quot; is sufficient. There&amp;#039;s a shocking lack of understanding about what accessibility actually requires in practice.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Agent vs Skill Debate:&lt;/strong&gt; The podcast discusses whether accessibility should be implemented as a dedicated agent, a general skill for any agent, or a combination. The answer depends on whether it&amp;#039;s a one-off fix or an ongoing audit process.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Implementation Approach Matters:&lt;/strong&gt; For quick fixes, an accessibility skill is appropriate. For longer-running tasks like comprehensive audits that require back-and-forth interaction, a dedicated accessibility agent may be more effective.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/104473&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;日本：红枫季的关东与关西（关东篇）&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 东京及镰仓五日游记，记录城市漫步与海边日落的美好时光&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于日本关东地区红枫季旅行的游记，作者从神户飞往东京，在五天时间里游览了表参道、涩谷、东京迪士尼海洋、浅草寺、秋叶原、中目黑、代官山和镰仓等地。尽管东京迪士尼因天气和人流遭遇挫折，但作者在爵士酒吧、茑屋书店、芝公园等地获得了独特体验。��镰仓的海边日落成为整个旅程最美好的回忆，作者用轻松自然的笔触记录了旅行中的喜悦与遗憾，展现了对日本文化和城市生活的细腻观察与深刻感受。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者结束关西行程后从神户机场飞往东京羽田机场，天马航空体验良好，到达东京后入住赤坂精选酒店，下午游览表参道、原宿和涩谷，参观了全球首家Fender旗舰店，晚上在涩谷Sky观景台俯瞰夜景，最后在Jazz Spot爵士酒吧度过温暖的夜晚。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第六天前往东京迪士尼海洋，遭遇阴雨天气和超长排队，排队时间远超预期，但小飞侠梦幻岛历险记项目体验极佳，惊魂古塔、印第安纳琼斯等项目各有特色，傍晚天气转晴后在圣诞装饰的园区内感受到童话般的氛围，观看了圣诞特别烟花后结束行程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第七天行程密集，上午参观浅草寺并抽签祈愿，之后分头行动，作者前往秋叶原重温二次元文化，逛了Animate、友都八喜等商场，下午从中目黑漫步至代官山，在茑屋书店停留，傍晚观看《天堂之吻》25周年展览，晚上在芝公园仰望东京塔度过快乐时光。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;最后一天选择前往镰仓而非富士山，在七里滨看到远处的富士山，中午在大阪烧店享受欢乐氛围，下午沿海岸线漫步，在日落时分欣赏粉色天空和橘子海，坐在海边观察当地人的日常生活，这一天成为整个旅行中最幸福美好的回忆，晚上在LaQua泡汤馆过夜，次日从银座乘巴士返回成田机场。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - February 21, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2115,170 +2292,6 @@ Zhipu&amp;#039;s flagship GLM-5 model was benchmarked against Claude Opus 4.6 an
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Web Game Development:&lt;/strong&gt; Creating an &amp;quot;Angry Birds&amp;quot; clone revealed clear performance differences: Opus 4.6 produced the most authentic recreation with good gameplay, GLM-5 created a playable but less polished version, and GPT-5.3 failed to deliver a functional game. This test clearly favored Opus 4.6.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Laravel to Next.js:&lt;/strong&gt; GLM-5 completed the PHP Laravel to JavaScript Next.js conversion smoothly in 5 minutes with automatic dependency installation and zero errors. While Opus 4.6 and GPT-5.3 achieved identical functional results, GLM-5 offered superior user experience with faster completion time (5 minutes vs 20 minutes for Opus) and seamless execution.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Overall Performance Assessment:&lt;/strong&gt; GLM-5 demonstrated competitive coding capabilities comparable to leading international flagship models, excelling in system logic, backend reliability, and long-running tasks up to 2 hours. The model successfully positions itself as an open-source alternative to Opus 4.6 and GPT-5.3, with particular strengths in complex system engineering and agentic depth over frontend aesthetics.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - February 11, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-02-11</id>
-    <updated>2026-02-11T20:13:05.842Z</updated>
-    <published>2026-02-11T20:13:05.842Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>6 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - February 11, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;46.02739726027397&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    11.5%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;42&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;323&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;6&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 11.5%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;6&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 构建可信赖代理AI的核心设计模式与实践框架&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是代理式AI设计系列的第二部分,提供了构建可信赖代理系统的具体实践方法。文章详细介绍了六种核心UX设计模式,分为行动前、行动中和行动后三个阶段。重点阐述了三种关键模式:意图预览模式确保用户在行动前了解并授权代理的计划;自主权限拨盘模式允许用户根据信任程度调整代理的独立性;可解释理由模式提供代理决策的透明解释。这些模式将代理AI从黑箱转变为透明可控的系统,强调通过清晰沟通和明确边界建立用户与AI代理之间的信任关系,确保自主性是用户授予的特权而非系统强占的权利。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了从生成式AI到代理式AI的转变,强调本文将提供具体的设计模式、操作框架和组织实践,用于构建既强大又透明、可控且值得信赖的代理系统。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;设计代理式AI就是设计一种关系,需要建立在清晰沟通、相互理解和明确边界之上。文章提出了六种遵循代理交互功能生命周期的模式,包括行动前、行动中和行动后三个阶段。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;意图预览模式是建立用户信任的基础,要求在代理执行任何重要操作前,用户必须清楚了解即将发生什么。有效的意图预览需要包含清晰简洁的描述、顺序步骤和明确的用户选择。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章通过旅行助手场景展示意图预览的实际应用,包括航班取消后的恢复计划,提供进行、编辑或自行处理三种选择路径。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;意图预览模式适用于不可逆操作、金融交易、信息共享等高风险场景。成功指标包括接受率(目标&amp;gt;85%)、覆盖频率和回忆准确性等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;自主权限拨盘模式允许用户根据个人风险承受能力设定代理的独立程度,从观察建议到完全自主行动四个级别,体现了信任是一个渐进的过程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;可解释理由模式主动回答代理行动的原因,将系统逻辑转化为用户可理解的语言。有效的理由应基于先例、简单直接,帮助用户建立对代理思维方式的准确心智模型。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/02/gadget-review-epomaker-th87-iso-mechanical-keyboard/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Gadget Review: Epomaker TH87 ISO Mechanical Keyboard ★★★★⯪&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Epomaker TH87机械键盘评测:灯效出色兼容性好&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于Epomaker TH87机械键盘的评测文章。作者原本不喜欢机械键盘,但被TH87的灯光效果和实用性所打动。键盘在Linux、Android等系统下兼容性优秀,支持USB、蓝牙和2.4GHz三种连接方式。噪音控制良好,按键手感出色,配备10000mAh大电池。虽然缺少自定义软件和数字键盘,但采用英国标准布局,重量达1公斤。售价60-80英镑,作者认为对于追求灯效和可定制性的用户来说物有所值,最终给予4.5星评价。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者曾对机械键盘不感兴趣,认为它们噪音大且无用,但Epomaker送来TH87键盘让作者改观,发现其灯光效果令人愉悦。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;TH87配备USB-C转A线缆,在Linux系统下即插即用无需驱动,虽然被识别为Apple设备但功能键正常工作,同时支持蓝牙和2.4GHz无线连接。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;键盘噪音适中且经过预润滑和降噪处理,按键手感优秀,结构坚固,电池容量10000mAh续航出色。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;键盘无自定义软件,固件是否开源存疑,采用5层降噪设计,无数字键盘但有英国标准布局,重达1公斤。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;售价在60-80英镑之间,作者认为对于需要灯效和热插拔功能的用户来说性价比不错,给予4星半评价。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106232&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;OpenClaw：高强度使用两周，这个 AI 工具颠覆了我的工作流&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 OpenClaw是本地AI助手,重构数字工作流&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细介绍了AI工具OpenClaw的安装配置、模型选择和实际应用场景。OpenClaw是运行在本地的数字生命中枢,可作为跨平台AI助手。文章从基础的聊天机器人、AI编程、RSS定制、写作辅助,到进阶的Notion管理、浏览器控制、智能家居等应用场景进行了全面展示。作者分享了模型选择建议,认为ChatGPT Plus性价比最高,国产模型Kimi和MiniMax也值得选择。文章还提供了创建群组、Token优化、语音交互、备份恢复等实用技巧。OpenClaw作为开源项目的核心价值在于工程整合与跨平台可用性,但需注意保护隐私安全。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (15 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了OpenClaw这款AI工具在过去一个月引起广泛关注,经历了多次命名调整和社交账号抢注事件。作者在使用两周后发现OpenClaw改变了自己的工作习惯,成为解决数字生活需求的首选工具。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw是运行在本地的数字生命中枢,可作为个人AI助手,支持通过Skills扩展能力和跨平台接入。所有数据储存在本地工作区,用户对数据有更高的可控性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw支持安装到Mac mini、Windows、Linux等设备,也可部署到云服务器。推荐Mac mini因其支持全天候运行、低功耗、方便调用Apple生态服务且性价比高。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;安装方式分为One-liner、npm、Hackable和macOS客户端四种,需要配置AI服务提供商、通信Channel、Skills和Gateway等四个部分。macOS用户可使用Companion App进行便捷管理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;模型选择方面,ChatGPT Pro和Claude Max是最强选择,Google AI Pro/Ultra订阅用户可通过OAuth或API使用。国产模型中Kimi K2.5和MiniMax M2.1性价比较高,也可使用Ollama本地模型或免费模型。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为现阶段性价比最高的方案是订阅ChatGPT Plus,GPT-5.3 Codex提供最均衡的体验。如果搞不定海外订阅,国产模型也是不错选择,注重隐私可使用本地模型。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw的基础应用包括聊天机器人功能,可跨平台同步对话记录并沉淀记忆。作者习惯通过OpenClaw获取信息、进行研究分析,IM工具提供了比AI应用更好的交互体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw使普通人也能进行AI编程(Vibe Coding),用户如同产品经理向全栈工程师下达指令。通过飞书等Channel可在任何地方远程控制电脑进行编程工作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw可定制专属RSS阅读服务,包括创建订阅列表、建立抓取机制、文章筛选机制和推送机制。可将推送内容制作成播客或视频,相当于拥有个人媒体平台。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenClaw重新整合了作者的写作工作流,在写作专属群组中完成资料搜集、事实核对、内容校对润色等工作。通过创建Skill可直接读取本地文件库进行文章核对和润色。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;进阶应用包括操作Notion作为外置大脑,可创建定时任务管理单词数据库等内容。通过浏览器插件可控制浏览器进行UI交互操作,如抓取社交平台内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;有网友在安卓手机上安装OpenClaw实现手机控制功能,开发者Peter本人用其控制床垫温度、播放音乐、调整灯光等智能家居设备。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用技巧包括创建多个群组分场景使用、通过/new和/compact指令降低Token消耗、启用QMD记忆检索服务、创建Subagents系统实现子代理协作等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;支持通过Whisper进行语音输入转写和edge-tts进行文字转语音输出。建议创建自动备份和心跳监测脚本,通过远程SSH连接来应对故障情况。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结指出OpenClaw的核心创新在于工程整合与可用性,将AI Agent扩展到各个平台。作为开源项目形成了强大的社区效应,但需注意隐私安全,不要暴露敏感信息。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106299&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;寻源南疆：我们在冰山上拍了一部「公路电影」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派团队驾车穿越天山拍摄南疆公路电影&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派团队在天山胜利隧道通车后，驾驶鸿蒙智行享界S9T纯电版从北疆乌鲁木齐出发，开启了一场南疆寻源之旅。这趟超过一周的公路旅行穿越了沙地、冰川、山岭和雪原等多样地貌，团队不仅经历了奇妙的意外，还遇到许多温暖的人和震撼的场面。他们将这次旅行拍摄成一部具有电影感和戏剧性的影片，以独特的视角展现新疆的美丽与野性，希望在新年之际为观众带来视觉享受和精神鼓舞。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新疆充满神秘和向往，天山胜利隧道通车后将南北疆通行时间从数小时缩短到二十分钟，少数派团队决定从乌鲁木齐出发穿越隧道开启南疆寻源之旅。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;团队选择鸿蒙智行享界S9T纯电版作为座驾，这款豪华旅行车拥有舒适驾乘体验和超大储物空间，满足了跨度超过一周公路旅行的需求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;团队驾车穿越沙地、冰川、山岭和雪原，经历了意外、遇到温暖的人和震撼场面，最终以电影化和戏剧性方式呈现新疆的美丽与野性。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106175&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;索尼 LinkBuds Clip 耳夹式开放真无线耳机体验 - TDS REVIEW&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通话出色漏音控制优异的索尼耳夹耳机&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细评测了索尼LinkBuds Clip耳夹式开放真无线耳机。产品采用环保包装,配备「灵动枕」配件以适应不同耳廓厚度,佩戴稳定性良好。通话表现是其突出优势,得益于双麦克风+骨传导拾音设计,在耳夹品类中属第一档水准。漏音抑制模式下的漏音控制能力极为出色,甚至优于部分半入耳式耳机。声音方面呈现明亮风格,中高频精致但存在齿音和轻度刺激感,声场规模感良好。主要不足包括缺少左右耳自动识别、佩戴检测等智能功能,且不支持高码率编码。作者给予IV级评价,认为产品尚未完全成熟但解决了耳夹品类的部分痛点,期待后续更新。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了索尼LinkBuds Clip耳夹式开放真无线耳机的诞生背景,指出其可能是为了解决小耳廓人群佩戴LinkBuds Open的稳定性问题而设计,作者选择了紫色款进行首发体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;包装采用环保设计,配件仅包含一对「灵动枕」软硅胶垫,用于适应不同厚度的耳廓边缘。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;耳机有四种配色可选,充电盒体积略大于前代产品,C桥扁平且柔性程度适中,佩戴稳定性良好,「灵动枕」可为耳廓偏薄人群提供额外稳定性支持。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;耳机采用敲击操作而非广域点击,支持操作自定义但缺少左右耳自动识别和佩戴识别功能,可通过Sound Connect app进行均衡器、360 RA测量等设置。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通话表现优异,搭载单边两颗麦克风和一个骨传导拾音单元,通话稳定性和降噪能力在耳夹品类中属于第一档水准。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;信号连接稳定,近场卡顿较少,但不支持高码率编码和低延迟模式,实测续航约7小时49分钟,支持快速补电功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;搭载10mm动圈单元,支持SBC/AAC编码,提供「人声增强」和「漏音抑制」两种特殊聆听模式,漏音控制能力在漏音抑制模式下表现极为出色。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;声音表现方面,低频量感适中略偏少,中频人声精致但有明显齿音,高频亮度较高存在轻度刺激感,声场规模感良好,解析能力在高价位耳夹中属中上水平。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结认为LinkBuds Clip在通话质量和漏音控制方面表现出色,但缺少部分智能功能且声音略显刺激,最终给予IV级评价,期待后续固件更新完善功能。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106146&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从一台修不好的 Walkman 开始：飞傲的复古产品「补票」之路&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 飞傲从修复Walkman的执念出发打造复古音乐全系列&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;飞傲复古产品线源于创始人修不好Walkman的遗憾,团队从零学习古老的模拟电路技术,在凋零的产业链中艰难探索,2024年成功推出磁带机、CD机和黑胶机全系列产品。为拥抱更广泛用户,飞傲推出子品牌雪漫天,将高端技术下放至BeatBox这款集成2.1声道的便携CD机,突破工程难题实现外放与读碟的平衡。产品采用留白设计理念,联合少数派举办盖板设计大赛,把定义权交给用户,让复古音乐设备成为个性化的生活艺术品,实现从硬核技术到生活美学的转变。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;飞傲创始人James因为收到一台无法修好的SONY Walkman而萌生了做复古音乐播放器的想法,团队从零开始学习磁带机技术,甚至请了一位17岁的爱好者当老师,最终开发出CP13磁带机并获得用户热烈反响。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;飞傲复古产品线面临产业链凋零的困境,不到20人的团队要复刻当年几千人打磨的工艺,但仍在2024年推出了磁带机CP13、CD机DM13和黑胶机TT13三款产品,销量和口碑都获得了成功。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;飞傲推出子品牌雪漫天定位轻HiFi,试图从硬核技术走向时尚生活美学,BeatBox作为该理念下的产品,将高端CD机的核心技术下放,集成2.1声道重低音系统,通过多次迭代解决震动问题,打造面向大众的便捷音乐设备。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;BeatBox采用留白设计,把盖板外观交给少数派社区用户创作,配合MagSafe磁吸功能可融入家居环境,第一期设计大赛聚焦平面设计,未来计划引入3D打印和异质材料,让用户创造更多玩法。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
