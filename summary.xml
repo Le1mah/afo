@@ -4,8 +4,265 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-02-26T20:14:26.515Z</updated>
+  <updated>2026-02-27T20:14:03.417Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - February 27, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-02-27</id>
+    <updated>2026-02-27T20:14:03.417Z</updated>
+    <published>2026-02-27T20:14:03.417Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>15 articles from 9 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - February 27, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;63.561643835616444&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    15.9%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;58&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;307&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;8&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████░░░░░░░░░░░░░░░░░░░░░░░░░ 15.9%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;15&lt;/strong&gt; articles from &lt;strong&gt;9&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22427&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;&amp;gt; But the soul is a floor. It is there to bear us up and keep us standing, not merely to be clean. — Patricia Lockwood, Will There Ever Be Another You&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 灵魂如地板，承载我们而非仅求洁净。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇短文引用了作家Patricia Lockwood的作品《Will There Ever Be Another You》中的一句话，将灵魂比喻为地板——它的存在是为了支撑我们、让我们站立，而不仅仅是为了保持洁净。文章发布于2026年2月27日，附有地理坐标（51°N，0°E，即英国伦敦附近），并由Aaron Crowder于同日分享。内容简短，核心是一句富有哲理的文学引言，探讨灵魂的本质与功能。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-279-/viewer?title_no=853933&amp;episode_no=293&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 279&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画《DOGHAUS》共279话剧集导航页&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本内容并非一篇文章，而是WEBTOON平台上名为《DOGHAUS》的漫画系列的导航页面。该页面展示了从第1话到第279话的完整剧集列表，包含数个特别公告和Sunday Strip特别篇。创作者为Moowsie，该系列在CANVAS平台自出版，被评为成人级别内容，归类于HEARTWARMING（温情）类别。页面还包含订阅、分享、举报等互动功能，以及平台上其他热门温情类漫画的排名信息。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/463&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 463: Interop 2026 browser scoreboard&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Interop 2026揭示各浏览器Web功能支持差距&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一期科技简报（第463期），主要聚焦于Interop 2026浏览器互操作性项目的最新报告。报告揭示了各大浏览器在支持CSS新特性（如attr()、contrast-color()、Container Style Queries）和Web API（如WebTransport）方面的进展与差距。文章以幽默风趣的风格穿插评论，同时推介了Puter.js、Oz、Speechmatics等开发者工具，并通过一道关于JavaScript pipe函数的Pop Quiz展示函数式编程技巧。整体内容涵盖前端开发生态的多个热点动态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了Interop 2026浏览器互操作性项目，该项目让主要浏览器厂商每年共同推进相同的Web功能支持，并通过公共仪表板公开测试结果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年报告显示：CSS高级attr()功能基本只有Chromium支持，CSS contrast-color()则是Firefox和Safari领先，Container Style Queries被Firefox拖后腿，仅通过4.7%的测试。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Interop 2026重点关注Web兼容性和WebTransport API，前者确保网站跨浏览器运行，后者推动基于HTTP/3的低延迟实时通信成为可靠默认选项。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章穿插介绍了Puter.js前端JavaScript SDK，它集成了500+AI模型、云存储、数据库和身份验证，无需后端即可构建全栈应用，对开发者完全免费。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cool Bits板块罗列了多个开发工具和新闻，包括modern.css、Biome v2.4、Electrobun v1跨平台框架、Rari React框架、Google发布的WebMCP预览版等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pop Quiz部分解释了一个JavaScript管道函数（pipe function），它通过reduce将多个函数串联起来，依次对输入进行处理，实现函数式编程中的函数组合。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/02/book-review-weird-things-customers-say-in-bookshops-by-jen-campbell/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Weird Things Customers Say in Bookshops by Jen Campbell ★★☆☆☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 **A mildly amusing but forgettable collection of bookshop customer anecdotes that occasionally veers into mean-spiritedness, earning just two stars.**&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary: *Weird Things Customers Say in Bookshops* by Jen Campbell
+
+*Weird Things Customers Say in Bookshops* emerged from the early 2010s trend of converting viral Twitter content into print, compiling short, humorous anecdotes about eccentric or uninformed bookshop customer behavior. While the premise has genuine comedic potential, the reviewer found the humor occasionally crosses into mean-spiritedness toward ordinary members of the public, weakening the overall reading experience. A handful of standout moments — such as a customer inquiring whether Beatrix Potter authored a dinosaur book — demonstrate the collection&amp;#039;s occasional charm, and a blurb from Neil Gaiman lends it some literary credibility. Ultimately, the book is characterized as a lightweight, disposable stocking-filler: easy and mildly entertaining to read, but failing to leave a meaningful or lasting impression. The reviewer awarded it a modest **two out of five stars**, positioning it as a casual curiosity rather than a recommended purchase.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Book&amp;#039;s Origin:&lt;/strong&gt; The book originated from the early 2010s Twitter-to-book trend, collecting tweet-sized &amp;#039;overheard in&amp;#039; stories set in bookshops.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; The book&amp;#039;s premise revolves around humorous anecdotes about customers in bookshops, highlighting quirky or uninformed behavior for comedic effect.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Tone Concerns:&lt;/strong&gt; The reviewer notes the humor occasionally becomes mean-spirited toward the general public, which undermines the overall enjoyment of the collection.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Memorable Moment:&lt;/strong&gt; One standout anecdote about a customer asking if Beatrix Potter wrote a dinosaur book left a lasting impression on the reviewer despite the book&amp;#039;s shortcomings.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Overall Assessment:&lt;/strong&gt; The book is described as a light-hearted but disposable stocking-filler, suitable for casual reading but ultimately disappointing, earning just two out of five stars.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Notable Endorsement:&lt;/strong&gt; Neil Gaiman provided a blurb for the book, lending it some credibility despite the reviewer&amp;#039;s lukewarm reception.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/02/27/slmath-deputy-director-search/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;SLMath Deputy Director Search&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 SLMath启动新任副主任职位招聘&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;SLMath（前身为MSRI）正在招聘新任副主任（Deputy Director）。该职位是Director的重要顾问，负责协助管理科学团队和研究项目。理想候选人应具备数学科学博士学位及丰富的项目管理、经费管理与人员管理经验。本文由SLMath董事会副主席以官方身份发布，旨在广泛传播这一招聘信息。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-02-27T11:09Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-02-27T11:09Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 现代CSS实现x86 CPU与图论演示令人叹为观止&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇简短的笔记表达了作者对两个现代CSS演示项目的惊叹——x86 CPU模拟器和图论（Graph Theory）可视化。作者坦言这些项目是他从未想象过能用现代CSS实现的成就。尽管作者承认自己无法完全理解其背后的代码，但他表示这些代码并非完全无法解读。文章整体风格简洁，带有个人感悟色彩，传达了对CSS技术边界不断拓展的惊叹与敬意。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/02/27/croissant-cors-proxy-update/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Croissant and CORS proxy update&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Croissant移除服务器代理，功能趋于完善暂停更新&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者关于其自制RSS阅读器Croissant的更新公告。文章介绍了Croissant因CORS限制而需要代理的背景，并说明作者此前提供了Tauri封装和服务器代理两种解决方案。然而，由于维护成本和个人热情减退，作者宣布正式移除服务器代理，仅保留对具有正确CORS头的RSS源的支持。作者对此突然变更表示歉意，并表示虽可自行托管，但无力提供技术支持。目前Croissant功能已趋于完善，短期内不会有重大更新。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Croissant是作者自制的RSS阅读器，由于许多RSS源缺少CORS头信息，无法作为纯PWA运行，因此需要代理解决方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提供了两种解决CORS问题的方案：将PWA封装为Tauri应用，以及提供服务器代理，但两者各有安全或隐私方面的顾虑。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者宣布移除服务器代理，仅支持具有正确CORS头的RSS源，并对突然的变更表示歉意，坦言对项目热情有所减退且无力维护代理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;从技术上讲，用户可以自行托管PWA和代理，但作者因时间有限，无法提供详细支持或解答耗时较长的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Croissant目前功能已完善，作者修复了若干小bug并调整了部分样式，短期内不会再有更新，未来是否大改尚不确定。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n4fb8776b4952&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;宣伝広報のお仕事！サイバーコネクトツー設立30周年パーティーを開催！！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2举办30周年派对并惊喜公布新作预告&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2宣传广报课发文，介绍了2026年2月16日公司成立30周年派对的详情。派对在东京格兰王子大饭店新高轮飞天厅举行，约1400名游戏、动漫、漫画等娱乐行业相关人士出席，并收到逾70基祝贺花篮。社长松山洋（ぴろし）带伤登台演讲，并惊喜公开了《.hack//Z.E.R.O.》先导预告片。活动自去年4月起筹备，原计划容纳2000人。文章最后预告将举办巡回全国47都道府县的「CyberConnect2展」。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;宣传广报负责人べーいり介绍，CyberConnect2于2月16日（公司成立纪念日）举办了设立30周年派对，并在SNS上进行了分享。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;社长松山洋在派对前两天（2月14日）因肋骨受伤疼痛难忍，却仍担忧自己能否在舞台上完成演讲。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该派对并非面向粉丝，而是面向业界相关人士的周年纪念活动，会场设在格兰王子大饭店新高轮的飞天厅，迎来约1400名游戏、动漫、漫画等娱乐行业人士出席，并收到超过70基祝贺花篮。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;派对现场，松山洋社长进行了演讲，并惊喜公开了《.hack//Z.E.R.O.》的先导预告片，整个活动自去年4月便开始筹备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后提到，CyberConnect2下一步计划举办巡回全国47都道府县的「CyberConnect2展」，敬请期待后续消息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n3536536c004a&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;サイバーコネクトツー「30thウィッシュリスト」の御礼 pt.13&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CC2が30周年ウィッシュリストへの感謝を伝え吉村氏がnoteを卒業&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーの宣伝広報課・吉村祐紀氏が、設立30周年を記念した「ウィッシュリスト大感謝祭」と題したnote最終回を公開した。記事では、年明けから届いた計79点以上の贈り物を紹介しており、Sheer Tianyi Technology LLC、ダイキン工業、SCSK株式会社、ミナミ商事などの企業や、漫画家・イラストレーターを含む個人支援者からWEBカメラ、掃除機、ペンタブレット、Xboxコントローラーなど多様なアイテムが贈られた。吉村氏は感謝の気持ちを伝えつつnoteを卒業し、新作ゲーム『.hack//Z.E.R.O.』の展開にも期待を呼びかけた。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー宣伝広報課の吉村祐紀氏が、設立30周年を迎えた同社のnote最終回として「ウィッシュリスト大感謝祭」を開催し、年明けから届いた贈り物79点以上を紹介する。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Sheer Tianyi Technology LLC、丸山恭右氏、つなこ氏、ダイキン工業、ミナミ商事、クリーク＆リバー社など多数の企業・個人から、WEBカメラ、ゴミ箱、ペンタブレット、掃除機、USBヘッドセット、Xboxコントローラー、マーカーペンなど実用的な贈り物が届いた。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;吉村氏はすべての支援者への感謝を述べ、今後も贈り物の紹介を継続するとともに、完全新作タイトル『.hack//Z.E.R.O.』への注目を呼びかけてnoteを卒業した。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106661&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 10 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派推荐近期10部优质影视作品及影视资讯速览&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部出品的影视推荐栏目「本周看什么」，汇总了近期10部主推作品及多部附加推荐，类型涵盖电影、港剧、美剧、韩剧、国产剧、英剧与动画。主推作品包括探讨香港社会变迁的港片《夜王》、温情治愈的日本电影《东京出租车》、现代版包公断案的港剧《非常检控官》、聚焦性犯罪的韩剧《荣耀：她们的法庭》等。文章同时整理了《玩具总动员5》《龙之家族第三季》等多部新预告，以及《新世纪福音战士》新作动画和派拉蒙收购华纳兄弟等影视资讯，内容丰富全面。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文是少数派编辑部推出的「本周看什么」栏目，汇总了近期10部值得一看的影视作品，涵盖电影、港剧、美剧、韩剧、国产剧、英剧及动画等多种类型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;港片《夜王》以夜总会的兴衰为背景，折射香港在全球化与商业化浪潮下传统价值观与旧行业所受到的冲击，用喜剧手法包裹社会变迁的沉重主题。日本电影《东京出租车》由山田洋次执导，讲述出租车司机与85岁老太太共同踏上重访旧地之旅的温情故事，歌颂人与人之间的善意。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;港剧《非常检控观》以《包青天》为原型进行现代化改编，融入饭圈乱象、校园暴力等现实议题；美剧《爱情故事》聚焦小肯尼迪与卡罗琳·贝塞特的爱情悲剧，精良还原90年代纽约时尚圈氛围。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;韩剧《莎拉的真伪人生》以金钱与谎言为主线，讲述女主角从柜姐到奢侈品牌创始人的传奇逆袭；《荣耀：她们的法庭》改编自瑞典剧，三名女律师揭露隐藏在娱乐圈背后的庞大性犯罪组织。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;国产剧《女神蒙上眼》以单元剧形式呈现女律师成长故事，触及强制猥亵、家庭暴力等社会热点议题；英剧《你能保密吗？》以荒诞的骗保故事讽刺现实社会中普通家庭面临的医疗与养老困境。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《黄金神威 最终章》迎来冒险收尾，多线叙事与生死博弈交织，将冒险、历史、美食等元素一锅乱炖；《判处勇者刑》以被迫战斗的罪人为主角，战争场面魄力十足，作画水准出色。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还推荐了多部附加作品，包括台湾电影《我家的事》、以色列电影《是的》、英剧《背叛》、日剧《乞救之噬》等，并整理了《名侦探柯南》《玩具总动员5》《龙之家族第三季》等多部新预告及《新世纪福音战士》新作动画制作确定、派拉蒙收购华纳兄弟等影视资讯。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106050&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Vibe Coding 实战复盘：手搓飞天小女警「卡点跑酷」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用AI Coding实现Newjeans像素风音乐可视化播放器的完整踩坑复盘&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者瑶酱Hermione详细复盘了利用Vibe Coding（Cursor）和设计工具制作「飞天小女警」音乐可视化播放器的全流程。灵感来源于Newjeans MV中的像素风游戏画面，通过AI辅助实现音频驱动角色飞行、序列帧动画、三层视差滚动背景、漂浮歌词等核心功能。文章记录了多次迭代踩坑经验，包括音乐驱动策略的转变、帧率bug修复、背景无缝拼接等技术挑战，并分享了详细提示词。项目最终成功上线并获得广泛乐迷好评，展现了AI赋能非技术背景创作者实现天马行空创意的可能性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了制作音乐可视化播放器的背景，该项目以Newjeans为主题，包含4个风格，在社媒获得超10万播放量，文章将分享「飞天小女警」主题的制作流程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;创意灵感源于Newjeans的MV《New Jeans》中的像素风游戏画面，作者希望制作一个角色随音乐飞行的播放器，并设定为圣诞夜氛围。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;音乐驱动阶段分两步：首先通过频谱探索实现角色跟随音乐运动的MVP，经5轮迭代后改用「能量相对变化」策略实现自然的「冲出去」效果；再加入物理弹簧模拟使运动更真然。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;利用AI生成角色序列帧赋予角色飞行生命力，提示词精心设计并多次抽卡，同时发现并修复了帧率相关的动画速度bug。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;画布式设计Agent工具（如Lovart）适合素材制作，作者对比了Figma与Lovart的优劣，Figma在精修排版方面更优，但AI生图交互能力受限。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;场景采用三层视差滚动背景，远景和前景各一张无缝循环图，中景手动拼接3张建筑素材图，通过「搭积木」方式实现丰富城市场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在场景中添加了东方明珠塔与应援棒结合的建筑、NJZ灯牌、心形灯光等彩蛋细节，并生成雪景和氛围组角色动画增强沉浸感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;带时间戳的歌词通过Manus搜索获取，歌词展示效果实现了自由漂浮感，经多次迭代优化动画细节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;项目部署在GitHub+云平台，绑定自定义域名解决国内访问问题，并与AI协作解决了11个性能优化问题，部署后加载极慢的问题得到改善。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者收到大量乐迷好评和bug反馈，结尾表达了对Newjeans的深厚情感，以及AI让普通人实现创意想法的感慨与展望。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106645&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;当恐惧有了两种模样：《生化危机 9：安魂曲》评测&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《生化危机9》以双主角双玩法开启系列新篇章&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《生化危机9：安魂曲》是卡普空为系列30周年献上的集大成之作，以双主角格蕾丝与里昂分别承载恐怖生存与动作射击两套玩法，形成强烈的体验反差。格蕾丝篇还原了资源匮乏的生存压迫感，里昂篇则带来爽快流畅的战斗体验，两者通过关卡设计实现巧妙联动。RE引擎的技术表现持续进化，丧尸行为模式设计新颖惊艳。剧情以浣熊市为舞台，情怀满满但逻辑存在漏洞。整体而言，本作是《生化危机》系列一个充满野心的新起点，而非终点。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《生化危机9：安魂曲》是卡普空为庆祝系列30周年推出的最新作，作者获邀提前体验全部内容，并在保密协议限制下分享游戏感受。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本作是一部&amp;#039;集大成&amp;#039;之作，将系列历代精华重新整合，以双主角格蕾丝与里昂分别代表恐怖生存和动作射击两种截然不同的玩法风格。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新主角格蕾丝定位为能力孱弱的FBI分析员，围绕资源匮乏与&amp;#039;血液合成系统&amp;#039;构建了充满压迫感的生存恐怖玩法，还原&amp;#039;老生化&amp;#039;味道。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;里昂篇章主打爽快战斗，新增战斧系统、丰富武器与近战演出，行云流水的战斗体验与格蕾丝的压抑形成强烈对比，也承载了老玩家深厚的情怀。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;双主角的关卡设计相辅相成，同一场景在两位角色手中呈现出截然不同的体验，丧尸的行为模式设计新颖，但后期关卡质量有所下滑，略显虎头蛇尾。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;剧情方面，浣熊市的重现与大量《逃出生天》元素带来强烈情怀冲击，但故事本身逻辑有漏洞、反派略显脸谱化，剧情野心大于实际完成度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;RE引擎在本作进一步进化，视觉表现出色，优化良好，但地图查看不便、缺少佣兵模式，通关后可玩内容较少，总体而言是系列新阶段的重要起点。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105630&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;截稿顺延｜将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派×飞傲联名BeatBox盖板设计大赛截稿延至3月15日&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派与飞傲子品牌雪漫天SNOWSKY联合发起BeatBox磁吸盖板设计大赛，邀请设计师、插画师及创意爱好者为这款多功能便携CD音箱一体机设计可更换盖板。BeatBox具备2.1重低音系统、Hi-Fi耳机输出、多格式播放及MagSafe同尺寸磁吸等特性。参赛者须提交原创设计，结合产品透视窗动态效果，尺寸188.1mm正方形。投稿截止日期因春节顺延至3月15日，一等奖奖金5000元，优秀作品还有机会量产并获销售激励。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派与飞傲旗下子品牌雪漫天SNOWSKY联合发布多功能便携CD音箱一体机BeatBox，并正式发起磁吸盖板设计大赛，邀请设计师和创意爱好者共同参与产品外观设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;BeatBox搭载2.1重低音系统，延续飞傲Hi-Fi音质基因，支持CD、蓝牙、U盘及调频广播多种播放方式，并具备磁吸可更换盖板、透视旋转窗及MagSafe同尺寸磁吸背板等创新设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;参赛作品需结合产品透视窗特性考虑CD旋转动态效果，尺寸为188.1mm正方形，须保证原创版权，每人最多投稿3套方案，并在少数派社区指定版块发帖投稿。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;评审流程包括用户投票决定获奖结果，一等奖奖金5000元并附联名BeatBox套装，优秀设计还有机会量产销售并获得销售分成激励。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于春节期间参赛者时间不足，大赛截稿日期已从原定延顺延至3月15日23:59，相关投票及颁奖流程也同步顺延。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106637&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Apple 确认将于三月发布多款新品等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 多家科技公司集中发布AI新产品与功能更新&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派科技早报，汇总了2月26至27日多项AI与科技动态。Apple确认近期将发布多款新硬件产品；Perplexity推出可自动完成端到端工作流的Perplexity Computer；Google发布图片生成模型Nano Banana 2并升级AI创作工具Flow；LM Studio推出跨设备远程连接方案LM Link；Minimax则发布Agent升级版本及云端AI助手MaxClaw。整体呈现AI工具在生产力、创作与自动化领域的快速迭代趋势。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple CEO蒂姆·库克确认将从下周起发布多款新品，可能包括入门款MacBook、iPad、Mac mini及Studio Display等产品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Perplexity正式推出基于浏览器的AI自动化工具Perplexity Computer，用户只需描述目标，系统会自动生成子智能体完成各类任务，目前仅向Max订阅用户开放。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google发布新一代图片生成模型Nano Banana 2，具备更出色的文字生成效果且价格更低，已默认集成在Gemini生图功能中。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;LM Studio推出LM Link功能，支持用户安全连接远程LM Studio实例，实现跨设备调用模型，该功能与Tailscale合作推出并采用端到端加密。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google对AI创作工具Flow进行改版升级，将其扩展为完整的AI创意工作室，强化了图像与视频协同工作流、自然语言编辑及更精细的视频剪辑控制能力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Minimax推出Expert 2.0和全新AI助手MaxClaw，用户可用自然语言描述任务创建Agent，MaxClaw无需自备服务器即可在云端使用，并新增多种内置工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;科技爱好者周刊（第 386 期）：当外卖员接入 AI&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI结合人力将重构社会经济自动化体系&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期科技爱好者周刊以Waymo无人驾驶出租车通过外卖平台雇人关车门为引子，深刻探讨了AI与人力结合的全新自动化模式——外卖员因&amp;#039;自带API&amp;#039;已成为程序可调用的人力资源，未来AI助手将演变为劳务调配引擎，重构社会经济体系。此外，周刊还介绍了IPFS托管工具PinMe、Anthropic的COBOL代码迁移能力、AI生成代码的版权争议、日本僧侣机器人等科技动态，并推荐了多款开发工具和资源。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文是阮一峰科技爱好者周刊第386期，发布于2026年2月27日，封面介绍了上海黄浦江边以航舵为主题的艺术装置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;核心话题：Waymo无人驾驶出租车因乘客未关车门，通过外卖平台下单让外卖员赶到现场关门，这一事件揭示了程序调动人力完成自动化流程的全新模式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章深入分析外卖员作为&amp;#039;自带API的人群&amp;#039;已接入软件系统，未来AI结合人力将大幅扩展自动化能力，AI平台有望成为劳务调配引擎，重构社会经济结构。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周软件介绍PinMe，这是一个基于IPFS的去中心化托管工具，上传内容后无法修改或删除，并提供ENS域名和1GB免费存储空间，适合永久保存内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;科技动态涵盖四则新闻：音频线材质实验表明香蕉和湿泥与专业铜线听感无差异；Anthropic宣布Claude可迁移COBOL代码导致IBM股价大跌；美国司法规定AI生成代码无版权；日本京都大学推出佛经训练的僧侣机器人。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章推荐部分列举了多篇技术文章，包括SWE-bench Verified基准的废弃讨论、.plan文件任务管理、鲸落项目生命力、无服务器OCR教程等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工具与AI相关板块介绍了Oat、jsonriver、Arcmark等多款开发工具，以及BitFun、Xcode Proxy、Trending AI等AI辅助开发应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;资源与图片板块收录了Flashpoint游戏数据库、Claude Code中文教程、海平面上升模拟器，以及世界第一个浏览器和显示器布局的历史图片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文摘讲述1973年NASA工程师受卡车气流启发，通过实验将卡车空气阻力降低约52%以上，其改装方案与2017年特斯拉Semi卡车设计高度相似。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;言论板块收录多位人士观点，包括YC大量投资AI被质疑追随潮流、实体店对社区的价值、AI主导下无法量化之物将被淘汰，以及创造力需要放弃确定性等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - February 26, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2101,148 +2358,6 @@ Note: I can only provide a summary based on the title since the actual article c
 &lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202602/66167&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;公式コミカライズ『戦場のフーガ 鋼鉄のメロディ』第82話 公開！&lt;/a&gt;&lt;/h3&gt;
 &lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《战场的Fuga》漫画第82话更新公告&lt;/p&gt;
 &lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是日本游戏媒体Famitsu.com上连载的漫画《战场的Fuga 钢铁旋律》第82话的更新公告。文章介绍了故事情节发展：孩子们对Ash这个名字怀有复杂情感，Belman帝国开始行动，而主角Malto被Wappa带走。编辑评论指出Maestro给Malto提出了惊人建议，醒来的Malto被Wappa用枪指着，令人期待后续发展。文章还包含了下一话的更新时间（2026年3月3日）以及相关的游戏销售排行榜和其他连载漫画的链接信息。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - February 16, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-02-16</id>
-    <updated>2026-02-16T20:09:16.307Z</updated>
-    <published>2026-02-16T20:09:16.307Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>7 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - February 16, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;51.50684931506849&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    12.9%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;47&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;318&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;6&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████░░░░░░░░░░░░░░░░░░░░░░░░░░ 12.9%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;7&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-276-/viewer?title_no=853933&amp;episode_no=290&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 276&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画DOGHAUS第276集页面&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是WEBTOON平台上名为DOGHAUS的网络漫画系列第276集的页面。页面展示了该系列从第1集到第276集的完整章节列表,包括常规章节、Sunday Strip特别篇和特别公告。作为CANVAS自出版系列,该作品由创作者Moowsie制作,被评为成熟内容。页面提供了订阅、分享、点赞等互动功能,并显示了CANVAS平台上其他热门系列的排行榜信息。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/02/16/six-math-essentials/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Six Math Essentials&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 数学家推出新书介绍六大数学核心概念&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;数学家宣布与Quanta Books合作出版科普数学书籍《Six Math Essentials》,该书将介绍数学中的六个基本概念:数字、代数、几何、概率、分析和动力学,并探讨它们与现实世界直觉、数学科学史以及现代数学理论与应用实践之间的联系。新书定于10月10日出版,目前已开放预订。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-02-16T19:35Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-02-16T19:35Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 微软GitHub培训指南被指抄袭并AI劣化经典Git模型&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章批评了微软的GitHub工作流培训指南质量低劣，指出其中的Git流程图疑似抄袭自Vincent Driessen的经典Git分支模型文章，但却经过AI处理后质量下降。作者通过社交媒体发现这一问题，表达了对微软和GitHub的不满。文章配有对比图片，展示原版与微软AI版本的差异，质疑微软为何要将优质内容通过AI降级处理。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/hackzero/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;サイバーコネクトツー設立30周年記念 完全新作家庭用ゲーム『.hack//Z.E.R.O.』始動！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 .hack系列推出完全新作并首次由开发商独立发行&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《.hack//Z.E.R.O.》是.hack系列的全新作品，标志着该系列制作体制的重大转变。此前由万代南梦宫娱乐发行的系列作品，这次将由CyberConnect2独立完成企划、开发到发行的全流程。新作由世界级小提琴家叶加瀬太郎负责音乐创作，在保留系列经典的虚拟与现实交错世界观基础上进行现代化革新。.hack系列自2002年诞生以来，以虚构网游为舞台，开创了游戏、动画、小说等跨媒体同步叙事的先河，已发展至第三季。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新作《.hack//Z.E.R.O.》将由CyberConnect2独立企划、开发和发行，这是该系列首次采用自主发行模式，音乐由世界知名小提琴家叶加瀬太郎担纲。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《.hack//Z.E.R.O.》是一款完全新作RPG，继承了系列标志性的虚拟与现实交错的双重世界观，并针对现代进行了进化升级，面向系列粉丝和新玩家。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《.hack》系列自2002年首作发售以来已发展至第三季，以虚构网游「The World」为舞台，通过游戏、动画、小说等多媒体同步展开叙事，是跨媒体企划的先驱作品。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/30th/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;全国47都道府県を巡る「サイバーコネクトツー展」開催決定！全国8都市にてファンミーティングも開催！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 サイバーコネクトツーが30周年記念で全国展覧会とブランド刷新を発表&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーが2026年2月16日の設立30周年を記念し、ブランドイメージを全面刷新する。コーポレートロゴをモノクロに変更し、新Vision『「好き」と「情熱」を込めたエンターテインメントを』を発表。2026年6月から全国47都道府県で無料の「サイバーコネクトツー展」を開催し、全国8都市でファンミーティングも実施予定。新キャラクター「くろたろ」を導入し、福岡・東京・大阪の各拠点にドット絵デザインの来社記念スタンプをリニューアル設置。記念グッズ販売やお祝いメッセージ募集キャンペーンなど、1年をかけて多彩な30周年記念企画を展開し、ファンや業界関係者への感謝を表現する。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーが2026年2月16日の設立30周年に向けて、全国47都道府県での展覧会開催と8都市でのファンミーティング、さらに3拠点のエントランスに来社記念スタンプをリニューアル設置することを発表した。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;同社は福岡、東京、大阪に拠点を構え、30作品以上の家庭用ゲームソフトや劇場用アニメーション、漫画、実写ドラマなど多様なエンタメ作品を手掛けてきた実績を持ち、30周年イヤーとしてブランドイメージを一新する。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;コーポレートロゴカラーをグリーンからモノクロへ変更し、新Vision『「好き」と「情熱」を込めたエンターテインメントを』を発表、世界中のユーザーとつながる企業姿勢を表明した。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年6月より福岡からスタートする全国47都道府県巡回の「サイバーコネクトツー展」では、30年分のクリエイティブと企業の信念を展示する無料イベントとして開催される。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;代表取締役の松山洋が直接参加する有料・事前申込制のファンミーティングを札幌、仙台、東京、大阪、名古屋、徳島、福岡、沖縄の全国8都市で開催予定。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;福岡・東京・大阪の各拠点エントランスに設置された来社記念スタンプをレトロゲーム風ドット絵デザインにリニューアルし、スタンプラリー要素を追加して来社記念グッズをプレゼントする仕組みを導入した。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;アーティストのヒガシがデザインした新キャラクター「くろたろ」がユーザー投票で決定し、仲間の「しろたろ」も含めた2バージョンが公開され、同社のVisionを具現化した存在として今後の活躍が期待される。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;「くろたろ」をあしらった30周年イヤー記念グッズセット（不織布バッグ、ノート、ハンカチ、ボールペン、ステッカー）を1,650円でCC2STORE Internationalにて販売開始した。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ファンおよび業界関係者から30周年お祝いメッセージを専用フォームやXで2026年2月16日まで募集し、応募者に抽選で毎月5名に記念グッズをプレゼントするキャンペーンを実施中。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;CC2STORE Internationalで超お得な設立記念パックA（5,000円で21,000円相当）とパックB（7,000円で23,000円相当）を販売し、祝花の代わりにAmazonウィッシュリストを通じた支援を呼びかけている。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202602/65890&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【ファミ通.com】サイバーコネクトツー創業30周年。“ケモかわ”から“原作愛溢れるIP作品”、さらにはマンガや映画まで。幅広く手掛ける総合エンタメ企業【今日は何の日？】&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2 evolved from a 1996 Fukuoka startup into a 300+ employee entertainment empire through mastering anime-faithful game adaptations and expanding into manga and film.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2, founded in 1996 by 10 university friends in Fukuoka, has evolved from a small game developer into a major entertainment conglomerate with over 300 employees spanning games, manga, anime, and film. The studio built its reputation through cult hits like &amp;#039;Tail Concerto&amp;#039; (1998) and &amp;#039;.hack&amp;#039; (2001), but achieved global dominance with the &amp;#039;Naruto: Ultimate Ninja&amp;#039; series (30M+ copies sold), establishing their signature &amp;quot;super anime expression&amp;quot; technology and becoming the industry standard for faithful anime/manga adaptations. Their technical excellence and respect for source material made them the go-to developer for major shonen franchises including JoJo&amp;#039;s Bizarre Adventure, Dragon Ball Z: Kakarot, and Demon Slayer. In 2018, CC2 pivoted from work-for-hire to self-publishing with their &amp;quot;Revenge Trilogy&amp;quot; project, while simultaneously expanding into original manga creation and live-action adaptations, demonstrating vertical integration across entertainment media. As they celebrate their 30th anniversary in 2026 with a new game announcement, CC2 exemplifies how a focused technical specialty (anime game adaptations) can serve as a foundation for building a diversified entertainment empire.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Company Foundation:&lt;/strong&gt; CyberConnect (now CyberConnect2) was founded on February 16, 1996 in Fukuoka by 10 university friends. They started as a small game developer and have grown to over 300 employees, becoming a major entertainment company.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Early Original Games:&lt;/strong&gt; Their first title was &amp;#039;Tail Concerto&amp;#039; (1998), a 3D action game featuring anthropomorphic animals that created a cult following. This established the &amp;#039;Little Tail Bronx&amp;#039; universe setting that continues in their kemono-themed games today.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;.hack Series Success:&lt;/strong&gt; The 2001 release of &amp;#039;.hack&amp;#039; became a breakthrough hit, offering a pseudo-online RPG experience during the early internet era. The franchise expanded across multiple games, anime, manga, and novels, establishing CC2 as a major developer.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Naruto Ultimate Ninja:&lt;/strong&gt; The &amp;#039;Naruto: Ultimate Ninja&amp;#039; series launched in 2003 became a massive global success with over 30 million copies sold by 2024. Their &amp;#039;super anime expression&amp;#039; technology and faithful recreation of source material set new standards for anime-based games.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Major IP Adaptations:&lt;/strong&gt; CC2&amp;#039;s reputation for respecting source material led to handling major franchises including JoJo&amp;#039;s Bizarre Adventure, Dragon Ball Z: Kakarot, and Demon Slayer. They became known as the go-to studio for shonen manga game adaptations.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Self-Publishing Transition:&lt;/strong&gt; In 2018, CC2 announced the &amp;#039;Revenge Trilogy&amp;#039; project including &amp;#039;Fuga: Melodies of Steel&amp;#039;, transitioning from developer to self-publisher. This marked their evolution into controlling their own IP and distribution.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Multimedia Expansion:&lt;/strong&gt; Beyond games, CC2 expanded into manga (&amp;#039;Chaser Game&amp;#039;, &amp;#039;Shigunin no Samurai&amp;#039;) and anime supervision (&amp;#039;Mechaude&amp;#039;). &amp;#039;Chaser Game&amp;#039; was adapted into live-action drama and film, demonstrating their evolution into a comprehensive entertainment company.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;30th Anniversary:&lt;/strong&gt; On February 16, 2026, CC2 celebrates 30 years since founding, with a new game project announcement scheduled. They&amp;#039;ve transformed from a small Fukuoka studio into a major entertainment enterprise spanning games, manga, anime, and film.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202602/66019&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【漫画の裏側を語る！】『チェイサーゲーム』原作コラム 『デバッグルーム』シーズン2 第62話 天使の舞う日（15）公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《Chaser Game》调整连载结构，陈Mike角色迎来瘦身变身重大转折&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是《Chaser Game》漫画原作者的专栏文章，主要讲述了作品从本期开始在结构上的重大调整。由于漫画家松岛幸太朗身兼CyberConnect2正式员工，需要平衡创作与公司工作，因此采用了新的外传插入方式，将外传作为本编的一部分而非独立故事。文章重点介绍了角色陈Mike的重大转变——从肥胖中年形象瘦身变为年轻帅气的功夫高手，这一设定从创作初期就已规划好，并将成为单行本15卷的封面。原作者详细说明了变身后的各种细节设定，包括伤疤愈合、造型变化等，展现了创作团队的细致沟通过程。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本作从本期开始改变了外传的构成方式，不再是独立于本编的故事，而是作为本编的一部分融入其中，采用本编4话+外传+本编4话+外传的形式构成单行本15卷。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于漫画家松岛幸太朗是CyberConnect2的正式员工，需要兼顾公司研修等工作，因此通过调整页数和创作时间表来平衡工作方式，原作者也相应调整外传内容的插入方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;原作者很早就计划让陈Mike瘦身变年轻并作为单行本15卷的封面，这个伏线从一开始就设定好了，尽管松岛老师最初表示不理解。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;关于陈Mike变身后的细节设定，原作者详细说明了伤疤会愈合、胡须消失、发型改变、衣服变宽松等变化，并特别要求加入吊带裤和长发束起的造型以配合功夫动作场面。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后预告下一话将于2026年2月23日公开，并宣传了松山洋社长撰写的新书《游戏业界的攻略法》以及相关商品信息。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
 &lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
 &lt;/div&gt;</content>
