@@ -4,8 +4,151 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-02-28T20:05:25.192Z</updated>
+  <updated>2026-03-01T20:06:35.399Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - March 1, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-03-01</id>
+    <updated>2026-03-01T20:06:35.399Z</updated>
+    <published>2026-03-01T20:06:35.399Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>6 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 1, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;65.75342465753424&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    16.4%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;60&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;305&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;8&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████░░░░░░░░░░░░░░░░░░░░░░░░░ 16.4%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;6&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22428&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Curse you, Betteridge’s Law! https://www.bbc.co.uk/weather/articles/c1d6q1l5r6do&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者吐槽Betteridge定律并分享BBC天气链接&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇极短的网络帖子，发布于2026年3月1日。作者以&amp;quot;Curse you, Betteridge&amp;#039;s Law!&amp;quot;表达感叹，并附上一条BBC天气页面的链接。Betteridge&amp;#039;s Law是一条媒体定律，指凡标题以问句形式提问的新闻文章，答案往往是&amp;quot;否&amp;quot;。帖子还包含地理位置信息（51°N, 0°E，即伦敦附近）及5位用户的点赞记录。内容极为简短，核心信息量有限。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/463&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 463: Interop 2026 browser scoreboard&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Interop 2026揭示主流浏览器特性支持差距&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为技术新闻简报第463期，核心内容围绕Interop 2026浏览器互操作性项目展开。报告显示各主流浏览器在CSS advanced attr()、contrast-color()和Container Style Queries等特性上存在明显支持差异，2026年将重点推进Web兼容性和WebTransport API。此外，简报还介绍了Puter.js前端SDK、Biome v2.4、Electrobun v1、Rari框架、Expo MCP Server及Google WebMCP等新工具，并通过JavaScript pipe函数讲解了函数式编程中的函数组合概念，整体风格轻松幽默。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了Interop 2026项目，该项目由主要浏览器厂商合作推动同一批Web功能的支持，并通过公开仪表板发布测试结果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Interop 2026报告揭示了各浏览器的支持差异：CSS advanced attr()主要在Chromium中可用，CSS contrast-color()在Firefox和Safari中表现领先，Container Style Queries在Firefox中支持率仅4.7%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年重点关注Web兼容性和WebTransport API，旨在确保网站跨浏览器正常运行并推动低延迟实时通信。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;广告介绍了Puter.js，一个前端JavaScript SDK，提供认证、存储、AI模型等500+服务，无需后端或API密钥，对开发者免费。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pop Quiz部分展示了一个JavaScript pipe函数，用于将多个函数链式组合，并通过答案部分详细解释了其工作原理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cool Bits板块汇集了多项技术资讯，包括modern.css、Biome v2.4、Electrobun v1、Rari框架、Expo MCP Server更新、State of React 2025调查结果以及Google的WebMCP早期预览。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/29/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;29&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 29岁的困惑：成长模糊，却难逃他人的年龄期待&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章是作者在29岁生日时写下的自我反思。作者以坦诚而略带疏离的笔调，探讨了随年龄增长而愈发模糊的成长感——28岁经历了诸多&amp;#039;成年人&amp;#039;事务，却并未因此感到显著变化。在缺乏明确奖惩机制的成年生活中，作者逐渐松懈，不再依赖外部成就标准自我评价。然而，社会与他人仍以年龄为尺度施加隐性期望，这与作者内心的困惑和抗拒形成张力，构成文章的核心矛盾。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者刚满29岁，却对年龄增长缺乏实感，认为随着年龄增长，每一岁所代表的变化愈发模糊。28岁经历了换工作、申请移民、车祸处理等新事件，但这些都只是&amp;#039;成年人&amp;#039;本应掌握的技能，并无显著的自我成长感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在&amp;#039;成年人&amp;#039;期待的框架下，生活中的一切都变得理所当然，缺乏明确的奖惩机制，作者因此找到了松懈的理由，不再迷信福布斯30 under 30这类外部成就标准。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管作者主观上不认同年龄应附带特定义务，但外部世界——家人、招聘方、移民评分制度——仍以年龄衡量一个人应承担的责任。作者坦言自己仍是困惑的人，并不希望以年龄制造关系的不平等，但他人隐含的期望始终存在。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本书真实还原二战中英国黑人的多元历史经历&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是对一本关于二战期间英国黑人历史书籍的评论。评论者肯定了该书通过第一手访谈和当代报告，真实还原了黑人英国人在二战中的多元经历，既有遭受种族歧视的困境（如Constantine v Imperial Hotels Ltd案），也有被英国民众热情接纳的温情故事。书中挑战了美国文化霸权对英国历史的误读，强调英国黑人的处境与美国非裔有根本区别。评论认为本书客观全面，是理解这段被忽视历史的优秀入门读物，给予四星好评。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇挑战了英国黑人历史被忽视的错误认知，指出从都铎时代起黑人就已存在于英国，并批评美国文化霸权对历史的歪曲，强调英国黑人在二战期间的经历与美国非裔截然不同。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本书的亮点在于收录了大量当代报告和现代访谈，通过第一手叙述呈现了鲜为人知的故事，并附有英国知名黑人人物名单及其小传，内容兼顾普通人与名人的生活经历。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中探讨了大英帝国殖民地人民响应号召奔赴英国参战却遭遇种族歧视的复杂历史，同时也记录了英国本地人对他们的接纳与善待，并以Constantine v Imperial Hotels Ltd案例说明了当时种族歧视的法律背景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;评论者指出书中语言有时令人感到不适，但认为本书对这段动荡历史的呈现较为客观公正，结尾略显仓促，整体而言是一部优秀的文献综述，推荐给希望了解这段历史的读者，综合评分四星。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-01T07:35Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-01T07:35Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Cloudflare删除多部署项目存在缺陷，用户体验令人失望。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在将项目从Cloudflare迁移至Bunny的过程中，发现Cloudflare存在一个已知缺陷：当Pages项目的部署数量超过100个时，无法通过界面正常删除项目。Cloudflare的官方解决方案是让用户自行运行一段Node脚本，通过API逐一删除每个部署，整个过程耗时超过15分钟。文章以简短而带有讽刺意味的语气收尾——&amp;quot;Cloudflare is a serious company&amp;quot;，暗示这种用户体验与其作为大型科技公司的定位不符。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者花了一个小时将项目从Cloudflare迁移到Bunny，发现当项目部署次数过多时，删除操作会报错，并被引导至一个&amp;quot;已知问题&amp;quot;文档页面。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cloudflare官方文档承认，当Pages项目的部署数量超过100个时，可能无法正常删除，且该问题仍在跟踪处理中。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cloudflare提供的解决方案是让用户自行运行一个Node脚本，通过API逐个删除部署，整个过程耗时超过15分钟，作者对此表示讽刺。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106454&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一日一技｜用频谱分析找出「假无损」音乐&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用频谱图识别假无损与假高解析度音乐&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者是一位多媒体程序员，通过频谱分析工具（ffmpeg和SPEK）教读者识别假无损和假高解析度音乐。文章系统介绍了频谱图的生成方法与参数含义，并通过真假对比揭示：假FLAC往往由低码率MP3转码而来，在16kHz以上明显截断；假高解析度音频则是CD音质强行升频的产物，在21kHz处有明显分界。作者建议有效频率超过30kHz方可视为合格的高解析度音频，并指出该方法对DSD格式效果有限。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了使用频谱图识别假无损和假高解析度音乐的目的，并说明了如何使用ffmpeg命令行工具或SPEK开源软件生成音频频谱图。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;频谱图的纵轴代表频率，横轴代表时间，颜色深浅表示响度大小，通过观察频谱图可以判断音乐文件的真实质量。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对比真假无损音频：真正的FLAC文件高频信号延伸自然，而由128k MP3转码的假FLAC文件在16kHz以上明显截断；AAC和Opus等有损格式也有各自可辨识的频谱特征。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;真正的高解析度音频（96kHz）有效频率可达35kHz以上且截止自然，而由CD音质强行升频的假高解析度音频在21kHz处有明显边界，21kHz以上仅为静音或噪音。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出，判断真高解析度音频的标准是有效频率超过30kHz，并坦承频谱分析法对DSD格式局限性较大，因DSD转PCM过程中会引入滤波器，难以通过此方法判断真假。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - February 28, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2093,221 +2236,6 @@ Note: I can only provide a summary based on the title since the actual article c
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结尾介绍了新玩意视频版内容，并邀请读者参与Matrix共创计划投稿分享新产品，成功入选可获得108元红包奖励。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - February 18, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-02-18</id>
-    <updated>2026-02-18T20:17:17.877Z</updated>
-    <published>2026-02-18T20:17:17.877Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>14 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - February 18, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;53.6986301369863&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    13.4%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;49&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;316&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;7&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████░░░░░░░░░░░░░░░░░░░░░░░░░░ 13.4%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;14&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(8 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://simonwillison.net/2026/Feb/15/deep-blue/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Deep Blue&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Software developers face existential anxiety as AI threatens their uniquely meritocratic field, mirroring chess players&amp;#039; crisis after Deep Blue.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Deep Blue** describes the existential anxiety software developers experience as AI encroaches on their field, named after the chess computer that defeated Kasparov in 1997. The phenomenon is particularly acute because software engineering has been uniquely meritocratic—requiring only dedication and a laptop rather than expensive credentials—making the threat of displacement by AI chatbots especially distressing for those who invested years building their skills. Developers are grappling with an internal conflict between excitement for democratized capabilities and questioning their own relevance as AI tools like Claude and GPT demonstrate increasingly sophisticated coding abilities that render traditional expertise less critical. However, the experience of chess and Go players—who faced similar crises when AI surpassed human champions but ultimately emerged stronger—suggests developers can adapt and find renewed purpose beyond competing directly with AI capabilities.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining Deep Blue:&lt;/strong&gt; A new term coined on the Oxide and Friends podcast to describe the psychological ennui and existential dread software developers feel as generative AI encroaches on their field. The term references the chess computer that defeated Garry Kasparov in 1997, drawing parallels to how AI is now challenging human expertise in software development.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Software Engineering&amp;#039;s Accessibility:&lt;/strong&gt; Professional software engineering is a hard-earned, well-compensated career that uniquely lacks traditional gatekeepers—requiring only a laptop, internet connection, and dedication rather than expensive degrees. The prospect of this meritocratic path being undermined by chatbots is deeply upsetting to those who invested years developing their skills.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Community Impact Observed:&lt;/strong&gt; Signs of Deep Blue appear across online developer communities, with some accusing those who promote AI-assisted programming of harming future careers. Naming this phenomenon makes it easier to have constructive conversations about the genuine mental anguish it&amp;#039;s causing.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Personal Deep Blue:&lt;/strong&gt; The author&amp;#039;s first experience came in early 2023 when ChatGPT Code Interpreter performed years of planned data analysis work in minutes, creating an internal conflict between excitement for democratized capabilities and questioning personal relevance. Recent advances with Claude Opus 4.5/4.6 and GPT-5.2/5.3 coding agents have intensified these feelings.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Induced Developer Ennui:&lt;/strong&gt; Software engineers are experiencing listlessness as AI demonstrates capabilities that make memorizing syntax irrelevant, leading to existential crises about career value. While reassurance exists that accumulated experience remains valuable, the psychological adjustment is genuinely difficult.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Historical Precedent Exists:&lt;/strong&gt; Chess and Go players went through similar existential challenges when AI defeated human champions over a decade ago and emerged stronger from the experience. This suggests a path forward for software developers facing their own Deep Blue moment.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://margaretstorey.com/blog/2026/02/09/cognitive-debt/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI时代认知债务比技术债务更威胁软件开发&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章探讨了在AI时代，认知债务比技术债务更具威胁性。技术债务存在于代码中，而认知债务存在于开发者头脑中，影响他们对系统的理解和变更能力。作者通过教学案例说明快速开发导致团队失去对系统的共享理解。随着生成式AI和代理AI的普及，开发速度加快但可能导致开发者失去对程序的理论把握。文章建议团队采用结对编程、重构等实践放慢节奏，建立认知债务缓解策略，识别预警信号，并呼吁学术界研究如何测量和管理认知债务，以保护软件的长期健康发展。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;技术债务通常指代码中积累的设计或实现选择使软件难以理解和修改，但认知债务这一新兴概念强调债务存在于开发者大脑中，影响他们的理解能力和变更能力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;认知债务在AI时代比技术债务威胁更大，因为程序不仅是源代码，更是存在于开发者头脑中的理论，包含程序功能、实现方式和变更方法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在创业课程中观察到学生团队因快速开发而积累认知债务，团队成员无法解释设计决策和系统工作原理，导致项目陷入瘫痪。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;类似《人月神话》的教训，增加AI代理可能增加协调开销和认知负担，开发者需要放慢速度采用结对编程、重构和测试驱动开发等实践来减少认知债务。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;团队应建立认知债务缓解策略，包括确保至少一名成员完全理解AI生成的变更、记录变更原因、定期重建共享理解，并识别认知债务的预警信号。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;随着生成式和代理AI重塑软件开发，理解和管理认知债务成为重要挑战，需要研究如何测量认知债务、有效实践以及在分布式团队中的扩展问题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://whatever.scalzi.com/2026/02/14/10-thoughts-on-ai-february-2026-edition/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;10 Thoughts On “AI,” February 2026 Edition | Whatever&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI不可靠且易被拟人化，应远离课堂教育&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者强烈反对在教育领域使用AI技术。主要论点包括：AI在事实准确性方面不可靠，儿童比成人更容易将AI拟人化，而成人本身就已经很容易受此影响。此外，AI的训练过程和权重设置缺乏透明度，存在道德和事实层面的风险。作者明确呼吁将AI排除在课堂教学之外，认为这对儿童教育构成潜在危害。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://unsung.aresluna.org/molly-guard-in-reverse/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Molly guard in reverse – Unsung&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 从防误操作的molly guard到自动执行的反向设计&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章探讨了计算机界的&amp;#039;molly guard&amp;#039;概念及其演变。Molly guard原指重要按钮前的物理安全盖，源于工程师女儿误按数据中心按钮的故事。这种防误操作设计在硬件（如战斗机安全盖、凹陷按钮）和软件（如确认对话框、组合键）中广泛存在。作者进一步提出&amp;#039;反向molly guard&amp;#039;概念，即超时自动执行的机制，这在系统更新、长时间渲染等场景中尤为重要，可避免机器因等待用户响应而空转。好的交互设计应明确告知用户何时可以放心离开，让流程自动完成。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了&amp;#039;molly guard&amp;#039;这个计算机术语的起源，指的是重要按钮前的塑料安全盖，名字来源于一个工程师的女儿Molly在数据中心两次按下大红按钮的故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Molly guard在硬件和软件中都有体现，硬件如战斗机的安全盖、凹陷按钮等，软件如确认对话框、组合键（Ctrl+Alt+Del）等增加操作摩擦的设计。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提出了&amp;#039;反向molly guard&amp;#039;的概念，即如果用户不操作就会自动执行的按钮，这种设计在某些场景下很贴心，比如系统更新或长时间渲染时的自动继续功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;强调了反向molly guard的重要性，特别是在长时间运行的任务中，避免机器因等待用户响应而浪费时间，好的设计应该让用户知道何时可以放心离开。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;JS-heavy approaches are not compatible with long-term performance goals&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 JS重度开发方法通常导致性能问题且难以维护&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇关于Web性能的长篇观点文章，作者基于在Automattic公司的性能优化经验，批判了以React为代表的JS重度开发方法。作者指出这类方法虽然承诺提升开发体验，但实际上会导致bundle体积膨胀、性能持续恶化、维护成本高昂等问题。文章详细分析了npm依赖管理的成本、框架设计中容易犯错的陷阱、以及性能优化的脆弱性。作者认为现代Web开发工具链使得做错事比做对事更容易，单个失误就可能抵消所有优化努力，呼吁行业重新审视JS重度开发方法，转向更以服务器为中心的开发方式。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍自己在Automattic公司从事全职Web性能优化工作，专注于浏览器端性能问题，积累了大量调试经验，发现JS重度开发方法存在普遍性问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者澄清React应该被称为框架而非库，因为它通过控制反转来调用开发者代码，符合框架的定义。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;JS重度开发方法被宣传为能提升开发体验并最终改善用户体验，但实际上往往导致性能问题、持续变慢、维护成本高且bug频发。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;npm依赖包通常体积庞大且随时间增长，如moment库5年增长10%，react-dom从v18到v19增长33%，而现有工具链缺乏有效的体积监控机制。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;JS重度开发方法在性能方面容易做错事而难以做对，例如顶层导入、同步加载、单体打包、Redux不当使用等都会导致性能问题，且教程往往教授错误做法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;性能优化成果极其脆弱，单个错误的静态导入或依赖升级就可能抵消之前所有的优化努力，使应用性能迅速恶化。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22403&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Looking forward to going to State Of The Browser in ten days. I spoke at it eight years ago and I still like what I said then: https://adactio.com/articles/14321&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者期待参加会议并回顾八年前的演讲&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇简短的社交媒体帖子，作者Jeremy Keith表达了对即将参加State Of The Browser会议的期待。他提到自己八年前曾在该会议上发言，并分享了当时演讲的链接，表示仍然认同自己当时的观点。帖子包含了发布的时间、地点信息，以及来自社交媒体平台的互动反馈，包括一条评论和多个点赞。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22402&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Counting down to Web Day Out&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 倒计时三周的Web Day Out技术会议推广&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇活动推广文章,主要宣传即将在3月12日举办的Web Day Out技术会议。作者采用倒计时的方式营造紧迫感,强调活动的高性价比和丰富内容,涵盖CSS、PWA、网页排版等前端技术主题。文章还捆绑推广了State Of The Browser活动,提供购票优惠策略。整体语气轻松友好,通过实用信息和优惠组合吸引目标受众参与这两个web开发者社区活动。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章提醒读者距离Web Day Out活动仅剩三周时间,建议有培训预算的团队参加这个高性价比的活动,内容涵盖CSS、PWA、网页排版和浏览器支持等主题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章推荐了另一个即将举办的State Of The Browser活动,现场票已售罄但在线票仍可购买,购买Web Day Out门票可免费获得State Of The Browser在线观看权。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章鼓励读者在未来十天内购票,先在线观看State Of The Browser,然后于3月12日前往Brighton参加Web Day Out现场活动。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://aarontgrogg.github.io/NoLoJS/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reduce the JS Workload with no- or lo-JS options&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用HTML/CSS替代JS实现常见网页组件&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了一个开源项目集合,旨在用HTML和CSS替代JavaScript实现常见的网页交互组件。作者认为虽然JavaScript功能强大,但网页正被过多的JS代码拖累,因此应该将可以用HTML/CSS实现的功能转移过去,减轻JS负担。该集合包含手风琴、轮播图、模态框、导航菜单、懒加载、视差效果等30多种常见组件的无JS或低JS实现方案,每个组件都提供多种变体和CodePen演示。随着HTML和CSS标准的不断成熟,这个集合还会继续扩展。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Designing A Streak System: The UX And Psychology Of Streaks&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 解析连续打卡系统的心理机制与道德设计原则&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深入分析了连续打卡(streak)系统的心理学机制和设计原则。作者Victor Ayomipo通过Duolingo等实例,揭示了连续打卡如何利用损失厌恶、Fogg行为模型(B=MAP)和蔡格尼克效应等心理学原理来塑造用户行为。文章强调连续打卡系统具有双面性:设计得当可以帮助用户养成良好习惯,但也可能导致强迫行为和焦虑。作者提出了道德化的设计建议,包括降低行动门槛、平衡内外在动机,以及确保系统是鼓励而非施压。文章为产品设计者提供了构建有效且负责任的连续打卡系统的实用指南。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了连续打卡(streak)系统的强大影响力,以Duolingo为例说明其iOS小部件显示连续打卡后用户承诺度激增60%,并阐述连续打卡不仅是应用功能,更是深层次的心理机制。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了连续打卡背后的三个心理学原理:损失厌恶(失去的痛苦是获得快乐的两倍)、Fogg行为模型(行为=动机+能力+提示)和蔡格尼克效应(未完成任务占据更多心理空间)。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨了连续打卡系统的双面性,指出习惯养成与强迫行为之间的细微界限,强调良好的连续打卡设计应该是鼓励而非压力,应平衡外在动机和内在动机。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提出优秀连续打卡系统的UX设计原则,首要原则是让所需行动尽可能简单轻松,同时仍能实现进步,这与Fogg行为模型中的能力因素和《原子习惯》的理念一致。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 David Heinemeier Hansson &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/omacon-comes-to-new-york-e6ee93cb&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Omacon comes to New York&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 首届OMACON大会将庆祝Linux和Omarchy的快速发展&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章宣布首届OMACON大会将于4月10日在纽约举办，庆祝Linux生态的快速发展和Omarchy项目的成功。大会汇集Hyprland、OpenCode等项目的知名创始人和贡献者，仅提供130张299美元门票。作者强调面对面社区聚会的独特价值，并赞扬Omarchy项目在短短数月内取得的显著成就——300多位贡献者、每周5万次下载、3万Discord用户，展现了开源社区通过行动力和共同热情创造价值的精神。文章体现了技术社区对连接感和归属感的渴望。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Linux生态正在快速变化，企业关注度提升，x86硬件改进，TUI界面因OpenCode和Claude Code而流行，OMACON大会将于4月10日在纽约Shopify SoHo Space举办庆祝这些变化和Omarchy项目。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;大会邀请了众多知名演讲者，包括Hyprland创始人Vaxry、ThePrimeagen、TJ DeVries、OpenCode创始人Dax Raad、Omarchy核心贡献者Ryan Hughes和Bjarne Øverli，以及Chris Powers和作者本人，活动包含短演讲、交流时间和美食。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;门票将于2月19日上午10点EST开售，仅130个席位，票价299美元，预计很快售罄，未能购票者可观看录播，但现场聚会有独特的社区连接价值，如Rails World三年经验所示。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;强调行动力的重要性，Omarchy Linux发行版自去年夏天启动以来已有300多位贡献者，每周5万次ISO下载，Discord上3万用户，体现开源精神的最佳实践，感谢Shopify和Tobi提供场地支持。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-02-18.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: February 18&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI正在重塑软件开发实践，TDD和代码健康是关键&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Martin Fowler分享了Thoughtworks未来软件开发研讨会的见解，探讨AI对软件开发的影响。研讨会发现现有开发实践在AI辅助下正在崩溃，新方案尚未成熟。关键洞察包括：AI是放大器而非颠覆者，会放大现有流程的优缺点；LLM正在改变专业技能需求，通才可能更受重视；成本、安全性和开发流程都面临不确定性。多位专家强调TDD和测试对有效使用LLM的重要性，健康代码库能显著降低AI生成代码的缺陷率。整体而言，行业对AI的应用仍在摸索中，但共识是AI不会消失，关键是如何最大化收益并管理风险。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Martin Fowler和Rachel Laycock在Thoughtworks未来软件开发研讨会后录制视频，澄清该活动并非要创建类似敏捷宣言的AI开发新宣言，而是探讨AI辅助开发带来的挑战和变化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;研讨会总结了八大主题，包括严谨性、中间循环工作、技术基础和人的因素等，发现现有的软件开发实践、工具和组织结构在AI辅助工作下正在以可预测的方式崩溃，新的替代方案正在形成但尚未成熟。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Annie Vella分享了她的收获，发现即使是业内最聪明的人也没有完全弄清楚如何大规模采用AI，但至少大家对应该问什么问题有了共识，这可能是最有价值的成果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Rachel Laycock在采访中指出AI是放大器而非颠覆者，它会放大现有流程的优缺点，如果传统软件交付最佳实践不到位，速度倍增器会变成债务加速器。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;LLM正在吞噬专业技能，前端和后端专业开发者的需求可能减少，驱动LLM的技能变得比平台使用细节更重要，这可能导致对通才专家角色的更多认可。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;LLM的真实成本尚不明确，一旦补贴消失后是否仍比人工便宜存在不确定性，可能便宜到不在乎token数量，也可能贵到需要非常谨慎使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;关于规范的兴起是否会导致回归瀑布式开发的讨论，Fowler认为这取决于工作流程，LLM不会改变快速构建和发布小功能切片的价值，而是有望增加周期频率。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;安全会议参与人数较少，一家大型企业员工表示他们故意在AI技术上保持落后四分之一，以管理风险，平台团队需要创建快速但安全的路径。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Fowler欣赏研讨会的开放空间形式和深入尊重的对话氛围，一位女性参与者表示在这里她可以只是参与者而不必感觉自己是女性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Stephen O&amp;#039;Grady分析了软件行业对AI的围困感，引用Grady Booch的观点认为AI只是行业抽象历史中的又一步，建议开发者保持冷静，AI不会消失，关键是如何最大化其收益同时减轻成本。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Adam Tornhill的研究显示LLM在健康代码库中表现更好，不健康代码中的缺陷风险高30%，且研究中的不健康代码远不及许多遗留代码糟糕。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;一位LLM编码代理的重度用户表示TDD对有效使用LLM至关重要，Fowler认为清晰的测试和TDD循环是有效驱动LLM的关键工具。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/02/book-review-all-systems-red-the-murderbot-diaries-by-martha-wells/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: All Systems Red - The Murderbot Diaries by Martha Wells ★★⯪☆☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Murderbot系列首作平淡无奇，名不副实&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于科幻小说《Murderbot》系列第一本书的书评。评论者认为这本书表现平平，虽然主角Murderbot作为一个只想看视频、社交尴尬的角色设定有些趣味性，但整体情节单调，缺乏新意。作为中篇小说，书中充斥着过多的背景介绍，实际行动场景较少，节奏拖沓。尽管这个系列广受好评，但评论者认为它名不副实，给出了2.5星的平庸评价，表示可能会在读完其他书后尝试续集。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-02-18T18:31Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-02-18T18:31Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI prioritizes efficiency over care, but sustainable product success requires valuing thoughtful craftsmanship above quick profit-driven shortcuts.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article argues that while &amp;quot;taste&amp;quot; is often cited as the key differentiator in the AI era, &amp;quot;care&amp;quot; is the more fundamental quality that separates meaningful products from efficiency-optimized ones. It critiques AI&amp;#039;s marketing as a shortcut to immediate profit, which sacrifices sustainable values for quick gains. The author advocates for prioritizing care as the essential ingredient for long-term product success, deliberately positioning against the prevailing AI-first, efficiency-focused development culture by building for users who value thoughtful craftsmanship over shortcuts.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Taste vs Care:&lt;/strong&gt; While &amp;#039;taste&amp;#039; is widely claimed as the supreme skill in the AI era, &amp;#039;care&amp;#039; is what truly matters in products. Care represents a fundamental quality that distinguishes meaningful products from those optimized solely for efficiency.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI&amp;#039;s Short-term Focus:&lt;/strong&gt; AI is marketed as a shortcut to immediate profit, often sacrificing other important values. This approach prioritizes quick gains over sustainable, thoughtful development.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Care Enables Longevity:&lt;/strong&gt; Care is the essential ingredient for long-term success in product development. It stands in contrast to the short-term profit mentality that dominates AI-driven approaches.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Developing for Care:&lt;/strong&gt; The author chooses to build products for users who value care over shortcuts. This represents a deliberate positioning against the prevailing AI-first, efficiency-focused development culture.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-02-18T12:52Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-02-18T12:52Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 GitHub屏蔽功能会在被屏蔽用户贡献过的仓库显示警告&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章介绍了GitHub的账户屏蔽功能。当用户屏蔽某个账户后，该账户曾经贡献过的代码仓库会显示警告信息，提醒用户该被屏蔽账户曾参与过此项目。作者通过一个实际例子展示了这个功能的界面效果，并感谢了最初分享这一发现的匿名用户。这是GitHub平台为用户提供的一项安全和隐私管理工具。&lt;/p&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
 &lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
 &lt;/div&gt;</content>
