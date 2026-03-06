@@ -4,8 +4,259 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-03-05T20:16:02.919Z</updated>
+  <updated>2026-03-06T20:10:55.884Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - March 6, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-03-06</id>
+    <updated>2026-03-06T20:10:55.884Z</updated>
+    <published>2026-03-06T20:10:55.884Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>12 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 6, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;71.23287671232876&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    17.8%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;65&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;300&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;9&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████░░░░░░░░░░░░░░░░░░░░░░░░░ 17.8%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Human Strategy In An AI-Accelerated Workflow&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI正在重新定义UX设计师的角色,从制造者转变为意图的指挥者&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了AI对UX设计行业的深刻影响。作者认为,虽然AI能够快速生成界面、处理数据和维护设计系统,但UX设计的核心价值在于共情、伦理判断和战略思维等人类独有的能力。设计师的角色正在从产出的制造者转变为意图的指挥者,从执行者转变为战略决策者。AI擅长处理重复性工作和大规模数据分析,而人类设计师则负责理解用户需求、做出伦理决策和把握战略方向。作者强调,设计师不应恐惧AI,而应学会与之协作,将更多精力投入到需要人类判断和创造力的工作中。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (22 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了自己在用户体验设计领域超过20年的经验,见证了行业的多次变革,但没有什么像AI一样让设计师感到不安。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;当生成式AI工具首次进入工作流程时,作者感到不安和好奇,看到机器能在几秒钟内生成界面,引发了对职业前景的担忧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;设计师们普遍担心AI会取代自己的工作,这种恐惧并非不理性,因为AI已经能够生成线框图、原型、角色和整个设计系统。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;如果设计师的角色主要是制作产出物,那么这些工作已经在被自动化,但UX设计从来不仅仅是创建用户界面。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;UX设计的核心是在模糊中导航、为人类发声、将复杂需求转化为连贯可用的体验,AI并非取代这项工作,而是在放大它。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;真正的转变是设计师从产出的制造者转变为意图的指挥者,从创造者到策展人,从执行者到战略决策者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI在速度和批量生成方面表现出色,可以在几秒钟内生成大量设计变体,McKinsey估计生成式AI可以将创意和设计相关任务的时间减少70%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI在一致性和规则遵守方面表现优异,特别适合维护大规模设计系统,作者很乐意将这部分工作交给AI管理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI能够大规模处理行为数据,识别用户旅程路径、热图和转化漏斗中的模式,但定量数据告诉我们&amp;#039;是什么&amp;#039;,定性数据告诉我们&amp;#039;为什么&amp;#039;。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI的根本局限是它永远不会是人类,共情是基于生活经验的,AI可以描述挫折但从未感受过。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;良好的UX设计不是关于界面,而是关于沟通和理解,这就是为什么用户访谈和情境调查仍然重要。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI会优化我们给它的目标,但不会识别黑暗模式、操纵或情感剥削,伦理UX设计需要设计师能够说&amp;#039;我们可以这样做,但我们不应该&amp;#039;。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI不参加利益相关者会议,不理解组织政治或监管细微差别,设计师充当商业意图和人类影响之间的翻译者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;随着AI接管执行工作,人类设计师成为意图的守护者,这种转变已经在重塑日常设计实践。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;设计师正在从操纵像素转向阐明意图,清晰的目标、约束和优先级成为输入,提示不是关于巧妙的措辞,而是关于思维的清晰度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI产生选项,设计师做决策,未来大部分设计工作将涉及审查、批评和完善AI生成的输出。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将现代设计师比作电影导演,导演不操作摄像机或搭建布景,但负责故事、情感意图和观众体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;十年前设计师可能花费数天制作线框图,今天同样的功能可以在一个下午用AI支持搭建完成,但艰难的对话没有改变。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;UX设计师仍然需要问这是为谁设计的、我们在解决什么问题、失败时会发生什么、可能会无意中排斥谁。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;高级设计师在设计工具内花费的时间更少,更多时间用于促进研讨会、综合混乱的输入、调解利益相关者并在权衡时保护用户需求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI加速了生产,但没有消除设计师的责任,当选项廉价且丰富时,辨别力成为稀缺技能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;避免AI不会保持相关性,学会深思熟虑地使用它才会,建议从小处开始探索。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-281/viewer?title_no=853933&amp;episode_no=295&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 281&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画DOGHAUS第281集页面&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是WEBTOON平台上名为DOGHAUS的网络漫画系列第281集的页面。页面主要包含该系列从第1集到第281集的完整集数列表，以及一些特别公告和Sunday Strip特辑。作为CANVAS自出版系列，该作品被评为成熟内容级别。页面提供了订阅、分享、举报等互动功能，并展示了Fantasy类别下的其他推荐作品排行榜。这是一个典型的网络漫画平台导航和内容索引页面。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/03/firmware-update-for-the-treedix-trx5-0816-cable-tester/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Firmware Update for the Treedix TRX5-0816 Cable Tester&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Treedix USB测试仪固件升级指南&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了Treedix USB线缆测试仪的固件升级过程。作者去年评测该设备后发现bug，联系厂商获得了2.4.06版本更新。厂商通过Google Drive而非官网提供更新文件，并特别说明v4.0版本因硬件差异无法用于旧设备。文章详细描述了升级步骤：连接设备到电脑、按住功能键关机、运行升级程序等。更新后设备改进了对高级eMarker的识别能力，但厂商未提供正式的更新日志。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者去年评测了Treedix USB线缆测试仪，发现有小bug后联系厂商获取更新，厂商通过Google Drive提供了2.4.06版本更新文件而非官网发布。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;厂商说明当前设备运行2.3版本可升级到2.4.06，但v4.0版本因硬件不兼容无法通过软件升级，提醒用户谨慎更新并确认设备版本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;升级步骤包括：开机、连接USB-C线缆到电脑、运行exe程序、按住功能键同时关机、点击升级按钮并等待完成。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;虽然没有发布说明，但更新后设备现在能正确读取一些更高级的eMarker芯片信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-06T07:04Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-06T07:04Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Proton Mail依法交出数据引争议，但无邮件商能完全免于法律约束&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章讨论了Proton Mail向FBI提供Stop Cop City抗议者支付数据的事件。作者认为404 Media的报道标题具有误导性，因为Proton只是依法行事。作者质疑为何舆论焦点集中在Proton而非全球隐私权的系统性侵蚀。文章指出，相比Google每年交出的大量未加密数据，Proton的合规数量很少且仅涉及未加密信息。作者强调没有任何邮件服务商能提供完全匿名和免于法律约束的服务，包括Fastmail等替代方案也会遵守法律要求。文章以反问404 Media自己使用哪家邮件服务商作为结尾。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;404 Media报道称，注重隐私的电子邮件提供商Proton Mail向瑞士政府提交了与Stop Cop City抗议者相关的支付数据，该数据随后被转交给FBI。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出Proton是被迫遵守瑞士法律，这并非首次发生，404 Media的标题具有误导性。作者质疑为何焦点放在Proton而非全球政府对隐私的侵蚀。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者强调这只是因为涉及Proton才成为新闻，而Google每年交出数十万账户数据且邮件未加密。Proton在2025年仅遵守了8,313项法律命令，提供的是少量未加密数据。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者反问：没有任何信誉良好的邮件提供商能提供完全匿名、无法追踪且加密的服务。每次Proton出事人们都愤怒，但没人能推荐更好或免疫的服务。Fastmail虽然数据请求少但也未加密，同样会遵守法律。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n6cad549d651b&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;この瞬間に立ち会えて良かった✨新プロジェクト発表&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CC2設立30周年と新作発表の舞台裏&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーの宣伝担当者が、同社の設立30周年記念イベントと新作『.hack//Z.E.R.O.』発表の舞台裏を振り返る記事。週刊ファミ通での30ページ特集掲載や、ティザーサイト制作、SNS運営など、宣伝広報チームの具体的な業務内容が詳しく紹介されている。発表当日には「.hack」がトレンド1位になるなど大きな反響があり、筆者は感慨深げにその瞬間を振り返っている。現在はサイバーコネクトツー展の準備を進めており、30周年イヤーへの期待が込められている。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーが設立30周年を迎え、業界関係者パーティーを開催し、新作『.hack//Z.E.R.O.』プロジェクトを発表した。本作は自社パブリッシングタイトルとして展開される。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;週刊ファミ通に30ページの大ボリューム特集が掲載され、『.hack//Z.E.R.O.』の情報や松山社長のお面付録も含まれている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;宣伝広報チームは、ティザーサイトやプレスリリースの作成、SNS投稿準備、インタビュー調整、権利元への許可申請など多岐にわたる作業を行った。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;発表当日、「.hack」がXのゲーム・トレンド1位になり、SNSで大きな反響があった。筆者は帰宅後もずっとファンのリアクションを見ていた。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;現在はサイバーコネクトツー展の準備を進めており、多肉植物の栽培にも挑戦している様子が紹介されている。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/?p=11284&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【採用情報】急募！ローカライズ担当スタッフ募集［中途］（福岡本社・東京スタジオ・大阪スタジオ）&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2招聘游戏本地化人才&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2招聘游戏本地化人员，负责将游戏内容适配到多种语言和文化环境。本地化工作不仅是翻译，更需要深入理解目标市场的文化差异，与开发团队紧密协作，确保全球玩家获得最佳体验。应聘者需具备商务级日英双语能力（或其他指定语言），有本地化或翻译实务经验，能够独立发现问题并积极解决。工作地点可选择福冈、东京或大阪，通过书面审查后需完成翻译测试。公司寻找热爱日本游戏文化、具有团队协作精神的人才共同打造优质游戏作品。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CyberConnect2游戏开发公司招聘本地化工作人员，本地化团队隶属于开发部本地化室，在东京工作室进行作业，负责所有项目的本地化工作，与福冈总部、东京和大阪工作室以及外部合作伙伴保持密切沟通。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏本地化不仅是翻译工作，需要深入理解目标语言国家的文化和情况，确保全球玩家获得最佳游戏体验。本地化需要注意符号含义、文化习惯等细节差异，有时还需要与开发团队协商调整游戏规格和设置，这要求对游戏世界观、目标语言和文化有深入理解。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本地化工作能够与多个部门协作创造优秀作品，游戏发售后可以听到全球用户的反馈。公司希望招聘热爱日本游戏、动漫、漫画等内容以及CyberConnect2开发作品的高热情人才，共同打造最优秀的游戏作品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;招聘要求包括：具备商务级日语和英语能力（或其他指定语言的母语者），拥有本地化或翻译实务经验，能够从日语进行翻译，具备Excel基本操作能力。优先考虑有游戏开发、娱乐行业经验、翻译工具使用经验和团队合作经验的应聘者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;应聘流程包括提交履历书、职务经历书和应聘问卷，通过书面审查后将进行翻译测试。所有应聘文件需以数据形式提交，文件命名需包含全名，单个文件不超过10MB。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21286&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ドラマ『チェイサーゲームW』公式ノベライズ 小説 チェイサーゲームW  3/6より5巻配信！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《ChaseGame W》电视剧官方小说化，讲述前恋人职场重逢的爱憎故事&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文宣布电视剧《ChaseGame W》的官方小说化作品将从2026年1月9日起每两周发布一卷。小说以原剧情为基础，增加了原创内容、心理描写和官能场景。故事讲述游戏开发公司员工春本树与前恋人林冬雨在职场重逢后的爱憎纠葛。作品由CyberConnect2的松山洋总监修，在多个电子书平台发售，定价660日元。文章详细介绍了1-5卷的故事梗概，从两人的职场对抗到误解消除、感情复合，再到面对外部干扰的情节发展。同时预告了同名电影将于5月15日上映。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;宣布电视剧《ChaseGame W》官方小说化作品将从1月9日起每两周发布一卷单行本，以纪念电影《ChaseGame W 水鱼之交》5月15日上映。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小说版以电视剧故事为中心，增加了原创故事、人物心理描写、情景描写以及树与冬雨的官能场景，从新视角讲述《ChaseGame W》的故事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第1卷讲述游戏开发公司员工春本树被任命为中日合作大项目负责人，中方派来的负责人竟是大学时代被她单方面分手的前恋人林冬雨，冬雨因怨恨而对树施加无理要求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作品由CyberConnect2公司的松山洋总监修，保坂星耀负责小说脚本，定价660日元，在Apple Books、Kindle等多个电子书平台发售。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;随后陆续公开了2-5卷的故事梗概，讲述树与冬雨从职场对抗到误解消除、重新结合，以及面对冬雨丈夫归来和上司呂麻美干扰项目等情节发展。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后介绍了电影《ChaseGame W 水鱼之交》将于5月15日全国上映，由菅井友香和中村ゆりか主演，并附带了相关作品和活动信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106906&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 8 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本周8部优质影视作品推荐及最新预告资讯汇总&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇影视推荐合集文章，由少数派编辑部推出的「本周看什么」栏目内容。文章系统介绍了近期值得观看的8部优质影视作品，涵盖国产剧、台剧、日剧、美剧、电影、纪录片和真人秀等多种类型。每部作品都配有详细的剧情介绍、观看渠道和编辑点评，帮助读者快速了解作品特色。此外，文章还汇总了本周重要的影视预告和新闻资讯，包括《海贼王》《黑袍纠察队》等热门剧集的最新动态，以及多部电影的定档信息。整体风格专业且贴近观众，为影视爱好者提供了全面的观影指南。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了本周值得观看的8部影视作品，包括国产剧《除恶》、台剧《何百芮的地狱恋曲》、日剧《钟表馆事件》等，涵盖剧情、悬疑、喜剧等多种类型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;推荐了电影《遇见世界》、美剧《暗夜情报员第三季》、国产剧《纯真年代的爱情》等作品，这些作品分别探讨了现代人的生活困境、政治阴谋和年代爱情。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了纪录片《守护解放西·探案季》和真人秀《天机试炼场》，前者聚焦刑侦案件，后者以命运预测为主题，展现了不同类型的真实内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还包含了多部新剧预告信息，如《海贼王第二季》《黑袍纠察队第五季》《绿灯军团》等，以及《超级马力欧银河大电影》等影视新闻。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/excel-tips&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;常用 Excel「奇技淫巧」，助你在新的一年处理数据事半功倍，「马到成功」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 系统讲解Excel常用函数和技巧的实战教程&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇Excel实用技巧教程，作者从日常工作场景出发，系统讲解了文本格式化、数据筛选匹配等核心功能。文章涵盖TEXT、DATEDIF等日期处理函数，SUBSTITUTE、LEFT/MID/RIGHT等文本处理函数，REGEX系列正则表达式函数，以及XLOOKUP数据匹配函数。每个场景都配有具体案例和详细步骤说明，采用循序渐进的讲解方式，既适合初学者入门，也为熟练用户提供了进阶技巧。文章还设置了思考题供读者练习，体现了较强的实用性和教学性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了Excel在现代办公中的重要性，强调其在处理中小型数据、数据透视分析和函数应用方面的优势，并说明本文将通过具体案例讲解常用Excel功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过TEXT、DATEDIF、TODAY等函数演示如何格式化日期并计算年龄，详细解释了Excel日期的数字序列存储机制，以及如何使用TEXT函数将日期转换为特定文本格式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲解了DATEDIF函数计算年龄的方法，包括动态更新和固定日期两种方式，并演示如何使用CHAR函数插入换行符，最终通过文本连接符将各元素组合成所需格式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了Excel条件格式中的「使用公式确定条件」功能，通过运动会报名统计表的案例，演示如何根据不同列数据的比较结果来高亮显示符合条件的单元格。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示了使用SUBSTITUTE和LEN函数计算字符串中特定字符数量的方法，通过计算顿号数量来统计名单中的人名数量。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过身份证号提取生日信息的案例，详细讲解了LEFT、MID、RIGHT和DATE函数的使用方法，演示如何从固定位置截取字符并转换为日期格式数据。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了REGEX系列函数在文本查找和替换中的应用，通过正则表达式提取电话号码的案例，展示了REGEXEXTRACT、REGEXTEST和REGEXREPLACE三个函数的具体用法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明了在WPS和Excel中删除单元格换行符的不同方法，WPS可以直接使用查找替换功能，而Excel需要借助CHAR函数。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过学生成绩表案例详细讲解了XLOOKUP函数的使用方法，包括其参数设置、绝对引用的重要性、错误预防机制、精确查找模式，以及数据类型一致性的注意事项。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106789&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度征文｜给 NPC 接上 AI：重生爽文看不够？我直接做了个能骂反派的游戏&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者用AI技术做了款能骂反派的重生爽文游戏&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在春节期间受重生爽文启发，利用AI技术开发了一款交互式宅斗游戏。游戏结合了橙光游戏的剧情分支和养成系统，核心创新是为NPC接入AI，使其能够根据剧情进度、玩家属性和对话历史做出真实回应。开发过程中，作者通过ChatGPT完成故事设计，精心构建了包含世界观、人物小传、进度同步等多层次的NPC Prompt系统，并采用工具接力方式（ChatGPT、豆包、Gemini、Codex）完成从内容到部署的全流程。游戏允许玩家自由辱骂反派NPC并获得符合人设的反馈，结局还能根据玩家历程动态生成个性化文本，为传统互动小说游戏带来了新的情绪价值体验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者受重生爽文启发，产生了让玩家能够与游戏NPC对话并辱骂反派的想法，决定开发一款交互式游戏并为NPC接入AI技术。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏架构设计参考橙光游戏，包含剧情分支选择和养成系统两大核心玩法，同时加入NPC自由AI对话功能，确保对话不影响主线剧情。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过与ChatGPT深度对话完成故事背景、人物设定、剧情分支等内容设计，ChatGPT负责补充细节，作者负责判断和优化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;NPC的Prompt设计是核心难点，需要包含世界观、人物小传、剧情进度同步、动态数值传参和上下文记忆等多个层面，确保NPC回复符合人设且不剧透。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为控制token消耗成本，作者精简了system prompt并增加了玩家自带API Key的功能；结局部分采用AI根据玩家历程动态生成个性化文本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发流程采用工具接力方式：ChatGPT负责框架、豆包生成美术素材、Gemini编写前端、Codex实现逻辑并部署上线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏体验良好，玩家能够沉浸式体验剧情并与NPC互动，尤其是辱骂反派的设计深受欢迎，虽然仍存在优化空间但已达到可玩状态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106796&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一日一技｜用 NAS 与 LanCache 构建本地游戏缓存服务器&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 教你用NAS搭建游戏缓存服务器节省流量提速下载&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了使用LanCache项目在NAS上搭建本地游戏缓存服务器的完整教程。LanCache是基于Nginx的开源方案，通过DNS劫持技术将Steam、育碧、暴雪等游戏平台的下载请求重定向到本地服务器，实现首次下载后的文件缓存。作者以威联通NAS为例，详细说明了docker部署步骤，包括创建配置文件夹、处理GitHub访问问题、编写YAML配置文件等。部署完成后，只需修改电脑DNS设置即可使用，二次下载速度可超过100MB/s且不占用外网流量，特别适合宿舍、家庭等多人共享环境和流量受限场景。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的侄子抱怨大学校园网流量贵且下载游戏速度慢，作者家中多台设备下载游戏也有类似问题，虽然Steam有局域网传输功能但需要保持设备开机且其他平台不支持，因此作者研究了LanCache项目来搭建本地游戏缓存服务器。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;LanCache是基于Nginx的开源局域网缓存方案，通过DNS劫持将游戏平台下载域名解析到本地服务器，首次下载时缓存文件到本地，后续下载直接从本地读取，实现一次下载多人共享。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;LanCache依赖缓存服务器和DNS转发器两个核心组件，工作流程包括DNS劫持、透明代理和智能缓存三个步骤，首次下载时从互联网获取并缓存，后续下载直接从本地高速传输。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以威联通NAS为例演示docker部署过程，需要先创建配置文件夹，提前下载cache-domains项目文件以避免GitHub访问问题，然后在Container Station中使用YAML代码创建容器，配置时需注意IP地址和文件夹路径。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用LanCache只需将电脑DNS指向配置的服务器IP地址，首次下载游戏时NAS会边接收边发送并缓存文件，二次下载时速度可超过100MB/s且不消耗外网流量，还可使用steam-lancache-prefill项目实现预填充功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106880&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Aqara 发布集悦妙控屏 S1 Plus Siri 版等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技行业多项产品发布及AI模型重大更新&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了科技行业多项产品发布和重要动态。智能家居领域，Aqara推出首款原生Siri中控屏，海信发布四色背光电视技术。手机市场，Nothing发布Phone(4a)系列和Headphone A耳机，影石推出手机自拍屏配件。AI领域进展显著，Google开放Gemini Canvas功能，OpenAI发布具备计算机操作能力的GPT-5.4模型，微软推出视觉推理开源模型。Apple Music上线AI内容溯源标签，华米发布新款智能手表，Google与Epic Games就应用商店费率达成和解。文章还包含英伟达RTX 3060复产、MacBook Neo内存配置分析、Xbox新主机代号等行业消息。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Aqara发布全球首款搭载原生Siri的全屋智能中控屏S1 Plus Siri版，整合灯控、温控、能耗等系统功能，支持语音交互和触屏控制，配备6.9英寸屏幕和双86面板设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;海信发布UX 2026款RGB-Mini LED旗舰电视，首创玲珑4芯真彩背光系统，加入天青色背光芯片，116英寸版本拥有43008个控色分区，支持4K 180Hz刷新率，85英寸版售价34999元起。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing推出Phone(4a)系列手机，标准版搭载骁龙7s Gen 4处理器和Glyph Bar灯条，Pro版搭载骁龙7 Gen 4处理器和Glyph Matrix矩阵灯组，两款机型均配备5080mAh电池，起售价349欧元起。同时发布Headphone A耳机，售价199美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;影石Insta360发布Snap手机自拍屏，采用3.5英寸显示屏通过USB-C有线连接手机，支持使用后置镜头自拍时实时预览，基础版售价499元，补光版售价599元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google在美国开放Gemini Canvas AI模式，帮助用户整理信息、规划项目、撰写文档和创建自定义工具，用户可通过自然语言描述想法获得相应代码并快速转化为应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI发布GPT-5.4模型，在推理能力、编程能力和专业工作场景处理方面获得升级，首次具备原生计算机操作能力，可通过生成代码和键鼠指令执行任务，事实准确性相比GPT-5.2提升约33%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软发布Phi-4-Reasoning-Vision-15B开源模型，这是Phi-4系列首个同时具备高分辨率视觉感知与任务感知推理能力的小语言模型，采用混合推理机制，特别适合与计算机智能体配合使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Music推出透明度标签功能，要求唱片公司和发行商标注音乐内容是否使用AI技术，推出封面、音轨、作曲与音乐视频四种标签，目前采用合作伙伴自行标注的方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;华米发布Amazfit Active 3智能手表蓝宝石版，采用四按钮设计搭配蓝宝石玻璃表镜，配备1.32英寸AMOLED屏幕，支持170+种运动模式和离线地图导航，典型使用场景续航约12天，售价1199元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google与Epic Games达成和解，应用内购买基础服务费从30%下调至20%，将推出注册应用商店计划降低第三方应用商店安装门槛，Epic Games将把《Fortnite》重新上架Google Play Store，新费率结构计划2026年6月在美欧英生效。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - March 5, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
