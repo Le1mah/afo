@@ -4,8 +4,135 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-03-06T20:10:55.884Z</updated>
+  <updated>2026-03-07T20:04:44.845Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - March 7, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-03-07</id>
+    <updated>2026-03-07T20:04:44.845Z</updated>
+    <published>2026-03-07T20:04:44.845Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>4 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 7, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;72.32876712328768&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    18.1%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;66&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;299&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;9&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████░░░░░░░░░░░░░░░░░░░░░░░░░ 18.1%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-3-7/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.3.7&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者完成自出版作品Vol.2，重拾yearly project梦想&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者完成了自出版作品Echo Chamber Vol.2，这是一本238页的个人内容合集，涵盖2024-2025年的博客、日记和社交媒体内容，使用Sketch排版并通过Blurb打印。作者鼓励朋友们也制作自己的zine，认为实体书的分量本身就很有价值。虽然最初计划每年完成一个创意项目，但近年来未能实现其他构想（如买跑车、拍电影等），完成这本书让作者重新看到了实现其他梦想的可能性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者收到了Echo Chamber Vol.2的样书并分享了照片，这是一本自出版作品，汇集了2024-2025年的博客、日记、推特和Instagram内容，共238页，使用Sketch排版后通过Blurb打印。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者向询问制作方法的朋友推荐使用Blurb打印自己的zine，认为无论内容如何，实体书本身的分量就已经足够有意义。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Echo Chamber最初是作者21年yearly project的构想，原计划每年做一个有趣的项目，但后续几年未能实现其他计划（如买跑车、拍电影、做DJ等），不过完成Vol.2让作者相信未来仍有可能实现这些想法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 1975年网络安全书籍对现代的启示&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章评论了1975年出版的《电子罪犯》一书，探讨其对现代网络安全的启示。书中记录了计算机时代早期的各种犯罪形式，包括数据篡改、磁带勒索、密码窃取等，但由于当时电子犯罪案例稀少，内容中混杂了大量传统欺诈故事。文章指出该书揭示了当时法律滞后、物理安全薄弱等问题，并预见了深度伪造、无人机监控、数字盗版等现代技术威胁。作者认为回顾行业历史有助于审视当前安全流程中的固有假设，并引用书中关于道德教育重要性的警示作为结尾。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这本1975年出版的《电子罪犯》探讨了计算机时代早期的网络犯罪，包括电传欺诈、勒索软件和主机入侵等，但由于当时电子犯罪案例有限，书中充斥着支票欺诈和机票盗窃等传统犯罪故事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中描述了令人震惊的计算机犯罪案例，犯罪分子通过篡改计算机打印输出、编程磁带拒绝不利数据、在代码间转移数据来掩盖大规模欺诈行为。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;1975年的法律尚未跟上现代犯罪的步伐，书中举例说明投资者起诉IBM制造防欺诈计算机失败的案例，以及法国法院因磁带本身未损坏而判定恶意删除数据无罪的案例。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;许多电子犯罪是由于糟糕的物理安全流程造成的，例如伦敦某计算机中心的侧门为方便员工透气而敞开，导致存储军事和工业机密信息的系统面临风险。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中不仅讨论计算机和数据磁带，还涉及电话窃听、窃听器，以及早期的深度伪造技术——通过重新排列录音中的词语和音节来改变整个意思。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中预测了音乐和电影盗版的兴起，并介绍了各种防御措施如&amp;#039;握手&amp;#039;验证机制，但这些保护措施会降低业务运行效率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在序言中警告社会需要加强道德教育，指出1974年人们对高层人士的尊重下降，强调应该在家庭和学校中教授公平和道德概念，以防止未来更广泛的腐败。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-07T06:43Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-07T06:43Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 OAuth认证失败源于服务器时间漂移问题&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在开发AT协议项目时遇到OAuth认证失败问题，错误信息显示client_assertion的时间戳验证不通过。经排查发现问题源于运行在树莓派DietPi系统上的PDS服务器时间漂移，原本每日一次的时间同步频率不足以满足atproto OAuth对时间精度的毫秒级要求。将时间同步频率调整为每小时一次后问题得到解决。这个案例凸显了分布式系统中时间同步的重要性，特别是对于依赖精确时间戳的认证协议。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在构建AT协议项目时，测试OAuth登录流程遇到了InvalidClientError错误，提示client_assertion验证失败，iat声明的时间戳检查不通过。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;问题难以复现但在当天下午变得更频繁，作者的PDS运行在树莓派DietPi系统上，配置显示每天午夜同步一次时间。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;时间漂移导致atproto OAuth的毫秒级容差出现问题，作者将时间同步改为每小时一次后问题解决，这不是第一次遇到时间同步问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106743&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度征文｜在新加坡，住最昂贵的房子，过最憋屈的日子&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 新加坡高房租下的租房困境实录&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者在新加坡多年租房的真实经历。尽管新加坡房租位居世界前列，但居住体验却令人失望。作者先后租住过老旧公寓Normanton Park、组屋、市中心公寓Oxley Edge、新建公寓Queens Peak等多种类型的住宅，无一例外都遭遇了设施老化、隔音差、蟑螂泛滥、邻居噪音、房东苛刻等问题。即使是新建的高档公寓，也存在潮湿、虫害、设计缺陷等困扰。作者以细腻的笔触和丰富的细节，展现了在新加坡租房的种种不便与憋屈，最终萌生了寻找其他旅居地的想法。文章真实反映了外国人在新加坡租房市场面临的困境。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从年度旅行回家后发现家中有蟑螂，回忆起在新加坡租房的各种憋屈经历，新加坡房租高昂但居住体验不佳。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在Normanton Park租的第一套公寓建于1977年，设施老旧，厨房设计不合理，卫生间与厨房仅用双折门隔开，垃圾通道滋生蟑螂，各种设施经常损坏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者搬到组屋后租了一个不到10平米的小房间，没有床铺，需要在窗外晾衣服，蚊子很多，房东极其抠门，严格限制空调和热水使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在市中心Oxley Edge租房，位置优越但房租高达3400新币，公寓布局紧凑，隔音差，楼上和隔壁的噪音清晰可闻，蟑螂和小虫子频繁出现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者搬到Queens Peak公寓，虽然是新房但仍存在隔音差、湿气重的问题，邻居噪音严重，电梯和健身房等设施不够用，居住体验不佳。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者最后租的公寓紧邻主干道，夜间摩托车噪音严重，邻居在家唱卡拉OK扰民，走廊堆满杂物，卫生间下水口易堵，德国小蠊频繁出现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者住过各种类型的房子后发现新加坡居住环境普遍存在噪音、蟑螂、潮湿等问题，开始考虑到其他地方旅居，寻找更舒适便宜的生活环境。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - March 6, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2216,295 +2343,6 @@ The article title translates from Japanese to: *&amp;quot;CyberConnect2 30th Ann
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;地址栏回退通过history.pushState添加历史记录实现，监听popstate事件判断弹框状态并执行关闭操作，弹框关闭后通过状态对象判定执行history.back()。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;该交互效果已封装成JS文件并在gitee开源，使用时只需引入image-preview.js文件并设置is-preview属性即可，支持srcset属性实现缩略图和大图分离。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在新年第一篇文章中分享了使用CSS嵌套、HTML5 dialog、Page Transition API等新特性的开发体验，祝愿读者新年万事顺利。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - February 24, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-02-24</id>
-    <updated>2026-02-24T20:19:50.849Z</updated>
-    <published>2026-02-24T20:19:50.849Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>17 articles from 10 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - February 24, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;60.273972602739725&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    15.1%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;55&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;310&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;7&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████░░░░░░░░░░░░░░░░░░░░░░░░░ 15.1%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;17&lt;/strong&gt; articles from &lt;strong&gt;10&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://matthiasott.com/articles/webspace-invaders&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Webspace Invaders · Matthias Ott&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI公司爬虫大规模抓取个人网站导致访问受限&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章讲述了作者网站因AI公司大规模爬虫抓取而被托管商限制访问的经历。数据显示，当前约50%的网络流量来自机器人，其中AI训练爬虫流量激增。OpenAI、Meta、Anthropic等公司系统性地抓取个人网站内容用于模型训练，但成本由网站所有者承担，形成权力不平衡。爬虫越来越智能，能够伪装身份、绕过防御。这一问题已成为地缘政治竞争的一部分，训练数据被视为战略资源。虽然Cloudflare等提供解决方案，但作者担忧这会导致网络进一步中心化，失去开放和独立性。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者收到朋友Kevin的消息，称无法访问其网站。经测试发现网站在某些地区无法加载，托管商在未通知的情况下安装了地理过滤器，阻止了多个国家的访问。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;托管商声称网站遭受DDoS攻击并安装了过滤器。但作者检查日志后发现，这实际上是来自OpenAI、Meta、Anthropic等公司的LLM爬虫机器人大规模抓取内容，导致服务器过载。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者意识到自己的网站正被AI公司系统性地抓取数据用于训练模型，而副作用是真实用户无法访问网站。这反映了2026年网络现状：机器人流量占据主导地位。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;根据Cloudflare报告，约50%的网络流量来自非人类。AI机器人流量持续激增，2025年4月26日，人类流量仅占34.5%，而Googlebot单独就占了11%的HTTP请求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;个人网站运营者开始注意到流量变化带来的压力。与大平台不同，小型网站使用简单托管，难以应对突然增加的机器人流量，许多网站所有者都遇到了类似问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;存在明显的权力不平衡：拥有数十亿资金的AI公司免费抓取内容，而小型独立网站所有者却要承担带宽和服务器成本。这是一场不对称的战斗，公司将成本外部化而不关心附带损害。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;情况变得更加复杂，因为许多爬虫伪装User-Agent字符串、频繁更换IP地址、无视robots.txt协议。随着Agentic AI的出现，爬虫变得更智能、更持久、更善于绕过防御措施。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;网络爬虫问题已成为地缘政治竞争的一部分，训练数据被视为战略基础设施。中美AI公司都在竞相抓取数据，个人博客成为这场竞争中的附带损害。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cloudflare提供了企业解决方案，可以有效识别和阻止恶意爬虫。但作者质疑是否所有人都应该通过Cloudflare路由流量，这是否会使网络变得更加中心化、更不独立。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://denodell.com/blog/constraints-and-the-lost-art-of-optimization&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Constraints and the Lost Art of Optimization — Den Odell&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 资源限制曾催生优化艺术，现代开发应重拾深度理解&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文通过回顾1984年Macintosh的64KB ROM和Atari 2600的极端硬件限制，探讨了早期计算机时代因资源约束而产生的优化艺术。作者指出，现代开发环境的资源丰富导致开发者失去了深度理解系统和追求优化的动力。文章强调，值得学习的不是限制本身，而是限制所培养的对技术媒介的深刻理解和优雅解决问题的思维方式。作者倡导&amp;#039;默认快速&amp;#039;原则，建议工程师主动施加限制、深入学习平台运行机制，从而在设计之初就产生高效优雅的解决方案。限制不是伟大作品的敌人，而往往是其创造力的源泉。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;1984年Macintosh电脑的操作系统、图形界面和QuickDraw图形引擎等完整系统仅占用64KB ROM，这在当时是因为成本限制而必须进行极致优化的结果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Atari 2600游戏机仅有4KB ROM和128字节RAM，程序员需要手动同步代码与电视扫描线，这种极端限制催生了计算机历史上最具创造性的编程技术。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Super Mario Bros和Tetris等经典游戏分别只有40KB和32KB大小，但它们都是杰作。这些限制不仅没有削弱作品质量，反而定义了它们的卓越性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;早期程序员深刻理解他们的开发媒介，了解每个字节和时钟周期，这种深度理解使得优雅的解决方案成为可能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;现代开发环境充满了廉价存储、快速网络和强大硬件，低效率的实际后果基本消失，导致开发者不再关注优化，这是理性的结果而非懒惰。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;值得从过去学习的不是限制本身，而是限制所产生的对开发媒介的深刻理解关系。Bill Atkinson的QuickDraw不仅小巧，更是优雅的代码艺术品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;最优秀的工程师会主动施加限制，思考如何将方案缩小一半、提速两倍或减少十分之九的内存使用，这种思维方式往往能产生更好的解决方案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;要培养这种本能，最重要的是深入学习运行时的实际工作原理，包括解析、分配、渲染和执行机制，理解平台会改变你的直觉和判断。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提倡&amp;#039;默认快速&amp;#039;原则：不是事后优化来获得性能，而是通过更好的思维方式从一开始就产生快速的软件，这样的系统更易理解、修改和推理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;64KB的Mac ROM不仅是历史注脚，更是一种启发：限制往往不是伟大作品的敌人，而是其源泉。如果他们能用那么少做到那么多，我们还有什么借口？&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://daverupert.com/2026/02/smaller-and-dumber/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Smaller and dumber - daverupert.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Advocates building minimal, simple software solutions that are more versatile, portable, and maintainable than complex alternatives.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article advocates for minimalism in software development through two core principles: reducing size and reducing complexity. The author argues that smaller, simpler solutions are inherently more versatile, portable, and maintainable than their larger, more complex counterparts. By deliberately choosing &amp;quot;smaller and dumber&amp;quot; approaches, developers can create systems that are easier to deploy across different contexts, require less ongoing maintenance, and have broader applicability. The philosophy challenges the tendency to over-engineer solutions and instead promotes building only what&amp;#039;s necessary with the least complexity possible.&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/463&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 463: Interop 2026 browser scoreboard&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Interop 2026报告展示各浏览器Web特性支持进度&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了Interop 2026浏览器记分板报告，这是一个主流浏览器厂商协作支持Web特性的年度项目。报告显示各浏览器在CSS高级功能、样式查询、Web兼容性和WebTransport API等方面的支持进度存在差异。Chromium在attr()功能上领先，而Firefox和Safari在contrast-color()上表现更好。文章强调Interop项目通过透明度和问责制推动了近年来Web平台的快速发展，并以轻松幽默的笔调讨论了浏览器生态系统的协作现状。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了Interop项目的背景，这是一个主流浏览器厂商每年共同协作支持相同Web特性的项目，通过Web Platform Tests进行测试并公开发布结果，强调透明度和问责制的重要性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年报告显示了各浏览器在不同特性上的支持差异：CSS的attr()功能主要由Chromium支持，contrast-color()则是Firefox和Safari领先，Container Style Queries被Firefox拖后腿，同时Web兼容性和WebTransport API成为重点关注领域。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结Interop项目是近年来Web平台黄金时代的重要推动力，并幽默地建议可以借鉴作者父母的&amp;#039;每周最受欢迎孩子排行榜&amp;#039;方法来进一步提升项目效果。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Knowledge Priming&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Knowledge priming uses versioned documentation to override AI&amp;#039;s generic defaults, reducing code generation from 45 minutes of fixes to 5 minutes of review.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;AI assistants default to generic training data patterns, producing syntactically correct but contextually misaligned code that requires extensive developer rework. Knowledge priming solves this by treating project context as versioned infrastructure—curated documentation that explicitly overrides generic defaults through high-priority context window tokens, similar to onboarding a new developer with architecture decisions, exact framework versions, and trusted reference materials. This manual RAG approach leverages AI&amp;#039;s three-layer knowledge hierarchy (training data &amp;lt; conversation context &amp;lt; priming documents) to shift attention mechanisms toward project-specific patterns rather than &amp;quot;average internet&amp;quot; solutions. By maintaining priming documents as versioned files rather than ad-hoc context, teams achieve consistent AI output that matches actual codebase conventions, file structures, and current APIs. The result is a dramatic efficiency gain: code generation time drops from 45 minutes of fixing generic output to 5 minutes of minor review, fundamentally transforming AI from a frustration loop into a context-aware code generation tool.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Default Behavior Problem:&lt;/strong&gt; AI assistants generate code based on generic training data patterns rather than project-specific conventions, resulting in syntactically correct but contextually wrong code. This creates a frustration loop where developers must repeatedly regenerate and fix AI output because the assistant defaults to &amp;#039;average internet&amp;#039; solutions instead of the team&amp;#039;s actual standards.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Knowledge Hierarchy:&lt;/strong&gt; AI knowledge operates in three priority layers: training data (lowest), conversation context (medium), and priming documents (highest). Priming documents explicitly override generic defaults by filling the context window with high-value project-specific tokens that shift the model&amp;#039;s attention mechanisms toward relevant patterns.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Knowledge Priming Concept:&lt;/strong&gt; Knowledge priming treats project context as versioned infrastructure—curated documentation shared with AI before code generation, similar to onboarding a new developer. This manual RAG approach provides architecture decisions, conventions, and examples that guide AI to produce code fitting the actual codebase rather than generic patterns.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Architecture Overview Section:&lt;/strong&gt; The first priming section explains the application&amp;#039;s big picture: what kind of system it is, major components, and how they interact. This mirrors explaining high-level architecture to a new team member before diving into implementation details.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Tech Stack Versions:&lt;/strong&gt; Specifying exact versions and framework choices prevents AI from using outdated APIs or wrong libraries. Version numbers matter because APIs change between releases, and explicit stack declarations override the model&amp;#039;s tendency to suggest more common but inappropriate alternatives.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Curated Knowledge Sources:&lt;/strong&gt; Teams should document trusted documentation, influential blog posts, and tutorials that shaped their architectural thinking. These sources provide AI with the same foundational references that guide human developers, capturing lessons and context that official docs alone cannot convey.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Priming as Infrastructure:&lt;/strong&gt; Priming documents should be versioned, maintained files rather than ad-hoc copy-pasted context. Treating project context as infrastructure ensures consistency across sessions and team members, fundamentally changing the quality of AI-generated code through systematic context management.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Implementation Impact:&lt;/strong&gt; With priming, code generation time drops from 45 minutes of fixing generic output to 5 minutes of minor review. The approach shifts AI from producing &amp;#039;average internet&amp;#039; solutions to generating code that matches project conventions, file structures, and current API versions from the first attempt.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Mozilla Hacks – the Web developer blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Firefox 148首发Sanitizer API简化XSS防护&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Firefox 148率先实现了标准化的Sanitizer API，为Web开发者提供了防御XSS攻击的新工具。XSS作为持续近十年的三大Web漏洞之一，一直难以预防。虽然Firefox早在2009年就推出了CSP标准，但其复杂性限制了广泛采用。新的Sanitizer API通过setHTML()方法简化了HTML清理过程，开发者只需最小的代码改动即可获得更强的安全保护。该API可自定义配置，并能与Trusted Types结合实现更严格的安全策略。这项技术让所有开发者都能轻松防御XSS，无需专门的安全团队或重大架构调整。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Firefox 148成为首个支持标准化Sanitizer API的浏览器，该API为开发者提供了一种直接的方法来清理不受信任的HTML，从而防止跨站脚本攻击(XSS)。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;XSS漏洞允许攻击者通过用户生成的内容注入恶意HTML或JavaScript，近十年来一直位列三大Web漏洞之一。Firefox从2009年开始通过Content-Security-Policy标准应对XSS，但CSP因需要重大架构改变而未能广泛采用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Sanitizer API通过setHTML()方法提供了标准化的HTML清理方式，将恶意HTML转换为无害HTML。示例展示了如何自动移除危险的img元素和onclick属性，同时保留安全的h1元素。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发者可以用setHTML()替换容易出错的innerHTML赋值，并可自定义配置以满足特定需求。Mozilla提供了Sanitizer API playground供开发者实验使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Sanitizer API可与Trusted Types结合使用以提供更强的保护，集中控制HTML解析和注入。Firefox 148同时支持这两项技术，使开发者无需专门的安全团队即可防御XSS攻击。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/02/adding-openstreetmap-login-to-auth0/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Adding OpenStreetMap login to Auth0&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 在Auth0中集成OSM OAuth的完整配置指南&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇技术指南，详细介绍了如何将OpenStreetMap集成到Auth0作为OAuth身份验证提供商。作者采用步骤式教学方法，首先强调应使用OpenID Connect而非自定义社交连接，然后分别说明在OSM和Auth0平台的配置流程。文章特别指出了集成过程中的常见问题，如用户信息字段缺失和头像获取，并提供了具体的解决方案，包括使用User Map映射和调用OSM API获取用户数据。整体风格实用、直接，适合开发者快速上手。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了在Auth0中添加OpenStreetMap作为OAuth提供商时，应该创建OpenID Connect提供商而非自定义社交连接，并详细说明了在OSM平台注册应用的步骤。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细列出了在Auth0中配置OpenID Connect连接的具体步骤，包括设置Client ID、Client Secret、scope和Discovery URL等参数。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;指出OSM返回给Auth0的用户信息有限，缺少name和nickname字段，需要通过User Map手动映射preferred_username字段来解决。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明了获取用户头像的两种方法：通过OSM API获取用户公开数据或使用Unavatar服务间接获取头像图片。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Day We Met &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/809392524706889728&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 4, Page 37&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网络漫画帖子的社交媒体互动记录&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一个Tumblr社交媒体帖子的互动记录页面,显示了多个用户对某个名为&amp;#039;The Day We Met&amp;#039;的网络漫画第4章第37页的反应。内容主要包括用户点赞、转发和评论,其中有用户提到了&amp;#039;BONEWORKS CAT&amp;#039;和墙上时钟等细节。这是典型的社交媒体互动内容,展示了网络社区对创作内容的参与和讨论。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Theresa O’Connor &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.hollywoodreporter.com/tv/tv-features/andor-creator-tony-gilroy-gives-the-interview-1236510166/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;‘Andor’ Creator Tony Gilroy Gives the Interview He Couldn’t During Its Release&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Gilroy揭示《Andor》基于历史法西斯模式创作，与当前美国政治现实形成惊人呼应&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Tony Gilroy在采访中深入探讨了《Andor》与当前美国政治现实的惊人相似性。他解释说剧集的&amp;#039;预见性&amp;#039;实际上源于对历史上法西斯主义模式的研究，而非巧合。Gilroy详细分析了法西斯主义的常见手段——消灭真相、控制媒体、制造敌人、虚假宣传等——这些在《Andor》和现实中都有体现。他认为当前政府的目标是取消选举、建立法西斯国家，但缺乏有效的叙事能力。Gilroy还表达了对AI技术威胁真相的担忧，批评当前领导层是管理AI的最差人选，并呼吁需要既有解决问题能力又擅长沟通的领导者。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Tony Gilroy在采访中讨论了《Andor》第二季中Ghorman大屠杀情节与明尼苏达州双城最近发生的联邦特工枪杀事件之间的相似性，两者都涉及和平抗议者被错误描述为恐怖分子。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Gilroy解释说《Andor》的预见性并非巧合，而是基于历史上法西斯主义的常见模式，他使用了&amp;#039;法西斯主义入门书&amp;#039;中的15个典型手段来创作剧集，而当前华盛顿政府恰好使用了同样的策略。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Disney曾要求Gilroy在《Andor》早期宣传阶段避免使用&amp;#039;法西斯主义&amp;#039;一词，以避免政治争议影响这部获奖剧集的营销，团队采用了合法的历史模型作为安全的宣传策略。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Gilory详细阐述了法西斯主义的常见手段，包括消灭真相、摧毁自由媒体、制造任意敌人、通过宣传进行虚假标记等，这些手段在《Andor》和现实政治中都有体现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Gilroy认为当前美国政府的最终目标是取消选举、建立完全的法西斯国家，但他们缺乏叙事能力和有效的宣传机制，这可能会阻碍他们的计划。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;关于AI技术，Gilroy表达了深切担忧，认为AI进一步威胁客观真相，而当前政府是管理AI的最糟糕人选，同时他担心硅谷背后可能存在更复杂的科技势力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Gilroy批评拜登政府虽有良好政策但缺乏有效传播能力，他呼吁需要既有问题解决能力又有叙事沟通能力的领导者来应对当前挑战。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-02-24T16:08Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-02-24T16:08Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI companies that trained models on scraped content now complain when competitors use their outputs to train cheaper alternatives.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Major AI companies like Google and Anthropic are now complaining about &amp;quot;distillation attacks&amp;quot; where competitors use their model outputs to train smaller, cheaper alternatives that mimic their behavior. The irony is stark: these same companies built their LLMs by scraping massive amounts of internet content without explicit permission from creators. The article satirizes this double standard by parodying anti-piracy campaigns (&amp;quot;you wouldn&amp;#039;t distill an LLM&amp;quot;), pointing out that companies who &amp;quot;stole their data the hard way&amp;quot; through unauthorized web scraping are now objecting to others copying their work. This highlights a fundamental hypocrisy in the AI industry&amp;#039;s approach to intellectual property—demanding protection for their models while having built them on others&amp;#039; uncompensated content.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Plagiarism Irony:&lt;/strong&gt; Google and Anthropic are complaining about being plagiarized through distillation attacks. This is ironic given that LLMs are trained on vast amounts of data scraped from the internet without explicit permission.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Distillation Attacks:&lt;/strong&gt; The article highlights that AI companies are concerned about others copying their models through distillation techniques. This involves using a larger model&amp;#039;s outputs to train a smaller, cheaper model that mimics its behavior.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Data Acquisition Hypocrisy:&lt;/strong&gt; The piece satirizes the complaint by noting these companies &amp;#039;stole their data the hard way&amp;#039; through web scraping. It points out the double standard of objecting to being copied when their own models were built on unauthorized use of others&amp;#039; content.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Piracy Reference:&lt;/strong&gt; The article uses a parody of anti-piracy slogans (&amp;#039;you wouldn&amp;#039;t distill an LLM&amp;#039;) to mock the situation. This references the famous &amp;#039;you wouldn&amp;#039;t download a car&amp;#039; campaign, highlighting the absurdity of the companies&amp;#039; position.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-02-24T06:06Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-02-24T06:06Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI transforms professionals into validators of machine output, removing craftsmanship and threatening the development of genuine expertise and care in work.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article argues that AI fundamentally undermines professional work by removing the care and craftsmanship that creates genuine value, reducing skilled workers to mere validators of machine output. The author observes that AI adoption reveals how many workers have already disengaged from their craft, but warns that transforming professionals into AI supervisors devalues their expertise and creates tedious work despite requiring high-level domain knowledge. The core concern is whether future professionals will invest in developing deep expertise and pride in their craft when the end result is simply overseeing machines, potentially breaking the pipeline of skilled, engaged practitioners. Ultimately, the piece contends that AI&amp;#039;s inability to care about quality represents an insurmountable limitation that threatens the essence of professional work and the cultural value placed on craftsmanship.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Care Creates Value:&lt;/strong&gt; The fundamental premise is that care and attention in work is what generates true value. AI, as a tool without the capacity to care, cannot replicate this essential human element.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Reveals Disengagement:&lt;/strong&gt; The adoption of AI exposes how many workers have already disengaged from their craft, simply going through the motions. This reflects a broader cultural shift away from caring about quality and craftsmanship.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Professionals Become Reviewers:&lt;/strong&gt; When professionals are reduced to merely reviewing AI-generated output, they are devalued and disrespected. This transformation fundamentally changes the nature of professional work from creation to validation.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Expertise Paradox:&lt;/strong&gt; Effectively using LLMs requires high-level domain expertise, yet the work itself becomes tedious drudgery. This creates a contradiction where skilled professionals are needed but their skills are underutilized.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Next Generation Crisis:&lt;/strong&gt; There&amp;#039;s a critical question about whether future professionals will invest in developing craft expertise and pride, only to have their work reduced to supervising machines. This threatens the pipeline of skilled, engaged professionals.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202602/66842&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【『戦場のフーガ』開発記録】『インターミッション』第82回 公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Development diary reveals Fuga&amp;#039;s lore: 52 ancient war machines, AI Juno&amp;#039;s role, and connections to Solatorobo universe.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This development diary for *Fuga: Melodies of Steel* reveals crucial worldbuilding: the 52 Titanomachina are ancient war machines that prompted the AI Juno to reset humanity, while Helheim serves as their communication hub rather than a weapon. The narrative explains that Vanalgandr, the protagonists&amp;#039; mecha, was originally Berman&amp;#039;s (Germany&amp;#039;s) lost Titanomachina, and Gasco (France) uniquely houses three of these giants—including Lares and Lemres, which appear 700 years later in the connected game *Solatorobo*. The entry also discusses manga-exclusive content, including an original confrontation scene between Wappa and Malt, and announces that episode 82 concludes a volume before transitioning to an Ash-focused side story. This cross-media storytelling approach demonstrates how the team expands the game&amp;#039;s lore through manga adaptations while maintaining continuity with their broader Little Tail Bronx universe.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;52 Giant Gods:&lt;/strong&gt; The world contains 52 Titanomachina (giant gods) that were destructive weapons in past wars. Juno decided to reset humanity after witnessing the devastating warfare caused by these 52 weapons.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Helheim Communication Device:&lt;/strong&gt; Helheim is not an ancient weapon but a communication device connecting Juno and the Titanomachina. It contains a vast interdimensional space requiring significant mass to function.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Vanalgandr&amp;#039;s Origins:&lt;/strong&gt; Vanalgandr originally belonged to Berman (formerly Germany), which is why Hax called it the &amp;quot;lost god.&amp;quot; Berman&amp;#039;s invasion of Gasco was actually a mission to recover their Titanomachina.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Gasco&amp;#039;s Three Giants:&lt;/strong&gt; Gasco (formerly France) has three Titanomachina: Vanalgandr, plus Lares and Lemres underground. These are the same giants appearing in Solatorobo 700 years later, making Gasco an extraordinary location where Malt and friends were born.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Manga Original Scene:&lt;/strong&gt; The scene where Wappa points a gun at awakened Malt is manga-original content not in the game. The creative team collaborated on details like the dilapidated cabin design and dramatic lighting through wall holes.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Volume Break Point:&lt;/strong&gt; Episode 82 marks the end of a manga volume. The next installment will be episode 82.5, continuing the Ash side story with storyboards by the author.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://t.co/0xMc3ol06V&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;映画『チェイサーゲームW 水魚の交わり』3/28（土）完成報告プレミアムイベント チケット一般販売スタート！W主演の”いつ×ふゆ”のおふたり、そして太田監督とともにここだけのトークを楽しみましょう&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Ticket Pia票务网站系统维护中&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是日本票务网站Ticket Pia的系统维护通知页面。网站正在进行定期系统维护，暂时无法访问。定期维护时间为每周二、三凌晨2:30至5:30，2026年2月25日将延长至上午8:00。网站进行定期维护是为了提升客户服务质量和确保系统稳定运行。页面还包含了网站的各类分类导航、地区选择以及版权声明等标准网站信息。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21407&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;公式コミカライズ『戦場のフーガ 鋼鉄のメロディ』13巻配信! 新刊発売記念電子書籍フェアやお得なセール情報も&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《战场狂想曲》漫画第13卷发售并举办促销活动&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《战场狂想曲 钢铁旋律》是家用游戏《战场狂想曲》的官方漫画改编作品，由足立隆文绘制，在Fami通.com连载。第13卷电子书于2026年2月24日发行，讲述主角马尔特被俘后与贝尔曼帝国皇帝凯撒会面的危机情节，以及孩子们与魔血骑队成员的战斗。单行本包含设定画和游戏总监督松山洋的开发博客等特典内容。为纪念新卷发售，官方举办了电子书促销活动，前6卷免费，7-8卷半价，活动持续至3月10日。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《战场狂想曲》官方漫画改编作品《战场狂想曲 钢铁旋律》第13卷电子书已于2026年2月24日开始发行，该作品在Fami通.com上连载。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第13卷故事中，被俘的马尔特与贝尔曼帝国皇帝凯撒会面却陷入危机，而追赶马尔特的孩子们则要同时对抗魔血骑队的两名成员蒂雷和赛克。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;单行本收录了足立隆文的设定画和CyberConnect2代表松山洋的开发博客，定价440日元，由CyberConnect2发行、NumberNine出版。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;为纪念第13卷发售，举办电子书促销活动，第1卷免费，第2-6卷免费，第7-8卷半价，活动期间为2月24日至3月10日。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106547&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 130 | 演唱会摄影利器体验、几十块钱的旅行「安全感」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派社区第130期速递汇集摄影分享、热门话题讨论和实用产品推荐&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是少数派Matrix社区第130期速递，汇集了社区成员的优质内容分享。本期包含春节归途摄影主题讨论，76位派友分享了回家路上的精彩瞬间。一周热评涵盖了从AI技术、生产力工具到生活方式的多元话题，展现了社区成员对科技产品和生活品质的深度思考。新玩意板块重点推荐了vivo X300 Pro的演唱会拍摄能力和一款高性价比防盗腰包，体现了社区对实用性产品的关注。整体内容既有技术深度又贴近生活，反映了少数派社区活跃的讨论氛围和多样化的兴趣方向。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期社区速递包含一派热议话题「归途摄影」，76名派友分享了春节回家路上的照片和故事，包括家庭旅行、极光、城市风景等多样化内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;一周热评涵盖多个话题：关于短视频与阅读的思考、AI技术发展、多维表格工具Teable、电动车使用体验、优衣库包等新玩意推荐、春节多人游戏、拒酒指南、桌面音箱Kali LP-UNF等内容的深度讨论。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者新玩意板块介绍了两款产品：vivo X300 Pro手机的演唱会摄影体验，重点展示其增距镜功能和OriginOS 6系统的改进；以及一款3.8元的旅行防盗腰包，强调其在欧洲旅行中提供的安全感和实用性。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106056&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;旅居在滇西小城，体验美食与美景&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录在腾冲和芒市的旅居体验，最终更青睐芒市的慢生活节奏&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者在云南腾冲和芒市的短期旅居体验。作者从美食和美景两个维度详细描述了两座滇西小城的特色：腾冲以和顺古镇的历史文化、特色小吃、火山地热景观和温泉资源为亮点；芒市则以傣族和缅甸风情的美食、孔雀湖等自然景观、以及慢节奏的生活方式吸引人。作者通过丰富的美食体验、景点游览和文化探索，最终认为芒市的小而美和惬意的生活节奏更适合旅居，表达了对芒市长住的向往。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因工作压力大，选择到云南腾冲和芒市进行短期旅居，重点考察气候、美食和美景，记录了在滇西小城的旅居体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者入住和顺古镇的民宿，详细介绍了古镇内的各种特色美食，包括大救驾、烤猪蹄、稀豆粉、松花糕等当地小吃，以及多家餐厅的菌类火锅和特色菜品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;和顺古镇不仅有美食，还有悠久的历史和独特建筑，包括元龙阁、刘氏宗祠、李氏宗祠等古建筑，以及《我的团长我的团》的取景地，还有数数书局等文艺场所。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者离开古镇来到腾冲市区，品尝了铜瓢牛肉、野生菌火锅等特色美食，在绮罗古镇早市体验了烤乳扇、破酥包等小吃，并遇到了有趣的药材摊主。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;腾冲作为中国火山分布最密集的地区和三大地热区之一，拥有独特的地质景观，作者游览了火山地质公园、黑鱼河、北海湿地等景点，并体验了多处温泉。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从腾冲转到芒市，在百思特美食城和勐巴娜西美食城品尝了缅甸甩粑粑、撒撇等傣族和缅甸特色美食，还在多家餐厅体验了云南菜和缅式茶餐。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;芒市的景点包括孔雀湖、勐焕大金塔、树包塔等地标，作者还体验了缅式洗头按摩，骑电单车游览了网红墙、菩提街，参观了丙午街集市和郊区的油菜花田。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为腾冲和芒市各有特色，但芒市的小而美更具吸引力，生活节奏更慢更惬意，希望将来有机会在芒市长住一段时间。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105218&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;AI 时代的工具本地化：构建稳定、可迁移的数字堡垒&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 构建本地化、稳定、可迁移的个人数字工作流体系&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者对2023年《生产力祛魅》系列的延续和更新。作者以在读硕士研究生和文字工作者的视角，详细阐述了如何构建一个基于本地化、稳定性和可迁移性原则的个人数字工作流。文章分为办公、信息和生产三大工作流，介绍了DEVONthink、Arc浏览器、Thunderbird、Reeder、Scrivener等核心工具的使用方法。作者强调通过Docker搭建开源项目（如OneNav、RSSHub、NewsNow）和使用开源软件，摆脱对云服务的依赖，在AI技术泛滥的时代构建一个完全自主可控的知识生产系统。这套工作流特别适合学术创作，但也具有普适性，体现了对生产力工具的深刻反思和实践。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾2023年开启的《生产力祛魅》系列，指出当时效率工具大爆发，SaaS模式成为主流。三年后的2026年，作者认为当初提出的论断更加重要，并强调生产力工作流必须满足本地化、稳定性和可迁移性三个条件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;办公工作流部分介绍了作者的基础设施软件。DEVONthink是核心文件管理器，支持OCR和智能搜索。Arc浏览器的工作区功能提升专注度，通过Docker搭建OneNav解决书签管理问题。Thunderbird汇聚多个邮箱，OmniFocus作为加强版日历管理每周计划和学术活动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;信息工作流方面，作者因Folo收费转用Reeder并自建Rsshub，支持多平台资讯订阅。搭建NewsNow作为新闻来源，以高密度文本呈现全球资讯。作者强调信息收纳要注重断舍离，只记录重要信息并写日记，其余信息无需保存。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;生产工作流涵盖阅读、创作和研究。Anytype用于记录投稿期刊信息，Scrivener、Endnote、Tropy构成学术创作核心。Scrivener支持项目化写作和非线性创作，Tropy专门处理档案图像，所有项目最终归档到DEVONthink，形成完整的知识生产链条。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结这套工作流以本地化、稳定性、可迁移性为核心，通过Docker搭建开源项目和使用开源软件，目的是在AI和云服务盛行的时代，构建一个完全自主的、利于深度思考的数字领地，这是对生产力祛魅的最深刻实践。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
