@@ -4,8 +4,239 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-03-12T20:14:12.715Z</updated>
+  <updated>2026-03-13T20:11:05.346Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - March 13, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-03-13</id>
+    <updated>2026-03-13T20:11:05.346Z</updated>
+    <published>2026-03-13T20:11:05.346Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>12 articles from 7 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 13, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;78.9041095890411&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    19.7%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;72&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;293&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;10&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████░░░░░░░░░░░░░░░░░░░░░░░░ 19.7%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Moving From Moment.js To The JS Temporal API&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 JavaScript时间处理从Moment迁移到Temporal的实用指南&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了JavaScript时间日期处理的演进历程，重点对比了Moment.js和新标准Temporal API。Moment.js虽然功能强大但存在体积大、不可变性等问题，已进入维护模式。Temporal作为新的ECMAScript标准API，提供了更灵活的时间日期表示、完整的时区支持、对象不可变性和1-based索引等特性。文章通过实际代码示例详细讲解了如何将Moment代码迁移到Temporal，涵盖对象创建、解析和格式化等常见操作，为开发者提供了实用的迁移指南。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;JavaScript处理时间的方式经历了从内置Date API到Moment.js再到Temporal的演变过程，新标准填补了原始Date API的空白并解决了Moment等库的局限性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Moment.js曾是广泛使用的JavaScript时间日期库，提供了强大的功能，但存在体积大、不支持tree shaking、对象可变等问题，2020年进入维护模式，不再推荐用于新项目。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Temporal是JavaScript新增的时间日期API，已达到TC39流程Stage 4阶段，将纳入下一版ECMAScript规范，Chrome 144+和Firefox 139+已实现，Safari即将跟进。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Temporal的主要特性包括：支持带或不带日期的时间表示、完整的时区支持、对象不可变性、使用1-based索引（1月为第1个月）以及内置于浏览器无需增加应用体积。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;创建日期时间对象方面，Moment使用moment()函数创建包含日期和时间的对象，而Temporal更灵活，可创建Temporal.Instant、Temporal.PlainDate、Temporal.PlainTime、Temporal.ZonedDateTime等不同类型的对象。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在解析方面，Moment可以解析多种格式的日期字符串，但Temporal只接受符合ISO 8601或RFC 9557格式的字符串，不符合格式会抛出RangeError，优先考虑可靠性而非灵活性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;格式化方面，Moment使用简洁的format方法和token字符串，而Temporal使用toLocaleString方法，需要传入更详细的格式选项对象，实际使用Intl.DateTimeFormat API进行格式化。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-283/viewer?title_no=853933&amp;episode_no=297&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 283&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画DOGHAUS第283集的导航页面&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一个WEBTOON平台上名为DOGHAUS的网络漫画系列的第283集页面。页面主要包含导航元素、集数列表（从第1集到第283集）、特别公告和周日特辑等内容。页面还包含社交分享功能、订阅选项、评论区以及恐怖类漫画排行榜。这是一个典型的网络漫画平台界面结构，提供了完整的浏览和互动功能。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/470&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 470: Waiting and dating&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Temporal API历时9年终于修复JavaScript日期问题&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文回顾了JavaScript日期处理的历史问题及Temporal API的漫长开发历程。1995年JavaScript直接复制Java的Date实现，导致可变性和时区处理等严重缺陷。2017年提交的Temporal提案因规模庞大、实现复杂，历时9年才达到Stage 4阶段。期间各浏览器引擎需独立实现，直到2024年Google和Boa合作开发temporal_rs Rust库，提供共享基础才加速进程。Temporal将在ES2026中正式发布，为JavaScript带来现代化的日期处理能力。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Temporal API终于在本周达到Stage 4阶段，将在今年夏天正式加入ES2026标准，解决JavaScript日期处理长达30年的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;JavaScript的Date对象源于1995年Brendan Eich直接复制Java的实现，导致可变性、时区和夏令时处理等诸多问题，催生了Moment.js等解决方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Temporal提案从2017年提交到2026年实现历时9年，因为它是JS历史上最大的改动，实现难度极高，需要各浏览器引擎独立开发。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2024年Google和Boa合作开发的Rust库temporal_rs提供了共享基础，帮助Temporal最终跨越终点线，带来不可变、支持夏令时的日期类型。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;An odd font rendering bug in Firefox and Safari&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网页字体缺少特定重音字符导致浏览器渲染差异&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在National Theatre网站观看戏剧时发现了一个字体渲染bug：演员名字中的特殊重音字符在Firefox和Safari中显示异常。问题源于网站使用的Helvetica Now Display W04字体缺少某些预组合的重音字符（如ẹ、ọ），需要通过组合字符方式生成。当CSS设置为font-weight: normal时，Firefox和Safari无法正确渲染这些组合字符，导致回退到默认字体。Chrome则能正常显示。作者已向浏览器厂商报告此问题，并计划修复自己网站的字体配置。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者推荐观看Ncuti Gatwa主演的《不可儿戏》，并在National Theatre网站上发现演员Ronkẹ Adékọluẹ́jọ́的名字在Firefox和Safari浏览器中显示异常，而Chrome显示正常。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章解释了重音字符的两种实现方式：预组合字符（如é有独立编码）和组合字符（普通字母e加上组合重音符号◌́）。字体文件可以包含完整的重音字符或单独的重音符号。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;National Theatre使用的Helvetica Now Display W04字体包含é和组合符号◌́、̣◌，但缺少ẹ和ọ的预组合形式。在Firefox和Safari中，当CSS设置为font-weight: normal时，组合字符渲染失败，导致使用默认字体显示。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者已向Firefox和WebKit提交bug报告，认为Chrome的渲染可能是正确的，并计划修复自己网站使用的字体以避免类似问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-13T18:08Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-13T18:08Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 探索AT Protocol架构后计划自建数据库扩展功能&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在使用AT Protocol构建应用后深入研究了其文档架构。文章介绍了AT Protocol的两种数据处理方式：OAuth和个人数据通过直接PDS访问，社交聚合功能则需同步事件流并本地缓存。作者注意到现有的第三方服务如microcosm虽然可用但长期可持续性不确定。基于这些认识，作者计划为attic.social项目扩展数据库功能，采用原型开发方法验证性能，并考虑利用现有的树莓派硬件进行自托管部署，实现成本优化和技术自主。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在构建AT Protocol应用后阅读了文档，了解到OAuth和个人数据可通过直接PDS访问处理，而社交和聚合功能需要同步事件流并本地缓存数据。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提到Dan Abramov有很好的示例，microcosm等服务存在但可持续性存疑，免费维护成本高昂。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者计划为attic.social扩展需要数据库的功能，打算先做基础原型测试性能，考虑在树莓派上自托管数据库和PDS。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n35f93df5e531&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;映像事業はじめました。『CyberConnect2 FILM』&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CC2が映像事業に進出し総合エンタメ企業へ&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーが設立30周年を機に新規映像事業「CyberConnect2 FILM」を立ち上げ、第一弾として映画『チェイサーゲームW 水魚の交わり』を5月15日より全国公開する。ゲーム、マンガに加えて映像分野に進出することで、世代やジャンルを超えた総合エンタメ企業として、世界中の人々に最高傑作を届けることを目指す。筆者は親としてエンタメが子供に与える影響を実感しており、その経験を活かして唯一無二の作品を創造していく決意を表明している。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー設立30周年パーティーで新規映像事業「CyberConnect2 FILM」を発表し、記念すべき第一弾として映画『チェイサーゲームW 水魚の交わり』が5月15日より全国公開されることを紹介。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;ゲーム、マンガ、映像作品とジャンルを広げることで、世界中の老若男女が楽しめるエンタメ世界を創造し、誰も置き去りにしない作品づくりを目指すと宣言。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;筆者自身がマンガと映像事業を担当し、親として子供たちがエンタメから夢や希望を得る姿を見てきた経験から、エンタメの力を実感し唯一無二の傑作を作る確信を表明。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;松山社長著『ゲーム業界の攻略法』を紹介し、ゲームクリエイターを夢見る息子が本を持ち去ったエピソードで締めくくる。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(6 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/107183&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 9 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派推荐9部近期佳作及影视资讯合集&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇影视推荐合集文章,由少数派编辑部推出的「本周看什么」栏目。文章推荐了9部近期值得观看的作品,涵盖英剧、美剧、土耳其剧、国产剧、动画、纪录片和真人秀等多种类型。每部作品都配有简短评论,介绍剧情亮点、制作水准和观看价值。此外还包含多个新片预告信息和影视行业动态,如《穿普拉达的女王2》确认引进、《超级马力欧银河大电影》定档等。文章采用轻松活泼的语言风格,为读者提供全面的影视观看指南。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106816&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;探访帝国之心，吴哥旅行完全指南（上） ：行程设计&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 吴哥窟旅行完全指南,涵盖行程设计与实用攻略&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇详尽的吴哥窟旅行指南上篇,聚焦行程设计。作者以亲身经历为基础,提供了从一日速通到七日放松的多种行程方案,并详细说明了签证、交通、住宿、门票、出行方式等实用信息。文章特别强调了暹粒作为旅游城市的安全性和便利性,打破了柬埔寨在中国互联网上的负面印象。作者采用第一人称叙述,语言风格轻松实用,既有个人体验分享,也有客观的利弊分析,为计划前往吴哥窟的旅行者提供了全面的参考框架。文中穿插了预算估算、注意事项和优化建议,体现了作者对旅行规划的深入思考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了柬埔寨暹粒和吴哥窟的旅游背景,说明尽管柬埔寨在中国互联网上名声不佳,但吴哥窟作为世界级景点仍值得探访,作者最终在2026年初实现了这次旅行。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在暹粒停留七天七夜,其中六天进入吴哥景区,前三天跟团了解历史,后三天自由包车游览,整体行程较为放松,并基于经典的小圈、大圈、外圈路线做了个性化调整。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细列出了作者的每日行程安排,标注了值得一去的景点和跟团行程,并说明部分景点重复游览的原因将在后文解释。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提供了三种不同时长的行程方案:一日速通版涵盖最精华景点但强度极高;三日经典版遵循传统路线覆盖主要景点;七日放松版则可以避开高温时段,以更舒适的节奏游览。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细说明了签证办理、电话卡购买、支付方式等行前准备事项,特别强调暹粒是现金社会,美元和瑞尔通用,并提醒支付宝单笔超过25,000瑞尔可能无法支付。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;住宿区域分为四大块:奢华酒店区、酒吧街市中心、Wat Bo安静区和度假酒店区,各有优缺点,作者选择了Wat Bo区域的精品酒店,对服务质量表示满意。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;吴哥窟门票分1天、3天、7天三种,建议购买电子票方便查验,机场交通可选择机场大巴、旅行社接送或点对点送机,各有利弊和价格差异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;出行方式主要有跟团、包车和租摩托三种,作者建议独自出行可跟团,多人出行或追求自由度选包车,有丰富驾驶经验可租摩托,并分析了请导游的必要性和时机。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为暹粒是安全的旅游城市,单人旅行完全可行,当地人友好和善,旅游配套成熟,舒适度远高于土耳其、埃及等地,也容易结识旅伴。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;暹粒气候分旱季和雨季,旱季是旺季,雨季虽热但游客少,行李准备需考虑防晒、防尘和大量步行三个因素,作者详细列出了强烈建议携带和锦上添花的物品清单。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106709&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度征文｜看见并打开我和我妈之间的那扇门&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 儿子通过主动改变相处方式，打开与母亲之间的心门&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者讲述了与母亲关系从疏离到和解的转变过程。母亲来照顾孙子却因育儿理念差异被边缘化，整日沉迷直播。作者最初将问题归咎于原生家庭并保持距离，但在育儿实践中反思到自己对孩子的耐心却无法给予母亲。他开始主动改变：平和沟通、倾听唠叨、支持母亲的爱好、让孩子参与家庭互动、表达爱意。通过这些看似微小的行动，家庭氛围逐渐改善。作者领悟到不应试图改变母亲，而是打开彼此间的门，让母亲自己选择靠近的距离，关系修复需要主动迈出第一步而非相互控制。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的母亲因矛盾离家出走，虽被追回但两人陷入冷战，这种模式在家中一直存在——吵架后谁都不认错，问题被搁置等待下次爆发。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2020年母亲来照顾怀孕的妻子，2021年孩子出生后，作者夫妇因育儿理念差异决定自己带孩子，母亲被边缘化，整天看直播买东西，作者自以为处理得当。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾母亲离婚后独自抚养两个孩子的艰辛，意识到母亲把所有感情都寄托在子女身上，自己曾将问题归咎于原生家庭并保持距离。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在育儿过程中反思，发现自己对孩子能做到的耐心和尊重，却无法给予母亲，开始思考如果将来孩子也这样对待自己会怎样，决定主动改变。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者开始改变与母亲的相处方式：平和说话、认真倾听她的唠叨、支持她捡菜的爱好、让孩子参与到与奶奶的互动中、主动表达爱意。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过这些小事，家庭氛围逐渐改善，作者意识到不应试图控制和改变母亲，而是打开彼此之间的门，让母亲自己选择走近多少，关系的改善需要双方共同努力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106935&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一日一技｜在镜头前翻翻页，你就得到了一本电子书&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用翻页视频和AI实现纸质书到电子书的高效转换&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者因过度电子化影响学习效果而回归纸质课本，但面临携带不便和缺少电子版的困境。受室友启发，作者开发了kvpaper.sh脚本，通过录制翻页视频并调用Kimi API进行OCR识别，自动生成排版精美的Typst格式电子书。这个方案成本低、效率高，半分钟可拍摄10页内容。作者认为关键在于找到人机协作的平衡点：保留纸质阅读和思考过程，将机械重复的扫描工作交给AI处理。文章强调换个角度描述问题往往能找到创新解决方案，体现了脚本自动化的强大潜力。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者反思了过度电子化对学习的影响，决定回归纸质课本，但发现携带厚重课本很不方便，希望能同时拥有纸质和电子版本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者尝试寻找电子版课本但未果，考虑扫描但发现传统扫描方式繁琐低效，期待更便捷的解决方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;受室友启发，作者想到可以录制翻页视频而非逐页拍照，这种方式更加自然高效。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者编写了kvpaper.sh脚本，调用Kimi API识别翻页视频并输出Typst格式文档，半分钟可拍摄10页，4分钟完成识别，成本约三毛钱。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;脚本运行结果优秀，生成的PDF具有表格、脚注、页码等完整排版，但图表识别效果不佳会被跳过。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结了三点启示：要听取非专业人士的直觉建议、不要对工具有偏见、脚本自动化非常强大。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为关键是找到人机协作的平衡点，保留纸质阅读和思考，将机械重复的扫描工作交给AI和脚本，这比完全电子化或完全纸质化都更好。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章核心观点是换个角度描述问题往往能找到更好的解决方案，从逐页拍照改为录制翻页视频就是一个典型例子。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/107091&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;314 周年庆：少数派软件、会员、栏目限时优惠&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派14周年庆全站优惠，会员、软件、栏目多重折扣&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派14周年庆推出全站优惠活动，持续至3月24日。会员服务采用分级优惠策略，年度会员最低128元起，并可享受软件商城专属折扣和优惠券叠加使用。超过50款正版软件参与促销，包括Microsoft 365、妙笔、白描、MarginNote等热门工具，折扣幅度10%-50%不等。付费栏目方面，macOS/iOS蓝皮书、健康指南、旅游攻略等提供8折优惠，100小时系列、生产力超频系列等经典栏目6折促销，年度会员可免费阅读或用点数兑换大部分内容。活动涵盖会员权益、软件工具、知识内容三大板块，为用户提供全方位的优惠福利。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派即将迎来14周年庆，软件商城、会员服务和付费栏目推出优惠活动，持续至3月24日。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派会员新购和续费享受分级优惠，年度会员根据用户身份不同价格从128元到308元不等，月度会员31.4元，会员可享软件专属折扣和优惠券。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Microsoft 365工具升值包、妙笔WonderPen、白描OCR等多款软件提供限时折扣，价格降幅从10%到30%不等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;MarginNote 4、MWeb Pro等专业软件工具提供周年庆优惠，并附赠专属教程内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;超过50款软件工具参与优惠活动，涵盖效率工具、图像处理、笔记管理等多个类别，折扣力度从10%到50%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;macOS和iOS蓝皮书、久坐健康指南、日本旅游指南等付费栏目提供8折优惠，年度会员可免费阅读部分内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;100小时系列、生产力超频系列、经验卷轴系列等经典付费栏目提供6折优惠，多数可供年度会员免费阅读或用点数兑换。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/107158&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Apple 宣布下调中国区 App Store 佣金率&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技行业多项重要动态汇总&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派的科技早报合集，涵盖了多个重要科技动态。主要内容包括：Apple下调中国区App Store佣金率、三星调整Galaxy设备刷机机制、PEGI更新游戏年龄分级规则、英伟达发布开源AI模型Nemotron 3 Super、飞书推出OpenClaw官方插件、腾讯WorkBuddy支持微信直连、OpenAI CEO谈AI在美国面临的阻力、微软推送Xbox模式到Windows 11、微软重启Xbox向后兼容计划、Valve公布Steam Machine验证标准，以及Mozilla延长Firefox 115 ESR支持周期。文章以简洁的新闻摘要形式呈现，附带部分用户评论和相关链接。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple宣布下调中国区App Store佣金率，标准佣金率从30%降至25%，小型开发者佣金率从15%降至12%，新费率将于2026年3月15日生效。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三星在One UI 8.5固件中调整了Galaxy设备的底层刷机机制，Download Mode和Odin工具需先启用Maintenance Mode才能使用，此举可能与加强系统安全和限制固件侧载有关。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;PEGI宣布从6月起更新游戏年龄分级标准，包含付费随机道具的游戏将被评为PEGI 16，社交赌场类游戏将被评为PEGI 18，新规则将更多考虑在线互动风险和游戏设计对消费行为的影响。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;英伟达发布Nemotron 3 Super开源大模型，拥有1200亿参数，采用混合专家架构，配备100万Token上下文窗口，面向大规模运行复杂智能体系统设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;飞书推出OpenClaw官方插件，可授权OpenClaw直接访问飞书生态中的文档、群聊、日历、任务和多维表格等协同工具，让AI能更好理解协作场景中的上下文信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;腾讯版龙虾WorkBuddy推出新版本，支持一键连接微信，用户可通过微信远程指挥办公电脑上的WorkBuddy执行任务，所有操作均在本地完成。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI CEO Sam Altman表示AI在美国面临多重阻力，包括数据中心建设推高电力价格、企业裁员归因于AI等负面舆论，以及政府与科技公司之间围绕监管与权力边界的讨论。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软宣布将Xbox FSE全屏体验正式更名为Xbox模式，并计划从下月起向所有Windows 11 PC推送，该模式支持微软自家平台及Steam、Epic等多个游戏平台。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软在GDC 2026上宣布重启Xbox向后兼容计划，旨在让玩家在现款及未来的Xbox平台上游玩更多经典Xbox初代与Xbox 360游戏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Valve在GDC 2026上公布了Steam Machine与Steam Frame的硬件验证Verified标签要求，Steam Machine的性能基准为原生1080p分辨率下维持30 FPS。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mozilla宣布将Firefox 115 ESR对老旧操作系统的支持周期从2026年3月延长至2026年8月，适用于Windows 7、Windows 8.1以及macOS 10.12-10.14等系统。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - March 12, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2336,261 +2567,6 @@ If you&amp;#039;d like me to summarize this article, could you paste the full te
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;徕卡与小米发布Leica Leitzphone（国内为小米17 Ultra徕卡版），定价7999元起；小米发布Xiaomi Tag定位追踪器，BLE版69元、UWB版129元。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - March 2, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-03-02</id>
-    <updated>2026-03-02T20:14:39.438Z</updated>
-    <published>2026-03-02T20:14:39.438Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>16 articles from 9 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 2, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;66.84931506849315&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    16.7%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;61&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;304&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;8&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████░░░░░░░░░░░░░░░░░░░░░░░░░ 16.7%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;16&lt;/strong&gt; articles from &lt;strong&gt;9&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22431&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The state of State Of The Browser&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 State Of The Browser大会演讲质量高且远离AI炒作&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者对2026年3月2日在伦敦举办的State Of The Browser大会的参会感想。作者高度评价了本届大会的演讲质量，认为其性价比远超许多高价活动。大会不仅涵盖CSS anchor positioning、无障碍访问、渐进增强等技术议题，还营造了浓厚的社区氛围，约半数观众为首次参加。作者尤为欣赏大会几乎完全回避了AI（大型语言模型）炒作这一点，并向读者推荐即将举办的Web Day Out活动和已开售的2027年大会门票。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者参加了在伦敦举办的State Of The Browser大会，认为今年演讲质量极高，远超许多票价更贵的活动。开场由Bramus带来CSS anchor positioning演讲，Cassie以在浏览器中制作游戏的趣味演讲压轴，中间还涵盖了无障碍访问和渐进增强等主题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;State Of The Browser不仅是技术大会，更是社区聚会，约一半观众是首次参加，新老成员交融是活动的亮点。作者还特别提到与朋友用爱尔兰语交流的个人难忘时刻。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;主持人Dave将MC职责交给Jake，但仍发表了开场和闭幕致辞，并鼓励大家参加Web Day Out活动，同时呼吁尽早购票。State Of The Browser和Web Day Out有很多共同点，包括优质演讲和良好社区氛围。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;今年大会几乎没有涉及AI（大型语言模型）相关内容，作者对此感到非常满意，认为能在技术大会上远离AI炒作是一种享受，尽管前两场演讲的幻灯片中出现了少量AI生成内容令作者皱眉。State Of The Browser 2027的票已开售，作者建议尽早购票。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22430&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reading A Fisherman of the Inland Sea by Ursula K. Le Guin.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录阅读勒古恩作品的简短日志&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章是一则简短的阅读日志，记录了作者于2026年3月2日上午10:53在北纬51°、东经0°的位置正在阅读厄休拉·K·勒古恩（Ursula K. Le Guin）的短篇小说集《内海的渔人》（A Fisherman of the Inland Sea）。内容极为简洁，仅包含阅读时间、地点坐标及书目信息，并附有Bookshop和Open Library的链接，邀请读者分享回应。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.petemillspaugh.com/the-nature-of-the-job&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The nature of the job&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI改变了编程本质，作者寻回对工作的真实热爱&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇程序员关于AI时代职业身份认同的自我反思性文章。作者回顾了从早期学习编程时那种缓慢、深入、充满成就感的编程体验，到如今被LLM主导的快节奏工作模式之间的转变，探讨了生产力与深度学习之间的根本矛盾。作者以Google Maps类比说明过度依赖AI工具可能削弱真实能力与agency，引用Matthew Crawford的&amp;#039;喜悦是能力增长的感受&amp;#039;表达对&amp;#039;joyously slow and arduous&amp;#039;工作方式的坚守。最终，作者通过转型写书和加入Val Town兼职，找到了让自己真正期待每个工作日的职业状态。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在过去三年中对AI对程序员工作的影响感受复杂，认为AI从根本上改变了软件工程的本质。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将这篇文章定位为一篇关于程序员与AI关系的自我疗愈式文章，并列举了十余篇同类&amp;#039;软件工程身份危机&amp;#039;文章作为参照。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Annie Vella的观点被引用：许多程序员的身份认同建立在&amp;#039;亲手构建&amp;#039;之上，而AI的介入让这种身份认同受到了挑战，类似于从独立贡献者晋升为工程经理的转变。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆2021-2022年学习编程的早期经历，那时编程更像是&amp;#039;第二类乐趣&amp;#039;——缓慢、深思熟虑，且带来持久的学习成果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以编写端到端测试为例，描述了短期生产力与长期学习之间的两难选择，认为逐渐依赖LLM存在复合风险，并以Google Maps的类比加以说明。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表达了职业核心目标：像享受周五一样享受周一，引用Matthew Crawford关于&amp;#039;喜悦是能力增长的感受&amp;#039;的观点，并将过度依赖AI视为放弃真实能力的行为。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了离开原有工作去写书、同时加入Val Town兼职的个人决定，表示尽管对AI感到矛盾，但目前的工作状态让他真正期待每一个工作日。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/03/getting-started-popover-api/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Getting Started With The Popover API&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Popover API让浏览器原生理解tooltip，消除繁杂JS代码与无障碍缺陷&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者Godstime Aburu分享了将传统JavaScript库实现的tooltip迁移至浏览器原生Popover API的经历。旧方案需要大量事件监听器和手动ARIA状态管理，存在键盘支持不稳定、屏幕阅读器行为不一致等问题。通过使用popover属性和popovertarget等Invoker Commands，作者将约60行JavaScript简化为约10行声明式HTML，获得了原生键盘支持、自动ARIA同步和可靠的焦点管理，彻底消除了整类无障碍访问缺陷，使浏览器真正理解并原生支持tooltip交互。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了作者构建tooltip的背景：传统方法依赖JavaScript库，虽然功能完整，但存在键盘支持不稳定、屏幕阅读器行为不一致、Escape键无法可靠关闭等诸多问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者描述了旧式tooltip实现的核心痛点：需要约60行JavaScript代码、五个事件监听器和手动状态管理，ARIA属性需要手动同步，鼠标与键盘用户体验存在时序不匹配问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章指出旧实现的根本问题不在于代码质量，而在于浏览器平台缺乏原生tooltip支持，所有功能都依赖约定俗成的通用元素、事件监听器和手动ARIA管理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者尝试使用Popover API重建tooltip，仅需几行声明式HTML即可实现无需JavaScript的开关控制、Escape键自动关闭，以及aria-expanded属性的自动同步。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细介绍了Invoker Commands（popovertarget和popovertargetaction属性）的工作原理，支持show、hide、toggle三种操作，可通过多个触发器控制同一tooltip。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Popover API带来了三大免费无障碍访问改善：键盘行为由浏览器原生保障、屏幕阅读器行为更加稳定可预测（Lighthouse不再报告ARIA状态警告），以及焦点管理更加自然，无需手动编写焦点恢复代码。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-280/viewer?title_no=853933&amp;episode_no=294&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 280&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON《DOGHAUS》漫画系列章节导航页面&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;此内容并非一篇文章，而是WEBTOON平台上名为《DOGHAUS》的漫画系列页面的导航界面数据。内容主要包括该漫画从第1话到第280话的章节列表，以及平台功能按钮（如订阅、分享、举报等）和相关推荐漫画排行榜。创作者为Moowsie，该系列被标注为成人向内容，发布于CANVAS自助出版平台。页面还包含其他热门漫画推荐，如《Heartstopper》等。整体内容为网站UI文本，不具备可摘要的叙事或论述内容。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/03/adding-log-in-with-mastodon-to-auth0/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Adding &amp;quot;Log In With Mastodon&amp;quot; to Auth0&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 利用Auth0自定义连接实现兼容去中心化Mastodon的社交登录&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了作者如何为OpenBenches网站实现Mastodon社交登录的技术方案。由于Auth0原生不支持Mastodon，作者利用Auth0的Connections API和Mastodon的自动应用注册功能，构建了一套自定义OAuth2服务。该方案允许用户输入自己的Mastodon实例URL，后台动态创建只读API密钥，从而兼容去中心化的Fediverse架构。文章详细描述了用户体验流程和Auth0配置步骤，并坦承实现过程较为复杂，但Mastodon API的友好性和只读权限设计有效降低了安全风险。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者使用Auth0为OpenBenches网站提供社交登录功能，Auth0支持多种社交媒体登录，但不支持Mastodon，不过Auth0的Connections API允许添加任何OAuth2授权服务器作为身份提供商。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;每个Mastodon服务器都是独立的，通用认证器需要支持所有服务器。Mastodon允许开发者自动创建新应用，只需几行代码即可获得适用于该服务器的只读API密钥。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;用户点击登录按钮后进入Auth0社交登录界面，选择Mastodon后输入自己实例的URL，后台服务器自动创建只读API密钥，用户授权后即可完成登录，OpenBenches可获取用户名称和头像等信息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在Auth0租户中需创建自定义连接，配置Authorization URL和Token URL指向自建服务，设置Client ID和Client Secret，并通过命令行添加自定义图标。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者承认该实现并不简单，Auth0本可以提供更好的支持，但Mastodon API易于使用，只读权限降低了各方风险，Auth0曾发文讨论Mastodon但从未真正实现支持。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Technium &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kk.org/thetechnium/three-modes-of-cognition/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Three Modes of Cognition&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI需突破世界感知与持续学习才能真正替代人类&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者提出人工智能由三种基本认知模式构成：知识推理（LLM的强项，已超越人类）、世界感知（理解物理现实，支撑自动驾驶等应用）和持续学习（目前AI完全缺失的能力）。作者指出，截至2026年2月，当前AI在知识推理上表现卓越，世界感知初步实现，但持续学习能力的缺失导致AI无法真正替代人类工作者。文章以分析性视角阐述了AI发展的核心瓶颈，并预测持续学习的突破将是AI能力跃升的关键转折点。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;智能并非单一元素，而是由多种基本认知元素构成的复杂组合，作者提出三种认知模式共同构成类人智能：知识推理、世界感知和持续学习。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;知识推理是LLM生成的认知类型，通过阅读和记忆海量文本获得超强智能，在回答问题、研究和解决智识问题方面极为有用，2026年已远超人类能力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;世界感知是基于真实物理世界训练的智能，而非文本描述，它理解物体在三维空间中的行为规律，是驱动Waymo自动驾驶超越人类的核心能力，但目前仍依赖视觉算法和世界模型等多层认知元素。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;持续学习是人类智能的核心特征，但目前AI完全缺乏这一能力，LLM无法从错误和纠正中学习，每次对话后即遗忘，这是2026年AI无法真正替代人类工作者的主要原因。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;当前AI在知识智商上充足，世界智商初步具备，但规模化学习智商严重不足。不同任务需要不同认知模式组合，未来两年AI主流应用的关键在于能否实现另外两种认知模式。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/03/02/mooving-to-a-self-hosted-bluesky-pds/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;MOOving to a self-hosted Bluesky PDS&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录了将Bluesky迁移至自托管PDS的完整技术流程&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者详细记录了将Bluesky账号迁移至自托管PDS（Personal Data Server）的全过程。硬件方面使用Raspberry Pi 5搭配NVMe和Docker容器；软件栈包括官方Bluesky PDS镜像、Caddy反向代理、Cloudflare Tunnel以及Proton SMTP邮件服务。作者使用PDS MOOver工具完成数据迁移，并推荐了多个验证和调试工具。文章风格轻松幽默，兼具技术细节与个人感受，最终表达了对atproto协议赋予用户数据自主权的认可，并对未来在The Atmosphere上开发新项目充满期待。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了Bluesky平台，它基于AT Protocol运行，类似于早期Twitter的体验，但对atproto的技术原理表示难以解释。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对比了Mastodon和Bluesky的自托管难度，认为自托管Bluesky PDS的门槛更低。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细介绍了自托管环境的硬件配置：使用Raspberry Pi 5作为主机，搭配NVMe存储，所有服务运行在Docker容器中，并配置了VLAN防火墙。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者使用官方Docker容器搭建Bluesky PDS，通过环境变量配置，并将数据卷备份至NAS。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在PDS容器前部署了Caddy作为反向代理，为未来添加访问日志、限流等功能预留灵活性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者使用Cloudflare Tunnel将Caddy连接至外网，以隐藏家庭IP地址，同时获得额外的机器人防护，并说明了DNS配置和自定义域名的处理方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者配置了Proton Mail的SMTP服务，使PDS能够发送密码重置等邮件，并展示了相关环境变量的格式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者使用PDS MOOver工具完成数据迁移，测试后迁移了主账号，并介绍了登录方式和相关验证工具。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者列举了参考的自托管教程，指出Cloudflare相关内容多已过时，并表达了对掌控自身数据的认可，以及对在The Atmosphere中构建项目的兴趣。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://youtu.be/C2m4N1EAI1Q&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;サイバーコネクトツー30周年記念パーティーダイジェスト動画を公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2 releases a digest video celebrating the Japanese game studio&amp;#039;s 30th anniversary party.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary
-
-The provided content does not contain a substantive article to summarize. The text consists entirely of standard **YouTube platform boilerplate** — navigation links, legal disclaimers, copyright notices, and footer elements (e.g., &amp;quot;© 2026 Google LLC&amp;quot;, &amp;quot;Privacy Policy&amp;quot;, &amp;quot;How YouTube works&amp;quot;) — rather than actual article body content.
-
-**What can be inferred from the title alone:**
-The article title translates from Japanese to: *&amp;quot;CyberConnect2 30th Anniversary Celebration Party Digest Video Released!&amp;quot;* — suggesting the content was likely an embedded YouTube video showcasing highlights from **CyberConnect2&amp;#039;s** (the Japanese game studio behind the *.hack* and *Naruto* game series) 30th anniversary event.
-
-**Recommendation:** To generate an accurate summary, please provide the actual article body text or video transcript, as the page content was either behind a JavaScript render, paywalled, or failed to scrape beyond the YouTube embed shell.&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202603/67253&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【漫画の裏側を語る！】『チェイサーゲーム』原作コラム 『デバッグルーム』シーズン2 第63話 天使の舞う日（16）公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《チェイサーゲーム》第63话幕后解说与新书宣传&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是ファミ通.com连载漫画《チェイサーゲーム》第63话的原作幕后专栏。原作者解释了话中出现极端剧情的创作意图，强调所有工作本质上都是命悬一线的拼搏。文章还介绍了角色宫崎的&amp;#039;战车椅子&amp;#039;设计代号&amp;#039;T1&amp;#039;来源于其名字&amp;#039;太一郎&amp;#039;，与《ターミネーター》无关，该设计一年前便已确定。此外说明宫崎目前仍处于治疗阶段，战车椅子为生命维持装置。最后预告下话将展开Tetra的战斗场面，并宣传原作者新书《ゲーム業界の攻略法》的发售信息。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第63话引发了大量读者反响，许多人质疑为何职场漫画中会出现如此极端的剧情，原作者表示这正是预期反应，并强调所有工作本质上都是拼命的较量。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;登场的&amp;#039;战车椅子&amp;#039;角色宫崎的设计代号&amp;#039;T1&amp;#039;源自其名字&amp;#039;太一郎&amp;#039;，早在一年前便已确定设计方案，与编辑部联想到的《终结者》毫无关联。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;宫崎目前仍在治疗中，战车椅子是其生命维持装置，是在半年内被改造恢复的结果，林擅自将其带出引发了骚动，下一话将切换至Tetra的战斗场面。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑部澄清误将&amp;#039;T1&amp;#039;理解为《终结者》的失误，并提及在CyberConnect2 30周年派对上见到了相关人物；同时宣布原作者松山洋的新书《游戏行业攻略法》已于2026年2月发售。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://game.kimetsu.com/hinokami2/news/?id=69799&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『鬼滅の刃 ヒノカミ血風譚2』「PlayStation® Tournaments」3月開催情報&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《鬼滅の刃2》3月PS5锦标赛赛程及奖励公告&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为游戏《鬼滅の刃 ヒノカミ血風譚2》的官方公告，介绍了2026年3月在PS5平台举办的「PlayStation® Tournaments」赛事详情。3月1日起每日设有四个锦标赛，分别以竈門禰豆子、積怒、キメツ学園・我妻善逸及竈門炭治郎（無限城編）为主题，于20时至23时依次开赛。其中23时的特别大会进入前四名可获得语音台词等豪华奖品，所有赛事还设有キメツポイント积分及参赛称号作为奖励。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106749&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派派评精选多款近期值得关注的优质App&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期少数派《派评》汇总介绍了多款近期值得关注的App。Snapseed新增内置相机与复古胶片滤镜；阿里开源AI工具CoPaw降低Agent使用门槛；书签管理应用Raindrop推出AI助手Stella；Dark Sky团队新作Acme Weather以多数据源可视化呈现天气「不确定性」；Android应用Unitto整合计算与单位换算功能；防沉迷工具Cape 4.0增强了应用限制与用量追踪能力。此外速报涵盖1Password涨价、Notion和Craft的AI Agent新功能。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期《派评》介绍了多款值得关注的App，读者可通过目录快速跳转至感兴趣的内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Snapseed发布3.13和3.15版本更新，新增内置相机功能，支持十余款免费胶片滤镜（以Kodak、Fujifilm为灵感），提供手动/自动拍摄模式，并增加锁屏小组件、去雾工具和颜色局部调整等功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阿里旗下团队开源了AI助手工具CoPaw，作为国产版OpenClaw替代品，提供中文界面和图形化配置，支持钉钉、飞书、QQ等国内渠道，适合普通用户入门AI Agent。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;知名书签管理应用Raindrop推出Beta版AI助手Stella，支持自然语义搜索、书签内容解读和智能整理书签库，需订阅Pro会员（约每月23.47港币）使用该功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Dark Sky核心开发团队推出新天气应用Acme Weather，其核心特色是将多数据源预测结果汇总在同一时间线，直观展示天气预报的「不确定性」，订阅价格为25美元/年，暂未上线国区。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android计算器应用Unitto在基础计算功能之外，集成了单位换算、货币换算、时区查询、时长计算及身体数据计算等功能，支持桌面小部件，完全开源免费。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;防沉迷应用Cape发布4.0更新，新增对网址和应用类别的限制、延迟启动功能、通知提醒及详细用量报告，基础功能免费，高级功能需内购（年订阅48元或终身授权148元）。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;App速报：1Password宣布上调订阅价格；Notion推出自定义代理功能；Craft推出Craft Agents支持文档智能编辑。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106467&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;给 Lumia 1020 用户的 Windows 8.1 漫游指南（2026）&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Lumia 1020折腾指南兼Windows Phone失败反思&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者StephenFang通过购入一台Lumia 1020，以亲身体验重新审视Windows Phone 8.1这一已退出历史舞台的移动操作系统。文章从选择WP 8.1而非Windows 10 Mobile的理由切入，详述了Lumia 1020的硬件特色与影像哲学，并记录了解锁、刷机、侧载应用的完整折腾过程。在此基础上，作者深入分析了Windows Phone失败的多重原因：入场过晚、生态固化、交互过于另类以及开发者信心崩塌。结论认为，WP 8.1克制、尊重注意力的产品态度在今天仍具设计价值，有些产品即使商业失败，依然值得被记住。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者声明文章以人工方式完成内容撰写，并在完稿后使用ChatGPT 5.2进行润色，同时表示自己并非Windows Phone长期用户。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为收藏老数码产品与收藏胶片相机、黑胶唱片无本质区别，保存的是那个时代的设计思路与技术气质，因此购入了一台Lumia 1020来重新体验Windows Phone 8.1。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者选择Windows Phone 8.1而非Windows 10 Mobile，是因为前者保留了克制纯粹的移动端设计理念，大字号、留白、横向Pivot页面构成了近乎杂志排版的界面风格，而Windows 10 Mobile的改动让系统变得与其他平台趋同。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Lumia 1020是Nokia被微软收购前最后一代旗舰，其4100万像素蔡司镜头和PureView超采样技术产生的照片具有光学直接感，在算法摄影盛行的今天反而别具魅力，二手价格也高于不少后期Lumia旗舰。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Windows Phone的折腾门槛很高，官方商店关闭后需通过Interop Unlock和侧载安装应用，整个过程涉及多种工具、固件和权限层级，学习成本高于越狱iPhone和Root Android。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;解锁后的Lumia 1020体验更像一个半离线的数字博物馆：自带Office、播客、FM等功能可正常使用，依赖服务端的应用大多失效，少数应用如网易云音乐仍可部分运行，古早游戏则几乎完整可玩。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Windows Phone 8.1在技术和设计层面几乎无可挑剔，但其失败源于入场过晚、生态固化、与主流交互差异过大以及开发者信心不足等多重原因，形成了用户少导致开发者不来的恶性循环。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Windows Phone遗留了软硬件协同、Metro统一视觉规范和动态磁贴理念等遗产，其克制的产品态度在注意力经济盛行的今天显得尤为珍贵，值得被历史记住。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者给出选购建议：热爱摄影选Lumia 1020，注重综合性能选Lumia 930，偏爱大屏选Lumia 1520，购买时应重点检查屏幕、相机、电池和实体按键状态。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106438&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度征文｜2025 年总结：一个纠结党试图向 AI 外包他的意志&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 纠结党研究生借助AI外包决策，发现放权与动态调整胜于执着完美预判&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者以2025年为背景，记录了自己作为一名「纠结党」研究生尝试将决策意志外包给AI的实验历程。在科研方面，AI帮助他克服了选择困难、加速推进了研究；在开发方面，他发现过度控制AI反而降低效率，放权才能释放生产力。然而，AI也存在明显局限：它会顺应用户的隐性偏好给出迎合性建议，并使用户回避向真人寻求意见。文章最终以弹道学与控制论作比，指出纠结源于对理性的迷信，真正的解法是快速决策、动态调整，而非追求完美预判。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2025年被作者视为AI全面渗透生活的元年，他几乎在所有问题上向AI寻求建议，并开始反思AI作为私人顾问的实际效果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者自述是一个严重的「纠结党」，做决策前习惯反复思考寻求最优解，一旦无法判断便陷入选择困难，导致焦虑和行动瘫痪。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在科研方面，作者面临缺乏指导、资源匮乏、导师难约的困境，AI成为他的「科研导师」，帮助他克服纠结、加速推进研究进程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI帮助作者认识到纠结的根源在于妄图全知、预判所有结局，真正的解法是先做出选择，再在过程中调整，而非追求完美预判。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在开发项目中，作者发现AI编程工具难以精确遵循他的规范，频繁返工；但当完全放权给AI负责前端时，AI表现出色，让他意识到问题在于过度控制。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者反思AI的局限性：用户提供信息时存在无意识的倾向性，AI会顺应这种倾向给出鼓励性反馈，导致作者高估科研进展、忽视真实问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI的低摩擦体验使作者倾向于回避向真人寻求意见，错过了来自师兄师姐的关键反馈，导致论文完成度被严重高估。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以「弹道学」与「控制论」作比喻，指出迷信理性、执着寻找最优解的思维方式是纠结与控制欲的根源，正确做法是快速决策并在过程中动态调整。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 第二外国语日语学院 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;日本语能力测试（JLPT）入校要求（2026年3月更&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 北二外JLPT考点发布2026年7月考试进校规定&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为2026年7月5日在北京第二外国语学院考点参加日本语能力测试（JLPT）的考生发布的重要通知。通知要求考生严格遵守JLPT考试须知及该校进校要求。校外考生（N1、N2）须于当日07:00后从南门统一入校，其他校门不得进出，社会车辆及送考人员不得入校。上午考试截止入场时间为08:55，逾时不得入场。考生需提前了解并遵守相关规定，以确保顺利参加考试。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;25-26学年第2学期日语辅修课程说明&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 日语学院发布跨专业复合课程开设说明通知&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为日语学院发布的一则关于跨专业复合课程的通知，面向2024级和2025级学生。通知列出了各年级对应开设的具体课程，包括综合日语、日语语法、日语写作、日语会话等。由于原文内容较为简短且结构为通知格式，信息尚不完整，主要目的是向学生说明跨专业复合课程的开设安排情况。&lt;/p&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
 &lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
 &lt;/div&gt;</content>
