@@ -4,8 +4,163 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-03-13T20:11:05.346Z</updated>
+  <updated>2026-03-14T20:07:23.501Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - March 14, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-03-14</id>
+    <updated>2026-03-14T20:07:23.501Z</updated>
+    <published>2026-03-14T20:07:23.501Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>6 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 14, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;80&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    20.0%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;73&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;292&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;10&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████░░░░░░░░░░░░░░░░░░░░░░░░ 20.0%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;6&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22457&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reading Project Hail Mary by Andy Weir.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录阅读《Project Hail Mary》的时刻&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条简短的社交媒体或博客更新，记录了作者在2026年3月14日下午4点23分阅读Andy Weir的科幻小说《Project Hail Mary》的状态。帖子包含了地理位置信息（北纬51度，东经0度，可能是伦敦地区），并提供了Bookshop和Open Library的购书链接，同时邀请读者分享回应。这是一个典型的读书分享帖，内容简洁，侧重于记录阅读时刻而非书评。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How Can Governments Pay Open Source Maintainers?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 探讨政府为开源软件付费的障碍及维护者应对策略&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了大型组织（特别是政府）为开源软件付费的困难。作者基于在英国政府的工作经验，指出开源软件维护者面临的主要障碍包括：缺乏明确的所有者身份、没有便捷的付费机制、资金分配不明确以及对接受政府资金的顾虑。作者建议维护者应清楚表明身份、提供支持合同和培训等付费服务、与贡献者明确资金分配方案，并通过多元化赞助商来避免单一客户依赖。文章强调，虽然国家支出审查严格，但通过消除这些障碍，可以让大型组织更容易为开源软件付费，从而缓解开源软件维护者报酬过低和倦怠的危机。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在英国政府工作时曾被要求寻找为所使用的开源软件付费的方法，这是一个出乎意料的难题。英国政府发布大量开源代码，但如何为其使用的开源软件付费存在诸多挑战。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开源软件面临危机，世界依赖的代码往往由报酬过低、濒临倦怠的工程师开发。虽然没人希望开源软件设置付费墙，但大型组织应该付费而不是完全依赖志愿劳动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;许多开源软件没有明确的所有者，政府和组织需要知道资金流向谁以及去向何处。为了避免意外资助受制裁的国家或个人，接受资金的维护者需要清楚表明自己的身份。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;即使有所有者，通常也缺乏便捷的付费机制。GitHub Sponsors等捐赠网站适合个人小额捐赠，但对大型组织来说可能存在问题。许多开源项目通过提供支持合同来解决这个问题，使组织更容易证明支出的合理性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;维护者可以提供培训套餐、会议演讲等多种付费服务。关键是为大型组织提供购买服务的便捷方式，例如通过企业信用卡进行500英镑以下的自由支配支出。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开源项目需要提前与所有贡献者讨论资金分配问题。OpenCollective等服务可以帮助展示资金去向，但更重要的是明确告知贡献者资金用途以及他们是否有权获得分成。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;一些开源项目不愿接受政府资金，担心被视为存在后门或受到不当影响。最好的防御方法是拥有众多付费赞助商，表明项目不受任何单一客户控制。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;让政府为开源软件付费并非不可能，但国家支出受到严格审查，且不适合向非供应商支付临时款项。维护者需要消除障碍，让组织更容易向他们付费，包括明确接受付款、提供多种付费选项、与贡献者沟通资金分配等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Mathematics Distillation Challenge – Equational Theories&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Challenge distills 22M algebra results into 10KB prompts to boost open-source AI accuracy from 50% to 60%+ on equation problems.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The Mathematics Distillation Challenge tasks participants with condensing 22 million universal algebra results from the 2024 Equational Theories Project into 10KB &amp;quot;cheat sheets&amp;quot; that enable cheaper AI models to solve true-false problems about binary operations and equations. While expensive frontier AI models can solve these problems opaquely, open-source models perform at random chance (50%) but improve to 55-60% accuracy with well-designed prompts—the challenge seeks to maximize this improvement through distilled mathematical knowledge. The competition runs in two stages: Stage 1 (deadline April 20) evaluates true-false accuracy on 1200 test problems with top 1000 submissions advancing to Stage 2, which requires full proofs or counterexamples using more advanced models. This initiative, launched by Damek Davis and the author through SAIR Foundation, represents a broader effort to enable collaborative mathematical problem-solving by making expert knowledge accessible to cheaper AI systems, with additional cooperative challenges planned for the coming months.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Collaborative Mathematics Evolution:&lt;/strong&gt; Traditional mathematics involves small groups of professionals working on deep problems, but modern technologies enable broader collaboration on mathematically interesting problems. Examples include Polymath projects, formalization efforts, and the 2024 Equational Theories Project which solved over 22 million universal algebra problems using Lean and automated theorem provers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;New Distillation Challenge:&lt;/strong&gt; A competitive challenge launched by Damek Davis and the author through SAIR Foundation aims to distill 22 million universal algebra results into concise, human-readable &amp;quot;cheat sheets.&amp;quot; The concept mirrors how students condense course knowledge onto exam reference sheets.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Universal Algebra Problems:&lt;/strong&gt; The challenge focuses on true-false problems in universal algebra involving binary operations and equations. These problems can be solved through algebraic manipulation or counterexamples, but are difficult and sometimes undecidable, requiring effort from humans, automated provers, or frontier AI systems.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Model Performance:&lt;/strong&gt; Expensive frontier AI models can solve these problems but lack transparency, while cheaper open-source models perform at random chance levels (50% accuracy). However, with appropriate prompts or &amp;quot;cheat sheets,&amp;quot; cheaper models can improve to 55-60% success rates.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Stage 1 Requirements:&lt;/strong&gt; Contestants must design cheat sheets (maximum 10 kilobytes) to maximize cheap model performance on true-false problems. A playground with 1200 test problems (1000 easy, 200 hard) is provided for testing submissions before the April 20 deadline.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Competition Structure:&lt;/strong&gt; Top 1000 submissions advance to Stage 2, which will involve more advanced models and require providing proofs or counterexamples, not just true-false answers. The competition is coordinated via Zulip channel for community discussion.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Expected Outcomes:&lt;/strong&gt; Winning submissions should capture productive problem-solving techniques applicable to other mathematical domains. The distillation process could be applied to various mathematical problem classes to empirically assess their solvability.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Future SAIR Initiatives:&lt;/strong&gt; SAIR Foundation will launch additional mathematical challenges in coming months with more cooperative rather than competitive formats. These initiatives aim to advance collaborative mathematical problem-solving using modern technologies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106785&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度征文｜减了肥，人生就会变好吗？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 减肥成功不等于人生变好，需警惕健康风险与心态误区&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者通过亲身减肥经历，探讨了减肥背后的健康风险、心态误区和身心哲学。文章指出即使采用科学方法减肥也可能带来反酸、消化问题等健康隐患，强调规律饮食和循序渐进的重要性。作者批判了社交媒体上将肥胖视为人生问题替罪羊的错误归因，以及减肥成功后产生的掌控感错觉。通过反思减肥过程中身体对大脑的影响，作者认为减肥成功更多依赖于优化肠道菌群、调节激素等身体层面的改变，而非单纯的意志力，最终呼吁以平和心态对待人生，践行长期健康的生活方式。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过半年时间成功减肥，回到大学时期身材并养成健康饮食习惯，但随后开始反思减肥与人生改变之间的关系，认为减肥只是相对可控的小事，不应将生活中的所有问题都归咎于身材。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细描述了减肥后出现的健康问题，包括反酸和肝胆区疼痛，通过就医检查发现可能与轻断食、空腹喝咖啡等减肥方式有关，强调即使采用相对健康的减肥方法也可能对身体造成损害。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章科普了空腹与胃病、胆结石的关系，指出短时间空腹本身不伤胃，但不规律饮食、空腹后暴食、长时间空腹等行为会增加健康风险，建议循序渐进减肥并保持规律饮食习惯。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者观察到社交媒体上存在将肥胖当作生活不顺替罪羊的心态误区，这种错误归因容易导致过度减肥和心理失衡，强调感情、事业等复杂问题不能简单归咎于身材。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了减肥成功后产生掌控感错觉的经历，随后在工作、学习等方面遭遇挫折，意识到人生中真正能掌控的事情有限，应保持平和心态接受现实。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后从哲学角度探讨身体与大脑的关系，作者通过减肥经历认识到身体对大脑的深刻影响，提出减肥成功可能更多依赖于身体层面的改变而非单纯的意志力，强调身心的相互作用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/103326&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;免费试读 | 日本温泉完全指南：如何找、怎么泡、泡哪里？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 日本温泉完全指南：从定义到礼仪的全方位实用攻略&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇全面的日本温泉旅行指南，从温泉的法律定义、泉质分类、入浴礼仪到寻找方法进行了系统介绍。作者详细对比了日归温泉和温泉旅馆两种体验方式，列举了日本各地代表性温泉地如别府、登别、乳头温泉乡等，并分享了个人推荐的特色温泉设施。文章强调温泉不仅是放松身心的方式，更是深入了解日本文化的独特入口，为不同需求的旅行者提供了实用的温泉选择建议和文化礼仪指导。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了日本温泉在旅行中的重要性，以及温泉对当地人和游客的不同意义，同时说明了温泉的法律定义和如何辨别真正的温泉。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细说明了不同温泉泉质的特点和功效，包括硫黄泉、碳酸氢盐泉、食盐泉等，并解释了天然温泉和源泉挂流等专业术语的含义。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对比了日归温泉和温泉旅馆两种泡汤方式的特点，日归温泉经济灵活适合行程紧凑的旅客，温泉旅馆则提供深度体验和完整的泡汤住宿服务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了日本温泉的入浴礼仪，包括脱衣准备、清洗身体、进入浴池的规范，以及关于刺青、饮酒、拍摄等特殊注意事项和建议的泡汤节奏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了寻找优质温泉的方法，包括使用专门平台搜索、关注关键词如源泉挂流、露天风吕等，以及如何从地图和评价中获取有用信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了日本最具代表性的温泉地，包括大分县的别府和由布院、北海道的登别、秋田县的乳头温泉乡、群马县的草津等著名温泉区域及其特色。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了个人推荐的温泉，包括北海道第一滝本馆、熊之汤、山梨县ほったらかし温泉、九州天之寂酒店等多处各具特色的温泉设施及其独特体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结尾强调温泉是日本文化的重要组成部分，是与自然和自我对话的方式，鼓励读者在旅途中体验温泉带来的治愈与宁静。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/107134&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sonos 周年团购限时开启：专属好价仅限今日&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派联合Sonos推出全系列音频产品限时团购&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派14周年庆与Sonos合作推出限时团购活动，涵盖全系列音频产品。从首款头戴式耳机Ace到无线音箱Era系列，从传统立体声Five到家庭影院核心Arc Ultra和Beam G2，再到低音炮Sub系列，产品线完整覆盖便携、音乐和影院场景。所有产品均支持无线连接和智能调音，强调沉浸式音频体验和生态联动。活动仅限3月14日当天，为用户提供难得的价格优惠和系统升级机会。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派14周年庆联合Sonos推出限时团购活动，于3月14日9:00至21:00进行，数量有限且价格优惠。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Sonos Ace是品牌首款头戴式耳机，支持通过Wi-Fi与条形音响联动实现杜比全景声流转，重312克，支持蓝牙5.4和aptX Lossless无损传输。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Era 100是均衡的无线音箱，配备立体声单元和Trueplay调音技术；Era 300专为空间音频设计，采用独特沙漏造型实现杜比全景声回放。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Sonos Five坚守传统立体声设计，配备六个单元专为音乐优化，支持横竖摆放并可配对为真立体声系统。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Arc Ultra内置14个单元支持9.1.4声道虚拟全景声；Beam G2体积小巧适合中小户型，两者均支持杜比全景声和HDMI eARC。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Sub 4采用双对立低音单元设计输出干净低频；Sub Mini为中小空间设计，适合与Beam或Era 100搭配使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;所有产品将在少数派商城开启限时秒杀，适合构建或升级无线音响系统。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - March 13, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2338,233 +2493,6 @@ If you&amp;#039;d like me to summarize this article, could you paste the full te
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;interestfor指向的目标元素可以是任意元素，不必设置popover属性，配合:interest-target伪类可以实现元素状态变化效果。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;CSS新增:interest-source和:interest-target两个伪类，分别用于匹配触发元素和目标元素的interest状态，实现样式控制。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;该特性可结合CSS锚点定位实现相对定位，目前仅Chrome浏览器支持，作者期待该特性能够快速普及。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - March 3, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-03-03</id>
-    <updated>2026-03-03T20:12:46.209Z</updated>
-    <published>2026-03-03T20:12:46.209Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>13 articles from 8 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 3, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;67.94520547945206&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    17.0%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;62&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;303&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;8&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████░░░░░░░░░░░░░░░░░░░░░░░░░ 17.0%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;13&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22433&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Will There Ever Be Another You by Patricia Lockwood&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一部关于疫情时期的实验性自传体小说书评&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于Patricia Lockwood新作《Will There Ever Be Another You》的书评。作者将其与Lockwood的前作《No One Is Talking About This》进行对比,指出新作同样是难以归类的自传体小说,具有诗歌和印象派特质,带有乔伊斯式的实验性写作风格。叙事聚焦于2020年疫情期间的超现实体验。虽然情感冲击力不及前作,但作者欣赏其独特的语言表达方式,对这本书持开放但不确定的态度。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了Patricia Lockwood的前作《No One Is Talking About This》给她带来的强烈情感冲击,并将其与另一本喜爱的书进行比较,指出这些作品难以归类,介于自传与虚构之间。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新作《Will There Ever Be Another You》同样是自传体小说,可能也带有诗歌特质,虽然情感冲击力不及前作,但写作风格印象派,每章尝试不同模式,带有乔伊斯式风格。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;叙事围绕2020年疫情期间展开,这段超现实的时期造就了这本超现实的书,作者表示自己可能喜欢这本书,但不太确定,只是让语言冲刷过自己。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/03/accessible-ux-research-release/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一本教你如何进行包容性UX研究的实用指南&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《Accessible UX Research》是Smashing Magazine推出的关于包容性用户体验研究的实用指南。作者Michele Williams博士凭借20多年的无障碍研究经验，为读者提供了一套完整的方法论，涵盖如何规划、招募、执行和报告包含残障参与者的UX研究。这本324页的书籍不仅是技术指南，更挑战了关于残障的常见假设，强调将无障碍融入产品设计全流程的重要性。书中包含实战策略、辅助技术详解和专家访谈，适合研究人员、设计师、开发者和管理者阅读，帮助他们构建真正反映用户多样性的产品。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Smashing Magazine推出新书《Accessible UX Research》，作者Michele Williams，这本书关注无障碍用户体验研究，教读者如何将辅助技术和不同类型的残障纳入整个设计流程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这本书适合不同背景的读者：初学者可以学习如何进行更包容性的研究；无障碍专业人士可以深入了解辅助技术的细节；开发者和管理者可以理解不同能力如何影响用户体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中提供从规划到执行的实用指南，包括如何招募残障参与者、设计无障碍研究、主持研究会议、分析和报告结果等内容，还包含盲人UX研究员的访谈。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者Michele Williams拥有20多年经验，是人机交互博士，专注于无障碍研究。书中包含324页内容，涵盖残障思维模式、残障多样性、UX研究各阶段的残障考虑等8个章节。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;该书获得多位无障碍领域专家的推荐，强调用户研究对于真正满足用户需求的重要性，呼吁将无障碍作为核心原则而非事后补救。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Human Who Codes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://humanwhocodes.com/blog/2026/03/proxying-fetch-requests-server-side-javascript/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Proxying fetch requests in server-side JavaScript&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 介绍四种JavaScript运行时的fetch代理实现方法&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细介绍了在不同服务器端JavaScript运行时中实现fetch()请求代理的方法。文章首先阐述了代理的应用场景,然后分别讲解了Node.js(通过undici的ProxyAgent)、Deno(使用createHttpClient)、Bun(原生proxy属性)和Cloudflare Workers(通过Docker容器方案)四种运行时的代理实现方式。每种方案都提供了具体的代码示例,其中Bun的实现最为简洁,而Cloudflare Workers需要额外的容器配置。文章强调掌握这些代理模式对于服务器端JavaScript开发中的安全、监控和性能优化至关重要。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了在服务器端JavaScript中代理请求的重要性和应用场景,包括日志记录、修改请求头、内容修改、缓存优化和隐藏IP地址等用途。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Node.js虽然不原生支持代理,但其fetch()实现使用undici包,需要安装undici并通过ProxyAgent类和dispatcher选项来配置代理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Deno的fetch()通过client属性和Deno.createHttpClient()方法来指定代理客户端,支持HTTP和HTTPS代理,使用后需要关闭客户端。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bun提供了原生的fetch()代理支持,通过proxy属性直接配置代理URL,实现方式最为简洁。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cloudflare Workers不原生支持代理,需要通过Node.js Docker容器和@humanwhocodes/proxy-fetch-server包来实现,配置过程包括创建Dockerfile、定义容器类和更新wrangler.jsonc文件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结指出代理fetch()请求是服务器端开发的常见需求,不同运行时提供了不同的实现方式,理解这些模式对于构建可靠的应用程序至关重要。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Design-First Collaboration&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Design-First methodology transforms AI coding by requiring approval through five design levels before implementation, reducing cognitive load and catching issues early.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;AI coding assistants typically bypass design discussions and jump straight to implementation, forcing developers to simultaneously evaluate architecture, scope, and code quality when reviewing generated code—a cognitively exhausting process that differs from human pair programming where design alignment is established upfront through whiteboarding. This approach violates Boehm&amp;#039;s principle that catching design issues early is exponentially cheaper than fixing them post-implementation. The Design-First methodology addresses this by introducing a structured progression through five levels (Capabilities, Components, Interactions, Contracts, Implementation) where each design layer must be approved before any code is written, managing cognitive load by isolating decision categories. This transforms AI assistants from isolated decision-makers into true pair programming partners who build shared understanding incrementally through collaborative design review at each checkpoint.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Implementation Trap:&lt;/strong&gt; AI coding assistants skip the design phase and jump directly to implementation, making technical decisions invisibly. This collapses the natural separation between thinking about design and writing code that exists in human pair programming.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cognitive Overload Problem:&lt;/strong&gt; Reviewing AI-generated code is exhausting because you&amp;#039;re simultaneously evaluating scope, architecture, integration, contracts, and code quality all at once. This differs from reviewing human code where design alignment already exists from prior whiteboarding sessions.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cost of Change:&lt;/strong&gt; Catching design misunderstandings early in conversation is exponentially cheaper than discovering them embedded in generated code. This mirrors Boehm&amp;#039;s principle that fixing issues at the design stage costs a fraction of fixing them in implementation.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Five-Level Design Framework:&lt;/strong&gt; The solution is a structured progression through Capabilities, Components, Interactions, Contracts, and Implementation levels. No code is written until all design levels are approved, reconstructing the natural whiteboarding process.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Progressive Alignment Benefits:&lt;/strong&gt; Each design level serves as a checkpoint where you can agree, disagree, or redirect before code exists. This manages cognitive load by addressing one category of decisions at a time while building shared understanding incrementally.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Real Collaboration Restored:&lt;/strong&gt; Design-First transforms AI from a colleague who makes isolated decisions into a true pair programming partner. Both human and AI examine each design layer together, creating genuine shared understanding before implementation begins.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/03/game-review-unravel-two/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Game Review: Unravel Two ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 平价优质的双人合作解谜游戏推荐&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者推荐《Unravel Two》作为优秀的合作解谜游戏。游戏让两名玩家控制线团生物共同解决物理谜题，机制简单有趣，适合朋友间协作。虽然游戏时长较短且解谜方式有限，但价格实惠（3.51英镑）且具有重玩价值。作者批评游戏背景故事和关卡标题过于深沉做作，与轻松的游戏风格不符，建议玩家忽略背景剧情专注于解谜乐趣。总体评分3.5星，适合寻找休闲合作体验的玩家。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的新年决心是玩更多合作游戏而非竞技游戏，最终选择了价格便宜的《Unravel Two》，这是一款2D平台解谜游戏，玩家控制两个线团生物共同解谜。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏机制简单有趣，适合双人协作，包括摆动、举起物体和互相拉扯等操作，也支持单人模式切换，但游戏相对较短且解谜方式有限。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏背景故事关于受虐或遇险儿童显得多余且影响游戏乐趣，关卡标题过于深沉做作，与轻松的游戏风格不符。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏具有一定重玩价值，包括速通挑战、隐藏收集品和额外关卡，以3.51英镑的价格来说性价比很高，是一款不错的休闲合作游戏。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-03T07:35Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-03T07:35Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用Matter.js重现XKCD漫画的物理模拟&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在教授P5.js在线课程时,突发灵感创作了一个独特的物理模拟演示。该演示使用Matter.js物理引擎,重现了著名的XKCD漫画场景。作者Craig S. Kaplan将这个创意实现并分享了源代码链接,这个物理模拟作品获得了高度评价。这是一个将流行文化与编程教学、物理模拟技术巧妙结合的创意项目。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/?page_id=11144&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【5/31(日)〆切】サイバーコネクトツー夏季インターンシップ2026募集開始！＜大阪orオンライン＞&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 游戏公司实习招募，提供6个专业方向培训&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一份游戏公司实习招募公告，面向志在成为游戏创作者的人士。实习将于2026年8月17日至21日在大阪工作室或线上进行，提供6个专业方向（游戏策划、程序、2D设计、VFX、3D建模、3D动画）。参加者可在现役游戏创作者的直接指导下提升作品质量，体验游戏开发现场氛围。申请需提交履历、作品集等材料，截止日期为2026年5月31日，经过书类选考和面试后确定参加资格。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/na22884d3f70d&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;見てないやつと仕事したくない・・・&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 不了解原作就参与开发是对职业的不尊重&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2执行董事石橋洋平强调，作为版权游戏开发公司的员工，必须了解所负责项目的原作内容。他认为以&amp;#039;世代差异&amp;#039;或&amp;#039;不感兴趣&amp;#039;为由拒绝了解作品是不专业的表现。查阅相关资料是最基本的工作准备，而非额外的学习负担。不了解作品背景、粉丝群体和核心魅力就参与开发，是对项目和用户的不尊重。他强调这是职业责任感问题，专业创作者应该主动深入了解作品世界，这是职业底线。即使是&amp;#039;不是自己世代&amp;#039;的作品，了解后反而能带来新视角，但前提是必须先去了解。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;石橋指出在CyberConnect2公司，员工必须了解所负责项目的原作内容，不看原作、不了解作品就参与开发是不可接受的行为。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;虽然存在世代差异，但既然要参与项目开发，就必须了解作品背景、粉丝群体和作品热度，不了解就开发如同没有地图就探索陌生土地。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;查阅相关资料不是学习而是最基本的准备工作，以&amp;#039;作品太老&amp;#039;或&amp;#039;不感兴趣&amp;#039;为由拒绝了解是懒惰的表现，这是职业责任感问题而非个人喜好问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;不理解作品为何流传至今、核心魅力何在、应该继承什么要点就输出成果，是对用户、粉丝和项目的不尊重。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作为专业人士，不能以&amp;#039;不是我的世代&amp;#039;为由拒绝了解，应该先深入了解作品世界，这是作为专业创作者应该坚守的底线。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202603/67470&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;公式コミカライズ『戦場のフーガ 鋼鉄のメロディ』第82.5話 公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《战场的Fuga》漫画更新及松山洋新书宣传&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于日本游戏媒体Famitsu网站上连载漫画《战场的Fuga 钢铁旋律》第82.5话的文章。文章主要介绍了本话内容涉及角色Tīre对Ash倾心的过去故事,并预告下一话将于2026年3月24日发布。同时文章还宣传了CyberConnect2社长松山洋的新书《游戏业界的攻略法》,该书面向游戏行业求职者和从业者,包含就职面试实况和合格者作品集等实用内容。文章末尾附有游戏销售排行榜和相关文章链接。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106782&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 131 | 派友们的一月好物大赏、给桌面风扇装上「机械臂」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派社区一月好物分享与生活记录合集&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是少数派社区第131期速递，汇总了派友们一月份购买的各类好物分享。内容涵盖数码产品（如iPhone、鼠标、键盘、平板等）、生活用品（西装、自行车、洗衣机等）、以及旅行体验（新西兰跳伞、游轮旅行等）。文章还包含社区热门评论、文章摘要和作者投稿的新玩意改造案例，如将桌面风扇改造成升降办公配件、科沃斯擦窗机器人使用体验等。整体呈现了社区成员丰富多样的消费选择和生活方式。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106372&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;失忆是怎么一回事：谈谈经典影视里失忆套路的真实一面&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 系统解析影视剧失忆桥段背后的脑科学真相&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以影视剧中的失忆桥段为切入点,系统介绍了三大类失忆类型的科学原理:解离性遗忘(心因性疾病)、创伤后遗忘(海马体损伤)和阿尔茨海默症(蛋白病变)。作者通过对比影视作品的艺术加工与医学真实案例,揭示了失忆的发病机制、症状表现和病程发展,特别详细介绍了海马体在记忆形成中的关键作用,以及H.M.等经典病例对神经科学的贡献。文章兼具科普性和趣味性,推荐了大量相关影视作品并评价其科学性,帮助读者理解记忆的脑科学原理,同时呼吁关注阿尔茨海默症患者及其家庭面临的现实困境。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (17 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇介绍失忆是影视剧中的常见桥段,尤其在韩剧中与车祸、绝症并称三件套,并引出现实中失忆的真实情况和科学原理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;车祸失忆类型在影视作品中最常见,主角遭受头部物理伤害后醒来发出&amp;#039;我是谁&amp;#039;的灵魂拷问,但现实中全盘性失忆极为罕见。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;解离性遗忘症是心因性疾病而非器质性损伤,由极度心理创伤引发,是大脑的防御机制,现实中多表现为局部性遗忘而非全盘遗忘。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;解离的概念及其相关症状,包括解离性身份障碍(多重人格)和解离性漫游,后者是患者突然离开熟悉环境进行无目的漫游。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;创伤后遗忘是脑震荡后出现的记忆真空,由海马体暂停工作导致,记忆无法从短时记忆转存为长时记忆,这段记忆缺失通常是永久的。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;海马体是记忆加工和转存的关键部位,对缺氧和震荡极度敏感,脑震荡时会宕机导致逆行性遗忘和顺行性遗忘。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;推荐了多部失忆题材影视作品,包括《禁闭岛》《谍影重重》《快递高手》《名侦探柯南》《冬日恋歌》等,并评价其科学性和观赏性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;记忆重启类型的失忆在《记忆碎片》等作品中出现,主人公只能记住短时间内的事情,需要各种方式保存记忆和线索。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;经典案例H.M.(亨利·莫莱森)因切除海马体导致永久性记忆损伤,无法形成新的长时记忆,时间永远定格在27岁,但程序记忆(肌肉记忆)仍正常。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;克莱夫·韦尔林的记忆只能保持7-30秒,每分每秒都在体验刚刚醒来的噩梦,日记记录显示其绝望的精神状态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;影视剧中&amp;#039;白天清醒睡觉记忆清零&amp;#039;的设定科学上难以成立,但现实中存在类似的罕见个案,可能与记忆巩固失败有关。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;推荐了《记忆碎片》《初恋50次》《unmet某脑外科医的日记》等记忆重启题材影视作品,并评价其科学性和艺术性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阿尔茨海默症是最常见的失忆类型,通常是老年病,65岁以上发病率高,病程漫长,对患者和家属都是巨大煎熬。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阿尔茨海默症的疾病机制是大脑内β-淀粉样蛋白斑块和tau蛋白缠结造成不可逆的物理性病变,破坏路径和顺序明确。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阿尔茨海默症分三个阶段:第一阶段海马体异常导致短时记忆受损,第二阶段病变扩展至大脑皮层造成长时记忆与认知异常,第三阶段全面失能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;推荐了《依然爱丽丝》《困在时间里的父亲》《皱纹》《我脑海中的橡皮擦》等阿尔茨海默症题材作品,强调其艺术性和真实性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结尾总结了各种失忆的诱因,包括药物副作用、维生素缺乏、激素失衡、神经系统疾病、精神疾病等,并预告下一篇将讨论程序性记忆和练习。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106570&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;破译还是致盲？我是如何用 AI 啃下全英文编程课程的&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用AI辅助学习编程课程，但要避免依赖产生学习幻觉&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文分享了一位非计算机专业信息科技老师学习全英文SwiftUI编程课程的经验。作者详细介绍了使用Obsidian、Claude Code、Trancy、Gemini等AI工具辅助学习的具体方法，涵盖任务管理、英语理解、笔记记录等环节。同时作者深入反思了AI辅助学习的利弊：过度依赖翻译和AI会产生学习幻觉，真正的学习应该是在掌握基础知识过程中形成独立判断能力。作者认为AI时代的学习本质是通过学习可被AI替代的知识，培养不可被AI替代的判断力，最终目标是能够评判AI输出的质量并做出自主决策。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者作为非计算机专业的信息科技老师，分享了学习Paul Hudson的100 Days of SwiftUI全英文课程的经历，介绍了从Python/C++学习到SwiftUI学习方式的转变，特别是AI在学习过程中扮演的重要角色。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细列举了学习中使用的工具组合：用Obsidian和Claude Code进行计划管理，用个人词库、Trancy、Raycast和PopClip处理英语学习，用Bob进行英语笔记润色，用Gemini和Claude Code辅助知识理解。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者反思了翻译在学习中的必要性，认为过度依赖翻译会增加认知负担，编程语言本身就是英语的体现，直接用英语思考更有利于成为开发者。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者探讨了AI辅助学习的边界问题，指出AI虽能快速提供解答和生成笔记，但容易产生掌握知识的错觉，强调应该自己理解、实践和记录，而非完全依赖AI。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者最终阐述了AI时代学习的本质：虽然AI在语法知识上更强，但学习的意义在于通过掌握可被AI替代的基础知识，形成不可被AI替代的个人判断力，获得评判AI输出好坏的能力。作者学习SwiftUI的目标是开发符合教师需求的课表工具。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106766&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Apple 发布 iPhone 17e 与搭载 M4 芯片的 iPad Air 等新品&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 MWC 2026科技新品大汇总&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了MWC 2026展会及近期科技新品发布动态。Apple推出iPhone 17e和M4版iPad Air，摩托罗拉发布横向折叠屏Razr Fold并与GrapheneOS合作，联想展示多款概念产品包括3D笔记本和折叠掌机，荣耀公布Robot Phone概念机和人形机器人。高通发布新一代可穿戴平台，掌阅推出支持通讯的墨水屏阅读器，阿里统一AI品牌为千问并发布AI眼镜，安克推出UV打印机，小米与徕卡联合发布定制机型。文章涵盖手机、平板、笔记本、可穿戴设备、AI硬件等多个领域的最新产品和技术趋势。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple发布iPhone 17e和搭载M4芯片的iPad Air，iPhone 17e采用6.1英寸屏幕、A19芯片和C1X调制解调器，256GB起售价4499元；新款iPad Air搭载M4芯片、12GB内存，128GB起售价4799元，均于3月11日发售。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;摩托罗拉与GrapheneOS达成合作加强手机安全，并发布首款横向折叠屏手机Razr Fold，搭载骁龙8 Gen 5处理器、6.6英寸外屏和8.1英寸内屏，支持80W快充和Moto Pen Ultra触控笔。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;联想在MWC 2026发布多款新品，包括Yoga Book Pro 3D概念笔记本（支持无眼镜3D显示）、Legion Go Fold概念掌机（7.7-11.6英寸可折叠屏）、Yoga 9i 2-in-1笔记本、Yoga Pro 7a、IdeaPad Pro Gen 2平板和Legion Tab平板等产品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;荣耀在MWC 2026公布Magic V6赤兔红配色、与阿莱达成战略合作，并展示Robot Phone概念手机（摄像头配备四关节可动云台）和首款人形机器人荣耀ROBOT。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;高通发布Snapdragon Wear Elite可穿戴平台，支持运行20亿参数模型，CPU性能提升最高5倍、GPU性能提升最高7倍，集成5G RedCap、Wi-Fi、蓝牙6.0等六项连接技术。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;掌阅发布iReader Tango 2 Pro墨水屏阅读器，采用Carta 1300墨水屏、动态刷新率最高50帧/秒，支持SIM卡通讯和微信语音，配备8+128GB存储，首发价1999元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阿里巴巴将AI品牌统一为千问，通义实验室发布Fun-CosyVoice3.5和Fun-AudioGen-VD两款语音生成模型，千问AI眼镜G1开启预约，定价2899元起（国补后1997元）。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;安克eufyMake E1立体纹理UV打印机国内上架，可在多种材质上印刷立体纹理，印刷高度达5mm，内置AI创作功能和自清洁系统。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;徕卡与小米发布Leica Leitzphone（国内为小米17 Ultra徕卡版），定价7999元起；小米发布Xiaomi Tag定位追踪器，BLE版69元、UWB版129元。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
