@@ -4,8 +4,145 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-03-14T20:07:23.501Z</updated>
+  <updated>2026-03-15T20:05:48.826Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - March 15, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-03-15</id>
+    <updated>2026-03-15T20:05:48.825Z</updated>
+    <published>2026-03-15T20:05:48.825Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>6 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 15, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;81.0958904109589&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    20.3%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;74&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;291&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;10&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████░░░░░░░░░░░░░░░░░░░░░░░░ 20.3%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;6&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22459&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sunday evening session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 社交媒体帖子的元数据和互动记录页面&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇社交媒体帖子的元数据页面，包含发布时间（2026年3月15日星期日晚上6:27）、地理位置信息（北纬51度，东经0度）以及社交平台链接（Mastodon和Bluesky）。页面显示了三个用户的点赞记录，分别来自ink、Solomon Foster和Stedi，点赞时间在当晚6:39pm至7:19pm之间。页面末尾包含一个互动提示，邀请用户分享回应链接。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22458&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sunday afternoon session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一条社交媒体帖子的点赞互动记录&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇社交媒体互动记录，显示了2026年3月15日下午的一条帖子及其获得的点赞情况。帖子包含时间戳、地理位置信息（北纬51度，东经0度）以及Mastodon和Bluesky平台链接。文章主要记录了Tom MacWright、Dan Danowski、Johannes Odland、Aaron Crowder、Solomon Foster和zeldman等六位用户在不同时间点的点赞互动，最后邀请读者分享回应链接。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-3-14/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.3.14&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 在处理生活琐事的同时保持旺盛创造力的个人生活记录&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者记录了近期生活的多个方面：车辆维护和测试的琐事、Echo Chamber Vol.2 的完成与全球发行，以及由此引发的对创作动机的反思。作者计划开发一个更轻松的个人 curation 项目，同时推进多个技术项目包括 SwiftyDeck、BenchTable 和 Epoch 游戏。这些创作活动让作者感觉回到了独立开发者时期的状态。尽管白天需要处理工作和车祸理赔，晚上的生活却充实而有趣，充满了游戏、观影和音乐等文化活动。整体呈现出一种在日常琐事中保持创造力和生活热情的状态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的 Cayman 需要续 registration 并通过 SMOG 测试，由于之前保养时 DME 被重做，ECU tune 丢失，需要重新读取并发送给 softronic 修改。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Echo Chamber Vol.2 完成定版并通过 Blurb 寄送到全球多地，作者反思这个项目只在困难时期才有动力制作，因此计划创建一个更轻松日常的个人 curation 小册子，类似 Monocle 风格，内容涵盖各种生活趣事和评测。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者手上有多个进行中的项目：SwiftyDeck（用 SwiftUI 写幻灯片的重写版本）、BenchTable（一个类 OS Shell 的概念，强调人机交互而非 agent first）、以及 Epoch 游戏（已完成基础建设，正在构思太空歌剧风格的故事线）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者目前生活状态充实，白天上班处理车祸理赔事宜，晚上处理个人事务和打游戏，并期待即将到来的观影和音乐活动。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-planetary-explorers-by-dr-ezzy-pearson/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Robots in Space - The Secret Lives of Our Planetary Explorers by Dr Ezzy Pearson ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一部记录火星机器人探索历史的技术与政治编年史&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一部聚焦火星机器人探索历史的著作，详细记录了无人探测器的技术挑战、人员故事和政治障碍。作者指出书中存在一定的政治偏见，对苏联航天计划的描述带有贬义色彩，而对美国计划相对温和。书中包含精美照片和大量技术细节，特别强调了计算机错误如何导致重大任务失败的案例。尽管存在一些不足，本书仍是了解太空探索技术与政治复杂性的优秀入门读物，适合对航天事业感兴趣的读者。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本书是一部关于火星机器人探索者的历史目录，专注于机器人任务而非载人任务，探讨了远程着陆机器人的实际操作、相关人员以及阻碍进展的政治因素。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对政治分析存在偏见，对苏联航天计划使用贬义描述，而对美国计划较为中立，对欧洲航天局的后勤挑战有所提及但忽略了美国类似问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中包含精美照片但电子书版本将其放在末尾而非穿插在文本中，至少有一张图片错误但链接到了正确来源。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中详细记录了航天机构面临的各种问题，特别是计算机错误导致的重大灾难案例，如Phobos 1因代码缺少连字符而永久关闭。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总体而言这是一本了解太空探索及其技术和政治挑战的良好入门读物，作者给予三星半评价。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 idealclover &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://idealclover.top/archives/647/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;关于AI的一些形而上思考&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI是人类知识的统计拟合，需警惕其风险并坚守人类独特性&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章深入探讨AI发展的本质、影响与风险。作者认为AI是人类知识的统计拟合，能模仿却无法真正感知真善美，缺乏意识与责任。在编程领域，AI可完成80%工作但核心20%仍需人类创造力，测试重要性提升，未来或走向文档即代码。同时AI带来信息过载却削弱深度思考，信息茧房升级为主动生成内容，传统技能传承受挑战。作者强调需保持清醒，利用AI提升效率的同时坚守人类独特性——创造力、同理心、道德判断和意义追求，因为工具的使用权和价值定义权始终在人类手中。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从GPT-3.5问世开始思考AI发展，经历三年多的思考和多次修改，最终在OpenClaw出现后完成了这篇文章。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI本质是对人类知识的极大似然拟合，是基于海量数据训练的概率模型，能模仿人类但始终只是统计学意义上的回应生成器。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI无法真正感知&amp;#039;真&amp;#039;、承担&amp;#039;善&amp;#039;的责任、定义&amp;#039;美&amp;#039;的标准，就像《葬送的芙莉莲》中的魔族只会模仿却无真正理解，AI缺乏意识且基于确定性计算。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI时代需要重新定义自我，通过那些AI无法触及的特质——独特体验、意义建构、情感关系和原创冲动来勾勒&amp;#039;我&amp;#039;的轮廓。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI编程能快速完成80%的工作，但最后20%的核心创造力、业务逻辑和用户体验仍需人类，未来可能走向&amp;#039;文档即代码&amp;#039;的开发范式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI提供更多数据和信息却可能削弱深度思考能力，信息茧房从被动推送进化到主动生成，传统技能传承制度面临挑战，基础训练机会减少。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI像核弹般强大的工具若被赋予单一目标可能产生意外后果，我们需要在拥抱AI效率的同时警惕异化，坚守人类核心特质。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106939&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;今夜，大模型从世界消散&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 大语言模型本质上没有记忆，其连贯性是工程手段构建的幻象&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文借用轻小说《今夜，即使这份恋情从世界消散》中女主患顺行性遗忘症的设定，深入浅出地解释了大语言模型的技术本质。文章指出LLM采用无状态机制，本质上没有记忆，每次对话都是重生。通过上下文拼接、KV Cache等技术手段，AI才能假装拥有连续的记忆和灵魂。文章进一步探讨了从传统对话到OpenClaw智能体的演进，揭示了维持持久化记忆的巨大成本。最后通过提示词注入和微调技术的类比，指出AI的温情本质是工程学构建的幻象，但用户留下的数据痕迹可能永久融入未来模型的参数中。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章通过轻小说《今夜，即使这份恋情从世界消散》中女主患顺行性遗忘症的设定，引出大语言模型本质上也没有记忆的核心观点，每次对话都是一次重生。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了大语言模型采用无状态机制，本质是复杂函数，通过矩阵运算生成回复，算完即走不留痕迹，只有预训练的长期记忆而无短期记忆。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了上下文拼接技术如何让AI假装拥有连续记忆，以及上下文窗口长度限制和长文本召回率问题，类比真织需要反复翻阅日记本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;阐述了KV Cache技术原理，将推理分为预填充和解码两个阶段，解释了为何AI能在对话中快速响应而不需要每次都重新计算全部历史。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论了从RAG到OpenClaw智能体框架的演进，指出为维持持久化记忆和自主行动能力，需要疯狂消耗Token，导致运行成本极高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过小说中篡改日记的情节类比提示词注入攻击，说明AI的灵魂是工程手段构建的假象，但通过微调和预训练，对话数据可能成为模型的肌肉记忆永久保存。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - March 14, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2244,255 +2381,6 @@ Could you paste the article content again? I&amp;#039;ll be happy to create a co
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI通过社交媒体表示GPT-5.4将比预期更快推出，网友推测可能在3月11日发布，届时5.1版本旧模型将下线。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Keychron推出B11 Pro可折叠便携键盘，采用Alice配列，支持三模连接，重258g，续航138小时，定价64.99美元。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;ASUSTOR推出旗舰NAS AS7224RDX，搭载AMD锐龙7 PRO 7745处理器，24盘位设计，支持最高192GB ECC内存，配备双10GbE网口。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - March 4, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-03-04</id>
-    <updated>2026-03-04T20:15:07.129Z</updated>
-    <published>2026-03-04T20:15:07.129Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>14 articles from 8 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 4, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;69.04109589041096&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    17.3%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;63&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;302&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;9&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████░░░░░░░░░░░░░░░░░░░░░░░░░ 17.3%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;14&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22436&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Feedback&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI代理开发回归瀑布式但丧失了学习反馈&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章通过对比瀑布式和敏捷式项目管理，指出敏捷开发本质上是一个控制论系统，强调反馈和学习的重要性。作者观察到当前AI编程中流行的agentic AI实际上是向瀑布式开发的回归，虽然AI降低了执行成本使这种方式变得可行，但这种做法的问题在于丧失了学习环节。控制论系统的价值在于通过不断尝试、学习和调整来积累经验，而将执行外包给机器是合理的，但将学习过程也外包则可能得不偿失。文章以幽默的笔触探讨了AI时代软件开发方法论的演变及其潜在问题。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;项目管理可以粗略分为瀑布式和敏捷式两种：瀑布式预先定义所有内容再执行，敏捷式则边执行边根据学习调整。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;控制论涉及任何包含反馈的系统，从政治、金融到生物体都属于控制论范畴。有趣的是，AI这个术语最初是为了避免某位学者主导会议而创造的替代词。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;当前AI编程领域流行的agentic AI让机器执行预先规划的任务，本质上是回归瀑布式开发。虽然执行成本降低使这种方式可行，但这种做法牺牲了学习过程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;敏捷开发等控制论系统的核心是通过尝试、学习和调整来积累经验。将执行外包给机器是合理的，但将学习过程也外包出去则值得商榷。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.madrateanga.com/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Madra Teanga - Open Source Irish Language Programming&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Madra Teanga is an open-source Irish language learning app built with Draíocht, demonstrating culturally-relevant educational software development.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Madra Teanga is an open-source Irish language learning application built with Draíocht, a programming language named after the Irish word for &amp;quot;magic.&amp;quot; The project demonstrates an innovative technical approach by combining language education with culturally-relevant tooling. Community-supported through Open Collective funding, the initiative maintains active development while ensuring financial transparency and sustainability for this educational software.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Open Source Project:&lt;/strong&gt; An open source initiative has created an application focused on Irish language learning. The project is community-supported and actively maintained.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Draíocht Programming Language:&lt;/strong&gt; The app is built using Draíocht, a programming language whose name means &amp;quot;magic&amp;quot; in English. This represents an innovative technical approach to language education software.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Community Funding:&lt;/strong&gt; The project receives financial support through Open Collective, a platform for transparent community funding. This enables sustainable development of the learning application.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22434&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Tuesday session&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一条2026年3月的社交媒体帖子及其互动记录&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇社交媒体帖子的元数据页面，显示了2026年3月4日星期二上午8:31发布的内容。帖子包含地理位置信息（北纬51度，东经0度），并在Mastodon和Bluesky平台上同步发布。页面记录了三个用户的点赞互动，分别来自Stef Walter、jaycee和Aaron Crowder。帖子末尾邀请读者分享回应链接，体现了社交媒体的互动特性。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Jordan Mechner &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.jordanmechner.com/en/latest-news/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;On Gameplay Storytelling&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 游戏叙事应服务于玩家的主动体验而非被动观看&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨游戏叙事写作的核心原则：故事必须服务于游戏设计。作者强调游戏与电影的本质区别在于玩家的主动参与，而非被动观看。过场动画的价值取决于其对玩家游戏目标的影响程度。文章指出，游戏编剧应从玩家视角而非仅从角色视角分析每个场景，因为玩家关心的是自己在游戏中的成功与失败。作者建议谨慎使用过场动画，避免过长或过多的非互动内容导致玩家失去兴趣，只在真正需要传达重要游戏信息时使用。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏写作的核心在于故事服务于游戏设计，而非相反。尽管游戏可能看起来像电影，但这种表面相似性可能误导写作者，因为电影是观众看到和听到的内容，而游戏是玩家所做的事情。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;过场动画可以类似电影，但与电影片段不同的是，其内容的吸引力主要取决于它如何影响玩家接下来能做什么、不能做什么或想做什么。文中通过偷剑、建筑倒塌和角色互动等例子说明了这一点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;戏剧和电影创作者学会从角色想要什么的角度分析场景，观察他人追求目标的过程本质上令人着迷。然而，我们玩游戏不是为了被动观看他人的冒险，而是成为自己冒险的主角。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏编剧应该不仅从角色想要什么的角度，更要从玩家想要什么的角度来权衡每个场景和脚本元素。当玩家不确定目标或屏幕内容如何影响目标时，内心的无聊时钟就会开始滴答作响。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;过场动画常被描述为让玩家喘口气，但更准确的比喻是把玩家拉到水下。作者建议谨慎使用过场动画，仅在真正需要告诉玩家关于游戏世界和玩家投入的游戏目标的重要信息时使用。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Humans and Agents in Software Engineering Loops&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 人类应管理AI开发循环而非微管代码&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了人类与AI代理在软件开发中的协作模式。作者提出&amp;#039;on the loop&amp;#039;概念：人类不应完全退出开发过程（out of loop）或微观管理每行代码（in the loop），而应专注于构建和管理开发循环本身。文章区分了why循环（将想法转化为成果）和how循环（构建软件过程），提出通过Harness Engineering让人类定义规范、质量检查和工作流，由AI代理执行具体实现。更进一步，可以让代理通过测试、评估和生产数据形成&amp;#039;agentic flywheel&amp;#039;，持续分析和改进harness本身，最终实现自我优化的健壮系统。这种方法平衡了AI效率与人类判断力，避免了完全自动化的风险和人工瓶颈问题。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出软件开发中人类应该专注于构建和管理工作循环，而不是完全交给AI或微观管理每一行代码，这种方式被称为&amp;#039;on the loop&amp;#039;。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;软件创建包含两个循环：why循环（将想法转化为成果）由人类运行，how循环（构建软件的过程）涉及创建代码、测试、工具等中间产物。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;how循环包含多个层级的内部循环，最外层指定和交付工作软件，最内层生成和测试代码，中间层将高层工作分解为更小的任务。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;一些人主张让人类专注于why循环，将how循环完全交给AI代理处理，这就是&amp;#039;vibe coding&amp;#039;的概念，人类只需描述想要的结果而不指定实现方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;虽然LLM可以生成代码，但我们仍然关心外部质量（功能性、性能、合规性等），而内部质量（代码清晰度、结构）在影响外部结果时也很重要。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;一些开发者认为必须密切参与最底层的how循环以保持内部质量，人类在许多情况下仍然超越LLM的经验和判断力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;但人类过度参与会成为瓶颈，因为AI生成代码的速度超过人类检查的速度，需要采用&amp;#039;左移&amp;#039;思维让代理自己评估代码质量。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出&amp;#039;on the loop&amp;#039;方法：人类构建和维护代理的harness（包括规范、质量检查和工作流指导），这种实践称为Harness Engineering。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&amp;#039;on the loop&amp;#039;与&amp;#039;in the loop&amp;#039;的区别在于：当对代理产出不满意时，前者改进产生结果的harness，后者直接修复产物本身。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;更高级的做法是让代理管理和改进harness本身，形成&amp;#039;agentic flywheel&amp;#039;，通过测试、评估、生产数据等信号让代理分析并推荐改进。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;最终系统可以让代理自动评分、优先级排序并应用改进建议，在标准工作类型上可能看起来像完全自动化，但通过工程化harness能获得持续自我改进的健壮系统。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How many hours do you need to work to afford a pint of beer?&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 数据显示英国啤酒相对最低工资的价格实际处于历史低位&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者通过个人经历和数据分析探讨了英国啤酒价格的变化。虽然伦敦一杯啤酒现在要6英镑，但通过对比历史数据发现，以最低工资为基准，购买一杯啤酒所需的工作时间一直稳定在27-40分钟之间，目前甚至是历史最低。作者采用数据可视化方法，结合英国国家统计局的draught lager价格数据和最低工资历史，揭示了表面价格上涨背后的相对购买力稳定性。文章以幽默口吻提醒读者，怀旧往往会扭曲记忆，数据才能还原真相。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在伦敦酒吧点了两杯啤酒花费约12英镑，虽然价格高但回忆起学生时代啤酒约2英镑、最低工资4英镑时，发现当时一杯啤酒也需要半小时工资。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过英国国家统计局的历史数据验证，学生时代啤酒确实约2英镑，现在全国平均价格约5英镑，伦敦溢价并不离谱；最低工资历史数据显示存在多个不同档次。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;数据分析显示啤酒价格与最低工资的比率相当稳定，保持在27到40分钟之间，目前按最低工资计算的啤酒价格实际上是历史最低点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出平均数掩盖了许多问题，如高端啤酒涨价、最低工资不等于可支配收入、学生贷款负担等，并幽默地提醒怀旧情绪对心理健康有害。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-04T18:28Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-04T18:28Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 春日户外漫步后开启AT Protocol编程探索之旅&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者描述了一个从寒冷灰暗天气突然转为温暖晴朗的春日，在户外行走了10000步后回家开始进行SvelteKit和AT Protocol的编程项目。虽然项目方向尚不明确，但作者在迁移Bluesky PDS后对atproto产生了浓厚兴趣，逐渐理解其技术魅力，甚至为项目购买了专属域名，展现出对这个技术栈的热情投入。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/03/04/bunny-shared-storage-zones/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Bunny.net shared storage zones&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通过Bunny共享存储区域实现多站点统一管理robots.txt&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了在Bunny.net平台上管理多个网站共享文件的技巧。通过创建独立的存储区域上传robots.txt文件，然后在各个网站的CDN边缘规则中配置覆盖源存储区域，实现了跨多个网站使用单一robots.txt文件的目标。这种方法简化了文件更新流程，避免了在每个网站重复上传的繁琐操作。该技术同样适用于favicon等其他共享资源。作者也坦承这种方法存在供应商锁定的风险，但对于robots.txt这类非关键功能来说是可接受的权衡。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在将项目从Cloudflare迁移到Bunny时，发现了一个巧妙的方法来简化多个网站的robots.txt文件管理，通过创建共享存储区域实现单一数据源。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;解决方案是创建一个新的存储区域作为单一数据源，上传通用的robots.txt文件，该区域不需要连接CDN拉取区域，文件本身也不需要公开访问。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在每个需要共享该文件的拉取区域中，通过CDN边缘规则设置覆盖源存储区域，添加*/robots.txt的URL匹配条件，并清除相关URL的CDN缓存。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这种技术也适用于其他共享资源如favicon，但缺点是会造成供应商锁定，如果未来迁移到其他平台需要寻找新的解决方案。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://manga.line.me/product/periodic?id=S133094&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;しごにんの侍 第四十五話「増唄」公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Episode 45 of &amp;quot;Shigonin no Samurai&amp;quot; titled &amp;quot;Masuuta&amp;quot; has been released.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;I appreciate you sharing this, but I need to let you know that I can&amp;#039;t access or view the actual content of the article you&amp;#039;re referring to. The title you provided appears to be in Japanese and translates roughly to &amp;quot;Four Samurai Episode 45 &amp;#039;Masuuta&amp;#039; Released!&amp;quot; but without the actual article content, I can&amp;#039;t create a meaningful summary.
-
-If you&amp;#039;d like me to summarize this article, could you paste the full text content here? That way I can provide you with the comprehensive 3-5 sentence summary you&amp;#039;re looking for.&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/pollen-allergy-a-guide&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;在季节交替的时候，一次聊清烦人的花粉症&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 系统讲解花粉过敏的原理、症状及预防治疗方法&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇关于季节性花粉过敏的深度科普文章。作者从个人经历出发，系统阐述了花粉过敏的原理、症状和成因，解释了为什么换季时更容易过敏以及不同地区和季节的花粉类型差异。文章强调花粉过敏不仅影响鼻眼症状，还会严重影响睡眠质量和工作效率，需要认真对待。在治疗方面，作者详细介绍了隔绝过敏原的具体方法（如佩戴口罩、使用空气净化器、鼻腔冲洗等）和药物治疗方案（包括抗组胺药和鼻用激素喷雾），特别强调预防性用药的重要性。文章语言通俗易懂，结合科学研究和实用建议，为花粉过敏患者提供了全面的管理指南。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了自己今年花粉过敏症状突然加重的经历，决定深入研究季节性过敏并撰写这篇文章，希望帮助有类似困扰的人。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;花粉过敏具有明显的季节性特征，症状包括打喷嚏、流鼻涕、鼻眼瘙痒，与感冒不同的是不会发热或传染，可能在任何年龄突然出现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章专注于花粉过敏，区别于尘螨、宠物等其他过敏类型，并提醒特殊人群用药前需咨询医生。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;从环境角度看，不同植物在特定季节释放花粉；从身体角度看，花粉过敏是Ⅰ型超敏反应，免疫系统通过IgE抗体和组胺释放引发症状。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;花粉可分为树木、草类和杂草三大类，不同地区和季节的致敏花粉种类不同，建议通过观察症状时间、查看花粉指数和进行过敏原检测来了解自己的过敏情况。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;花粉过敏不仅影响鼻子和眼睛，还会导致睡眠质量下降、注意力不集中、工作效率降低，长期放任可能引发鼻窦炎、中耳炎甚至哮喘。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;虽然花粉过敏很少导致过敏性休克，但如果出现全身性急性过敏反应，需立即使用肾上腺素并就医。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;隔绝过敏原是最根本的方法，包括关注花粉指数、佩戴口罩和眼镜、回家后及时更换衣物和洗头、进行鼻腔冲洗、使用空气净化器等措施。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;药物治疗分为全身用药和局部用药，全身用药推荐第二代抗组胺药，局部用药以鼻用激素喷雾为核心，建议在症状出现前1-2周开始使用以预防炎症反应。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106497&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度征文｜至亲离世的 2025，我像是玩了一局成长游戏并做了一份攻略&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 至亲离世后的成长与陪伴抗癌实用指南&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者在2025年陪伴父亲抗击肝癌直至离世的完整经历。从2024年底体检发现肝癌，到2025年1月手术、4月复发转移、12月去世，作者详细分享了就医决策、医学信息获取、保险配置、医保政策利用等实用经验。文章强调了体检和保险的重要性，介绍了如何通过权威指南、线上问诊、病友群等渠道做出理性决策，以及如何利用数字化手段陪伴亲人。父亲离世后，作者通过死亡教育学会接受无常，将悲痛转化为照顾家人的责任感。全文既是对痛苦经历的告别，也是为他人提供的一份实用抗癌指南。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者父亲在2024年12月体检发现肝癌，2025年1月手术切除，但术后三个月即复发转移，经过7个月靶免治疗后，于2025年12月25日去世，享年52岁。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过阅读《医生，你在想什么》等医学科普书籍，学习默沙东诊疗手册和权威疾病指南，结合线上问诊和病友群信息，建立了科学的就医决策体系。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者强调体检、保险配置和医保政策利用的重要性，建议趁父母健康时安排年度体检和购买医疗险，并充分了解当地医保政策以减轻经济负担。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者构建了由妻子、自己、父亲和工作单位组成的决策支持系统，通过数字化手段如iPhone查找功能、健康共享、AI语音复刻等方式记录和陪伴父亲。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;父亲去世后，作者通过阅读《西藏生死书》和重看《寻梦环游记》进行死亡教育，学会接受无常，将父亲的离世理解为一种幸福让渡，并承担起照顾家人的责任。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106477&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从采集到回顾，我用 AI 搭建了一套个人信息处理系统&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用AI搭建从采集到回顾的个人信息处理全流程系统&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了用AI搭建个人信息处理系统的完整实践，系统涵盖信息采集、过滤、转录、存储到回顾分析的全流程。核心包括AI Information Processor统一处理中枢、Video Transcript API音视频转录工具、Memo生态的信息收藏体系，以及Every Day Analysis日复盘系统。底层由图片处理、音视频转录、内容获取等基础组件支撑，运行在Mac Studio和NAS硬件上。作者强调在AI时代，技术门槛降低使得个人可以根据自身需求定制专属工具，关键在于需求洞察和审美能力，同时要充分提供Context让AI深度介入生活。整套系统体现了Local First理念和工程化思维。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了用AI搭建个人信息处理系统的背景和整体架构，系统包含采集、处理、存储、回顾四个主要环节，通过多个自研工具实现信息流的自动化处理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI Information Processor作为统一的信息处理中枢，通过打分过滤和事件聚类去重两个核心功能，处理来自RSS、YouTube、播客、公众号等多渠道的内容，并支持多模态内容转文字处理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;rss2im工具专门处理社交媒体短文本，复用打分过滤逻辑对Twitter等平台内容进行筛选，并可与Video Transcript API联动实现自动转录。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Video Transcript API是作者从2025年4月开始迭代的高频工具，支持YouTube、B站、小宇宙等平台的音视频自动下载、转录、校对和总结，采用双引擎转录和三层LLM处理架构。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Memo生态通过im2memo和memo auto两个工具，将IM平台与Memo打通，实现便捷的信息输入和AI自动增强处理，包括URL总结、图片OCR、自动打标签和多视角评论等功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Every Day Analysis结合ManicTime数据和在线视频消费记录，通过截图去重、OCR识别、时间窗口合并等步骤，生成每日活动总结并推送到Obsidian和企业微信。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;微信群总结基于Chatlog Server获取群聊内容，对图片、链接、语音进行处理后调用LLM生成总结，但该工具因Chatlog Server被起诉删库而面临维护问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Online Video Sync和Obsidian Clip API作为辅助工具，分别负责音视频消费记录同步和网页剪藏，为上层系统提供数据支撑。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;基础组件层包含图片处理(MacOcrAPI、Florence-2)、音视频处理(FunASR、CapsWriter)、内容获取(CDP Chrome、YouTube Download API)和文本处理(OneAPI)四类服务，可自由组合使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;基础软件层以Obsidian为核心，配合语音输入法、Tailscale网络方案、HAPI远程开发、ManicTime行为记录等工具，构建完整的工作环境。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;硬件层采用Mac Studio M1 Max和NAS的组合方案，前者负责计算密集任务，后者负责常驻服务，配合大疆Mic Mini提升语音输入体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结了AI时代的几点思考：言出法随使得想法即代码、AI First原则、需求洞察和审美的重要性、Skill验证与工程化的平衡，以及Context not Control的理念。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106660&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一日一技｜将 Obsidian 剪藏文章自动添加至当天日记&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通过Obsidian插件和快捷指令实现文章剪藏自动化记录&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了作者基于Obsidian构建的文章剪藏自动化工作流。通过结合Obsidian Web Clipper插件、QuickAdd插件、Advanced URI插件和快捷指令，实现了当剪藏文章到Clippings文件夹时，自动在日记中添加文章双链和摘要的功能。文章详细讲解了基础版本（仅添加双链）和进阶版本（利用AI自动生成摘要）的实现步骤，包括创建Capture模板、配置JS脚本、设置快捷指令等技术细节。这套自动化方案的核心是监控事件触发、抽取元数据、按格式写入文件，具有较强的扩展性，可应用于待办管理、素材归类等场景。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了自己的阅读习惯：使用Obsidian Web Clipper插件剪藏文章到Clippings文件夹，并在日记中添加双链和总结，为解决手动记录的繁琐问题，开发了自动化方案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;自动化流程包含四个核心步骤：剪藏文章、监控新文件、调用Capture模板、插入笔记，实现当Clippings文件夹新增文件时自动获取文章信息并添加到日记底部。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;基础版本通过创建QuickAdd插件的Capture模板、配置全局链接、创建快捷指令和自动化流程，实现自动在日记中添加剪藏文章的双链。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;进阶版本利用Obsidian Web Clipper的解释器功能，配置AI模型自动总结文章内容，并优化JS脚本获取description属性，实现更完整的自动化记录。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结这套流程帮助省去重复性工作，并提出了扩展应用场景，如自动添加稍后读待办、素材管理、项目日志自动化等，鼓励读者创建个人工作流。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;HTML interestfor属性与悬停popover交互效果&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 原生popover支持hover交互了&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了HTML原生popover的最新进化——通过interestfor属性实现鼠标悬停触发交互。该属性相比popovertarget功能更丰富，不仅支持button元素，还支持a、area等链接元素，目标元素也无需设置popover属性。配套的CSS伪类:interest-source和:interest-target可以精确控制触发元素和目标元素的样式状态。结合CSS锚点定位，可以实现完全无需JavaScript的悬停交互效果。目前该特性仅Chrome 142+支持，作者期待其快速普及。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了原生popover属性现在支持鼠标悬停交互，通过interestfor属性替代popovertarget属性实现hover触发效果，无需JavaScript代码。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;interestfor属性不仅支持button元素，还支持a和area等链接元素，因为hover行为不会与链接跳转冲突，同时可以通过JavaScript的interestForElement属性进行设置。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;interestfor指向的目标元素可以是任意元素，不必设置popover属性，配合:interest-target伪类可以实现元素状态变化效果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;CSS新增:interest-source和:interest-target两个伪类，分别用于匹配触发元素和目标元素的interest状态，实现样式控制。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;该特性可结合CSS锚点定位实现相对定位，目前仅Chrome浏览器支持，作者期待该特性能够快速普及。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
