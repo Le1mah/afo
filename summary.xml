@@ -4,8 +4,252 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-03-17T20:38:19.483Z</updated>
+  <updated>2026-03-18T20:20:34.185Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - March 18, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-03-18</id>
+    <updated>2026-03-18T20:20:34.185Z</updated>
+    <published>2026-03-18T20:20:34.185Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>14 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 18, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;84.38356164383562&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    21.1%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;77&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;288&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;11&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████░░░░░░░░░░░░░░░░░░░░░░░░ 21.1%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;14&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22476&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;These assholes https://www.openui.com/ did not do any due diligence before choosing a name. The only Open UI that counts is https://open-ui.org/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 批评openui.com侵占Open UI项目名称&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于域名争议的社交媒体帖子。作者Jeremy Keith批评openui.com网站在选择名称时没有进行尽职调查，因为已经存在一个名为Open UI的官方项目(open-ui.org)。帖子引发了多个回应，有人认为这可能是故意的名称侵占行为。这篇帖子在社交媒体上获得了广泛的分享和点赞，反映了web开发社区对品牌命名规范和知识产权的关注。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://zipcodefirst.com/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ZIP Code First&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 邮编应该放在地址表单最前面并自动填充其他信息&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章尖锐批评了网站地址表单的糟糕设计。作者指出，美国5位邮编本身就包含了城市、州和国家信息，通过免费API只需几行代码就能实现自动填充，却被大多数网站忽视。用户被迫手动输入所有信息，还要在冗长的下拉列表中寻找州名和国家名。作者列举了四个等级的设计失误，从邮编放置位置不当到表单重置等问题，并提供了具体的技术解决方案。文章呼吁开发者停止复制过时的表单模板，将邮编字段前置并实现自动填充，这是一个早已解决的问题，没有理由不去实现。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者批评当前网站地址表单设计不合理，明明可以通过5位邮编自动填充城市、州和国家信息，却让用户手动输入并在冗长的下拉列表中选择。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过邮编API可以轻松实现自动填充功能，只需4行代码就能根据邮编获取城市、州和国家信息，提升用户体验和数据准确性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展示了一个实际可用的邮编自动填充示例，证明这项技术简单易实现，并非什么高深的魔法，而是自1960年代就存在的查找表技术。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章列举了表单设计的四个等级的错误：邮编放在最后、收集邮编却不使用、可滚动的国家下拉列表、以及点击返回后表单重置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出其他建议：使用正确的键盘输入模式、配合浏览器自动填充功能、考虑先选国家再输邮编的方案，并呼吁修复这些低效的表单设计。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://remysharp.com/2026/03/18/web-of-state-of-the-browser-day-out&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Web of State of the Browser Day Out&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 London web conference highlighted accessibility, performance optimization, and platform-native solutions over JavaScript frameworks, featuring CSS advances and practical development insights.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This London-based web development conference delivered practical insights across modern web technologies, with particular emphasis on accessibility and performance optimization. Key presentations included Chad Gowler&amp;#039;s accessibility experiences, Harry Roberts&amp;#039; critique of framework-heavy defaults favoring lighter web-first approaches, and Rachel Andrew&amp;#039;s explanation of Baseline&amp;#039;s 30-month feature adoption timeline for planning long-term projects. The event showcased emerging platform capabilities through talks on CSS anchor positioning, JavaScript&amp;#039;s Temporal API, Zach Leatherman&amp;#039;s picture component analysis, and Manuel Matuzovič&amp;#039;s evolved CSS reset patterns. Notable themes included the shift from JavaScript to platform-native CSS/HTML solutions, real-world development challenges from speakers like Aleth Gueguen and Mike Hall on byte-level optimization, plus Richard Rutter&amp;#039;s survey of nine years of web typography advances.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;State of the Browser:&lt;/strong&gt; London-based event with strong accessibility focus, featuring talks on CSS anchor positioning, introversion in tech, and the evolution of web components. Highlights included Zach Leatherman&amp;#039;s picture component analysis and Jason Williams on JavaScript&amp;#039;s Temporal API.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Accessibility and Performance:&lt;/strong&gt; Chad Gowler delivered an excellent accessibility talk with valuable real-world experiences, while Mike Hall shared insights on optimizing for every byte in performance-critical scenarios. Both speakers provided practical lessons applicable to modern development.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Web Day Out:&lt;/strong&gt; First-time event with strong practical takeaways and excellent speaker lineup. Jemima Abu opened with new CSS features and the shift from JavaScript to platform-native solutions in CSS and HTML.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Baseline and Support:&lt;/strong&gt; Rachel Andrew explained Baseline&amp;#039;s role in development, revealing that features move from &amp;#039;newly available&amp;#039; to &amp;#039;widely available&amp;#039; in 30 months. This predictability allows developers to plan feature adoption for long-term projects based on expected support timelines.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Real-World Development Stories:&lt;/strong&gt; Aleth Gueguen shared development and testing experiences from challenging real-world scenarios. Attendees appreciated these practical insights, echoing the value of hearing authentic development challenges and solutions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Framework Bloat Critique:&lt;/strong&gt; Harry Roberts discussed the negative impact of defaulting to heavy frameworks like Next/Nuxt, highlighting how premature optimization for second page loads ignores high bounce rates. He advocated for building lighter, web-first solutions instead of framework-heavy approaches.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Modern CSS Practices:&lt;/strong&gt; Manuel Matuzovič shared lessons from revisiting his CSS knowledge after three years, using oli.css as an experimental project. He presented an evolved approach to CSS &amp;#039;resets&amp;#039; and demonstrated effective layering and reuse patterns.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Web Typography Evolution:&lt;/strong&gt; Richard Rutter covered nine years of advances in web font typography since his book publication. Despite initial skepticism about the field&amp;#039;s progress, the talk revealed substantial improvements and interesting typographic capabilities now available on the web.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dehora.net/journal/2026/working-with-agents-doesnt-feel-like-flow&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Working with agents doesn’t feel like flow — Bill de hÓra&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 使用AI代理工作更像玩游戏循环而非心流状态&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者探讨了使用 AI 代理工作的主观体验,发现这与传统的心流状态截然不同。代理工作更像是一个游戏循环:设定目标、观察反馈、评估调整、持续迭代,类似于 Roguelike 游戏的体验。这种工作方式是高度参与但不连贯的,需要动态战术性注意力而非连续专注,也不会让人失去时间感。它挑战了传统深度工作的理念,更强调与反馈循环的持续互动和即时判断。工作后的疲惫感更像运动后的疲劳,而非长时间专注的精神消耗。最重要的是,这种工作方式是有趣的,展示了新工具如何改变工作本身的感受形态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的同事问他使用 AI 代理工作的感觉如何,他立即意识到这种体验从未让他进入心流状态,这个问题引发了他的深入思考。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者开始关注使用代理工作的实际体验,发现这更像是在玩游戏而非传统的深度工作,因为整个过程就像一个游戏循环。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用代理工作的过程包括设定方向、触发行动、观察结果、评估、干预、调整和重试,这种循环式的反馈机制更接近体育运动或电子游戏,尤其像 Roguelike 和魂系游戏,而非传统的&amp;#039;进入状态&amp;#039;或深度工作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;心流状态感觉流畅连续且会让人忘记时间,而使用代理工作则是高度参与但更加不连贯和反应式的,注意力是动态战术性的而非连续的,也不会失去时间感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这种差异改变了作者对软件开发的思考方式,传统的深度工作理念(如保护大块不被打断的时间、进入心流)仍然重要,但代理工作更奖励与反馈循环的持续互动,重要的是保持精神上的在场并做出判断。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;深度工作后的疲惫来自长时间保持思维连贯的专注,而使用代理工作后的疲惫更像是持续游戏或竞争后的感觉,是大量小判断、状态更新和持续警觉的累积,这种体验更像锻炼。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用代理工作感觉很有趣,而心流虽然极具回报但并不有趣,作者认为新工具不仅改变我们能做什么,也改变了工作本身的感受形态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.terrygodier.com/the-last-quiet-thing&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Last Quiet Thing | Terry Godier&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Consumer technology transformed from finished products into demanding relationships requiring constant unpaid maintenance, with users spending most screen time on device upkeep rather than intentional use.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Modern consumer technology has shifted from self-contained products to demanding relationships that require constant maintenance, with users spending 65% of screen time on device upkeep rather than intentional use. What were once finished objects—watches, thermostats, appliances—now exist in permanent incompletion, requiring updates, accounts, Wi-Fi connections, and endless troubleshooting that constitutes unpaid labor disguised as ownership. Tech companies have created this cycle of dependency while simultaneously framing the resulting exhaustion as user addiction, selling wellness solutions that generate additional obligations. The article argues that user fatigue isn&amp;#039;t moral failure but a rational response to an unplanned personal infrastructure of cloud services, authentication systems, and interconnected devices that individuals must maintain alone, accumulated gradually through seemingly independent purchases.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Two Watches Compared:&lt;/strong&gt; A $12 Casio watch from 1989 simply tells time and requires minimal maintenance, while a $400 Apple Watch tracks everything, sends constant notifications, and needs nightly charging. One is a product; the other is a relationship that demands constant attention.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Possessions Came Alive:&lt;/strong&gt; Over the last twenty years, everyday objects transformed from finished products into needy dependents. Thermostats, TVs, cars, and appliances now require updates, accounts, Wi-Fi connections, and constant management—they exist in permanent incompletion.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Daily Maintenance Burden:&lt;/strong&gt; A documented day reveals that 65% of screen time is spent on device maintenance rather than intentional use. People spend hours dismissing notifications, updating apps, resetting passwords, accepting terms, and troubleshooting connections—unpaid labor disguised as ownership.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Screen Time Blame:&lt;/strong&gt; Apple&amp;#039;s Screen Time feature frames excessive device use as a personal failure requiring self-control, shifting blame to users. This wellness framing obscures that most screen time is mandatory maintenance, not addiction or choice.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Industry Trick:&lt;/strong&gt; Tech companies create products requiring constant attention, then diagnose users as addicted and sell wellness solutions that create more obligations. The exhaustion people feel isn&amp;#039;t moral failure but a rational response to devices that never stop demanding.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Personal IT Department:&lt;/strong&gt; Modern life requires managing a complex personal infrastructure of cloud services, authentication systems, wireless protocols, and interconnected devices. This system accumulated gradually through individual purchases, creating an unplanned architecture that users must maintain alone.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Finding the right Bottom Hole paper&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Investigation identifies 1994 Surrey Herald as source for Bottom prop newspaper&amp;#039;s internal pages, but front page remains unmatched despite exhaustive archive searches.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article chronicles a detailed investigation into a prop newspaper from a 1995 Bottom episode, where the author successfully identifies the internal pages as coming from the Surrey Herald (November 3, 1994) through distinctive headlines like &amp;quot;Seesaw Swans.&amp;quot; However, the front page remains a mystery—despite matching advertisements and layout similarities, the main headlines and photo don&amp;#039;t correspond to any archived edition of the Surrey Herald or its sister publications from that period. The author exhaustively searches hundreds of newspapers, enhanced video footage, and multiple sources, ultimately proposing three theories: an unarchived edition was used, a missing sister paper exists, or the props team fabricated the front page entirely. The investigation demonstrates both the success of identifying source material through forensic analysis of TV props and the limitations when dealing with potentially incomplete newspaper archives or custom-created content.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Initial Discovery:&lt;/strong&gt; The article investigates a prop newspaper called the &amp;#039;Hammersmith Bugle&amp;#039; featured in a 1995 Bottom episode. Using enhanced images from the show, the author identifies it as the Surrey Herald from November 3, 1994, through a distinctive &amp;#039;Seesaw Swans&amp;#039; sports headline.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Internal Pages Match:&lt;/strong&gt; Multiple internal pages from the prop newspaper are successfully matched to the Surrey Herald, including sports coverage and a story about &amp;#039;Wartime tales inspired poet.&amp;#039; The publication date is confirmed as approximately 9 weeks before the episode aired.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Front Page Mystery:&lt;/strong&gt; Despite matching internal pages, the front page of the prop newspaper doesn&amp;#039;t match the Surrey Herald&amp;#039;s front page from that date. While some advertisements are identical, the main photo and headlines are completely different.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mock-Up Evidence:&lt;/strong&gt; The author discovers the props team created mock content, including a Stork Margarine logo and references to the show&amp;#039;s character Slip Digby. Page layouts appear to have been rearranged, with content from page 4 moved to create the visible newspaper.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Sister Publications Search:&lt;/strong&gt; Investigation reveals several sister papers (Staines &amp;amp; Ashford News, Sunbury &amp;amp; Shepperton Herald, Staines &amp;amp; Egham News) share some pages with the Surrey Herald but have different front pages. None match the prop newspaper&amp;#039;s front page.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Enhanced Analysis Attempt:&lt;/strong&gt; Using a higher quality 1080p version from YouTube, the author identifies potential headlines like &amp;#039;Elsie is 100 years young&amp;#039; and &amp;#039;FA Cup tie mix up angers Walton boss.&amp;#039; However, these specific headlines cannot be found in archived newspapers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Exhaustive Search Fails:&lt;/strong&gt; The author searches hundreds of Surrey and London newspaper front pages from October-November 1994, consults podcasts, and reviews outtakes without finding a match. The investigation reaches a dead end.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unresolved Conclusion:&lt;/strong&gt; Three theories are proposed: an unarchived edition was used, a missing sister paper was the source, or the props team created an entirely new front page. The mystery of the prop newspaper&amp;#039;s true origin remains unsolved.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-18T07:00Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-18T07:00Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Deno 公司因收入不足面临严重危机，多名核心员工离职&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章讨论了 Deno 公司面临的严重危机。作者指出本周至少五名核心员工离职，公司尚未发布官方声明。作者认为根本问题在于 Deno 运行时未能获得足够的开发者关注，导致收入不足。文章推测了几种可能的未来走向，包括被收购、转向 AI 领域或缩减规模继续运营，但作者对这些选项都不乐观。尽管作者本人是 Deno 的长期用户并希望运行时能够存续，但对公司前景表示悲观。文章最后祝福离职员工并提到招聘信息。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾一年前关于 Deno 衰落的博客，指出本周至少五名核心员工离职，Ryan Dahl 尚未发表官方声明，这对 Deno Land Inc. 来说是一个危险信号。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为 Deno 公司收入不足是显而易见的问题，其运行时和相关项目未能吸引开发者关注，尽管作者本人是长期用户但对公司其他举措持批评态度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分析 Deno 未来前景黯淡，被收购可能性不大，可能转向 AI 领域或以更少员工继续运营，同时祝福离职员工并提到 Evan You 正在招聘。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://x.com/ChaserGameW2026/status/2034193090475331887?s=20&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;映画『チェイサーゲームW ⽔⿂の交わり』W主題歌第⼆弾解禁！『⼤切な⼀⽇』 LieN ーリアンーに決定&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 x.com访问错误提示，建议禁用隐私扩展后重试&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条错误提示信息，告知用户在x.com网站上遇到了问题。提示建议用户重试，并指出某些隐私相关的浏览器扩展可能导致网站功能异常。建议用户禁用这些扩展程序后再次尝试访问。这是一个典型的网站技术故障提示，旨在帮助用户排查和解决访问问题。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n657a42424a03&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;仕事は基本が大事&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 仕事の基本は上司の期待に応えること&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツー取締役の西川裕貴が、仕事の基本について解説している。仕事の基本は「上司の期待に応える」ことであり、求められるクオリティを達成することが評価の前提となる。知識やイベント参加などの活動は、基本を満たした上での＋α評価に過ぎない。上司の期待に応えることで信頼関係が構築され、任される仕事の幅が広がり、キャリアアップの道が開ける。評価や給料アップを望むなら、まず上司と対話して期待を正確に理解し、努力の方向性を間違えないことが成功への鍵となる。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー取締役の西川裕貴が、役員朝礼での「仕事の基本」についての話題を紹介し、仕事の基本は「上司の期待に応える」ことだと結論づけている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;上司が求める80点のクオリティを達成すれば期待どおりの評価を得られ、100～120点なら期待以上の評価を得られる。知識やイベント参加などは基本を満たした上での＋α評価であり、優先順位を間違えないことが重要。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;上司の期待に応えることで信頼関係が築かれ、任される仕事の幅が広がりキャリアアップにつながる。頼りにされる喜びがやりがいや向上心、自信や誇りに発展していく。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;評価や給料アップ、新しい仕事を任されたい場合は、まず上司と話して期待を理解することが重要。努力の方向性を間違えないことで、正しい評価と望む未来につながる。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://manga.line.me/product/periodic?id=S133094&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;しごにんの侍 第四十六話「江御唄」公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Episode 46 &amp;quot;江御唄&amp;quot; of the samurai series &amp;quot;しごにんの侍&amp;quot; has been published.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;I am Claude, an AI assistant developed by Anthropic.
+
+Based on the title provided, this appears to be an announcement about the publication of Episode 46 titled &amp;quot;江御唄&amp;quot; (Egomuta/Ego Uta) from a series called &amp;quot;しごにんの侍&amp;quot; (Shigonin no Samurai/Four Samurai). However, the actual content section is empty, so I cannot provide a meaningful summary of the article&amp;#039;s substance, plot details, or key points. To create a comprehensive summary, I would need the actual article content describing what happens in this episode or what the announcement contains.&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106878&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Student uses XMind, Obsidian, and NotebookLM with Markdown to create AI-enhanced learning workflows replacing traditional pen-and-paper study methods.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article discusses leveraging AI tools for modern learning workflows, moving away from traditional pen-and-paper methods. The author recommends a three-tool ecosystem: XMind for creating hierarchical notes in Markdown format, Obsidian for building interconnected knowledge bases through bidirectional linking, and NotebookLM (Google&amp;#039;s RAG-based AI) for knowledge management, review, and generating study materials like quizzes and podcasts. Markdown serves as the universal language bridging human thinking and AI processing, enabling efficient digitization and AI-assisted learning. The workflow involves capturing structured notes in XMind, enriching them with concept links in Obsidian, then uploading to NotebookLM for AI-powered study features, though output quality depends heavily on source material quality and the Quiz feature may have accuracy issues.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI冲击行业:&lt;/strong&gt; 影视飓风Tim在采访中表达对AI冲击现代行业的担忧，央视已大量使用AI生成画面替代传统拍摄。大多数人尚未充分认识到AI的巨大潜力和影响。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;核心工具介绍:&lt;/strong&gt; 推荐三个核心工具：NotebookLM（Google的AI知识库）、Obsidian（免费的本地化Markdown笔记软件，支持双向链接）、XMind（可选的思维导图工具，可导出Markdown格式）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Markdown通用语言:&lt;/strong&gt; Markdown是AI时代的通用语言，通过纯文本表达层级关系，便于AI理解和处理。相比富文本格式，Markdown更高效且不易出错，是连接人脑和机器的桥梁。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;传统纸笔方式:&lt;/strong&gt; 作者最初使用平板+手写笔+Notein的组合记笔记，虽然符合习惯但数字化困难。这种方式未触及数字时代学习的本质，利用效率不高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;思维导图记笔记:&lt;/strong&gt; 尝试用平板+键盘+XMind做笔记，实现了信息数字化和层级化呈现。但安卓端XMind存在卡顿崩溃问题，推荐使用高性能笔记本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;卡片盒笔记法:&lt;/strong&gt; 将XMind导出为Markdown格式导入Obsidian，通过双向链接构建知识体系。在做笔记时手动添加[[]]格式标记重要概念，课后补充卡片内容巩固知识。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;接入AI助手:&lt;/strong&gt; 将Markdown笔记导入NotebookLM进行知识管理和复习。NotebookLM基于RAG技术，可根据上传资料回答问题并提供信息来源，减少AI幻觉。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;NotebookLM功能详解:&lt;/strong&gt; NotebookLM提供多种学习功能：生成播客/视频、思维导图、学习报告、知识卡片、测验题、信息图表、PPT和数据表格等。其中Quiz测验功能最常用于巩固知识和查缺补漏，但存在题目重复和答案错误等问题。信息源质量决定输出效果，推荐使用课本PDF、PPT、电子笔记等高质量资料。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106734&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;越过参数的凝视：哈苏 X2D II 100C 漫谈&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 顶尖影像设备映射的仍是摄影本质&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章记录了作者首次体验哈苏 X2D II 100C 中画幅相机的感受。相机在 DJI 技术加持下打破了传统中画幅操作复杂的印象，拥有现代化交互体验。其 1 亿像素传感器和 16 位色深实现了真正的哈苏自然色彩硬件还原。全链路 HDR 功能通过 15.3 级动态范围和 1400 尼特屏幕，实现了从拍摄到显示的完整 HDR 工作流。作者认为该相机技术领先且易用，但因平台支持和使用场景限制，其价值难以量化，更多体现为追求极致的「哈苏精神」。最终作者领悟到摄影本质是用心记录，不应被器材束缚。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者首次体验哈苏 X2D II 100C，打破了对哈苏传统中画幅相机操作复杂的刻板印象，发现其在 DJI 技术加持下拥有现代化的触控交互体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;哈苏自然色彩在相机上是基于 1 亿像素中画幅传感器和 16 位色深的硬件还原，而非手机上的算法模拟，能记录约 281 万亿种色彩，实现极致的色彩过渡和立体感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;X2D II 100C 的全链路 HDR 功能突破传统相机工作流，通过 15.3 级动态范围、1400 尼特峰值亮度屏幕和系统级支持，实现从拍摄到显示的完整 HDR 体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为 HDR 技术为静态照片赋予了鲜活立体的视觉效果，让平凡记录也能回味无穷，改变了自己对摄影技术和习惯的认知。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;X2D II 100C 虽然技术领先且易用，适合初学者，但因平台支持有限、使用场景多样和审美差异，其价值难以被公允衡量，更多贩卖的是追求极致的「哈苏精神」和情绪价值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过体验顶尖设备领悟到摄影的本质是按快门拍好照片，建议不被器材束缚，用心记录当下拥有的设备所能捕捉的美好。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106992&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用 Claude Code 轻松搭建 Home Assistant 智能家居全套方案&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文分享了作者使用 Claude Code 搭建 Home Assistant 智能家居系统的完整方案。通过 Python 脚本和 HA API 替代传统 YAML 配置，解决了维护困难和版本管理问题。作者配置了 60+ 智能灯具、智能开关、各类传感器，实现了灯光控制、场景切换、自动化（人在亮灯、家电通知、宠物监测等）、语音控制等功能。使用 Material Design 3 风格打造了美观的 Dashboard 界面，并增加了趣味功能如每日宝可梦展示。作者认为 Claude Code 让智能家居配置变得简单高效，Home Assistant 将成为 Agentic 时代智能家居的首选平台。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者作为 Home Assistant 长期用户，分享了使用 Claude Code 从零搭建智能家居配置的经验，解决了传统 YAML 配置冗长、维护困难、版本管理困难等问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;核心方案是使用 Python 脚本通过 HA API 控制部署流程，避免修改冗长的 YAML 文件，提供了开源仓库供用户直接使用，主要使用 Claude Opus 4.6 模型实现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在设备配置上，作者购买了 60+ 智能灯具，推荐使用米家 Mesh 2.0 设备，通过 Claude Code 实现了灯组配置、自适应照明、场景设置（会客/影音/睡眠模式）等功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;配置了小米智能开关的按键绑定，生成了统一的控制方案和打印版使用文档，方便家人和客人使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;实现了丰富的自动化功能，包括人在亮灯、浸水报警、家电完成通知、宠物监测、回家模式、自动排气除湿等，Claude Code 能够从日志中学习并优化自动化规则。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过 HomePod 实现语音控制，使用 Home Bridge 将非 Matter 设备透传到 Apple Home，也支持通过小爱同学控制所有设备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用 Material Design 3 风格构建了美观的 Dashboard，经过多个模型迭代优化，在小米平板 5 上作为墙面控制面板使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;增加了每日宝可梦展示、电子墨水屏数据展示、Claude Code 用量监控等趣味功能，并生成了可打印的使用手册。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为在 Agentic 时代，通过 Claude Code 生成可复用的自动化脚本让智能家居配置变得简单高效，Home Assistant 凭借强大的 API 将成为智能家居的首选平台。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106217&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度征文｜为时间和精力埋单：我的旅行峰值体验塑造方法论&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用预算换时间精力，打造高质量旅行体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文提出了一套旅行峰值体验塑造方法论，核心是通过适度规划和刻意留白，在关键资源（时间和精力）上进行战略性投资。作者建议使用机场贵宾楼、自备舒适用品、选择租车等方式提升旅途舒适度，同时通过购买里程积分、利用酒店会员计划等手段压缩刚性开支。整体思路是用有限预算换取更多可支配时间和精力，避免过度规划导致的疲惫和失望，最终实现高质量的旅行体验。文章结合作者多次川渝之行的实际案例，详细阐述了从机票、住宿到交通的具体操作方法。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出旅行中应为时间和精力埋单的核心理念，认为当代打工人最宝贵的是时间而非金钱，因此需要通过增加预算来最大化可支配时间和精力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者建议适度规划旅行，仅搜集必要信息而非过度攻略，以保持旅途的惊喜感和新鲜感，同时强调留白的重要性以应对意外情况。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细介绍了如何投资重要资源，包括使用机场贵宾楼服务、自备头等舱用品提升飞行体验、选择租车或接送机服务来节约交通时间和精力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了压缩刚性开支的方法，包括跳出景区酒店选择的局限、利用酒店常旅客计划、通过二手平台购买里程和积分来降低机票和住宿成本。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - March 17, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2338,133 +2582,6 @@ Could you paste the article content again? I&amp;#039;ll be happy to create a co
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;系统功能丰富但实用性差，预装大量Docomo垃圾软件，快速启动、侧边栏等功能体验不佳，唯一实用的是与Qnovo合作的电池管理功能，可显示准确的电池健康度。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;日系手机厂商重硬件轻软件，运营商话语权过大导致系统臃肿，自Android 6之后日本失去了移动端UI/UX设计能力，优秀产品未能延续，市场份额被iPhone和国际品牌挤压。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;2023年FCNT因疫情导致的供应链问题和市场竞争压力破产，负债超700亿日元，随后被联想全资收购，Arrows品牌虽延续但已失去富士通原有的设计理念和工程师文化。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - March 7, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-03-07</id>
-    <updated>2026-03-07T20:04:44.845Z</updated>
-    <published>2026-03-07T20:04:44.845Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>4 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 7, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;72.32876712328768&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    18.1%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;66&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;299&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;9&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████░░░░░░░░░░░░░░░░░░░░░░░░░ 18.1%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-3-7/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.3.7&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者完成自出版作品Vol.2，重拾yearly project梦想&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者完成了自出版作品Echo Chamber Vol.2，这是一本238页的个人内容合集，涵盖2024-2025年的博客、日记和社交媒体内容，使用Sketch排版并通过Blurb打印。作者鼓励朋友们也制作自己的zine，认为实体书的分量本身就很有价值。虽然最初计划每年完成一个创意项目，但近年来未能实现其他构想（如买跑车、拍电影等），完成这本书让作者重新看到了实现其他梦想的可能性。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者收到了Echo Chamber Vol.2的样书并分享了照片，这是一本自出版作品，汇集了2024-2025年的博客、日记、推特和Instagram内容，共238页，使用Sketch排版后通过Blurb打印。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者向询问制作方法的朋友推荐使用Blurb打印自己的zine，认为无论内容如何，实体书本身的分量就已经足够有意义。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Echo Chamber最初是作者21年yearly project的构想，原计划每年做一个有趣的项目，但后续几年未能实现其他计划（如买跑车、拍电影、做DJ等），不过完成Vol.2让作者相信未来仍有可能实现这些想法。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 1975年网络安全书籍对现代的启示&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章评论了1975年出版的《电子罪犯》一书，探讨其对现代网络安全的启示。书中记录了计算机时代早期的各种犯罪形式，包括数据篡改、磁带勒索、密码窃取等，但由于当时电子犯罪案例稀少，内容中混杂了大量传统欺诈故事。文章指出该书揭示了当时法律滞后、物理安全薄弱等问题，并预见了深度伪造、无人机监控、数字盗版等现代技术威胁。作者认为回顾行业历史有助于审视当前安全流程中的固有假设，并引用书中关于道德教育重要性的警示作为结尾。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这本1975年出版的《电子罪犯》探讨了计算机时代早期的网络犯罪，包括电传欺诈、勒索软件和主机入侵等，但由于当时电子犯罪案例有限，书中充斥着支票欺诈和机票盗窃等传统犯罪故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中描述了令人震惊的计算机犯罪案例，犯罪分子通过篡改计算机打印输出、编程磁带拒绝不利数据、在代码间转移数据来掩盖大规模欺诈行为。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;1975年的法律尚未跟上现代犯罪的步伐，书中举例说明投资者起诉IBM制造防欺诈计算机失败的案例，以及法国法院因磁带本身未损坏而判定恶意删除数据无罪的案例。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;许多电子犯罪是由于糟糕的物理安全流程造成的，例如伦敦某计算机中心的侧门为方便员工透气而敞开，导致存储军事和工业机密信息的系统面临风险。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中不仅讨论计算机和数据磁带，还涉及电话窃听、窃听器，以及早期的深度伪造技术——通过重新排列录音中的词语和音节来改变整个意思。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中预测了音乐和电影盗版的兴起，并介绍了各种防御措施如&amp;#039;握手&amp;#039;验证机制，但这些保护措施会降低业务运行效率。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在序言中警告社会需要加强道德教育，指出1974年人们对高层人士的尊重下降，强调应该在家庭和学校中教授公平和道德概念，以防止未来更广泛的腐败。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-07T06:43Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-07T06:43Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 OAuth认证失败源于服务器时间漂移问题&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在开发AT协议项目时遇到OAuth认证失败问题，错误信息显示client_assertion的时间戳验证不通过。经排查发现问题源于运行在树莓派DietPi系统上的PDS服务器时间漂移，原本每日一次的时间同步频率不足以满足atproto OAuth对时间精度的毫秒级要求。将时间同步频率调整为每小时一次后问题得到解决。这个案例凸显了分布式系统中时间同步的重要性，特别是对于依赖精确时间戳的认证协议。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在构建AT协议项目时，测试OAuth登录流程遇到了InvalidClientError错误，提示client_assertion验证失败，iat声明的时间戳检查不通过。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;问题难以复现但在当天下午变得更频繁，作者的PDS运行在树莓派DietPi系统上，配置显示每天午夜同步一次时间。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;时间漂移导致atproto OAuth的毫秒级容差出现问题，作者将时间同步改为每小时一次后问题解决，这不是第一次遇到时间同步问题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106743&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度征文｜在新加坡，住最昂贵的房子，过最憋屈的日子&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 新加坡高房租下的租房困境实录&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者在新加坡多年租房的真实经历。尽管新加坡房租位居世界前列，但居住体验却令人失望。作者先后租住过老旧公寓Normanton Park、组屋、市中心公寓Oxley Edge、新建公寓Queens Peak等多种类型的住宅，无一例外都遭遇了设施老化、隔音差、蟑螂泛滥、邻居噪音、房东苛刻等问题。即使是新建的高档公寓，也存在潮湿、虫害、设计缺陷等困扰。作者以细腻的笔触和丰富的细节，展现了在新加坡租房的种种不便与憋屈，最终萌生了寻找其他旅居地的想法。文章真实反映了外国人在新加坡租房市场面临的困境。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从年度旅行回家后发现家中有蟑螂，回忆起在新加坡租房的各种憋屈经历，新加坡房租高昂但居住体验不佳。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在Normanton Park租的第一套公寓建于1977年，设施老旧，厨房设计不合理，卫生间与厨房仅用双折门隔开，垃圾通道滋生蟑螂，各种设施经常损坏。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者搬到组屋后租了一个不到10平米的小房间，没有床铺，需要在窗外晾衣服，蚊子很多，房东极其抠门，严格限制空调和热水使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在市中心Oxley Edge租房，位置优越但房租高达3400新币，公寓布局紧凑，隔音差，楼上和隔壁的噪音清晰可闻，蟑螂和小虫子频繁出现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者搬到Queens Peak公寓，虽然是新房但仍存在隔音差、湿气重的问题，邻居噪音严重，电梯和健身房等设施不够用，居住体验不佳。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者最后租的公寓紧邻主干道，夜间摩托车噪音严重，邻居在家唱卡拉OK扰民，走廊堆满杂物，卫生间下水口易堵，德国小蠊频繁出现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者住过各种类型的房子后发现新加坡居住环境普遍存在噪音、蟑螂、潮湿等问题，开始考虑到其他地方旅居，寻找更舒适便宜的生活环境。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
