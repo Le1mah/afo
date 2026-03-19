@@ -4,8 +4,238 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-03-18T20:20:34.185Z</updated>
+  <updated>2026-03-19T20:21:27.863Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - March 19, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-03-19</id>
+    <updated>2026-03-19T20:21:27.862Z</updated>
+    <published>2026-03-19T20:21:27.862Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>12 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 19, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;85.47945205479452&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    21.4%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;78&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;287&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;11&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████░░░░░░░░░░░░░░░░░░░░░░░░ 21.4%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22477&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Early-bird tickets for UX London&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 推广UX London会议早鸟票的营销文章&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇推广UX London 2026会议的营销文章。会议将于2026年6月2-4日举行，分为三个主题日：用户研究、设计细节和交付协作。作者采用热情洋溢、口语化的写作风格，反复强调早鸟票优惠的紧迫性（3月27日截止），并详细介绍了各天的演讲嘉宾和工作坊安排。文章提供了购票便利（可选单日或全程）和说服老板的实用工具，通过营造FOMO（错失恐惧）氛围来促进转化。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开头宣传UX London会议将于2026年6月举行，强调早鸟票优惠截止日期为3月27日，鼓励尽早购票。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明早购票对参会者和组织者都有好处，提供了说服老板的理由模板和参会选项。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍6月2日discovery day的议程，聚焦用户研究，列举了演讲嘉宾和工作坊主持人。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍6月3日design day的内容，关注设计细节，包括多位演讲者和名为&amp;#039;Yippee IA!&amp;#039;的工作坊。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍6月4日delivery day主题为设计系统和协作，列举演讲者和工作坊信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;结尾强调还有更多演讲者待确认，再次呼吁购买早鸟票。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Modal vs. Separate Page: UX Decision Tree&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 指导设计师根据任务特性在模态框和页面间做出正确选择&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深入探讨了UI设计中模态框与页面导航的选择问题。作者详细区分了对话框、覆盖层、模态框和灯箱等概念，指出模态框适合单一、自包含的任务，能帮助用户保持上下文，但常常过度使用导致体验中断。对于复杂多步骤流程应使用独立页面，重复性任务则更适合就地编辑。文章提供了Ryan Neufeld的4步决策树框架，帮助设计师根据任务复杂度、上下文需求和数据引用需求做出正确选择。核心建议是默认使用非阻塞对话框，仅在必要时使用模态框来防止关键错误。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了模态框、对话框、覆盖层和灯箱等UI组件的区别，强调它们虽然相似但实际上有细微差别，并指出大多数覆盖层出现时机不当，会打断用户的关键任务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;模态框的主要优势是帮助用户保持当前屏幕的上下文，适用于单一、独立的任务，如快速确认、警告或防止数据丢失，但默认情况下应优先使用非阻塞对话框。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于复杂的多步骤工作流程，独立页面效果更好；而对于重复性任务，可展开部分或就地编辑比模态框和页面导航更合适，因为它们能保持任务锚定在当前屏幕。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Ryan Neufeld提供了一个决策树来帮助设计师在模态框和页面之间做选择，这是一个包含4个步骤的流程：检查屏幕上下文、任务复杂度、是否需要参考底层页面数据，以及选择合适的覆盖层类型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结建议尽可能避免阻塞整个UI，只在需要减慢用户速度、集中注意力或防止错误时使用模态框，并推荐了Smart Interface Design Patterns视频课程作为学习资源。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-3-18/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.3.18&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 个人在历史转折点的无力感与被动适应&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者通过回忆2020年疫情前夕抢购口罩的经历,反思了COVID-19带来的深远社会变革,包括远程办公文化、购车时机窗口、科技行业招聘环境等方面的转变。文章采用个人叙事与宏观观察相结合的方式,指出即使能预见大环境变化,个人往往也难以采取有效应对措施。作者表达了当前面对国际局势时的相似焦虑感,认为虽然能预判战争可能带来的经济连锁反应,但这些宏观变化超出个人控制范围,只能被动等待新的社会常态形成。文章传达了普通人在历史转折点上的无力感与适应性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆2020年疫情前夕在家看新闻时的忧虑感，当时紧急在韩国网站购买KF94口罩备用，这些口罩最后带到美国也没用完。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者反思COVID-19带来的深远社会变革，包括远程办公文化的确立、疫情期间低利率购车时机、芯片短缺导致的车价飞涨，以及科技公司招聘环境的变化，但这些变化即使有预感也无法提前应对。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表达当前类似的不安感，虽然能预见战争可能导致油价、物流、食品价格上涨以及AI行业情绪转变,但这些宏观变化对个人而言难以采取实际行动,只能像疫情前夜一样等待蝴蝶效应落实成新常态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-03-19.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: March 19&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 探讨代码审查本质、可观测性价值及AI工具对认知的双重影响&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了软件开发中三个重要议题：代码审查的本质、可观测性的价值以及AI工具对人类认知的影响。Martin Fowler等人认为代码审查应超越bug检测，聚焦于判断和沟通；Charity Majors强调可观测性在理解系统真实行为中的关键作用，尤其在AI时代更为重要；Tim Requarth则通过地图与GPS的类比，提醒我们警惕过度依赖AI工具可能带来的认知退化。文章核心观点是：工具的价值不仅在于提升效率，更在于它们如何塑造我们的思维方式和能力发展。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;David Poll认为代码审查不应仅被视为发现缺陷的机制，而应关注判断代码是否应成为产品的一部分，保持代码库健康，并通过配对编程等方式在更早和更晚阶段进行审查。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Martin Fowler同意代码审查的核心是应用判断力引导代码方向，同时强调审查也是团队成员之间的沟通机制，能够为产品开发提供多元视角。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Charity Majors批评软件开发精英忽视了可观测性的重要性，认为可观测性不仅用于发现bug，更能揭示系统在真实用户手中的实际行为和需求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Fowler认为在AI辅助编程时代，可观测性将变得更加重要，因为系统行为的不确定性增加，开发者需要通过观测工具理解系统实际运行情况，可观测性工具可能成为未来的IDE。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Tim Requarth通过对比纸质地图与GPS导航，质疑AI作为认知放大器的说法，认为某些工具虽然提高效率但可能导致认知能力退化，关键在于我们是主动使用工具还是被动依赖工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-19T13:55Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-19T13:55Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Mozilla&amp;#039;s VPN promotion claiming trustworthiness faces criticism due to their history of modifying data principles to allow selling user data.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Mozilla is promoting a free VPN service by emphasizing their data principles and positioning themselves as &amp;quot;the world&amp;#039;s most trusted browser,&amp;quot; but this claim faces significant credibility challenges. Critics point out that Mozilla previously modified their data principles to explicitly allow selling user data, undermining their privacy-focused messaging. The controversy highlights a fundamental tension between Mozilla&amp;#039;s marketing claims about trustworthiness and their documented history of policy changes that appear to contradict those privacy commitments. This skepticism suggests that Mozilla&amp;#039;s attempt to differentiate their VPN from &amp;quot;sketchy&amp;quot; alternatives may ring hollow given their own track record with user data policies.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Free VPN Offering:&lt;/strong&gt; Mozilla promotes their free VPN service, claiming it&amp;#039;s built on data principles and their commitment to being the world&amp;#039;s most trusted browser. They position it as a safer alternative to sketchy free VPN arrangements.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Firefox Updates Teaser:&lt;/strong&gt; The article mentions upcoming Firefox features and current improvements, though specific details are not provided in this excerpt.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Data Principles Controversy:&lt;/strong&gt; A critical response questions Mozilla&amp;#039;s credibility by pointing out they previously changed their data principles to allow selling user data. The critic emphasizes Mozilla was explicit about this change and even provided a textbook definition of data selling.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Trust and Credibility:&lt;/strong&gt; The underlying tension centers on whether Mozilla can claim to be the &amp;quot;most trusted browser&amp;quot; given their history of modifying data policies in ways that appear to contradict privacy commitments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-19T06:46Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-19T06:46Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Cloud Four&amp;#039;s Jason Grigsby launched a 2026 blog series helping developers advocate against excessive third-party tracking through authoritative compliance reference materials.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Jason Grigsby from Cloud Four has launched a blog series on cookie consent management in 2026, tackling the compliance challenges web professionals face with third-party tracking. The most effective solution is eliminating excessive third-party tracking (often hundreds of partners), which removes the root cause of consent complexity rather than managing it. However, developers and designers typically lack authority over these business-level tracking decisions, which are made by organizational stakeholders. The series provides authoritative reference materials that developers can use to advocate for better practices with clients and decision-makers, even when they don&amp;#039;t control implementation.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Blog Series Introduction:&lt;/strong&gt; Jason Grigsby from Cloud Four has launched a new blog series titled &amp;#039;Cookie Consent Management in 2026, Part 1: Overview&amp;#039;. The series addresses cookie consent management challenges for web professionals.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Simplest Solution Identified:&lt;/strong&gt; The most straightforward approach to avoiding cookie consent issues is to eliminate tracking on behalf of numerous third-party partners. Reducing or removing the &amp;#039;900 partners&amp;#039; tracking eliminates the root cause of consent complexity.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Developer Control Limitations:&lt;/strong&gt; Design and development professionals often lack direct control over organizational tracking decisions and partner relationships. These business-level choices are typically made by other stakeholders within the organization.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Resource Value Recognition:&lt;/strong&gt; Having authoritative reference materials is valuable for developers when advising clients or stakeholders on cookie consent best practices. Quality sources strengthen professional recommendations even when implementation control is limited.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-19T05:27Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-19T05:27Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Vercel 将使用用户数据训练 AI，需在两周内退出&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章警告 Vercel 平台用户关于服务条款的重要更新。文章指出，除非用户在 2026 年 3 月 31 日之前选择退出，否则 Vercel 将使用用户数据来训练 AI 并与第三方共享。作者使用了强烈的批评性语言，建议被困在该平台上的用户尽快采取行动退出数据共享协议。文章强调了用户只有两周时间来做出决定，突出了这一政策变更的紧迫性和潜在影响。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/97965&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度征文 | 沿海公路的出口：10年后，重返宝岛&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 时隔10年重返台湾，用镜头和文字记录故地重游的回忆与情感&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者时隔10年重返台湾，从金门出发，途经台北、花莲、垦丁等地。在台北重访母校和熟悉的街巷，感受城市格局未变但流行文化已融合；在阳明山冒雨看海芋，在花莲七星潭独自面对太平洋的壮阔，因地震影响未能重访太鲁阁；最后在垦丁享受温暖海滨。全文以细腻的笔触记录了旅途中的风景、回忆与人情，表达了对青春时光的怀念和对故地重游的复杂情感，字里行间流露出对台湾这片土地的深厚情感和期待再次重逢的心愿。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者时隔10年重返台湾，从金门出发，回忆起当年交流研修的经历，感慨时光流逝但台北城市格局变化不大。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者探访了台北的老街小巷、圆山饭店、忠烈祠等地标，通过街道名称感受到历史的痕迹，并在山上偶遇热情的老乡。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;前往阳明山看海芋，虽然天气寒冷但仍坚持游览，回忆起林青霞和张爱玲与这座山的渊源。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;独自前往花莲七星潭，在阴雨天欣赏太平洋的壮阔景色，因地震影响未能重访太鲁阁，留下遗憾。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;最后一站来到垦丁，享受温暖的海滨风光，感叹旅途匆匆许多地方未能造访，期待下次重逢不要再等十年。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/107517&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;勃朗特三姐妹书影单：贫瘠土地生出的女性之花&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 勃朗特三姐妹用文学为维多利亚时代女性发声&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文通过勃朗特三姐妹的生平和作品，展现了19世纪维多利亚时代女性的文学成就。三姐妹在贫困的牧师家庭中成长，却创作出《简·爱》《呼啸山庄》《维莱特》《女房客》等经典作品。文章分析了各部作品的主题：从《简·爱》的浪漫爱情到《维莱特》的独立意识，从《呼啸山庄》的疯狂欲念到《女房客》的婚姻出逃，每部作品都反映了那个时代女性的困境与觉醒。作者认为安妮的作品被严重低估，尤其是《女房客》展现的女性独立精神极具现代意义。文章最后推荐了相关影视改编作品，肯定了三姐妹留下的珍贵文学遗产。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年3月新版《呼啸山庄》上映引发争议，导演大胆改编让原著粉难以接受，但这部作品代表了勃朗特三姐妹在维多利亚时代为女性发声的文学成就。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;勃朗特三姐妹出生于约克郡牧师家庭，虽然生活拮据但在父亲影响下热爱文学。1845年三姐妹以男性笔名自费出版诗集，随后创作出《简·爱》《呼啸山庄》《艾格妮丝·格雷》等经典作品，在不提倡女性写作的年代创造了文学奇迹。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《简·爱》讲述平凡女性的成长与爱情追求，虽然易读且受欢迎，但结局落入俗套让人遗憾。夏洛蒂将自己对埃热先生的暗恋投射到作品中，创作了这部美好但不够现实的小说。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《维莱特》是夏洛蒂最后也是最好的作品，比《简·爱》更为现实和成熟。主角露西·斯诺经历孤独贫困但始终坚强独立，最终明白只有真正独立和努力工作才能获得幸福，而非依赖爱情承诺。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《呼啸山庄》初版时遭受批评，直到半世纪后才被认可其超前性。小说展现了希斯克利夫和凯茜之间粗粝狂野的爱情，以及因不能结合而产生的极致复仇，揭示了爱情表象下的欲念与疯狂。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《艾格妮丝·格雷》根据安妮的家庭教师经历创作，反映维多利亚时代女性的生存困境和上流社会的虚伪。主角艾格妮丝在艰难处境中始终保持理智和善良，是一部小而美的现实主义经典。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《女房客》讲述海伦带着儿子从婚姻中出逃并独立生活的故事，大胆揭露了丈夫的暴力酗酒等恶行。这本小说在维多利亚时代极具震撼性，展现了女性勇敢追求自由的主题，但被严重低估。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章推荐了多部改编影视作品，包括BBC传记电影《隐于书后》、1983年版《简·爱》英剧、2009年版《呼啸山庄》和1996年版《女房客》，这些作品以不同方式呈现了三姐妹的文学世界。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106957&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度征文 | 最后一页并不存在——我的2025&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 在AI时代保持人性温度，与技术共同前行&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者回顾2025年的经历，从华为实习到重庆求学，从旅行到回家团聚，记录了生活的点滴变化。在创作方面，作者借助LLM工具提升写作效率，但坚持保留人类思维的核心价值，并在学术上取得论文发表的突破。面对AI时代带来的效率提升与焦虑加剧，作者深刻反思了学历贬值、竞争加剧等社会现象，以及AI对时间价值认知的改变。最终，作者将AI视为同行的伙伴，相信人类独有的自我意识与情感才是最珍贵的品质，选择与AI共同前行，因为最后一页并不存在，唯有不断启程。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在华为实习七个月后回到重庆上课，保持锻炼习惯并参加健身课程，10月参加ODC2025并游览深圳，11月与室友游览毕棚沟，意识到许多机会近在咫尺却未曾尝试。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;寒假期间作者选择回家与朋友见面聚会，回高中看望老师但因身体不适未能完成全部计划，大部分时间在家学习娱乐并帮助父母，感受到家庭的温暖与包容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者今年撰写近十篇文章，LLM能力提升极大改变了写作工作流，主要体现在信息搜集效率的提升，Chrome AI Mode等工具让前期准备更加高效，但作者坚持核心内容应源自人类思维。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为AI生成内容缺乏温度和独立逻辑，讨厌讨好式的行文编排，但也注意到征文中一些创造性使用AI的优秀案例，同时对比了文字创作与绘画领域对AI的不同态度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者今年在论文创作上取得突破，以共同一作身份向ICME投稿并获得良好评分，但也观察到学术圈AI滥用严重，审稿质量下降，论文中稿越来越依赖运气而非质量。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作为重度AI用户，作者发现AI提升效率的同时也加剧了焦虑，因为整个社会对个人的要求同步提升，导致学历贬值和竞争加剧，作者反思自己的本科经历和对未来的担忧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为AI改变了时间的锚定价值，大量信息摄入带来学习效率提升的错觉，注意力经济本质是争抢时间使用权，AI的完美形象更多是舆论塑造而非客观事实。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将AI视作走得更快的同伴，认为人与AI的本质区别在于自我意识与情感，用心创作的内容会引发共鸣，选择前行就会到达目的地，最后一页并不存在，唯有一次次启程。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106923&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;杀死你的不是它：聊聊我们的 AI 的焦虑&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI焦虑源于社会液化和节奏失控，解法是深度参与中找回呼吸节奏&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨当代人对AI的焦虑根源，指出真正的问题不是AI技术本身，而是社会现代化带来的系统性「液化」——工作和知识被不断拆解细化，AI将这一趋势推向极致。在高速社会节奏中，AI消除了工作中的「摩擦」和思考空间，人类被迫与机器对齐时钟而陷入成瘾式的即时反馈循环。作者提出的解决方案是保持主动参与和深度思考，通过提出好问题、理解每个步骤来创造「呼吸」空间，在激流中找到自己的节奏。文章强调「自我」不是需要被拯救的固定实体，而是在深度参与中不断生成和沉淀的过程。后记中作者坦承可能回避了对资本主义生产关系的结构性批判，选择聚焦个体层面的应对策略。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为对AI的焦虑不来自AI本身，而是社会现代化带来的系统性「液化」——工作、知识、内容都被拆解成越来越细的颗粒，AI将这种粉碎推向新高度，把智力劳动肢解成单次对话指令。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;液化本身并非坏事，AI生成的内容也有其价值，但问题在于社会节奏过快，AI消除了工作中的「摩擦」和喘息空间，人类被迫与硅基生物对齐时钟而痛苦，AI让人像实验室老鼠一样成瘾于即时反馈。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解决之道不是物理隔离AI，而是保持主动参与和控制感——提出好问题、深度参与、确保自己理解每一步，让多巴胺来自真正解决问题而非虚假完成感，在激流中学会「换气」而非强行停下。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;「换气」意味着找到真正关心的问题并深挖，在深度参与中形成呼吸节奏，通过这个过程不断遇见自己、认识自己的边界和执着，「自我」不是需要被拯救的东西，而是在洪流中通过「呼吸」生成和沉淀下来的。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;后记中作者与Claude讨论文章未明说的核心——杀死人的是资本主义生产关系本身，AI只是将工具化逻辑推向新高度，作者承认自己可能在下意识回避结构性批判，选择聚焦个体能做的部分。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/107514&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：腾讯 QClaw 正式上线、小鹏 P7 发布 Max 版等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技圈七大动态：AI 模型、智能汽车、浏览器更新及平台合作&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期早报汇总了科技领域七条重要动态。腾讯 QClaw 正式公测，通过微信/QQ 实现本地 AI 智能体操控；小鹏 P7 推出 Max 版及新配色，售价 20.38-24.38 万元；小米发布 MiMo-V2-Pro 模型，性能接近 Claude Opus 但价格仅五分之一；Midjourney V8 模型测试版上线，生成速度提升五倍；Firefox 启用新吉祥物 Kit 取代经典标志；YouTube 成为 2026 世界杯内容合作平台；Meta 宣布 Horizon Worlds 将于 6 月停止 VR 版本支持。这些动态涵盖了 AI、汽车、浏览器、视频平台和元宇宙等多个领域的最新进展。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;腾讯 QClaw 正式开启公测并发布新版本，支持微信小程序和电脑端文件传输，新增灵感广场功能。QClaw 是基于 OpenClaw 框架的本地 AI 智能体，可通过微信或 QQ 远程操控电脑执行任务，支持双系统并内置多个国产大模型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小鹏汽车发布 P7 系列新品，新增三款外观配色使可选颜色达到十款，推出 P7 Max 版提供三种配置，售价 20.38 万至 24.38 万元，并提供智能升级包和新内饰配色及外观套装。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米发布 MiMo-V2-Pro 旗舰模型，总参数超 1T，激活参数 42B，支持 1M 超长上下文，面向智能体场景。官方称其性能超过 Claude Sonnet 4.6，接近 Opus 4.6，但 API 定价仅为后者五分之一，已开放 API 并接入多个产品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Midjourney 发布 V8 模型测试版，在理解复杂提示词、图像细节、文字渲染方面提升明显，生成速度提升约五倍。同时升级网页端界面，新增对话式创作流程和网格模式，支持多种画幅比例和参数，并加入原生 2K 输出模式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mozilla 宣布 Firefox 浏览器推出全新吉祥物 Kit，将出现在安装引导、功能提示等界面及各大平台。Kit 由人类设计师手工打造，定义为纯粹的 Firefox，Mozilla 特别澄清其非 AI 生成且不是聊天机器人。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;YouTube 与 FIFA 达成合作，成为 2026 年世界杯内容指定合作平台。YouTube 将提供直播集锦、历史档案和创作者项目，转播机构可直播每场比赛前 10 分钟并发布延长集锦等内容，世界杯将于 6 月 11 日至 7 月 19 日举行。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Meta 确认 Horizon Worlds 将停止 VR 端支持，6 月 15 日从 Quest 商店下架。3 月 31 日起 Quest 商店将不再展示个人创建内容，用户届时只能通过 iOS 或 Android 平台的 Meta Horizon 应用在 2D 模式下使用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - March 18, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2465,125 +2695,6 @@ If you&amp;#039;d like me to create a summary, could you paste the full article 
 &lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;I can see you&amp;#039;ve shared a title that translates to &amp;quot;Beijing Second Foreign Language Institute Teacher Attendance Schedule Filing Form&amp;quot; but the actual content appears to be empty or not properly included.
 
 Could you paste the article content again? I&amp;#039;ll be happy to create a comprehensive 3-5 sentence summary once I can see the full text.&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - March 8, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-03-08</id>
-    <updated>2026-03-08T20:05:07.023Z</updated>
-    <published>2026-03-08T20:05:07.023Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>4 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 8, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;73.42465753424658&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    18.4%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;67&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;298&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;9&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████░░░░░░░░░░░░░░░░░░░░░░░░ 18.4%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.mcsweeneys.net/articles/being-a-luddite-is-cool-and-all-but-have-you-seen-the-hilarious-tapestries-these-new-looms-are-making&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Being a Luddite Is Cool and All, but Have You Seen the Hilarious Tapestries These New Looms Are Making? - McSweeney’s Internet Tendency&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 讽刺因AI生成的娱乐内容而放弃抵抗技术剥削的态度&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇讽刺性文章,以19世纪英国织工的口吻,讽刺当代对AI技术的态度。作者虚构了一个织工角色,他原本反对取代人工的动力织机,但因为机器生产的搞笑挂毯而改变立场。文章通过描述工业化带来的污染、贫困、失业等严重问题,与主角对&amp;#039;有趣内容&amp;#039;的痴迷形成强烈对比,讽刺了那些面对技术威胁却因娱乐内容而放弃抵抗的人。作者借历史上的卢德运动影射当代AI争议,批判&amp;#039;技术进步不可阻挡&amp;#039;的宿命论思维,以及用娱乐麻痹自己、接受剥削的态度。文章以黑色幽默揭示技术进步背后的阶级问题和社会代价。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者最初对工厂引进的新型动力织机持怀疑态度,担心失业,甚至考虑参与破坏机器,但看到织机制作的搞笑挂毯后改变了想法,特别是那些有趣的角色如&amp;#039;Gruellino Piratino&amp;#039;和&amp;#039;Georgione Hamone&amp;#039;让全家人都很开心。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管工业污染严重、河水污染、工资减半导致家庭困难和孩子患病,但作者认为这些搞笑挂毯在困难时期提供了必要的欢笑,妻子可以用这些挂毯娱乐孩子,尤其是那些可爱的猫咪图案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;然而这些快速生产的内容存在质量问题,作者发现女儿在看一幅父猫刺杀幼猫的图片,工厂表示生产速度太快无法审核内容,但作者认为这是让孩子保持忙碌的小代价。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者承认担心失业,认识到机器将取代熟练工艺和几十年经验,导致手工艺消亡和知识流失,只为生产更多廉价的大量消费品并保持工人阶级贫困,理解卢德派的愤怒,但因为挂毯太有趣而不愿加入破坏行动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为抵抗技术进步是徒劳的,将动力织机视为上帝预定的自然法则和不可避免的进步,无法想象不同的社会秩序,建议工人们学习项目管理等永远无法被自动化取代的技能,而不是参与破坏机器的暴动。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22440&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sunday morning kitchen session in B&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一条包含社交互动元数据的简短帖子记录&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇社交媒体帖子的元数据记录，发布于2026年3月8日星期日中午12:19，地点标注为北纬51度、东经0度。帖子包含了基本的社交互动信息，如分享、点赞等活动记录，以及发布者在Mastodon和Bluesky平台上的存在。内容本身似乎是关于厨房场景的简短记录，采用了CC Attribution许可协议，并邀请读者分享回应链接。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/03/whats-the-source-of-einsteins-citizen-of-the-world-quip/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;What&amp;#039;s the source of Einstein&amp;#039;s &amp;quot;citizen of the world&amp;quot; quip?&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者考证爱因斯坦名言来源的档案研究之旅&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者通过详尽的档案研究追溯爱因斯坦一句著名引言的来源。这句话关于相对论成功与否将如何影响他的国籍认同，最早见于1929年犹太电讯社报道。作者搜索了法国、德国、英国等多国报纸档案，发现虽有大量关于爱因斯坦1929年索邦演讲的报道，但都未提及此言论。通过对比1919年和1924年的相关引文，作者推测这可能是爱因斯坦反复使用并改进的笑话，或是记者的再创作。文章展示了严谨的历史考证方法，最终承认研究遇到瓶颈，呼吁读者协助寻找更早的原始资料。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者追溯爱因斯坦的一句名言：如果相对论成功，德国称他为德国人，法国称他为世界公民；如果失败则相反。最早发现于1929年12月4日犹太电讯社的报道。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在法国国家图书馆和德国报纸档案中搜索1929年11月的报道，发现大量关于爱因斯坦在索邦大学演讲的报道，但都没有提到这句名言。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Alice Calaprice的《爱因斯坦语录》将这句话归于1922年4月6日在索邦大学的演讲，但作者认为这是两次访问的混淆，且在德国报纸中未找到相关内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在英国和其他国家的报纸中也未找到这句话，Google AI错误地声称它出现在《星期六晚邮报》中，但实际并非如此。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者发现爱因斯坦在1919年和1924年表达过类似但不完全相同的观点，关于他在不同国家被描述为德国科学家或瑞士犹太人的讽刺。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为这句名言可能是爱因斯坦多年来重复和改进的笑话，或是记者根据模糊记忆重新创作的，并呼吁读者提供更多线索。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106483&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;晚安，明天见：Arrows N 与富士通的退场&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Arrows N的失败折射日系手机产业的全面衰落&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文回顾了日系手机品牌Arrows从辉煌到衰落的历程。富士通2011年推出Arrows系列，但因iPhone崛起和自身产品问题逐渐式微，2016年拆分为FCNT独立运营。2022年发布的Arrows N主打环保和日本制造，却以旗舰价格搭载中端骁龙695处理器，性能孱弱、系统卡顿、拍照算法糟糕，用户体验极差。文章深入分析了日系手机厂商重硬件轻软件、运营商话语权过大等结构性问题，指出其失去UI/UX设计能力是衰落的关键。2023年FCNT破产后被联想收购，Arrows品牌虽延续但已失去原有精神内核，成为日本手机产业由盛转衰的缩影。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;富士通于2011年推出Arrows旗舰手机系列，但随着iPhone崛起和Tegra 3处理器发热问题，品牌形象受损，市场份额不断萎缩，最终在2015年决定转向老龄化市场并拆分手机业务。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2016年FCNT成立独立运营，2022年发布Arrows N主打环保卖点，使用67%回收材料制造，全部在日本本土组装，并推出碳中和计划，但售价高达98000日元却仅搭载骁龙695处理器。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Arrows N的外观设计精致，使用再生塑料和铝材，手感温润，做工优秀，但正面屏幕上下边框不对称，整体观感受影响。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;骁龙695处理器性能孱弱，日常使用卡顿明显，游戏表现极差，王者荣耀团战掉帧严重，明日方舟终末地即使全低画质也几乎无法运行，平均帧率不到10。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;相机硬件配置尚可但算法优化糟糕，与Adobe合作的自动后期处理速度慢且白平衡偏暖，夜景拍摄对焦不准、测光失败、彩噪严重，只有白天光线充足时成片质量尚可。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;系统功能丰富但实用性差，预装大量Docomo垃圾软件，快速启动、侧边栏等功能体验不佳，唯一实用的是与Qnovo合作的电池管理功能，可显示准确的电池健康度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;日系手机厂商重硬件轻软件，运营商话语权过大导致系统臃肿，自Android 6之后日本失去了移动端UI/UX设计能力，优秀产品未能延续，市场份额被iPhone和国际品牌挤压。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2023年FCNT因疫情导致的供应链问题和市场竞争压力破产，负债超700亿日元，随后被联想全资收购，Arrows品牌虽延续但已失去富士通原有的设计理念和工程师文化。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
 &lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
 &lt;/div&gt;</content>
