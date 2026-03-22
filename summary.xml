@@ -4,8 +4,152 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-03-21T20:05:58.894Z</updated>
+  <updated>2026-03-22T20:06:30.706Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - March 22, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-03-22</id>
+    <updated>2026-03-22T20:06:30.706Z</updated>
+    <published>2026-03-22T20:06:30.706Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>5 articles from 3 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 22, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;88.76712328767124&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    22.2%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;81&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;284&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;11&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████░░░░░░░░░░░░░░░░░░░░░░░ 22.2%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;5&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Bored of eating your own dogfood? Try smelling your own farts!&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 大公司应让高管亲身体验糟糕客服以推动改进&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者通过亲身经历批评大公司在客户服务上的敷衍态度。尽管该公司宣称技术创新和AI转型，但其客户服务体验极差，充斥着冗长的自动语音和低质量的电子系统。作者强调科技行业应践行&amp;#039;dogfooding&amp;#039;原则，高管需要亲自体验客户旅程，特别是困难场景。文章对比了小型创业公司高管主动倾听客户反馈的做法，指出只有亲身感受糟糕服务，才能真正推动改进。作者以讽刺幽默的笔调呼吁企业重视客户体验，而非仅关注表面的技术指标。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者致电一家大公司，遭遇了冗长的自动语音提示，包括网站自助、在线账户管理和AI助手等选项，最终被转接到音质糟糕的电子语音系统。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者批评这家自称创新的公司在客户体验上敷衍了事，尽管其网站宣称AI转型和技术卓越，却在实际服务中表现糟糕。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者强调科技行业&amp;#039;dogfooding&amp;#039;（使用自家产品）的重要性，并回忆自己在移动网络公司工作时被要求在呼叫中心体验客户愤怒的经历。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者引用贝索斯亲自拨打客服电话等待10分钟的故事，质疑该公司CEO是否真正体验过自家的客户服务流程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对比了一家小型创业公司的做法：高管主动致电了解取消订阅原因，并对客户抱怨表示认同和理解，而非用数据指标搪塞。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为，高管可能需要亲身体验糟糕的客户服务，才能真正推动改进，就像只有品尝劣质食物才会改善饮食习惯。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/03/22/game-developer/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;I should build a game&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者决心重拾游戏开发梦想并设定每周创作目标&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者表达了重拾游戏开发梦想的决心。回顾了从Flash时代学习编程到转型前端开发的历程，认为现代HTML canvas技术已超越Flash的能力。在寒假期间，作者创建了游戏开发练习场，通过构建基础原型重新学习技能，将其视为在AI浪潮中保持创造力的避风港。受《杀戮尖塔2》启发，作者设定了每周投入数小时进行游戏相关创作的个人目标，包括艺术、设计、编程等各方面，不追求宏大计划，而是享受创作过程本身，将游戏开发作为职业后备和个人兴趣的结合点。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表达了想要开发游戏的愿望，回忆起游戏开发是自己最初对设计和编程产生兴趣的原因。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过Flash ActionScript学习了ECMAScript，虽然Flash最终衰落，但在其鼎盛时期是一个极具创造力的工具，如今HTML canvas成为了新的Flash。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从艺术和平面/网页设计转向前端开发，在寒假期间创建了一个游戏开发练习场，通过构建基础的canvas原型重新学习旧技能，这是在AI浪潮中保持创造力和理解力的避风港。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工作变忙后作者没有太多时间继续开发，但如果网络行业崩溃，至少有游戏开发作为后备计划；受《杀戮尖塔2》启发，作者认为自己技术上可以构建一个简单的克隆版本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者为自己设定了每周花几小时进行游戏相关创作的目标，包括概念艺术、谜题设计、编程或研究，没有宏大计划，只是享受过程，至于是否分享作品尚未确定。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/03/22/RSS006/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;RSS Club #006: Burnout&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 独立开发者反思自己是否职业倦怠，还是行业本身在崩溃&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇关于职业倦怠的个人反思文章。作者是一位独立开发者，长期实行四天工作制，但最近身心状态明显下降。除了腿伤导致无法跑步的身体因素外，作者对整个网络科技行业的现状深感失望——充斥着AI炒作、投机行为和无意义讨论。作者在博客上批评行业乱象，虽然获得部分读者支持，但也担心自己的负面基调和尖锐语气可能适得其反。文章以坦诚的语气探讨了一个核心问题：究竟是个人在经历职业倦怠，还是整个行业正在走向崩溃？作者向读者征求意见和反馈。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者长期实行每周四天工作制，周五用来做个人网站项目放松，但最近这种方式不再有效，智能手表显示其身体状态下降。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;腿筋撕裂导致无法跑步是主要因素之一，以前能跑半程马拉松，现在只能轻度5公里，身体活动受限影响了身心健康。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对整个网络和科技行业感到厌倦和失望，认为行业充斥着无意义的讨论和投机行为，不得不频繁屏蔽社交媒体内容和取消订阅。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对自己博客的负面基调感到沮丧，虽然想捍卫职业立场、批评行业乱象，但担心自己的语气过于尖锐，可能在主动寻找麻烦。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者质疑是否能以积极方式反击行业问题，承认自己追逐热点话题获取关注，但实际上技术教程类文章长期更受欢迎。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管收到支持其反AI立场的感谢邮件，作者仍不确定自己表达挫折感的方式是否正确，怀疑可能是职业倦怠影响了判断力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者询问读者的应对方式，欢迎反馈和批评，想知道是自己在倦怠、还是整个行业在崩溃。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/107642&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;看见 App Store 生态的更多可能，Tim Cook 会见中国游戏开发者&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Tim Cook 会见中国游戏开发者，见证 Apple 技术赋能游戏创新&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Tim Cook 在北京与中国游戏开发者会面，深入了解《逃离鸭科夫》《鸣潮》《异环》《无畏契约：源能行动》等多款优秀游戏作品。这些游戏充分利用了 Apple silicon、Metal、MetalFX 等技术能力，在性能优化、跨平台体验、图形表现等方面取得显著成果。从独立团队到大厂作品，开发者们借助 Apple 生态实现了创意落地，并获得了市场认可。Tim Cook 对开发者的创新表示赞赏，并期待 WWDC26 带来更多技术突破，助力全球开发者创造下一代应用与游戏体验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Tim Cook 结束成都活动后来到北京，与中国游戏开发者会面交流，了解他们的作品及 Apple 技术支持。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《逃离鸭科夫》是一款轻量化的撤离射击游戏，上线后迅速突破 200 万销量，开发团队利用 Apple silicon 优化了 Mac 平台的游戏性能和体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《鸣潮》是库洛游戏的开放世界动作游戏，通过 MetalFX 等 Apple 技术实现了跨平台一致的高品质游戏体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《异环》是完美世界的都市开放世界游戏，利用 Apple silicon 的 AI 能力实现了真实的环境互动效果，预约量超 2500 万。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《无畏契约：源能行动》获得 2025 年 App Store Awards 中国大陆年度游戏奖，通过 Metal 技术在移动端还原了竞技射击体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《无限暖暖》《明日方舟：终末地》等多款游戏也展示了对 Apple 软硬件能力的深度利用，《无限暖暖》即将支持 macOS 平台。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Tim Cook 高度评价开发者对 Apple 设备性能的挖掘，并表示期待 WWDC26 为开发者带来新技术和工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/107010&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;用十年手机相册，记录颐和园的日夜春秋&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 十年iPhone记录颐和园四季美景的治愈之旅&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者用十年时间，通过iPhone记录了近2000张颐和园的照片。文章详细介绍了颐和园的游览信息、推荐路线和最佳观赏时间，重点展示了落日余晖、蓝调夜景和深冬雪景三个主题的摄影作品。作者因工作生活在海淀区，颐和园成为了其下班后放松心情的去处。这些随手拍摄的照片记录了不同季节、不同时刻的颐和园之美，尤其是落日时分的彩霞和冬日后湖的碧蓝湖水令人印象深刻。作者认为这些照片代表了生命中珍贵的瞬间，治愈了工作压力，并鼓励读者也用相机记录身边公园的美好时光。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了自己与颐和园的缘分，十年来用iPhone记录了近2000张颐和园照片，因工作生活地点都在海淀区，距离颐和园仅5公里，成为了颐和园的常客。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了颐和园的基本信息，包括门票价格（旺季30元、淡季20元）、开放时间、多个出入口位置及特点，推荐了北京公园年票，并分享了避开人流的游览路线和时间建议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;重点展示了颐和园落日时分的美景，通过多组照片记录了2015年至2026年间不同时期的日落瞬间，包括彩云、红霞等壮观景象，这些都是作者下班后特意赶去拍摄的。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了落日后的蓝调时刻，天色变暗后颐和园呈现出水墨画般的静谧氛围，近年来建筑和桥洞亮起灯光后又增添了别样风味，作者特别喜欢这种梦幻般的不真实感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;分享了冬季颐和园的独特魅力，游客稀少、空气清新，作者记录了多个冬日晴天的美景，特别是2020年12月在后湖拍摄的蓝天碧水照片，被朋友误认为是九寨沟或新疆。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表达了对这些照片的珍视，认为它们代表了生命中真正重要的瞬间，这些美景治愈了自己，让其能够继续面对日复一日的工作生活，并鼓励读者也记录身边公园的美好时刻。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - March 21, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1887,289 +2031,6 @@ The article argues for &amp;quot;generative AI vegetarianism&amp;quot;—deliber
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Core Features:&lt;/strong&gt; ArkClaw offers a simplified interface for web scraping, mobile notifications via Feishu/DingTalk/WeChat Work integration, and scheduled task automation. Users interact through natural language commands in a streamlined chat interface built on Ubuntu servers.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Skills Ecosystem:&lt;/strong&gt; OpenClaw&amp;#039;s capabilities extend through Skills - downloadable instruction packages that teach the AI new tasks. ClawHub.ai hosts nearly 20,000 community-created Skills, enabling functionality like map queries and platform-specific content generation through natural language installation.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Advanced Configuration:&lt;/strong&gt; ArkClaw provides terminal access to the underlying Ubuntu system, supports multiple AI models from the Coding Plan suite, and integrates with ByteDance&amp;#039;s TOS object storage for unlimited file management. The deep integration with ByteDance&amp;#039;s ecosystem (Seed 2.0 model, Feishu, cloud storage) creates a seamless experience.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - March 11, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-03-11</id>
-    <updated>2026-03-11T20:15:44.366Z</updated>
-    <published>2026-03-11T20:15:44.366Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>15 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 11, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;76.71232876712328&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    19.2%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;70&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;295&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;10&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████░░░░░░░░░░░░░░░░░░░░░░░░ 19.2%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;15&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22450&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A web font strategy&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 详解web字体优化策略的实践经验&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细介绍了作者为The Session网站制定web字体策略的全过程。作者从网站20多年的字体使用历史出发，解释了为何长期坚持使用系统字体Georgia，以及最终选择Lora可变字体的原因。文章重点阐述了通过字体子集化、unicode-range分割、fallback字体调整（size-adjust等属性）来优化性能和用户体验的技术方案。作者还针对首次访问者和回访者采用差异化加载策略，使用font-display: optional和service worker缓存来平衡性能与视觉一致性，体现了对web性能优化的深刻理解和实践经验。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了The Session网站自1990年代末以来的字体演变历程，从最初只能使用Times New Roman，到Georgia的出现，再到web fonts技术的诞生和发展，包括WOFF、WOFF2格式以及可变字体的出现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管web字体技术不断进步，作者多年来一直坚持使用Georgia字体，因为性能一直是The Session的首要考虑，而Georgia本身就是一款优秀的字体，且在web字体普及的今天反而显得独特。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者最近发现了Lora字体，它与Georgia有许多相似特质。作者选择使用可变字体版本以获得理想的字重（450），并能在不同场景下微调字重，如标题和暗黑模式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;为了优化性能，作者将Lora字体分成两个子集文件（48K和41K），分别包含不同的字符集，并使用unicode-range让浏览器按需加载，同时预加载主要的子集文件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者使用size-adjust、ascent-override和descent-override属性调整fallback字体Georgia以匹配Lora，最小化字体切换时的布局偏移，确保视觉体验的平滑过渡。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者针对首次访问者和回访者采用不同策略：首次访问时使用font-display: optional避免慢速连接下的字体切换，而回访者通过service worker缓存可以立即看到Lora字体。作者将持续监控CRUX数据以确保累积布局偏移保持在低水平。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://renderghost.leaflet.pub/3mgigxmbx4k2z&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;I work, I think? - Annotated&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI正在破坏将新手变为专家的学习循环&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者观察到AI工具正在破坏职场中最关键的学习反馈循环：通过犯错、反思和改进来培养能力的过程。当人们可以用AI生成看似正确的输出而无需真正思考时，本应建立的专业能力永远无法发展。作者引用马克思关于劳动异化的理论，指出工作不仅是谋生手段，更是自我认知的核心方式。类比卢德派工人的抗争，作者认为问题的本质是权力和控制，而非技术本身。讽刺的是，包括作者在内的从业者正在构建使自己专业知识贬值的系统。尽管作者希望保持真实的思考和工作，但在现实压力下也不得不使用AI，感受到工作正从真正的&amp;#039;做&amp;#039;异化为仅仅的&amp;#039;执行&amp;#039;。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者注意到一种现象：一些人在使用AI后表现出不应有的自信，产出看似合理但缺乏真正思考的内容，而他们对此毫无察觉。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI正在悄然破坏将新手转变为熟练者的反馈循环，人们可以生成看似正确的内容而无需真正思考，导致本应通过实践建立的能力永远无法发展。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者引用高中校长和马克思的观点，认为工作不仅是谋生手段，更是人们理解自我和世界的方式，当工作变成仅仅是执行而非真正去做时，人们失去的不只是时间。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者联想到卢德派工人的抗争，指出问题的核心不是技术本身，而是权力：谁控制工作条件，谁从变革中获益，谁承担代价。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者观察到包括自己在内的从业者正在构建使自己专业知识商品化的系统，虽然个体层面的逻辑合理，但集体层面却在加速走向无人真正想要的结果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表达了想要保持真实思考的愿望，但承认自己也不得不每天使用AI以维持收入，感到心爱的工作正逐渐从真正的&amp;#039;做&amp;#039;变成仅仅的&amp;#039;执行&amp;#039;。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://youraislopbores.me/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;your ai slop bores me&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI-generated content lacks authenticity and emotional resonance, making it tedious and unengaging for human audiences seeking genuine connection.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;I can&amp;#039;t summarize this article because the content shows &amp;quot;loading...&amp;quot; instead of actual text. This could mean:
-
-- The page is still loading
-- There&amp;#039;s a technical issue preventing content display
-- The content requires JavaScript or specific browser conditions to render
-
-If you can access the full article text, paste it directly or try reloading the page. Alternatively, share the URL and I can try using web tools to fetch the content.&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/469&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 469: Astro 6.0 goes full Cloudflare&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Astro 6.0统一开发生产环境运行时&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Astro 6.0是被Cloudflare收购后的首个重大版本，核心改进是基于Vite Environment API重写的开发服务器，实现了本地与生产环境的运行时统一，解决了Cloudflare Workers等场景下的调试难题。新版本还引入了内置字体API、实时内容集合和实验性Rust编译器等功能。文章采用轻松幽默的科技博客风格，在介绍Astro更新的同时，穿插了对Wikipedia安全事件、TypeScript版本策略、AI编码工具影响等行业热点的简短评论，展现了作者对前端生态和开发工具演进的敏锐观察。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Astro 6.0发布，这是被Cloudflare收购后的首个主要版本，整体风格更加Cloudflare化。最大亮点是开发服务器和构建管道的完全重写，现在由Vite的Environment API驱动，使本地开发环境与生产环境运行相同的运行时，解决了之前只能在部署后才发现的bug问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新版本的其他重要特性包括：内置字体API可自动处理缓存、回退和预加载；实时内容集合允许在请求时而非重建时获取CMS内容；实验性Rust编译器作为可选功能发布，计划最终成为默认选项。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还提到了其他技术动态：Wikipedia遭遇JavaScript蠕虫攻击、Twilio使用Orkes平台改造通知架构、文学编程可能回归、独立工具演变为包管理器的供应链风险、Rust的未来愿景、Eleventy更名为Build Awesome、TypeScript 6.0 RC发布，以及AI编码工具模糊软件团队角色界限等话题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/03/game-review-it-takes-two/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Game Review: It Takes Two ★★★★★&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 夫妻合作解谜游戏探讨婚姻与家庭关系&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《双人成行》(It Takes Two)是一款合作解谜游戏，讲述一对面临离婚的夫妻被女儿的愿望变成玩偶，必须共同冒险才能恢复人形。游戏设计巧妙，每个关卡都有独特的游戏机制和视觉风格，从逻辑谜题到动作冒险应有尽有。作为一款真正面向成人的游戏，它深入探讨了现代婚姻和家庭关系的复杂性。优秀的配音、精美的动画和富有深度的故事使其成为一款杰出的合作游戏体验，强调了团队协作的重要性。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;一对夫妻面临离婚，他们的女儿为了挽救父母的婚姻，给他们服用了致幻药物，两人变成玩偶大小，必须在家中冒险以恢复人形。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者与妻子一起玩这款合作游戏，分别扮演May和Cody，通过解决只能共同完成的谜题来推进游戏，期间经历了一个极具创伤性的情节——杀死一只玩具大象。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏拥有完整的3D世界和丰富多样的关卡设计，包括逻辑谜题、跳跃、格斗、飞行模拟等多种游戏机制，每个关卡都有独特的美学风格。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这是一款真正为成人设计的游戏，探讨现代夫妻养育家庭的复杂性，配音出色，故事不过分煽情，动画精美，合作解谜的体验令人愉快。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/03/11/sveltekit-internationalization-flash-of-wrong-locale/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;SvelteKit i18n and FOWL&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 解决SvelteKit中服务端与客户端locale不一致导致的日期格式闪烁问题&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文讨论了在SvelteKit中使用JavaScript Internationalization API时遇到的locale不一致问题。作者发现服务端渲染和客户端渲染使用不同的locale会导致日期格式闪烁变化，并将此现象命名为&amp;#039;Flash of Wrong Locale&amp;#039;（FOWL）。解决方案是通过读取HTTP请求的Accept-Language头来获取用户的locale偏好，并在SvelteKit的hooks和load函数中传递这个信息，确保服务端和客户端使用相同的locale设置。文章还指出Safari等浏览器由于JavaScriptCore的实现差异，即使使用相同locale也可能显示不同格式。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了JavaScript的Internationalization API，它提供了自然排序、相对日期时间和货币格式化等功能，浏览器内置了locale数据，避免了像moment.js那样需要600KB以上的库。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在使用SvelteKit构建attic.social时，作者发现了一个问题：由于服务端渲染使用en-US而浏览器使用en-GB，导致日期格式在页面加载时会闪烁变化，作者将这种现象命名为&amp;#039;Flash of Wrong Locale&amp;#039;（FOWL）。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;为了解决FOWL问题，需要在SvelteKit渲染模板前获取用户的locale，通过在hooks.server.ts中读取Accept-Language请求头，并使用event.locals存储locale数据。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过页面或布局的load函数将locale数据传递给模板，然后在DateTimeFormat构造函数中使用该locale，从而消除FOWL现象，除非Accept-Language头缺失。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Safari浏览器即使使用相同的en-GB locale也会显示不同的日期格式（使用&amp;#039;at&amp;#039;而不是逗号），这是JavaScriptCore的特性导致的，说明标准在不同运行时之间并不完全一致。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-11T05:59Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-11T05:59Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Keith Cirkel&amp;#039;s color perception game tests users&amp;#039; ability to distinguish similar colors, measuring discrimination ability through JND scores using Delta E metrics.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Keith Cirkel developed a color perception game that challenges users to identify boundaries between similar colors, measuring their Just Noticeable Difference (JND) score using the ΔE (Delta E) metric—where lower scores indicate superior color discrimination ability, with 0.0022 representing exceptional perception. The game&amp;#039;s technical foundation is detailed in Cirkel&amp;#039;s article &amp;quot;Too Much Color,&amp;quot; which explores the methodology behind color perception testing. The author notes that display quality plays a critical role in test accuracy, crediting their strong performance to Apple laptop monitors and highlighting how hardware capabilities directly impact color discrimination results.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Interactive Color Game:&lt;/strong&gt; Keith Cirkel created a game that tests users&amp;#039; ability to detect color differences by clicking on the boundary between two colors. The game measures your Just Noticeable Difference (JND) score.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;JND Score Metric:&lt;/strong&gt; The game uses ΔE (Delta E) to quantify color perception accuracy, with lower scores indicating better color discrimination ability. A score of 0.0022 represents exceptional color perception.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Educational Resource Available:&lt;/strong&gt; Keith Cirkel wrote an article titled &amp;#039;Too Much Color&amp;#039; that explains the technical concepts and methodology behind color perception testing. This provides deeper context for understanding the game mechanics.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Display Quality Impact:&lt;/strong&gt; The author attributes their strong performance to Apple laptop monitors, suggesting that display quality significantly affects color discrimination test results. High-quality monitors enable more accurate color perception testing.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/?p=11300&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【採用情報】急募！シネマティックアニメーターアシスタント スタッフ募集［アルバイト］（福岡本社・東京スタジオ・大阪スタジオ）&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 日本游戏公司招聘过场动画师助理兼职&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一则日本游戏公司招聘过场动画师助理的兼职职位公告。工作期间为2026年4月至2030年1月，可在福冈、东京或大阪三地选择。职位欢迎无经验者，主要负责游戏演示场景制作的辅助工作，包括动作实装和布局制作等。工作时间灵活可协商，时薪根据地区在1150-1300日元之间。应聘者需具备PC基本操作能力，对游戏制作有兴趣，有相关CG或影像制作经验者优先。表现优秀者有机会转为正式员工。需提交履历书、问卷及可选作品集。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;招聘全球销售游戏的过场动画师助理，欢迎无经验者，但需对游戏制作、CG或影像制作感兴趣，希望在游戏开发现场积累实务经验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;兼职雇佣，工作期间2026年4月至2030年1月末，可能根据表现延长合同。工作地点可选福冈本社、东京工作室或大阪工作室。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;工作时间9:00-18:30（实际工作8小时），周一至周五工作，周末及节假日休息，工作时间和天数可协商调整。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;时薪根据地区不同：福冈1150日元起、东京1300日元起、大阪1250日元起，根据经验能力可能增加技能津贴，提供交通费和社会保险。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;主要负责游戏内演示场景制作的辅助工作，包括动作实装、布局制作、资料制作等，根据个人素质和意愿可能晋升为正式员工。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;应聘条件为具备PC基本操作能力，优先考虑对游戏制作和学习有热情者。期望但非必须具备动作制作、VFX制作或CG影像制作经验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;需提交履历书（附照片）、应聘问卷，可选提交作品集。文件需按规定命名和压缩，PDF建议20MB以内，视频建议30MB以内。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n61f749d44135&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『しごにんの侍』制作ぶろぐ 第四十五回『ちゅうにのやまい』&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 &amp;quot;Shigonin no Samurai&amp;quot; introduces a chuunibyou parody character based on Yagyu Jubei whose drug-themed codename may require censorship for broadcast.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This blog post discusses a new character in the manga &amp;quot;Shigonin no Samurai&amp;quot; whose name &amp;quot;Shaburitsukusu&amp;quot; (meaning &amp;quot;to devour completely&amp;quot;) is a codename that may need changing for broadcast adaptations due to potential drug slang associations. The character is a wordplay-heavy parody of the historical figure Yagyu Jubei, with &amp;quot;十秒四&amp;quot; (14 seconds) representing &amp;quot;中二病&amp;quot; (chuunibyou/eighth-grader syndrome), complete with fictional delusions about sealed magical powers and dragon abilities inspired by Jubei&amp;#039;s famous eyepatch. The character&amp;#039;s ordinary appearance symbolizes how drug abuse can spread unnoticed in society, while subtle foreshadowing in previous episodes rewards attentive readers who revisit earlier content. The author deliberately withholds details about the character&amp;#039;s siblings to avoid spoilers, with the next manga chapter scheduled for March 18th and the corresponding blog post for March 25th.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;New Character Introduction:&lt;/strong&gt; A new character appears in this chapter, with subtle foreshadowing in previous episodes. Readers may discover hints by re-reading earlier content.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Shabu-hachi Name Origin:&lt;/strong&gt; The character&amp;#039;s name derives from &amp;#039;shaburitsukusu&amp;#039; (to devour completely) as a codename, not from the modern drug slang. The name may be changed for other media adaptations due to broadcast standards.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Yagyu Jusho Character Design:&lt;/strong&gt; The character&amp;#039;s name is a wordplay: &amp;#039;十秒四&amp;#039; (14 seconds) represents &amp;#039;中二病&amp;#039; (chuunibyou/eighth-grader syndrome). Based on the famous Yagyu Jubei but modified to avoid overshadowing the main characters.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Eyepatch and Powers:&lt;/strong&gt; The character&amp;#039;s claims about sealed magical eye powers and dragon abilities are fictional delusions. Inspired by historical Yagyu Jubei&amp;#039;s famous eyepatch, though the real person likely wasn&amp;#039;t one-eyed.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Multiple Brothers Mystery:&lt;/strong&gt; Details about the character&amp;#039;s siblings are withheld to avoid spoilers. The design represents the visual spread of drug abuse, appearing everywhere as an ordinary person.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Publication Schedule:&lt;/strong&gt; Episode 46 blog will be published March 25th (Wednesday), with the manga chapter releasing the previous week on March 18th (Wednesday).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(6 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106719&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;再谈 eSIM 手机：海内外不同手机比较与技术讨论&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 全面解析eSIM手机技术发展与全球品牌布局现状&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文系统梳理了eSIM技术在智能手机领域的发展历程与现状。从2017-2018年Apple和Google率先应用eSIM，到2025年中国大陆商用落地，文章详细解释了eSIM芯片原理、双eSIM与eSIM双待的技术区别，并澄清了eSIM与全球上网(SoftSIM)的本质差异。作者全面统计了Apple、Google、三星、Sony等海外品牌及华为、小米、vivo等国产品牌在全球各地区的eSIM手机布局，分析了不同品牌的技术策略。文章还对比了海外版与国行版手机在频段支持等方面的差异，介绍了第三方实体eSIM卡方案，最后展望eSIM技术将朝着更紧凑设计、双待支持和技术普惠化方向发展。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了eSIM技术在智能手机上的发展历程，从2017年Google Pixel 2和2018年iPhone XS系列首次应用开始，到2025年中国大陆eSIM手机商用试验牌照落地，目前国行已有5款支持eSIM的手机上市。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细解释了eSIM的技术原理，澄清了&amp;#039;双eSIM&amp;#039;与&amp;#039;eSIM双待&amp;#039;的区别，指出eSIM芯片实际上只有一块，可存储多个配置文件，并对比了eSIM与全球上网功能(SoftSIM)在安全性和服务质量上的差异。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章全面统计了Apple、Google、三星、Sony等海外品牌以及华为、OPPO、小米、vivo、荣耀等国产品牌在全球不同地区销售的eSIM手机情况，分析了各品牌在eSIM技术推进上的策略差异。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章讨论了海外版手机相比国行版本在频段支持、载波聚合、Google服务等方面的优势，介绍了第三方实体eSIM卡方案的利弊，并展望了eSIM技术未来将向更紧凑设计、双待支持和技术普惠化方向发展。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/exercise-bike-gaming-peripheral&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;两百元，我把吃灰动感单车改造成了万能游戏外设&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 将动感单车改造成游戏手柄，让运动变有趣&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者面对运动难以坚持的问题，将闲置的Keep动感单车改造成游戏外设。通过树莓派Zero 2W作为中枢，整合单车踏频数据和手柄按键，模拟成USB游戏手柄连接电脑。在《极限竞速：地平线5》中，将踏频映射为油门控制，配合游戏辅助功能，成功将枯燥的有氧运动转化为沉浸式游戏体验。整个方案成本约200元，实现即插即用，兼容所有游戏。技术路线采用FTMS等开放协议获取单车数据，避免了外部激励新鲜感消退的问题，让运动变得有趣且可持续。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为现代人难以坚持运动，传统的外部激励方案如Apple Watch和健身环游戏化反馈容易失去新鲜感，动感单车虽可边骑边追剧但仍难以坚持，最终萌生将动感单车改造成游戏外设的想法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者选择用树莓派Zero 2W作为数据中枢，接收单车踏频和手柄按键数据，伪装成USB游戏手柄连接电脑，实现即插即用兼容所有游戏，总成本约200元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;实际体验中，将踏频映射到油门扳机后效果超预期，配合《地平线5》的辅助功能，在游戏可玩性和有氧运动之间达到完美平衡，半小时不知不觉就过去了。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;技术实现的第一步是让树莓派理解单车数据，理想情况下单车应使用FTMS标准协议，这是基于BLE的健身器材通用协议，通过监听特定特征值即可获取踏频数据。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106723&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度征文｜2025 副业备忘录：从 3D 打印到「一人企业」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通过3D打印建立&amp;#039;一人企业&amp;#039;的副业实践与思考&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了2025年通过3D打印开展副业的完整经历。从5月购入拓竹A1 mini开始，逐步建立起包含产品研发、生产、营销等环节的&amp;#039;一人企业&amp;#039;结构。通过MakerWorld平台的原创模型获得稳定积分收入，并成功开发拓麻歌子马桶支架等电商产品。在从初样到量产的过程中，作者积累了应对收缩翘曲、优化用户体验、版权保护等实战经验。受《一人企业》启发，作者选择&amp;#039;小而美&amp;#039;的可持续发展战略，强调自动化生产和个人特色竞争力，从垂直领域兴趣出发做有意思的产品，最终实现了从一台机器到三台机器、30个SKU的发展，并获得海外用户支持。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了自己从2022年开始每年撰写备忘录的习惯，2025年因职场不稳定开始探索副业，5月购入第一台3D打印机拓竹A1 mini，并思考个人是否能通过3D打印赚钱。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出3D打印副业需要像微型创业公司一样结构化运营，包含产品研发、生产、营销、电商和法务等部门，核心精力集中在产品研发和生产环节。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分析了个人玩家的收入模式，指出代工模式因价格和生产力问题不可行，建议以原创为主实现可持续收入，并介绍了MakerWorld平台的积分和版税收入体系。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过在MakerWorld社区学习建模、了解用户喜好，围绕收纳和游戏动漫二创等热门选题设计模型，逐步提升技术并发布了70+模型和120+打印配置。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了第一款电商产品——拓麻歌子马桶支架的开发经历，从初样到量产遇到了收缩、翘曲等问题，强调需要在设计初期通过结构优化来减少量产问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在产品设计中吸取教训，减少易断裂的插销和小接触面设计，采用更圆润的风格降低售后风险，并通过试玩体验测试包装和运输情况。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者讨论了版权保护工作，通过随申办申请著作权，建议原创模型尽早发布保留证据，考虑售卖的产品不要开源或仅开源初样版本，并在模型上加Logo。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从一台打印机发展到三台机器和30个SKU产品，收到海外订单支持，开始考虑通过虾皮出海，并阅读《一人企业》一书思考战略方向。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者受《一人企业》启发，选择&amp;#039;小而美，稳而优&amp;#039;的战略而非扩张，专注做好一个渠道，强调自动化生产和把模型设计做好做通用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从拒绝个性化定制转变为接受小改造需求，认识到维护老客户和改造现有模型的成本更低，并体会到&amp;#039;一人企业&amp;#039;可以做有意义事情的灵活性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者思考竞争力来源于个人特色，建议从垂直领域兴趣出发解决小需求，不必跟随热点，做有意思的东西，引用《庄子·逍遥游》鼓励读者启动想做的事。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106373&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;城市漫步指南：用 10 天走进东北白山黑水&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 10天深度游东北三省体验冰雪文化&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者记录了一次为期10天的东北三省深度旅行，从北京出发途经沈阳、长春、长白山到哈尔滨。行程涵盖了工业博物馆、早市文化、洗浴体验、雾凇观赏、伪满皇宫、长白山温泉、索菲亚大教堂、冰雪大世界等多个特色景点。作者以真实细腻的笔触描述了东北的严寒天气、特色美食、历史遗迹和自然风光，既有对景点的客观评价也有个人感受的真诚表达。整个旅程充满了对东北文化的探索和对历史的反思，虽有遗憾但收获颇丰，为读者呈现了一幅立体的东北冬季旅行画卷。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆起童年时对东北的初印象来自接待运输司机，后来遇到来自哈尔滨的恩师改变了人生轨迹，最终踏上了东北之旅。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;四人团队规划了10天行程，从北京出发途经沈阳、长春、长白山最后到达哈尔滨，专门购买防寒装备应对大寒节气的严寒天气。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在沈阳参观了中国工业博物馆，被铸造馆的宏大规模震撼，随后逛了彩电塔和西塔两个特色夜市，品尝了醋喷鸡架等东北美食。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二天逛了小河沿早市，体验了东北大娘的特色叫卖方式，品尝了蛋堡等小吃，但粘豆包的味道令人失望，随后参观了辽宁省博物馆并给予高度评价。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在永利汇洗浴中心体验了东北泡澡文化，泡澡池规模超出预期且价格实惠，人均消费仅三百多元，整体性价比很高。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;到达长春后参观了这有山商场和长春电影博物馆，虽然门票昂贵但了解了长春电影制片厂的历史，随后凌晨起床前往吉林观赏雾凇。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在松花江边的万缕银丝观赏了两星雾凇，虽然天气极寒但景色震撼，随后返回长春参观了净月潭的蓝冰景观和伪满皇宫。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;长白山是行程重点，体验了雪地摩托穿越和二道白河风景，在云顶市集购买了特色冰箱贴，但雾凇漂流未达预期。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;入住蓝景温泉酒店体验了户外温泉，在零下二十几度泡温泉形成了头发雾凇，但因天气原因未能登上天池，只参观了长白瀑布等景点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在哈尔滨参观了索菲亚大教堂和中央大街，品尝了烟囱面包冰激凌，在松花江冰面上玩了冰上猜丁壳游戏。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;参观冰雪大世界被冰雕震撼，特别喜欢黄鹤楼冰雕，但对游玩项目的抢票机制表示不满，最后一天参观了侵华日军731部队旧址心情沉重。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结10天行程彻底体验了玩雪，虽然时间充裕但仍有遗憾未能去沈阳故宫等地，未来想骑行漠满公路，正在规划不同的回家方式。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/107020&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;产品团购暨直播 | 少数派十四周年：一场特别的周年回馈活动&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派十四周年推墨水屏产品并举办Sonos团购回馈活动&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派迎来十四周年庆典，举办特别回馈活动。2025年以墨水屏为主线产品，推出Quote/0摘录墨水屏并在深圳建立体验中心，旨在帮助用户在信息时代找回专注力。周年期间将于3月14日开启Sonos全系列产品限时秒杀团购，包括Ace、Era、Arc Ultra等型号，价格大幅优惠。Sonos作为全球知名无线音响品牌，支持AirPlay 2与苹果生态无缝集成。创始人老麦将于3月18日直播分享共创历程并提供周年特惠。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派迎来十四周年，将举办特别回馈活动，创始人老麦将参与直播分享2025年共创历程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2025年少数派将墨水屏作为主线产品，推出Quote/0摘录墨水屏，强调在信息时代帮助用户找回专注力，并联合暖风家在深圳打造大湾区首家墨水屏综合体验中心。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;周年活动期间将于3月14日开启Sonos产品限时秒杀团购，涵盖Sonos Ace、Era系列、Arc Ultra等多款型号，价格大幅优惠且数量有限。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Sonos作为全球领先的家庭无线音响系统品牌，以极简设计和Wi-Fi无线连接著称，支持AirPlay 2，可与苹果设备无缝配合实现多房间音频播放。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派十四周年特别直播将于3月18日19:30举行，创始人老麦将作为特别嘉宾出席，直播期间提供周年特惠福利。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/107021&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;vivo X300 Ultra 影像前瞻：手机摄影边界再突破&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 vivo X300 Ultra通过硬件升级和生态扩展打造专业级口袋摄影系统&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;vivo X300 Ultra作为新一代影像旗舰，在X200 Ultra成功基础上实现全面突破。硬件方面，长焦升级至3°光学防抖达CIPA 7.0标准，35mm主摄首发2亿像素索尼LYTIA-901传感器配1/1.12英寸大底，14mm超广角采用主摄级LYTIA-818传感器。生态方面，推出轻量化200mm增距镜和400mm大炮增距镜，构建14mm至400mm完整蔡司镜头群，并新增多光谱摄像头解决色彩一致性问题。X300 Ultra不再满足于制造媲美相机的手机，而是试图在专业摄影和视频创作领域成为能够平替部分微单的口袋摄影系统，代表了移动影像从算法驱动向光学硬件和专业生态转型的新方向。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;vivo X200 Ultra发售一年来市场表现惊艳，预售首日销量翻倍，打破历史销售纪录，获得国际顶级影像媒体高度评价，其14mm、35mm、85mm黄金焦距系统证明了影像旗舰的独特价值。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;X300 Ultra升级第五代灭霸长焦，首发3°超大角度光学防抖达到CIPA 7.0专业水准，配备60fps高刷追焦引擎，防抖角度是传统旗舰的两三倍，使长焦视频成为其核心优势。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;35mm主摄升级至2亿像素，首发索尼LYTIA-901传感器，拥有1/1.12英寸超大底和1G+6P镜片结构，光学防抖达CIPA 6.5，成为全球独一份的35mm+2亿像素+1/1.12英寸组合，为人文摄影提供极致画质。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;14mm超广角搭载索尼LYTIA-818传感器，拥有1/1.28英寸大底和CIPA 6.0防抖，用主摄级传感器补齐多摄系统短板，抹平焦段切换时的画质割裂感。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;X300 Ultra升级外挂增距镜生态，200mm增距镜减重27%至153g但镜片增至15片，新增400mm增距镜实现17.4倍纯光学变焦，全面适配14种拍摄模式，构建从14mm到400mm的蔡司大师镜头群。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;X300 Ultra将搭载全新多光谱摄像头，解决极端环境下色彩一致性与白平衡还原问题，消除AI算法带来的涂抹感，为专业创作者提供更大后期调色空间，是移动设备向专业电影摄影机色彩科学迈进的关键一步。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
