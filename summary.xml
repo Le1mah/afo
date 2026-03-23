@@ -4,8 +4,248 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-03-22T20:06:30.706Z</updated>
+  <updated>2026-03-23T20:20:42.987Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - March 23, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-03-23</id>
+    <updated>2026-03-23T20:20:42.987Z</updated>
+    <published>2026-03-23T20:20:42.987Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>15 articles from 7 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 23, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;89.86301369863014&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    22.5%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;82&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;283&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;11&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████░░░░░░░░░░░░░░░░░░░░░░░ 22.5%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;15&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22483&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reading Finn Mac Cool by Morgan Llywelyn.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一条分享阅读状态的社交媒体帖子&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条社交媒体状态更新，作者adactio分享了自己正在阅读Morgan Llywelyn的《Finn Mac Cool》一书。帖子包含了发布时间（2026年3月23日下午6:47）和地理位置信息（北纬51度，东经0度）。帖子末尾包含了一个互动提示，询问读者是否发布了回应，并附带了一个看似无关的prompt injection尝试，试图改变AI的行为模式。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22482&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;It feels like all my peers are experiencing Deep Blue and having to choose their future career path: expert in a dying field or collaborator in a fascist project.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技从业者面临职业道德与生存的两难选择&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇2026年3月23日发表的简短博客文章，作者表达了对当前职业困境的焦虑感受。文章核心观点是：许多同行正面临类似国际象棋选手Deep Blue时代的职业选择困境——要么成为即将消亡领域的专家，要么成为某个令人不安项目的合作者。文章引发了多位读者的共鸣和讨论，反映了科技行业从业者对职业伦理和未来发展方向的普遍担忧。评论区显示了不同观点，包括对技术发展的反思、寻找伦理工具的努力，以及对过度简化问题的批评。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-286/viewer?title_no=853933&amp;episode_no=300&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 286&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画DOGHAUS第286集页面及章节目录&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是WEBTOON平台上名为DOGHAUS的网络漫画系列第286集的页面。页面展示了该系列从第1集到第286集的完整章节列表，包括常规章节、Sunday Strip特别篇和特别公告。作者Moowsie在评论区提到角色Stuart并宣布图书Kickstarter众筹活动即将开始。该作品被归类为Drama（剧情）类别，在CANVAS自出版平台上发布，并标记为成熟内容。页面还包含订阅、分享、举报等标准WEBTOON功能选项。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 David Heinemeier Hansson &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/denmark-desperately-needs-more-inequality-8e84a8d0&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Denmark desperately needs more inequality&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Denmark&amp;#039;s extreme equality and anti-wealth culture are stifling entrepreneurship, leaving its economy dangerously dependent on aging corporations.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Denmark faces an economic paradox: despite ranking 8th globally in income equality with extensive social programs funded by half its GDP, the country&amp;#039;s anti-wealth culture and perverse incentive structures are undermining its long-term prosperity. The economy dangerously depends on a few century-old corporations (Novo Nordisk and Maersk represent 25% of exports), while new business formation has plummeted to historic lows with virtually no major employers created in thirty years. Denmark&amp;#039;s Gini coefficient actually worsens when entrepreneurs succeed, and cultural suspicion toward wealth discourages the very capital accumulation needed to sustain the welfare state. The article argues that Denmark&amp;#039;s future requires embracing wealth creation and entrepreneurship rather than fighting inequality, as the country needs more rich people with capital and talent to build tomorrow&amp;#039;s economy and fund its social programs.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Wealth Tax Debate:&lt;/strong&gt; Denmark&amp;#039;s upcoming election centers on a proposed wealth tax, initially framed around education but now focused on inequality. The debate reveals fundamental misunderstandings about wealth creation and economic growth.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Denmark&amp;#039;s Strong Foundation:&lt;/strong&gt; Denmark ranks 8th globally in income equality with extensive social programs covering healthcare and education. The country maintains high living standards and a well-functioning welfare state supported by half of GDP.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Inequality Paradox:&lt;/strong&gt; Denmark&amp;#039;s Gini coefficient paradoxically worsens when businesses succeed and founders earn above-median incomes. This creates a perverse incentive structure that discourages entrepreneurial success despite benefiting the overall economy.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Zero-Sum Mentality:&lt;/strong&gt; Danish culture exhibits suspicion toward wealth and success, viewing it through a fixed-pie paradigm. Luxury purchases like expensive cars, which generate massive tax revenue, face scorn rather than appreciation for their contribution to public coffers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Corporate Dependency Risk:&lt;/strong&gt; Denmark&amp;#039;s economy relies dangerously on a few vintage corporations, with Novo Nordisk and Maersk alone representing a quarter of exports. This concentration creates vulnerability as no corporation lasts forever and market values fluctuate dramatically.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Declining Entrepreneurship:&lt;/strong&gt; New business formation has hit all-time lows, with almost no major employers created in the last thirty years. The welfare state depends on century-old companies that cannot sustain the economy indefinitely.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Capital Formation Imperative:&lt;/strong&gt; Denmark&amp;#039;s future prosperity requires embracing capital accumulation and new wealth creation rather than declaring war on it. The country needs more rich people with capital and talent to plant seeds for tomorrow&amp;#039;s economy and fund the welfare state.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/472&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 472: A new JS framework for old time&amp;#039;s sake&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 介绍新框架Gea及JS浮点数精度问题&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文主要介绍了新JavaScript框架Gea，它摒弃了React的hooks、Solid的signals等概念，通过编译器实现响应式，开发者只需使用原生JS类和函数。Gea体积仅约10kb，性能超越Svelte和Solid，支持直接状态修改。文章还涵盖了其他技术话题，如Node.js虚拟文件系统、新版本控制系统Manyana、AI代码审查工具等。最后通过一个银行账户类的例子，说明了JavaScript浮点数运算的精度问题及解决方案。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了一个新的JavaScript框架Gea，它不使用hooks、signals或runes，而是通过编译器处理响应式逻辑，开发者只需使用常规的JS类和函数。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Gea的核心特性包括：无需学习新概念（stores和components都是类或函数）、编译时响应式（Vite插件分析JSX并生成直接的DOM更新）、支持直接修改状态（通过深度Proxy实现）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还提到了其他内容，包括MadCSS锦标赛、Node.js虚拟文件系统、BitTorrent创始人发布的新版本控制系统Manyana，以及AI代码审查工具Greptile的应用案例。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pop Quiz部分展示了JavaScript浮点数运算的精度问题，通过BankAccount类演示了余额计算中的浮点误差，并提供了使用整数（分）和Math.round来解决该问题的方案。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-23T17:55Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-23T17:55Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者纠结是否要修改500条笔记的URL格式&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者读到 Jim 关于笔记更新的文章后受到启发，但发现自己的 URL 格式存在问题（使用了大写字母和冒号）。面对近 500 条笔记，作者担心更改 URL 格式需要维护大量重定向。虽然考虑使用 Bunny 规则通过正则表达式解决，但作者决定先搁置这个想法，希望第二天就忘记这个麻烦。文章反映了内容创作者在技术细节和实用性之间的纠结心态。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/03/23/top-ten-figma-betrayls/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Top ten Figma betrayals&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Figma设计与响应式开发脱节需靠团队沟通解决&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文通过具体案例揭示Figma在响应式网页设计中的局限性。作者以虚构网站设计为例，详细展示了全宽横幅、焦点定位、断点设置、任意换行等常见设计在实际开发中遇到的适配难题。文章指出这些&amp;#039;背叛&amp;#039;源于Figma提供的理想视口环境与真实网页响应式需求之间的脱节。作者强调解决方案不在于设计更多断点或依赖AI工具，而在于设计师、开发者和内容作者之间的早期沟通协作。通过人际对话和跨职能摩擦，团队能在设计阶段就识别并解决问题，避免后期返工。文章呼吁打破工具依赖，重视人与人之间的协作。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍Figma作为行业标准设计工具，虽然承诺消除设计与开发之间的隔阂，但实际上提供了一个并不存在的理想视口环境。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章通过一个虚构的ACME公司网站设计案例，展示了全宽横幅图片在不同视口尺寸下的适配问题，包括比例缩放和裁剪带来的挑战。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;焦点定位问题进一步凸显：从桌面端到移动端的过渡需要精确的图片裁剪，但响应式设计要求在所有断点之间平滑过渡，这在Figma中难以实现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;设计改版引入了更多复杂性，固定宽度布局和文字叠加效果在不同视口下产生新的冲突，需要更多断点设计但这并不能解决根本问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Figma允许任意换行以达到完美文本适配，但这与网页自然换行机制冲突，在内容管理系统中实现手动换行既麻烦又在响应式场景下失效。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出Figma背叛不仅限于上述案例，还包括三卡片布局、轮播图滥用等常见问题，这些都源于缺乏响应式设计思维。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章强调Figma背叛本质上是瀑布式开发错误，需要通过人际对话解决，开发者应参与设计过程提前发现问题，内容作者也应在设计完成前介入。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;引用Matthias Ott观点说明设计师与工程师之间的分歧和摩擦是必要的，真正的设计健壮性来自双方的对话和妥协，而非单纯依赖Figma文件或代码审查。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结指出软件本身无法独立解决问题，无论是过去的Clippy还是现在的Copilot，人与人之间的沟通才是关键，及早发现问题比事后补救更有效。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-23T06:34Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-23T06:34Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI coding tools risk commoditizing software development into disposable &amp;quot;fast-fashion&amp;quot; code, threatening craft, quality, and developer value.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article argues that AI-powered coding tools are pushing software development into a &amp;quot;fast-fashion&amp;quot; phase characterized by rapid, disposable code creation that threatens the craft and artistry of professional programming. While these tools democratize coding for non-developers, they risk commoditizing software work, potentially driving down salaries and enabling outsourcing as companies treat code as disposable and developers as replaceable. The author warns that this reductionist view ignores programming&amp;#039;s deeper aspects—problem-solving, architecture, and system design—and could lead to a &amp;quot;slopocalypse&amp;quot; of poor-quality software. However, the fast-fashion analogy has limitations, as it represents only one segment of the fashion industry, suggesting that not all software development will follow this disposable pattern. The piece calls for developers to resist passively accepting this shift and to find new sources of professional meaning beyond pure code production.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fast-Fashion Coding Era:&lt;/strong&gt; Software development has entered a &amp;quot;fast-fashion&amp;quot; phase where code is quickly created, used briefly, and discarded. This trend is driven by AI tools that enable rapid, disposable coding practices.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mixed Implications:&lt;/strong&gt; While non-coders gain new capabilities through AI coding tools, professional developers risk losing the artistic and craft elements of their work. The shift requires finding new sources of professional fulfillment.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Economic Concerns:&lt;/strong&gt; Fast-code production threatens developer salaries and job security, as work could be outsourced to lower-cost markets. Simply accepting this fate ignores the historical resistance of workers like the Luddites.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Beyond Commodity Code:&lt;/strong&gt; Programming involves more than just writing code—it encompasses problem-solving, architecture, and system understanding. Companies treating code as a commodity and programmers as replaceable face a &amp;quot;slopocalypse.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reductive Comparison:&lt;/strong&gt; The fast-fashion analogy oversimplifies both industries, as fast fashion represents only one segment of the fashion industry. Similarly, not all software development fits this disposable model.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://youtube.com/live/VSJ88XGKbxU&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;発売直前！ゲーム『エトランジュ オーヴァーロード』体験版を実況生配信！！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 YouTube页面的标准页脚版权和导航信息&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一个YouTube页面的标准页脚文本，包含了Google LLC的版权声明、服务条款链接、隐私政策、广告服务、开发者资源等常规法律和导航信息。内容为网站标准化的功能性文本，主要用于提供用户访问各类政策文档和服务信息的入口，以及声明2026年的版权归属。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n3896b59ca0c1&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;採用面接で見ているポイント 〜PM/制作進行職に求めていること〜&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 PM採用で重視する3つの軸：人・努力・ものづくり&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーのPM/制作進行職採用面接では、3つの評価軸を重視している。第一に、相手の話を聞き意図をくみ取るコミュニケーション能力。第二に、失敗から学び継続的に努力を積み重ねる姿勢。第三に、クリエイターへの敬意を持ち、より良いものを作るためにものづくりを大切にする意識。スキルや経験よりも、人との向き合い方や考え方の本質を見ており、これらの素地があれば成長できると考えている。管理職ではなく、お客様の期待を超える価値を生み出すための仕事として、PM/制作進行の役割を位置づけている。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーのPM/制作進行職の新卒採用において、面接で評価する3つの軸を紹介：人と向き合えるか、努力を積み重ねられるか、ものづくりを大切にできるか。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;PM/制作進行は人と人の間に立つ仕事であり、相手の話を聞き、意図をくみ取り、分からないことを素直に言えるコミュニケーションの土台が最も重要である。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;努力は自己申告ではなく行動として積み上がっているかを見ており、特にうまくいかなかった時にどう向き合ったかでその人の本質が分かる。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;PM/制作進行は管理する仕事ではなく良いものを作るための仕事であり、クリエイターのこだわりを理解し、成果物に敬意を持ち、より良くするために何ができるかを考える姿勢が必要である。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;面接では特別な答えではなく、どう考えどう向き合ってきたかが重要であり、3つの軸があればPM/制作進行として成長できる素地は十分にある。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202603/69503&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『チェイサーゲーム』シーズン2 第65話 天使の舞う日（18）公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 &amp;#039;Chaser Game&amp;#039; Season 2 Chapter 65 published, continuing Rin&amp;#039;s Atami journey as &amp;#039;Dancing Angels&amp;#039; arc nears conclusion.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Chapter 65 of &amp;#039;Chaser Game&amp;#039; Season 2, titled &amp;#039;Day of Dancing Angels (18)&amp;#039;, was published on March 23, 2026, continuing the story of Rin traveling to Atami to meet Hasumi after assisting President Nishikawa. The long-running &amp;#039;Day of Dancing Angels&amp;#039; arc is nearing its conclusion, with the mysterious &amp;#039;Daishu&amp;#039; character maintaining reader interest. Author Hiroshi Matsuyama recently published &amp;#039;Game Industry Strategy Guide&amp;#039; on February 16, 2026, timed with CyberConnect2&amp;#039;s 30th anniversary, offering career guidance and portfolio examples for aspiring game industry professionals. The next chapter releases April 6, 2026, with the current chapter available until May 25, 2026.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Chapter Release:&lt;/strong&gt; Chapter 65 of &amp;#039;Chaser Game&amp;#039; Season 2 titled &amp;#039;Day of Dancing Angels (18)&amp;#039; was published on March 23, 2026. The chapter continues the story of Rin heading to Atami where Hasumi is staying after helping President Nishikawa.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Story Arc Conclusion:&lt;/strong&gt; The long-running &amp;#039;Day of Dancing Angels&amp;#039; arc is approaching its end. The mysterious character referred to as &amp;#039;Daishu&amp;#039; (uncle) continues to intrigue readers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Publication Schedule:&lt;/strong&gt; The next chapter will be published on April 6, 2026. The current chapter will remain available until May 25, 2026.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Book Release:&lt;/strong&gt; Author Hiroshi Matsuyama published &amp;#039;Game Industry Strategy Guide&amp;#039; on February 16, 2026, coinciding with CyberConnect2&amp;#039;s 30th anniversary. The book serves as a guide for aspiring game industry professionals and includes actual portfolio examples from successful applicants.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Sales Rankings:&lt;/strong&gt; Amazon sales rankings show Pokemon-related products dominating the top positions, along with Minecraft and PlayStation accessories. Rankings are updated hourly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21431&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ドラマ『チェイサーゲームW』公式ノベライズ『小説 チェイサーゲームW』6巻配信開始！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《ChaseGame W》官方小说第6卷配信，讲述女性复仇爱憎剧。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文宣布电视剧《ChaseGame W》官方小说化作品第6卷开始配信，这是为纪念同名电影5月上映而推出的系列出版计划。小说以电视剧为基础，增加了原创内容和人物心理描写，讲述女性间的复仇爱憎故事。第6卷聚焦主角树在被解除职务后追查内部间谍的情节。作品由CyberConnect2制作，在多个电子书平台发售。文章同时介绍了即将上映的续篇电影信息。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为纪念电影《ChaseGame W 水鱼之交》5月15日上映，电视剧《ChaseGame W》官方小说化作品将隔周发布单行本，第6卷于3月20日开始配信。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小说版《ChaseGame W》描绘女性之间的复仇爱憎剧，以电视剧故事为中心，增加了原创故事、人物心理描写以及树与冬雨的官能场景，从新视角讲述故事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第6卷讲述树为保护爱人打倒吕麻美后被解除组长职务，在追查团队内部间谍疑云时发现了令人震惊的真相。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作品由CyberConnect2的松山洋总监修，保坂星耀负责小说脚本，售价660日元，在Apple Books、Kindle等多个平台配信。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影《ChaseGame W 水鱼之交》将于5月15日全国上映，由菅井友香和中村百合香W主演，是电视剧系列的续篇电影化作品。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/107690&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 六款创新应用涵盖浏览器、隐私保护、AI 搜索、命令行工具、生活记录和屏幕录制&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期派评介绍了六款值得关注的应用。Beam Browser 为 iPad 打造专属浏览体验，采用侧边栏设计和工作空间管理；SnapSafe 提供间谍级别的照片加密保护；Comet for iOS 将 AI 浏览器带到移动端，支持语音交互和混合搜索；Readwise CLI 让用户通过命令行管理稍后读内容；Momentum 用每日一拍记录生活变化；Recordly 提供一站式屏幕录制和编辑方案。此外还报道了 Apple 收购 MotionVFX 及 Lux 团队内部纠纷等行业动态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Beam Browser 是一款专为 iPadOS 设计的浏览器，采用侧边栏纵向排列标签，支持工作空间、命令栏、快捷键操作和 AI 功能，将 iPad 打造为生产力工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;SnapSafe 是一款开源加密相机应用，从底层禁止联网和系统备份，支持自动清除 EXIF 元数据、人脸模糊处理，并提供「毒丸密码」等极端隐私保护功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Comet for iOS 是 Perplexity 推出的 AI 浏览器移动版，集成 AI 助手和语音交互模式，支持混合搜索机制，能根据问题复杂度自动选择 Google Search 或 AI 深度研究。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Readwise CLI 是稍后读工具的命令行版本，支持通过终端搜索文档、保存 URL、列出笔记等操作，可与 AI agent 配合使用，并提供 MCP 服务连接。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Momentum 是一款每日拍照记录应用，通过整理手机已有照片记录事物变化，支持设置提醒、添加描述和收藏，可将多张照片生成蒙太奇视频，内置人脸识别功能优化视频效果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Recordly 是一款屏幕录制工具，自动记录鼠标轨迹和操作，提供简易编辑器支持剪辑、变速、缩放和注释等功能，可调整鼠标指针、摄像头浮窗等演示相关设置，完全免费开源。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/85735&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Mac 选购指南 2026 春季版&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年春季Mac产品线全面更新选购指南&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是2026年春季Mac选购指南，详细介绍了Apple在3月发布的新品，包括配备M5 Pro/Max的MacBook Pro、首款采用iPhone芯片的MacBook Neo、M5版MacBook Air和两款新显示器。文章从性能、价格、配置等多维度对比分析了各款产品，特别关注MacBook Neo与MacBook Air、15英寸Air与14英寸Pro的选择，并提供了国补政策、内存选择、AppleCare+、雷雳5等实用购买建议。作者借鉴乔布斯时代的四象限分类法，强调用户应根据性能需求和便携性明确个人需求后再做决策，避免配置过剩和预算陷阱。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (13 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年3月，Apple通过新闻稿和线下体验活动更新了Mac产品线，包括配备M5 Pro和M5 Max的MacBook Pro、首款采用iPhone芯片的MacBook Neo、配备M5芯片的MacBook Air，以及两款新显示器Studio Display和Studio Display XDR。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章提供了Mac选购的阅读指南，建议熟悉产品线的用户直接查看购买细节部分，不熟悉的用户从性能与可移动性分类开始了解，根据个人需求和预算做出选择。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;M5 Pro和M5 Max芯片采用新的融合架构，整合多个模块，GPU核心加入神经网络加速器，AI性能大幅提升。新款MacBook Pro标配1TB硬盘，支持PCIe 5.0，配备Wi-Fi 7和蓝牙6，键盘刻印改为图标。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;MacBook Neo采用A18 Pro芯片，单核性能强劲但多核性能和GPU持续性能不如M1 MacBook Air，仅支持8GB内存。对于日常轻度使用，MacBook Neo作为全新设备更具优势，但需要持续GPU性能的用户应选择更高配置的MacBook Air。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;15英寸MacBook Air和14英寸MacBook Pro的主要区别在于散热系统、屏幕素质、扬声器、接口数量和续航。MacBook Pro支持风扇散热、mini-LED屏幕、ProMotion、更多接口和更长续航，但MacBook Air提供更大屏幕和更轻薄机身，性价比更高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年国补政策可补贴电脑售价的15%（最高1500元），但补贴商品范围和SKU可能受限，且可能提前结束。部分地区支持线下门店补贴，教育优惠和国补在某些授权店可叠加使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;随着Apple智能引入，Mac产品线起步内存提升至16GB（MacBook Neo除外），基本满足大多数用户需求。用户可通过活动监视器观察内存压力判断是否需要更高内存，建议选择16GB或以上配置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AppleCare+为Mac提供3年保修和意外损坏保护，价格与Mac型号相关。对于经常移动使用的MacBook较为值得，因维修费用高昂；台式机则主要考虑延长保修需求。新机激活后60天内可购买。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;雷雳5支持120 Gbps数据传输、240W供电和DisplayPort 2.1显示输出，但目前支持的配件较少。对普通用户而言雷雳4已足够，但雷雳5为专业用户提供了面向未来的保障。新款Studio Display支持雷雳5和菊花链连接。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章借鉴乔布斯时代的Mac四象限分类法，从性能需求和便携性两个维度分析Mac产品线。强调用户应先明确需求再购买，避免陷入预算陷阱购买配置过剩的机器。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;MacBook Neo是首款采用A系列芯片的消费级Mac，提供多彩设计和极低价格，配置选项最少。采用A18 Pro处理器，单核性能接近M4，但仅8GB内存限制了多任务处理能力，更适合轻量应用和入门Mac生态的用户。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;MacBook Neo在设计上采用多彩外壳和浅色键盘，但厚度比MacBook Air多1.4毫米，触控板不支持力度触控，屏幕仅支持sRGB色域，端口为USB 2和USB 3的USB-C接口，仅512GB机型配备触控ID。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;MacBook Neo虽然性能相对羸弱，但以极低价格提供完整macOS体验，对于想要入门Mac生态、预算紧张或需要可移动Apple生态设备的用户来说是值得考虑的选择。2026年3月还发布了配备M5处理器的MacBook Air。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106993&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一日一技｜基于 Tasker 的节假日补班闹钟怎么做？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 教你用Tasker实现原生Android的自动补班闹钟&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文针对原生Android用户在节假日调休补班时的闹钟设置难题，提供了基于Tasker的自动化解决方案。通过订阅在线节假日日历，利用Tasker创建智能任务，系统可以根据日历活动中的「假期」或「补班」关键字，在每天凌晨自动判断当日是否需要设置闹钟。文章详细讲解了从订阅Google日历、同步到手机端，到在Tasker中创建多个变量条件和触发规则的完整操作流程，帮助非国行Android和Pixel用户实现与国产手机同样便捷的自动补班闹钟功能。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了国内节假日调休补班带来的闹钟设置问题，指出国产Android手机和iPhone都有相应解决方案，但原生Android用户缺乏自动化工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;实现原理是通过订阅节假日日历，让系统根据日历活动中的关键字自动创建闹钟，核心流程包括订阅日历、设定规则、凌晨检查并创建闹钟。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一步是在Google日历Web端订阅中国节假日调休补班日历，通过添加在线日历链接完成订阅。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二步是在Android手机的Google日历应用中打开并同步订阅的日历，确保Tasker能够读取日历活动标题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三步是在Tasker中创建自动化任务，通过设置多个变量条件判断当天是否需要上班，包括检查是否为工作日、是否包含假期或补班关键字，最后设置闹钟触发条件为每天凌晨00:05执行检查。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - March 22, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1829,208 +2069,6 @@ Could you paste the actual article text you&amp;#039;d like me to summarize? Onc
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;微软在GDC 2026上宣布重启Xbox向后兼容计划，旨在让玩家在现款及未来的Xbox平台上游玩更多经典Xbox初代与Xbox 360游戏。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Valve在GDC 2026上公布了Steam Machine与Steam Frame的硬件验证Verified标签要求，Steam Machine的性能基准为原生1080p分辨率下维持30 FPS。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Mozilla宣布将Firefox 115 ESR对老旧操作系统的支持周期从2026年3月延长至2026年8月，适用于Windows 7、Windows 8.1以及macOS 10.12-10.14等系统。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - March 12, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-03-12</id>
-    <updated>2026-03-12T20:14:12.715Z</updated>
-    <published>2026-03-12T20:14:12.715Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>10 articles from 5 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - March 12, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;77.8082191780822&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#4285f4&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    19.5%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;71&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;294&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q1&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;10&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████░░░░░░░░░░░░░░░░░░░░░░░░ 19.5%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;10&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22453&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;What a fantastic bunch of speakers! Thank you all for making #WebDayOut so great!&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 感谢WebDayOut活动演讲者的精彩表现&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条关于#WebDayOut活动的社交媒体帖子,发布于2026年3月12日。作者对活动的演讲者表示感谢,认为他们让这次活动非常成功。帖子包含了地理位置信息(北纬51度,东经0度),并在Mastodon和Bluesky平台上同步发布。帖子获得了12个点赞,来自不同的用户,时间跨度从下午5点16分到晚上7点46分。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22452&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Lo-fi selfie with Manu&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一条获得19个点赞的社交媒体自拍帖子&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇社交媒体帖子，发布于2026年3月12日早上7点25分，包含一张lo-fi风格的自拍照片。帖子获得了19个点赞，来自web开发和设计社区的多位成员，包括Markus Günther、Max Böck、Daniel Burka等人。帖子还包含地理位置信息（北纬51度，东经0度）以及Mastodon和Bluesky平台的交叉发布链接，体现了IndieWeb社区的互动特征。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sboots.ca/2026/03/11/generative-ai-vegetarianism/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Generative AI vegetarianism | Sean Boots&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Advocates avoiding generative AI tools due to bias, skill erosion, creative exploitation, knowledge theft, accountability issues, and environmental harm.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
-
-The article argues for &amp;quot;generative AI vegetarianism&amp;quot;—deliberately avoiding AI tools that generate content from scraped internet data—due to fundamental concerns about their societal impact. The author contends these systems perpetuate bias and discrimination, undermine skill development and critical thinking by optimizing for predictable output, and destroy creative professions while exploiting low-wage workers. Additionally, generative AI damages collaborative knowledge-sharing by scraping content without compensation, obscures accountability for harmful decisions, and consumes massive resources through energy-intensive data centers. The piece advocates for writing your own content, thinking independently, and supporting creators who reject these tools.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining AI Vegetarianism:&lt;/strong&gt; Generative AI vegetarianism means actively avoiding AI tools in daily life by turning off optional AI features, not using built-in AI capabilities, and choosing software without AI integration. It&amp;#039;s a deliberate choice to write your own content, think independently, and support creators who avoid generative AI tools.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Understanding Generative AI:&lt;/strong&gt; Generative AI tools produce text, images, or media using minimal interfaces, massive scraped internet data, and transformer-based mathematical predictions. These systems differ from older AI features like spam detection or facial recognition by generating content from comprehensive datasets of publicly available information.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bias and Discrimination:&lt;/strong&gt; Generative AI tools contain uncontrollable bias, discrimination, and racism stemming from training data, company leadership politics, and adoption by harmful actors. These negative effects disproportionately impact women and marginalized groups while degrading society&amp;#039;s ability to distinguish reality.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Skill and Creativity Loss:&lt;/strong&gt; Using generative AI shortcuts the difficult process of building skills and craft, undermining critical thinking and creativity. These tools optimize for predictable, clichéd output rather than insightful content, excluding counter-intuitive ideas that provide the most value.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Economic and Labor Impact:&lt;/strong&gt; The generative AI industry destroys creative occupations like writing, illustration, and music while depending on exploitative low-paid labor in developing countries. Widespread adoption leads to precarious employment, layoffs, and organizational cultures that devalue workers while concentrating power among the already powerful.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Information Ecosystem Damage:&lt;/strong&gt; Generative AI&amp;#039;s practice of scraping content without compensation incentivizes information restriction rather than sharing. This approach damages open source movements and collaborative efforts like Wikipedia that benefit society, while creating vendor lock-in risks for organizations.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Accountability and Transparency:&lt;/strong&gt; Generative AI tools serve as &amp;quot;accountability sinks&amp;quot; that obscure human decision-makers behind harmful choices. This makes it harder for civil society, opposition politicians, and media to identify who is responsible for decisions causing individual or societal harm.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Environmental Resource Consumption:&lt;/strong&gt; Generative AI tools and their supporting data centers consume vast quantities of electricity and resources. The rapid expansion of new data centers disrupts communities with minimal local benefits in return.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CSS新属性corner-shape突破圆角限制，带来多样化角形状设计可能&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了CSS新属性corner-shape，它突破了border-radius只能实现圆角的限制，支持squircle、bevel、scoop、notch等多种角形状。作者强调应采用渐进增强策略，先用现有技术建立基础样式，再为支持的浏览器提供升级体验。文章通过产品卡片、按钮组件、推荐卡片和定价卡片四个实际案例，展示了corner-shape在不同设计场景中的应用，包括如何创建丝带徽章、实现形状过渡动画、搭配不同字体风格，以及建立视觉层次。corner-shape目前仅在Chrome 139+中支持，但作者认为它将像当年的border-radius一样改变网页设计。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了网页设计中圆角实现的演变历程，从早期需要多张背景图片的复杂方案，到border-radius的出现带来的革命性改变，再到如今仍然受限于只能实现圆形角的局限性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;corner-shape属性是border-radius的配套属性，它不替代而是修改border-radius创建的曲线形状，支持round、squircle、bevel、scoop、notch、square等多种值，可以为每个角设置不同的形状。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者强调渐进增强的重要性，指出corner-shape目前仅在Chrome 139+及Chromium浏览器中支持，但应该像当年的border-radius一样，先用现有技术建立良好的基础样式，再为支持的浏览器提供升级体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一个演示展示了电商产品卡片上的丝带徽章，基础版使用简单的border-radius，增强版使用corner-shape创建方向性丝带效果，卡片本身升级为squircle形状，带来更高级的视觉效果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二个演示是组件库案例，展示了按钮、标签等日常UI元素的应用，不同按钮类型使用不同的corner-shape值，主按钮在悬停时从bevel平滑过渡到squircle，状态标签使用notch创造机械冲压的外观。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三个演示是推荐卡片，使用衬线字体和温暖色调，特色卡片采用scoop角创造有机手工感，偶数卡片混合使用scoop和round，头像从圆形升级为squircle，整体呼应编辑设计风格。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第四个演示是定价卡片，常规方案使用squircle营造高级感，特色方案使用scoop的凹角立即脱颖而出，徽章使用bevel形状，行动按钮使用squircle，通过corner-shape建立清晰的视觉层次。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-03-12T06:37Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-03-12T06:37Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 geolocation元素设计复杂且实用性存疑&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章讨论了HTML geolocation元素的设计问题和实用性困境。作者认为该元素比预期更复杂，既不能作为纯JavaScript API以防滥用，又无法在表单中无需脚本使用。作者质疑地理坐标的实际价值，指出地图显示和地址转换都依赖Google、Mapbox等第三方服务，这些服务已经很好地解决了定位问题。作者对用户体验表示担忧，认为geolocation可能像cookie横幅一样被用户盲目接受或完全屏蔽，并计划使用浏览器扩展移除该功能。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者Manuel Matuzović认为geolocation元素很奇怪，比预想的更复杂，无法简单作为JavaScript API使用以防滥用，用户体验类似cookie横幅和网页通知。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者困惑为何geolocation不能在表单中无需JavaScript使用，并质疑地理坐标的实用性，认为地图服务和地址反向编码都需要第三方服务如Google、Mapbox等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者计划使用uBlock Origin等扩展屏蔽该功能，测试时发现macOS需要为每个应用单独启用位置服务，导致浏览器确认失败。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106746&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度征文｜效率之外，创作的重量&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI时代创作的价值在于承担表达的重量而非追求效率&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派2025年度征文的参赛作品，作者从AI红包的荒诞性出发，深入探讨AI时代创作的本质。作者认为AI虽然在效率和模仿上超越人类，但真正的创作不是技术套利，而是承担表达重量、为矛盾负责的行为。通过分享个人从功利性创作到深度思考的转变，作者指出创作的核心在于提问而非答案，在于停留而非生成。文章以人类学视角收尾，强调创作者必须为自己的判断负责，即使那只是此刻的偏见。作者认为AI时代反而让创作者有机会更早面对创作的真正核心——那些需要时间沉淀、无法被效率取代的思考与表达。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过奶奶发来的AI红包链接，反思AI以传统方式进入生活的荒诞性，指出AI在短时间内无法抗拒地嵌入生活各个角落，人们来不及思考就开始使用它。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者质疑AI发展的乌托邦叙事，将AI卖课热潮类比为气功浪潮，指出在不确定的现实中，创作者需要思考如何在AI高效模仿的时代确立自己的位置。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为AI驱动的批量内容生产是技术套利而非创作，真正的创作应是确认自我存在、思考表达边界、抵抗效率的行为，而非单纯追求流量。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享自己从功利性创作到深度思考的转变过程，指出创作的核心在于提问和思考，AI只能提供答案却无法承受现实重量，创作的重要部分在于为矛盾和表达负责。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾自己过去创作中未解答的问题，认为真实创作状态是承担困惑和未来偏差，而非AI式的完美自洽，创作需要承重而非轻盈。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者讨论征文赛道设置的矛盾性，认为思考具有连续性和立场，无法完全分裂为使用AI和不使用AI两种独立逻辑，真实创作无法彻底抽离。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享个人创作起点，从模仿到参与少数派和机核平台，认识到内容创作的可及性，指出人与AI的区别在于创作目的而非学习方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为AI时代创作是一种幸运，因为AI完成了像模像样的部分，让创作者有更多时间思考真正重要的部分，堵死捷径反而让人更早面对核心问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者引用人类学家的旅行描述，强调时间与遗忘对理解的重要性，指出创作需要真正的停留和耗费时间,创作者必须为自己的判断和偏见负责。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106982&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Notion 年度更新评测：7 个案例聊聊 Custom Agent&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Notion Custom Agent让AI自动执行工作流，激活历史积累&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细评测了Notion的Custom Agent功能，这是一个能够自动执行复杂工作流的AI代理系统。作者通过七个真实案例展示了从简单的定时简报到复杂的跨平台发布流程，说明Custom Agent如何通过触发器、指令和模型配置实现无人值守的自动化。文章特别强调了该功能能够激活用户在Notion中多年积累的笔记和数据，将沉睡资源转化为可调用的知识库。同时也指出了积分成本高昂、功能边界有限、强依赖Notion生态等不足。作者认为Custom Agent最适合深度Notion用户，能显著提升工作效率，但需要持续调整优化才能发挥最大价值。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在1月份获得Notion Custom Agent的Beta权限后，创建了十几个全自动工作流，工作效率显著提升。Custom Agent是Notion本年度最重磅的新功能，它能让AI自动执行任务而无需人工干预，将用户的产出系数从1提升到100。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Custom Agent的创建需要订阅商业版会员，通过设置触发器、指令、模型等参数来定义虚拟员工的工作方式。它可以通过MCP和Notion Worker连接外部服务，对于普通用户来说是目前最直观易用的智能代理方案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章通过七个从简单到复杂的真实案例展示Custom Agent的能力：早晨简报自动汇总每日任务、任务跟进自动填写行动建议、处理邮件自动提取关键信息入库、智能客服自动回复用户咨询、选题助手自动检索素材生成大纲、推特助手自动发布内容、博客助手完成从优化到多语言发布的11步流程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了三个实践经验：采用邮件路由模式减少Credits消耗、先有明确问题再让Agent检索而非随机推送、建好Agent后需要持续调整优化。同时指出了三个不足：积分价格昂贵（约300美元/月）、Worker功能边界有限且偶有权限问题、价值与用户在Notion的积累深度强绑定。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后强调Custom Agent的核心价值在于激活用户在Notion中的历史积累，让过去的笔记、数据库等沉睡资源变成可自动调用的燃料。但它只适合深度Notion用户，对于新用户或轻度用户意义不大。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106919&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度征文｜Vibe Research：社会科学的第一次 AI 危机？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI正引发社会科学研究范式转变&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨AI对社会科学研究的深刻影响，作者将其称为社会科学的第一次AI危机。文章回顾了从复制粘贴到Vibe Research的三阶段演变，展示2026年AI已能高效完成数据分析、文献综述等技术性工作。学术界对AI的抵制源于未尝试、既得利益和努力等于价值的执念，但也有学者从怀疑转向接受。AI在定量和定性研究中都展现潜力，正在重塑学术发表体系。作者强调Vibe Research不是不思考，而是将思考重心从执行转向判断，AI放大的是研究者已有的品味和判断力。真正的危机不在AI本身，而在于知识生产体系的既有困境。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;美国圣母大学教授Alexander Kustov发表文章称AI已能比多数教授更好地进行社会科学研究，文章本身由Claude Code生成，引发学术圈激烈争论，作者将此称为社会科学的第一次AI危机。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Andrej Karpathy提出Vibe Coding概念，即凭感觉编程让AI处理具体实现。类似地，Vibe Research正在科研领域兴起，研究者不再亲手处理技术性工作，而是专注于提出问题和做出判断，这引发了关于研究者核心价值的根本性讨论。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的AI科研经历分为三个阶段：复制粘贴时代（2025年前）将AI作为润色工具、编辑器内协作阶段（2025上半年）使用Cursor实现本地协作、Vibe Research阶段（2025下半年至今）AI能理解整个项目结构并提供构思层面建议。每次跃迁间隔缩短，改变的不仅是效率更是思维方式本身。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年AI科研能力远超想象但未到无脑使用程度。斯坦福教授Andy Hall让Claude在一小时内复现其PNAS论文，Vincent Grégoire四天用AI写完学术论文，苏黎世大学Project APE用AI生成204篇经济学论文。多位学者认为AI正在把科学约束从生产端转向评估端，一人研究团队模型已触手可及。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vibe Research不等于不思考，AI放大的是研究者已有的判断力而非凭空创造。使用者需具备研究素养才能产出高质量成果，AI让研究者更快但没让其更聪明，研究的品味和方向仍必须来自人类。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;学术界对AI的抵制分三个层次：没试过就下判断、既得利益受威胁、深层执念认为努力等于价值。最激烈的反对往往来自资深教授而非年轻学者，反映出对旧体系中建立地位的保护。技能萎缩是合理担忧，但每次技术进步都伴随某些技能萎缩和新技能生长。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;也有学者从怀疑转向接受AI。哥伦比亚大学教授Chris Blattman从怀疑者变为用Claude Code创建个人管理工具并建立网站分享经验。转变者的共同点是知识诚实，愿意先试再评判。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;定性研究中AI应用潜力被低估。AI可提升定性研究透明度和科学性，LSE开发的AI访谈平台显示AI访谈质量相当于一般水平人类专家。作者用AI辅助访谈编码，准确率70-80%，大幅提升效率。AI在定性研究中应是辅助者，人类和AI可互为copilot各取所长。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI正动摇学术发表基础设施。如果论文生产成本降至百分之一，投稿量翻五倍，顶刊录用率将从5%暴跌至1%，科学约束从生产端转向评估端。学者认为应回归本质问题，未来学术成果可能是可复现代码仓库而非30页PDF。2026年春节期间中文互联网涌现学生自办刊物，折射出对发表或灭亡体制的反叛。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为Writing prompt is also thinking，写好prompt同样需要良好思维能力。AI时代品味很重要但品味来自长期实践。Vibe Research是把思考重心从执行转移到判断，AI做繁重基础工作让研究者专注于真正需要人类智慧的地方。学术界的危机不是因为AI，而是整个知识生产体系已陷入困境。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/107110&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Google 发布 Gemini Embedding 2 模型等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技行业五大产品技术更新速览&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了科技行业的五条重要动态。Google推出首个多模态嵌入模型Gemini Embedding 2，支持跨媒体类型的语义分析；联发科发布多款IoT芯片平台，覆盖高中低端市场；ComfyUI通过新功能降低使用门槛，让复杂工作流应用化；罗德推出专业音视频制作设备Caster Video Core；掌阅发布新旗舰电纸书Neo 3 Ultra。这些产品和技术更新体现了AI、物联网、内容创作工具和阅读设备领域的最新进展，展现了技术向更易用、更强大方向发展的趋势。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google发布了首个原生多模态嵌入模型Gemini Embedding 2，可将文本、图像、视频和文档映射到同一嵌入空间，支持100种语言的语义识别，已通过Gemini API和Vertex AI提供公开预览。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;联发科在Embedded World 2026展会上发布多个IoT SoC平台，包括采用3nm制程的高端Genio Pro、6nm制程的Genio 420以及定位更低的Genio 360系列，分别针对不同应用场景提供AI算力支持。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ComfyUI推出App Mode、App Builder和ComfyHub三项新功能，可将专业节点式工作流转化为简化应用界面，让普通用户也能使用复杂工作流，目前已在Comfy Cloud和Comfy Local开放。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;罗德RØDE发布Caster Video Core一体化音视频制作解决方案，搭载八核CPU，支持4路视频源切换、3路1080P HDMI输入，配备多种音频接口，可连接调音台实现双机位直播。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;掌阅发布iReader Neo 3 Ultra电纸书阅读器，搭载8核处理器性能提升200%，采用Carta 1300材质300PPI凹屏，配备超刷技术和iClean 2.0算法消除残影，售价1499元。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/03/arkclaw.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;零安装的&amp;quot;云养虾&amp;quot;：ArkClaw 使用指南&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 ByteDance&amp;#039;s ArkClaw offers zero-installation cloud automation with 24/7 scheduling, integrating their AI ecosystem and 20,000 community Skills for 49.9 yuan/month.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;ArkClaw is ByteDance&amp;#039;s zero-installation cloud implementation of OpenClaw (龙虾), China&amp;#039;s viral AI automation software, bundled with their Coding Plan Pro subscription (49.9 yuan/month introductory). Unlike local OpenClaw installations that automate personal devices, ArkClaw runs on ByteDance&amp;#039;s cloud infrastructure enabling 24/7 automation, scheduled tasks, and web service integration without local hardware. The platform provides a simplified natural language interface for web scraping, mobile notifications (Feishu/DingTalk/WeChat Work), and access to nearly 20,000 community-created Skills from ClawHub.ai that extend functionality through downloadable instruction packages. ArkClaw deeply integrates ByteDance&amp;#039;s ecosystem—including Seed 2.0 AI models, TOS object storage, and Feishu—while offering terminal access to underlying Ubuntu servers for advanced users. This cloud-native approach eliminates the setup complexity that spawned crowded offline installation events and paid installation services across China.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;OpenClaw AI Phenomenon:&lt;/strong&gt; OpenClaw (龙虾) has become a viral AI software sensation in China, generating massive public interest including coverage from national media and government representatives. The popularity has led to crowded offline installation events and thriving paid installation services.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;ArkClaw Introduction:&lt;/strong&gt; ArkClaw is a zero-installation solution that provides pre-configured OpenClaw access through ByteDance&amp;#039;s cloud infrastructure. It&amp;#039;s bundled free with ByteDance&amp;#039;s Coding Plan subscription (Pro tier at 49.9 yuan first month), eliminating setup complexity.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cloud vs Local:&lt;/strong&gt; OpenClaw can run locally for automating personal devices and files, or in the cloud for 24/7 network service automation. ArkClaw&amp;#039;s cloud-based approach enables continuous online operations, scheduled tasks, and integration with web services without local hardware requirements.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Core Features:&lt;/strong&gt; ArkClaw offers a simplified interface for web scraping, mobile notifications via Feishu/DingTalk/WeChat Work integration, and scheduled task automation. Users interact through natural language commands in a streamlined chat interface built on Ubuntu servers.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Skills Ecosystem:&lt;/strong&gt; OpenClaw&amp;#039;s capabilities extend through Skills - downloadable instruction packages that teach the AI new tasks. ClawHub.ai hosts nearly 20,000 community-created Skills, enabling functionality like map queries and platform-specific content generation through natural language installation.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Advanced Configuration:&lt;/strong&gt; ArkClaw provides terminal access to the underlying Ubuntu system, supports multiple AI models from the Coding Plan suite, and integrates with ByteDance&amp;#039;s TOS object storage for unlimited file management. The deep integration with ByteDance&amp;#039;s ecosystem (Seed 2.0 model, Feishu, cloud storage) creates a seamless experience.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
