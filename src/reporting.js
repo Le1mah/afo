@@ -26,7 +26,12 @@ export const createReportCollector = () => {
       enableFullArticleFetch: config.enableFullArticleFetch,
       digestCacheEnabled: config.digestCacheEnabled,
       dateFilterEnabled: config.dateFilterEnabled,
+      openaiModels: config.openaiModels,
       openaiModel: config.openaiModel,
+    },
+    models: {
+      used: {},
+      itemsWithFallback: 0,
     },
     feeds: {
       total: 0,
@@ -98,7 +103,7 @@ export const recordFeedArticles = (report, feedTitle, articleCount) => {
  * @param {Error} [error] - Error if failed
  * @param {string} [itemTitle] - Item title
  */
-export const recordItemResult = (report, status, processingTime = 0, error = null, itemTitle = '') => {
+export const recordItemResult = (report, status, processingTime = 0, error = null, itemTitle = '', metadata = {}) => {
   report.items.total++;
   
   switch (status) {
@@ -129,6 +134,14 @@ export const recordItemResult = (report, status, processingTime = 0, error = nul
   
   if (processingTime > 0) {
     report.performance.processingTimes.push(processingTime);
+  }
+
+  const successfulModel = metadata.modelUsage?.successfulModel;
+  if (successfulModel) {
+    report.models.used[successfulModel] = (report.models.used[successfulModel] || 0) + 1;
+  }
+  if ((metadata.modelUsage?.usedModels?.length || 0) > 1) {
+    report.models.itemsWithFallback++;
   }
 };
 
@@ -208,7 +221,7 @@ export const generateMarkdownReport = (report) => {
   
   lines.push('## Configuration');
   lines.push('');
-  lines.push(`- **Model:** ${report.config.openaiModel}`);
+  lines.push(`- **Models:** ${(report.config.openaiModels || [report.config.openaiModel]).join(', ')}`);
   lines.push(`- **Max Feeds:** ${report.config.maxFeeds}`);
   lines.push(`- **Date Filter:** ${report.config.dateFilterEnabled ? 'Enabled (daily mode)' : 'Disabled (legacy mode)'}`);
   if (!report.config.dateFilterEnabled) {
@@ -258,6 +271,16 @@ export const generateMarkdownReport = (report) => {
   lines.push(`- **Skipped:** ${report.items.skipped}`);
   lines.push(`- **From Cache:** ${report.items.cached}`);
   lines.push('');
+
+  if (Object.keys(report.models.used || {}).length > 0) {
+    lines.push('### Model Usage');
+    lines.push('');
+    for (const [model, count] of Object.entries(report.models.used).sort((a, b) => b[1] - a[1])) {
+      lines.push(`- **${model}:** ${count} items`);
+    }
+    lines.push(`- **Items Using Fallback:** ${report.models.itemsWithFallback}`);
+    lines.push('');
+  }
   
   if (report.items.errors.length > 0) {
     lines.push('### Item Errors');
@@ -336,6 +359,12 @@ export const printReportSummary = (report) => {
   console.log(`Feeds Checked: ${report.feeds.total}`);
   console.log(`Feeds with Articles: ${report.feeds.withArticles || 0}`);
   console.log(`Articles Processed: ${report.items.successful}/${report.items.total} successful`);
+  if (Object.keys(report.models.used || {}).length > 0) {
+    console.log(`Models Used: ${Object.entries(report.models.used).map(([model, count]) => `${model} (${count})`).join(', ')}`);
+    if (report.models.itemsWithFallback > 0) {
+      console.log(`Fallback Invocations: ${report.models.itemsWithFallback}`);
+    }
+  }
   
   if (report.items.cached > 0) {
     console.log(`  └─ From Cache: ${report.items.cached}`);
@@ -348,4 +377,3 @@ export const printReportSummary = (report) => {
   }
   console.log('='.repeat(60) + '\n');
 };
-

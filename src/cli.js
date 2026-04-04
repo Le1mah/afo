@@ -149,6 +149,7 @@ const applyOptions = (options) => {
       maxItemsPerFeed: config.maxItemsPerFeed,
       maxConcurrentFeeds: config.maxConcurrentFeeds,
       maxConcurrentItems: config.maxConcurrentItems,
+      openaiModels: config.openaiModels,
       openaiModel: config.openaiModel,
       enableFullArticleFetch: config.enableFullArticleFetch,
       digestCacheEnabled: config.digestCacheEnabled,
@@ -248,4 +249,3 @@ runCli().catch((error) => {
   console.error('Fatal CLI error:', error);
   process.exitCode = 1;
 });
-

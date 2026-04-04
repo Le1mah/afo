@@ -28,6 +28,7 @@ import {
   runExtensions,
   formatExtensionSections,
 } from './extensions/index.js';
+import { createChatCompletionWithFallback } from './model-fallback.js';
 
 loadEnvFile();
 
@@ -681,15 +682,25 @@ const writeOutput = async (outputPath, atomXml) => {
  * Verify API key is valid by making a test call
  */
 const verifyApiKey = async (client) => {
-  console.log('🔐 Verifying API key...');
+  console.log('🔐 Verifying API key and model availability...');
   try {
-    const response = await client.chat.completions.create({
-      model: config.openaiModel,
-      messages: [{ role: 'user', content: 'test' }],
-      max_tokens: 5,
-    });
+    const { model } = await createChatCompletionWithFallback(
+      client,
+      {
+        messages: [{ role: 'user', content: 'test' }],
+        max_tokens: 5,
+      },
+      {
+        onModelFallback: (error, failedModel, nextModel) => {
+          console.warn(`⚠️  Verification failed for model ${failedModel}: ${error.message}`);
+          console.warn(`→ Trying fallback model ${nextModel}`);
+        },
+      }
+    );
+
     console.log('✓ API key verified successfully');
-    console.log(`✓ Model: ${config.openaiModel}`);
+    console.log(`✓ Available models: ${config.openaiModels.join(', ')}`);
+    console.log(`✓ Verification succeeded with model: ${model}`);
     console.log(`✓ Base URL: ${config.openaiBaseUrl || 'default (OpenAI)'}`);
     return true;
   } catch (error) {
@@ -802,8 +813,13 @@ export const main = async () => {
           const digest = await generateMultiLayerDigest(openai, item);
           digests.push(digest);
           const processingTime = Date.now() - itemStartTime;
-          recordItemResult(report, 'success', processingTime, null, item.title);
+          recordItemResult(report, 'success', processingTime, null, item.title, {
+            modelUsage: digest.modelUsage,
+          });
           console.log(`      ✓ Completed in ${processingTime}ms`);
+          if (digest.modelUsage?.successfulModel) {
+            console.log(`      ✓ Model used: ${digest.modelUsage.successfulModel}`);
+          }
         } catch (error) {
           console.error(`      ✗ Failed: ${error.message}`);
           recordItemResult(report, 'failed', Date.now() - itemStartTime, error, item.title);
@@ -854,8 +870,13 @@ export const main = async () => {
             const digest = await generateMultiLayerDigest(openai, item);
             digests.push(digest);
             const processingTime = Date.now() - itemStartTime;
-            recordItemResult(report, 'success', processingTime, null, item.title);
+            recordItemResult(report, 'success', processingTime, null, item.title, {
+              modelUsage: digest.modelUsage,
+            });
             console.log(`      ✓ Completed in ${processingTime}ms`);
+            if (digest.modelUsage?.successfulModel) {
+              console.log(`      ✓ Model used: ${digest.modelUsage.successfulModel}`);
+            }
           } catch (error) {
             console.error(`      ✗ Failed: ${error.message}`);
             recordItemResult(report, 'failed', Date.now() - itemStartTime, error, item.title);

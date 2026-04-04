@@ -3,7 +3,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import { config } from './config.js';
 import { fetchArticleContent, truncateText } from './content-fetcher.js';
-import { retryOnError } from './retry.js';
+import { createChatCompletionWithFallback } from './model-fallback.js';
 
 // Load custom prompt if it exists
 let customPrompt = null;
@@ -97,27 +97,34 @@ const writeDigestCache = async (itemHash, digest) => {
  * @param {string} userPrompt - User prompt
  * @returns {Promise<string>} Generated text
  */
-const callOpenAI = async (client, systemPrompt, userPrompt) => {
-  const response = await retryOnError(
-    async () => {
-      return await client.chat.completions.create({
-        model: config.openaiModel,
-        messages: [
-          { role: 'system', content: systemPrompt },
-          { role: 'user', content: userPrompt },
-        ],
-        temperature: 0.7,
-        max_tokens: 2000,
-      });
+const callOpenAI = async (client, systemPrompt, userPrompt, modelTracker = null) => {
+  const { response, model } = await createChatCompletionWithFallback(
+    client,
+    {
+      messages: [
+        { role: 'system', content: systemPrompt },
+        { role: 'user', content: userPrompt },
+      ],
+      temperature: 0.7,
+      max_tokens: 2000,
     },
     {
-      onRetry: (error, attempt, delay) => {
-        console.warn(`OpenAI API retry ${attempt} after ${delay}ms: ${error.message}`);
+      onModelFallback: (error, failedModel, nextModel) => {
+        console.warn(`  ⚠️  Model ${failedModel} failed: ${error.message}`);
+        console.warn(`  → Falling back to model ${nextModel}`);
       },
     }
   );
-  
-  return response.choices?.[0]?.message?.content?.trim() || '';
+
+  if (modelTracker) {
+    modelTracker.successfulModel = model;
+    modelTracker.usedModels.add(model);
+  }
+
+  return {
+    content: response.choices?.[0]?.message?.content?.trim() || '',
+    model,
+  };
 };
 
 /**
@@ -164,7 +171,7 @@ const extractJson = (response) => {
  * @param {string} content - Full article content
  * @returns {Promise<Object|null>} Structured summary or null if custom prompt not used
  */
-const generateWithCustomPrompt = async (client, content) => {
+const generateWithCustomPrompt = async (client, content, modelTracker) => {
   if (!customPrompt) {
     return null;
   }
@@ -184,10 +191,11 @@ ${truncatedContent}
 
 IMPORTANT: Output ONLY the JSON object, no markdown formatting, no code blocks, no additional text.`;
       
-      const response = await callOpenAI(
+      const { content: response } = await callOpenAI(
         client,
         'You are an article summarization agent. Follow the instructions exactly. Output ONLY valid JSON - no markdown, no code blocks, no explanations.',
-        userPrompt
+        userPrompt,
+        modelTracker
       );
       
       // Try to parse JSON response
@@ -227,7 +235,7 @@ IMPORTANT: Output ONLY the JSON object, no markdown formatting, no code blocks, 
  * @param {string} content - Full article content
  * @returns {Promise<Array<Object>>} Array of paragraph digests
  */
-const generateParagraphDigests = async (client, content) => {
+const generateParagraphDigests = async (client, content, modelTracker) => {
   if (!content || content.trim().length < 200) {
     console.log('  ⚠️  Content too short for paragraph digest generation');
     return [];
@@ -252,7 +260,7 @@ ${truncatedContent}
 
 Respond ONLY with valid JSON, no additional text.`;
     
-    const response = await callOpenAI(client, systemPrompt, userPrompt);
+    const { content: response } = await callOpenAI(client, systemPrompt, userPrompt, modelTracker);
     
     // Try to parse JSON response
     let paragraphs;
@@ -294,7 +302,7 @@ Respond ONLY with valid JSON, no additional text.`;
     
     // Fallback to manual split
     console.log('  → Falling back to manual paragraph splitting...');
-    return await generateParagraphDigestsManual(client, content);
+    return await generateParagraphDigestsManual(client, content, modelTracker);
   }
 };
 
@@ -304,7 +312,7 @@ Respond ONLY with valid JSON, no additional text.`;
  * @param {string} content - Full article content
  * @returns {Promise<Array<Object>>} Array of paragraph digests
  */
-const generateParagraphDigestsManual = async (client, content) => {
+const generateParagraphDigestsManual = async (client, content, modelTracker) => {
   // Simple split by sentences grouped together
   const sentences = content.split(/(?<=[.!?])\s+/);
   const paragraphs = [];
@@ -326,7 +334,7 @@ const generateParagraphDigestsManual = async (client, content) => {
   for (const [index, paragraph] of limitedParagraphs.entries()) {
     try {
       const userPrompt = `Summarize in 1-2 sentences:\n\n${truncateText(paragraph, 800)}`;
-      const summary = await callOpenAI(client, systemPrompt, userPrompt);
+      const { content: summary } = await callOpenAI(client, systemPrompt, userPrompt, modelTracker);
       
       digests.push({
         index,
@@ -354,7 +362,7 @@ const generateParagraphDigestsManual = async (client, content) => {
  * @param {string} fullContent - Full article content
  * @returns {Promise<string>} Section digest
  */
-const generateSectionDigest = async (client, paragraphDigests, fullContent) => {
+const generateSectionDigest = async (client, paragraphDigests, fullContent, modelTracker) => {
   if (!paragraphDigests || paragraphDigests.length === 0) {
     return '';
   }
@@ -367,7 +375,7 @@ const generateSectionDigest = async (client, paragraphDigests, fullContent) => {
     const systemPrompt = 'You are a technical content analyzer. Identify and summarize key sections or themes from the content.';
     const userPrompt = `Based on these paragraph summaries, identify 2-3 main sections or themes and provide a brief summary for each:\n\n${combinedParagraphs}`;
     
-    const sectionSummary = await callOpenAI(client, systemPrompt, userPrompt);
+    const { content: sectionSummary } = await callOpenAI(client, systemPrompt, userPrompt, modelTracker);
     
     await new Promise(resolve => setTimeout(resolve, config.rateLimitDelayMs));
     
@@ -386,7 +394,7 @@ const generateSectionDigest = async (client, paragraphDigests, fullContent) => {
  * @param {Array<Object>} paragraphDigests - Paragraph digests
  * @returns {Promise<string>} Overall digest
  */
-const generateOverallDigest = async (client, title, content, paragraphDigests) => {
+const generateOverallDigest = async (client, title, content, paragraphDigests, modelTracker) => {
   try {
     const contextContent = paragraphDigests && paragraphDigests.length > 0
       ? paragraphDigests.map(p => p.summary).join('\n')
@@ -395,7 +403,7 @@ const generateOverallDigest = async (client, title, content, paragraphDigests) =
     const systemPrompt = 'You are a technical content summarizer for senior software developers. Create comprehensive yet concise summaries.';
     const userPrompt = `Write a comprehensive summary (3-5 sentences) of this article:\n\nTitle: ${title}\n\nContent:\n${contextContent}`;
     
-    const overallSummary = await callOpenAI(client, systemPrompt, userPrompt);
+    const { content: overallSummary } = await callOpenAI(client, systemPrompt, userPrompt, modelTracker);
     
     await new Promise(resolve => setTimeout(resolve, config.rateLimitDelayMs));
     
@@ -413,12 +421,12 @@ const generateOverallDigest = async (client, title, content, paragraphDigests) =
  * @param {string} overallDigest - Overall digest
  * @returns {Promise<string>} One-line digest
  */
-const generateOneLineDigest = async (client, title, overallDigest) => {
+const generateOneLineDigest = async (client, title, overallDigest, modelTracker) => {
   try {
     const systemPrompt = 'You are a technical content summarizer. Create ultra-concise one-line summaries.';
     const userPrompt = `Create a single sentence summary (max 20 words) of this article:\n\nTitle: ${title}\n\nSummary: ${overallDigest}`;
     
-    const oneLineSummary = await callOpenAI(client, systemPrompt, userPrompt);
+    const { content: oneLineSummary } = await callOpenAI(client, systemPrompt, userPrompt, modelTracker);
     
     await new Promise(resolve => setTimeout(resolve, config.rateLimitDelayMs));
     
@@ -446,6 +454,10 @@ export const generateMultiLayerDigest = async (client, item) => {
   }
   
   console.log(`Generating digest for: ${item.title}`);
+  const modelTracker = {
+    successfulModel: null,
+    usedModels: new Set(),
+  };
   
   // Fetch full article content
   const articleContent = await fetchArticleContent(item.link, {
@@ -464,7 +476,7 @@ export const generateMultiLayerDigest = async (client, item) => {
   console.log(`  → Content ready: ${content.split(' ').length} words`);
   
   // Try custom prompt first (single API call for all summaries)
-  const customResult = await generateWithCustomPrompt(client, content);
+  const customResult = await generateWithCustomPrompt(client, content, modelTracker);
   
   let paragraphDigests, sectionDigest, overallDigest, oneLineDigest;
   
@@ -482,16 +494,16 @@ export const generateMultiLayerDigest = async (client, item) => {
     // Fallback to multi-step approach
     console.log(`  → Falling back to multi-step digest generation...`);
     
-    paragraphDigests = await generateParagraphDigests(client, content);
+    paragraphDigests = await generateParagraphDigests(client, content, modelTracker);
     
     console.log(`  → Generating section digest...`);
-    sectionDigest = await generateSectionDigest(client, paragraphDigests, content);
+    sectionDigest = await generateSectionDigest(client, paragraphDigests, content, modelTracker);
     
     console.log(`  → Generating overall digest...`);
-    overallDigest = await generateOverallDigest(client, item.title, content, paragraphDigests);
+    overallDigest = await generateOverallDigest(client, item.title, content, paragraphDigests, modelTracker);
     
     console.log(`  → Generating one-line digest...`);
-    oneLineDigest = await generateOneLineDigest(client, item.title, overallDigest);
+    oneLineDigest = await generateOneLineDigest(client, item.title, overallDigest, modelTracker);
   }
   
   const digest = {
@@ -504,6 +516,10 @@ export const generateMultiLayerDigest = async (client, item) => {
       fetchedSuccessfully: !articleContent.fetchError,
       wordCount: articleContent.wordCount,
       error: articleContent.fetchError,
+    },
+    modelUsage: {
+      successfulModel: modelTracker.successfulModel,
+      usedModels: [...modelTracker.usedModels],
     },
     digests: {
       paragraphs: paragraphDigests,
@@ -556,4 +572,3 @@ export const formatDigestForFeed = (digest) => {
   
   return parts.join('\n\n');
 };
-

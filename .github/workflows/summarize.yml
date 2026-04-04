@@ -25,7 +25,8 @@ jobs:
           echo "=============================="
           echo "API Key set: $([[ -n "$OPENAI_API_KEY" ]] && echo "✓ Yes (${#OPENAI_API_KEY} chars)" || echo "✗ No")"
           echo "Base URL set: $([[ -n "$OPENAI_BASE_URL" ]] && echo "✓ Yes" || echo "✗ No (will use default)")"
-          echo "Model: ${OPENAI_MODEL:-not set}"
+          echo "Primary Model: ${OPENAI_MODEL:-not set}"
+          echo "Model Chain: ${OPENAI_MODELS:-not set}"
           echo ""
           echo "📊 Feed Limits:"
           echo "  MAX_FEEDS: ${MAX_FEEDS:-not set}"
@@ -66,6 +67,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          OPENAI_MODELS: ${{ vars.OPENAI_MODELS }}
           MAX_FEEDS: ${{ vars.MAX_FEEDS }}
           MAX_ITEMS_PER_FEED: ${{ vars.MAX_ITEMS_PER_FEED }}
           MAX_CONCURRENT_FEEDS: ${{ vars.MAX_CONCURRENT_FEEDS }}
@@ -92,6 +94,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          OPENAI_MODELS: ${{ vars.OPENAI_MODELS }}
           MAX_FEEDS: ${{ vars.MAX_FEEDS }}
           MAX_ITEMS_PER_FEED: ${{ vars.MAX_ITEMS_PER_FEED }}
           MAX_CONCURRENT_FEEDS: ${{ vars.MAX_CONCURRENT_FEEDS }}

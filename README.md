@@ -101,9 +101,12 @@ All configuration is via environment variables. See `.env.example` for complete 
 | Variable | Default | Description |
 |----------|---------|-------------|
 | `OPENAI_API_KEY` | *required* | OpenAI API key |
-| `OPENAI_MODEL` | `gpt-4o-mini` | Model to use for digests |
+| `OPENAI_MODEL` | `gpt-4o-mini` | Primary model to use for digests |
+| `OPENAI_MODELS` | - | Comma-separated model fallback chain, for example `gpt-4o-mini,gpt-4.1-mini` |
 | `OPENAI_BASE_URL` | - | Custom API endpoint |
 | `MAX_FEEDS` | `10` | Maximum feeds to process |
+
+If `OPENAI_MODELS` is set, the app tries models from left to right and falls back automatically when one model fails. If it is not set, `OPENAI_MODEL` is still supported and used as the single-model default.
 
 ### Daily Digest Mode
 

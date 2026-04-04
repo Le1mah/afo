@@ -25,6 +25,18 @@ const parseBoolean = (value, defaultValue) => {
   return value === 'true' || value === '1' || value === 'yes';
 };
 
+const parseModelList = () => {
+  const rawModels = process.env.OPENAI_MODELS ?? process.env.OPENAI_MODEL ?? 'gpt-4o-mini';
+  const models = rawModels
+    .split(',')
+    .map(model => model.trim())
+    .filter(Boolean);
+
+  return [...new Set(models)];
+};
+
+const openaiModels = parseModelList();
+
 export const config = {
   // Paths
   projectRoot,
@@ -37,7 +49,8 @@ export const config = {
   // OpenAI Configuration
   openaiApiKey: process.env.OPENAI_API_KEY,
   openaiBaseUrl: process.env.OPENAI_BASE_URL,
-  openaiModel: process.env.OPENAI_MODEL ?? 'gpt-4o-mini',
+  openaiModels,
+  openaiModel: openaiModels[0],
 
   // Feed Processing Limits
   maxFeeds: parseNumber(process.env.MAX_FEEDS, 10),

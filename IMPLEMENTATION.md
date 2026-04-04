@@ -165,7 +165,8 @@ OPML File → Feed List → Cache Check → Fetch Feeds
 
 ```bash
 OPENAI_API_KEY=sk-...                    # Required
-OPENAI_MODEL=gpt-4o-mini                 # Model selection
+OPENAI_MODEL=gpt-4o-mini                 # Primary model selection
+OPENAI_MODELS=gpt-4o-mini,gpt-4.1-mini   # Optional ordered fallback chain
 MAX_FEEDS=10                             # Feed limit
 MAX_ITEMS_PER_FEED=1                     # Items per feed
 ```
@@ -376,4 +377,3 @@ The multi-layer RSS digest system is fully implemented and ready for use. All pl
 - ✅ GitHub Actions integration
 
 The system is production-ready and can be deployed to GitHub Actions for automated feed digest generation.
-
