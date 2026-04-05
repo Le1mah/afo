@@ -4,8 +4,133 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-04-04T20:11:19.082Z</updated>
+  <updated>2026-04-05T20:11:01.665Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - April 5, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-04-05</id>
+    <updated>2026-04-05T20:11:01.665Z</updated>
+    <published>2026-04-05T20:11:01.665Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>3 articles from 3 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 5, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;104.10958904109589&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    26.0%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;95&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;270&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;13&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████░░░░░░░░░░░░░░░░░░░░░░ 26.0%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;3&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://taggart-tech.com/reckoning/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;I used AI. It worked. I hated it.: Taggart Tech&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 反AI者被迫用AI编程工具完成项目，结果有效但过程痛苦&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者是一位坚定的反AI人士，却因工作转型为AI安全专家及平台迁移的实际需求，不得不使用Claude Code完成了一个课程完成证书生成系统的开发。项目采用Rust、Svelte和Typst构建，结合测试驱动开发和Plan Mode，最终产出功能完善、安全性较高的生产级应用。作者坦承AI工具在功能实现上确实有效，甚至带来了原本不会考虑的安全特性，但强调开发过程令人痛苦，且持续审查AI输出的机制本身存在诱使人放弃监督的系统性风险，其对AI危害社会的立场并未改变。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者自称是坚定的反生成式AI者，但出于工作需要不得不使用AI编程工具完成了一个项目，并对此感到矛盾和自责。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的日常工作已转型为AI安全专家，需要深入了解AI工具以测试和评估其安全性，同时希望能阻止危险应用上线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者正将Taggart Institute从Teachable和Discord迁移到Discourse平台，但发现缺少课程完成证书生成功能，决定自行开发。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于时间有限（需要兼顾育儿责任），作者决定借此机会测试Claude Code等AI编程工具，同时解决证书功能缺失的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;项目设计为一个Webhook拦截器，接收课程完成信息后生成带唯一可验证ID的PDF证书，并通过邮件发送给用户。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者研究了AI编程工具的最佳实践，强调保持模型专注于任务、使用计划模式和外部Markdown文件追踪进度的重要性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;技术选型包括Rust（后端）、Svelte（前端）和Typst（PDF生成），并使用Claude Code配合Sonnet 4.6模型进行开发。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发方法采用测试驱动开发（TDD），作者审查了每一行生成的代码，并在功能完成后让模型切换为安全审计员角色进行代码审查。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;项目功能上取得成功，代码已投入生产，且包含审计日志、GDPR数据删除、加密验证等作者原本不会主动添加的功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管结果令人满意，但开发过程令作者感到痛苦——持续审查AI输出的过程枯燥乏味，且存在让人放弃人工监督的危险诱惑。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Someone at BrowserStack is Leaking Users&amp;#039; Email Address&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 BrowserStack leaked a user&amp;#039;s unique email to data broker Apollo.io, revealing a covert data-sharing arrangement and raising serious privacy concerns.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author discovered that BrowserStack leaked their unique, service-specific email address to Apollo.io, a third-party data broker, after receiving unsolicited spam to that address shortly after signing up. Apollo initially fabricated a claim that the email was algorithmically derived from public data, but quickly admitted it came directly from BrowserStack via a &amp;quot;customer contributor network&amp;quot; — essentially a data-sharing arrangement. BrowserStack offers three likely explanations for the breach: deliberate data monetization, compromise via a third-party integration, or insider exfiltration by an employee or contractor. Despite repeated attempts to get a response, BrowserStack never replied to the author&amp;#039;s inquiries — a notable failure given their public &amp;quot;No spam, we promise!&amp;quot; pledge. The author frames this incident as symptomatic of a broader, increasingly normalized ecosystem of opaque personal data trading among companies that nominally present themselves as trustworthy custodians of user information.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unique Email Strategy:&lt;/strong&gt; The author uses a unique email address for every service they sign up to, which helps identify legitimate senders, prevents credential stuffing, and reveals data leaks.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;BrowserStack Signup:&lt;/strong&gt; The author signed up for BrowserStack to join their Open Source programme, using one of their unique email addresses during the process.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unexpected Third-Party Email:&lt;/strong&gt; A few days after signing up, the author received an unsolicited email from a non-BrowserStack sender to the BrowserStack-specific address, who revealed they obtained the details from Apollo.io.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apollo&amp;#039;s Misleading Response:&lt;/strong&gt; When contacted, Apollo initially claimed the email was derived via a &amp;#039;proprietary algorithm&amp;#039; using publicly available information, a claim the author immediately identified as false given the uniqueness of the address.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apollo Admits BrowserStack Source:&lt;/strong&gt; After being challenged, Apollo admitted the email came directly from BrowserStack, who participates in Apollo&amp;#039;s &amp;#039;customer contributor network&amp;#039; by sharing business contacts.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;BrowserStack&amp;#039;s Silence:&lt;/strong&gt; The author contacted BrowserStack demanding an explanation, but despite multiple attempts received no reply, noting the irony of BrowserStack&amp;#039;s &amp;#039;No spam, we promise!&amp;#039; messaging.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Likely Data Leak Scenarios:&lt;/strong&gt; The author outlines three probable explanations: BrowserStack selling user data, a third-party service siphoning data, or an internal employee or contractor exfiltrating information.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Broader Privacy Concerns:&lt;/strong&gt; The author concludes this reflects a wider normalisation of personal data trading by privacy-disrespecting entities, and teases a follow-up post revealing how Apollo also obtained their phone number from a major company.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/69901&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 亲历数字遗产处理，呼吁保护逝者隐私&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者以亲身经历为切入点，讲述了朋友意外离世后，为保护两人作为性少数群体的共同秘密而处理其「数字遗产」的曲折过程。文章随后延伸至对「数字遗产」保护现状的深度探讨：手机号是最大安全漏洞，本地加密和邮箱注册是相对可靠的防护手段，但现行法律与平台政策对逝者隐私的保护仍严重不足。作者呼吁平台与立法层面尽快完善相关机制，并建议用户主动与家人沟通，生前做好「数字遗产」的处置安排。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple从iOS 15.2 Beta起为iCloud账户新增「数字遗产」功能，允许用户生前指定遗产联系人，在身故后继承账户及相关数据。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的朋友意外去世后，其母亲通过手机验证码登录了微信账号，频繁操作朋友圈，给朋友们带来了巨大的情感冲击。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于朋友生前与作者同属性少数群体且决定对父母保密，作者担心手机和电脑中的数据会暴露两人关系，遂着手处理其「数字遗产」。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者历经周折取得朋友的电脑和手机，通过Microsoft账号密码解开BitLocker加密，清除了涉及两人关系的数据后归还给其母亲。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者成功清理了微博、百度网盘、淘宝等平台的相关内容，但微信因手机卡在其母亲手中而无法处理，整体工作告一段落。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出每个人都拥有仅存在于数字世界的隐私财产，这些「数字遗产」在逝者身后理应受到保护，而非被强制暴露给家属。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;手机号是突破「数字遗产」安全的主要漏洞，通过手机验证码可轻松登录微信、支付宝等平台，且运营商允许直系亲属凭死亡证明补卡或过继号码。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本地加密是保护「数字遗产」的有效手段，使用BitLocker对分区加密、用独立密码打包隐私文件，可在无密钥情况下令数据无法被读取。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用不绑定手机的独立邮箱注册平台账户，是避免「数字遗产」被轻易找回的有效方法，但涉及实名认证的平台仍难以规避手机绑定要求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前「数字遗产」在法律和技术层面均缺乏完善保护，作者呼吁互联网平台出台相关政策，并建议用户生前与家人充分沟通或指定专人处置数字遗产。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - April 4, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
