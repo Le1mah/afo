@@ -4,8 +4,290 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-04-07T20:32:57.163Z</updated>
+  <updated>2026-04-08T21:22:09.705Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - April 8, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-04-08</id>
+    <updated>2026-04-08T21:22:09.705Z</updated>
+    <published>2026-04-08T21:22:09.705Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>15 articles from 7 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 8, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;107.3972602739726&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    26.8%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;98&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;267&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;14&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████░░░░░░░░░░░░░░░░░░░░░░ 26.8%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;15&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22519&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;My salary history&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者公开20年薪资历史，呼吁打破行业薪资讨论禁忌。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文通过作者公开其2003至2025年的个人薪资历史，探讨了打破职场薪资讨论禁忌的重要性。作者以坦诚且反思性的风格，揭示了代理机构（agency）与科技公司内部职位的薪酬差异，并分享了因缩短工作周而导致的收入变化。核心观点认为，薪资透明度能有效缩小求职者与雇主间的信息差，尽管作者长期留任单一公司的路径在tech行业并不典型，但分享数据仍具行业参考价值。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出薪资讨论的禁忌会导致信息不对称，进而损害求职者的利益并使雇主获益。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文中列举了多位自愿分享收入的人士，认为这种透明度有助于求职者在软件和设计领域建立合理的薪资预期。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细列出了自己从2003年至2025年长达22年的个人薪资变动历史。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出在代理机构（agency）工作的薪酬通常低于科技公司内部职位，但其优势在于工作自主权和多样性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了2020年后的薪资下降是由于工作制改为每周三天或四天，并指出按比例计算的实际时薪仍在增长。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者反思了自己在同一家公司留任20年的罕见经历，这与技术行业通过频繁跳槽换取加薪的常态截然不同。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者最后鼓励读者也分享自己的薪资数据，以进一步打破行业内的信息壁垒。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://quirksmode.org/quirksblog/archive/20260407-conferences.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Conference organising in 2026 - QuirksBlog&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Peter-Paul Koch 探讨 Web 会议组织面临的售票困境与行业危机。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由 Peter-Paul Koch 撰写，深入探讨了当前 Web 技术会议组织者面临的严峻挑战。作者结合 CSS Day 和 performance.now() 的实际数据，指出购票滞后和赞助难求已成为行业普遍问题，连专业化会议也难以幸免。文章风格务实且带有忧患意识，分析了美国会议市场萎缩的原因，并警告若参会者不积极购票，高质量的会议生态可能因资金和时间风险而消亡。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;会议组织者面临着比以往更艰难的工作，门票销售变得更加困难且购票时间点显著推迟。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的 performance.now() 2025 销售不佳，CSS Day 2026 也进度落后，显示其免疫行业趋势的地位已终结。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者反思了之前的理论，即专业化会议能免受行业低迷影响，但事实证明这一想法并不完全正确。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为了应对现金流和购票滞后问题，作者开始实施阶梯票价制度，对晚购票者加收“迟到税”。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;购票太晚导致组织者无法及时预订咖啡师和字幕服务等提升体验的配套，影响了会议质量。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CSS Day 难以寻找赞助商，虽然赞助能缓解资金压力，但也带来了赞助商干预议程的风险。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者担心美国 Web 会议的大规模消失（灭绝事件）可能会在欧洲上演。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;美国会议衰落的原因可能包括对疫情的持续担忧以及内容过度受 AI 和 VC 赞助商驱动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出欧洲组织的会议在内容上与美国现状有所不同，并思考欧洲组织者是否应前往美国办会。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管有在北美办会的计划，但一切取决于门票销售情况，作者呼吁大家支持日益萎缩的会议生态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-291/viewer?title_no=853933&amp;episode_no=306&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 291&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON 惊悚漫画 DOGHAUS 的章节目录与作品信息页。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是 WEBTOON CANVAS 平台上惊悚漫画 DOGHAUS 的目录页面。内容涵盖了该作品自连载以来的 291 个章节索引，包括书籍出版和众筹信息。页面集成了订阅、分享等互动功能，并标注作品为成熟分级。此外，还提供了创作者 Moowsie 的背景及平台惊悚类漫画的排名推荐，方便读者了解作品概况及同类佳作。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示了 WEBTOON 平台漫画 DOGHAUS 从第 1 话到第 291 话的完整章节目录、导航及 Kickstarter 众筹等特别公告。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了作品的订阅、社交媒体分享、举报功能以及分级说明（Mature），并包含创作者支持的相关链接。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;列出了创作者 Moowsie 的信息，并展示了 WEBTOON 平台惊悚（Thriller）类作品的实时排行榜及上新推荐。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/reduce-friction-ai/feedback-flywheel.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Feedback Flywheel&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Scale AI adoption by systematically integrating individual developer insights into shared institutional infrastructure through a continuous feedback flywheel.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To overcome AI adoption plateaus, teams must implement a &amp;quot;feedback flywheel&amp;quot; that systematically converts individual developer interactions into shared institutional knowledge by treating infrastructure—such as priming documents and prompt libraries—as dynamic, evolving surfaces. By analyzing context, instruction, and workflow signals, teams can perform root-cause analysis on AI failures and codify successful interaction sequences into transferable playbooks. This approach moves beyond siloed developer intuition, ensuring that every session’s learnings are integrated back into the team&amp;#039;s shared artifacts through manual or agentic updates. Ultimately, this creates a compounding learning system where the collective environment continuously improves, preventing recurring errors and scaling technical fluency across the organization.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Feedback Flywheel:&lt;/strong&gt; Most teams discard the signals generated during AI interactions, missing the opportunity to turn individual developer insights into collective institutional knowledge. A feedback flywheel systematically harvests these learnings to continuously improve shared team artifacts.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Compounding Problem:&lt;/strong&gt; AI adoption often plateaus because teams lack a mechanism for compounding what works, leading to recurring errors and stagnant practices. Without a learning system, individual intuition remains trapped within silos rather than evolving the team&amp;#039;s infrastructure.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Active Artifact Evolution:&lt;/strong&gt; Infrastructure components like priming documents and review commands should be treated as dynamic surfaces that absorb new information. Every interaction is an opportunity to update these artifacts, ensuring the system learns and improves with each rotation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Context and Instruction Signals:&lt;/strong&gt; Context signals identify gaps in priming documents such as missing conventions or outdated APIs, while instruction signals capture effective prompt phrasings. These signals ensure that the AI&amp;#039;s environment and the team&amp;#039;s commands evolve beyond personal fluency.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Workflow and Failure Signals:&lt;/strong&gt; Workflow signals document successful interaction sequences into transferable playbooks, while failure signals involve root-cause analysis of AI errors. By identifying whether a failure stems from context, instruction, or model limits, teams can apply targeted fixes.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Systematic Learning Practices:&lt;/strong&gt; Capturing learnings should be a systematic part of the developer workflow, whether through manual edits or agentic updates. The goal is to ensure that every session leaves the shared infrastructure better prepared for the next developer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Theatre Review: Avenue Q ★★★★★&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《Avenue Q》伦敦限时回归：经典木偶剧的精彩现代改编。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是对音乐剧《Avenue Q》在伦敦限量回归演出的深度评论。作者赞扬了剧组在歌词、文化引用及包容性方面的现代更新，认为演出凭借出色的木偶表演和密集的笑点获得了极高评价。此外，作者还分析了剧院在周边销售和氛围营造等配套服务上的表现。总体而言，这是一部兼具娱乐性与情感共鸣的五星杰作。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了再次观看《Avenue Q》的感受，赞扬了剧目在保留核心魅力的同时，针对现代审美和英国文化背景所做的巧妙改编与更新。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨了剧院在演出前后的整体体验设计，包括周边商品、场馆氛围营造以及座位视野等细节，认为这些增强了观众的参与感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;给出五星满分好评，总结了演出在木偶表演与娱乐性上的卓越表现，并提供了相关的活动链接与支持方式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-04-08T05:58Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-04-08T05:58Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 解析 MDN 前端通过遍历 DOM 动态加载组件的高效方案。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文分析了 MDN 新前端采用的 Web Components 懒加载技术。作者将其与传统的组件列表维护方式进行对比，指出 MDN 通过遍历 DOM 并识别特定前缀来动态导入组件的方法更加高效且易于维护。文章认为该方案在实际应用中性能表现良好，并提醒开发者在面对此类实现时，应优先考虑代码的简洁性与实用性，而非盲目追求理论上的微优化（micro-optimisations）。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了对 MDN 新前端底层技术的见解，特别赞赏其通过识别 &amp;#039;mdn-&amp;#039; 前缀标签来动态导入 JavaScript 组件的代码实现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;相比作者手动维护组件列表的懒加载方式，MDN 通过遍历所有 DOM 元素自动匹配的方法更具扩展性，且在常规 DOM 规模下不会产生性能瓶颈。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者探讨了使用 :not(:defined) 选择器等微优化手段的可能性，但最终认为应避免过度追求理论上的性能优化，肯定了 MDN 现有方案的简洁性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.too.com/event/2026/autodesk_cg_festa/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;映像・ゲーム・アニメの制作現場の“いま”をつなぐ「Autodesk CG Festa2026」に松山洋が登壇！サイバーコネクトツー30年の歩みと新たな挑戦について語ります！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Hiroshi Matsuyama presents CyberConnect2’s 30-year history and CG production workflows at the Autodesk CG Festa 2026 seminar.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;[ウェビナー] 受付中 Autodesk CG Festa 2026 申し込む ツイート Autodesk CG Festa は、映像・ゲーム・アニメという異なる制作現場の“いま”をつなぐ、 Too主催の総合CGセミナーです。 単なるツール解説ではなく、第一線で活躍する制作会社の皆様をお迎えし、実際の作品づくりの中で、3ds MaxおよびMayaがどのように使われているのか。工夫、試行錯誤までを含めた「制作フローそのもの」をお届けします。 現場のリアルな声から、これからのコンテンツ制作に必要な視点とヒントを見つけていただける全4セッションです。 オンライン開催ですので、インターネットに接続でき…&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (1 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Autodesk CG Festa 2026 is an online seminar hosted by Too that explores real-world 3DCG production workflows and AI integration in 3ds Max and Maya across the film, game, and animation industries. Featuring industry experts, the sessions provide practical insights into actual project pipelines and the future of creative technology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2store/?page_id=11806&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【4/19(日)】「関西けもケット11」にて『戦場のフーガ』スマホ版試遊台出展＆『戦場のフーガ』描き下ろし新商品発売！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CC2将参展関西けもケット11并提供《战场的赋格曲》手游试玩。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细介绍了CyberConnect2（CC2）参展2026年“関西けもケット11”的活动安排。重点内容包括《战场的赋格曲》智能手机版的首次线下试玩体验及特典发放，以及多款展现角色独特魅力的限定周边销售。文章以清晰的商业公告形式，告知了社交媒体联动活动和现场参与规则，旨在通过线下互动提升游戏知名度并回馈核心粉丝。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CyberConnect2宣布参加2026年4月19日的“関西けもケット11”，将展出《战场的赋格曲》手游试玩并销售多款新商品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;现场将发售以《战场的赋格曲》成年角色为主题的“湿漉漉系列”亚克力钥匙扣，展示角色毛发被打湿的独特形象。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;官方确认《战场的赋格曲》将推出智能手机版，并在展位内举行先行试玩活动，参与者可获赠纪念特典。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细列出了试玩活动的时间、地点及整理券发放规则，确保现场参与流程有序进行。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过关注并转发指定官方X账号内容，到场粉丝可领取印有游戏漫画或LINE贴图插画的原创手提袋。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了“関西けもケット11”的整体活动概览、官方链接及商品清单下载方式，方便参会者获取最新动态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/fuga/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『戦場のフーガ』スマートフォン版 2026年夏 iOS/Androidにて配信決定！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2 will release strategy RPG *Fuga: Melodies of Steel* on iOS and Android in Summer 2026.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2 has announced that its strategy RPG *Fuga: Melodies of Steel* will expand to mobile platforms, with an iOS and Android release scheduled for Summer 2026. The title has achieved a significant milestone of 450,000 worldwide downloads across existing PC and console platforms, supported by a distribution strategy involving tiered digital editions and multi-game bundles. While the game is slated to depart from Xbox Game Pass in September 2023, the developers are diversifying their digital ecosystem by launching soundtracks and artbooks on Steam and the Epic Games Store. This roadmap reflects a long-term commitment to the IP through extended platform porting and expanded monetization of digital assets.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;This text provides purchase links for various editions of the game *Fuga: Melodies of Steel* across multiple platforms, including Nintendo Switch, PlayStation, Xbox, and PC. It details availability for the standard, deluxe, and ultimate versions, as well as upgrade packs and multi-game bundles.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CyberConnect2&amp;#039;s *Fuga: Melodies of Steel* has surpassed 450,000 worldwide downloads, celebrated with commemorative illustrations by artist Itsuki Hoshi. Additionally, the game will leave GamePass on September 16, 2023, while its digital artbooks and soundtracks have expanded to Steam and Epic Games Store.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/ncc611fbe57d7&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『しごにんの侍』制作ぶろぐ 第四十七回『いっぴきのおに』&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《しごにんの侍》第47回制作秘话：角色设定与招式全解析。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是《しごにんの侍》第47回的制作秘话。作者详细解析了主角三之助刺青消失背后的身体机能设定，并深入介绍了反派一郎左所使用的“鲛追物”、“唐狮子牡丹”及“斩突合一”等招式的动作逻辑与历史文化背景。文章展现了作者在动作设计与考据上的用心，最后预告了作品更新计划及线下朗读剧活动。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三之助经历人生大事的同时，一郎左则逐渐坠入魔道。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了三之助手臂刺青消失的原因，指出其与四肢的适应程度及爆发时展现的力量有相感关系。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了一郎左模仿“犬追物”创造的招式“鲛追物”，其威力因二刀流而远超千岁白雪的同类技能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解析了类似地板舞的剑技“唐狮子牡丹”，并对其命名在江户时代的艺术史背景进行了考证与说明。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详解了同时具备斩击与刺击特性的“斩突合一”招式，强调其极难防御且能利用怪力精准致盲。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;预告了《しごにんの侍》漫画及博客的后续更新时间，并宣传了即将举行的朗读剧公演及周边信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/a-look-at-the-galapagos-era-of-japanese-cellphones&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;回望日系手机的「加拉帕戈斯」时代&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Japan’s carrier-led Galapagos era achieved early mobile innovation through proprietary standards, creating an advanced but globally isolated ecosystem.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article analyzes the &amp;quot;Galapagos&amp;quot; era of the Japanese mobile industry, a period defined by a carrier-led model where operators like NTT Docomo and KDDI dictated hardware and software specifications to achieve deep vertical integration. Japan pioneered mobile internet and fintech long before global markets, utilizing i-mode’s cHTML protocols and Sony’s Felica technology to standardize mobile commerce and contactless payments. To manage development overhead, carriers established unified software stacks—such as NTT Docomo’s MOAP (Linux/Symbian) and KDDI’s KCP+ (BREW)—which allowed manufacturers to deploy advanced multimedia features on high-performance silicon like early Snapdragon processors. Ultimately, while this ecosystem fostered sophisticated early innovations like emojis and mobile banking, its reliance on proprietary, carrier-centric standards led to a unique but isolated technological trajectory.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Origins of Galapagos:&lt;/strong&gt; The article traces the evolution of Japan&amp;#039;s mobile industry from its early global leadership in 1G and 2G to its eventual isolation into a unique &amp;#039;Galapagos&amp;#039; ecosystem.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;i-mode&amp;#039;s Walled Garden:&lt;/strong&gt; NTT docomo pioneered the mobile internet with i-mode, establishing a closed ecosystem using cHTML and proprietary protocols that integrated mobile banking, commerce, and the first emojis.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;FOMA and Felica:&lt;/strong&gt; The transition to 3G via FOMA enabled advanced multimedia services, while the integration of Sony’s Felica technology standardized contactless mobile payments long before global competitors.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;MOAP Platform Standardization:&lt;/strong&gt; To reduce development costs, NTT docomo introduced the MOAP and OPP platforms, which unified the software stack across different manufacturers using Linux and Symbian OS.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;KDDI&amp;#039;s KCP Strategy:&lt;/strong&gt; KDDI collaborated with Qualcomm to develop the KCP/KCP+ platforms based on BREW, eventually utilizing high-performance Snapdragon processors to drive advanced feature phone capabilities.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Carrier-Led Development Models:&lt;/strong&gt; The Japanese market was characterized by a unique model where carriers, rather than manufacturers, defined hardware and software specifications to ensure deep integration with proprietary network services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108325&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Type-C 接口最大的问题，是看起来已经「统一」了&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 USB-C’s universal physical form masks deep functional fragmentation and hardware incompatibilities caused by non-standardized electrical implementations.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The USB Type-C interface suffers from a &amp;quot;unified shell&amp;quot; paradox where physical uniformity masks deep electrical and logical fragmentation, primarily driven by the omission of mandatory 5.1K pull-down resistors (Rd) on Configuration Channel (CC) pins in budget hardware. This lack of standardized CC-pin implementation, alongside &amp;quot;castrated&amp;quot; 4/6-pin socket designs, prevents modern USB-PD chargers from initiating power delivery, effectively rendering many devices incompatible with C-to-C cables. The ecosystem is further fractured by proprietary fast-charging protocols that bypass USB-PD standards and the inconsistent use of E-marker chips required for high-wattage and high-speed data negotiation. Ultimately, frequent USB-IF rebranding and the disconnect between physical form and internal capabilities mean that Type-C has become a universal connector that fails to guarantee functional interoperability.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The CC Pin Deficit:&lt;/strong&gt; Many small electronics fail to charge via C-to-C cables because they lack the mandatory 5.1K pull-down resistor (Rd) on the Configuration Channel (CC) pins. Without this resistor, modern USB-PD chargers cannot identify the device as a power sink and will not initiate power delivery.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Type-C Pinout Architecture:&lt;/strong&gt; A full-featured Type-C interface utilizes 24 pins divided into power (VBUS/GND), data (High-speed TX/RX and USB 2.0 D+/D-), and control (CC/SBU) channels. The CC pins are the most critical for negotiating power direction, voltage levels, and alternate modes like DisplayPort.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Simplified Hardware Implementation:&lt;/strong&gt; To minimize costs, many manufacturers use &amp;#039;castrated&amp;#039; 4-pin or 6-pin Type-C sockets that lack CC pins, effectively treating the port as a legacy micro-USB interface. This cost-cutting measure prevents the device from communicating with smart chargers, forcing a reliance on older A-to-C cables.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cable Performance Disparity:&lt;/strong&gt; Physical uniformity masks significant internal differences; cables vary in current capacity (3A vs 5A/6A) and data throughput. High-wattage charging and high-speed data transmission (Thunderbolt/USB4) require specific E-marker chips and full-featured wiring that basic cables lack.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Private Protocol Barriers:&lt;/strong&gt; Smartphone vendors often implement proprietary fast-charging protocols that deviate from standard USB-PD specifications to achieve higher wattages. This creates &amp;#039;ecosystem walls&amp;#039; where peak performance is only possible using brand-specific hardware, leading to protocol negotiation failures with third-party accessories.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Regulatory Naming Chaos:&lt;/strong&gt; Frequent rebranding by the USB-IF, such as renaming USB 3.0 to USB 3.1 Gen 1 and then to USB 3.2 Gen 1, has significantly increased consumer and developer confusion. This obfuscation makes it difficult to determine actual device capabilities based on marketing terminology alone.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Interface vs. Protocol:&lt;/strong&gt; The core issue of Type-C is the disconnect between its unified physical form factor and its fragmented logical implementation. It serves as a universal shell that hides a complex landscape of varying protocols, power limits, and data standards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/windows-ui-styles-history&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;谈谈 Windows 的视觉风格与交互演变&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Windows evolved from TUI shells to Fluent Design, balancing performance and aesthetics through skeuomorphic and flat UI transitions.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Windows evolved from character-based TUI shells into the standardized WIMP model, later refining feature discovery through the Ribbon UI and transitioning from GDI-based WinForms to DirectX-accelerated WPF. The design philosophy shifted from the skeuomorphic, GPU-intensive Aero effects of Windows 7 to the flat, touch-centric Metro interface, which ultimately faced adoption hurdles due to UWP’s restrictive APIs and UX fragmentation. Modern Windows development centers on the Fluent Design system, which balances aesthetics and performance by utilizing &amp;quot;Mica&amp;quot; and &amp;quot;Acrylic&amp;quot; materials to provide depth and motion with lower system overhead than traditional transparency techniques.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pre-GUI TUI Origins:&lt;/strong&gt; Before the advent of full graphical interfaces, Windows functioned as a shell for MS-DOS utilizing Text-based User Interfaces (TUI) driven by ANSI escape sequences. These interfaces introduced foundational concepts like color-coded regions, dropdown menus, and overlapping windows using character-based rendering.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;WIMP Paradigm Foundations:&lt;/strong&gt; Windows 1.0 formalized the &amp;#039;Windows, Icons, Menus, Pointer&amp;#039; (WIMP) standard, transitioning from character-based interaction to a true graphical operating system. This era established the classic menu-and-toolbar design language that reached its functional peak in Windows 98 and Office 2003.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ribbon Interface Innovation:&lt;/strong&gt; To address the complexity of deeply nested menus, Microsoft introduced the Ribbon UI in Office 2007, replacing text lists with graphical, tabbed toolbars. This design maximized feature discoverability and eventually became the default layout for the Windows 8 and 10 File Explorer.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Luna and WPF Frameworks:&lt;/strong&gt; Windows XP&amp;#039;s Luna interface marked the first major push toward visual modernization and user-centric design. Technically, this era saw the introduction of WPF, which leveraged DirectX for vector rendering but faced slow adoption due to high memory overhead and development complexity compared to WinForms.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Aero&amp;#039;s Hardware-Accelerated Skeuomorphism:&lt;/strong&gt; Windows Vista and 7 introduced the Aero design language, characterized by translucent &amp;#039;glass&amp;#039; effects and heavy use of physics-based animations. This style relied on significant GPU advancements to balance aesthetic depth with interactive features like Flip 3D and taskbar previews.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Metro’s Radical Flattening:&lt;/strong&gt; Windows 8 introduced the Metro design, a controversial shift toward flat, touch-centric tiles inspired by Swiss graphic design. While it aimed for cross-platform unity, the resulting &amp;#039;fragmented&amp;#039; experience between the start screen and legacy desktop led to poor market adoption.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;UWP and MDL2 Integration:&lt;/strong&gt; Windows 10 attempted to rectify its predecessor&amp;#039;s fragmentation through Microsoft Design Language 2 and the Universal Windows Platform (UWP). However, UWP&amp;#039;s restrictive APIs and performance bottlenecks prompted many developers to favor cross-platform frameworks like Electron and Qt.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fluent Design and Mica:&lt;/strong&gt; The current Fluent Design system evolves the flat aesthetic by adding depth, motion, and material effects like &amp;#039;Acrylic&amp;#039; and &amp;#039;Mica.&amp;#039; Mica specifically optimizes performance by sampling desktop colors to create a pseudo-transparent effect with lower system overhead than traditional blurring.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108285&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;🎁 福利派 | 少数派首款超薄钢化膜今日开售&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Sspai&amp;#039;s 0.13mm ultra-thin tempered glass protector provides high transparency and a near-native tactile experience for iPhone 16/17.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Sspai has launched the &amp;quot;Macintall&amp;quot; ultra-thin tempered glass protector, featuring a 0.13mm profile—significantly thinner than the 0.3mm industry standard—to achieve a near-native tactile experience without obstructing the screen&amp;#039;s active area. Engineered with Mohs 6 hardness and 96% transparency, the protector prioritizes scratch resistance against common quartz particulates while offering an optional AR anti-reflective coating to maintain high display fidelity. The product utilizes a full-surface jelly adhesive for superior optical clarity and edge integration, though this design choice makes the protector difficult to reposition and potentially incompatible with bulky, high-lip cases. Currently available for the iPhone 16 and 17 series at a ¥59–¥89 price point, it includes a dedicated alignment tool to mitigate the installation risks associated with its low-tolerance adhesive system.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Product Launch Overview:&lt;/strong&gt; Sspai introduces the &amp;quot;Macintall&amp;quot; ultra-thin tempered glass protector, featuring a 0.13mm profile, Mohs hardness level 6, and 96% transparency.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Durability vs. Scratch Resistance:&lt;/strong&gt; Despite advancements in shatter-resistant glass like Ceramic Shield, screens remain vulnerable to scratches from common materials like quartz, necessitating thin-film protection.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ultra-Thin Design Engineering:&lt;/strong&gt; The protector achieves a &amp;quot;seamless&amp;quot; user experience by reducing thickness to 0.13mm, significantly thinner than the 0.3mm industry standard, while optimizing edge transitions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optical Performance and AR:&lt;/strong&gt; The product maintains high display accuracy with an optional AR anti-reflective coating and a design that ensures zero obstruction of the screen&amp;#039;s active area.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Trade-offs:&lt;/strong&gt; The use of full-surface jelly adhesive offers superior clarity and fit but makes the protector difficult to reposition and potentially incompatible with some bulky cases.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Market Availability and Pricing:&lt;/strong&gt; Initial support covers iPhone 16 and 17 series with pricing between ¥59 and ¥89, including a dedicated alignment tool to mitigate installation risks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108380&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：macOS 内核 TCP 协议栈存在溢出漏洞、Google Pixel 10a 推出独占版本等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 macOS kernel vulnerabilities, Pixel hardware news, and AI advancements from Anthropic and Adobe lead today’s technical updates.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;A critical 32-bit counter overflow vulnerability in the macOS XNU kernel&amp;#039;s TCP stack has been identified, causing silent timer failures and port exhaustion after approximately 49 days of uptime on versions 10.15 and later. In the security and infrastructure space, Anthropic is deploying its Claude Mythos model for large-scale vulnerability research, while technical analysis reveals Windows 11’s new Copilot is implemented as an encapsulated Microsoft Edge instance. Hardware and performance updates include Minisforum’s Core Ultra 5 mini PC featuring USB4 and 2.5GbE, alongside CDPR’s PS5 Pro enhancements leveraging PSSR and BVH8 for improved ray tracing precision. Finally, Adobe is testing generative AI tools for document-to-workflow transformation, even as industry reports highlight a 10% error rate in Google’s AI-integrated search results.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;macOS TCP 协议栈漏洞:&lt;/strong&gt; macOS 内核 XNU 存在 32 位计数器溢出缺陷，系统连续运行约 49 天后会导致 TCP 计时器失效及端口耗尽。该漏洞属于静默失效，影响 macOS 10.15 及后续版本，通常需通过系统重启来解决。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Project Glasswing 安全计划:&lt;/strong&gt; Anthropic 联合亚马逊、微软等巨头启动网络安全计划，利用 Claude Mythos 模型防御性部署 AI 工具。该计划旨在识别并修复关键软件漏洞，目前已在主流操作系统和浏览器中检测出数千个风险点。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;移动硬件新品发布:&lt;/strong&gt; Google 在日本推出 Pixel 10a 独占限定版，而摩托罗拉发布了配备主动式电磁手写笔的 Moto G Stylus (2026)。两款产品均针对特定市场强化了交互体验与外观定制。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;铭凡 Elite M1 迷你主机:&lt;/strong&gt; 铭凡推出搭载 Intel Core Ultra 5 125U 处理器的迷你主机，支持双通道 DDR5 内存与 PCIe 4.0 存储。该设备配备了全功能 USB4 接口及 2.5GbE 网口，主打高性能轻量化计算。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Adobe AI 学习工具:&lt;/strong&gt; Adobe 发布 Student Spaces 学习套件，利用 AI 技术将 PDF、笔记等文档自动转化为闪卡、思维导图及音频播客。该工具目前处于免费测试阶段，旨在通过生成式 AI 优化教育工作流。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;赛博朋克 2077 技术更新:&lt;/strong&gt; CDPR 为 PS5 Pro 推出了增强更新，引入 PSSR 超分辨率技术并支持 BVH8 架构以提升光追精度。更新提供了三档渲染模式，最高支持 90fps 运行或全光追特效开启。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;行业深度简讯与调查:&lt;/strong&gt; 最新调查披露了 OpenAI 内部的管理争议及 Google AI 搜索约 10% 的错误率。同时，技术分析发现 Windows 11 的新版 Copilot 实际上是通过封装 Microsoft Edge 实现的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - April 7, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
