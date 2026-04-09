@@ -4,8 +4,234 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-04-08T21:22:09.705Z</updated>
+  <updated>2026-04-09T20:51:01.758Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - April 9, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-04-09</id>
+    <updated>2026-04-09T20:51:01.758Z</updated>
+    <published>2026-04-09T20:51:01.758Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>9 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 9, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;108.4931506849315&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    27.1%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;99&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;266&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;14&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████░░░░░░░░░░░░░░░░░░░░░░ 27.1%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;9&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The AI Great Leap Forward&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 警惕盲目AI转型演变为技术版“大跃进”及其长期危害。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文犀利地将当前企业界的AI转型热潮比作1958年的大跃进。作者指出，自上而下的AI强制令导致了“土法炼钢”式的低质量开发、虚报生产力指标的浮夸风，以及裁撤关键岗位带来的次生灾害。员工为自我保护，在知识提取中采取防御策略。这种只重汇报指标、忽视技术底层逻辑和生态平衡的做法，正在制造巨大的技术债务，预示着未来可能出现的生产力“饥荒”。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章将2026年企业强制推行的AI转型比作1958年中国大跃进时期的土法炼钢。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;现代企业如同当年要求农民炼钢一样，不顾专业背景强行要求全员闭合AI差距。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;缺乏专业知识的团队开发出外观精美但输出错误的AI方案，且因缺乏基准测试而无法纠错。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;可视化工具简化了操作却掩盖了底层复杂性，使得调试LLM的幻觉变得极其困难。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;现代“后院AI”就像当年的废钢，仅能满足汇报需求却无法通过现实世界的严苛测试。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;企业内部自建的AI方案往往缺乏基础设施、监控和维护，注定成为未来的技术债务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;企业内部盛行虚报AI生产力指标的浮夸风，类似于当年虚报粮食产量。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;当AI使用量成为KPI，公司陷入古德哈特定律，全员为优化指标而非实际价值而工作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;裁减中层管理和QA等关键岗位如同当年“除四害”杀麻雀，忽视了其维持生态的关键作用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;失去具备制度性知识的人员后，AI系统因缺乏上下文指导而引发严重的次生灾害。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;公司要求员工将专业知识转化为AI技能，类似于“百花齐放”运动中对知识分子的诱导。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;员工为保住工作在AI技能中策略性地保留核心知识或设置依赖，导致知识提取失效。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI指令引发了职能间的领地扩张战争，各部门利用AI工具相互渗透和吞并。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;虚假的汇报数据掩盖了真实生产力的匮乏，预示着技术层面的“饥荒”即将到来。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-04-09.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: April  9&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 探讨AI辅助开发、安全威胁及技术文档框架的行业观察。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Martin Fowler的随笔，涵盖了AI对编程的影响、网络安全威胁、文档框架及经济增长观。作者通过播客和实际案例探讨了AI在软件开发中的双刃剑作用，强调了人工设计与重构在AI辅助开发中的核心地位。同时介绍了Diátaxis文档分类法和Axios遭社交工程攻击的教训。文章风格专业且具洞察力，强调了技术实践中人的主观能动性与核心价值观。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;马丁·福勒推荐了两个播客，分别探讨了编程在AI时代的变革以及Uber的微服务架构与架构演进。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Axios发布了关于供应链攻击的事后分析，揭示了攻击者如何通过高度伪装的社交工程手段诱导开发者安装木马。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;攻击者通过克隆公司创始人身份、建立虚假Slack工作区和视频会议等极其专业且逼真手段实施了精准打击。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了Diátaxis技术文档框架，该框架将文档分为教程、指南、参考和解释四类，并强调了学习与工作场景的区别。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Lalit Maganti分享了利用AI代理开发SQLite工具的经历，展示了AI在处理复杂代码库时的潜力与挑战。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;初次尝试中，虽然AI快速实现了功能，但导致代码结构混乱、极度脆弱且难以维护。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在第二次尝试中，作者通过加强人工设计引导和持续重构，利用AI高效完成了原本难以独自攻克的任务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结认为AI在有明确验证标准的任务中表现卓越，但在需要主观判断的API设计和复杂权衡中可能产生负面影响。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论了Ryan Avent关于信仰与政治的文章，强调经济增长不应是目的，而应作为减轻痛苦和提升人类能力的手段。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Small Comfort by Ia Genberg ★★☆☆☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 该书虽风格独特且情节精巧，但因缺乏导向和核心而令人失望。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇书评表达了作者对一本多风格互文小说的复杂评价。作者肯定了该书在叙事结构、文学风格以及经济社会政治探讨上的创新，但批评其缺乏明确的走向和情感支撑点。作者认为该书各部分虽有亮点，但整体效果不如预期，这种观点也得到了读书会成员的认同。最终作者给出两星评价，认为这是一部风格华丽却令人遗憾的作品。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对该书交织的故事结构和关于经济救赎的哲学探讨表示赞赏，但整体评价并不完全信服。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者喜爱第一篇故事的叙事节奏，但对全书缺乏明确的终点感到失望，认为阅读过程既吸引人又令人沮丧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管该书在文风、情节和经济社会政治观上表现出色，但作者认为整体效果并不理想，缺乏能支撑读者的希望感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在参加读书会后发现，其他成员也一致认为这本书令人失望。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;最终评价为两星，并附上了书籍的购买链接、ISBN编号及相关资源信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-04-09T05:29Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-04-09T05:29Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Baseless AI-generation accusations erode trust, requiring accuser restraint and creator transparency to protect professional integrity.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article defines &amp;quot;vibecusations&amp;quot; as evidence-free allegations that human work is AI-generated &amp;quot;slop,&amp;quot; a practice that functions as a form of libel and erodes professional trust. It critiques the current reliance on technically unreliable AI detection tools and subjective &amp;quot;I know it when I see it&amp;quot; heuristics, which often prioritize social scorn over empirical evidence. To preserve creative integrity and social cohesion, the author advocates for a dual approach: observers should exercise restraint by withholding public accusations without proof, while creators should maintain transparency through the proactive disclosure of any AI augmentation.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining Vibecusation:&lt;/strong&gt; A vibecusation is an evidence-free claim that human-presented work is actually AI-generated &amp;#039;slop,&amp;#039; typically fueled by intuition and social scorn.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ethical and Social Impact:&lt;/strong&gt; Unfounded accusations act as a form of libel that damages reputations and erodes the fundamental trust necessary for society to function.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Strategies for Suspicion:&lt;/strong&gt; Rather than making public accusations, the author suggests exercising restraint by withholding social amplification from suspicious content.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Automated Detection Failure:&lt;/strong&gt; Current AI detection tools are largely unreliable and prone to false positives, often functioning as &amp;#039;vibe-coded&amp;#039; products within a speculative industry.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Subjectivity in Detection:&lt;/strong&gt; While the human mind remains the best detection tool, it is flawed and subjective, making the &amp;#039;I know it when I see it&amp;#039; standard problematic.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Zero-Tolerance Policy:&lt;/strong&gt; Any level of AI augmentation or editing is viewed as &amp;#039;slop&amp;#039; that signifies an author&amp;#039;s lack of care, regardless of how well the AI imitates human work.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Accountability and Disclosure:&lt;/strong&gt; To maintain integrity, observers should demand evidence for accusations while creators have a moral obligation to disclose any AI usage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21478&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【4/21(火)】大阪・梅田にてサイバーコネクトツー代表・松山洋の著書『ゲーム業界の攻略法』 リリース記念トークライブ＆サイン会開催！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 松山洋《游戏行业的攻略法》大阪纪念活动及行业深度分享。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了CyberConnect2社长松山洋在大阪举办的《游戏行业的攻略法》新书纪念活动。活动集结了HexaDrive、Safari Games等知名公司的资深创作者，通过深度对谈和Q&amp;amp;A环节，揭示游戏行业在人才招聘、职业成长和项目开发中的真实内幕。文章风格务实且具行业前瞻性，旨在为求职者和现役开发者提供一套实战化的行业指南，强调了经验传承与人才培养的重要性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CyberConnect2社长松山洋将于2026年4月21日在大阪梅田举办其著作《游戏行业的攻略法》发售纪念脱口秀及签名会。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;活动将邀请多位游戏行业一线开发者，通过小组讨论形式深入剖析人才招聘、培养及开发现场的真实状况。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;现场设有问答环节，由嘉宾直接解答参与者关于作品集制作、面试技巧及职业生涯规划等方面的困惑。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该活动面向志在进入游戏行业的学生、现役从业者及教育界人士，旨在提供实用的行业“攻略”启发。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细列出了活动的时间、地点（梅田Lateral）、票价信息，以及通过LivePocket和TwitCasting进行的购票及回放方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了主讲人松山洋，作为CyberConnect2的代表，他在负责游戏开发总指挥的同时也是一位资深的漫画与影视爱好者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;嘉宾松下正和是HexaDrive的CEO，曾任职于Capcom并参与多款大作开发，致力于推动关西游戏行业的发展。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;嘉宾高木大祐拥有超过30年的行业经验，目前在Safari Games负责招聘，并长期在专门学校指导学生。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;嘉宾平木是会担任Alvion开发部长，拥有丰富的现场开发与管理经验，专注于追求游戏的本质趣味性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了松山洋的新书《游戏行业的攻略法》，该书被定位为行业志向者与从业者的“新圣经”，由KADOKAWA出版。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;列举了CyberConnect2及松山洋以往参与的各类跨媒体合作、行业讲座、电子书发布及线下活动信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108300&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;AI 时代，我关于教育的思考&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Shift education to AI governance, using project-based learning to prioritize architectural logic and ensure humans remain system architects.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;In the AI era, education must pivot from manual execution to tool governance, prioritizing architectural pattern recognition over syntax and internalizing the &amp;quot;Model + Error&amp;quot; framework to critically evaluate lossy, AI-generated outputs. By utilizing academic writing as a logical scaffold and integrating these cognitive skills via Project-Based Learning, learners can ascend Bloom’s Taxonomy from passive memorization toward higher-order analysis and system design. Ultimately, cultivating professional &amp;quot;taste&amp;quot; through active workflow design is essential to prevent cognitive decay and navigate the &amp;quot;Matthew Effect,&amp;quot; ensuring humans remain the architects of automated systems rather than their subordinates.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Execution vs. Definition:&lt;/strong&gt; While AI excels at processing structured knowledge, humans must retain the critical role of defining tasks, boundaries, and logical frameworks. The future of education shifts from teaching execution to cultivating the ability to drive and govern automated tools.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Statistical Model Thinking:&lt;/strong&gt; This core ability moves beyond rote formulas to internalize the concept that all descriptions of reality are lossy compressions (Model + Error). It encourages learners to critically evaluate biases and uncertainties rather than passively accepting data-driven conclusions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Abstraction and Programming:&lt;/strong&gt; Programming education should transcend syntax to focus on architectural thinking and pattern recognition. By identifying reusable structures within complex problem spaces, learners can design scalable systems rather than performing repetitive manual tasks.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Writing as Thought-Mirror:&lt;/strong&gt; Academic writing serves as a scaffold for making mental logic visible, forcing learners to identify gaps in their reasoning. This structural clarity is essential for providing high-quality prompts to AI and evaluating the validity of its outputs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cognitive Hierarchy Evolution:&lt;/strong&gt; Leveraging Bloom’s Taxonomy, the author argues that these three core skills push learners from passive memorization toward higher-order analysis and evaluation. Knowledge remains the foundation, but these skills act as the engine for intellectual growth.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The 3×N Integration Model:&lt;/strong&gt; Rather than rebuilding the curriculum, these cognitive skills should be integrated into existing subjects (N) through Project-Based Learning. This creates a multiplier effect where foundational knowledge is activated and amplified by modern technical competencies.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cultivating Professional Taste:&lt;/strong&gt; Professional intuition and &amp;#039;taste&amp;#039; are not innate talents but results of internalized model thinking and repeated problem-solving cycles. Making growth visible through research reports and portfolios helps transform external pressure into internal drive.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mastering AI Workflows:&lt;/strong&gt; True mastery involves transitioning from passive AI consumption to active workflow design to avoid cognitive decay. Without these foundational skills, the &amp;#039;Matthew Effect&amp;#039; will widen the gap between those who command AI and those who are replaced by it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/69533&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;疑难杂症不求人：如何在 Windows 11 中搞定「重装」这件事&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Fix Windows 11 using non-destructive repairs or clean installs via Rufus and DISM to bypass hardware restrictions.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To resolve Windows 11 system instability, developers should first leverage non-destructive repair workflows using **DISM** and **SFC** or the native &amp;quot;Reset this PC&amp;quot; utility before committing to a full reinstallation. For clean deployments, the article outlines using the Media Creation Tool or **Rufus** to bypass hardware restrictions like TPM and Secure Boot via registry edits or automated scripts. Advanced users can opt for a low-level manual installation using **Diskpart** and DISM commands for granular control over partitioning and image application. Ultimately, if issues persist after a clean install, the focus should shift toward investigating driver conflicts or unpatched upstream OS bugs.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;System Image Repair:&lt;/strong&gt; Use DISM and SFC command-line tools to scan and repair corrupted system files or disk errors before attempting a full reinstallation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Native Reset Features:&lt;/strong&gt; Access the built-in &amp;quot;Reset this PC&amp;quot; option within Windows 11 settings or Advanced Startup for a quick system refresh with data retention options.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Official Media Tool:&lt;/strong&gt; Utilize Microsoft&amp;#039;s Media Creation Tool to generate a bootable USB installer and manage hardware compatibility via registry edits during setup.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;ISO and Rufus:&lt;/strong&gt; Download official ISO images and use Rufus to create installation media that can automatically bypass TPM and Secure Boot requirements.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Manual CLI Deployment:&lt;/strong&gt; Perform a low-level system installation using Diskpart and DISM commands for advanced partitioning control and manual image application.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Post-Installation Considerations:&lt;/strong&gt; Understand that persistent issues after a clean install may stem from driver conflicts or unpatched OS bugs requiring official Microsoft updates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108367&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;雷鸟 Air3 AR 眼镜：一年使用体验复盘&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Rayneo Air3 excels as a portable private cinema but suffers from 0DoF motion sickness and peripheral optical blurring.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The Rayneo Air3 is a 76g Birdbath-based AR wearable optimized for private media consumption, featuring 1080P OLED panels with excellent black levels and integrated spatial audio with effective sound leakage control. While the lightweight design and &amp;quot;air nose pads&amp;quot; support long-term comfort, the device suffers from inherent optical trade-offs including peripheral text blurring, internal reflections, and localized heat dissipation issues on the temples. Its 0DoF (fixed-to-head) display logic frequently causes initial motion sickness and eye strain, making it poorly suited for text-heavy productivity or office work. Ultimately, it serves as a specialized &amp;quot;private cinema&amp;quot; solution for users in shared environments, though it offers diminishing utility for those with access to dedicated monitors or private spaces.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Initial Acquisition Motivation:&lt;/strong&gt; The Rayneo Air3 was purchased primarily to solve the challenge of immersive media consumption in shared dormitory environments by providing a private, noise-isolated cinematic experience.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Display and Audio Strengths:&lt;/strong&gt; The 1080P OLED panels deliver exceptional black levels and immersion in dark environments, while the integrated temple speakers provide surprisingly good spatiality and sound leakage control.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware and Optical Constraints:&lt;/strong&gt; Significant technical drawbacks include localized heat dissipation issues on the temple, peripheral text blurring, and reflections inherent to the Birdbath optical design.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Tracking and Motion Sickness:&lt;/strong&gt; As a 0DoF device, the screen follows head movements directly, which initially caused motion sickness and eye strain during sessions longer than thirty minutes.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Long-term Ergonomic Adaptation:&lt;/strong&gt; Over a year of use, the author experienced increased tolerance for 0DoF movement and praised the 76g lightweight design and &amp;#039;air nose pads&amp;#039; for sustained comfort.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Productivity vs. Entertainment:&lt;/strong&gt; The device is poorly suited for text-heavy office work due to edge blur and fixed positioning, but excels at high-contrast media like horror movies.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Final Purchase Recommendations:&lt;/strong&gt; The glasses are recommended as a portable &amp;#039;private screen&amp;#039; for users in shared spaces, but offer diminishing returns for those with access to dedicated monitors and private rooms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108426&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 智谱发布旗舰模型GLM-5.1及多项前沿科技资讯汇总。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派科技资讯汇总，采用简明扼要的新闻报道风格，系统梳理了AI模型、电子硬件及游戏行业的最新进展。核心内容涵盖智谱GLM-5.1的长程自主能力突破、亚马逊对老旧Kindle服务的退役计划、DeepSeek与GitHub在AI功能上的迭代，以及闪迪和索尼在存储硬件与玩家互动技术上的新尝试。文章旨在为读者提供快速、全面的科技行业动态更新。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文汇总了包括智谱GLM-5.1发布、Kindle老旧设备服务调整及DeepSeek新功能在内的多项科技快讯。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;智谱AI发布具备“长程任务”能力的旗舰模型GLM-5.1，在多项代码基准测试中刷新纪录并全面开源。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;亚马逊宣布2012年及更早的Kindle设备将于2026年起停止商店功能，用户仅能阅读已下载内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;DeepSeek引入专家模式与快速模式的功能分层，专家模式专注于处理复杂问题和深度思考任务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;GitHub推出Rubber Duck实验功能，利用跨模型审查机制显著提升了AI智能体的任务处理表现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;闪迪发布售价近两千美元的2TB专业级SD卡，专为8K视频拍摄和高分辨率连拍设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;索尼启动Playerbase计划，旨在通过3D扫描技术将真实玩家的容貌与动作融入PlayStation游戏世界。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派分享了近期动态，包括超薄钢化膜首发优惠、新付费栏目上线及多篇深度技术文章推荐。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - April 8, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
