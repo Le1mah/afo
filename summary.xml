@@ -4,8 +4,140 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-04-10T20:27:28.395Z</updated>
+  <updated>2026-04-11T20:12:05.912Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - April 11, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-04-11</id>
+    <updated>2026-04-11T20:12:05.912Z</updated>
+    <published>2026-04-11T20:12:05.912Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>4 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 11, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;110.68493150684931&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    27.7%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;101&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;264&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;14&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████░░░░░░░░░░░░░░░░░░░░░░ 27.7%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22522&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The bots are swarming hard today, laying waste to the meadows of the open web. This is what powers vibe-coding. The slop must flow.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 **Bots aggressively scraping the open web fuel vibe-coding and AI slop in a damaging self-reinforcing cycle.**&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
+
+On April 11th, 2026, an independent web author documented a marked surge in aggressive bot crawling activity, framing it as systemic damage to the open web ecosystem using environmental destruction metaphors. The post draws a direct causal link between this crawling behavior and the &amp;quot;vibe-coding&amp;quot; trend, suggesting that AI-assisted development tools are fueled by indiscriminate scraping of web content. The sardonic phrase &amp;quot;the slop must flow&amp;quot; critiques the self-reinforcing demand cycle between low-quality AI-generated content and the infrastructure required to produce it. The post gained rapid traction within the author&amp;#039;s community—collecting 8 likes within hours—and was cross-posted to both Mastodon and Bluesky, consistent with decentralized publishing norms among open web advocates.
+
+**Key Takeaways for Developers:**
+- Bot traffic from AI training/tooling pipelines is becoming a measurable burden on independent web infrastructure
+- &amp;quot;Vibe-coding&amp;quot; workflows have non-trivial upstream costs imposed on content producers
+- Sentiment against exploitative crawling is consolidating in decentralized developer/tech communities&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bot Activity Surge:&lt;/strong&gt; The author observes a significant increase in bot activity on April 11th, 2026, describing bots as &amp;#039;swarming hard&amp;#039; and causing damage to the open web ecosystem.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Vibe-Coding Connection:&lt;/strong&gt; The post draws a direct link between aggressive bot crawling behavior and the trend of vibe-coding, implying bots scrape web content to power AI-assisted coding tools.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Slop Economy Critique:&lt;/strong&gt; The phrase &amp;#039;the slop must flow&amp;#039; serves as a sardonic commentary on the demand cycle driving low-quality AI-generated content and the infrastructure that supports it.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Open Web Impact:&lt;/strong&gt; The author expresses concern about the degradation of the open web, using the metaphor of &amp;#039;laying waste to meadows&amp;#039; to convey environmental-style destruction of shared online resources.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Community Engagement:&lt;/strong&gt; The post received 8 likes from identifiable community members within hours of publishing, indicating the sentiment resonated quickly within the author&amp;#039;s social network.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cross-Platform Syndication:&lt;/strong&gt; The post was simultaneously shared on Mastodon and Bluesky, reflecting a decentralized, multi-platform publishing approach common among independent web advocates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/202604-turing.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Alan Turing play in Cambridge MA&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Fowler推荐观看Alan Turing话剧《Breaking the Code》&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇短文是Martin Fowler于2026年4月11日撰写的简短观后感。他观看了位于马萨诸塞州剑桥市Central Square Theater上演的话剧《Breaking the Code》，该剧讲述了Alan Turing的故事。Turing是计算机科学领域的先驱，同时对二战期间自由民主国家的命运做出了重大贡献。Fowler对这部剧给予了高度评价，并向居住在波士顿地区的读者推荐观看。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Cheapest way to keep a UK mobile number using an eSIM&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用10英镑在Lyca Mobile eSIM上低成本保留英国旧手机号约22年&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者希望以最低成本在eSIM上长期保留一个英国旧手机号码，用于接收双重验证短信。经过比较各类低成本运营商后，选择了Lyca Mobile，花费10英镑完成号码携入。文章详细说明了操作流程，并分析了号码保留政策：默认120天，可延长至1年（年费15英镑）。作者推算，每120天使用1MB流量（约15便士）即可维持账户活跃状态，10英镑余额理论上可维持约22年，认为这是保留英国手机号码最经济的eSIM方案。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者有一个旧手机号码，用于多个服务的双重验证短信，希望以最低成本长期保留该号码，并排除了月租和高频充值的方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;经过比较，作者选择了Lyca Mobile的eSIM服务，花费10英镑完成号码携入，并详细描述了操作步骤：选择PAYG SIM、选eSIM、放弃套餐仅充值、填写携号信息并付款。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;关于号码保留期限，Lyca Mobile默认保留120天，但可拨打特定代码延长至1年，需缴纳15英镑年费；作者发现每120天消耗1MB流量（约15便士）可维持账户活跃，理论上10英镑余额可支撑约22年。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/107600&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;浅谈人工智能时代的用户体验：Agent Experience 导论&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AX三层架构解析：上下文管理是AI Agent体验的核心战场&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文系统阐释了Agent Experience（AX）的三层核心问题：用户与Agent的沟通（输入质量）、Agent内部状态管理（上下文管理）以及Agent与外部世界的沟通（输出可控性）。作者深入分析了Skills、MCP、RAG、Memory、MemGPT、Computer Use等技术的底层逻辑与取舍，揭示了上下文污染、劣化曲线、KV缓存冲突等工程难题。同时探讨了Conversational UI的演变历史、开口与闭口系统的设计取舍，以及系统透明度与权限管理的严重缺失，并提出了可审计性、行为建模报警和分级权限三个改进方向。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了Agent Experience（AX）的概念，由Netlify联合创始人Mathias Biilmann于2025年正式提出，定位为继UX和DX之后的下一个核心设计维度，专注于如何设计产品使AI Agent能够可靠理解、自主操作并高效集成。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将AX拆解为三个维度：用户与Agent的沟通（输入质量问题）、Agent与外部世界的沟通（输出可控性问题）、以及Agent的内部状态管理（上下文管理问题），认为三者需要协同分析。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;用户与Agent沟通的核心挑战是在不强迫用户写规范Prompt的前提下准确传递意图，Skills和交互设计在这一侧发挥作用，而Agent与外部世界的沟通则依赖MCP、工具调用等将概率性生成压缩为确定性动作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Agent内部状态管理是最复杂的部分，LLM本质是概率模型，需要通过命令行、MCP或Skills等方式对外界产生影响，这三种形态底层都在解决上下文污染问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Skills和MCP走的是两种思路：Skills通过向上下文追加说明引导LLM思维，但约束能力受模型对上下文尊重程度的影响；MCP通过函数签名压缩动作空间，但工具调用的返回值同样会污染上下文。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;RAG和Memory本质上都是解决上下文信息量上限的检索接口，RAG在需要时拉取相关内容，Memory则是带写入能力的RAG，两者与Skills、MCP并无互斥关系，可以协同工作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;上下文劣化存在一条&amp;#039;绝望曲线&amp;#039;：随着垃圾信息堆叠和注意力稀释，LLM越变越蠢，压缩机制触发后又回到无知起点；用户的情绪化表达也会投毒上下文，不同模型面对情绪污染有各自特色的失效模式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;动态上下文压缩（如MemGPT/Letta的分层记忆管理）比被动压缩更合理，通过主动淘汰错误信息和低相关内容来维持上下文清洁；但动态压缩与KV缓存的前缀缓存机制存在工程冲突，可通过结构化上下文来缓解。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Computer Use更像品牌包装而非独立技术，底层仍是Skills或MCP，主要有三条技术路线：读Accessibility Tree走事件注入、截图加Set-of-Mark Prompting标注编号、以及原生多模态直接预测坐标；读图路线天花板更高，DOM路线永远需要对方配合。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Conversational UI经历了两次高潮：2016年的Bot浪潮因技术底座不足而哑火，LLM出现后迎来第二次高潮，但行业选择了左右分栏的画布模式而非富交互对话流，Conversational UI依然被降级为指令输入框。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开口系统与闭口系统各有取舍：开口式意图噪声大、上下文容易被污染；闭口式设计成本高但每层问题更可控；中间地带Pipeline builder存在内在悖论，服务的用户群窗口相当窄。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;系统透明度是AX中被忽视的重要课题，现有权限确认弹窗将风险判断成本完整抛给用户，导致确认疲劳和YOLO Mode滥用，已造成真实数据损失事故。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;处理系统透明度问题有三个方向：文件系统和数据库层面的可审计性（如Git绑定、语义版本控制）、行为建模报警（类似杀毒软件的规则拦截）、以及分级权限体系（按操作不可逆程度分级而非一视同仁弹窗），但目前没有产品完整实现过这些方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;界面作为上下文投递机制的讨论引出了统计分析中LLM外包的风险，指出代码跑通不等于统计过程正确，人类将分析外包给LLM后很难仔细核查，而科学界本身的统计误用问题（如可重复性危机）表明这一风险相当严峻。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - April 10, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
