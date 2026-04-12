@@ -4,8 +4,105 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-04-11T20:12:05.912Z</updated>
+  <updated>2026-04-12T20:09:06.644Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - April 12, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-04-12</id>
+    <updated>2026-04-12T20:09:06.644Z</updated>
+    <published>2026-04-12T20:09:06.644Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>2 articles from 2 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 12, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;111.78082191780823&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    27.9%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;102&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;263&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;14&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████░░░░░░░░░░░░░░░░░░░░░░ 27.9%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;2&lt;/strong&gt; articles from &lt;strong&gt;2&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-4-12/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.4.12&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 醉酒失忆的周五后，周六完成起诉材料并平淡收尾。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者记录了一个周末的真实生活片段。周五与朋友HuaXia在Santana Row酒吧免费畅饮后，因酒醉失忆，第二天醒来发现自己在醉酒状态下做了大量混乱的事情，包括发语音消息、续esim、联系修相机的卖家，并用TC-1拍了19张不知所云的照片。周六在宿醉状态下仍完成了寄送SR19c给DMV的重要任务，为起诉肇事逃逸者准备齐了全部材料。下午休息后与朋友吃火锅，放弃了告五人的演唱会，以听歌结束了这个疲惫而混乱的周末。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;周五晚上作者借助AMEX的resy季度额度免费与HuaXia在Santana Row的酒吧喝酒，结果喝多到失忆，这是人生中第一次因饮酒而忘记回家经过。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;醒来后作者发现自己在醉酒状态下做了许多事：给朋友转停车费、重复签到、发语音消息、续了esim、联系闲鱼卖家修Minolta CL、拍了迷惑构图的照片，还被HuaXia拍下社死瞬间发到Instagram Story，TC-1相机里已拍了19张不明照片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;周六上午在头昏、肌肉酸痛中度过，之后去USPS寄出SR19c给DMV，这是起诉肇事逃逸者的最后一份材料；下午买了豆浆饭团后回家睡觉，傍晚与朋友吃火锅，因疲惫放弃了告五人的演唱会，当晚听了多首歌曲。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/106369&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;我是如何进行文件管理的&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 系统梳理文件管理的本质与实用方法，强调以用为核心。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者秦玉初从信息管理的哲学视角出发，系统阐述了文件管理的本质、必要性与具体方法。文章将待管理信息分为工具类、任务类和观点知识类三大类，并围绕Inbox统一入口、规范化命名体系、杜威十进制文件夹结构、PARA系统等实用方法展开详细介绍。作者特别强调，文件管理的核心目标不是储存，而是在需要时能准确快速调用，并通过持续复用与输出将信息内化为能力。文章还提及321备份原则，提醒读者重视数据安全。整体风格务实接地，结合作者自由职业音频从业背景提供了大量个人实践案例。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇介绍了作者从大学起开始无纸化学习并进行文件管理的背景，提出将从「什么是文件管理」、「为什么要文件管理」、「如何进行文件管理」三个方面分享个人经验，并强调每个人的文件管理系统应因人而异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者引用约翰·惠勒的「It From Bit」理论，将文件管理定义为信息管理，指出文件的本质是信息的载体，文件管理即是将信息分门别类按逻辑归纳整理的过程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将需要管理的信息分为三类：工具类（高复用素材）、任务类（各类工作任务）和观点知识类（文娱内容、课程等），并指出纯粹储存信息不够，需经过收集、过滤、整理、内化、输出等完整流程才能转化为真正的知识。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了Inbox（收件箱）概念在文件管理中的应用，建议减少信息入口、统一汇总渠道，以缓解信息过载和焦虑，并分享了个人使用Eagle和Notion分别作为文件类和知识类信息Inbox的具体实践方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细讲解了文件命名的重要性与个人命名习惯，提出命名需考虑概括性、可读性、适用性、检索便利性和软件兼容性，并以领域、项目、版本、执行人、标签、备注、时间等维度为框架，结合ReNamer等批量重命名工具提升效率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了两种主流文件夹管理方法：以杜威十进制图书分类法为基础的编号文件夹体系（建议层级不超过六层），以及Tiago Forte提出的PARA系统（Project、Area、Resource、Archive），并分析了各自的适用场景和实践逻辑。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章末尾强调文件管理的终极目的是「用」而非「存」，鼓励通过反复复用将信息内化为能力；同时提出输出倒逼输入的理念，并详细介绍了归档的重要性与321备份原则（3份副本、2种介质、1份异地存储）以保障数据安全。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - April 11, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
