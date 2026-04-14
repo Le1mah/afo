@@ -4,8 +4,233 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-04-12T20:09:06.644Z</updated>
+  <updated>2026-04-14T20:34:28.403Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - April 14, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-04-14</id>
+    <updated>2026-04-14T20:34:28.403Z</updated>
+    <published>2026-04-14T20:34:28.403Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>12 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 14, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;113.97260273972603&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    28.5%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;104&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;261&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;14&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████░░░░░░░░░░░░░░░░░░░░░ 28.5%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://matthiasott.com/articles/design-and-engineering-as-one&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Design and Engineering, As One · Matthias Ott&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Separating design from engineering—rooted in Taylor&amp;#039;s &amp;quot;scientific management&amp;quot;—creates damaging silos; early, continuous collaboration transforms complementary blind spots into better products.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Frederick Winslow Taylor&amp;#039;s 19th-century &amp;quot;scientific management&amp;quot; doctrine of separating thinking from doing has been inadvertently imported into modern digital product teams, creating a structural divide between designers and engineers that no amount of improved documentation can fully bridge. The core problem stems from fundamentally different professional lenses: designers optimize for perception and narrative while engineers manage complexity and structural constraints, producing incompatible vocabularies and instincts that manifest as the classic &amp;quot;technically correct but feels wrong&amp;quot; impasse. When these disciplines engage early and continuously, however, their complementary blind spots function as a dual threat-detection system—engineering constraints can productively redirect design solutions, and design intent can expose overlooked architectural assumptions. The cross-disciplinary negotiation process itself is generative: it forces designers to articulate intent beyond aesthetics and compels engineers to explain architecture in plain language, strengthening both the design rationale and the technical structure simultaneously. Traditional waterfall pipelines—where design fully completes before engineering begins—systematically eliminate every mechanism that converts this productive tension into better outcomes, transforming a manageable cognitive difference into an organizational fault line.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Taylor&amp;#039;s Industrial Legacy:&lt;/strong&gt; Frederick Winslow Taylor&amp;#039;s &amp;#039;scientific management&amp;#039; philosophy—separating thinking from doing—became the unintended blueprint for digital product teams, despite being designed for industrial factory work over 120 years ago.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Handoff Gap:&lt;/strong&gt; The classic designer-engineer meeting scenario reveals a persistent gap where technically correct features still feel &amp;#039;not quite right,&amp;#039; a problem that better documentation and specs alone consistently fail to solve.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Two Distinct Mental Models:&lt;/strong&gt; Designers and engineers are trained to see the same product through fundamentally different lenses—designers manage perception and narrative while engineers manage complexity and structural constraints—producing different vocabularies and instincts.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Tension as Creative Asset:&lt;/strong&gt; When design and engineering perspectives collide early and often, their complementary blind spots become a dual threat-detection system, and constraints from one domain can redirect and improve solutions in the other.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Friction Sharpens Thinking:&lt;/strong&gt; The act of cross-disciplinary negotiation itself forces clarity: designers articulate intent in non-aesthetic terms and engineers explain architecture in plain language, making both the design decisions and technical structure stronger.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Sequential Process Failures:&lt;/strong&gt; Traditional waterfall-style processes—where design fully completes before engineering begins—remove every mechanism that could make cross-disciplinary tension productive, turning a manageable cognitive difference into a structural fault line.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/04/10/no-stack-web-development/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No-stack web development – David Bushell – Web Dev (UK)&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Bushell argues developers should default to HTML, CSS, and JavaScript over opinionated frameworks, adding tools only when specific problems justify them.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;David Bushell argues that modern &amp;quot;stacks&amp;quot;—predefined collections of frameworks, libraries, and services—are fundamentally backwards, as they prescribe solutions before problems are diagnosed and force projects to carry unnecessary technical baggage. The constant churn of breaking changes, deprecations, and paid &amp;quot;stack-as-a-service&amp;quot; dependencies creates instability and long-term costs that outweigh short-term developer convenience. Opinionated abstractions like Tailwind, Webpack, and React obscure core web standards, generating knowledge that becomes obsolete when moving between stacks rather than building durable expertise in foundational technologies. Bushell&amp;#039;s central thesis is that HTML, CSS, and JavaScript already constitute the true web stack, offering decades of backwards compatibility without build toolchains, and that any additional tooling should only be introduced after a specific problem is clearly identified and its impact justified. In professional contexts, developers should default to and regress to these standards, reserving framework experimentation for personal projects where the cost of instability is acceptable.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining Web Stacks:&lt;/strong&gt; A &amp;#039;stack&amp;#039; encompasses all software choices for building a website, including languages, frameworks, libraries, and services. Modern stacks often manifest as bloated JavaScript dependencies and supply chain vulnerabilities.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Debt Problem:&lt;/strong&gt; Adopting a go-to stack means prescribing a solution before diagnosing a problem, forcing projects to carry unnecessary technical baggage. This leads to shoehorning projects to fit the stack rather than choosing tools that fit the project.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Non-Transferable Knowledge:&lt;/strong&gt; Opinionated stacks abstract away from web fundamentals, creating knowledge that becomes obsolete once you move on. Learning abstractions like Tailwind or Webpack actively limits understanding of core standards like CSS.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Accelerated Obsolescence:&lt;/strong&gt; Stack components frequently update with breaking changes or deprecate entirely, creating constant churn and instability. A basic HTML document from 20 years ago still works today, while a stack-based codebase from 20 months ago may already be broken.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Vendor Lock-In Risks:&lt;/strong&gt; Re-stacking is costly and painful, and stack-as-a-service products trap websites in paid dependencies. This trades long-term stability and freedom for short-term &amp;#039;developer experience&amp;#039;.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Choosing Tools Wisely:&lt;/strong&gt; Tools should only be chosen once the specific problem and impact are clearly understood, satisfying website goals rather than development trends. Good tools are intuitive, standards-based, and can be introduced or replaced with minimal disruption.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Web Platform Fundamentals:&lt;/strong&gt; CSS, HTML, and JavaScript are the true web stack, offering decades of broad backwards compatibility without requiring build toolchains. Developers should always default to and regress to these core standards.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Personal vs. Professional Projects:&lt;/strong&gt; Legacy frameworks like React should be avoided in professional contexts due to their dependency on corporate direction rather than open standards. However, personal projects offer freedom to experiment, learn new tools, and even build custom stacks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://tools.rmv.fyi/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;delphitools&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 delphitools是注重隐私的免费在线工具集合，无需注册即可使用。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;delphitools是一个由开发者delphi创建的小型在线工具集合网站，涵盖颜色处理、图像编辑、排版计算、印刷制作、编码转换等数十种实用工具。网站秉持隐私优先的理念，所有处理均在用户本地浏览器完成，无需注册账户，不收集任何数据。作者表达了对经典、真实网络文化的热爱，鼓励手工制作网络内容。网站使用Next.js、Tailwind CSS和shadcn/ui构建，并计划推出iOS原生应用版本。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;delphitools是一个小型、低门槛的工具集合，无需登录、注册或数据收集，作者倡导手工制作的网络精神，并鼓励用户向Wikipedia或EFF捐款而非向自己捐款。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;delphitools即将推出iOS原生应用，保持隐私优先的理念，无账户、无追踪。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;网站提供大量分类工具，涵盖二维码生成、调色板、背景移除、社交媒体裁剪、颜色转换、图像处理、字体排版、印刷制作、计算器、编码工具等多个领域。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;delphitools由Next.js、Tailwind CSS和shadcn/ui构建，所有数据处理均在用户本地浏览器中完成，不向外传输任何数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22524&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Just heard the sad news about Moya Brennan passing. Some of the first records I ever bought were by Clannad—Macalla, Magical Ring, Legend. Ar dheis Dé go raibh a hanam.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者哀悼Clannad成员Moya Brennan的离世&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇简短的帖子记录了作者对Moya Brennan去世的悲痛反应。作者回忆起自己最早购买的唱片中就有Clannad乐队的作品，包括《Macalla》、《Magical Ring》和《Legend》等专辑。帖子以爱尔兰语表达了对逝者的哀悼祝福。评论区中，Matt Hamm也表示悲痛，并提到他曾为Moya Brennan设计过网站。整篇内容简短而情感真挚，表达了对这位音乐人的深切怀念。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/478&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 478: TanStack Start gets RSC&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 TanStack Start以客户端优先理念实现RSC，挑战Next.js范式&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了TanStack Start对React服务器组件（RSC）的实验性支持，其核心理念与Next.js相反：客户端拥有组件树，RSC被视为可通过TanStack Query正常缓存和获取的异步资源，而非框架强制默认模式。该实现提供更好的安全性、复合组件原语，并支持纯SPA到静态页面等多种模式。实测显示客户端包体积减少153KB，关键页面TBT从1200ms降至260ms。文章还汇集了Bun新功能、AI前端局限性分析、Intl API介绍等行业动态，并附有一道JavaScript this指向的测验题。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;TanStack Start发布了对服务器组件（RSC）的实验性支持，其设计理念与Next.js截然相反——客户端拥有组件树，服务器组件作为可按需获取的资源，而非默认的服务器渲染模式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;TanStack Start的RSC实现具有多项关键差异：更好的安全性（使用显式服务器函数替代&amp;#039;use server&amp;#039;）、复合组件原语、完全可选的集成方式，并且在实际测试中显著减少了客包体积（153KB）并将Total Blocking Time从1200ms降至260ms。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章底部汇集了多条行业快讯，包括：Caveman工具可减少65% Claude token用量、Bun v1.3.12内置无头浏览器自动化、Adam Argyle分析AI在前端的不足、Firefox扩展体验报告、Intl API的使用介绍，以及一道关于JavaScript中this指向的测验题（答案为&amp;#039;Mike Tyson&amp;#039;，因非严格模式下this默认指向window对象）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-04-14.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: April 14&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI时代程序员应坚守懒惰美德，为AI设计克制与怀疑的能力&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Martin Fowler的博客片段集，围绕AI时代的编程哲学展开多个话题。文章探讨了程序员&amp;#039;懒惰&amp;#039;美德的深刻内涵——驱动简洁抽象的创造——并指出LLM因无需优化自身时间成本而天生缺乏此美德，容易生成冗余代码。Fowler以个人经历印证YAGNI原则的价值，同时介绍Jessica Kerr将TDD思想应用于agent提示工程的实践。文末借《Dark Star》炸弹场景，呼吁为AI系统设计&amp;#039;适时怀疑与克制&amp;#039;的能力，认为在高度自主的AI世界中，&amp;#039;知道何时不行动&amp;#039;是最重要的能力之一。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Martin Fowler参加了首届Pragmatic Summit，与Kent Beck和主持人Gergely Orosz就AI话题进行了约半小时的对谈，涵盖AI与早期技术变革的比较、敏捷方法、TDD角色及如何在AI时代蓬勃发展等议题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Fowler引用Larry Wall提出的程序员三大美德（傲慢、急躁、懒惰），强调&amp;#039;懒惰&amp;#039;驱使程序员构建简洁有力的抽象，而LLM天生缺乏这种&amp;#039;懒惰&amp;#039;美德，倾向于生成大量冗余代码而非精炼抽象。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Fowler以自己修改音乐播放列表生成器为例，说明通过应用YAGNI原则去除不必要功能，将复杂任务简化为几十行代码，并反思若使用LLM是否会产生类似的过度复杂化问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Jessica Kerr（Jessitron）将TDD原则应用于AI agent提示工程，建议先在AGENTS.md中添加文档更新指令，再添加审查agent验证PR是否包含文档更新，体现了TDD&amp;#039;先写验证再写实现&amp;#039;的思路。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;受Mark Little启发，Fowler借用科幻电影《Dark Star》中说服炸弹质疑自身传感器的经典场景，类比当前AI系统过于自信、缺乏自我怀疑的问题，指出设计AI时应将&amp;#039;适时不行动&amp;#039;作为一种核心能力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Theresa O’Connor &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://tess.oconnor.cx/2026/04/14-links&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Mid-April link roundup&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 中旬链接汇总涵盖科技、文化与跨性别权益议题&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇中旬链接汇总，作者分享了涵盖多个领域的精选内容，包括技术工具（defuddle.md、AI会议记录）、科技文化（Unicode字符起源、时钟设计）、手表收藏（Breitling Cosmonaute限量版）、铁路与交通、美国政治动态（Forest Service裁撤、联合航空并购传闻），以及大量关于跨性别权益现状的新闻报道。作者通过简短评论表达个人立场，语气幽默而直接，对部分政策持明显批评态度。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202604/71788&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【『戦場のフーガ』開発記録】『インターミッション』第84回 公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《战场的赋格》第84话揭露沃帕真面目并宣布设定资料集即将发售&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为游戏《战场的赋格》开发记录漫画《Intermission》第84话的介绍与幕后解说。内容涵盖三部分：一是漫画本话的看点，包括主人公马尔特坠落翻转的动作演出与震撼跨页鲸鱼场景；二是角色沃帕真实面貌的提前披露及其设定诞生的经过；三是《战场的赋格3 完全设定资料集》的制作进展，预计2026年5月游戏一周年时公布发售信息。此外还介绍了松山洋新书《游戏业界攻略法》的发售及相关活动。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;漫画第84话中，主人公马尔特在坠落过程中从背向转为正面，仅用两格画面展现了帅气的动作，以及张口大鲸的震撼跨页场景，马尔特率先进入澳大利亚大陆。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;沃帕的真实面目在本话漫画中提前揭露，而在游戏中这一内容属于通关后的秘密剧情。沃帕的角色设定从最初的设计阶段便已深入挖掘，其刘海遮额的造型暗示了出生的秘密与定期旅行的原因。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前《战场的赋格3 完全设定资料集》正在制作中，预计于2026年5月游戏发售一周年前后正式发布相关信息，同时配套的原声音乐集也将一并公告。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《游戏业界攻略法》一书由松山洋撰写，于2026年2月发售，4月21日将在大阪举办纪念发布会及签名会，并提供线上直播。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108632&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 137 | 派友挑战不沉迷手机的周末、未来视野显示器与 MT6000 路由器&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 社区速递汇聚周末脱手机挑战与数码新玩意分享&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派Matrix社区第137期速递，涵盖三大板块：一是围绕&amp;#039;不沉迷手机的周末&amp;#039;话题的派友讨论，170人分享了旅行、烹饪、运动、Vibe Coding等丰富方式；二是一周热评精选，涉及MacBook Neo、Windows重装、AR眼镜、Type-C接口、日系手机等多篇文章的用户评论；三是社区摘要与&amp;#039;新玩意&amp;#039;投稿，包括未来视野RV100mini升级版4K显示器（1114元，24寸，适合Mac mini搭配但存在色彩溢出和无法安装气压臂等缺陷）及GL iNet MT6000路由器（773元入手，原生支持OpenWrt，适合追求稳定性的轻度玩家）的真实体验分享。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派Matrix社区重启周报，以&amp;#039;社区速递&amp;#039;形式汇聚优质内容，本期聚焦派友关于不沉迷手机度过周末的讨论（第269期一派话题），共170名用户参与，分享了旅游、运动、烹饪、Vibe Coding等多样化周末方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;一周热评汇总多篇文章的精彩评论，涵盖MacBook Neo体验、Windows重装指南、AR眼镜雷鸟Air4 Pro使用反馈、Type-C接口协议现状、日系手机历史等主题，评论观点犀利且富有实用价值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;社区摘要列举本周Matrix优质投稿，包括Rust编写的轻量Markdown编辑器、东京游记、Mac直播应用等；&amp;#039;新玩意&amp;#039;栏目收录两篇作者投稿：未来视野RV100mini 4K显示器的使用评测，以及GL iNet MT6000路由器的购买体验与配置分享。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108005&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 国内原生Matter全屋智能困难重重但前景可期&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者是长期关注Matter协议的极客用户，以搬家为契机全面梳理了在中国国内部署原生Matter全屋智能的重重障碍。文章从开关面板、传感器、白电、生态平台到价格售后逐一剖析：国标Matter开关几乎空白，单火线方案缺失，门锁尚未量产；传感器品类相对较好，宜家入华值得期待；白电进展迟缓；Apple Home与SmartThings各有短板，Aqara和Home Assistant潜力突出。作者最终表达了对Matter开放生态长期价值的坚定信念，认为掌握家庭数字主权的确定性足以抵消当前所有折腾成本。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者长期关注Matter产品评测，因搬家契机梳理国内原生Matter设备现状，指出国内市场缺乏符合国标的Matter设备是核心痛点。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;智能开关和墙插领域几乎无原生国标Matter产品，只能选择白牌ODM或改用欧规底盒，单火线方案缺失和Matter门锁空白进一步加剧困境。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;传感器等触发类设备在国内表现较好，海曼和Aqara有所布局，宜家即将进入国内市场带来新希望，但部分高级功能仍限于非Matter模式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;白电领域Matter支持极为落后，美的等品牌虽有原型产品，但均面向外销市场，国内消费者几乎无法购买到Matter白电产品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;国内缺乏中立生态平台，Apple Home和三星SmartThings各有局限，Aqara和Home Assistant潜力较大，但部署门槛高且存在地区锁问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Matter开放协议并不等于低价，认证成本较高，但IKEA进入中国市场有望拉低均价；同时Matter稳定性和售后仍是长期挑战，对网络和厂商技术能力要求极高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管国内折腾Matter困难重重，但其开源、本地运行、不依赖云端、多平台流转的特性赋予了智能家居真正的数字主权，作者认为长远价值足以抵消当下所有折腾成本。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108594&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;首销优惠即将截止！少数派麦金獭无感膜 10 大常见问题解答&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派麦金獭无感膜十大常见问题解答&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派发布首款自研周边麦金獭无感钢化膜，并针对用户常见的10个问题进行集中解答，涵盖贴膜难度、售后保障、AR款与高清款区别、适用人群、适配机型、膜面手感、显示效果、优惠截止日期、晒单活动及防窥款等内容。该产品厚度仅0.13mm，透光率达96%以上，采用磁控溅射工艺，手感接近裸屏。首销优惠截止2026年4月15日，目前适配多款主流iPhone机型。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派正式发布首款自研周边麦金獭钢化膜，上线后收获积极反馈，同时整理了10个常见问题进行解答。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;麦金獭无感膜附赠贴膜神器，配合图文视频教程，即使新手也能顺利完成贴膜操作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;若贴坏或收到破损商品，可联系客服申请售后补发单膜一张，包装已升级增加气泡袋保护。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AR款与高清款厚度相同均为0.13mm，主要区别在于AR款降低反光，高清款更通透。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;无感膜面向对手感和显示有高要求的用户，追求贴后无感、顺滑、清晰的使用体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前适配iPhone 16 Pro、16 Pro Max、17、17 Pro、17 Pro Max及iPhone Air等主流机型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AR款采用磁控溅射工艺，手感接近原厂屏幕，顺滑不发涩，指纹不易残留。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;实测透光率达96%以上，贴膜后屏幕保持通透清晰，不发雾不偏色。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;首销优惠截止2026年4月15日，晒单反馈活动截止2026年4月19日。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前仅有AR抗反射款和高清款，暂无防窥版本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;麦金獭无感膜将玻璃基材打磨至0.13mm，搭配电镀疏油层，实现裸屏般手感与96%以上透光率，附全套贴膜工具和售后保障。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派表示做这款钢化膜旨在解决贴膜痛点，希望用户能享受&amp;#039;贴完就忘&amp;#039;的使用体验，并鼓励趁首发优惠入手。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108614&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：稳定版 Linux 7.0 内核发布等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技速报：Linux 7.0发布及多项AI与互联网新动态&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派「派早报」科技速览，汇总了4月13日前后多条重要资讯：Linux 7.0稳定版正式发布，带来多项硬件支持与系统优化；高通与网易游戏合作推动骁龙X平台游戏适配；微信表情上传渠道拓展并打通全域生态；MiniMax开源具备自我进化能力的M2.7模型；微软测试Copilot后台自动化功能；Meta开发3D虚拟扎克伯格遭遇隐私争议；网信办出台直播打赏规范管理通知。文章以简报形式呈现，信息密度高，兼附用户评论。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;稳定版Linux 7.0内核于4月13日正式发布，版本号提升源于惯例而非重大变革，包含对Intel Nova Lake、AMD新图形IP等硬件支持及XFS自修复、I/O错误上报标准化等众多新特性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;高通中国与网易游戏达成深度合作，25款网易游戏已适配骁龙X系列Windows PC，MuMu模拟器也完成针对骁龙X架构的底层优化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微信宣布创作者可通过「微信表情助手」小程序用视频号账号上传表情包，并实现表情与视频号、公众号等微信生态全域打通。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;MiniMax开源M2.7模型，该模型具备自我进化能力，可自主优化架构与技能，并支持接入强调持续学习的开源智能体Hermes Agent。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软正测试类OpenClaw的Copilot后台自动化服务，可自动处理邮件日历生成待办事项，预计在6月Build大会上展示部分功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Meta正内部开发AI驱动的3D虚拟扎克伯格用于与员工实时互动，同时其AI眼镜人脸识别功能遭70余个民权组织联名抗议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;中央网信办发布通知，从明示打赏规则、限额提醒、未成年人保护到异常识别处置等十一项内容，全面规范网络直播打赏行为。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯涵盖Adobe修复Acrobat零日漏洞、华为Pura X Max开预售、微软Surface涨价、Anthropic为Word开发Claude插件、黑客勒索Rockstar等多条科技资讯。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - April 12, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
