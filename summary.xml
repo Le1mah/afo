@@ -4,8 +4,198 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-04-15T20:25:44.176Z</updated>
+  <updated>2026-04-16T20:30:35.335Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - April 16, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-04-16</id>
+    <updated>2026-04-16T20:30:35.335Z</updated>
+    <published>2026-04-16T20:30:35.335Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>9 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 16, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;116.16438356164383&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    29.0%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;106&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;259&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;15&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████░░░░░░░░░░░░░░░░░░░░░ 29.0%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;9&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22530&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Thursday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 &amp;quot;Thursday Session&amp;quot; contains only metadata (timestamp, location, social links) with no summarizable technical content.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article titled &amp;quot;Thursday Session&amp;quot; does not contain any substantive technical content available for summarization. The source material consists entirely of non-content metadata — specifically a timestamp, geolocation data, social media platform links, and a single &amp;quot;Like&amp;quot; interaction — none of which conveys meaningful technical information. No architectural decisions, implementation details, algorithms, APIs, or engineering concepts are present in the provided text. A meaningful 3–5 sentence technical summary cannot be produced from metadata fragments alone. To generate a useful summary, please provide the actual article body text.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (1 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Insufficient Article Content:&lt;/strong&gt; The provided text does not contain a substantive article to analyze. It consists only of metadata fragments such as a timestamp, geolocation, social media platform links, and a single &amp;#039;Like&amp;#039; interaction.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22529&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Threat models&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 LLM最大威胁是编程而非艺术创作&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者将大型语言模型（LLM）的应用场景分为三类：压缩（将大量内容缩减）、转换（格式转换）和扩展（从零生成内容）。LLM在前两类任务中表现良好，但在扩展任务中往往输出平庸。编程是扩展任务中的例外，因代码可被客观测试。作者指出，其对LLM威胁模型的判断已完全逆转——两年前他认为艺术家和作家面临风险，如今认为软件工程师才是受冲击最大的群体，而人类天然偏好人类创作，艺术领域相对安全。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出大型语言模型（LLM）的任务可分为三类：压缩（Compression）、转换（Transformation）和扩展（Expansion），不同类别的表现差异显著。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;压缩任务指将大量内容缩减为精简输出，如总结书籍或会议，LLM在此类任务中表现优秀；转换任务指格式转换，如音频转文字或数据转JSON，LLM表现尚可但可能有少量错误。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;扩展任务指从零生成内容，如图片、演示文稿或诗歌，作者认为这是LLM表现最差的领域，输出往往平庸乏味。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者引用Laurie的观点佐证这一三分框架：输入多于输出时效果好，等量时一般，输出多于输入时则不理想。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者希望LLM泡沫破裂后，模型能专注于前两类实用任务，并探讨了人们倾向于用AI替代他人工作而非自身工作的心理现象。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编程是LLM扩展任务中的特殊例外，因为代码可以被客观测试验证，使LLM能够生成质量较高的代码。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者坦言，两年前他曾担忧艺术家和作家会受到LLM冲击，如今观点完全逆转：软件开发才是LLM最具杀伤力的应用领域，而人类对人类创作的偏爱将保护艺术创作者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以个人经历收尾，回顾自己从事网页开发的历程，思考软件行业正在经历的压缩或转型，语气平静而不失反思。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;RSS Club for WordPress&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 RSS Club是仅对RSS订阅者可见的隐秘社群&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了RSS Club的概念——一个隐藏在普通视野中的秘密社交网络。只有通过RSS或Atom订阅源阅读内容的用户才能看到RSS Club的帖子，从而形成一个专属于RSS订阅者的隐秘社群。文章以轻松友好的语气欢迎读者加入这一特殊群体，强调其内容对普通网页浏览者不可见，具有一定的独特性与排他感。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-04-16T07:30Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-04-16T07:30Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 React and Svelte strip inline element whitespace unexpectedly, requiring markup-level fixes rather than CSS workarounds.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article examines a deceptively simple but revealing whitespace problem in component-based frameworks: React and Svelte both strip intended whitespace between inline elements due to how HTML whitespace collapsing rules interact with JSX/template rendering and code formatters. Developers commonly misdiagnose this as a layout problem and apply CSS workarounds such as `flex` + `gap` or extra padding, when the correct fix in React is explicitly injecting a space via the JSX expression `{&amp;#039; &amp;#039;}`, or in Svelte, strategically placing newlines between elements. This whitespace issue is symptomatic of a broader pattern of &amp;quot;divitis&amp;quot;—unnecessary wrapping in `div` elements—and reflects how framework tooling can nudge developers toward structurally poor markup habits. The article frames this as a representative example of the hidden, arcane knowledge that accumulates as a hidden cost of framework adoption, arguing that developers must weigh these non-obvious complexities when evaluating framework buy-in. Ultimately, the correct solution is a markup/template fix rather than a styling workaround, and recognizing that distinction is the key takeaway for any senior developer working in component-driven UI stacks.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The React Space:&lt;/strong&gt; Sara Joy highlights a common React pattern where developers use elaborate CSS flex and gap styling to fix spacing issues, when the correct solution is simply inserting a literal space character using the JSX expression {&amp;#039; &amp;#039;}.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cross-Framework Problem:&lt;/strong&gt; The whitespace issue is not unique to React; it also appears in Svelte and other frameworks, making it a broader concern for component-based UI development rather than a React-specific bug.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;HTML Whitespace Rules:&lt;/strong&gt; The HTML specification defines rules around collapsing whitespace, and combined with framework rendering behavior and formatting tools, the output HTML does not always preserve the whitespace the developer intended.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;CSS as Wrong Fix:&lt;/strong&gt; Developers commonly reach for CSS properties like flex gap or padding to compensate for missing spaces between inline elements, which is a misapplication of styling to solve a markup/template problem.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Correct Idiomatic Solution:&lt;/strong&gt; The proper fix in React is {&amp;#039; &amp;#039;} to force a literal space string, while in Svelte, liberal use of newlines between elements can achieve the same effect without explicit space injection.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Div Soup Contribution:&lt;/strong&gt; The problem is compounded by &amp;#039;divitis&amp;#039;—excessive wrapping of content in div elements—which, while never strictly necessary in React, is prevalent enough to suggest the tooling itself may encourage poor structural patterns.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Framework Knowledge Cost:&lt;/strong&gt; The React space is cited as a small but telling example of the hidden, arcane knowledge developers must acquire when adopting a framework stack, reinforcing the argument to carefully evaluate the true cost of framework buy-in.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108070&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;城市漫步指南：在沿海宜居小城，过一段不赶时间的日子&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者旅居北海，记录美食摄影与慢生活体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者趁出差机会考察宜居城市的旅居游记，重点记录了在北海的生活体验。文章以轻松细腻的笔触，涵盖美食（闽菜、广式早茶、海鲜）、摄影（CCD相机、人像拍摄）、人文景点（北海老街、德国领事馆旧址）及就医经历等多个维度，真实呈现了北海作为沿海宜居小城慢节奏的生活方式。作者以亲身体验为依据，为有意旅居或候鸟式养老的读者提供了实用参考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因工作疲惫产生旅居念头，趁出差机会考察福建和广西的宜居城市，依次到访厦门、南宁和北海，其中北海停留时间最长。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在厦门体验了米其林一星闽菜餐厅，品尝了多道特色菜肴，整体评价较高，人均消费约330元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从厦门飞往南宁，因下雨取消青秀山行程，转乘动车前往北海，记录了交通换乘的细节与体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在北海多处海滩漫步，带着松下CCD相机和富士X-T30 II拍摄，并游览了紫藤花园和德国领事馆旧址等人文景点。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者参观了北海老街，了解其中西合璧的建筑历史，并在附近海边感受到宁静的港口风情。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者体验了北海广式早茶，并在南珠市场购买海鲜自己烹饪，还在越乡小厨品尝了波士顿龙虾等海鲜，记录了各类食物的价格与口感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在北海就医切除黑痣，详细记录了挂号、治疗、费用及术后护理过程，并反映了医生态度欠佳和异地医保使用的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结了在北海旅居的悠闲体验，表达了对广西其他城市如崇左、桂林的向往，认为每次旅行留下的遗憾是下次出发的动力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108694&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;众测 | 让通勤路上的你「重装简行」：邀你一同体验 tomtoc T77 双肩包&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派招募30人免费众测tomtoc T77通勤差旅双肩包&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了少数派与数字装备收纳品牌tomtoc合作发起的T77双肩包众测活动。T77 UrbanEX-T77定位为城市工作者的多场景通勤差旅背包，26L款可满足2-3天出行需求，具备180°全开主仓、独立电脑快取仓及「撕拉快取」设计，强调在机场安检等高频场景下的操作效率。材质轻量耐用，重量控制在约1.19kg。活动招募30名用户免费体验30天，完成反馈后背包直接赠予，报名截止2026年4月22日。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;当代城市工作者的出行场景日趋复合，人们希望一个背包能同时满足设备保护、收纳逻辑与专业设计，tomtoc品牌与少数派合作发起T77双肩包众测活动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;T77提供22L和26L两种容量，26L款专为短途差旅设计，支持180°全开主仓、行李箱式收纳体验，并兼容相机内胆包等额外设备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;T77围绕高频使用场景设计了独立电脑保护仓与顶部直通快取拉链，配合「撕拉快取设计」，让用户在安检、会议等场景下能单手快速取出设备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;T77采用400D抗撕裂面料与840D耐磨涤纶，26L款整包重量约1.19kg，配备透气网料背负系统，兼顾耐用性与长时间穿背舒适度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本次众测面向经常出差、携带15-16英寸笔记本的用户，共招募30名参与者，免费体验26L款T77背包30天，完成问卷后背包归个人所有，报名截止日期为2026年4月22日。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108630&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从画质玄学到改机热潮：浅谈拍立得的前世今生&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 拍立得从即时成像技术革命到改机热潮的兴衰演变史&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文系统梳理了拍立得（即时成像相机）的发展历程。文章从当下年轻人热衷拍立得却深陷&amp;#039;玄学&amp;#039;困境切入，追溯了1948年宝丽来开创即时成像技术的历史，讲述了柯达因专利败诉退出市场、富士弯道超车成为霸主的商业博弈，以及拍立得从贵族奢侈品走向全民潮品的平民化转型。最终，文章聚焦于进阶玩家因原厂机局限而兴起的改机热潮，指出改机的核心价值在于用理性的技术手段取代&amp;#039;靠运气出片&amp;#039;的不确定性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;拍立得凭借独特的仪式感在复古潮流中大受欢迎，但出片不稳定导致网络上涌现大量带有&amp;#039;玄学&amp;#039;色彩的使用教程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;即时成像技术的本质是将暗房药水封装进胶卷，1948年宝丽来推出Model 95相机，正式开创了&amp;#039;即拍即得&amp;#039;的摄影时代。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;柯达于1976年进军即时成像市场，因专利侵权败诉后退出；富士则借助与宝丽来的交叉授权协议积累技术，1998年推出instax系列后逐渐成为市场主导者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;宝丽来早期将拍立得定位为高端产品，以SX-70为代表；面对数码冲击，富士转型推出平价小巧的mini系列，使拍立得走向大众市场。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;进阶玩家发现原厂拍立得存在对焦局限、曝光僵化、构图视差三大痛点，加之富士停产FP-100C撕拉片，催生了拍立得改机热潮。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;改机主要分为复古机型复活、胶片机融合、模块化升级三大流派，目标是通过技术改造实现对成像效果的精准掌控，而非单纯的复古情怀。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/105394&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;译文｜Tahoe 的图标令人难评&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 macOS Tahoe菜单图标设计违背基本原则，混乱且难用。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是对Nikita Prokopov批评macOS Tahoe菜单图标设计的博客文章的中文译文。作者以详实的截图和严密的逻辑，从图标区分度、应用间一致性、应用内一致性、图标复用、细节过多、像素渲染、隐喻合理性、文字滥用等多个维度，系统性地剖析了Tahoe图标设计的失败之处。文章风格犀利幽默，大量援引1992年《Macintosh Human Interface Guidelines》的设计原则，指出这些原则基于人类认知规律，至今仍然有效，而Apple此次的设计决策是对这些共识的全面倒退。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文是对Nikita Prokopov博客文章的译文，批评macOS Tahoe在每个菜单项中强制添加图标的设计决策，编者注说明了文章来源及授权信息，并提供了隐藏菜单图标的终端命令。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者引用1992年《Macintosh Human Interface Guidelines》指出，图标的核心功能是帮助用户更快找到目标，但给所有菜单项都加图标反而适得其反，因为区分度降低了。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章通过大量截图举例，指出Tahoe菜单图标在应用间和应用内均缺乏一致性：同一操作（如「新建」「保存」「打开」）在不同应用中使用了完全不同的图标样式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者批评Tahoe存在严重的图标复用问题，即同一个图标在不同上下文中代表完全不同的操作，导致用户无法建立稳定的认知映射。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Tahoe图标细节过于繁琐，且在12×12像素的极小尺寸内强行塞入复杂元素，导致图标模糊难辨，与矢量字体渲染和像素网格对齐问题也加剧了可读性问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章分析了Tahoe图标在隐喻选择上的失败：隐喻不直观、误导用户、成对操作缺乏关联性，以及滥用文字作为图标内容等问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者引用HIG原则指出，将文字（如Abc、A）直接用作图标是错误做法，且图标中使用系统元素（如省略号、快捷键符号）也会造成混淆。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结认为，Apple为每个菜单项强配图标的目标本身就难以实现，而执行质量又极差，违背了30年前就已确立的界面设计原则，并提供了隐藏图标的终端命令作为实用补充。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108692&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Keychron 推出轻量化鼠标 G3、微软推出新模型等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报：鼠标、AI模型与电视功能调整&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派科技早报，汇总了四则科技资讯：Keychron推出44g超轻三模鼠标G3，售价84.99美元起；OpenAI扩大网络安全模型GPT-5.4-Cyber的访问范围，面向经审查的安全专家开放；微软发布低成本文生图模型MAI-Image-2-Efficient，主打高性价比；索尼计划削减Bravia智能电视部分功能，影响天线及机顶盒用户。此外，Aptoide起诉Google垄断Android应用分发市场。文章采用新闻速报形式，简洁呈现各领域最新动态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Keychron推出三模鼠标G3，采用超轻量化设计，仅重44g，搭载PAW3950传感器，支持8kHz回报率，常规版售价84.99美元，碳纤维版109.99美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI扩大网络防御可信访问计划（TAC），向数千名网络安全专家开放GPT-5.4-Cyber模型，该模型基于GPT-5.4针对网络安全防御场景微调，采用严格身份验证机制限制访问。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软推出低成本高效文生图模型MAI-Image-2-Efficient，以近一半价格提供旗舰级生产质量，擅长生成产品图和UI原型图，可在Microsoft Foundry和MAI Playground中使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;索尼宣布将于2026年5月下旬削减2023至2025年款Bravia智能电视部分功能，主要影响使用天线或机顶盒的用户，涉及节目信息显示、频道图标及节目预览等功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三方Android应用商店Aptoide起诉Google，指控其通过垄断应用分发与支付结算排挤竞争对手，违反美国反垄断法，案件在旧金山联邦法院提起，索赔三倍损害赔偿。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - April 15, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1824,131 +2014,6 @@ On April 11th, 2026, an independent web author documented a marked surge in aggr
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;ShotClean首页展示核心数据统计与权限状态，设置完成后可全自动运行，并通过通知栏告知归档结果，归档采用先复制再移除的安全机制，并有日志功能记录操作历史。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;ShotClean适合截图量大、不想手动清理相册的用户，但仅专注截图管理场景，不具备缓存清理或下载文件管理等功能，现已上线Google Play商店。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结截图是一种尴尬的「临时性内容」，ShotClean的思路是让截图离开相册时间线但仍可随时找回，为截图找到一个合适的落脚点。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - April 5, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-04-05</id>
-    <updated>2026-04-05T20:11:01.665Z</updated>
-    <published>2026-04-05T20:11:01.665Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>3 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 5, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;104.10958904109589&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    26.0%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;95&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;270&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;13&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████░░░░░░░░░░░░░░░░░░░░░░ 26.0%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;3&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://taggart-tech.com/reckoning/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;I used AI. It worked. I hated it.: Taggart Tech&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 反AI者被迫用AI编程工具完成项目，结果有效但过程痛苦&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者是一位坚定的反AI人士，却因工作转型为AI安全专家及平台迁移的实际需求，不得不使用Claude Code完成了一个课程完成证书生成系统的开发。项目采用Rust、Svelte和Typst构建，结合测试驱动开发和Plan Mode，最终产出功能完善、安全性较高的生产级应用。作者坦承AI工具在功能实现上确实有效，甚至带来了原本不会考虑的安全特性，但强调开发过程令人痛苦，且持续审查AI输出的机制本身存在诱使人放弃监督的系统性风险，其对AI危害社会的立场并未改变。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者自称是坚定的反生成式AI者，但出于工作需要不得不使用AI编程工具完成了一个项目，并对此感到矛盾和自责。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的日常工作已转型为AI安全专家，需要深入了解AI工具以测试和评估其安全性，同时希望能阻止危险应用上线。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者正将Taggart Institute从Teachable和Discord迁移到Discourse平台，但发现缺少课程完成证书生成功能，决定自行开发。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于时间有限（需要兼顾育儿责任），作者决定借此机会测试Claude Code等AI编程工具，同时解决证书功能缺失的问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;项目设计为一个Webhook拦截器，接收课程完成信息后生成带唯一可验证ID的PDF证书，并通过邮件发送给用户。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者研究了AI编程工具的最佳实践，强调保持模型专注于任务、使用计划模式和外部Markdown文件追踪进度的重要性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;技术选型包括Rust（后端）、Svelte（前端）和Typst（PDF生成），并使用Claude Code配合Sonnet 4.6模型进行开发。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发方法采用测试驱动开发（TDD），作者审查了每一行生成的代码，并在功能完成后让模型切换为安全审计员角色进行代码审查。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;项目功能上取得成功，代码已投入生产，且包含审计日志、GDPR数据删除、加密验证等作者原本不会主动添加的功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管结果令人满意，但开发过程令作者感到痛苦——持续审查AI输出的过程枯燥乏味，且存在让人放弃人工监督的危险诱惑。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Someone at BrowserStack is Leaking Users&amp;#039; Email Address&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 BrowserStack leaked a user&amp;#039;s unique email to data broker Apollo.io, revealing a covert data-sharing arrangement and raising serious privacy concerns.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author discovered that BrowserStack leaked their unique, service-specific email address to Apollo.io, a third-party data broker, after receiving unsolicited spam to that address shortly after signing up. Apollo initially fabricated a claim that the email was algorithmically derived from public data, but quickly admitted it came directly from BrowserStack via a &amp;quot;customer contributor network&amp;quot; — essentially a data-sharing arrangement. BrowserStack offers three likely explanations for the breach: deliberate data monetization, compromise via a third-party integration, or insider exfiltration by an employee or contractor. Despite repeated attempts to get a response, BrowserStack never replied to the author&amp;#039;s inquiries — a notable failure given their public &amp;quot;No spam, we promise!&amp;quot; pledge. The author frames this incident as symptomatic of a broader, increasingly normalized ecosystem of opaque personal data trading among companies that nominally present themselves as trustworthy custodians of user information.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unique Email Strategy:&lt;/strong&gt; The author uses a unique email address for every service they sign up to, which helps identify legitimate senders, prevents credential stuffing, and reveals data leaks.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;BrowserStack Signup:&lt;/strong&gt; The author signed up for BrowserStack to join their Open Source programme, using one of their unique email addresses during the process.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unexpected Third-Party Email:&lt;/strong&gt; A few days after signing up, the author received an unsolicited email from a non-BrowserStack sender to the BrowserStack-specific address, who revealed they obtained the details from Apollo.io.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apollo&amp;#039;s Misleading Response:&lt;/strong&gt; When contacted, Apollo initially claimed the email was derived via a &amp;#039;proprietary algorithm&amp;#039; using publicly available information, a claim the author immediately identified as false given the uniqueness of the address.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apollo Admits BrowserStack Source:&lt;/strong&gt; After being challenged, Apollo admitted the email came directly from BrowserStack, who participates in Apollo&amp;#039;s &amp;#039;customer contributor network&amp;#039; by sharing business contacts.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;BrowserStack&amp;#039;s Silence:&lt;/strong&gt; The author contacted BrowserStack demanding an explanation, but despite multiple attempts received no reply, noting the irony of BrowserStack&amp;#039;s &amp;#039;No spam, we promise!&amp;#039; messaging.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Likely Data Leak Scenarios:&lt;/strong&gt; The author outlines three probable explanations: BrowserStack selling user data, a third-party service siphoning data, or an internal employee or contractor exfiltrating information.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Broader Privacy Concerns:&lt;/strong&gt; The author concludes this reflects a wider normalisation of personal data trading by privacy-disrespecting entities, and teases a follow-up post revealing how Apollo also obtained their phone number from a major company.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/69901&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 亲历数字遗产处理，呼吁保护逝者隐私&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者以亲身经历为切入点，讲述了朋友意外离世后，为保护两人作为性少数群体的共同秘密而处理其「数字遗产」的曲折过程。文章随后延伸至对「数字遗产」保护现状的深度探讨：手机号是最大安全漏洞，本地加密和邮箱注册是相对可靠的防护手段，但现行法律与平台政策对逝者隐私的保护仍严重不足。作者呼吁平台与立法层面尽快完善相关机制，并建议用户主动与家人沟通，生前做好「数字遗产」的处置安排。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple从iOS 15.2 Beta起为iCloud账户新增「数字遗产」功能，允许用户生前指定遗产联系人，在身故后继承账户及相关数据。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的朋友意外去世后，其母亲通过手机验证码登录了微信账号，频繁操作朋友圈，给朋友们带来了巨大的情感冲击。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于朋友生前与作者同属性少数群体且决定对父母保密，作者担心手机和电脑中的数据会暴露两人关系，遂着手处理其「数字遗产」。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者历经周折取得朋友的电脑和手机，通过Microsoft账号密码解开BitLocker加密，清除了涉及两人关系的数据后归还给其母亲。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者成功清理了微博、百度网盘、淘宝等平台的相关内容，但微信因手机卡在其母亲手中而无法处理，整体工作告一段落。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出每个人都拥有仅存在于数字世界的隐私财产，这些「数字遗产」在逝者身后理应受到保护，而非被强制暴露给家属。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;手机号是突破「数字遗产」安全的主要漏洞，通过手机验证码可轻松登录微信、支付宝等平台，且运营商允许直系亲属凭死亡证明补卡或过继号码。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本地加密是保护「数字遗产」的有效手段，使用BitLocker对分区加密、用独立密码打包隐私文件，可在无密钥情况下令数据无法被读取。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用不绑定手机的独立邮箱注册平台账户，是避免「数字遗产」被轻易找回的有效方法，但涉及实名认证的平台仍难以规避手机绑定要求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前「数字遗产」在法律和技术层面均缺乏完善保护，作者呼吁互联网平台出台相关政策，并建议用户生前与家人充分沟通或指定专人处置数字遗产。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
