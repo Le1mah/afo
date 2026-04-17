@@ -4,8 +4,244 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-04-16T20:30:35.335Z</updated>
+  <updated>2026-04-17T20:27:29.483Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - April 17, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-04-17</id>
+    <updated>2026-04-17T20:27:29.483Z</updated>
+    <published>2026-04-17T20:27:29.483Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>11 articles from 7 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 17, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;117.26027397260275&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    29.3%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;107&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;258&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;15&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████░░░░░░░░░░░░░░░░░░░░░ 29.3%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22531&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reading Gideon The Ninth by Tamsyn Muir.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录正在阅读《Gideon The Ninth》&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条简短的读书记录，作者于2026年4月17日上午7:58在北纬51°、东经0°的位置，记录自己正在阅读Tamsyn Muir所著的《Gideon The Ninth》。文中还附有Bookshop和Open Library的链接，并收录了一条来自KimberlyHirsh的回复，表示非常喜爱这本书，同时询问作者是否发表了相关评论并请求提供链接。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 苏格兰女巫审判历史书评，司法迫害警示犹存&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是对一本关于苏格兰女巫审判历史书籍的书评。作者因阅读小说《The Wicked of the Earth》而探寻这段历史，该书源自播客《Witches Of Scotland》，以生动笔触呈现了女巫审判的司法本质与受害者的悲惨遭遇。书评指出该书优点包括史料翔实、插图丰富、结论犀利，同时也指出其播客式叙述风格和历史人物虚构独白略显刻意，并纠正了书中关于预期寿命的常见误解。全书以警示收尾：对女性的无端指控在现代社会依然存在。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因读了《The Wicked of the Earth》而想深入了解苏格兰女巫审判的历史背景，包括女性被指控为女巫的原因、审判的真实情况以及现代影响。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中揭示了女巫审判是通过正式司法程序进行的，有证据呈堂和法官裁决，并非民间暴力行为，但其结果对被告造成了灾难性后果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该书源自播客《Witches Of Scotland》，写作风格带有播客特色，作者以第一人称叙述探访图书馆的经历和情感，并为历史人物虚构独白，评者认为略显分散但适合目标读者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中配有精美木刻版画和肖像插图，但在预期寿命的表述上存在一处常见误解——将出生时平均预期寿命与实际寿命混淆。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书评以四星评价收尾，指出该书揭示了一段被隐藏的民族悲剧，并警示现代社会中对女性的无端指控仍未消失，世界某些地区至今仍将巫术视为真实存在。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-04-17T09:03Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-04-17T09:03Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Author deleted their Atlassian account due to terrible UX and an AI data-training privacy policy, planning to use disposable burner accounts for future client needs.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author details their decision to permanently delete their Atlassian account, citing a deeply frustrating user experience—particularly around a broken two-factor authentication flow tied to merged accounts—which they describe as worse than even Microsoft&amp;#039;s notoriously poor UX. A key catalyst was a recent Atlassian privacy policy update that the author interprets as routing user data into AI training, which they dismiss as feeding a &amp;quot;giant plagiarism machine.&amp;quot; Having finally escaped the platform, they plan to handle any future client requirements for Bitbucket access through disposable, per-project burner accounts rather than maintaining a permanent presence, and intend to proactively warn clients about the platform&amp;#039;s shortcomings. The author acknowledges a lingering dependency on GitHub for business use but frames it as another centralized platform they ultimately want to move away from, reflecting a broader skepticism toward dominant, vendor-controlled developer tooling.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;UX Criticism:&lt;/strong&gt; The author harshly criticizes Atlassian&amp;#039;s user experience, comparing it unfavorably even to Microsoft and describing it as &amp;#039;soul destroying.&amp;#039; Specific frustration is called out around a confusing two-factor authentication flow tied to merged accounts.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Account Deletion Relief:&lt;/strong&gt; The author celebrates finally deleting their Atlassian account, describing it as long overdue and expressing emotional relief at being free from the platform.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Privacy Concerns:&lt;/strong&gt; A recent Atlassian privacy policy update is interpreted by the author as the company feeding user data into an AI training pipeline, referred to dismissively as a &amp;#039;giant plagiarism machine.&amp;#039;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bitbucket Workaround Strategy:&lt;/strong&gt; For situations where clients require Bitbucket access, the author plans to create disposable burner accounts on a per-project basis rather than maintaining a permanent account, and intends to warn clients about the platform&amp;#039;s issues.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;GitHub Dependency Frustration:&lt;/strong&gt; The author acknowledges a remaining dependency on GitHub for business work, expressing a desire to eventually escape that platform as well, suggesting broader discontent with centralized developer tooling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n02cd111929ca&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;4/19(日)「関西けもケット11」大人ケモノ新商品💛＆『戦場のフーガ』スマホ版初試遊&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 関西けもケット11で戦場のフーガ新商品販売とスマホ版試遊を実施&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーの宣伝担当たっしーによる告知記事。2026年4月19日（日）にインテックス大阪で開催される「関西けもケット11」にサイバーコネクトツーがブース出展し、『戦場のフーガ』シリーズキャラクターの描き下ろしアクリルキーホルダー新商品の会場限定販売と、2026年夏配信予定の『戦場のフーガ』スマートフォン版の最速試遊体験会を実施することが案内されている。文体はカジュアルで親しみやすく、多肉植物の近況など個人的なコラムも添えられている。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーの宣伝担当たっしーが、2026年4月19日（日）にインテックス大阪で開催される「関西けもケット11」への出展を告知し、福岡から参加することを伝えている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新商品として、サイバーコネクトツーの星樹氏による描き下ろしの大人ケモノアクリルキーホルダー（ハクス、フラム、プレッツェル、マスカット中尉、メルロー）が販売され、会場限定で通販予定なしと案内している。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;『戦場のフーガ』スマートフォン版が2026年夏に配信決定し、開発中のバージョンをけもケット会場で最速試遊できることが紹介されている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;記事の末尾では、宣伝担当たっしーが多肉植物の春の花芽について個人的な近況を添えている。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21499&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ドラマ『チェイサーゲームW』公式ノベライズ『小説 チェイサーゲームW』8巻配信開始！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《チェイサーゲームW》官方小说第8卷发布，第一部完结&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文宣布，为纪念电影《チェイサーゲームW 水魚の交わり》于2026年5月15日公映，官方将隔周发行剧集《チェイサーゲームW》的官方小说版，第8卷已于4月17日开始配信。小说版由CyberConnect2总监修、保坂星耀执笔，在忠实还原剧集剧情的基础上加入原创内容与心理描写。第8卷聚焦于神秘角色呂麻美的过去揭露，以及主角树与冬雨的情感告别，第一部至此完结。电影由菅井友香与中村ゆりか主演，全国院线公映。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为纪念电影《チェイサーゲームW 水魚の交わり》5月15日上映，官方宣布将以隔周方式发行剧集《チェイサーゲームW》的官方小说版，第8卷于2026年4月17日开始配信。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小说版以剧集故事为核心，加入原创剧情、人物内心描写及情景刻画，并增补了树与冬雨的感官场景，以全新视角重新演绎《チェイサーゲームW》的故事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第8卷剧情简介：行动难以捉摸的呂麻美持续扰乱现场，其扭曲的过去逐渐浮出水面；与此同时，树为了弥补过去向浩宇道歉，决心不再与冬雨相见，两人在互相思念中迎来第一部的终结。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本卷作品由株式会社CyberConnect2总监修、松山洋担任总监制，小说剧本由保坂星耀执笔，定价660日元，可在Apple Books、Kindle、コミックシーモア、楽天、Google Play图书等平台购买。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影《チェイサーゲームW 水魚の交わり》为剧集系列的续集，由菅井友香与中村ゆりか主演，原作松山洋，导演太田勇，将于5月15日起在新宿バルト9等全国院线公映。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108760&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 9 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派推荐近期9部佳作及影视资讯速览&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部「本周看什么」栏目的综合推荐，涵盖近期值得观看的9部重点影视动画作品，包括美剧《绝望写手》《亢奋》《证言》《极乐凶间》《怒呛人生》，英剧《小先知》，动画《尖帽子的魔法工坊》《朱音落语》，以及真人秀《李瑞镇的达拉达拉》。文章还附有多部作品的短评、本周新预告速览和影视新闻周报，以简洁、多样的编辑风格，为读者提供全面的影视消费指南。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (13 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文为少数派编辑部的「本周看什么」栏目，汇总了近期值得观看的9部影视及动画作品，并附有精彩预告和影视资讯速览。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;美剧《绝望写手》第五季暨最终季中，黛博拉在经历乌龙死亡报道后重返舞台，面对非竞争条约和节目下架的双重打击，最终回归舞台，展现喜剧人的坚守与温情，系列以高水准告别。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;美剧《亢奋》第三季暨最终季将时间线跳跃五年，展现Z世代青年步入成年后各自截然不同的人生境遇，摄影和制作依然保持高水准，时间跳跃被认为是大胆而成功的尝试。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;美剧《证言》第一季作为《使女的故事》续作，聚焦年轻女孩在基列国的教育与生活，以精准克制的镜头语言呈现集权社会的压迫感，双线叙事强化了恐怖氛围。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;英剧《小先知》是一部六集奇幻迷你剧，讲述中年男子迈克通过培育能预知未来的「霍尔蒙斯」小先知，在丧失方向的生活中重新寻找人生意义的温情故事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;美剧《极乐凶间》第二季走出末世地堡，采用多叙事多时间线结构，新角色的加入带来全新视角，被认为是相较第一季质的飞跃，传递出人类比想象中更坚强的主题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;美剧《怒呛人生》第二季启用全新演员阵容和故事，围绕三对不同阶级夫妻的矛盾展开，但抛弃了第一季东亚文化与亚裔移民议题的核心表达，转向美国常规价值体系，风格更接近《白莲花度假村》。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《尖帽子的魔法工坊》改编自同名漫画，讲述憧憬魔法的少女可可意外触犯禁忌后踏上修习魔法之路，动画制作精良、作画炫技、配乐悠扬，被认为是本季度制作水准最高的作品之一。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《朱音落语》改编自《周刊少年Jump》漫画，讲述少女朱音为证明父亲实力秘密修习落语、向顶点冲击的热血故事，制作组以稳扎稳打的方针呈现这一冷门题材，节奏张力十足。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;真人秀《李瑞镇的达拉达拉》是罗瑛锡PD与李瑞镇继《纽约纽约》后再度携手，记录一场抛弃传统脚本、随心所欲的德州旅行，轻松自在如友人同行的vlog风格获得好评。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还附有多部影视作品的简短推荐，包括西班牙剧《周二谋杀定律》、国产剧《家事法庭》、日剧《孤独的美食家》第十一季、电影《爆弹》《旅途中的日子》，以及美剧《失策兄妹帮》和动画《蒲公英》。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周新预告部分介绍了《哥斯拉-0.0》《街头霸王》《末世行者》《饥饿游戏：收获日出》和《群体》等多部即将上映影片的最新预告信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;影视新闻部分汇报了《寂静的朋友》内地定档、《记忆碎片》《玩具总动员5》确认引进、《纵横四海》4K修复版定档，以及《使命召唤》电影定档2028年6月等重要资讯。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108741&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Galaxy Buds4 Pro全面均衡但强依赖三星生态&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是TDS Studio对Samsung Galaxy Buds4 Pro的完整评测。作者结合Galaxy S23 Ultra进行测试，从包装配件、设计佩戴、操作软件、降噪通透、信号续航到声音表现进行全面分析。评测指出其降噪综合性能较上代有所提升，环境音自然度仅次于AirPods Pro系列，声音低频饱满、中频均衡、整体耐听。最大局限在于编码支持依赖三星生态，AAC下表现难以匹配近两千元的定价。最终获评KT MARK V级，降噪金字塔In-Ear Skyline Level靠前，主要推荐三星生态用户选购。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文是TDS Studio在少数派发布的第21篇评测，作者购入了Samsung Galaxy Buds4 Pro，并租借Galaxy S23 Ultra进行完整体验，认为其变化正面但价格也创新高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Galaxy Buds4 Pro包装小巧，内附三对替换耳套，不再附带线材；提供旷宇黑、映雪白和限定绯霞金三种配色，充电盒恢复翻盖结构，耳机采用带柄pods式设计，单侧重量5.1g，支持IP57防水。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;操作依靠侧面触控区域，支持单击、双击、三击和长按，可通过三星智能穿戴app自定义；具备入耳检测、颈部伸展提醒、同传翻译等软件功能，One UI 8.5以上支持点头摇头手势。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;降噪方面较上代有提升，对低频噪音处理明显，频宽覆盖人声中下盘，属于Skyline Level靠前水平；高档位存在轻度底噪，风噪抑制不完美；环境音模式自然度高，听力辅助功能处于第一梯队。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;信号测试在SSC-UHD 96kHz模式下7.5m隔墙开始丢包，AAC连接iPhone稳定性尚可；官方续航6/7小时，实测约4小时57分钟；支持快充和Qi无线充电。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;搭载增强型双路扬声器（双动圈），支持SBC/AAC/SSC/SSC-UHD(96kHz)/LC3编码；SSC 96kHz下声音明显优于AAC；app内提供六种预设及8频段EQ；360音频空间感宽阔但高度信息不足。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;声音主观评价：低频饱满扎实有能量，中频人声距离适中、音色略暖偏中性，高频亮度不高较平滑，空间感呈扁球状，整体感和解析能力较上代有进步，耐听度不错。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总体评价为比较全面的旗舰降噪TWS，声音、信号、设计、降噪均无明显短板，但编码支持局限于三星生态，不建议推荐给非三星用户；最终获评KT MARK V级（Excellent），降噪金字塔列入In-Ear Skyline Level靠前位置。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108547&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;来一杯不翻车的自信：手冲咖啡入门指北&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 新手手冲咖啡指南：选对豆器建立信心&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇面向手冲咖啡新手的实用入门指南，核心观点是新手最需要的不是系统知识，而是信心——即冲出第一杯不翻车的咖啡。作者以控制变量的思路，从三个维度给出建议：好喝方面，优先选对阿拉比卡精品豆（如辛鹿「糖心宇宙」混合装）；好用好看方面，入门器具无需一步到位，推荐平价不锈钢壶加引流片、国产中端手磨、Hario V60树脂滤杯；不翻车方面，提供聪明杯和xBloom Studio作为备选方案，并附赠放凉再喝、嘬吸入口两个零成本优化技巧。文章风格轻松务实，兼具个人体验与可操作性建议。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以理发类比手冲咖啡，指出手冲虽不追求效率，但每个步骤都有意义，过程折磨而迷人，最终让人清醒愉悦。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为新手入坑手冲最需要的不是知识而是信心，即冲出一杯不翻车的咖啡获得成就感，并从好喝、好用、不翻车三个维度分享经验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出咖啡好喝与否八分靠豆子，传统速溶使用罗布斯塔豆导致苦涩，而精品咖啡多用阿拉比卡豆，风味丰富，建议新手优先选对豆子。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者推荐辛鹿「糖心宇宙」混合装作为入门豆子，因其涵盖多种烘焙度、处理法和产地，方便控制变量尝试，价格也较为友好。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍手冲器具选购逻辑，强调好用与好看同等重要，入门不应追求一步到位，应选稳定适合当前阶段的配置，等手艺提升再升级。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者具体推荐入门手冲壶方案：普通不锈钢细嘴壶加引流片组合，控流效果足够新手使用，比直接购买高端壶更划算。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者建议磨豆机入门选国产中端（如巫师、栗子、汉匠），无需神话C40，因为初学阶段舌头难以分辨高端磨带来的细微风味差异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者推荐新手直接使用Hario V60树脂滤杯，因其保留最多变量让使用者感受，练好手感后再换平底滤杯会更得心应手。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍电子秤和清洁工具的选购技巧，强调去掉「咖啡」关键词搜索可大幅降低价格，其他配件暂时不必购买。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于不想拆解变量的新手，作者推荐聪明杯（浸泡式萃取）或xBloom Studio全自动手冲机作为降低翻车概率的替代方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享两个零成本优化技巧：放凉至50度左右再喝以感受果酸甜感，以及用嘬吸方式入口让风味层次更丰富。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以个人感悟收尾，表达手冲咖啡的十五分钟是忙碌生活中属于自己的珍贵时光，鼓励读者选对豆子、稳住变量，享受入坑的乐趣。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108742&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 多家科技巨头密集发布AI与硬件新品&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派科技早报，汇总了近期多项重要科技动态。AI领域，Canva发布AI 2.0转型一体化生产力系统，Anthropic推出Claude Opus 4.7强化软件工程能力，OpenAI升级Codex新增多项代理式开发功能，Adobe发布Firefly AI Assistant，腾讯开源混元3D世界模型2.0。硬件领域，大疆发布Osmo Pocket 4云台相机，亚马逊推出更薄Fire TV Stick HD。支付领域，万事达卡支持Apple Pay跨境支付，支付宝打通Apple钱包NFC交通卡。文章采用简报形式，条目清晰，兼收用户评论与互动观点。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Canva发布AI 2.0，宣布向「一体化生产力系统」转型，新增对话式设计、智能体编排、智能对象编辑和持久记忆等核心能力，并打通Slack、Gmail、Zoom等主流办公软件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Anthropic发布Claude Opus 4.7模型，重点提升复杂软件工程任务表现，新增网络安全防护机制，但整体性能仍低于Claude Mythos Preview，定价维持每百万输入token 5美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI升级Codex，新增桌面应用操作、多代理并行、应用内浏览器、图像生成与编辑、记忆功能，并支持GitLab、Atlassian、Microsoft Suite等插件，桌面操作首阶段仅支持macOS。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;大疆发布Osmo Pocket 4云台相机，搭载一英寸CMOS传感器，支持4K/240fps录制、智能跟随7.0系统，标准套装售价2999元，全能套装3799元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;亚马逊推出新一代Fire TV Stick HD，厚度较上代减少约30%，支持1080p输出、Wi-Fi 6和蓝牙5.3，预售价34.99美元，预装Vega OS并集成Alexa+。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Adobe宣布推出Firefly AI Assistant，具备智能体能力，可跨Photoshop、Premiere Pro、Lightroom等多款Creative Cloud应用执行多步骤任务，计划数周内开放公测。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;腾讯发布混元3D世界模型2.0（HY-World 2.0）并开源，支持文字、图片、视频输入生成3D场景，可导出Mesh、3DGS及点云格式，配套升级HY-Pano 2.0支持无相机参数的360度全景转换。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;万事达卡宣布中国境内发行的万事达卡品牌银行卡现已支持通过Apple Pay进行跨境交易，覆盖中行、农行、中信、浦发等多家银行的信用卡及中信借记卡。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;支付宝宣布Apple钱包支持通过支付宝开通NFC交通卡，覆盖北京、上海、南京等多个城市，本质是将充值付费模式改为支付宝授权委托代扣。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;其他消息包括：Google Quick Share出现Wi-Fi断连及EXIF元数据丢失问题；佳能推出支持1200mm超远摄焦距的电影伺服镜头新品，计划2026年9月上市。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;借助mediabunny纯JS实现视频水印、剪裁、合成等功能&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 mediabunny实现纯前端视频水印、剪裁与合成&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由张鑫旭撰写，重点介绍了前端音视频处理框架mediabunny的实际应用。文章通过三个可运行的demo，分别演示了纯前端实现视频水印合成、视频首尾剪裁以及多音频与画面合成视频的方法。水印合成利用OffscreenCanvas逐帧处理；剪裁通过trim参数指定起止时间；视频合成则借助CanvasSource与AudioBufferSource分别添加视频轨道和音频轨道。文章风格简洁实用，代码示例清晰，适合有前端音视频处理需求的开发者参考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了mediabunny这一基于WebCodecs API封装的音视频处理框架，认为其在众多同类框架中脱颖而出，功能涵盖格式转换、水印添加、时长剪裁等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过演示demo，作者展示了如何使用mediabunny给视频添加水印：利用Conversion.init解码每一帧，再用OffscreenCanvas将画面与水印图合并绘制后返回，同样的方法也适用于字幕、特效、遮罩等场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展示了视频首尾剪裁功能，核心只需在Conversion.init中传入trim参数并指定起止时间，配合LuLu UI双滑块实现交互，代码极为简洁。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者演示了多音频与画面合成视频的功能，通过Output添加视频轨道（CanvasSource）和音频轨道（AudioBufferSource），逐帧绘制画面并添加AudioBuffer，最终合成MP4文件；音频的剪裁与合并使用了作者自己手搓的方法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章末尾作者进行了个人课程推广，并说明文章为原创，转载需保留原出处。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 第二外国语日语学院 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026年日语学院接收转专业本科生工作方案&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Beijing International Studies University&amp;#039;s Japanese Studies College launches a structured 2026 undergraduate major transfer program emphasizing interdisciplinary, language-focused education.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Beijing International Studies University&amp;#039;s Japanese Studies College has formally launched its 2026 academic year undergraduate major transfer intake program, driven by a strategic goal of building a &amp;quot;Language + Interdisciplinary + Internship&amp;quot; three-dimensional education model centered on Sino-foreign cultural exchange. The program is philosophically grounded in respecting individual student strengths, interests, and career aspirations, positioning major transfer as a structured pathway for alignment between students and the faculty&amp;#039;s educational objectives. Admission is governed by a dual-layer eligibility framework: applicants must satisfy both the university&amp;#039;s baseline transfer requirements and supplementary faculty-specific criteria outlined in Article 1 of the governing regulations, ensuring admitted students fit the college&amp;#039;s interdisciplinary and international profile. The entire process operates under Beijing International Studies University&amp;#039;s Undergraduate Major Transfer Management Regulations alongside applicable student status management rules, providing a formalized and compliant administrative structure.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Policy Background:&lt;/strong&gt; The transfer program is initiated to respect students&amp;#039; individual strengths, interests, and aspirations, motivated by the goal of building a &amp;#039;Language + Interdisciplinary + Internship&amp;#039; three-dimensional education model centered on Sino-foreign cultural exchange.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Transfer-In Eligibility:&lt;/strong&gt; Students applying to transfer in must meet both the university&amp;#039;s baseline requirements and additional faculty-specific conditions outlined in Article 1 of the regulations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Governing Regulations:&lt;/strong&gt; The transfer process is governed by the Beijing International Studies University Undergraduate Major Transfer Management Regulations, as well as relevant student status management rules.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Program Initiation:&lt;/strong&gt; The college has formally launched the 2026 academic year major transfer process, signaling an open and structured cycle for eligible applicants.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Selection Criteria:&lt;/strong&gt; Beyond institutional baseline conditions, candidates must satisfy supplementary criteria specific to the receiving program, ensuring admitted students align with the faculty&amp;#039;s interdisciplinary and international education objectives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - April 16, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1850,170 +2086,6 @@ On April 11th, 2026, an independent web author documented a marked surge in aggr
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;MCP配置是集成的难点，官方文档未提供具体配置方法，作者给出了正确的配置写法。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;直接mine整个项目并不理想，因缺乏完善的文件过滤机制，作者建议改由AI自主创建和添加记录，或手动移走不需要索引的文件后再进行mine操作。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;该项目目前仍存在争议，但在完全离线的外部记忆系统领域暂无更好替代品，作者认为值得一试。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - April 6, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-04-06</id>
-    <updated>2026-04-06T20:21:08.174Z</updated>
-    <published>2026-04-06T20:21:08.174Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>8 articles from 8 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 6, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;105.20547945205479&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    26.3%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;96&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;269&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;13&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████░░░░░░░░░░░░░░░░░░░░░░ 26.3%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;8&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22514&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Thanks to everyone who came out to the Salter Cane gig on Saturday night—that was fun!&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者感谢参加Salter Cane演出的观众&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇简短的社交媒体帖子，作者于2026年4月6日发文，感谢周六晚上参加Salter Cane演出的观众，表示活动很愉快。帖子附有地理位置信息（51°N, 0°E），并同步发布于Mastodon和Bluesky平台。帖子收到了来自Shaun Rashid、Dominic Mitchell和Ms. Jen的点赞，内容简洁轻松，属于典型的个人博客或社交媒体动态。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-290/viewer?title_no=853933&amp;episode_no=305&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 290&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画《DOGHAUS》已更新至第290话&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本内容来自WEBTOON平台上的CANVAS自发布漫画系列《DOGHAUS》，由创作者Moowsie创作，目前已更新至第290话。页面内容主要为该系列的剧集导航列表，包含从第1话到第290话的完整目录，以及若干特别公告（如书籍发布公告、Kickstarter众筹启动等）和特别番外篇（Sunday Strip系列）。该系列被标注为成人向内容，归类于生活题材类别。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 David Heinemeier Hansson &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/panther-lake-is-the-real-deal-4bd731f1&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Panther Lake is the real deal&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Intel Panther Lake让PC笔记本在续航与性能上全面追平苹果&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者热情评价了Intel的Panther Lake芯片，认为其在续航、性能和集成显卡方面实现了重大突破。搭载该芯片的笔记本在Linux系统Omarchy下续航可达47小时待机、16小时实际使用，多核性能媲美Apple M5。与此同时，Dell、Asus等PC厂商在触控板、OLED屏幕和机身设计上也全面追赶苹果。作者还指出Panther Lake在亚利桑那州生产的战略意义，并称赞Intel和Dell对Linux生态的支持，认为这是PC行业在苹果M系列芯片冲击后的成功反击。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Intel的Panther Lake芯片在功耗和续航方面表现卓越，搭载该芯片的Dell XPS 14在Omarchy系统下待机功耗仅1.4瓦，实际混合使用续航可达16小时，远超过去AMD驱动笔记本约6小时的表现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Panther Lake（358H）在Geekbench 6多核测试中得分17500，比AMD HX370快约10%，与Apple M5持平，单核性能与M3相当，同时集成显卡足以运行大量3A游戏。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;PC厂商在触控板、屏幕（串联OLED）、机身轻薄度等方面全面追赶甚至超越苹果，整体产品竞争力大幅提升。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Jonathan Ive的设计理念领先于时代，而如今硬件已能实现当年的愿景，PC厂商正充分利用这一机遇。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mac与PC之间的比较对大多数用户意义有限，但对于希望尝试Omarchy或厌倦苹果生态的用户而言，续航不再是障碍。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Intel经历多年低谷后凭借Panther Lake实现逆转，拥有出色的集成GPU、高效CPU以及与苹果竞争的PC合作伙伴。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Panther Lake芯片在亚利桑那州生产，对于减少对台积电的依赖具有重要战略意义，尽管CPU核心仍来自台积电。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;苹果2020年推出M系列芯片对笔记本行业产生巨大冲击，Intel前CEO Pat Gelsinger发起的18A计划最终促成了Panther Lake的成功。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Dell和Intel积极支持Linux生态，Dell专门组建团队优化Omarchy 3.5对Panther Lake芯片的支持。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者鼓励一直观望的用户现在尝试搭载Panther Lake的新款Dell XPS或其他笔记本，认为其续航表现令人印象深刻。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Human Who Codes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://humanwhocodes.com/blog/2026/04/improving-developer-velocity-github-merge-queue/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Improving developer velocity with GitHub merge queue&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 GitHub merge queue可自动化PR合并流程，释放开发者精力。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了GitHub merge queue功能，旨在解决多开发者协作时反复等待CI、手动更新拉取请求分支的低效问题。merge queue作为PR审批与代码合并之间的自动化中间层，将就绪的PR批量收集并在临时分支上依次运行CI测试，失败则自动退回，成功则统一合并至目标分支。文章分三步讲解配置方法：添加merge_group触发器、启用squash merge、通过ruleset开启队列，并结合7个PR的示例演示了完整运行流程。作者认为该功能配置简单、收益显著，适合有一定PR管理压力的团队使用。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章以一个开发者反复等待CI测试、不断点击&amp;#039;Update Branch&amp;#039;按钮的场景引入，描述了在多人协作的GitHub仓库中，拉取请求合并过程的繁琐与低效。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;GitHub merge queue作为拉取请求审批与代码落地之间的中间步骤，自动将待合并的PR收集成批次，在临时分支上依次运行CI测试，避免开发者手动更新分支。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细介绍了配置merge queue的三个步骤：在CI工作流中添加merge_group触发器、为仓库启用squash merge、以及通过ruleset开启merge queue功能，并说明了各项参数的含义。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过一个7个PR的具体示例，文章演示了merge queue如何按顺序处理PR、如何在某个PR失败时将其移出队列并继续处理其余PR，展示了实际运行逻辑。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结指出，GitHub merge queue将开发者从监控CI、反复更新分支的重复劳动中解放出来，配置简单，默认参数适用于大多数团队，对于频繁管理PR的团队值得启用。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[RSS Club] Banana for scale&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Generative art project uses banana spot patterns as code foundation for an organically inspired, interactive visual experience.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This RSS-exclusive article offers subscribers a behind-the-scenes look at a creative coding project called &amp;quot;Scan Slowly And See,&amp;quot; which the creator had long envisioned before finally bringing it to life. The project takes an unconventional generative approach, using patterns cloned from a banana&amp;#039;s spots as the foundation for its underlying code, resulting in an organically inspired visual experience. A QR code element appears to be central to the project&amp;#039;s interactive component, though the full scope of its functionality is only partially revealed in the article. The creator invites reader feedback, suggesting the work is either newly launched or still evolving. Overall, the piece highlights an imaginative intersection of organic pattern recognition, generative code, and interactive design, shared exclusively with the creator&amp;#039;s most engaged RSS audience.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Exclusive RSS Content:&lt;/strong&gt; This article is exclusive content available only to RSS feed subscribers, offering a special behind-the-scenes look at the creator&amp;#039;s project.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Creative Concept Origin:&lt;/strong&gt; The creator describes having a persistent idea that motivated them to finally bring it to life and share it with their audience.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Project Introduction:&lt;/strong&gt; The project is titled &amp;#039;Scan Slowly And See,&amp;#039; suggesting an interactive or visually engaging experience tied to a scanning mechanic.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Banana Spot Technique:&lt;/strong&gt; The underlying code was built by cloning patterns from a banana&amp;#039;s spots, indicating a creative and organic approach to generating visual elements.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;QR Code Integration:&lt;/strong&gt; The project appears to incorporate a QR code element, with the creator inviting feedback from readers, though the full context of the QR functionality is only partially described.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Theresa O’Connor &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://tess.oconnor.cx/2026/04/moon&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Lunar flyby&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者激动地直播观看Artemis II飞越月球&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者与朋友Eryn正在实时观看NASA的Artemis II任务中的月球飞越直播，并对此表达了极度兴奋的情绪。这条社交媒体帖子简短而充满激情，展现了普通人见证人类重返月球计划重要里程碑时的真实反应。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202604/70920&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『チェイサーゲーム』シーズン2外伝 公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《Chase Game》新话更新，松山洋新书发售活动公告&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为日本游戏媒体Famitsu.com上的一篇综合资讯页面，主要包含两部分核心内容：一是漫画《Chase Game》第二季外传的最新话预告，讲述角色林冬雨离开上海奔赴春本树身边的剧情，并宣传即将上映的同名电影；二是CyberConnect2社长松山洋所著新书《游戏行业攻略法》的发售信息及配套签名会活动公告。页面还附有Amazon游戏销量榜单、相关系列文章链接及多项游戏广告内容。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;漫画《Chase Game》第二季外传最新话更新，主角之一林冬雨决定离开上海，前往春本树身边，同时预告电影《Chase Game W 水鱼之交》将于5月15日上映。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;CyberConnect2社长松山洋出版新书《游戏行业攻略法》，内容涵盖游戏创作者培养理念、就职面试实态及真实合格者作品集，适合有志进入游戏行业的读者。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;书籍发售纪念活动方面，2026年4月21日将在大阪梅田Latetel举办脱口秀及签名会，届时将邀请其他游戏公司嘉宾共同探讨游戏行业最新动向，并提供线上直播。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;页面附带Amazon游戏软件销量排行、相关漫画及开发记录文章推荐，以及多款游戏和娱乐内容的广告与特辑链接等附加信息。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108294&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 ShotClean自动将截图归档，让相册保持清爽且随时可找回。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由ShotClean开发者撰写，介绍了这款Android截图整理工具的开发动机与核心功能。作者指出截图作为临时内容常造成相册「噪声」，现有工具缺乏针对性管理。ShotClean通过将截图自动归档至独立目录，使其从系统相册和第三方图片选择器中消失，同时在保留期内（默认30天）允许用户随时找回。应用提供排除名单、提前归档、归档区恢复等灵活操作，并通过通知和日志保障透明可靠。适合不想手动清理相册的用户，现已上线Google Play。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因截图在相册中造成「噪声」问题而开发了ShotClean，截图常作为临时内容使用后被遗留在相册里，大多数人只能攒够了再清理或干脆不管。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ShotClean的核心功能是将截图从系统相册「搬走」并归档到独立目录，结合「隐藏」与「删除」两种方式，实现定时自动归档、到期提醒与审查、安全归档存储。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出Android分享界面效率低下，导致截图分享后仍留在相册，ShotClean以30天默认保留期换了一种更从容的清理节奏，次日深夜才将截图移入归档队列。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;用户可手动将特定截图加入排除名单或提前执行归档，提供灵活的个性化管理方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;归档区按日期排列截图缩略图，归档文件保存在用户自选的外部目录中，不依赖App私有存储，卸载App后文件仍然存在，并支持随时恢复或永久删除。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ShotClean首页展示核心数据统计与权限状态，设置完成后可全自动运行，并通过通知栏告知归档结果，归档采用先复制再移除的安全机制，并有日志功能记录操作历史。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ShotClean适合截图量大、不想手动清理相册的用户，但仅专注截图管理场景，不具备缓存清理或下载文件管理等功能，现已上线Google Play商店。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结截图是一种尴尬的「临时性内容」，ShotClean的思路是让截图离开相册时间线但仍可随时找回，为截图找到一个合适的落脚点。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
