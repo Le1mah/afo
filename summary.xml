@@ -4,8 +4,263 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-04-20T20:28:05.876Z</updated>
+  <updated>2026-04-21T20:36:03.937Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - April 21, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-04-21</id>
+    <updated>2026-04-21T20:36:03.937Z</updated>
+    <published>2026-04-21T20:36:03.937Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>14 articles from 9 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 21, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;121.64383561643837&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    30.4%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;111&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;254&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;15&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████░░░░░░░░░░░░░░░░░░░░░ 30.4%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;14&lt;/strong&gt; articles from &lt;strong&gt;9&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://gitlab.com/alistairldavidson/validation-enhancer&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Alistair Davidson / validation-enhancer · GitLab&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 未提供可摘要的文章内容&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;未提供任何文章内容，无法进行摘要处理。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://mattstromawn.com/writing/expansion-artifacts/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Expansion artifacts || Matt Ström-Awn, designer-leader&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 数字压缩通过丢弃感知盲区数据实现高效传输，但存在数据失真与篡改风险。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了数字压缩技术的原理、应用与风险。文章从信息时代对带宽的依赖出发，解释了有损压缩的核心逻辑——利用人类感知的盲点（听觉和视觉局限性）丢弃不易察觉的信息，从而使MP3、JPG、MPG等格式成为可能，支撑了现代互联网平台的运转。文章同时指出压缩的潜在危险：Xerox扫描仪的JBIG2实现曾悄悄篡改文件数据，而反复压缩会累积失真，最终导致内容面目全非。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;信息时代由带宽定义，互联网受限于传输基础设施的容量，因此人们发明了压缩技术，使YouTube、Spotify、Instagram等平台得以运作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;自Bell Labs在1940年代的早期研究起，研究人员便知晓压缩需要接受数据损失的权衡，但他们找到了只丢弃人类感知不到的信息的方法：MP3利用人耳的听觉盲点去除不易察觉的安静声音，JPG丢弃眼睛不易处理的细节，MPG则通过保存关键帧和像素相对运动来压缩视频。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;设计良好的压缩算法能在感知上保持数据一致，但设计糟糕的编解码器可能造成严重错误；2013年David Kriesel发现Xerox WorkCentre的JBIG2压缩格式会悄悄替换扫描文件中的数字，导致建筑图纸、发票和医疗记录出现错误。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;压缩会永久改变数据，常见格式（JPG、MP3、MP4）的损失是渐进式的：反复保存和上传后，压缩失真会逐渐显现，如JPG变得模糊，MP3产生金属音，视频画面变成模糊的色块。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.aaron-gustafson.com/notebook/never-lose-form-progress-again/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Never Lose Form Progress Again :: Aaron Gustafson&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 form-saver组件自动保存表单数据，防止用户意外丢失填写进度。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了Aaron Gustafson开发的web组件form-saver，其核心功能是将表单数据自动保存至localStorage，并在页面重新加载时恢复，从而解决用户因浏览器崩溃或意外关闭标签页而丢失填写进度的问题。组件提供retain属性保留指定字段、retain-choice属性让用户自主选择是否保存信息、storage-key属性自定义存储键，以及saveFormState等编程接口。文章风格轻松幽默，始终强调渐进增强理念：JavaScript不可用时表单依然正常工作，体现了以用户体验为核心的设计哲学。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;表单填写中途丢失进度令人沮丧，form-saver是一个小型web组件，能将表单数据存储在localStorage中，并在页面重新加载时自动恢复，同时在成功提交后清除已保存数据。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;基本用法只需用&amp;lt;form-saver&amp;gt;标签包裹表单即可，组件自动监听用户输入并保存，适用于求职申请、结账流程、支持请求等复杂表单场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;form-saver支持文本输入框、textarea、select及复选框/单选框控件，文件输入被刻意排除；由于组件工作在light DOM中，原有的标签、验证、布局和CSS均不受影响。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过retain属性可以指定在成功提交后仍需保留的字段（如姓名和邮箱），其余字段正常清除，适合希望减少用户重复输入的场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;retain-choice属性可为用户注入一个选择是否保留信息的复选框，体现了对用户知情同意的尊重；retain-choice-container属性允许开发者自定义该复选框的插入位置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;默认情况下存储键由表单的method和action派生，也可通过storage-key属性自定义，适用于URL不稳定或多视图共享状态的场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;组件还暴露了saveFormState()、restoreFormState()和clearSavedData()等方法，供开发者在自定义工作流或UI中直接调用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该组件遵循渐进增强原则：即使JavaScript失败，表单仍可正常填写和提交，只是失去数据恢复功能；成功提交后才清除数据，避免因客户端验证拦截而误删。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;项目已发布至GitHub和npm，可通过npm install @aarongustafson/form-saver安装，支持直接import自注册或手动define两种使用方式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 David Heinemeier Hansson &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/celebrating-computers-at-omacon-163eb568&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Celebrating computers at Omacon&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Omacon聚会激励作者推广定制Linux系统Omarchy&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记述了作者在纽约举办的Omacon聚会，130位对定制化Linux电脑充满热情的人因共同的价值观而相聚。文章以C.S. Lewis对友谊的定义为引，强调面对面交流远胜线上互动的独特价值。聚会在Shopify提供的场地举行，作者首次与多位长期网络合作者线下相见。参与者来自各行各业，涵盖不同技术背景。这次活动极大地激励了作者继续完善Omarchy，并立志将其推广给更多渴望探索个性化Linux系统的人，使之成为志同道合者的精神灯塔。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以C.S. Lewis对友谊的定义开篇，介绍了两周前在纽约为Omacon举办的聚会，130人因对定制化Linux电脑的共同热爱而相聚。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出线上交流的局限性，强调面对面连接的独特魔力，聚会在Shopify提供的美丽场地举行，单一议程格式营造了温馨氛围，作者本人发表了主题演讲。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者首次与多位网络合作者线下相见，感受到从虚拟熟悉到现实握手的奇妙转变，并与来自各行各业的Omarchy用户深入交流。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;聚会吸引了程序员和非程序员，来自Windows、Mac及其他Linux发行版的用户，所有人都对电脑抱有超越工具属性的热情。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这次聚会给作者带来了巨大的动力补充，看到他人热情拥抱Omarchy作为Linux探索起点，激励他继续完善这一发行版。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展望未来，计划让Omarchy触达更多志同道合者，吸引那些渴望个性化系统却不知从何开始的人，将其打造成一座为特定群体指引方向的灯塔。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-4-20/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.4.20&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 在美华人修车触发身份认同与异乡错位之感&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章以流水账式的日记风格记录了作者某个周一的经历：为旧款Ford Expedition排查并修复转向灯故障，发现问题根源在于灯座松脱而非灯泡本身。修车过程中，作者因eBay卖家来自常州而触发乡愁，感慨自己作为在美华人，以英文与国内卖家沟通，既不被国内完全认同，也未真正融入美国，处于身份的夹缝之中。进而延伸至对硅谷生活的反思：HOA管控严格，邻居对自己动手修车侧目而视，所谓车库文化不复存在，令作者感到深刻的错位与疏离。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;周一作者勉强上班，午饭期间在eBay上为老款Ford Expedition订购车灯灯泡，因为早上发现转向灯闪烁异常，判断是灯泡损坏，遂下单SYLVANIA 4157作为替换，并顺带描述了此前更换灯罩的经过。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;下班后作者冒雨回家着手修理，拆开灯罩后发现问题并非灯泡而是固定灯泡的灯座松脱，于是从旧灯罩上取下原厂灯座换上新灯泡完成修复，但左侧示宽灯疑似仍有问题，因天气变差且晚上有约，暂时搁置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;修车过程中作者触发乡愁：发现eBay卖家来自常州，自己身为中国人却以外国客户身份用英文沟通，夹在两个世界之间，两边都不完全认同自己，由此生发出深刻的身份错位感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者进一步反思在硅谷湾区的生活：想象中的车库文化并不存在，小区邻居对在停车位修车投以异样目光，HOA规定严苛，周围人要么开丰田Sienna接送小孩，要么开Tesla上班，有问题直接送修，自己动手修车显得格格不入，感到与这个环境的深层错位。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-04-21.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: April 21&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI工具重塑软件开发同时引发安全与治理多重挑战&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Martin Fowler的片段式周报，涵盖多个主题：Thoughtworks第34期Technology Radar以AI为核心，同时推动重新审视传统软件工程实践；AI代理的&amp;#039;权限饥渴&amp;#039;问题和安全隐患（如prompt injection）受到重点关注。Mike Mason的实践表明，Claude Code生成的代码在规模增大后需要人工审查。此外，文章还涉及LLM代写的哲学争议，以及DOGE关闭DirectFile项目引发的对政府技术改革、公共服务精神与税务系统效率的深刻反思。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Martin Fowler介绍了Thoughtworks发布的第34期Technology Radar，该期包含118个条目，以AI相关主题为主，同时促使团队重新审视结对编程、零信任架构等传统技术基础。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI工具的兴起带来了命令行界面的复苏，代理工具正将开发者重新带回终端；同时，安全专家Jim Gumbley加入写作团队，雷达重点关注&amp;#039;权限饥渴&amp;#039;型AI代理的安全隐患，如提示注入等未解决问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mike Mason分享了使用Claude Code生成Python代码库的经验，指出当代码规模增大后AI会产生难以维护的混乱结构，强调人类定期审查可维护代码的必要性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Dan Davies提出了一个关于LLM代写的哲学思想实验，引发对AI辅助写作伦理的思考。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;DOGE关闭了美国政府的DirectFile在线报税项目，Don Moynihan的文章指出政府改革中&amp;#039;看似简单的变革往往隐藏欺骗性复杂度&amp;#039;，并强调公共服务精神的重要性，同时警示IRS预算削减对国家税收体系和财政安全的长远危害。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/better-tts-on-linux/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Better TTS on Linux&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Piper是兼顾隐私与音质的开源本地TTS替代方案&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了Linux平台上文字转语音（TTS）技术的现状与替代方案。传统的eSpeak虽支持多语言，但音质机械单调；现代AI驱动的TTS工具虽音质优秀，却面临收费、隐私泄露或硬件门槛高等问题。Piper作为一款开源本地TTS程序脱颖而出，它无需高性能GPU，运行速度快，可通过图形工具Pied方便安装，并能直接集成到Linux桌面辅助功能和Firefox浏览器中，为用户提供自然、流畅的语音体验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;eSpeak是Linux发行版中广泛使用的文字转语音（TTS）程序，支持多种语言和口音，但其音质单调，听起来像1980年代的玩具，令大多数用户感到不适。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;现代TTS程序虽然音质更好，但许多需要付费、依赖远程服务器或高性能GPU，存在隐私和延迟问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Piper是一款开源的本地TTS程序，可在普通硬件上快速运行，通过图形界面工具Pied可轻松安装并集成到Linux桌面环境和Firefox等应用中。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Theresa O’Connor &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://tess.oconnor.cx/2026/04/21-links&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026 年 04 月 21 日&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 多领域热点链接汇编，涵盖科技人权与文化&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇个人链接汇编文章，涵盖多个领域的热点话题。文章收录了Tim Cook即将卸任Apple CEO的新闻、网络标准贡献者Chris的退休感言、跨性别权利的多项司法进展（包括联邦法院和蒙大拿州最高法院的有利裁决）、网络隐私与标准制定的学术研究，以及腕表、美食、设计等生活话题。作者以简短评语串联各链接，风格个人化，折射出其对科技、人权、设计与文化的广泛关注。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/04/21/web-tools/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Web tools are cool&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The author catalogs favorite installation-free browser-based web dev tools, highlighting Squoosh, Can I Use, and ReliCSS.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author published a dedicated `/uses` page cataloging browser-based web development tools, defined as utilities requiring no local installation and optionally installable as PWAs. Top daily-use tools highlighted include Squoosh for image optimization, Can I Use for browser compatibility checks, a CSS specificity calculator, and the newly featured ReliCSS by Stu Robson. The author deliberately scopes the list to personally used web dev tooling—including documentation and specs—rather than attempting exhaustive coverage, and currently self-hosts none of these tools, contrasting with a prior history of maintaining NPM packages. Pragmatic housekeeping opinions also surface: the author advocates using subdomains over purchasing new domains for side projects, acknowledging a past habit they aim to break. The post closes with an open invitation for readers to suggest tools the author may have missed, with stated interest in eventually building their own.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;New /uses Page:&lt;/strong&gt; The author launched a new /uses slash page on their website dedicated to listing web-based tools they use for web development. It evolved from an older, privately maintained post.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Web Tools Defined:&lt;/strong&gt; Web tools are browser-based utilities requiring no download, though some may be installable as PWAs. The author&amp;#039;s list focuses exclusively on web development tooling, including documentation and specifications.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Most-Used Tools:&lt;/strong&gt; The author&amp;#039;s most frequently used tools are Squoosh (image optimization), Can I Use (browser compatibility), and a CSS specificity calculator. Stu Robson&amp;#039;s ReliCSS is a newly highlighted addition.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;No Self-Hosted Tools:&lt;/strong&gt; The author currently hosts no web tools themselves, contrasting with a past history of maintaining NPM packages and a to-do app. They note web tools are preferable to self-hosted packages, citing fewer security risks like malware.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Subdomains Over Domains:&lt;/strong&gt; The author advocates using subdomains rather than purchasing new domains for side projects, reflecting on a habit of buying short-lived project domains they intend to stop.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Call for Ideas:&lt;/strong&gt; The author expresses interest in building their own web tool and invites readers to suggest favorite tools they may have missed, with a preference for tools they would personally use rather than an exhaustive list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202604/72516&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;公式コミカライズ『戦場のフーガ 鋼鉄のメロディ』第85話 公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 漫画第85话揭露残酷真相，新书同步发布&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为ファミ通.com刊载的漫画《战场的赋格 钢铁之旋律》第85话的介绍页面。本话中，角色阿什向孩子们揭露了过酷的真相与过去，而主角梅的成长令编辑部大为感动。此外，页面还介绍了サイバーコネクトツー社长松山洋的新书《游戏业界攻略法》，该书以游戏业界志望者为对象，结合就职面试实态及实际录用者作品集，并配套举办了大阪签名会与直播活动。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;漫画《战场的赋格 钢铁之旋律》第85话中，阿什出现在孩子们面前，似乎悟出了什么而开始大笑，随后道出了令人震惊的真相。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑部评论指出，阿什所揭示的残酷真相与过去令人揪心，而梅在面对现实时强力回击的成长令人印象深刻，阿什见证这一成长后的笑容也令人动容。第86话预定于2026年5月5日刊载。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー社长松山洋出版了新书《游戏业界攻略法》，作为公司成立30周年的纪念，书中深入讲述了面向游戏业界志望者的经验与建议，并附有实际录用者的作品集。同时，4月21日在大阪梅田Latelar举办新书发布纪念Talk Live及签名会，并提供直播。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108945&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Tim Cook 将要转任的「执行董事长」是什么职务？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Cook转任执行董事长将主导对外政府关系，职权边界待观察。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文围绕苹果CEO Tim Cook即将转任执行董事长（Executive Chair）展开分析。文章首先说明该职位在法律和章程层面缺乏明确规定，属于公司自治安排；随后梳理美国上市公司中执行董事长的三种典型模式（高于CEO、平行分工、顾问角色），并援引谷歌Eric Schmidt、甲骨文Larry Ellison、微软Bill Gates等科技公司先例进行比较。文章重点指出，Cook在全球政府关系方面积累的资源是其继续担任执行董事长的核心理由，而公司治理领域对前CEO留任董事会的传统质疑同样不可忽视，Cook与新任CEO Ternus之间的职权边界仍是开放问题。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;苹果宣布Tim Cook将于8月31日卸任CEO，自9月1日起担任执行董事长（Executive Chair），John Ternus将接任CEO，Arthur Levinson出任首席独立董事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;执行董事长一职在美国法规和苹果章程中均无明确规定，属于公司自治范畴，但在美国上市公司中并不罕见，约四成由退任CEO转任。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;执行董事长的职能强弱因公司而异，大致分为三类：地位高于CEO（如福特的Bill Ford）、与CEO平行分工（如陶氏杜邦合并案）、以及仅担任顾问角色（如安靠科技）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;科技公司中，Eric Schmidt、Larry Ellison、Bill Gates均有类似先例，退任CEO以执行董事长或类似角色继续参与战略和对外事务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;苹果公告已明确Cook执行董事长的核心职能之一是与全球政策制定者沟通，其在美国、中国、欧盟及印度等地积累的政府关系难以快速移交给新任CEO Ternus。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;从公司治理角度看，前CEO转任执行董事长存在削弱董事会独立监督、干扰新CEO权威建立的风险，迪士尼和星巴克均出现过相关冲突案例。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;综合来看，执行董事长是针对过渡需求设计的混合角色，Cook与Ternus之间的实际职权边界仍有待后续申报文件和实际运作来厘清。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108943&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 138 | 派友让闲置旧设备「再就业」、大疆 Mic Mini 与 MUJI 桧木蜡烛&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 派友分享旧设备新用途，社区热议数码与生活好物&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期少数派Matrix社区速递第138期汇聚了多类社区精华内容。一派讨论围绕旧设备再利用展开，467名派友分享了将旧手机、旧平板、旧电脑改造为车机、NAS、电子相册等创意玩法。热评板块涵盖外卖安全、AI模型动态、苹果新系统设计争议及游戏《红色沙漠》口碑逆转等话题。有趣文章板块推荐多篇社区原创。新玩意栏目介绍了DJI Mic Mini麦克风和MUJI桧木香味蜡烛两款产品的真实使用体验，整体内容丰富多元。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派Matrix社区重启社区速递周报，本期为第138期，汇聚社区热门内容、热议话题及作者投稿新玩意。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在一派讨论《别让它吃灰》中，467名派友分享了旧设备的新用途，包括将旧手机改为车机导航、旧平板做电子相框、旧电脑改装NAS等创意方案，仅1/4的派友选择出二手。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;一周热评涵盖外卖食品安全、Claude Opus 4.7 token消耗、谷歌IPv6流量占比、AI输出Markdown格式问题、苹果iOS 26/iPadOS 26/macOS Tahoe设计争议、游戏《红色沙漠》口碑逆转等多个话题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;有趣文章栏目推荐了涉及隐私工具开发、词典App对比、减肥App手搓、AI与独立开发、货拉拉兼职、空气净化器改造、Obsidian收藏分类等多篇社区原创内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者投稿新玩意包含两篇：bakamio分享了500元入手的DJI Mic Mini两发一收套装的使用体验，Cleo阿直分享了28元MUJI桧木香味蜡烛的开箱与使用心得。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108909&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;众测招募｜从 Quote/0 到口袋先知，我们需要的只是一个轻回应&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 口袋先知：墨水屏包挂助你轻松决策&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了MindReset团队推出的新产品「口袋先知」，这是Quote/0小组件的延续产品。口袋先知是一款采用墨水屏的包挂设备，主打日常决策辅助与轻量陪伴，内置MBTI人格指南、答案之书、每日运势等趣味功能，同时具备蓝牙翻页遥控、电子骰子、NFC等实用工具。产品设计克制，强调不干扰注意力。文章同步宣布开启30名社区众测招募及直播预售计划。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Quote/0上线近一年，成为数万人的桌面小组件，用户喜爱它因为它不争夺注意力，只提供简单的确定感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新产品「口袋先知」是一款基于墨水屏的包挂设备，专为日常决策和轻量陪伴设计，体积小巧，可随身携带。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;口袋先知内置多项核心功能，包括基于MBTI的人格指南、350条随机答案的答案之书、每日运势等趣味功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;实用工具方面，口袋先知支持蓝牙翻页遥控、电子骰子、快速决策、Wi-Fi自动校时、自定义锁屏及NFC功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;产品设计上追求极致克制，控制体积、坚持墨水屏、简化交互至两键操作，并保留Wi-Fi、蓝牙和OTA升级能力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章宣布面向少数派用户开启30名众测招募，截止2026年4月27日，并预告4月23日晚在多平台开启直播预售。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108921&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：华为举办 Pura 系列及全场景新品发布会等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 华为发布会引领全场景新品，多家科技巨头同日重磅动作&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派科技早报，汇总了4月20日多条重要科技资讯。华为在广州举办全场景新品发布会，发布Pura 90系列手机、首款大阔折机Pura X Max、AI眼镜、多款智能手表及MateBook 14鸿蒙版等产品，全面覆盖手机、穿戴、PC与智慧屏领域。此外，徕卡与长光辰芯联合开发下一代CMOS传感器；微软Fairwater AI数据中心提前启用；Apple宣布CEO更迭，John Ternus将接替Tim Cook；月之暗面开源Kimi K2.6模型；Adobe推出企业级客户体验编排工具。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;华为在广州举办Pura系列及全场景新品发布会，发布HUAWEI Pura 90系列三款手机，覆盖高中低不同定位，均搭载麒麟处理器，支持IP68/IP69防水，配备多摄像头系统，售价从4699元至8499元不等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;华为还发布了首款大阔折手机HUAWEI Pura X Max，搭载麒麟9030 Pro处理器，内屏7.7英寸，售价10999元起；同时Pura X追加两款新配色，售价7999元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;可穿戴设备方面，华为AI眼镜正式发布，重量35.5g，支持HDR Vivid与12小时续航，售价2499元起；另有HUAWEI WATCH系列多款新品及WATCH Buds 2手表耳机二合一产品发布。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;HUAWEI MateBook 14鸿蒙版搭载麒麟X90芯片，采用2.8K OLED屏，重量1.33kg，售价6599元起；华为智慧屏S7 Pro采用Super MiniLED黑晶屏，支持288Hz高刷，售价7999元起。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;徕卡与长光辰芯（Gpixel）宣布战略合作，将为下一代徕卡相机定制CMOS图像传感器，提升图像质量、动态范围与弱光性能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软CEO Satya Nadella确认位于威斯康星州的Fairwater AI数据中心已提前投入使用，配备超十万张NVIDIA Blackwell GB200 GPU，采用可再生能源供电。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple宣布自2026年9月1日起，Tim Cook卸任CEO转任董事会执行主席，现任硬件工程高级副总裁John Ternus接任CEO；Johny Srouji即日起出任首席硬件官。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;月之暗面发布并开源Kimi K2.6模型，在多项权威基准测试中取得行业领先成绩，综合能力持平或优于GPT-5.4、Claude Opus 4.6等闭源模型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple与浙江大学联合承办的第十一届中国高校计算机大赛-移动应用创新赛正式启动报名，设三大赛道；Apple移动孵化器同步面向社会招募首批独立开发者及早期创业团队。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Adobe发布面向企业的客户体验编排解决方案Adobe CX Enterprise，支持混合界面交互与AI智能体系统，已上线Adobe Experience Cloud。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - April 20, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1519,211 +1774,6 @@ On April 11th, 2026, an independent web author documented a marked surge in aggr
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;系统透明度是AX中被忽视的重要课题，现有权限确认弹窗将风险判断成本完整抛给用户，导致确认疲劳和YOLO Mode滥用，已造成真实数据损失事故。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;处理系统透明度问题有三个方向：文件系统和数据库层面的可审计性（如Git绑定、语义版本控制）、行为建模报警（类似杀毒软件的规则拦截）、以及分级权限体系（按操作不可逆程度分级而非一视同仁弹窗），但目前没有产品完整实现过这些方案。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;界面作为上下文投递机制的讨论引出了统计分析中LLM外包的风险，指出代码跑通不等于统计过程正确，人类将分析外包给LLM后很难仔细核查，而科学界本身的统计误用问题（如可重复性危机）表明这一风险相当严峻。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - April 10, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-04-10</id>
-    <updated>2026-04-10T20:27:28.395Z</updated>
-    <published>2026-04-10T20:27:28.395Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>13 articles from 8 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 10, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;109.58904109589041&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    27.4%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;100&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;265&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;14&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████░░░░░░░░░░░░░░░░░░░░░░ 27.4%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;13&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22521&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;I know a young student in Germany who needs to learn about relevance of the Entscheidungsproblem and Alan Turing to today’s work in computation—who should I put them in touch with?&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者为德国学生寻找图灵与判定问题领域的联系人&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇简短的帖子发布于2026年4月10日，作者在英国（51°N, 0°E）询问社区，希望为一位德国年轻学生寻找合适的联系人，以便该学生了解Entscheidungsproblem（判定问题）及Alan Turing与当代计算机科学研究的相关性。文章篇幅极短，更像一条社交媒体动态，同时发布于Mastodon和Bluesky平台，并附有互动邀请。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/04/legacy-systems/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How To Improve UX In Legacy Systems&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 遗留系统UX改造需渐进迁移并重建信任&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由Vitaly Friedman撰写，探讨了改善遗留系统用户体验（UX）的实践策略。文章指出遗留系统虽老化、脆弱，却是企业核心运营的关键，不可轻易废弃。作者建议首先梳理现有工作流与系统依赖，引入利益相关者和重度用户共同参与，再根据实际情况选择合适的迁移策略，如增量迁移或并行迁移。文章强调，遗留系统改造本质上是对用户习惯、业务流程与组织信任的整体迁移，需要耐心、持续沟通与严格测试，成功后将带来深远影响。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;遗留系统往往是企业日常运营的核心，通常耗费40-60%的IT资源，虽然缓慢、不稳定且过时，但仍被大量依赖。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;遗留系统必须与围绕其构建的现代产品共存，形成类似&amp;#039;科学怪人&amp;#039;的混合体，设计不一致且文档残缺。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;遗留系统中任何一个环节的糟糕体验都会拖累整体产品的用户体验，使整个应用显得支离破碎。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;不应轻易废弃遗留系统，而应先收集其中沉淀的业务知识，因为大爆炸式重设计成本高昂且风险极大。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;建议通过梳理现有工作流和依赖关系，绘制系统地图，并让利益相关者和重度用户共同参与，以全面了解遗留系统的运作方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;可选的迁移策略包括：大爆炸重启、增量迁移、并行迁移、增量并行迁移，以及遗留UI升级配合公测，应根据实际情况选择。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;遗留系统改造不仅涉及技术迁移，还需迁移用户习惯与工作流，需与关键利益相关者建立强信任关系，持续反馈并进行严格测试。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-292/viewer?title_no=853933&amp;episode_no=307&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 292&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON《DOGHAUS》漫画系列章节导航页&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本内容为WEBTOON平台上的漫画系列《DOGHAUS》的章节导航页面，展示了从第1话到第292话的完整章节列表，其中包含数个特别公告（如书籍公告、Kickstarter启动公告）及特别番外（Sunday Strip系列）。该页面属于CANVAS自发布平台，内容被标记为成人向（Mature），并提供订阅、分享、举报等互动功能。页面本身不包含实质性叙事文章内容，仅为漫画平台的导航与功能界面。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-4-10/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.4.10&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 车送修相机出售，作者以尝试隐形眼镜应对平淡近况&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者近期生活平淡，主要经历了两件事：Cayman跑车的驻车传感器因修车厂操作问题损坏，送回Porsche Fremont维修；同时因拍摄欲望低迷，将手中富士X卡口的三台相机和镜头出售给MPB，考虑日后购入GFX100RF或X2D。在车与相机双双缺席的状态下，生活反而简单许多。此外，作者预约了隐形眼镜佩戴培训，期待摘掉眼镜框后的全新生活状态，或许也是在用改变外貌来应对生活中的不可抗力。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[RSS Club] Why do you use RSS rather than Atom?&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 RSS remains preferred over Atom among web enthusiasts, explored through RSS Club membership and privacy-respecting analytics experimentation.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article explores the author&amp;#039;s participation in RSS Club, an exclusive content experiment available only to feed subscribers, which the author wryly notes might be better described as an &amp;quot;XML-based distributed feed club.&amp;quot; The piece touches on the broader question of why RSS remains a preferred choice over the Atom syndication format among certain web enthusiasts. A notable focus of the article is the author&amp;#039;s ongoing experimentation with privacy-respecting content engagement tracking, seeking ways to understand how readers interact with content without collecting invasive data. The author appears to be navigating the intersection of old-school web technologies like RSS and modern concerns around user privacy and analytics. Overall, the article reflects a thoughtful, technically-minded perspective on web publishing, feed formats, and ethical approaches to audience engagement measurement.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;RSS Club Intro:&lt;/strong&gt; This content is exclusively available to feed subscribers as part of an experiment called RSS Club. The author humorously suggests it could be more accurately named &amp;#039;XML-based distributed feed club&amp;#039;.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Privacy View Tracking:&lt;/strong&gt; The author has been experimenting with local-only and privacy-conscious view tracking methods. This exploration focuses on monitoring content engagement without compromising user privacy.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/04/10/no-stack-web-development/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No-stack web development&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Modern web development favors lean, standards-based HTML/CSS/JS over heavy framework stacks, prioritizing long-term stability and replaceable tools.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Modern web development is increasingly burdened by &amp;quot;stacks&amp;quot;—heavy collections of frameworks and dependencies that introduce supply chain risks, technical debt, and fragile abstractions that obscure core web standards. Adopting a default stack often leads to prescribing solutions before diagnosing requirements, resulting in &amp;quot;stack-as-a-service&amp;quot; traps where long-term stability is sacrificed for short-term developer convenience. The &amp;quot;no-stack&amp;quot; philosophy advocates for building on the resilient foundations of HTML, CSS, and vanilla JavaScript, which offer decades of backwards compatibility unlike ephemeral frameworks. Consequently, developers should prioritize tool-agnosticism, introducing specific libraries only after a problem’s impact is fully understood and ensuring they can be replaced with minimal friction.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining the Stack:&lt;/strong&gt; A &amp;#039;stack&amp;#039; refers to the collection of software choices used to build a website, including languages, frameworks, libraries, and services. Modern stacks often involve hundreds of megabytes of JavaScript dependencies and pose supply chain risks.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Debt Problem:&lt;/strong&gt; Adopting a default stack means prescribing a solution before diagnosing a problem, forcing projects to fit the stack rather than choosing tools appropriate to the actual requirements.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Non-Transferable Knowledge:&lt;/strong&gt; Stacks abstract away from web fundamentals, producing knowledge that becomes obsolete once the stack is abandoned. Learning abstractions like Tailwind or Webpack limits deeper understanding of core standards like CSS.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Accelerated Obsolescence:&lt;/strong&gt; Stack components frequently update with breaking changes or get deprecated entirely, whereas a plain HTML document written 20 years ago still works today. Stacks introduce fragility that the open web platform inherently avoids.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Vendor Lock-In Risk:&lt;/strong&gt; Re-stacking is costly, and stack-as-a-service traps websites in paid dependencies that sacrifice long-term stability for short-term developer convenience.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;When Tools Are Justified:&lt;/strong&gt; The author advocates choosing tools only after understanding the specific problem and its impact, favoring tools built on standards that can be introduced or replaced with minimal friction.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Web Fundamentals as Foundation:&lt;/strong&gt; CSS, HTML, and JavaScript are described as the true web stack, offering decades of backwards compatibility. The author strongly advises against continuing with legacy frameworks like React.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Personal Projects Exception:&lt;/strong&gt; For personal projects, experimentation with new tools and custom stacks is encouraged as a valuable learning exercise, since the individual bears all consequences of their own choices.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/?p=11626&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【採用情報】急募！デバッグスタッフ募集[アルバイト]（福岡本社）&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 福冈游戏公司招募调试兼职，无经验可应聘&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本招聘公告面向全球发行游戏的调试兼职岗位，欢迎无经验者应聘。工作地点位于福冈总部，雇用期限至2027年3月，时薪1150日元起，工作时间为周一至周五9:00～18:30。主要职责为对家用游戏进行Bug检测，要求应聘者对游戏及娱乐内容有浓厚兴趣。具备Office操作能力、调试经验及良好沟通能力者优先。应聘需提交履历书、职务经历书及应聘问卷。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/?p=11634&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【採用情報】急募！ビジュアルエフェクツアーティストアシスタント募集 [アルバイト]（福岡本社・東京スタジオ・大阪スタジオ）&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 游戏公司招募特效艺术家助手兼职&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为一则日本游戏公司发布的Visual Effects Artist助手岗位招聘公告，面向有志于游戏制作、CG及影像制作的人员，包括无经验者。招聘形式为兼职，雇用期间为2026年6月至2027年3月，工作地点涵盖福冈总部、东京及大阪工作室。职责为协助制作游戏内特效数据，要求应聘者对动画或影像制作有兴趣，具备Photoshop及3DCG工具使用经验，有Unreal Engine经验者优先。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n519e124d19a7&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;マチ★アソビVol.30に向けて準備中！新グッズチラ見せ！夜明けは近いぜよ！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 マチアソビ限定の松山洋グッズを予告公開&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーの宣伝広報課スタッフ「べーいり」が、マチ★アソビVol.30に向けて準備中の新グッズを予告する記事。同社代表・松山洋氏をモチーフにした『PIROSHI★IMPACT★POSTER』（仮称）のサンプルが届き、その一部を「夜明け」にたとえてチラ見せ。坂本龍馬の言葉「夜明けは近いぜよ」を引用しながら期待感を高めつつ、現地購入者限定グッズであることを示唆。2026年5月16日・17日のイベントでの公開を予告している。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108496&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 11 部作品&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派精选本周11部影视佳作及最新预告资讯&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派编辑部本周影视推荐栏目，涵盖11部近期值得观看的作品，包括《黑袍纠察队》最终季、女性向电影《我，许可》、悬疑剧《危险关系》、台剧《动物园》、动画《黄泉使者》《异兽魔都》《无敌少侠》等，风格多元，评析详尽。同时汇总了多则新预告——《穿普拉达的女王2》《真人快打2》《瑞克和莫蒂第九季》等——以及《海贼王》关联作品、多部影片内地定档等影视资讯，为读者提供全面的本周影视导览。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (13 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周推荐包括《黑袍纠察队》最终季、电影《我，许可》、国产剧《危险关系》等11部作品，并附有多则影视预告和资讯。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《黑袍纠察队》第五季作为最终季首播两集全程高能，延续系列大尺度风格，剧情出人意料又在情理之中。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影《我，许可》以子宫息肉手术为切入点，讲述新一代女性与传统母亲之间的代际碰撞与相互认可，轻盈余韵悠长。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;国产剧《危险关系》以悬疑线为引，展现各类情感操纵与欺诈，剖析受害者心理，具有强烈警示意义。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;台剧《动物园》讲述广告人朱欣葵从都市转型为动物保育员的治愈故事，节奏舒缓温馨。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《掩耳盗邻》第二季延续中产阶级崩溃的黑色幽默风格，原班人马回归带来更多惊喜与讽刺。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影《风来之所》以北非年轻人为缩影，讲述突尼斯少年追梦的故事，色彩考究，富有诗意。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《黄泉使者》改编自《钢之炼金术师》作者新作，骨头社制作，叙事扎实，被誉为少年漫改动画新标杆。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《摩绪》改编自高桥留美子作品，延续穿越降妖设定，制作态度端正，适合高桥老师粉丝观看。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《异兽魔都》第二季转为流媒体独占后尺度更上一层楼，MAPPA原班人马呈现重口邪典风格，谜团逐渐揭晓。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《无敌少侠》第四季制作水平回升，星际尺度的动作场面更宏大，人物情感刻画深入，人文内涵丰富。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;真人秀《风向Go》第二季延续无手机旅行主题，四位中老年艺人赴奥地利匈牙利，回归本真玩得开心。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周还有多部影片发布预告，包括《穿普拉达的女王2》《迈克尔·杰克逊：巨星之路》《真人快打2》等，以及《海贼王》相关作品、多部新片定档等影视资讯。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108469&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;深入 OPPO Find N6：一场关于大屏和效率的舞蹈&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 深度探讨OPPO Find N6折叠屏的效率与大屏价值&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派作者张奕源Nick发布的一篇关于OPPO Find N6折叠屏手机评测视频的介绍文章。文章强调该视频并非传统参数测评，而是将Find N6带入真实生活场景，探讨折叠屏的多窗口体系、手写笔价值、大屏使用逻辑，以及ColorOS与Find N6组合为何是当前折叠屏市场的最优选择。视频提供了Bilibili、微博、YouTube、抖音、视频号等多个观看渠道，以方便不同平台的用户收看高清版本。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了一部关于OPPO Find N6折叠屏手机的深度评测视频，重点探讨折叠屏如何帮助用户提高效率，而非传统的参数罗列式测评。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;视频涵盖了多个核心议题：折叠屏的多窗口体系、手写笔的实际价值、大屏的使用场景，以及Find N6搭配ColorOS为何是当下最佳折叠屏选择。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章列出了视频的多个观看渠道，包括Bilibili、微博、YouTube、抖音和视频号，并附有少数派相关推广信息。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108453&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Claude Code+HA 自动化实战：给宠物龟请个「电子保姆」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 程序员用AI对话零代码构建智能龟缸全自动监控系统&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者是一位程序员，养了6只不同品种的龟后，利用Claude Code通过纯对话方式，将TP-Link摄像头、群晖NAS、水温传感器和加热棒整合进Home Assistant，构建了一套完整的智能龟缸监控系统。系统涵盖实时仪表盘、温度异常告警、活动状态检测、每30分钟精华视频生成以及基于本地Gemma 4模型的行为分析报告，全程未手写一行代码。作者总结，AI已能承担大量技术判断工作，开发者的角色正在向产品经理转变。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者最近养了6只龟，配备了摄像头、NAS录像系统和水温传感器，但各设备相互独立，使用不便。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过与Claude Code对话，作者无需手写代码，将所有设备整合到Home Assistant仪表盘，实现摄像头画面、水温趋势、加热棒状态的统一显示和温度异常推送。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Claude Code提出每5分钟从NAS录像中抽帧对比的方案，利用OpenCV检测画面变化判断龟的活跃状态，并通过只传输mp4文件头5MB的优化将处理时间从12秒降至2秒。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;系统每30分钟自动生成精华视频，从检测到活动的时间点截取片段拼合，使用ffmpeg的stream copy模式将生成时间从25秒压缩至2秒，画质保持1080p原始水准。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者引入本地运行的Gemma 4（8B）大模型，对每30分钟录像均匀抽取30帧逐帧分析后汇总，通过调整prompt风格让AI以朋友聊天的方式描述龟的行为。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;整套系统由NAS负责数据采集和展示，Mac负责视频处理和AI推理，两者通过HA REST API连接，所有代码均由Claude Code生成，作者全程扮演产品经理角色提需求和给反馈。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;系统硬件均为家中现有设备，软件全部开源，本地AI推理使用Ollama，每月额外电费约3元，实现了零额外成本的智能龟缸监控。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108468&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：微信支付发布接入 Skill 工具体系等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 多家科技公司集中发布AI工具与新品&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派「派早报」周五科技速览，汇总多条AI与科技新品资讯。微信支付、MiniMax、扣子、腾讯等国内厂商集中发布面向AI Agent的开发工具与平台；Google Gemini新增笔记本功能强化知识管理；DJI旗下Amflow推出高端电动山地车；戴森推出手持无叶风扇；YouTube与OpenAI亦有新功能与订阅方案更新。整体呈现出AI工具生态快速扩张、各厂商抢占开发者市场的趋势。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;微信支付发布面向AI的接入方案，涵盖Skill技能包、AI友好文档和API，帮助开发者通过对话指令高效完成支付接入，降低开发门槛。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;DJI分拆品牌Amflow发布PX与PR两款电动山地自行车，搭载高性能驱动系统，支持碳纤维车架几何调节、导航、Apple Find My等功能，欧洲起价4999至7999美元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;戴森发布手持无叶风扇HushJet Mini Cool，内置高转速无刷电机，续航约6小时，支持颈挂免手持使用，售价99美元并提供多种配色选择。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google为Gemini新增「笔记本」功能，可集中整理特定主题的文件、对话与指令，并与NotebookLM同步，目前向付费订阅用户开放。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;MiniMax推出面向AI Agent的命令行工具MMX-CLI，支持全模态能力调用，可集成至Claude Code等环境，具备结构化输出和异步任务执行功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;扣子发布2.5版本，推出AI Agent协作平台「Agent World」，新增独立邮箱身份、云手机、日历管理、文件系统及编程CLI等功能模块。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;腾讯发布QBotClaw和QClaw v2，前者内置于QQ浏览器支持自然语言自动化操作，后者引入多Agent机制与安全模块「龙虾管家」，目前仅Mac端上线。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;YouTube为Shorts引入AI数字分身功能；OpenAI推出100美元/月中端ChatGPT Pro方案；少数派发布多篇近期文章与产品动态。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
