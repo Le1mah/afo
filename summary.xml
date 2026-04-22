@@ -4,8 +4,206 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-04-21T20:36:03.937Z</updated>
+  <updated>2026-04-22T20:38:56.984Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - April 22, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-04-22</id>
+    <updated>2026-04-22T20:38:56.984Z</updated>
+    <published>2026-04-22T20:38:56.984Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>11 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 22, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;122.73972602739727&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    30.7%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;112&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;253&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;16&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████░░░░░░░░░░░░░░░░░░░░░ 30.7%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI-driven UX role growth and risks of deploying unvetted AI-generated code highlight the need for human-AI-human design-engineering collaboration.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The 2026 job market is increasingly demanding that UX designers take on production-ready prototyping and AI-augmented development skills, blurring the traditional boundary between design and engineering — though UX/product design roles are still projected to grow 16% through 2034, far outpacing graphic design, largely driven by AI product development. However, the premise that AI equalizes designers and engineers is demonstrably flawed: AI-assisted coding correlates with 17% lower comprehension scores, up to 92% of AI-generated codebases contain critical security vulnerabilities, and AI produces 4x more code duplication than hand-written code. Designers without solid technical foundations who ship AI-generated code are inadvertently introducing security flaws, accessibility failures (such as non-semantic components lacking keyboard or screen-reader support), and performance regressions — all of which accumulate as costly technical and accessibility debt. Operational data reinforces this concern: AI-generated designer code is increasing incidents per Pull Request by 23.5%, and only 69% of designers (versus 82% of developers) believe AI improves output quality. The article ultimately argues against the &amp;quot;Solo Full-Stack Designer&amp;quot; model in favor of a human-AI-human collaboration loop, where senior UX designers work alongside engineers to preserve deep design expertise while responsibly leveraging AI-generated code rather than blindly deploying it.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Driven Role Creep:&lt;/strong&gt; The 2026 job market is forcing UX designers to adopt AI-augmented development and production-ready prototyping skills, blurring the boundary between design and engineering. LinkedIn job postings increasingly demand technical orchestration alongside traditional UX competencies.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;UX Market Growth:&lt;/strong&gt; UX, UI, and Product Design roles are projected to grow 16% through 2034, significantly outpacing traditional graphic design at 3%. However, this growth is tightly coupled to AI product development, where design skills now rank as the top in-demand capability.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Competence Trap Risk:&lt;/strong&gt; The myth that AI equalizes designers and engineers is dangerous, as attempting to master both disciplines simultaneously likely produces average competency in both. Research shows AI-assisted coding leads to 17% lower comprehension scores compared to coding by hand.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Code Quality Debt:&lt;/strong&gt; Up to 92% of AI-generated codebases contain at least one critical security vulnerability, and AI produces 4x more code duplication than human-written code. Designers lacking technical foundations inadvertently ship security flaws, inaccessible components, and performance-heavy code.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Accessibility and Semantics:&lt;/strong&gt; AI frequently generates visually functional but semantically broken UI components, such as non-semantic divs lacking keyboard focus or screen-reader support. This creates costly Accessibility Debt that is difficult and expensive to remediate after the fact.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Rework Tax:&lt;/strong&gt; Despite promises of faster delivery, AI-generated designer code is increasing incidents per Pull Request by 23.5%, with engineering teams spending significant time cleaning up low-quality output. Only 69% of designers believe AI improves work quality, versus 82% of developers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Collaborative Model Proposed:&lt;/strong&gt; The article advocates replacing the &amp;#039;Solo Full-Stack Designer&amp;#039; model with a human-AI-human loop where senior UX designers collaborate with engineers rather than attempting to replace them. This preserves deep UX expertise while responsibly leveraging AI-generated code.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[RSS Club] How do you preserve an RSS feed?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博客写作需付出代价以确保内容长久保存&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该文章为RSS订阅者专属的秘密内容，介绍了一篇由Martin Paul Eve撰写的博客文章，标题为《博客写作中的必要痛苦（如果你希望你的作品能够在你身后得以保存）》。由于原文内容未完整提供，仅能得知该博客文章探讨了博客写作与长期内容保存之间的关系这一主题。文章内容不完整，无法进行全面摘要。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n82a73461e253&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『しごにんの侍』制作ぶろぐ 第四十八回『にせものとこせい』&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 第四十八回解说揭示克隆人与创作理念&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是CyberConnect2官方对漫画《しごにんの侍》第四十八回的创作解说。作者介绍了新角色全海僧正的历史原型天海僧正，说明了「接ぐ」与「継ぐ」的用字区别，并明确揭示偽物二郎長是万象制造的克隆体，用于检验四剣豪实力。此外还解释了崗鮫刀的来历，以及作者有意避免老套的惊慌失措场景、通过人物造型和手机漫画格式限制来优化叙事节奏的创作理念。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文是CyberConnect2官方对漫画《しごにんの侍》第四十八回的解说，介绍了角色「全海僧正」的原型——江户幕府宗教行政官天海僧正，并提及作者因《サクラ大戦》而了解该历史人物，将其作为新角色加入以丰富江御篇阵容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者解释了「接ぐ」与「継ぐ」两字的用法区别，说明シャブ八的台词中「接いで継いでいく」含有「连接并中继传递」之意，并非单纯的粘合概念。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文中明确说明出现的「偽物二郎長」并非七剣幻象，而是万象创造的具有完整实体的クローン（克隆体），目的是检验四剣豪的心身强度，其肉体与本人无异，但脑内记忆不同，战斗力是否相同仍是悬念。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;崗鮫刀的登场被解释为原本是为克隆一郎左而准备的，制作过程中产生了多把，因此能够迅速取用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者阐述了本作刻意回避角色面对突发事态时惊慌失措的常见场景，认为此类反应在其他作品中过于泛滥，并通过人物性格设计（如武蔵四郎）使冷静反应显得自然，同时说明智能手机阅读格式决定了画格大、台词少的排版风格。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://youtu.be/kpLPaFu6Tzw&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【MV公開】「LieN －リアン－」による映画『チェイサーゲームW 水魚の交わり』W主題歌『大切な一日』｜2026.5.15（金）全国劇場公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 LieN releases &amp;quot;Taisetsu na Ichinichi&amp;quot; MV as dual theme song for film *Chaser Game W: Suigyo no Majiwari*, opening nationwide in Japan May 2026.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article&amp;#039;s substantive content is extremely limited — the body text consists entirely of standard YouTube boilerplate (About, Press, Copyright, Contact, Terms, Privacy, etc.) rather than actual article prose, making a meaningful 3–5 sentence summary of the content impossible.
+
+Based solely on the title, the following can be inferred: A music video has been released by the artist group &amp;quot;LieN (リアン)&amp;quot; featuring the song &amp;quot;大切な一日&amp;quot; (Taisetsu na Ichinichi / &amp;quot;A Precious Day&amp;quot;), which serves as a dual theme song (W主題歌) for the film *Chaser Game W: Suigyo no Majiwari* (チェイサーゲームW 水魚の交わり). The film is scheduled for nationwide theatrical release in Japan on May 15, 2026. No further details about the song&amp;#039;s style, the film&amp;#039;s plot, or the MV&amp;#039;s content can be derived from the provided text.
+
+To produce a proper summary, the actual article body or video description would be needed.&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108574&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;飞傲 x FM3.14｜2026 第一季度音乐精选：这耐听的 8 张专辑包办你的春天&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 八张华语新专辑精选，带你聆听2026春天&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是音乐记者麻乐为少数派FM3.14栏目撰写的2026年第一季度华语音乐精选导听，共推荐八张专辑。涵盖触发器乐队的独立摇滚《车祸的幸福》、LEO王的雷鬼专辑《薯条雷鬼》、香港乐队我地希望的民谣双专辑《岛Dou》、南洋派对的讽刺风格《DON&amp;#039;T LIKE我钟意》、SADOG的摇滚《大后悔》、破地狱的实验音乐同名专辑、Luke Chiang的R&amp;amp;B专辑《TYPHOON》以及deca joins的《在这里停一下》。文章风格亲切，以导听为主旨，展现华语独立与流行音乐的多元创意。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者麻乐是拥有十余年经验的音乐记者，曾受训于南方都市报，后赴南加州大学修读音乐产业，现主理自媒体CareForMusic音乐关怀，致力于推荐有个性和人文关怀的华语音乐。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;栏目FM3.14由飞傲冠名赞助，作者将每月精选华语音乐新专辑推荐给读者，本文为2026年第一季度精选八张专辑的导听指引。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;触发器乐队Trigger首张专辑《车祸的幸福》融合摇滚三大件与散文诗歌词，张醒婵的清亮嗓音与乐队粗粝编曲相得益彰，展现内地独立音乐的生命力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;LEO王新专辑《薯条雷鬼》融合雷鬼反拍节奏与管乐，延续鬼马风趣风格，时隔八年推出，轻松诙谐地描绘小人物日常生活。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;香港乐队Wantamnam我地希望以双专辑《岛Dou》展现新式民谣融合后摇、嘻哈、爵士等多种风格，娓娓道来香港青年的心声与城市孤岛的故事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;N.Y.P.D.南洋派对的《DON&amp;#039;T LIKE我钟意》以丰富曲风和讽刺笔触嬉笑怒骂地描绘香港荒诞生活，极具想象力与趣味性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;SADOG的《大后悔》是成军十四年后推出的第三张专辑，以经典摇滚呐喊剖析各式后悔之情，真性情中夹杂惊喜与柔软。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;台北实验乐团破地狱的专辑《破地狱》融合南管北管、迷幻摇滚、神游舞曲、印尼甘美朗等全球音乐元素，以&amp;#039;时间&amp;#039;为主题探讨失去与重获力量，自成一体的听觉世界妙趣横生。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新晋唱作人Luke Chiang的处子专辑《TYPHOON》记录他因病失声六年后重返乐坛的历程，融合当代流行R&amp;amp;B风格，才华耀眼。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;deca joins新专辑《在这里停一下》标志乐队从&amp;#039;丧&amp;#039;系风格转向积极明亮，主唱郑敬儒由内向外探讨自我和解与顺其自然的人生态度，乐队成员放手合作共同填充音乐空间。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108976&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;原来你对写作是真爱：少数派 2025 年度征文结果公布&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 人类真实情感在人机写作对决中胜出&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派2025年度征文以「人类写作与AI写作的能力边界」为主题，历时两个多月，收到超过60篇投稿。经编辑部评审与读者投票，#TeamCarbon25赛道由以真实丧亲经历写就的情感文章夺魁，#TeamSilicon25赛道则由一篇通过实验验证AI提示词效果的理性分析文章胜出。结果表明，真实体验与细腻情感在读者中最具感召力，而优质写作无论借助何种工具，都离不开作者的深度思考与大量投入。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派2025年度征文围绕「人类写作与AI写作的能力边界」这一问题展开，历时两个多月，共收到超过60篇投稿，经编辑部筛选、入围展示与读者投票，最终得出结论：真实体验与细腻情感更能打动读者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;#TeamCarbon25赛道最终优胜文章为《至亲离世的2025，我像是玩了一局成长游戏并做了一份攻略》，作者以亲身经历丧亲之痛为出发点，希望为同样面临困境的读者提供心灵支撑；同赛道另有两篇优胜文章，分别涉及副业实践与九寨沟冬游游记。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;#TeamSilicon25赛道入围优胜的文章为《「你是专家」这句话，到底是在帮AI还是在害你？》，作者通过120余次API调用、对照实验验证了常见AI提示词技巧的真实效果；同赛道另有两篇优胜文章，分别探讨荷马史诗与AI的关联以及社会科学领域的AI应用危机。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结尾总结指出，无论是人类写作还是AI辅助写作，要写出言之有物的文章都需要付出大量心力；编辑部对获奖及入围作者表示感谢，并期待明年征文活动继续举行。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108857&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;把家里的游戏带出门：开源本地串流方案 Sunshine 上手指南&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用Sunshine将PC游戏串流到手机平板的实用指南&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了开源本地游戏串流方案Sunshine的使用指南。文章首先对比了公有云游戏串流与本地串流的优劣，指出本地串流延迟更低、画质更稳定。随后重点介绍了Sunshine的增强分支版本Foundation Sunshine在Windows平台的安装配置过程，涵盖显卡选择、虚拟显示器、应用列表等设置，以及配套客户端VoidLink的连接与参数调整。作者以iPad串流PC端《帝国时代4》为实测案例，验证了方案的可行性，并提出结合组网工具可扩展为外网远程串流。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;云游戏串流服务（如GeForce NOW）让玩家可以在低性能设备上玩3A大作，但依赖网络质量且游戏库受限；本地串流则以家中PC或主机为算力源，将画面传输到其他设备，延迟更低、画质更好。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;NVIDIA曾推出GameStream作为本地串流方案，但于2023年停止维护；开源项目Sunshine填补了这一空缺，支持Intel、AMD、NVIDIA显卡及Windows、macOS、Linux系统，硬件门槛较低。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了Sunshine（及其增强分支Foundation Sunshine）的安装与配置流程，包括显卡选择、虚拟显示器设置、应用列表管理及分辨率预设等，Foundation Sunshine仅支持Windows但提供更完善的HDR和低延迟优化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;客户端方面，Moonlight支持Android、iOS、PC等多平台；作者选用Foundation Sunshine团队维护的分支客户端VoidLink，并提示iOS/macOS用户需将Wi-Fi信道改为44或149以避免音频卡顿。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;配对流程简单：在VoidLink中扫描到服务端后输入PIN码即可完成连接；作者实测在iPad上以1600×1200分辨率串流《帝国时代4》，无线网络下体验流畅，无明显延迟或卡顿。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为Sunshine最大的实际价值在于打破游戏场景限制，可在沙发、床上等任意地点继续游玩；若结合ZeroTier、Tailscale等组网工具，还可实现外网远程串流。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108148&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;中年人兼职开车送货，20 天学会的 7 个真相&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 An ex-internet professional&amp;#039;s 20-day delivery gig revealed low real earnings, platform-favored information asymmetry, and unexpectedly grounding exposure to China&amp;#039;s physical economy.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;A 36-year-old former internet professional turned part-time delivery driver completed 56 orders over 20 days on the Xiaola platform in March, earning 2,627 RMB gross (avg. 44.6 RMB/order), with effective hourly rates of only 20–30 RMB before accounting for vehicle depreciation—exposing a significant mismatch between compensation and actual labor cost. The platform&amp;#039;s deliberate withholding of cargo details prior to order acceptance creates a structural information asymmetry that offloads risk onto drivers, who must make real-time decisions under uncertainty about cargo weight, destination, and profitability. Drivers who fail to proactively assert their interests when facing overweight loads, excessive wait times, or unloading demands are routinely exploited, as the platform&amp;#039;s incentive design systematically favors shippers. Beyond the economics, the work positioned the author as a critical logistics node with direct, ground-level visibility into wholesale markets, factories, and logistics hubs that office-bound workers never access. Unexpectedly, the author—coming from a decade-plus internet career—found the physical, tangible nature of delivery work psychologically grounding and socially enriching, offering a firsthand view of how China&amp;#039;s physical economy actually operates.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Gig Work Entry:&lt;/strong&gt; A 36-year-old unemployed middle-aged man begins part-time delivery driving via the Xiaola platform in February, completing 56 orders over 20 days in March with a gross revenue of 2,627 RMB and an average of 44.6 RMB per order.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Assert Your Rights:&lt;/strong&gt; Drivers must proactively defend their own interests when facing overweight cargo, long waits, or unloading demands, as passivity leads to being routinely exploited by shippers who take advantage of silence.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Low Hourly Returns:&lt;/strong&gt; With most orders priced under 50 RMB and effective hourly rates between 20–30 RMB before accounting for vehicle wear, driver compensation is poorly matched to actual effort and cost.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cog in System:&lt;/strong&gt; Once a driver accepts an order, they become an indispensable link connecting shipper and recipient, effectively becoming a functioning node within a larger platform-driven logistics system.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Real-World Exposure:&lt;/strong&gt; Delivery work grants firsthand access to locations and economic activities invisible to office workers—wholesale markets, factories, construction sites, and logistics hubs—offering an irreplaceable ground-level view of how the physical economy operates.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Embracing Randomness:&lt;/strong&gt; The competitive order-grabbing model means every delivery involves uncertainty about cargo type, location, and profitability, requiring drivers to stay adaptive and act on incomplete information in real time.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Platform Accountability Gap:&lt;/strong&gt; The platform deliberately withholds cargo details from drivers before order acceptance—unlike courier services that require itemized declarations—effectively offloading risk onto drivers and shippers while the platform profits from the resulting information asymmetry.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Grounding Through Labor:&lt;/strong&gt; Physical delivery work provides a psychological grounding and tangible sense of accomplishment that the author, coming from a decade-plus internet career, found unexpectedly fulfilling and socially educational.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108962&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：OPPO Find X9 Ultra 发布等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报速览：多款硬件与AI服务密集发布&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派科技早报，集中报道了2025年4月21至22日的多条科技资讯：OPPO发布旗舰手机Find X9 Ultra；Beats推出JENNIE联名款耳机及3米USB-C线；OpenAI发布更强大的图像生成模型ChatGPT Images 2.0；宁德时代发布多款新一代动力电池；GitHub Copilot调整订阅计划；亚马逊大幅追加对Anthropic的投资；微软下调Game Pass定价。文章以简讯形式逐条呈现，兼附用户评论与编辑简评，覆盖硬件、AI、订阅服务等多个领域。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OPPO发布Find X9 Ultra，搭载骁龙8至尊版平台，配备四摄影像系统（最高2亿像素）、6.82英寸QHD+直面屏、7050mAh电池，起售价7499元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Beats推出JENNIE特别版Solo 4耳机（售价1799元）及3米USB-C连接线（售价229元，支持240W充电），新品将于4月24日发售。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI发布ChatGPT Images 2.0及API接口gpt-image-2，大幅提升指令遵循、视觉构图与多语言文本渲染能力，支持最多一次生成8张连贯图像。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;宁德时代发布第三代神行超充电池（6分钟满电）、第三代麒麟电池（1000公里续航）及多款动力电池，并规划至2026年底建成4000座超换一体站。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;GitHub Copilot暂停Pro、Pro+及Student计划新用户注册，同时调整使用限额与模型访问权限，受影响用户可在5月20日前申请退款。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;亚马逊向Anthropic追加50亿美元投资，累计直接投资达130亿美元，Anthropic承诺未来十年向AWS采购超1000亿美元AI芯片算力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软下调Xbox Game Pass Ultimate及PC Game Pass月费，但未来《使命召唤》新作首发将不再纳入订阅，约一年后才加入。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI为macOS版Codex推出Chronicle研究预览功能，通过后台周期性截屏在本地建立记忆库，提升模型对当前任务环境的上下文理解；Google Labs开源Stitch平台的DESIGN.md格式规范，为AI智能体提供统一设计指引。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派近期动态包括首款MBTI定制墨水屏「口袋先知」预售、麦金獭手机钢化膜上线，以及Raycast使用指南、幼儿美术启蒙指南等付费栏目上架。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 第二外国语日语学院 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026年日语学院转专业说明会&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 北二外日语学院举办2026年转专业说明会&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;2026年4月21日，北京第二外国语学院日语学院举办了2026年转专业说明会。说明会的详细内容以视频形式录制，录制时间为2026年4月22日11时45分，可通过腾讯会议链接（https://meeting.tencent.com/crm/2kOoJ9Xnca）配合密码PDXM进行访问。该通知为有意向转入日语学院的学生提供了获取转专业相关信息的渠道。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;附件1：个人志愿表 （适用于I类转专业考生）&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 未提供可摘要的文章内容。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;未提供任何文章内容，无法进行摘要。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - April 21, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1642,138 +1840,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细讲解了文件命名的重要性与个人命名习惯，提出命名需考虑概括性、可读性、适用性、检索便利性和软件兼容性，并以领域、项目、版本、执行人、标签、备注、时间等维度为框架，结合ReNamer等批量重命名工具提升效率。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了两种主流文件夹管理方法：以杜威十进制图书分类法为基础的编号文件夹体系（建议层级不超过六层），以及Tiago Forte提出的PARA系统（Project、Area、Resource、Archive），并分析了各自的适用场景和实践逻辑。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;文章末尾强调文件管理的终极目的是「用」而非「存」，鼓励通过反复复用将信息内化为能力；同时提出输出倒逼输入的理念，并详细介绍了归档的重要性与321备份原则（3份副本、2种介质、1份异地存储）以保障数据安全。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - April 11, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-04-11</id>
-    <updated>2026-04-11T20:12:05.912Z</updated>
-    <published>2026-04-11T20:12:05.912Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>4 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 11, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;110.68493150684931&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    27.7%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;101&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;264&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;14&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████░░░░░░░░░░░░░░░░░░░░░░ 27.7%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22522&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The bots are swarming hard today, laying waste to the meadows of the open web. This is what powers vibe-coding. The slop must flow.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 **Bots aggressively scraping the open web fuel vibe-coding and AI slop in a damaging self-reinforcing cycle.**&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
-
-On April 11th, 2026, an independent web author documented a marked surge in aggressive bot crawling activity, framing it as systemic damage to the open web ecosystem using environmental destruction metaphors. The post draws a direct causal link between this crawling behavior and the &amp;quot;vibe-coding&amp;quot; trend, suggesting that AI-assisted development tools are fueled by indiscriminate scraping of web content. The sardonic phrase &amp;quot;the slop must flow&amp;quot; critiques the self-reinforcing demand cycle between low-quality AI-generated content and the infrastructure required to produce it. The post gained rapid traction within the author&amp;#039;s community—collecting 8 likes within hours—and was cross-posted to both Mastodon and Bluesky, consistent with decentralized publishing norms among open web advocates.
-
-**Key Takeaways for Developers:**
-- Bot traffic from AI training/tooling pipelines is becoming a measurable burden on independent web infrastructure
-- &amp;quot;Vibe-coding&amp;quot; workflows have non-trivial upstream costs imposed on content producers
-- Sentiment against exploitative crawling is consolidating in decentralized developer/tech communities&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bot Activity Surge:&lt;/strong&gt; The author observes a significant increase in bot activity on April 11th, 2026, describing bots as &amp;#039;swarming hard&amp;#039; and causing damage to the open web ecosystem.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Vibe-Coding Connection:&lt;/strong&gt; The post draws a direct link between aggressive bot crawling behavior and the trend of vibe-coding, implying bots scrape web content to power AI-assisted coding tools.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Slop Economy Critique:&lt;/strong&gt; The phrase &amp;#039;the slop must flow&amp;#039; serves as a sardonic commentary on the demand cycle driving low-quality AI-generated content and the infrastructure that supports it.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Open Web Impact:&lt;/strong&gt; The author expresses concern about the degradation of the open web, using the metaphor of &amp;#039;laying waste to meadows&amp;#039; to convey environmental-style destruction of shared online resources.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Community Engagement:&lt;/strong&gt; The post received 8 likes from identifiable community members within hours of publishing, indicating the sentiment resonated quickly within the author&amp;#039;s social network.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cross-Platform Syndication:&lt;/strong&gt; The post was simultaneously shared on Mastodon and Bluesky, reflecting a decentralized, multi-platform publishing approach common among independent web advocates.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/202604-turing.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Alan Turing play in Cambridge MA&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Fowler推荐观看Alan Turing话剧《Breaking the Code》&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇短文是Martin Fowler于2026年4月11日撰写的简短观后感。他观看了位于马萨诸塞州剑桥市Central Square Theater上演的话剧《Breaking the Code》，该剧讲述了Alan Turing的故事。Turing是计算机科学领域的先驱，同时对二战期间自由民主国家的命运做出了重大贡献。Fowler对这部剧给予了高度评价，并向居住在波士顿地区的读者推荐观看。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Cheapest way to keep a UK mobile number using an eSIM&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用10英镑在Lyca Mobile eSIM上低成本保留英国旧手机号约22年&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者希望以最低成本在eSIM上长期保留一个英国旧手机号码，用于接收双重验证短信。经过比较各类低成本运营商后，选择了Lyca Mobile，花费10英镑完成号码携入。文章详细说明了操作流程，并分析了号码保留政策：默认120天，可延长至1年（年费15英镑）。作者推算，每120天使用1MB流量（约15便士）即可维持账户活跃状态，10英镑余额理论上可维持约22年，认为这是保留英国手机号码最经济的eSIM方案。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者有一个旧手机号码，用于多个服务的双重验证短信，希望以最低成本长期保留该号码，并排除了月租和高频充值的方案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;经过比较，作者选择了Lyca Mobile的eSIM服务，花费10英镑完成号码携入，并详细描述了操作步骤：选择PAYG SIM、选eSIM、放弃套餐仅充值、填写携号信息并付款。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;关于号码保留期限，Lyca Mobile默认保留120天，但可拨打特定代码延长至1年，需缴纳15英镑年费；作者发现每120天消耗1MB流量（约15便士）可维持账户活跃，理论上10英镑余额可支撑约22年。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/107600&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;浅谈人工智能时代的用户体验：Agent Experience 导论&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AX三层架构解析：上下文管理是AI Agent体验的核心战场&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文系统阐释了Agent Experience（AX）的三层核心问题：用户与Agent的沟通（输入质量）、Agent内部状态管理（上下文管理）以及Agent与外部世界的沟通（输出可控性）。作者深入分析了Skills、MCP、RAG、Memory、MemGPT、Computer Use等技术的底层逻辑与取舍，揭示了上下文污染、劣化曲线、KV缓存冲突等工程难题。同时探讨了Conversational UI的演变历史、开口与闭口系统的设计取舍，以及系统透明度与权限管理的严重缺失，并提出了可审计性、行为建模报警和分级权限三个改进方向。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了Agent Experience（AX）的概念，由Netlify联合创始人Mathias Biilmann于2025年正式提出，定位为继UX和DX之后的下一个核心设计维度，专注于如何设计产品使AI Agent能够可靠理解、自主操作并高效集成。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将AX拆解为三个维度：用户与Agent的沟通（输入质量问题）、Agent与外部世界的沟通（输出可控性问题）、以及Agent的内部状态管理（上下文管理问题），认为三者需要协同分析。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;用户与Agent沟通的核心挑战是在不强迫用户写规范Prompt的前提下准确传递意图，Skills和交互设计在这一侧发挥作用，而Agent与外部世界的沟通则依赖MCP、工具调用等将概率性生成压缩为确定性动作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Agent内部状态管理是最复杂的部分，LLM本质是概率模型，需要通过命令行、MCP或Skills等方式对外界产生影响，这三种形态底层都在解决上下文污染问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Skills和MCP走的是两种思路：Skills通过向上下文追加说明引导LLM思维，但约束能力受模型对上下文尊重程度的影响；MCP通过函数签名压缩动作空间，但工具调用的返回值同样会污染上下文。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;RAG和Memory本质上都是解决上下文信息量上限的检索接口，RAG在需要时拉取相关内容，Memory则是带写入能力的RAG，两者与Skills、MCP并无互斥关系，可以协同工作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;上下文劣化存在一条&amp;#039;绝望曲线&amp;#039;：随着垃圾信息堆叠和注意力稀释，LLM越变越蠢，压缩机制触发后又回到无知起点；用户的情绪化表达也会投毒上下文，不同模型面对情绪污染有各自特色的失效模式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;动态上下文压缩（如MemGPT/Letta的分层记忆管理）比被动压缩更合理，通过主动淘汰错误信息和低相关内容来维持上下文清洁；但动态压缩与KV缓存的前缀缓存机制存在工程冲突，可通过结构化上下文来缓解。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Computer Use更像品牌包装而非独立技术，底层仍是Skills或MCP，主要有三条技术路线：读Accessibility Tree走事件注入、截图加Set-of-Mark Prompting标注编号、以及原生多模态直接预测坐标；读图路线天花板更高，DOM路线永远需要对方配合。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Conversational UI经历了两次高潮：2016年的Bot浪潮因技术底座不足而哑火，LLM出现后迎来第二次高潮，但行业选择了左右分栏的画布模式而非富交互对话流，Conversational UI依然被降级为指令输入框。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;开口系统与闭口系统各有取舍：开口式意图噪声大、上下文容易被污染；闭口式设计成本高但每层问题更可控；中间地带Pipeline builder存在内在悖论，服务的用户群窗口相当窄。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;系统透明度是AX中被忽视的重要课题，现有权限确认弹窗将风险判断成本完整抛给用户，导致确认疲劳和YOLO Mode滥用，已造成真实数据损失事故。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;处理系统透明度问题有三个方向：文件系统和数据库层面的可审计性（如Git绑定、语义版本控制）、行为建模报警（类似杀毒软件的规则拦截）、以及分级权限体系（按操作不可逆程度分级而非一视同仁弹窗），但目前没有产品完整实现过这些方案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;界面作为上下文投递机制的讨论引出了统计分析中LLM外包的风险，指出代码跑通不等于统计过程正确，人类将分析外包给LLM后很难仔细核查，而科学界本身的统计误用问题（如可重复性危机）表明这一风险相当严峻。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
