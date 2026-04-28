@@ -4,8 +4,228 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-04-27T20:47:35.971Z</updated>
+  <updated>2026-04-28T20:39:56.670Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - April 28, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-04-28</id>
+    <updated>2026-04-28T20:39:56.670Z</updated>
+    <published>2026-04-28T20:39:56.670Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>11 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 28, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;129.31506849315068&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    32.3%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;118&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;247&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;16&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████░░░░░░░░░░░░░░░░░░░░ 32.3%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/structured-prompt-driven/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Structured-Prompt-Driven Development (SPDD)&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 SPDD governs AI-assisted coding by treating version-controlled prompts as auditable artifacts, enforcing intent-first design via a structured seven-part framework.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Structured Prompt-Driven Development (SPDD) addresses a core organizational problem with AI coding assistants: while they accelerate individual output, they amplify ambiguity, complicate code review, and increase production risk at scale. SPDD&amp;#039;s solution is to treat prompts as first-class, version-controlled artifacts committed alongside code, making AI-assisted changes governable and auditable across teams. Central to the methodology is the REASONS Canvas—a seven-part framework covering Requirements, Entities, Approach, Structure, Operations, Norms, and Safeguards—which guides LLM interactions from abstract intent through design and governance before any code is generated. The workflow enforces a closed-loop discipline where prompt and code co-evolve: when implementation diverges from intent, the prompt is corrected first, preserving traceability across iterations. Adoption requires practitioners to develop abstraction-first thinking and shift code reviews from bug detection toward intent verification, though teams should evaluate context-specific fit given the upfront overhead of structured prompting against the long-term gains in consistency, reusability, and reduced reinvention.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;LLM Scaling Problem:&lt;/strong&gt; Individual LLM coding assistants improve local developer speed but introduce organizational friction: ambiguous requirements scale faster, reviews become harder, and production risk increases with higher change volume.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;SPDD Overview:&lt;/strong&gt; Structured Prompt-Driven Development (SPDD) treats prompts as first-class, version-controlled delivery artifacts rather than ad hoc chats, enabling AI-generated changes to be governable, reviewable, and reusable at the team level.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;REASONS Canvas:&lt;/strong&gt; The REASONS Canvas is a seven-part prompt structure covering Requirements, Entities, Approach, Structure, Operations, Norms, and Safeguards, guiding LLMs from abstract intent through design, execution, and governance before any code is generated.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;SPDD Workflow:&lt;/strong&gt; The workflow enforces a closed-loop discipline where prompts are committed alongside code, and when reality diverges from intent, the prompt is corrected first before updating code, ensuring prompt assets and code evolve together across iterations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Billing Engine Example:&lt;/strong&gt; A concrete walkthrough demonstrates SPDD applied to enhancing a billing engine, progressing through six steps: creating requirements, clarifying analysis, generating analysis context, generating a structured prompt, generating code, and generating unit tests.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Three Core Skills:&lt;/strong&gt; Effective SPDD practitioners need abstraction-first thinking (design before code), alignment (anchoring collaboration on prompts to reduce re-alignment cycles), and iterative review (shifting reviews from bug-spotting to intent verification).&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fitness and Trade-offs:&lt;/strong&gt; SPDD is not universally applicable; teams must assess fitness for their context and weigh trade-offs such as upfront overhead of structured prompting against long-term gains in consistency, reusability, and reduced reinvention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Day We Met &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/815099909947752449&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 4, Page 43&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 此为漫画页面的社交平台点赞转发记录&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该内容并非正式文章，而是一段来自社交平台（疑似Tumblr）的互动记录，显示某漫画《thedaywemetcomic》第4章第43页的笔记区域。内容主要由大量用户的点赞和转发记录构成，包括多个用户名如maroon-drake、tired-pr1nc3ss、ignus108等进行了转发，其余用户则点赞了该帖子。该内容不包含任何实质性的文字叙述或观点表达。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/04/28/alternative-thoughts/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Alternative thoughts&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 技术法西斯主义借AI扩张权力，拒绝才能夺回自我掌控&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者以愤慨而犀利的笔触，批判了AI工业综合体与技术法西斯主义的兴起。文章认为，以Musk、Thiel为代表的权贵阶层借助AI积累权力与财富，科技行业从业者以&amp;#039;只是工具&amp;#039;&amp;#039;只是工作&amp;#039;为由回避共谋责任。许多开发者沉迷于AI效率神话，却未意识到泡沫破裂的危机。Craig Cook、Ky Decker等人的离职故事折射出行业良知的困境。作者呼吁拒绝技术法西斯主义灌输的&amp;#039;另类思想&amp;#039;，从创造力中找回自我掌控，以此作为对抗控制欲的回应。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2017年特朗普就职后，&amp;#039;另类事实&amp;#039;概念横空出世，开启了&amp;#039;想说什么就说什么&amp;#039;的新时代，技术法西斯主义趁势崛起，AI工业综合体成为Musk、Thiel等人积累权力与财富的终极工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;科技行业中拒绝承认AI危害的人要么天真要么共谋，&amp;#039;只是工具&amp;#039;的说辞掩盖了AI所依赖的暴力本质；大多数力推AI叙事的人不过是想从中牟利，而公众并不真正渴望自动化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;软件&amp;#039;工程师&amp;#039;们沉迷于AI效率神话，在雇主的鼓励下盲目追求&amp;#039;更多更快&amp;#039;，却未意识到泡沫终将破裂，而AI浪潮已在摧毁那些真正在乎自己工作的人的职业前途。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Craig Cook和Ky Decker等人勇敢发声并离职，科技组织向政府权力妥协，18F被拆解替换为宣传机构；许多科技从业者虽对AI和技术法西斯主义心存不满，却因职场压力和经济压力而被迫沉默。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在当前严峻的就业市场中，离职需要财务特权或精神耗尽的勇气；Salma Alam-Naylor通过创作音乐找回自我，作者也从中得到启发，决心拒绝技术法西斯主义所兜售的&amp;#039;另类思想&amp;#039;，坚守对自己生活的掌控权。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/30th/cc2-ten/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;全国47都道府県を巡る「サイバーコネクトツー展」来場特典&amp;amp;フォトスポット公開! 6/6 福岡・6/27 東京 トークイベントとファンミーティングの事前申込開始&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 サイバーコネクトツーが設立30周年を全国展示イベントで祝う&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーは設立30周年を記念し、2026年6月6日より「サイバーコネクトツー展」を全国47都道府県で順次開催する。入場無料のこの展示イベントでは、同社30年の歴史をパネルや資料・立体物などで紹介し、歴代ゲーム・マンガ作品のフォトスポットも設置される。来場特典として全17種のステッカーが配布される。さらに一部会場では代表・松山洋が登壇する無料トークイベント＆サイン会、有料のファンミーティングも実施され、ファンへの感謝と今後への展望を伝える多彩な内容となっている。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーは10名から始まり現在300名規模に成長したゲーム開発会社で、設立30周年を記念した展示イベント「サイバーコネクトツー展」を2026年6月6日より47都道府県で順次開催する。入場料は無料で、パネル展示・フォトスポット・資料展示・立体物展示・グッズ販売などが実施される。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示会場は福岡・熊本・長崎・東京・静岡・山梨など全国各地で順次開催され、各会場では2日間にわたり開催される。来場者には全17種のパッケージ風ステッカーがランダムで1枚プレゼントされる。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;フォトスポットでは『テイルコンチェルト』『サイレントボマー』『.hack』シリーズ『ASURA&amp;#039;S WRATH』『戦場のフーガ』など歴代のオリジナルタイトルが集結し、各会場に最大8つのスポットが設置される予定。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;一部地域限定で代表・松山洋らが登壇する無料トークイベント＆サイン会が開催され、30年の歩みや『戦場のフーガ』最新情報が語られる。福岡・東京での申込が受付中で、大阪は準備中となっている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;有料のファンミーティング「CyberConnect2 Fan Meeting」も福岡・東京で開催され、松山洋が参加者と飲食しながら30周年を振り返るカジュアルなイベントとなっている。札幌・仙台・大阪・名古屋など他都市でも準備中。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/nea794b28b300&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;「いまさら聞けないけど大事な」会社での飲み会・食事マナー&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 职场聚餐礼仪体现工作能力，细节决定职业印象。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由サイバーコネクトツー执行役员山岡寛典撰写，系统介绍了职场饮酒会与聚餐场合中重要但常被忽视的商务礼仪。文章从选店、用餐、会话、举止四个维度展开，强调这些场合实际上是展现个人&amp;#039;段取り力&amp;#039;（统筹规划能力）、&amp;#039;気配り力&amp;#039;（体贴关怀能力）和沟通能力的绝佳机会。作者以实用清单式的写法，提醒职场人士注意细节，如选店时考虑全员需求、用餐时关注他人杯盘、交流时准备话题并避免负面言论。结论指出，小小的关怀积累可转化为良好的职业印象。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;公司饮酒会和聚餐场合虽表面自由，但实际上是展示个人能力与印象的重要场所，&amp;#039;气配り&amp;#039;、判断力等会在此显现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在选店环节，需根据参与者人数、成员构成和主题来选择合适的店铺，同时确认支付方式，料理选择也应以整体最优为原则。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;用餐环节是体现&amp;#039;气配り&amp;#039;的关键，包括第一杯饮料的选择、及时为他人续杯、收拾空盘、控制用餐节奏等细节都会被观察。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;会话环节直接关系到工作能力的评价，应提前准备话题、主动扩大交流圈，避免消极发言如抱怨和说人坏话。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在举止行为方面，应避免拖拖拉拉，注意时间管理，并在散会后发送感谢信息，这些细节会给人留下深刻印象。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结指出，饮酒会和聚餐是&amp;#039;气配り&amp;#039;、&amp;#039;段取り&amp;#039;和沟通能力全面展现的场合，只需保持观察周围的意识，小小的关怀积累便能赢得同事信任。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202604/73332&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【『戦場のフーガ』開発記録】『インターミッション』第85回 公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 『戦場のフーガ』漫画第85話の制作秘話と登場人物の背景を紹介&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本記事はファミ通.comに連載中のコミック漫画『戦場のフーガ 鋼鉄のメロディ』第85話の開発コラムである。アッシュの予言に対するジンとカイルの対照的な表情、カイルのプチ・モナ村への移住背景とマルトとの関係、そしてゲーム版と異なるコミカライズ独自の演出としてアッシュの「負け笑顔」が実現した経緯が語られている。漫画家・足立先生のキャラクター描写力が高く評価され、特典小説やサイバーコネクトツーのオンラインストア情報、松山社長の新著『ゲーム業界の攻略法』の告知も含まれる。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;アッシュが「マルトが世界を滅ぼす未来を視た」と告げたことに対し、ジンは困惑し、カイルは笑い飛ばすという対照的な反応を見せ、漫画家・足立先生の表情描写の巧みさが称賛されている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;カイルはパレシア（都会）から父親とともにプチ・モナ村に引っ越してきたのは約3年前で、アッシュの存在を知らず、マルトのことを長男だと思っていた。アッシュ事件後に落ち込んでいたマルトがカイルの転入後に元気を取り戻したエピソードは、ゲーム『戦場のフーガ』Switch版特典小説『友達になりたい』に収録されており、サイバーコネクトツーのオンラインストアで現在も購入可能とのこと。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;アッシュの「負け笑顔」のコマはコミカライズ版独自の演出で、ゲーム版からストーリー展開を変えてまで実現したものであり、足立先生との丁寧なやり取りで理想の表情が完成した。アッシュとの闘いはこれで一区切りとなり、物語は再び世界を救う戦いへと向かう。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;編集部コメントでは各キャラクターの表情描き分けとアッシュの笑顔に注目するよう促しており、次回第86話は2026年5月5日掲載予定と告知されている。また、松山洋氏著『ゲーム業界の攻略法』の刊行情報や『戦場のフーガ トリロジーボックス』の購入リンクも紹介されている。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/how-to-renovate-a-rental-balcony&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;住久了没意思（二）：从有光的地方开始动手&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 租房阳台应以需求为先，合理规划晾晒与多功能空间。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是租房阳台改造的专题文章，作者以需求为导向，系统梳理了阳台的格局类型（封闭式与开放式）和功能分类（晾晒、储物、休闲、混合型），并按常见程度排列了租户的核心诉求。文章的核心观点是：应先明确自身需求，再根据阳台格局进行适配，而非反向操作。针对晾晒这一最主流需求，作者分别对大空间和小空间阳台给出了具体建议，尤其强调小空间阳台应优先考虑洗烘设备，并严禁阴干衣物，以保障居住健康。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文是租房改造系列的新篇章，作者宣布将从通用原则转向分区域的针对性改造，并以阳台为起点，原因是作者近期对阳光的强烈渴望。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;阳台的朝向比格局更关键，影响进光量；一居室阳台相对稀缺，文章按常见程度列举了封闭式和开放式阳台的多种格局类型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;阳台的功能可分为晾晒优先、收纳补充、休闲下午茶和混合型，作者建议先从自身需求出发，而非被格局限制。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;租户对阳台的常见需求按优先级排列为：晾晒、储物、放松娱乐和绿植养护，此外还有办公、手工等个性化需求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于大空间阳台，晾晒无需占据全部空间，两侧和下方可留作他用；折叠晾衣架也应灵活摆放以释放其他区域。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于小空间阳台，作者强烈建议购入洗烘一体机，若条件不允许则应在室内开辟晾晒区，并强调务必避免阴干衣物以防细菌滋生。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109183&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 139 | 派友热议三月买了啥、复古单反尼康 Df 体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 三月派友购物清单：数码骑行运动全涵盖&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派Matrix社区速递第139期，以重启的Matrix周报形式呈现社区精华内容。核心板块为第270期一派讨论《三月买了什么好东西？》，共611名派友参与，分享涵盖游戏、数码设备（MacBook、AirPods Max、折叠屏手机）、骑行装备、相机、运动健康、家居百货等多元品类，国补政策对数码消费决策影响显著。此外还收录了社区热评（涉及浏览器、专注力、折叠屏等话题）及多篇优质社区文章推荐，整体呈现出少数派用户多元化的生活与消费图景。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派Matrix社区宣布重启Matrix周报，旨在呈现更多优秀社区内容，本期以第270期一派讨论《三月买了什么好东西？》为核心，共611名派友参与分享。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;派友们分享的三月购物内容涵盖极广：游戏（NS2/Pokopia）、数码设备（MacBook、AirPods Max、折叠屏手机Find N6）、骑行装备（折叠车、公路车）、相机（索尼黑卡7、vivo X300 Pro）、运动健康（高驰手表、攀岩年卡）、家居用品等，消费偏好多元，国补政策对数码购买决策影响明显。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期还收录了一周热评精选，涉及qutebrowser浏览器、专注力管理、华为Pura X Max折叠屏手机等话题的社区讨论，以及社区摘要推荐的多篇优质文章，内容涵盖AI、骑行、Mac工具、音乐播放器等方向。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109163&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;TDS REVIEW｜索尼 WF-1000XM6 降噪真无线耳机体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 索尼WF-1000XM6降噪全面跻身顶尖，均衡推荐。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是TDS Studio对索尼WF-1000XM6降噪真无线耳机的全面评测。文章从包装配件、设计佩戴、操作软件、降噪通透通话、信号续航、空间音频到声音素质进行系统性分析。WF-1000XM6搭载新降噪处理器QN3e，降噪综合表现跻身顶尖行列，与AirPods Pro 3同档；声音更加均衡中性，解析力提升；通话收音为索尼TWS中最佳。仍存在LDAC延迟偏高和前后方向风噪待优化的问题。总体获评KT MARK V（Excellent），被列入TDS降噪金字塔In-Ear Skyline Level。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文是TDS Studio对索尼WF-1000XM6降噪真无线耳机的评测，作者认为这是目前最完整的一代索尼降噪豆耳机，解决了诸多前代问题，但并非完美。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;WF-1000XM6包装延续上代风格，内含泡沫耳套和USB-C充电线；耳套采用硅胶导管与聚氨酯泡沫材料，出音口有金属滤网。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;耳机提供两种配色，充电盒设计更加简洁几何化，有利于无线充电接触；耳机本体为buds豆状结构，全磨砂表面，腔体造型有明显改变，单边重量6.5g，长时间佩戴舒适性优于XM5，支持IPX4防泼溅。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;操作依靠触控面板，支持多种手势自定义；配套app功能丰富，支持Auto Play、位置自适应降噪切换、语音助手、360 Reality Audio空间音频及背景效果等智能功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;WF-1000XM6搭载新降噪处理器QN3e和32bit集成处理器V2，主动降噪表现显著优于XM5，综合降噪感知与AirPods Pro 3相当；通透模式自然，通话收音清晰；气压平衡表现在同级产品中最佳；风噪前后方向仍有待优化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;信号稳定性经优化，LDAC信号优先模式下日常使用表现良好；音质优先模式在信号密集区域会出现卡顿；续航实测开启降噪约6.5小时，支持快速补电和Qi无线充电。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;WF-1000XM6搭载新振膜动圈单元，支持SBC/AAC/LDAC/LC3编解码器及DSEE Extreme；声音整体均衡中性，低频扎实克制，中频人声适中，高频平顺，声场规整，解析力位于数码品牌TWS第一梯队。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总体评价：WF-1000XM6使索尼重回降噪TWS领域顶尖行列，降噪频宽、声音均衡性等主要方面均领先同级，推荐给预算充足、以LDAC为主且不排斥buds形态的用户，获得KT MARK V（Excellent）评级。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109040&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;关于胃肠镜，你需要知道的一切&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 胃肠镜是筛查消化道癌症、早诊早治的关键手段&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇面向普通大众的消化内镜科普文章，系统介绍了胃镜、结肠镜和小肠镜的原理与适用范围，详解了正常胃肠道功能与各类警示症状的识别方法，并重点阐述了食管癌、胃癌、结直肠癌的流行病学现状、高危人群界定及基于2024年国家卫健委方案的筛查建议。文章还涵盖内镜治疗技术（EMR、ESD、ERCP等）、息肉处理原则、无痛内镜选择及肠道准备要点，以实用科普视角帮助读者克服对胃肠镜的恐惧，理解早诊早治对消化道肿瘤预后的决定性意义。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了胃肠镜的基本概念，包括胃镜、结肠镜和小肠镜的区别，以及磁吸胶囊内镜等非侵入式检查方式，说明消化道内镜是集筛查、诊断、治疗于一体的工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细描述了正常胃肠道功能的表现，并通过症状对照表列出了上下消化道各种需要排查的警示症状，重点解释了大便变细、吞咽困难和便血等红灯症状的临床意义。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了现代消化内镜的治疗能力，包括EMR、ESD、ERCP、POEM等微创手术，说明内镜已从诊断工具进化为可处理早期癌症和消化道出血的治疗平台。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了胃癌的流行病学数据、高危人群定义及筛查方案，指出我国早期胃癌诊治率不足10%，并给出不同病变程度对应的胃镜复查间隔建议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了食管癌的病理亚型、地区分布特征及高危因素，我国以食管鳞状细胞癌为主，高发地区集中于太行山脉周边，并提供了详细的高发县市名单和筛查建议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了结直肠癌的发病率、早筛重要性及高危人群评分标准，强调定期肠镜检查和早期息肉切除可大幅降低发病率和死亡率，并说明不同类型息肉的恶变风险和随访周期。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了胃肠镜检查的注意事项，包括禁忌证、是否选择无痛麻醉的考量因素，以及肠道准备的具体方法，如进食调整和低纤维饮食的要求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109160&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：阿里巴巴发布视频生成模型 HappyHorse 1.0 等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 多家科技巨头集中发布新品与服务更新&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派「派早报」科技资讯聚合，涵盖多条行业动态：阿里巴巴发布视频生成模型HappyHorse 1.0并开启测试；微信提醒用户警惕以「755」开头的仿冒诈骗电话；JBL、CHERRY分别推出耳机、音箱及机械键盘新品；微软启动Windows K2计划优化系统稳定性与性能；LincPlus发布ARM架构NAS；Apple引入新订阅模式；GitHub Copilot转向按量计费。此外还涉及Xbox、索尼涨价及Google图标更新等消息。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;阿里巴巴于4月27日发布视频生成模型HappyHorse 1.0，开启灰度测试，支持文本/图像生成视频、多镜头叙事等功能，最长可生成15秒视频，720P定价0.9元/秒（千问App内低至0.44元/秒）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微信官方警告，不法分子利用改号软件冒充腾讯客服，以&amp;#039;755&amp;#039;开头电话诈骗海外用户，通过报出用户个人信息获取信任后索取银行账户信息，微信提醒官方客服从不主动外呼国际业务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;JBL发布两款新品：LIVE 780NC头戴式耳机（1399元，续航80小时，支持蓝牙6.0）和BandBox Solo音箱（2199元，内置调音器、节拍器及效果器，续航6小时）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CHERRY发布MX 8.3 Pro机械键盘，定价2299元，采用CNC铝制机身，搭载MX Lumina茶轴，支持三模连接，内置5000mAh电池，官称续航1400小时。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软内部启动Windows K2改进计划，围绕性能、代码质量、可靠性及社区四大支柱优化Windows 11，目标对标SteamOS游戏性能，并将重构开始菜单等界面组件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;LincPlus推出基于ARM架构的NAS新品LincStation E1，采用2+2混合存储设计，搭载4GB DDR4内存，运行自研LincOS系统，支持双频Wi-Fi及多设备互联。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple宣布App Store将引入12个月承诺期的月度订阅模式，允许开发者将年度订阅拆分为月付，用户可随时取消但需完成当期承诺付款，预计随iOS 26.5发布，初期不在美国和新加坡推出。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;GitHub宣布Copilot全面转向按使用量计费，以AI Credits替代Premium Request计数方式，用量按Token消耗计算，基础订阅价格不变，年度订阅用户将获过渡安排直至计划期满。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;其他简讯包括：Xbox Game Pass拟推出Starter Edition新层级（每月10小时云游戏）；索尼宣布东南亚市场PS5系列涨价，印尼涨幅最高达44.5%；Google Workspace应用图标将更新，与Gemini等产品风格统一。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - April 27, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1894,242 +2114,6 @@ To produce a proper summary, the actual article body or video description would 
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;讲解了如何选择适合新手的电台设备，包括手台、车台、基地台的分类，模拟与数字手台的区别，以及中继台和天线的基础知识，并推荐了宝峰BF5rh和泉盛UVK6两款入门手台。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了取得操作证后的验机设台流程，包括CMIT ID的重要性、网络申请方式及呼号的获取与意义，并以作者自身呼号BH4GZR为例说明。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在后记中感慨HAM圈子有礼有序、互帮互助的氛围，呼吁更多人关注并加入业余无线电这一小众但充满魅力的文化圈子。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - April 17, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-04-17</id>
-    <updated>2026-04-17T20:27:29.483Z</updated>
-    <published>2026-04-17T20:27:29.483Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>11 articles from 7 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 17, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;117.26027397260275&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    29.3%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;107&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;258&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;15&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████░░░░░░░░░░░░░░░░░░░░░ 29.3%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22531&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reading Gideon The Ninth by Tamsyn Muir.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录正在阅读《Gideon The Ninth》&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条简短的读书记录，作者于2026年4月17日上午7:58在北纬51°、东经0°的位置，记录自己正在阅读Tamsyn Muir所著的《Gideon The Ninth》。文中还附有Bookshop和Open Library的链接，并收录了一条来自KimberlyHirsh的回复，表示非常喜爱这本书，同时询问作者是否发表了相关评论并请求提供链接。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 苏格兰女巫审判历史书评，司法迫害警示犹存&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是对一本关于苏格兰女巫审判历史书籍的书评。作者因阅读小说《The Wicked of the Earth》而探寻这段历史，该书源自播客《Witches Of Scotland》，以生动笔触呈现了女巫审判的司法本质与受害者的悲惨遭遇。书评指出该书优点包括史料翔实、插图丰富、结论犀利，同时也指出其播客式叙述风格和历史人物虚构独白略显刻意，并纠正了书中关于预期寿命的常见误解。全书以警示收尾：对女性的无端指控在现代社会依然存在。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因读了《The Wicked of the Earth》而想深入了解苏格兰女巫审判的历史背景，包括女性被指控为女巫的原因、审判的真实情况以及现代影响。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中揭示了女巫审判是通过正式司法程序进行的，有证据呈堂和法官裁决，并非民间暴力行为，但其结果对被告造成了灾难性后果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;该书源自播客《Witches Of Scotland》，写作风格带有播客特色，作者以第一人称叙述探访图书馆的经历和情感，并为历史人物虚构独白，评者认为略显分散但适合目标读者。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中配有精美木刻版画和肖像插图，但在预期寿命的表述上存在一处常见误解——将出生时平均预期寿命与实际寿命混淆。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;书评以四星评价收尾，指出该书揭示了一段被隐藏的民族悲剧，并警示现代社会中对女性的无端指控仍未消失，世界某些地区至今仍将巫术视为真实存在。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-04-17T09:03Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-04-17T09:03Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Author deleted their Atlassian account due to terrible UX and an AI data-training privacy policy, planning to use disposable burner accounts for future client needs.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author details their decision to permanently delete their Atlassian account, citing a deeply frustrating user experience—particularly around a broken two-factor authentication flow tied to merged accounts—which they describe as worse than even Microsoft&amp;#039;s notoriously poor UX. A key catalyst was a recent Atlassian privacy policy update that the author interprets as routing user data into AI training, which they dismiss as feeding a &amp;quot;giant plagiarism machine.&amp;quot; Having finally escaped the platform, they plan to handle any future client requirements for Bitbucket access through disposable, per-project burner accounts rather than maintaining a permanent presence, and intend to proactively warn clients about the platform&amp;#039;s shortcomings. The author acknowledges a lingering dependency on GitHub for business use but frames it as another centralized platform they ultimately want to move away from, reflecting a broader skepticism toward dominant, vendor-controlled developer tooling.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;UX Criticism:&lt;/strong&gt; The author harshly criticizes Atlassian&amp;#039;s user experience, comparing it unfavorably even to Microsoft and describing it as &amp;#039;soul destroying.&amp;#039; Specific frustration is called out around a confusing two-factor authentication flow tied to merged accounts.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Account Deletion Relief:&lt;/strong&gt; The author celebrates finally deleting their Atlassian account, describing it as long overdue and expressing emotional relief at being free from the platform.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Privacy Concerns:&lt;/strong&gt; A recent Atlassian privacy policy update is interpreted by the author as the company feeding user data into an AI training pipeline, referred to dismissively as a &amp;#039;giant plagiarism machine.&amp;#039;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bitbucket Workaround Strategy:&lt;/strong&gt; For situations where clients require Bitbucket access, the author plans to create disposable burner accounts on a per-project basis rather than maintaining a permanent account, and intends to warn clients about the platform&amp;#039;s issues.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;GitHub Dependency Frustration:&lt;/strong&gt; The author acknowledges a remaining dependency on GitHub for business work, expressing a desire to eventually escape that platform as well, suggesting broader discontent with centralized developer tooling.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n02cd111929ca&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;4/19(日)「関西けもケット11」大人ケモノ新商品💛＆『戦場のフーガ』スマホ版初試遊&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 関西けもケット11で戦場のフーガ新商品販売とスマホ版試遊を実施&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーの宣伝担当たっしーによる告知記事。2026年4月19日（日）にインテックス大阪で開催される「関西けもケット11」にサイバーコネクトツーがブース出展し、『戦場のフーガ』シリーズキャラクターの描き下ろしアクリルキーホルダー新商品の会場限定販売と、2026年夏配信予定の『戦場のフーガ』スマートフォン版の最速試遊体験会を実施することが案内されている。文体はカジュアルで親しみやすく、多肉植物の近況など個人的なコラムも添えられている。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーの宣伝担当たっしーが、2026年4月19日（日）にインテックス大阪で開催される「関西けもケット11」への出展を告知し、福岡から参加することを伝えている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新商品として、サイバーコネクトツーの星樹氏による描き下ろしの大人ケモノアクリルキーホルダー（ハクス、フラム、プレッツェル、マスカット中尉、メルロー）が販売され、会場限定で通販予定なしと案内している。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;『戦場のフーガ』スマートフォン版が2026年夏に配信決定し、開発中のバージョンをけもケット会場で最速試遊できることが紹介されている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;記事の末尾では、宣伝担当たっしーが多肉植物の春の花芽について個人的な近況を添えている。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21499&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ドラマ『チェイサーゲームW』公式ノベライズ『小説 チェイサーゲームW』8巻配信開始！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《チェイサーゲームW》官方小说第8卷发布，第一部完结&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文宣布，为纪念电影《チェイサーゲームW 水魚の交わり》于2026年5月15日公映，官方将隔周发行剧集《チェイサーゲームW》的官方小说版，第8卷已于4月17日开始配信。小说版由CyberConnect2总监修、保坂星耀执笔，在忠实还原剧集剧情的基础上加入原创内容与心理描写。第8卷聚焦于神秘角色呂麻美的过去揭露，以及主角树与冬雨的情感告别，第一部至此完结。电影由菅井友香与中村ゆりか主演，全国院线公映。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;为纪念电影《チェイサーゲームW 水魚の交わり》5月15日上映，官方宣布将以隔周方式发行剧集《チェイサーゲームW》的官方小说版，第8卷于2026年4月17日开始配信。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;小说版以剧集故事为核心，加入原创剧情、人物内心描写及情景刻画，并增补了树与冬雨的感官场景，以全新视角重新演绎《チェイサーゲームW》的故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第8卷剧情简介：行动难以捉摸的呂麻美持续扰乱现场，其扭曲的过去逐渐浮出水面；与此同时，树为了弥补过去向浩宇道歉，决心不再与冬雨相见，两人在互相思念中迎来第一部的终结。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本卷作品由株式会社CyberConnect2总监修、松山洋担任总监制，小说剧本由保坂星耀执笔，定价660日元，可在Apple Books、Kindle、コミックシーモア、楽天、Google Play图书等平台购买。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影《チェイサーゲームW 水魚の交わり》为剧集系列的续集，由菅井友香与中村ゆりか主演，原作松山洋，导演太田勇，将于5月15日起在新宿バルト9等全国院线公映。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108760&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 9 部作品&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派推荐近期9部佳作及影视资讯速览&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部「本周看什么」栏目的综合推荐，涵盖近期值得观看的9部重点影视动画作品，包括美剧《绝望写手》《亢奋》《证言》《极乐凶间》《怒呛人生》，英剧《小先知》，动画《尖帽子的魔法工坊》《朱音落语》，以及真人秀《李瑞镇的达拉达拉》。文章还附有多部作品的短评、本周新预告速览和影视新闻周报，以简洁、多样的编辑风格，为读者提供全面的影视消费指南。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (13 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文为少数派编辑部的「本周看什么」栏目，汇总了近期值得观看的9部影视及动画作品，并附有精彩预告和影视资讯速览。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;美剧《绝望写手》第五季暨最终季中，黛博拉在经历乌龙死亡报道后重返舞台，面对非竞争条约和节目下架的双重打击，最终回归舞台，展现喜剧人的坚守与温情，系列以高水准告别。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;美剧《亢奋》第三季暨最终季将时间线跳跃五年，展现Z世代青年步入成年后各自截然不同的人生境遇，摄影和制作依然保持高水准，时间跳跃被认为是大胆而成功的尝试。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;美剧《证言》第一季作为《使女的故事》续作，聚焦年轻女孩在基列国的教育与生活，以精准克制的镜头语言呈现集权社会的压迫感，双线叙事强化了恐怖氛围。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;英剧《小先知》是一部六集奇幻迷你剧，讲述中年男子迈克通过培育能预知未来的「霍尔蒙斯」小先知，在丧失方向的生活中重新寻找人生意义的温情故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;美剧《极乐凶间》第二季走出末世地堡，采用多叙事多时间线结构，新角色的加入带来全新视角，被认为是相较第一季质的飞跃，传递出人类比想象中更坚强的主题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;美剧《怒呛人生》第二季启用全新演员阵容和故事，围绕三对不同阶级夫妻的矛盾展开，但抛弃了第一季东亚文化与亚裔移民议题的核心表达，转向美国常规价值体系，风格更接近《白莲花度假村》。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《尖帽子的魔法工坊》改编自同名漫画，讲述憧憬魔法的少女可可意外触犯禁忌后踏上修习魔法之路，动画制作精良、作画炫技、配乐悠扬，被认为是本季度制作水准最高的作品之一。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《朱音落语》改编自《周刊少年Jump》漫画，讲述少女朱音为证明父亲实力秘密修习落语、向顶点冲击的热血故事，制作组以稳扎稳打的方针呈现这一冷门题材，节奏张力十足。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;真人秀《李瑞镇的达拉达拉》是罗瑛锡PD与李瑞镇继《纽约纽约》后再度携手，记录一场抛弃传统脚本、随心所欲的德州旅行，轻松自在如友人同行的vlog风格获得好评。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还附有多部影视作品的简短推荐，包括西班牙剧《周二谋杀定律》、国产剧《家事法庭》、日剧《孤独的美食家》第十一季、电影《爆弹》《旅途中的日子》，以及美剧《失策兄妹帮》和动画《蒲公英》。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周新预告部分介绍了《哥斯拉-0.0》《街头霸王》《末世行者》《饥饿游戏：收获日出》和《群体》等多部即将上映影片的最新预告信息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;影视新闻部分汇报了《寂静的朋友》内地定档、《记忆碎片》《玩具总动员5》确认引进、《纵横四海》4K修复版定档，以及《使命召唤》电影定档2028年6月等重要资讯。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108741&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Galaxy Buds4 Pro全面均衡但强依赖三星生态&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是TDS Studio对Samsung Galaxy Buds4 Pro的完整评测。作者结合Galaxy S23 Ultra进行测试，从包装配件、设计佩戴、操作软件、降噪通透、信号续航到声音表现进行全面分析。评测指出其降噪综合性能较上代有所提升，环境音自然度仅次于AirPods Pro系列，声音低频饱满、中频均衡、整体耐听。最大局限在于编码支持依赖三星生态，AAC下表现难以匹配近两千元的定价。最终获评KT MARK V级，降噪金字塔In-Ear Skyline Level靠前，主要推荐三星生态用户选购。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文是TDS Studio在少数派发布的第21篇评测，作者购入了Samsung Galaxy Buds4 Pro，并租借Galaxy S23 Ultra进行完整体验，认为其变化正面但价格也创新高。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Galaxy Buds4 Pro包装小巧，内附三对替换耳套，不再附带线材；提供旷宇黑、映雪白和限定绯霞金三种配色，充电盒恢复翻盖结构，耳机采用带柄pods式设计，单侧重量5.1g，支持IP57防水。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;操作依靠侧面触控区域，支持单击、双击、三击和长按，可通过三星智能穿戴app自定义；具备入耳检测、颈部伸展提醒、同传翻译等软件功能，One UI 8.5以上支持点头摇头手势。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;降噪方面较上代有提升，对低频噪音处理明显，频宽覆盖人声中下盘，属于Skyline Level靠前水平；高档位存在轻度底噪，风噪抑制不完美；环境音模式自然度高，听力辅助功能处于第一梯队。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;信号测试在SSC-UHD 96kHz模式下7.5m隔墙开始丢包，AAC连接iPhone稳定性尚可；官方续航6/7小时，实测约4小时57分钟；支持快充和Qi无线充电。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;搭载增强型双路扬声器（双动圈），支持SBC/AAC/SSC/SSC-UHD(96kHz)/LC3编码；SSC 96kHz下声音明显优于AAC；app内提供六种预设及8频段EQ；360音频空间感宽阔但高度信息不足。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;声音主观评价：低频饱满扎实有能量，中频人声距离适中、音色略暖偏中性，高频亮度不高较平滑，空间感呈扁球状，整体感和解析能力较上代有进步，耐听度不错。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总体评价为比较全面的旗舰降噪TWS，声音、信号、设计、降噪均无明显短板，但编码支持局限于三星生态，不建议推荐给非三星用户；最终获评KT MARK V级（Excellent），降噪金字塔列入In-Ear Skyline Level靠前位置。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108547&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;来一杯不翻车的自信：手冲咖啡入门指北&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 新手手冲咖啡指南：选对豆器建立信心&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇面向手冲咖啡新手的实用入门指南，核心观点是新手最需要的不是系统知识，而是信心——即冲出第一杯不翻车的咖啡。作者以控制变量的思路，从三个维度给出建议：好喝方面，优先选对阿拉比卡精品豆（如辛鹿「糖心宇宙」混合装）；好用好看方面，入门器具无需一步到位，推荐平价不锈钢壶加引流片、国产中端手磨、Hario V60树脂滤杯；不翻车方面，提供聪明杯和xBloom Studio作为备选方案，并附赠放凉再喝、嘬吸入口两个零成本优化技巧。文章风格轻松务实，兼具个人体验与可操作性建议。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以理发类比手冲咖啡，指出手冲虽不追求效率，但每个步骤都有意义，过程折磨而迷人，最终让人清醒愉悦。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为新手入坑手冲最需要的不是知识而是信心，即冲出一杯不翻车的咖啡获得成就感，并从好喝、好用、不翻车三个维度分享经验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出咖啡好喝与否八分靠豆子，传统速溶使用罗布斯塔豆导致苦涩，而精品咖啡多用阿拉比卡豆，风味丰富，建议新手优先选对豆子。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者推荐辛鹿「糖心宇宙」混合装作为入门豆子，因其涵盖多种烘焙度、处理法和产地，方便控制变量尝试，价格也较为友好。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍手冲器具选购逻辑，强调好用与好看同等重要，入门不应追求一步到位，应选稳定适合当前阶段的配置，等手艺提升再升级。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者具体推荐入门手冲壶方案：普通不锈钢细嘴壶加引流片组合，控流效果足够新手使用，比直接购买高端壶更划算。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者建议磨豆机入门选国产中端（如巫师、栗子、汉匠），无需神话C40，因为初学阶段舌头难以分辨高端磨带来的细微风味差异。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者推荐新手直接使用Hario V60树脂滤杯，因其保留最多变量让使用者感受，练好手感后再换平底滤杯会更得心应手。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍电子秤和清洁工具的选购技巧，强调去掉「咖啡」关键词搜索可大幅降低价格，其他配件暂时不必购买。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于不想拆解变量的新手，作者推荐聪明杯（浸泡式萃取）或xBloom Studio全自动手冲机作为降低翻车概率的替代方案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享两个零成本优化技巧：放凉至50度左右再喝以感受果酸甜感，以及用嘬吸方式入口让风味层次更丰富。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以个人感悟收尾，表达手冲咖啡的十五分钟是忙碌生活中属于自己的珍贵时光，鼓励读者选对豆子、稳住变量，享受入坑的乐趣。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108742&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 多家科技巨头密集发布AI与硬件新品&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派科技早报，汇总了近期多项重要科技动态。AI领域，Canva发布AI 2.0转型一体化生产力系统，Anthropic推出Claude Opus 4.7强化软件工程能力，OpenAI升级Codex新增多项代理式开发功能，Adobe发布Firefly AI Assistant，腾讯开源混元3D世界模型2.0。硬件领域，大疆发布Osmo Pocket 4云台相机，亚马逊推出更薄Fire TV Stick HD。支付领域，万事达卡支持Apple Pay跨境支付，支付宝打通Apple钱包NFC交通卡。文章采用简报形式，条目清晰，兼收用户评论与互动观点。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Canva发布AI 2.0，宣布向「一体化生产力系统」转型，新增对话式设计、智能体编排、智能对象编辑和持久记忆等核心能力，并打通Slack、Gmail、Zoom等主流办公软件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Anthropic发布Claude Opus 4.7模型，重点提升复杂软件工程任务表现，新增网络安全防护机制，但整体性能仍低于Claude Mythos Preview，定价维持每百万输入token 5美元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI升级Codex，新增桌面应用操作、多代理并行、应用内浏览器、图像生成与编辑、记忆功能，并支持GitLab、Atlassian、Microsoft Suite等插件，桌面操作首阶段仅支持macOS。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;大疆发布Osmo Pocket 4云台相机，搭载一英寸CMOS传感器，支持4K/240fps录制、智能跟随7.0系统，标准套装售价2999元，全能套装3799元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;亚马逊推出新一代Fire TV Stick HD，厚度较上代减少约30%，支持1080p输出、Wi-Fi 6和蓝牙5.3，预售价34.99美元，预装Vega OS并集成Alexa+。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Adobe宣布推出Firefly AI Assistant，具备智能体能力，可跨Photoshop、Premiere Pro、Lightroom等多款Creative Cloud应用执行多步骤任务，计划数周内开放公测。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;腾讯发布混元3D世界模型2.0（HY-World 2.0）并开源，支持文字、图片、视频输入生成3D场景，可导出Mesh、3DGS及点云格式，配套升级HY-Pano 2.0支持无相机参数的360度全景转换。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;万事达卡宣布中国境内发行的万事达卡品牌银行卡现已支持通过Apple Pay进行跨境交易，覆盖中行、农行、中信、浦发等多家银行的信用卡及中信借记卡。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;支付宝宣布Apple钱包支持通过支付宝开通NFC交通卡，覆盖北京、上海、南京等多个城市，本质是将充值付费模式改为支付宝授权委托代扣。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;其他消息包括：Google Quick Share出现Wi-Fi断连及EXIF元数据丢失问题；佳能推出支持1200mm超远摄焦距的电影伺服镜头新品，计划2026年9月上市。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;借助mediabunny纯JS实现视频水印、剪裁、合成等功能&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 mediabunny实现纯前端视频水印、剪裁与合成&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由张鑫旭撰写，重点介绍了前端音视频处理框架mediabunny的实际应用。文章通过三个可运行的demo，分别演示了纯前端实现视频水印合成、视频首尾剪裁以及多音频与画面合成视频的方法。水印合成利用OffscreenCanvas逐帧处理；剪裁通过trim参数指定起止时间；视频合成则借助CanvasSource与AudioBufferSource分别添加视频轨道和音频轨道。文章风格简洁实用，代码示例清晰，适合有前端音视频处理需求的开发者参考。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了mediabunny这一基于WebCodecs API封装的音视频处理框架，认为其在众多同类框架中脱颖而出，功能涵盖格式转换、水印添加、时长剪裁等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过演示demo，作者展示了如何使用mediabunny给视频添加水印：利用Conversion.init解码每一帧，再用OffscreenCanvas将画面与水印图合并绘制后返回，同样的方法也适用于字幕、特效、遮罩等场景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展示了视频首尾剪裁功能，核心只需在Conversion.init中传入trim参数并指定起止时间，配合LuLu UI双滑块实现交互，代码极为简洁。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者演示了多音频与画面合成视频的功能，通过Output添加视频轨道（CanvasSource）和音频轨道（AudioBufferSource），逐帧绘制画面并添加AudioBuffer，最终合成MP4文件；音频的剪裁与合并使用了作者自己手搓的方法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章末尾作者进行了个人课程推广，并说明文章为原创，转载需保留原出处。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 第二外国语日语学院 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026年日语学院接收转专业本科生工作方案&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Beijing International Studies University&amp;#039;s Japanese Studies College launches a structured 2026 undergraduate major transfer program emphasizing interdisciplinary, language-focused education.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Beijing International Studies University&amp;#039;s Japanese Studies College has formally launched its 2026 academic year undergraduate major transfer intake program, driven by a strategic goal of building a &amp;quot;Language + Interdisciplinary + Internship&amp;quot; three-dimensional education model centered on Sino-foreign cultural exchange. The program is philosophically grounded in respecting individual student strengths, interests, and career aspirations, positioning major transfer as a structured pathway for alignment between students and the faculty&amp;#039;s educational objectives. Admission is governed by a dual-layer eligibility framework: applicants must satisfy both the university&amp;#039;s baseline transfer requirements and supplementary faculty-specific criteria outlined in Article 1 of the governing regulations, ensuring admitted students fit the college&amp;#039;s interdisciplinary and international profile. The entire process operates under Beijing International Studies University&amp;#039;s Undergraduate Major Transfer Management Regulations alongside applicable student status management rules, providing a formalized and compliant administrative structure.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Policy Background:&lt;/strong&gt; The transfer program is initiated to respect students&amp;#039; individual strengths, interests, and aspirations, motivated by the goal of building a &amp;#039;Language + Interdisciplinary + Internship&amp;#039; three-dimensional education model centered on Sino-foreign cultural exchange.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Transfer-In Eligibility:&lt;/strong&gt; Students applying to transfer in must meet both the university&amp;#039;s baseline requirements and additional faculty-specific conditions outlined in Article 1 of the regulations.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Governing Regulations:&lt;/strong&gt; The transfer process is governed by the Beijing International Studies University Undergraduate Major Transfer Management Regulations, as well as relevant student status management rules.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Program Initiation:&lt;/strong&gt; The college has formally launched the 2026 academic year major transfer process, signaling an open and structured cycle for eligible applicants.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Selection Criteria:&lt;/strong&gt; Beyond institutional baseline conditions, candidates must satisfy supplementary criteria specific to the receiving program, ensuring admitted students align with the faculty&amp;#039;s interdisciplinary and international education objectives.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
