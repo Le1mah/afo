@@ -4,8 +4,290 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-04-28T20:39:56.670Z</updated>
+  <updated>2026-04-29T20:46:20.687Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - April 29, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-04-29</id>
+    <updated>2026-04-29T20:46:20.687Z</updated>
+    <published>2026-04-29T20:46:20.687Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>16 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 29, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;130.41095890410958&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    32.6%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;119&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;246&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;17&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████░░░░░░░░░░░░░░░░░░░░ 32.6%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;16&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22552&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Wednesday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 该内容为博客元数据片段，无实质文章内容。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该内容并非一篇完整文章，而是一个博客条目的元数据片段，来自作者adactio，记录于2026年4月29日星期三晚上8点12分，地理坐标为北纬51°、东经0°。内容包含博客互动提示（询问读者是否发布了回应）以及一段无关的角色扮演请求。由于缺乏实质性文章内容，无法进行有意义的主题摘要。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://gomakethings.com/anti-work/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Anti-work | Go Make Things&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 对劳动的崇拜是资本主义压迫工具，人们应摆脱工作迷恋。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇反工作（anti-work）立场的评论文章。作者认为，将勤劳工作视为美德的观念是殖民主义、父权制和资本主义共同构建的意识形态工具，富人借此压迫劳动者。文章指出，资本主义社会从幼儿园起便开始对人进行劳动崇拜的灌输。作者主张，若摆脱无休止的增长逻辑，人们完全可以工作更少、生活更好。前殖民时代的原住民社会已证明这种模式可行。作者最终呼吁建立一个保障所有人衣食住行、医疗与休闲的公平社会。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;反工作运动并非主张无人劳动，而是反对将勤劳工作视为美德的观念，作者认为这种对劳动的崇拜是富人用来压迫劳动者的工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;从幼儿园起询问孩子长大想做什么工作，体现了资本主义社会对劳动身份认同的深度洗脑，这种对劳动的迷恋根深蒂固、难以摆脱。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为，若摆脱资本主义无休止增长与消费的逻辑，人们可以大幅减少工作、提升生活质量，将劳动用于保障所有人的基本需求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;前殖民时代许多原住民社会已实践过平等分工、兼顾环境与社会需求的生活方式，证明减少劳动崇拜的社会模式并非乌托邦幻想。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者列举了理想社会应保障的基本权利，包括食物、住所、医疗、休闲及社会参与，并指出认为这些诉求过于激进本身就是资本主义洗脑成功的体现。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://samsharp.ca/not-forever/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;they told me the internet was forever | sam’s internet house&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 互联网历史正在消逝，去中心化与个人建站是保护开放网络的关键。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者通过重新发现11岁时发送的一封充满互联网链接的邮件，引发了对互联网历史消逝的深刻思考。文章以个人经历为切入点，探讨了链接腐烂、网络中心化、大型科技公司对开放网络的威胁，以及国家政治边界对域名安全的影响。作者引用Brennan Brown、Anil Dash等人的研究，呼吁网络用户通过去中心化、建立个人网站、保存数字历史来抵抗商业垄断，认为真正充满人情味的独立网站才是互联网未来的希望所在。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者发现自己11岁时发给朋友的一封链接合集邮件，其中超过30个链接几乎全部失效，只有两个仍然存活，这让作者感叹互联网历史正在消逝。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;链接失效是互联网整体腐烂的症状，大型科技公司通过抹去历史来操控用户认知，让人误以为现状是常态；作者引用Brennan Brown关于网络保存运动的文章，指出超过66.5%的链接在九年内已死亡，并介绍了网站管理员如何通过坚持HTML/CSS来对抗这一趋势。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;互联网用户向少数中心化平台聚集，边缘网站逐渐消失；作者认为去中心化和迁移到个人网站是恢复互联网潜力的第一步，并思考后互联网时代的数字发展方向。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者探讨了域名与国家政治边界绑定带来的脆弱性（以南斯拉夫.yu域名为例），以及大型科技和AI公司对开放网络的威胁；引用Anil Dash的文章后，作者认为保护开放网络的真正方式是建立独立的、充满个性的个人网站。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者呼吁所有网络用户共同努力，保护自己的数字空间和人类知识获取权，强调通过记录和保存来构建真正有价值的数字世界，并以此作为对抗大型科技垄断的行动。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://css-tricks.com/using-nonexistent-nth-letter-selector-now/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Let’s Use the Nonexistent ::nth-letter Selector Now | CSS-Tricks&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者用JS shim模拟CSS缺失的::nth-letter选择器&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者以幽默吐槽的口吻，探讨了CSS长期缺失::nth-letter伪类选择器的遗憾，并展示了若该选择器存在将能实现的多种精美排版效果。文章随后转入技术实践，引用Philip Walton关于CSS polyfill局限性的研究，区分了polyfill与shim的概念。作者自行定义了::nth-letter的行为规范，并发布了一个实验性JavaScript库：通过get-css-data获取原始CSS，用正则表达式将::nth-letter转换为有效的:nth-child选择器，再借助GSAP的SplitText将文本拆分为单字符元素，最终以最小代价实现了这一浏览器原生不支持的功能。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以吐槽CSS为开篇，抱怨期待已久的CSS Parser API和::nth-letter伪类选择器至今未能实现，并展示了若::nth-letter存在将能实现的各种炫酷排版效果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者解释了为何这些演示能够实际运行，引用了Philip Walton关于CSS polyfill几乎不可能完美实现的观点，并区分了polyfill与shim的概念，同时说明为何仍值得尝试模拟::nth-letter。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者自定义了::nth-letter的行为规则，包括&amp;#039;nth&amp;#039;和&amp;#039;letter&amp;#039;的含义，决定其行为类似:nth-child，并将&amp;#039;letter&amp;#039;等同于字符。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了自己发布的实验性npm库，通过正则表达式将::nth-letter语法转换为有效CSS（替换为.char:nth-child），并利用get-css-data获取原始CSS内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细讲解了shim的实现机制：删除原有样式并注入改写后的样式，再使用GSAP的SplitText插件将目标元素的文本拆分为单个字符的div，从而让改写后的CSS能够正确选中并样式化每个字符。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thathtml.blog/2026/04/two-paradigms-for-enhancing-html-tags/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Two Paradigms for Enhancing HTML Tags | That HTML Blog&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Two composable paradigms—MutationObserver-based attribute registries and web component wrappers—cleanly solve reusable JavaScript enhancement of HTML elements.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article contrasts two robust paradigms for attaching JavaScript behavior to standard HTML elements declaratively and reusably, rejecting naive `querySelector`-by-ID scripts as fragile and incompatible with dynamic DOM injection. The first paradigm uses a `MutationObserver` to detect magic attributes on elements and dispatch to a registry of enhancement functions—a pattern implemented by libraries like Hotwired Stimulus and potentially formalized by a forthcoming &amp;quot;custom attributes&amp;quot; browser API. The second paradigm leverages HTML web components as compositional wrapper elements (e.g., `&amp;lt;validation-enhancer&amp;gt;&amp;lt;form&amp;gt;...&amp;lt;/form&amp;gt;&amp;lt;/validation-enhancer&amp;gt;`), which works natively today and allows stacking multiple independent enhancements without coupling them into a single class hierarchy. The rejected `is=` attribute approach is explicitly called out as architecturally inferior because JavaScript&amp;#039;s single-inheritance constraint makes it impossible to apply more than one enhancement per element via subclassing, a limitation both paradigms cleanly sidestep. A minor known constraint of the web components approach is its inability to wrap partial table structures like individual rows or columns due to browser parsing rules, though this edge case is considered negligible for most real-world applications.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;HTML Enhancement Defined:&lt;/strong&gt; Enhancing an HTML tag means attaching JavaScript behavior to an element at instantiation time, such as adding validation feedback or autosave functionality to a form. This involves setting up event listeners, DOM modifications, and lifecycle control in a 1:1 relationship with the element.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Imperative Enhancement Antipattern:&lt;/strong&gt; The naive approach of using a script tag with querySelector to target a specific element by ID is fragile, non-reusable, and breaks entirely when elements are injected dynamically via AJAX or reactive frameworks. A declarative approach is strongly preferred.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;MutationObserver Attribute Paradigm:&lt;/strong&gt; The first good paradigm uses a MutationObserver to watch for magic attributes (e.g., add-enhancements=&amp;#039;validate autosave&amp;#039;) on any element, then dispatches to a registry of enhancement functions. Libraries like Hotwired Stimulus implement this pattern, and a future &amp;#039;custom attributes&amp;#039; browser API could standardize it.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;HTML Web Components Paradigm:&lt;/strong&gt; The second paradigm uses custom elements as wrapper parents to enhance inner standard elements via composition (e.g., wrapping a form in validation-enhancer and form-saver elements). This works natively today and supports layering multiple independent enhancements without coupling to a single class hierarchy.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Real-World Component Examples:&lt;/strong&gt; Two recently released libraries—validation-enhancer by Alistair Davidson and form-saver by Aaron Gustafson—demonstrate the HTML web components paradigm solving distinct form problems with the same compositional pattern. Both operate in production using vanilla web APIs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Limitations of Web Components:&lt;/strong&gt; HTML web components cannot wrap specific rows or columns inside table markup due to browser parsing constraints, requiring the entire table to be wrapped instead. This is a known edge case but does not significantly undermine the paradigm for most use cases.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Why is= Was Rejected:&lt;/strong&gt; The is= attribute was rejected (notably by WebKit) because it creates fragile coupling between standard element implementations and userland subclasses, and critically, it only allows a single class inheritance per element. This makes applying multiple enhancements impossible, a fundamental OOP constraint in JavaScript.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Preferred Enhancement Direction:&lt;/strong&gt; The article concludes that both the custom attributes proposal and today&amp;#039;s multi-wrapper web components approach are architecturally superior to is= because they enable an arbitrary number of independent enhancements on any standard element without class hierarchy constraints.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-04-29.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: April 29&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI编程时代验证、结构与概念建模是核心竞争力&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Martin Fowler对多篇AI工程相关文章的汇总评论。核心主题包括：智能体编程中验证的重要性（Chris Parsons），Harness Engineering与计算传感器的应用（Birgitta Böckeler），函数命名与结构对AI理解代码的影响（Adam Tornhill），以及&amp;#039;software brain&amp;#039;思维导致公众对AI负面情绪的分析（Nilay Patel）。文章还讨论了内部数据定义精确性对AI应用的制约，以及AI时代写作与思考的关系，强调概念建模和知识传授将是未来软件工程师的核心竞争力。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Chris Parsons更新了他关于使用AI编程的指南（第三次更新），强调验证是智能体工程的核心，团队竞争力在于快速判断方案是否正确，而非快速构建。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;高级工程师的角色正在转变为训练AI、塑造harness框架，这种复合价值远超单纯审查代码差异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Birgitta Böckeler发表了关于Harness Engineering的文章并录制了与Chris Ford的视频讨论，重点探讨计算传感器（如静态分析和测试）在harness中的作用，实验表明AI能更彻底地处理每个警告。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Adam Tornhill探讨函数长度问题在智能体编程时代依然重要，AI模型依赖命名和结构等字面特征而非语义推断，函数应通过良好命名引入程序词汇中的新概念。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nilay Patel分析了人们对AI的负面情绪，认为根源在于&amp;#039;software brain&amp;#039;思维——将世界视为可控数据库，而许多人不愿被数据化和监控。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Patel将程序员与律师类比，两者都通过结构化语言在现实世界产生影响，区别在于法律具有非确定性，需要通过诉讼解决分歧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者谈到企业内部数据混乱的问题，指出精确一致的定义是AI有效利用数据的关键，概念建模将成为智能体编程的核心技能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Ezra Klein描述了硅谷AI从业者为抢占先机而快速采纳AI的焦虑，核心在于让自己的信息对AI&amp;#039;可读&amp;#039;，作者本人也在使用Gemini处理非结构化信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者和Klein都面临让AI代写文章的诱惑，但两人均拒绝，因为写作是思维深化的过程，让AI代写等于削弱自己的思考能力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/lets-get-digging/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Let&amp;#039;s Get Digging!&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 参与公众考古，在遗址发现百年文物&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记述了作者参加DigVentures公众考古项目、在Lesnes Abbey遗址进行挖掘的亲身经历。文章以第一人称叙述，风格轻松幽默，描写了从最初的怀疑与失望，到陆续发现陶制建筑材料（CBM）瓦片、牡蛎壳、骨头，最终找到18世纪salt-glazed creamware陶器碎片的惊喜过程。作者感叹历史就埋藏在脚下，并指出此类活动体力消耗较大，最后热情鼓励读者参与DigVentures举办的当地考古项目。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者参加了DigVentures组织的公众考古活动，前往Lesnes Abbey遗址，在专业人员指导下开始挖掘工作，起初对能否找到文物持怀疑态度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;经过一段时间的挖掘，作者先是失望地只找到石头和蚯蚓，随后开始发现大量陶制建筑材料（CBM）瓦片，包括有孔的屋顶瓦片、牡蛎壳和一块小骨头。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者最终发现了疑似金属的闪亮物体，经鉴定为18世纪的盐釉奶油陶器（salt-glazed creamware），整体活动既令人兴奋又体力消耗巨大，作者强烈推荐公众参与DigVentures的项目。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Day We Met &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/815190508510003200&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 4, Page 44&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 漫画第4章第44页的Tumblr互动记录&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;所提供的内容并非真正意义上的文章，而是来自Tumblr平台的一篇网络漫画帖子（thedaywemetcomic）的互动记录，包含大量用户的点赞与转发信息。内容显示《The Day We Met》漫画第4章第44页获得了众多用户的关注与互动，但不包含任何实质性的叙事或论述文本，无法进行有意义的内容摘要。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-04-29T18:21Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-04-29T18:21Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The &amp;quot;Sloppelganger&amp;quot; is a satirical web design archetype where hyper-polished, generic aesthetics create unsettling uncanny-valley distrust in visitors.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The &amp;quot;Sloppelganger&amp;quot; is a satirical web design archetype coined within Tyler Sticka&amp;#039;s &amp;quot;Wicked Websites&amp;quot; series, defined by its unsettling veneer of hyper-polished normalcy—suspiciously pristine imagery, saccharine copy, and an artificially neutral professional tone that collectively push the design into uncanny valley territory. Rather than exhibiting any single identifiable flaw, the Sloppelganger&amp;#039;s threat lies in its aggregate over-refinement: every element is too smooth, too generic, too carefully inoffensive. This combination triggers an instinctive, subconscious fight-or-flight response in visitors—a visceral unease they cannot consciously articulate or pin to a specific defect. The archetype functions as a deliberate deconstruction of how surface-level visual credibility can be weaponized or deployed deceptively, masking something fundamentally off beneath an impeccable facade. As a catalogued pattern in &amp;quot;Wicked Websites,&amp;quot; it serves as a useful critical lens for developers evaluating how over-engineered design aesthetics can erode rather than build user trust.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Sloppelganger Concept:&lt;/strong&gt; The Sloppelganger is a satirical web design archetype characterized by an uncanny, off-putting normalcy that masks something deeply unsettling beneath its surface.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Manufactured Professionalism:&lt;/strong&gt; The site deliberately projects a neutral, professional tone that feels forced and artificial, achieved through suspiciously polished imagery and saccharine copy.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Uncanny Valley Design:&lt;/strong&gt; The combination of unnaturally high-fidelity imagery and overly smooth presentation pushes the site into uncanny valley territory, triggering instinctive unease in visitors.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Visceral User Reaction:&lt;/strong&gt; Visitors experience a subconscious fight-or-flight response—described as hairs standing on the neck—despite being unable to consciously identify a specific flaw or threat.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Rogues&amp;#039; Gallery Context:&lt;/strong&gt; The Sloppelganger is featured in Tyler Sticka&amp;#039;s &amp;#039;Wicked Websites&amp;#039; series, a curated collection cataloguing deliberately disturbing or deceptive web design patterns.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/04/29/github-is-sinking/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;GitHub is sinking&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 微软毁了GitHub，请尽快迁移到替代平台&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者以强烈批评的语气指出，微软收购GitHub后将其推向衰败，正常运行时间下滑、平台充斥机器人和低质量AI生成内容（slop）、Copilot等功能令人反感。多位知名开发者已公开出走。作者强调Git与GitHub是不同概念，Git本身是去中心化的开源工具，用户无需依赖GitHub。文章逐一驳斥网络效应、CI/CD等留守理由，并推荐Codeberg、Forgejo、Gitea、GitLab等替代方案，呼吁用户尽快迁移，远离这艘正在下沉的船。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;GitHub的正常运行时间正在急剧下降，用户越来越明显地感受到微软收购后带来的负面影响，官方状态页面和实际体验都印证了这一点。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软收购GitHub后推行了一系列被作者称为&amp;#039;enshittification&amp;#039;（劣化）的变化，包括引入Copilot、充斥机器人和低质量内容（slop），导致平台质量大幅下滑，多位知名开发者已公开宣布离开GitHub。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;很多用户混淆了Git与GitHub的概念，实际上Git是开源的分布式版本控制系统，不依赖任何中心化服务，GitHub只是一个基于Git的附加平台，微软已将其变成了昂贵的负担。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者逐一反驳了用户留在GitHub上的常见理由，包括网络效应、CI/CD集成等，认为这些都不足以成为继续使用一个不可靠平台的理由。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者列举了多个GitHub替代方案，包括Codeberg、Tangled、Gitea、GitLab、Bitbucket等，并特别推荐非营利性的Codeberg作为最安全的选择。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于有能力的个人或组织，作者推荐自托管Forgejo，同时指出即使是最简单的Git over SSH也是可行方案，强调始终要有退出计划。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-04-29T09:51Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-04-29T09:51Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Warp open-sourced its terminal with OpenAI sponsorship while launching an AI cloud platform, drawing criticism for exploiting open-source branding despite unsustainable economics.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Warp announced it is open-sourcing its terminal client with OpenAI as the founding sponsor, simultaneously launching &amp;quot;Oz,&amp;quot; a cloud agent orchestration platform that powers AI-driven development workflows using GPT models. This move follows a turbulent product history that included a widely criticized mandatory account requirement and a subsequent pivot toward AI integration. Despite VC backing and OpenAI sponsorship, Warp publicly concedes it cannot compete on price or subsidize usage at scale—a contradiction that undermines the credibility of its open-source positioning. Critics have coined the term &amp;quot;open slop&amp;quot; to characterize the model, arguing it exploits community labor and free AI tokens under the guise of genuine open-source collaboration rather than authentic community-driven development. The piece situates Warp within a broader industry pattern, noting that GitHub itself has acknowledged being overwhelmed by low-quality AI-generated contributions, suggesting these tensions around AI and open source are systemic rather than isolated.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Warp Goes Open-Source:&lt;/strong&gt; Warp announced that its terminal client is now open-source, enabling community participation in development via an agent-first workflow. OpenAI is the founding sponsor of the new open-source repository.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Oz Agent Orchestration:&lt;/strong&gt; Warp introduced Oz, a cloud agent orchestration platform that manages the new agentic development workflows. These workflows are powered by OpenAI&amp;#039;s GPT models.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Warp&amp;#039;s Troubled History:&lt;/strong&gt; Warp previously required a mandatory account to function, a widely criticized decision that was eventually reversed. The product later pivoted to AI integration before this open-source announcement.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Resource Constraint Admission:&lt;/strong&gt; Despite VC funding and an OpenAI sponsorship, Warp publicly acknowledges it lacks the resources to compete on price or heavily subsidize usage, a contradictory position that draws skepticism.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;&amp;#039;Open Slop&amp;#039; Criticism:&lt;/strong&gt; Critics argue Warp&amp;#039;s model exploits community labor and free tokens under the guise of open source, coining the term &amp;#039;open slop&amp;#039; to describe AI-generated contributions masquerading as genuine open-source collaboration.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;GitHub Slop Problem:&lt;/strong&gt; The article broadens the critique to Microsoft&amp;#039;s GitHub, noting that the platform itself has acknowledged being overwhelmed by AI-generated low-quality content, suggesting a wider industry trend.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109062&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 移动端Agent功能已初具雏形，系统级AI中枢爆发或近在眼前&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者以ColorOS（OPPO/一加）为例，系统梳理了当前国产移动端AI Agent的代表性功能——小布记忆、小布助手、深度研究、语音摘记、小布识屏等，肯定其在系统权限与内容接入上的优势，同时指出功能碎片化、应用适配不均、AI中枢缺失等通病。文章进而探讨了隐私边界与端侧大模型覆盖这两大工程难题，并结合谷歌GUI Agent、AppFunctions、A2UI、Mobile-Agent等最新进展，认为以端侧大模型为核心、有机串联系统功能的Universal Agent时代已为期不远。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章以Android 17新API和Gemma 4、Xiaomi MiMo V2.5等移动端小模型的进展为契机，指出移动端Universal Agent落地的条件正在成熟，并以ColorOS为例展开讨论。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细介绍了ColorOS（基于一加15T，ColorOS 16.0.5.703）中小布助手的多项Agent功能，包括小布记忆（支持信息流记忆、记账、小红书视频摘要）、小布助手的指令识别与自动操作、深度研究、AI写作、语音摘记及小布识屏等，并指出各功能存在碎片化、部分应用适配不足等问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者探讨了厂商第一方AI助手相比豆包等独立应用的优劣势，认为其优势在于系统底层权限和更深的耦合，但现阶段功能多而散，尚未形成真正的AI中枢。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章进一步分析了移动端Agent面临的两大工程难题：隐私边界（以OpenClaw安全漏洞为例）和端侧大模型的功能覆盖，并引用作者此前关于用户观念壁垒的论述，强调普通用户的心理接受度是最大挑战。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出以小布指令为承接土壤、结合形式化JSON任务执行逻辑构建系统级Agent的设想，并列举谷歌GUI Agent、ACCESS_COMPUTER_CONTROL权限、AppFunctions、A2UI框架及Mobile-Agent V3.5等最新进展，展望移动端Agent爆发式发展的时间节点已近在眼前。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/60247&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;先别一股脑扔进洗衣机：换季衣物洗护指南&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 换季洗衣全攻略：读懂标签、分类护理、科学选品。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇实用的换季衣物洗护指南，作者以亲身经验为基础，系统介绍了洗衣前读懂洗涤标签符号的方法，涵盖水洗、漂白、干燥、熨烫及专业维护五大类图示。文章进一步讲解了分类洗涤的原则、反面洗涤和使用洗衣袋的技巧，以及不同材质（羊毛、羽绒、丝绸、皮衣、棉质、合成纤维等）的专项护理要点。此外，文章还对各类洗涤产品（洗衣凝珠、丝毛洗涤剂、柔顺剂、漂白剂等）的特性与适用场景进行了详细说明，写作风格实用亲切，兼顾科学性与生活化。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;换季时节，作者分享了衣物洗护的重要性，强调洗衣前应先阅读衣物标签上的洗涤符号，结合衣物价格和常识来决定洗涤方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细解释了洗衣符号的含义，包括水洗、漂白、干燥、熨烫和专业维护五大类符号的图示及含义。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对家用洗衣机或手洗的衣物，文章介绍了分类洗涤的多种维度，包括按颜色、材质和用途分类，并提供了反面洗涤、使用洗衣袋等实用小贴士。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了正确的晾晒方式，包括悬挂与平摊的区别、滴干与晾干的差异，以及阴凉处晾晒的必要性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对羊毛、羊绒、羽绒、丝绸、皮衣、内衣等特殊或娇贵材质，文章分别给出了专项护理建议，强调轻柔洗涤和正确晾晒方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;棉织物、牛仔布和合成纤维等常见易打理材质的洗护特点和注意事项被逐一说明。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细介绍了各类洗涤产品的特性与用途，包括内衣洗涤剂、丝毛洗涤剂、洗衣凝珠、衣领净、消毒液、漂白剂、柔顺剂及防霉除菌洗衣液，并附有品牌推荐。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以一款碧浪洗衣液瓶身设计为例，分享了令人满意的产品体验，并鼓励读者在评论区分享洗护心得。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109207&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 YoooClaw C·ONE众测招募随身AI硬件体验者&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了少数派与YoooClaw联合发起的YoooClaw C·ONE众测活动。C·ONE是一张可连接OpenClaw的随身AI智能卡片，主要功能包括：整合跨平台通知并由AI分级整理、作为OpenClaw的物理控制入口、提供低摩擦语音对讲功能，以及内置录音转写与会议纪要生成能力。产品采用磁吸卡片形态，支持可定义灯效。众测计划招募10名用户免费体验30天并撰写评测文章，报名截止5月5日，优质文章可获稿酬及产品留用资格。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;当前AI工具正从被动回答转向主动执行，但大多数AI仍局限于屏幕内，需要用户手动操作，这种打断感促使人们思考物理AI入口的可能性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;YoooClaw C·ONE是一张连通OpenClaw的原生智能卡片，可配合手机使用，将通知、语音指令、录音和硬件交互整合，目前仅支持iOS。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;C·ONE能读取微信、飞书、钉钉等各类App通知，通过AI进行分级整理、提炼重点并生成可执行的下一步建议，帮助用户从信息过载中快速恢复状态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;C·ONE可作为OpenClaw的随身控制入口，用户可通过YoooClaw App查看数据源、运行状态、AI执行过程及Token消耗等信息，降低使用门槛。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;C·ONE提供长按说话松手的对讲机功能，将语音记录灵感或远程指挥OpenClaw的过程简化为接近本能的操作，在驾驶或双手被占用时尤为实用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;C·ONE内置AI录音能力，录音后可同步至云端OpenClaw进行转写，生成逐字稿、会议纪要和待办事项，是可接入工作流的录音入口。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;C·ONE采用磁吸卡片设计，支持硬件可定义灯效，可吸附手机背面或单独携带，外观接近日常随身物品而非传统录音设备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本次众测邀请10名少数派用户免费体验30天，需提交客观体验文章，优质文章可获稿酬，产品体验期满后可保留。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;活动报名截止5月5日，优先考虑有内容创作经验的少数派会员及对AI工具、自动化工作流有明确体验计划的用户。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;参测用户须提交原创评测文章，不得含AI生成内容，提交后授予少数派及YoooClaw全球永久使用许可，署名权归作者所有。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109188&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;iPad 赋能电影创作：国内首部宣纸手绘长片《燃比娃》的幕后故事&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iPad助力首部宣纸手绘动画长片《燃比娃》融合传统与数字创作&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《燃比娃》是国内首部宣纸手绘动画长片，由导演李文愉历时五年创作完成，灵感源自羌族神话，融合宣纸手绘、羌绣非遗定格动画等传统工艺。影片曾入围柏林国际电影节并斩获多项国内外大奖。在创作工具上，导演从传统纸笔全面转向iPad与Procreate，借助数字笔刷还原宣纸质感，完成概念设定与造型规范管理。剧组还发起「动画人的一帧」计划，汇聚69位艺术家共同创作，致敬上海美术电影制片厂69周年。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《燃比娃》是由李文愉执导、上海美术电影制片厂出品的国内首部宣纸手绘动画长片，曾入围柏林国际电影节并荣获多项国内外大奖，于2026年4月28日登陆全国艺联专线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;影片故事灵感源自羌族神话《燃比娃盗火》，画面几乎全部以宣纸手绘完成，并特别加入由国家级非遗「羌绣」制作的定格动画片段，将传统工艺融入现代动画创作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;导演李文愉在过去五年创作过程中，逐渐从传统纸笔转向以iPad与Procreate为核心的数字创作工具，完成了近200张造型指导手册及近300张羌绣纹样草图，iPad的便携性与Procreate的笔刷功能对影片艺术风格的统一起到关键作用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;剧组发起「动画人的一帧」计划，邀请69位插画艺术家以个人风格重绘原画线稿（大多使用iPad上的Procreate完成），这69幅作品被串联成影片中一段约9秒的快速剪辑镜头，呼应文明起源主题，也是献给上海美术电影制片厂成立69周年的特别礼物。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109204&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：乐道 L80 发布、一加 Ace 6 至尊版发布等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 乐道L80、一加Ace6至尊版等多款新品集中发布&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派「派早报」科技资讯汇总，报道了4月28日多项重要科技新闻：乐道L80旗舰SUV发布，预售价24.58万元起；一加Ace6至尊版搭载天玑9500及大电池，售价3099元起；Valve新一代Steam控制器定价99美元即将发售；中国联通推出按需计费的「联通魔方」服务；Google翻译上线AI发音练习功能。此外还涉及Google与美国国防部AI协议、三星Galaxy S27设计变动等简讯。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;乐道汽车于4月28日在杭州发布乐道L80，定位智能双舱大五座旗舰SUV，车长5145mm，提供两种智驾方案，预售价24.58万元起，5月15日正式上市。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;一加于4月28日发布一加Ace6至尊版，搭载天玑9500平台，配备165Hz高刷屏、8600mAh电池、120W闪充及5000万像素主摄，售价3099元起，同期发布游戏手柄售价449元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Valve宣布新一代Steam控制器将于5月5日发售，支持所有运行Steam的设备，配备TMR磁性摇杆、触控板及触感马达，续航35小时以上，定价99美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;中国联通发布「联通魔方」自选式通信服务，采用阶梯计费模式，流量按实际使用量收费，月基础消费门槛39元，承诺不出现超套问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google翻译在上线20周年之际推出发音练习功能，用户朗读翻译内容后由AI提供即时反馈，目前面向美国和印度Android用户开放，支持英语、西班牙语和印地语。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯报道了Google与美国国防部签署AI合作协议、三星考虑为Galaxy S27更换摄像头模组设计，以及Google快速分享扩展至OPPO和vivo部分机型等科技动态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - April 28, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2029,91 +2311,6 @@ To produce a proper summary, the actual article body or video description would 
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;早在2017年就有CJK用户向CommonMark社区反馈此问题并提交合并请求，但因维护者优先保证兼容性而未被采纳，短期内难以从上游修复。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;针对此问题，文章提出了多种变通方法：使用HTML标签、在标记外侧添加普通空格、在标记内侧插入零宽空格（U+200B），以及使用markdown-cjk-friendly等针对CJK优化的插件。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;部分AI服务（如Kimi、豆包、Perplexity）已能正确渲染中文强调标记；文章最后建议写作者反思是否真的需要依赖粗体强调，提倡通过句式和措辞来指示重点。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - April 18, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-04-18</id>
-    <updated>2026-04-18T20:09:27.903Z</updated>
-    <published>2026-04-18T20:09:27.903Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>1 articles from 1 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 18, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;118.35616438356165&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    29.6%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;108&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;257&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;15&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████░░░░░░░░░░░░░░░░░░░░░ 29.6%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;1&lt;/strong&gt; articles from &lt;strong&gt;1&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/87807&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;你好，我是一名「火腿」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 业余无线电入门全指南：从考证到上机通联&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由一位业余无线电爱好者（HAM）撰写，以亲身经历为引，系统介绍了业余无线电（HAM Radio）的入门全流程。文章涵盖HAM的定义与现实意义、无线电在灾害救援与文化传承中的价值、频率与功率等基础常识、中国三类执照（A/B/C类）的区别与报考流程、设备选购建议（手台/车台/基地台）、中继台与天线知识，以及验机设台和呼号申请等实操内容。作者文风亲切务实，兼顾科普与实用，适合零基础新手参考。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因儿时对无线电的向往，在养病期间通过了业余无线电考试，正式成为一名&amp;#039;火腿&amp;#039;（HAM），并介绍了HAM的基本概念及无线电在现实生活中的普遍存在。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从国家层面、情感层面和技术层面三个角度，阐述了在手机和网络普及的时代业余无线电依然具有重要价值的原因，包括灾害救援、文化传承和技术极客精神。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了无线电的基础常识，包括频率（MHz）、频段划分（HF/VHF/UHF）以及设备功率（W）的基本概念，帮助新手建立初步认知。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细讲解了中国业余无线电执照的三个类别（A类、B类、C类）的区别，包括各类别的频段权限、功率限制及持证时间要求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了报考业余无线电操作证的流程，包括通过CARC官网报名、各地考试安排、注意事项及考试题型与合格标准。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲解了如何选择适合新手的电台设备，包括手台、车台、基地台的分类，模拟与数字手台的区别，以及中继台和天线的基础知识，并推荐了宝峰BF5rh和泉盛UVK6两款入门手台。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了取得操作证后的验机设台流程，包括CMIT ID的重要性、网络申请方式及呼号的获取与意义，并以作者自身呼号BH4GZR为例说明。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在后记中感慨HAM圈子有礼有序、互帮互助的氛围，呼吁更多人关注并加入业余无线电这一小众但充满魅力的文化圈子。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
