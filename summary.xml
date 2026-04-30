@@ -4,8 +4,211 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-04-29T20:46:20.687Z</updated>
+  <updated>2026-04-30T20:34:35.535Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - April 30, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-04-30</id>
+    <updated>2026-04-30T20:34:35.535Z</updated>
+    <published>2026-04-30T20:34:35.535Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>11 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 30, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;131.50684931506848&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    32.9%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;120&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;245&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;17&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████░░░░░░░░░░░░░░░░░░░░ 32.9%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22553&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Thursday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 这是一个缺乏实质内容的博客页面片段。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;此内容并非一篇完整的文章，而是一个博客页面的元数据片段，来自作者adactio，记录于2026年4月30日星期四晚上7:59，位置坐标为北纬51°、东经0°。页面包含导航链接和一个邀请读者提交回应URL的互动提示，实质性内容极为有限，无法进行有意义的主题摘要。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A Fresh View In May (2026 Wallpapers Edition)&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Smashing五月壁纸合集免费提供全球艺术家创作的多款精美桌面壁纸&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Smashing Magazine发布的五月桌面壁纸合集，延续了长达15年的月度社区传统。文章介绍了来自全球各地艺术家和设计师免费贡献的二十余款五月主题壁纸，主题多样，包括春天花卉、茶文化、佛陀节日Buddha Purnima、流行文化致敬（如《闪灵》《星球大战》）以及自然风光等。每款壁纸均提供带日历和不带日历两种版本及多种屏幕分辨率，供用户免费下载。文章鼓励读者积极参与未来的壁纸投稿活动。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了Smashing Magazine五月桌面壁纸合集的月度传统，强调这些壁纸由全球艺术家和设计师免费贡献，已持续15年。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;五月带来更长的白昼、柔和的光线和初夏气息，这种季节性灵感激励创作者为用户提供能点燃灵感的桌面壁纸。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章展示了来自西班牙、塞尔维亚、印度、法国、加拿大、澳大利亚、美国、德国、乌克兰等地艺术家创作的二十余款壁纸，主题涵盖春天花卉、佛陀节日、流行文化等，均提供多种分辨率免费下载。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/04/designing-stable-interfaces-streaming-content/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Designing Stable Interfaces For Streaming Content&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 流式UI三大问题的实用解决方案&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深入探讨了流式UI界面设计中的三大核心挑战：滚动控制、布局稳定性与渲染频率优化。作者通过AI聊天、日志查看器和实时仪表板三个实际演示案例，直观展示了这些问题的表现形式。文章以实践为导向，提供了具体的JavaScript解决方案：利用滚动事件与阈值判断实现智能自动滚动，通过直接操作DOM文本节点而非重建innerHTML来稳定布局，并借助字符缓冲区与requestAnimationFrame合并渲染更新。这些方案共同目标是让流式内容在动态变化中保持可读性与可交互性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;流式UI在聊天应用、日志工具和实时系统中越来越普遍，但其界面处于持续变化状态，带来滚动、布局偏移和渲染频率等挑战。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者构建了三个演示案例：AI聊天气泡、日志查看器和实时指标仪表板，揭示了流式UI共同面临的三大问题：自动滚动干扰用户、内容增长导致布局跳动、DOM更新频率过高影响性能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对滚动问题，作者提出通过追踪用户是否主动上滚来控制自动滚动行为，设置60px阈值避免误判，并在新流开始时重置状态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对布局稳定性问题，作者建议放弃每次更新都重建innerHTML的做法，改为直接操作实时文本节点，仅在换行时创建新段落，从而减少不必要的布局重计算。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对渲染频率问题，作者引入字符缓冲区配合requestAnimationFrame，将多个字符合并为一次DOM更新，避免每个字符都触发独立的页面重绘，显著提升性能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Day We Met &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/815281090971484160&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 4, Page 45&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 No substantive content found; only social media metadata provided—please supply actual article text for summarization.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The provided source material (&amp;quot;Chapter 4, Page 45&amp;quot;) contains no substantive technical content suitable for summarization — it consists entirely of Tumblr social interaction metadata such as likes and reblogs, with no actual article text present. Without extractable technical or narrative content, a meaningful summary cannot be produced. To generate a useful summary, please provide the actual article text rather than page metadata or social platform engagement data.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (1 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;No Analyzable Content:&lt;/strong&gt; The provided article contains no substantive technical or narrative content to analyze. It consists entirely of Tumblr social interaction metadata (likes and reblogs) with no actual article text.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-04-30T06:29Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-04-30T06:29Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CSS的safe关键字在对齐中鲜为人知且使用场景有限&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了CSS中的safe关键字，该关键字用于flex和grid布局的对齐场景。作者以随笔风格写道，自己经常忘记这一特性，并引用了Ion Prodan的演示作为参考。在实际应用场景上，作者认为除水平滚动（如scroll snap轮播）外，safe的使用场景较为有限，主要起到防范意外内容变化的保障作用。作者还提出了一个值得思考的观点：safe是否应该作为默认行为，而非需要显式声明的关键字。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CSS拥有一个名为safe的关键字，Ion Prodan提供了一个关于safe在flex和grid对齐中应用的演示。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者坦言自己经常忘记这个特性的存在，并希望下次能记住它。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;除了水平滚动（如带有scroll snap的轮播图，但这并非理想设计策略）之外，作者认为safe关键字的实际使用场景有限，可能主要用于防范未经测试的内容变化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为safe应该是默认行为，而unsafe才应该是需要显式声明的关键字，但也承认自己对此思考时间有限。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/?p=11833&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【採用情報】急募！キャラクターモデラーアシスタント募集 [アルバイト]（福岡本社・東京スタジオ・大阪スタジオ）&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 游戏公司招募角色建模助理兼职，欢迎学生及无经验者应聘&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本招聘广告面向全球发售游戏作品的公司，招募角色建模师（キャラクターモデラー）助理，采用兼职形式，雇用期间为2026年6月至8月。工作地点涵盖福冈、东京、大阪三处，薪资因地点而异。业务内容包括协助角色模型制作、收集参考资料及小物件建模，使用工具为Maya和Unreal Engine 5。应聘者需具备基本PC操作能力，有Photoshop或3DCG建模经验者优先，无经验者亦可报名，欢迎暑假期间的在校学生应聘。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这是一则招募游戏角色建模师助理的兼职招聘广告，欢迎无经验者及对游戏制作和CG感兴趣的学生应聘，招募期间较短，暑假学生也可申请。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;招聘条件详细列出了雇用形式（兼职）、雇用期间（2026年6月1日至8月31日）、勤务地点（福冈总部、东京工作室、大阪工作室）、工作时间（实际工作8小时）及薪资（各地点时薪不同）等信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;业务内容为协助制作游戏内角色模型，使用Maya和Unreal Engine 5，具体工作包括收集参考资料和小物件建模；应聘条件要求能操作PC，优先考虑有Photoshop纹理制作或3DCG建模经验者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;应聘者需通过应募表单提交履历书、应募问卷及作品集，作品可以数据文件或URL形式提交，个人信息将严格保密并仅用于招聘用途。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21512&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【完了】サーバーメンテナンスのお知らせ&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网站服务器维护已于指定时间完成&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本通知来自某游戏公司（CyberConnect2）官网，告知用户将于2026年4月30日（周四）9:10至13:00进行服务器维护，维护期间网站访问及公司邮件收发可能出现异常。通知同时表示维护已顺利完成，感谢用户配合。页面末尾附有多条相关新闻链接，包括暑期问候、游戏实习招募、讲座活动及地震应急公告等历史资讯。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109257&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本月玩什么｜朋友收藏、识质存在、沙罗周期&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文介绍2026年4月五款值得关注的新游戏&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派「本月玩什么」栏目的一期内容，作者板斧从个人视角介绍了2026年4月前后发售的五款游戏：任天堂养成模拟新作《朋友收藏 梦想生活》、Capcom新IP动作游戏《识质存在 PRAGMATA》、Housemarque的Roguelike动作游戏《沙罗周期 Saros》、温柔叙事小品《Fishbowl》，以及风格怪异的多玩法独立游戏《Titanium Court》。文章以轻松的个人化视角呈现各作的玩法特色与亮点，并坦诚标注了尚未亲自上手的作品，风格主观而真诚。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本栏目「本月玩什么」由作者板斧主持，从个人角度介绍近期新发售游戏，涵盖PlayStation、Xbox、Nintendo、PC及移动平台，并设有有奖互动环节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《朋友收藏 梦想生活》是任天堂旗下Mii系列养成模拟新作，登陆NS平台，提供强大的角色与环境自定义工具，玩家可观察Mii角色自主互动，并创作同人剧情，重复游玩乐趣十足。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《识质存在 PRAGMATA》是Capcom久违的新IP，设定在近未来月球研究所，玩家同时操控战斗角色Hugh与机器人Diana，融合第三人称射击与黑客解谜小游戏，玩法扎实独特。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《沙罗周期 Saros》是《Returnal》开发商Housemarque的PS5独占新作，继承前作高速动作与Roguelike循环机制，舞台迁移至神秘星球Carcosa，并在局外成长系统上更加友好。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《Fishbowl》是一部关于悲伤、居家工作与成长的温柔叙事小品，主角Alo在新城市消化失去姥姥的空洞，游戏将情绪值设计为行动资源，并以小游戏形式呈现心情整理过程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《Titanium Court》是一款融合三消、自动战斗、Roguelite、塔防与视觉小说的独立游戏，玩家误入妖精王宫卷入永恒战争，玩法标签繁多、风格独特，但最好真的喜欢三消。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/88452&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;五一假期将至，用 iPhone 轻松搞定假日出行&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一部iPhone即可全程搞定旅行规划、导航、翻译与记录&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由少数派作者Vanilla撰写，以五一假期为切入点，系统介绍了如何用一部iPhone搞定旅行前、中、后的各类需求。文章涵盖地图导航（「我的指南」、离线地图）、行程规划（备忘录、无边记协作）、旅途翻译（相机翻译、实时对话翻译）、汇率换算（Spotlight/Siri/Safari/股票app）、设备安全（失窃设备保护、AirTag）、拍照摄影（ProRAW、ProRes、构图辅助）、照片编辑与手记记录，并推荐了Tripsy、Google Maps、钱迹等优质第三方应用，全面展示了iPhone作为旅行全能工具的强大潜力。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇介绍了旅行方式的变化，指出如今一部iPhone即可搞定出行中的大部分事务，作者将分享旅行前、中、后的iPhone使用技巧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在前期规划部分，作者详细介绍了iOS地图app的实用功能，包括「我的指南」、集成打车与票务服务、离线地图下载以及单指缩放等隐藏技巧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;行程规划方面，作者推荐使用备忘录app进行多平台内容聚合与协作，同时介绍了无边记app的超大画布功能，适合自由创作旅行攻略。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;旅途中的翻译交流部分，作者介绍了iOS系统自带翻译app的三大场景：文字翻译、相机实时翻译和对话翻译，以及网页翻译功能，非常适合出国旅行。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;汇率转换部分介绍了通过Spotlight、Siri、Safari和股票app四种方式快速进行货币换算，无需下载第三方应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;安全保护部分介绍了iPhone「失窃设备保护」功能和查找app的防丢失设置，包括AirPods Pro的遗落通知和AirTag的物品追踪功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;拍照摄影部分详细讲解了ProRAW、HEIF、ProRes等格式设置，以及网格线、水平仪、自动曝光锁定、Live Photo等拍摄技巧，帮助用户充分发挥iPhone相机性能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;旅程结束后，作者介绍了相册app的编辑与抠图功能、手记app的电子手帐功能，以及Tripsy、Wanderlog、Google Maps、迷雾世界、Swarm、钱迹等实用第三方应用推荐。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108451&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;关于中年和中年危机的一些思考&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 中年危机是人生半途低谷，理解并直面它才能突破年龄焦虑。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者以亲身感悟和身边故事为切入点，系统探讨了&amp;#039;中年&amp;#039;与&amp;#039;中年危机&amp;#039;的内涵。文章从年龄、生理、社会角色、心理状态四个维度解构了中年的定义，分析了人们对中年身份的不同态度及其背后的生物本能、社会压力等成因。作者追溯了&amp;#039;中年危机&amp;#039;概念的学术起源，借助&amp;#039;半途低谷&amp;#039;效应和海德格尔哲学加以诠释，主张谨慎使用该标签，针对具体问题寻求解决，并通过寻找同伴共鸣来消解年龄焦虑，文风兼具理性思考与个人温度。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以奶奶在养老院拒绝与其他老人一起过生日的小故事引入，表达了人对年龄标签的本能抗拒，并说明本文旨在理解中年困境与应对之道，而非给中年人贴标签。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章从年龄、生理状态、社会身份和心理状态四个维度探讨了&amp;#039;中年&amp;#039;的定义，指出中年是一个模糊的复合概念，不能简单以某个年龄数字一刀切，每个人进入中年的节点因人而异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章分析了人们对待&amp;#039;中年人&amp;#039;身份的四种典型态度：明确拒绝、有意回避、调侃自嘲、坦然接受，并从生物本能、自我认知、社会观念和现实考量四个角度解释了为何许多人抗拒中年标签。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章追溯了&amp;#039;中年危机&amp;#039;这一概念的来源——1957年精神分析学家埃里奥特·杰奎斯提出，后在欧美流行并于1994年进入中文语境——并借用丹尼尔·平克的&amp;#039;半途低谷&amp;#039;理论，将中年危机解释为人生进程中的普遍规律性低谷。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出应对中年危机的三条建议：谨慎使用&amp;#039;中年危机&amp;#039;这一笼统标签、针对具体问题寻找具体解决路径；真心接纳中年困境的普遍性、以海德格尔的哲学视角直面现实；以及通过阅读、与长者交流、和朋友倾诉等方式寻找同伴共鸣。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在结尾表示，写作本文的核心目的不是说教，而是分享自身处境、引发共鸣，让读者感受到面对中年困境时并不孤单。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109235&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Claude接入八大创意软件生态等多条科技资讯速览&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为科技资讯早报，汇集多条行业动态。核心内容包括：Anthropic升级Claude并接入Adobe、Blender等八大创意软件生态；Framework推出RTX 5070笔记本12GB显卡模块；FILCO键盘生产方接手品牌运营；蚂蚁集团开源百灵大模型Ling-2.6-flash；以及2026年中国网络文明大会即将发布AI伦理安全指引。文章以简讯形式呈现，涵盖AI应用、硬件、键盘外设、开源大模型及政策法规等多个科技领域的最新进展。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Anthropic宣布升级Claude，新增多款创意软件连接器，全面接入Adobe、Blender等八大创意软件生态，将AI能力深度整合至专业创意工作流。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Claude深度接入Adobe生态，支持Photoshop、Premiere、Express等50多项核心工具，Affinity连接器支持自动化重复任务并生成自定义功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对3D建模，Autodesk Fusion用户可通过对话让AI创建修改复杂工业模型，SketchUp用户可由Claude生成基础3D模型后再精细打磨。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开源3D软件Blender集成Python API，开发者可让Claude分析调试场景、构建自定义脚本；视觉艺术家可用自然语言实时控制Resolume Arena和Wire。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在音频领域，Ableton用户可查询官方文档，Splice用户可检索免版税采样库；Anthropic表示Claude可充当智能导师并接管繁琐重复劳动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Framework推出RTX 5070笔记本12GB版显卡模块，与8GB版核心规格一致，兼容Framework Laptop 16全系列，预计2026年6月发货。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;FILCO键盘生产方非尔特有限公司宣布接手品牌运营，承诺持续提供维修与销售服务；中国大陆代理商表示当前销售与售后未受影响。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;蚂蚁集团百灵大模型开源Ling-2.6-flash，总参数104B、激活参数7.4B，支持BF16/FP8/INT4多版本，已在Hugging Face和ModelScope上线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年中国网络文明大会将于5月在南宁举办，设AI赋能网络文明建设分论坛，届时将发布《人工智能应用伦理安全指引（1.0版）》。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - April 29, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2183,134 +2386,6 @@ To produce a proper summary, the actual article body or video description would 
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;从心理学角度看，游戏具有沙盘疗愈功能；作者通过游戏将幼时失去的玩具、童年幻想角色具象化，体验到与过去创伤和解的感受。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏存在明显不足：剧本库匮乏导致大量重复内容、部分动画冗长不可跳过、小游戏无聊且依赖运气、捏人无照片辅助功能、角色无法通过二维码分享，这些问题如同鞋中碎石破坏整体体验。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;事后追记：通关后发现游戏完成度严重不足，三天后几乎无新剧情，音乐厅等前代要素未能追加，整体像赶工的半成品，评分从80分下修至75分，期待DLC补充内容。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - April 19, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-04-19</id>
-    <updated>2026-04-19T20:11:54.319Z</updated>
-    <published>2026-04-19T20:11:54.319Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>5 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 19, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;119.45205479452055&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    29.9%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;109&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;256&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;15&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████░░░░░░░░░░░░░░░░░░░░░ 29.9%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;5&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22533&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sunday session&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博客简短日志仅含时间地点与互动提示&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇来自博客adactio的简短日志条目，记录于2026年4月19日星期日下午6:03，地理坐标约为51°N、0°E（伦敦附近）。内容极为简短，仅包含时间、地点等元数据及邀请读者回应的互动提示，并无实质性文章内容。该条目不含任何正式论点、叙述或信息，属于典型的个人博客占位或签到式发布。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22532&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Finn Mac Cool by Morgan Llywelyn&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 写实风格重述芬恩神话，魅力人物善用叙事掌控权力&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者对Morgan Llywelyn 1994年小说《Finn Mac Cool》的书评。作者在读完《The Morrigan》后寻求更多爱尔兰神话改编作品，发现此书以写实而非魔幻的笔触重述Finn Mac Cool的传奇——书中角色信仰魔法，但故事本身不含超自然力量，Finn的威名源于他善于编织和传播夸大的英雄故事。小说运用框架叙事，融入马基雅维利式政治博弈，人物塑造复杂真实，无明显善恶之分。作者认为偶有史料堆砌之嫌，但整体评价正面，令人欲罢不能。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者读完《The Morrigan》后渴望更多爱尔兰神话改编作品，找到了Morgan Llywelyn于1994年创作的小说《Finn Mac Cool》，并提到不同改编作品在超自然元素处理上的差异。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《Finn Mac Cool》与充满魔法的《The Morrigan》不同，采用较为写实的手法——书中角色相信魔法，但故事本身并无超自然力量，Finn的&amp;quot;超能力&amp;quot;在于他善于讲述和相信涉及超自然的夸大传说。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出小说以框架叙事呈现Finn的英雄事迹，政治描写颇具马基雅维利色彩，人物无绝对好坏之分；虽然作者的史料研究有时显得过于外露（如对Brehon法律的冗长解释），但整体而言是一部引人入胜、令人沉浸的改编作品。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reprojecting Dual Fisheye Videos to Equirectangular (LG 360)&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用ffmpeg和exiftool将双鱼眼视频转为等距柱状投影格式&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了如何将LG 360 Camera拍摄的双鱼眼（Dual Fisheye）格式MP4视频转换为等距柱状投影（Equirectangular）格式，以便在VLC和YouTube等平台正常进行球形播放。作者通过实践摸索，使用ffmpeg的v360滤镜，并将水平和垂直视场角（ih_fov/iv_fov）调整为189°以减少镜头重叠。由于ffmpeg不能写入球形元数据，还需借助exiftool补充XMP-GSpherical标签。文章最终给出了包含视频转码与元数据写入的完整命令行方案。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者仍在使用老旧的LG 360 Camera，其录制的视频为双鱼眼（Dual Fisheye）格式，而VLC和YouTube只支持等距柱状投影（Equirectangular）格式的球形播放，因此需要进行格式转换。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了使用ffmpeg进行转换的基本命令，核心是v360滤镜，并详细解释了视场角参数ih_fov和iv_fov设置为189°的原因——经过反复试验发现180°会导致画面重叠，189°能较好地保留图像完整性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出双鱼眼图像四个角会有截断现象，同时说明ffmpeg无法写入球形视频所需的元数据，需要额外使用exiftool工具添加XMP-GSpherical相关标签。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者给出了完整的转换流程：使用ffmpeg结合libx265编码和v360滤镜完成视频重投影，保留原始AAC 5.1音频，再用exiftool写入球形元数据，最终生成可在VLC或VR设备中正常播放的等距柱状投影视频。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 idealclover &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://idealclover.top/archives/648/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;你的数据非常重要：个人知识库管理实践&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用Obsidian构建自动化个人数字资产库的完整实践&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者详细分享了自己使用Obsidian构建个人数字资产库的具体实践。核心理念是区分事实、观点与输出，并通过自动化工具将微信读书、豆瓣、飞书、Memos等多平台内容无缝汇聚至Obsidian，降低记录门槛。库结构分为四大板块：自动聚合的日记仪表盘、基于PARA框架的输入管理、承载个人认知的输出积累，以及模板与备份等基础设施。作者强调，在AI时代，带有鲜明个人印记的深度思考内容才是最有价值的数字资产，也是未来训练个人AI助手的核心训练素材。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了自己从2020年推荐Obsidian双向链接到2026年提出「积累数字资产」理念的转变，指出在AI可轻松生成通用内容的时代，带有个人深度思考印记的内容才是真正有价值的数字资产。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出整理原则：区分事实、观点与输出三个维度，分别采用自动化采集、反思写作和体系化积累的方式管理；同时强调通过插件和脚本将多平台内容自动汇聚到Obsidian，减少手动搬运。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细介绍了Obsidian库的四大板块：日记（通过多插件自动聚合天气、打卡、随想、阅读、项目进度、时间统计等信息）、PARA框架（按项目、领域、资源、归档四维度管理输入内容）、输出（存档博客、私有经验、聊天记录等个人认知结晶）、其他（模板、附件管理、多设备同步与云端备份等基础设施）。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在后记中说明，这套结构经过一两年反复调整才形成，强调结构服务于使用而非反之，并汇总了文中涉及的所有Obsidian插件和外部工具。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108768&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;AI 输出中的 ** 是怎么来的：谈中文 Markdown 强调标记的渲染问题&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CommonMark规范不兼容中文导致Markdown强调标记失效&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深入分析了Markdown强调标记（如**）在中文环境下无法正常渲染的根本原因。作者从Markdown的历史沿革讲起，指出CommonMark规范为严谨化强调语法而引入的「左侧贴合」与「右侧贴合」规则，完全基于西方以空格分词的书写习惯设计，忽视了中文无词间空格的特性，导致紧邻汉字或中文标点的强调标记失效。文章兼具技术深度与实用性，不仅解释了问题成因，还提供了HTML标签、添加空格、零宽空格及CJK专用插件等多种变通方案，并以此为契机反思中文排版中过度使用粗体的习惯。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在与AI对话时，用户常见Markdown强调标记（如**）未被渲染为粗体而原样显示的问题，这是因为AI模型以Markdown格式输出内容，再由客户端渲染，而中文环境下某些强调标记无法正常生效。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;原版Markdown由John Gruber于2004年发布，使用简单正则表达式处理强调标记，规则粗糙但对中文兼容性尚可；此后出现了CommonMark规范，被众多主流Markdown库（如remark、markdown-it）采用，成为事实标准。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;CommonMark为使强调标记更严谨，引入了「左侧贴合」和「右侧贴合」的概念，要求强调标记必须紧贴文字内容，但该规则主要基于空格分词的西方书写系统设计，未考虑中文无空格分词的特点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在中文场景下，强调标记前后紧接汉字或中文标点时，往往无法满足CommonMark的贴合条件，导致**等标记原样输出而不被渲染为加粗格式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;早在2017年就有CJK用户向CommonMark社区反馈此问题并提交合并请求，但因维护者优先保证兼容性而未被采纳，短期内难以从上游修复。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对此问题，文章提出了多种变通方法：使用HTML标签、在标记外侧添加普通空格、在标记内侧插入零宽空格（U+200B），以及使用markdown-cjk-friendly等针对CJK优化的插件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;部分AI服务（如Kimi、豆包、Perplexity）已能正确渲染中文强调标记；文章最后建议写作者反思是否真的需要依赖粗体强调，提倡通过句式和措辞来指示重点。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
