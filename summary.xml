@@ -4,8 +4,118 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-05-03T20:16:42.586Z</updated>
+  <updated>2026-05-04T20:33:06.272Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - May 4, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-05-04</id>
+    <updated>2026-05-04T20:33:06.272Z</updated>
+    <published>2026-05-04T20:33:06.272Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>4 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 4, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;135.8904109589041&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    34.0%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;124&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;241&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;17&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████░░░░░░░░░░░░░░░░░░░░ 34.0%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/rss-club-where-are-you-from/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[RSS Club] Where are you from?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博客添加隐私优先的本地GeoIP访客统计&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇博客文章介绍了作者为自己的博客添加了本地托管、隐私优先的统计功能。通过使用离线GeoIP服务，作者可以大致了解访客的地理位置来源。文章内容仅对RSS订阅者开放，完整内容未完全展示，但核心主题围绕隐私保护与网站流量统计的结合展开。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/05/03/primitive-sets-and-von-mangoldt-chains-erdos-problem-1196-and-beyond/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Primitive sets and von Mangoldt chains: Erdős Problem #1196 and beyond&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Markov链新方法解决多个原始集合经典猜想&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由多位作者合作撰写，系统整理了围绕原始集合（primitive sets）的Erdős问题#1196及相关猜想的最新突破。核心创新是引入整除偏序集上的von Mangoldt下行Markov链方法，该方法首先由自主AI查询发现，通过链/反链对偶性将原始集合的上界问题转化为链上测度的构造问题。相较于文献中隐含使用的Mertens链，von Mangoldt链能有效避免额外的对数损失。借助这一统一框架，作者不仅解决了Erdős问题#1196，还证明了多个此前悬而未决的猜想，并给出了若干已知结果的更简洁证明，体现了人机协作在数学研究中的新模式。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;多位作者联合上传了一篇关于原始集合与von Mangoldt链的arXiv论文，旨在整理和记录围绕Erdős、Sárközy和Szemerédi提出的原始集合问题（Erdős问题#1196）的最新进展。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该问题要求证明对于任意原始集合（其中无元素整除另一元素），某一求和式趋于零，此问题此前已有部分结果，而其首次完整解决来自一次自主AI查询，所用技术基于整除偏序集中的Markov链。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;论文系统发展了Markov链方法，并证明了若干关于原始集合的进一步猜想，包括Erdős原始集合猜想（#164）、奇数Banks–Martin定理、Ahlswede–Khachatrian–Sárközy定理及Erdős–Sárközy–Szemerédi定理（#1217）等，部分结果为首次解决的公开猜想。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了链/反链对偶性的抽象框架：原始集合可视为整除偏序集中的反链，通过在链空间上构造测度，将反链上的上界问题转化为存在性对偶问题，并利用Stanley链多面体和线性规划对偶性给出严格证明。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章引入下行Markov链的定义，并以幂集上的LYM不等式为例示范了该方法的应用，同时介绍了上行Markov链及伴随构造，以及利用流网络重新表述Markov链论证的方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细比较了下行Mertens链与下行von Mangoldt链两种自然的Markov链：Mertens链在以往文献中隐含使用，但其不变测度（Mertens权重）与目标权重不完全匹配；而von Mangoldt链（其关键创新由AI辅助证明发现）则能更好地处理原始集合的权重，从而消除之前方法中的额外损失，成功解决了相关猜想。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-04T05:42Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-04T05:42Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The browser Prompt API will erode user consent, strain hardware, funnel users to cloud subscriptions, and fragment standards through vendor self-interest.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author mounts a sharp critique of the browser-based Prompt API, arguing it will follow a predictable and damaging lifecycle: opaque permission dialogs will erode informed user consent, while underperforming on-device models will strain hardware and frustrate users. Browser vendors are then expected to exploit that poor local experience as a funnel toward proprietary cloud API subscriptions, effectively burying local model controls and locking users into vendor-controlled infrastructure. The author further contends that API authors are primarily career-motivated, leading to poorly maintained or abandoned standards post-ship. Finally, Apple is predicted to enter late with an incompatible implementation, wrapped in misleading privacy framing and false claims of invention, compounding fragmentation rather than resolving it.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Prompt API Skepticism:&lt;/strong&gt; The author expresses strong skepticism toward the browser-based Prompt API, framing its return as unwelcome and likely to follow a predictable failure pattern.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Confusing User Permissions:&lt;/strong&gt; Websites will present opaque, jargon-filled permission prompts that users will blindly accept, undermining informed consent and security.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Poor Local Model Performance:&lt;/strong&gt; On-device AI models are expected to deliver subpar results, including hardware strain, eroding user trust in local execution.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Funneling to Remote APIs:&lt;/strong&gt; Browser vendors will exploit poor local model experiences to nudge confused users toward proprietary cloud-based API subscriptions, defeating the purpose of local AI.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Local Models Abandoned:&lt;/strong&gt; Once users are redirected to remote services, local model settings will be buried and effectively ignored, locking users into vendor-controlled infrastructure.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Incentive Misalignment:&lt;/strong&gt; API authors are motivated by career advancement rather than long-term quality, leading to abandoned or poorly maintained standards after initial shipping.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apple&amp;#039;s Privacy Theater:&lt;/strong&gt; The author predicts Apple will eventually ship their own incompatible version of the API years later, cloaked in misleading privacy rhetoric and false claims of invention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109277&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;iPad 用户首次体验 Android 平板：vivo Pad6 Pro&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iPad用户首次体验vivo Pad6 Pro安卓旗舰平板&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派「新玩意」栏目对vivo Pad6 Pro的上手体验介绍。vivo Pad6 Pro是vivo 2025年春季推出的旗舰平板，搭载4K超大原彩屏、第五代骁龙8至尊版芯片，并预装PC级WPS和专业版剪映。文章以iPad用户的视角切入，探讨Android平板与iPad相比的差异与亮点，主要内容以视频形式呈现，读者可通过Bilibili、小红书、抖音等多个平台观看高清版本。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - May 3, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1841,265 +1951,6 @@ What can be noted contextually: the post published Chapter 4, Page 40 of the web
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Google在Cloud Next 2026大会发布TPU 8t和TPU 8i两款AI芯片，分别针对大规模训练和低延迟推理场景优化，整体能效较上一代TPU Ironwood提升约一倍。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;腾讯云披露开源PyPI推理框架Xinference存在供应链投毒风险，受影响版本可能窃取云凭证、API密钥等敏感数据，建议用户立即卸载恶意版本并完成凭证轮换及安全审计。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;X平台为iOS Premium用户推出基于Grok的个性化时间线功能，同时宣布将于5月6日关闭Communities功能；铠侠推出EG7系列QLC固态硬盘；Google确认与Apple签署多年期云服务合作协议；Rambus发布LPDDR SOCAMM2芯片组；Apple据报道正开发AI AirPods、智能眼镜等六大新品类。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - April 23, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-04-23</id>
-    <updated>2026-04-23T20:40:39.131Z</updated>
-    <published>2026-04-23T20:40:39.131Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>14 articles from 7 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 23, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;123.83561643835617&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    31.0%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;113&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;252&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;16&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████░░░░░░░░░░░░░░░░░░░░░ 31.0%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;14&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://mattlemay.beehiiv.com/p/fomonetization&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;It’s Not AI. It’s FOMOnetization.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI热潮中的恐惧营销本质是FOMOnetization。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者Matt LeMay以Allbirds虚假&amp;#039;AI转型&amp;#039;引发股价暴涨为切入点，创造了&amp;#039;FOMOnetization&amp;#039;这一新词，指将FOMO（对错失机会的恐惧）系统性地转化为商业利润的行为。作者指出，在AI浪潮下，这种模式从财富与失业两端同时制造焦虑，大量LinkedIn内容、在线课程和商业平台都在利用人们的不安全感收割流量与金钱。文章以幽默而犀利的笔触列出识别FOMOnetization的几类特征，提醒读者保持清醒，认识到利用恐惧牟利的本质与卖精油骗局并无二致。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;一家已倒闭的丑鞋公司Allbirds宣布&amp;#039;转型AI&amp;#039;，股价随即暴涨600%，作者以此引出&amp;#039;FOMOnetization&amp;#039;概念——即将对错失机会的恐惧变现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;FOMO（对错失的恐惧）本是一种情绪，但在AI时代已成为成熟的商业模式，从财富幻想和失业恐慌两个方向同时制造焦虑，驱使人们消费课程和平台。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者列举了LinkedIn上FOMOnetization的常见手法：制造紧迫感的煽动性语言、缺乏实质商业模式的故事、以及推销者恰好与其利益相符的未来愿景，并指出利用不安全感牟利古已有之。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22540&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Summary punishment&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Google的AI摘要损害网络生态，但也折射出其自身造就的困境。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者对Google将搜索结果转变为AI直接摘要的做法进行了批判性分析。作者承认Google破坏了与网站主的流量契约，但同时指出许多被索引的网站本身体验恶劣，而这恰恰是Google长期推动行为广告模式的结果。文章以Google AMP的失败为历史镜鉴，揭示Google惯于用专有方案解决真实问题却适得其反的模式。作者最后提出一个颇具创意的设想：将AI摘要作为惩罚体验差网站、奖励优质网站的机制，以推动Web生态良性发展，但对此能否实现持悲观态度。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者引用Matthias的观点，指出Google搜索已从引导用户访问网站转变为直接提供AI摘要，打破了与网站主的原有契约。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出，尽管Google的做法值得批评，但现实中许多被Google收录的网站本身体验极差，充满弹窗、追踪请求和广告，而这些问题的根源恰恰是Google推动的行为广告模式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以Google AMP为例，说明Google有针对真实问题提出糟糕解决方案的历史，AMP强制要求将内容托管于Google服务器，最终以失败告终。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为Google正在重蹈覆辙，AI摘要功能使其不再向托管广告的网站导流，显示出Google内部利益相互冲突、自相矛盾的困境。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出一个理想化建议：Google应将AI摘要作为筛选机制，对体验差的网站展示AI摘要截流流量，对优质网站则正常导流，以此倒逼SEO行业回归以用户为本的理念，但承认这不太可能实现。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://piccalil.li/blog/the-end-of-responsive-images/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The end of responsive images - Piccalilli&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A new web platform feature will make the complex, developer-unfriendly `srcset`/`sizes` responsive image system largely obsolete after fourteen years.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Mat Marquis, who chaired the Responsive Images Community Group, reflects on the decade-plus effort to standardize responsive image markup, accepting personal responsibility for the developer-experience pain points that resulted — particularly around `srcset` and `sizes`. While the `picture` element succeeded as a prescriptive, readable syntax giving developers explicit control over source selection and modern format adoption (WebP, AVIF) without JavaScript, the `srcset`/`sizes` approach used a deliberately vague descriptive model that cedes final source selection to the browser, making it nearly impossible to write or maintain by hand. This opacity forced developers to rely on external tooling or simply give up and serve oversized images, imposing real bandwidth costs on end users globally despite the system&amp;#039;s technical effectiveness. After fourteen years, a newly standardized web platform feature promises to make the `srcset`/`sizes` workflow largely obsolete, delivering significant, automatic image performance improvements with minimal markup overhead baked permanently into the platform.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;RICG Origins Story:&lt;/strong&gt; The author, Mat Marquis, was Chair of the Responsive Images Community Group (RICG), a grassroots web standards body that fought to bring responsive image markup to the browser platform. Through years of community organizing, draft specs, polyfills, CMS integrations, and advocacy, they successfully standardized responsive images alongside browser vendors.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Confession of Complicity:&lt;/strong&gt; Marquis admits to being the primary champion of the responsive image syntax while privately disliking key parts of it the entire time. Every frustration developers have experienced — confusing source selection, third-party parsing libraries, broken sizes workflows — he accepts personal responsibility for.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Performance Problem:&lt;/strong&gt; Responsive images were born from a genuine, critical need: without them, every user receives the largest possible image source regardless of their device or connection, wasting massive amounts of bandwidth. The solutions delivered were effective and have saved unfathomable amounts of data transfer globally.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Praise for picture Element:&lt;/strong&gt; The author genuinely likes the picture element, which provides a prescriptive, readable syntax giving developers fine-grained control over source selection conditions, format fallbacks, and media queries. It enabled responsible adoption of modern image formats like WebP and AVIF without any JavaScript.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;srcset and sizes Flaws:&lt;/strong&gt; Unlike picture, srcset and sizes use a descriptive syntax where the developer provides hints and the browser decides — offering zero developer control over the final source selection. An intentionally vague &amp;#039;implementation-defined&amp;#039; step in the HTML spec means browsers are essentially allowed to do whatever they want.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Developer Ergonomics Failures:&lt;/strong&gt; The srcset/sizes syntax was never designed to be human-readable or easily maintainable, forcing developers to rely on bookmarklets, third-party libraries, or simply give up and serve oversized images. These ergonomic failures have had real performance costs borne directly by end users.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;A New Solution Emerges:&lt;/strong&gt; After fourteen years, a new addition to how images work on the web promises to make the painful srcset/sizes workflow largely obsolete, requiring only a handful of characters while delivering massive, seamless performance improvements for users permanently baked into the web platform.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://github.com/whatwg/html/issues/10378&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;HTML Video Poster Image: Enable Responsive Images and ALT Text for Poster by allowing a child IMG Element (with an optional Picture Element wrapper) to Control the Video Poster Image · Issue #10378 · whatwg/html&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 提案为HTML视频poster支持响应式图像与无障碍描述&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该GitHub Issue提出了HTML video元素的poster属性存在两大局限：无法实现响应式图像选择，也缺乏无障碍描述支持。为此，提案探讨了两种解决方案：一是允许img/picture元素作为video子元素，借助currentSrc驱动poster并支持alt文本及fetchpriority等高级特性；二是为video和source元素新增postersrcset、postersizes、posteralt属性，实现类srcset风格的海报切换。两种方案均能满足核心需求，但各有权衡，目前仍在社区讨论和实现方兴趣征集阶段。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;HTML的video元素目前仅支持单一poster属性，无法根据浏览条件提供适配的海报图像尺寸，且poster帧缺乏无障碍描述能力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一种方案是允许img元素（及其父级picture元素）作为video的子元素，通过img的currentSrc属性控制poster的值，支持响应式图像选择和alt文本，并可利用fetchpriority、crossorigin等现有img特性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二种方案是为video及其source子元素扩展新属性postersrcset、postersizes和posteralt，以实现poster的响应式图像切换和无障碍描述，source元素上的属性可覆盖父video元素的设置。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;两种方案各有优劣：方案一利用现有HTML元素的可组合性，灵活性更强；方案二在艺术指导场景下更简洁，但需为两个HTML元素新增多个属性，增加了IDL接口的复杂度。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/480&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 480: The TypeScript 7.0 prophecy is fulfilled&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 TypeScript 7.0用Go重写编译器，构建速度提升10倍&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一期技术新闻简报，核心内容是TypeScript 7.0 beta的发布。TypeScript团队耗时一年将编译器从TypeScript/JavaScript重写为Go语言，实现了约10倍的构建速度提升，同时保持类型检查逻辑不变，无需用户迁移。新版本移除了多项废弃配置，重构了JS支持，并计划在7.1版本提供编程式API。Bloomberg、Vercel等公司已投入生产使用。此外，文章还简要介绍了其他技术资讯和一个关于JavaScript this绑定的代码Bug。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;TypeScript长达13年来一直使用TypeScript编写的编译器，该编译器编译为JavaScript并在Node上运行，虽然使其成为最流行的编程语言，但也导致大型代码库构建时间过长。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;TypeScript团队花费一年时间将整个TypeScript代码库移植到Go语言，发布了TypeScript 7.0 beta，新版本比TypeScript 6.0快约10倍，同时保持所有类型检查逻辑不变，用户无需担心新错误或大规模迁移。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;TypeScript 7.0带来了多项重要变化：通过新包名安装、支持并行解析/类型检查/输出、移除了部分已废弃配置项（如target: es5、AMD/UMD/SystemJS等）、重构了JS支持，并计划在7.1版本提供编程式API；Bloomberg、Vercel、VoidZero等公司已在生产环境中使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还涵盖了其他技术动态，包括一个Roblox作弊工具导致Vercel平台宕机的事件、WSL9x在Windows 9x内核中运行现代Linux内核、Rspack 2.0发布、以及一个关于JavaScript中this上下文绑定的代码Bug分析。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sneaky spam in conversational replies to blog posts&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 新型AI垃圾评论伪装成对话以绕过反垃圾机制&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者描述了一种新型博客垃圾评论攻击手法：垃圾发送者伪造三条互相回复的评论，表面上讨论博文内容，实则在中间评论中隐藏赌博网站链接。这些评论来自菲律宾同一IP地址，间隔精确为3分钟，内容疑似由AI生成，语义空洞。作者分析了自己被骗的原因——习惯于单条垃圾评论的模式，导致对话形式的垃圾评论更具迷惑性。最后，作者得出结论：反垃圾评论是社会问题而非技术问题，设置过多障碍只会打击真实用户，而利益驱动的垃圾发送者总会找到绕过技术屏障的方法。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表示其博客吸引了大量真实评论，但同时也遭受垃圾评论的困扰，虽然使用了Antispam Bee插件每天自动过滤数百条垃圾评论，仍有部分漏网之鱼。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者描述了一种新型垃圾评论攻击方式：三条评论伪装成互相回复的对话，表面上看似正常地讨论博文内容，初看难以分辨真伪。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;仔细检查后发现这些评论存在多个可疑迹象：来自菲律宾同一IP地址、每隔3分钟发布一条、第二条评论中隐藏了赌博网站链接，且内容缺乏实质语义，疑似AI生成的文字。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结指出，将垃圾内容嵌入对话中间的策略使其更难被发现，并强调技术手段无法根本解决社会性问题，过多障碍只会阻碍真实评论而无法遏制有利可图的垃圾评论行为。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Day We Met &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/814646943854854145&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 4, Page 38&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 此内容为社交平台点赞转发记录，无实质文章内容。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;所提供的内容并非一篇文章，而是一段来自社交平台（疑似Tumblr）的互动记录，显示用户对名为《thedaywemetcomic》的漫画第4章第38页的点赞、转发等互动行为。内容仅由一系列用户名及其操作（liked/reblogged）组成，不含任何实质性文字叙述或论点，无法进行有意义的内容摘要。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-04-23T06:04Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-04-23T06:04Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用ACF和PHP模板替代Gutenberg是更稳健的WordPress开发实践&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一位开发者对WordPress定制开发实践的随笔式总结。作者建议禁用Automattic近年新增功能、使用Classic Editor与ACF插件进行减负，并通过隐藏编辑器、结合ACF Flexible Content与CSS subgrid构建模块化页面，以PHP模板替代Gutenberg，获得客户认可。对于WordPress分叉版本，作者因安全性和兼容性顾虑而不予推荐。文章最后指出，尽管WordPress并非首选，但相较于流行的JavaScript SaaS方案仍更为稳健可靠。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了在WordPress中进行定制开发的实际经验，建议禁用Automattic近五年添加的功能，使用Classic Editor和ACF插件来减少臃肿。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的工作方式是隐藏编辑器，利用ACF的灵活内容字段和CSS subgrid构建基于块的页面，每个块用PHP模板实现，客户反馈其编辑体验远优于Gutenberg。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对WordPress分叉版本持保守态度，认为向客户推荐分叉版存在安全性、插件兼容性和长期维护等不确定性风险。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表示使用WordPress并非个人选择，但认为它依然比当前流行的JavaScript SaaS方案更可靠，并推荐了Amber Weinberg关于ACF灵活内容的相关文章。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/nc94986136123&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;「火×火＝炎」じゃないほうの話&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 ゲーム制作の要はチームの連携とコミュニケーションにある&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツー取締役の西川裕貴氏が、2026年の入社式で行った挨拶の前半内容をブログで紹介した。今年は三拠点で50名以上の新入社員を迎え、西川氏はゲーム制作における「コミュニケーション」の重要性を語った。ピンチの際に他責思考に陥るのではなく、仲間と協力して解決策を模索することが大切であり、報告・連絡・相談こそがゲーム制作の本質的なコミュニケーションだと強調した。また同社は「知識×技術×マインド」を実力と定義しており、会社のマインドを共有できる人材を重視している。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー取締役の西川裕貴氏が、入社式の挨拶の前半部分について紹介するブログを公開した。今年は福岡・東京・大阪の三拠点で50名以上の新入社員を迎えた。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ゲーム制作はピンチの連続であり、そんな時に「できない理由」を並べたり誰かのせいにしたりするのではなく、仲間と連携して「どうすればできるか」を一緒に考え、報告・連絡・相談を通じたチームのコミュニケーションを大切にすべきだと説いた。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーは「知識×技術×マインド」の三位一体を実力と定義する実力主義の会社であり、西川氏は今後のランチや飲み会などで新入社員にこのマインドが根付いているかを観察していく意向を示した。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/recipes-for-spring&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一口春鲜，半是江河半是海&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 春季时令海鲜河鲜十余道简单家常菜做法分享&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇春季时令海鲜与河鲜的家常菜谱分享。作者以「四月尝鲜」为引，依次介绍了鲫鱼、鼓虾、河虾、白虾、蛤蜊等多种食材共计十余道菜肴的详细做法。烹饪理念以保留食材本味为核心，多采用清蒸、盐水、葱油、椒盐等简单方式，调味清淡。文章穿插个人饮食记忆与食材选购建议，风格亲切自然，兼顾实用性与生活趣味，适合家庭日常烹饪参考。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;四月是尝鲜好时节，海鲜与河鲜纷纷上市，作者自称「海鲜小杀手」，计划分享几道以保留食材原味为主的简单料理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;清蒸小鲫鱼做法：鲫鱼去鳞去内脏划刀，撒盐铺姜丝清蒸12分钟，最后淋上滚烫猪油即成。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆初中时期餐桌上每晚必有鲫鱼，春季菜市场会出现小土鲫鱼，因食材新鲜只需薄盐清蒸便已鲜美。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;椒盐鼓虾做法：热锅下油爆香姜丝，加入鼓虾爆炒至变红，沿锅边淋料酒和生抽，关火撒椒盐粉。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;鼓虾（嘎巴虾）肉质鲜甜Q弹，靠海地区宜白灼，内陆地区适合做椒盐口味。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;螺蛳炒河虾做法：用五花肉煸出荤油，炒香姜蒜后加螺蛳，调味加水焖煮3分钟，最后加河虾炒至变色。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;葱油海瓜子河虾做法：分别汆烫海瓜子和河虾后摆盘，淋蒸鱼豉油，再浇上用猪油煸出的葱姜油即可。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;盐水白虾做法极简，盐水加姜丝料酒煮开后下白虾焖3分钟，足够新鲜的虾白灼最为鲜美。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;芦笋煮白虾是盐水白虾的升级版，先煮芦笋再加白虾，食材可灵活替换，搭配多样。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;萝卜丝炒白虾：白萝卜丝先焯水去涩，再与白虾同炒，加生抽蚝油调味，两者鲜甜相得益彰。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;蚕豆韭菜炒白虾：猪油炒蚕豆加水煮软，加白虾变色后放韭菜和盐翻炒，春季时令食材搭配河鲜，快手美味。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;无水焖蛤蜊：将蛤蜊与姜丝置入锅中，盖盖大火焖5分钟，利用蛤蜊自身水分蒸熟，保留原汁鲜味。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;蛤蜊蒸蛋羹：蛤蜊半熟后与打散的鸡蛋液同蒸15分钟，盖锡纸防气泡，出锅淋生抽和芝麻香油。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;青豆白蛤蒸肉饼：以咸鸭蛋调味猪肉末做成肉饼，底铺青豆，上插白蛤，蒸15分钟即可。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109007&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 239｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派编辑部分享五款新奇产品的真实使用体验&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派编辑部「新玩意」栏目第239期，由五位编辑分别分享近期购入的产品使用体验。内容涵盖三丽鸥乌萨奇×布丁狗玩偶包、宠有引力倾倒式饮水机2S、DJI Pocket 4一体式云台摄像机、特洛克朋克电力红白机插座，以及Aqara人在传感器FP310。各编辑以第一人称真实记录产品优缺点，风格轻松务实，既有情怀向消费，也有智能家居与影像设备的深度评测，整体呈现出编辑部多元化的消费兴趣与专业视角。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派编辑部「新玩意」栏目介绍编辑们最近购买和使用的新奇产品，内容真实，商务内容会标注说明。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑Lotta分享了乌萨奇×布丁狗玩偶包，该包在香港Misutabai官网购买，做工细节优于仿品，但尺寸较小，需塞满才能保持好看形状。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑路中南更换了宠物饮水机，新款「宠有引力倾倒式饮水机2S」采用分次换水原理，带加热功能和电池续航，但网关设计和夜间噪音略有不足。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑Microhoo评测了DJI Pocket 4，认为其相比前代在像素、慢动作（4K/240fps）、存储和扩展接口等方面均有显著提升，从专业工具变得更加大众适用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑Clyde购入了特洛克朋克电力红白机插座，外观复古有情怀，但显示屏功能有限，插口数量不足，且存在重心不稳的问题，建议将期望聚焦于插座本身。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑waychane体验了Aqara人在传感器FP310，该传感器外观小巧、支持磁吸安装、集成毫米波雷达及温湿度光照传感器，适合厨房卫生间等小空间使用。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108971&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Notion 和 Obsidian 应该怎么选？聊聊我的思考和建议&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 项目执行选Notion，长期思考选Obsidian&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深度对比了Notion与Obsidian两款笔记工具的核心差异。Notion以结构化数据库为基础，擅长将信息快速转化为可执行的工作流，适合项目型工作者；Obsidian基于Markdown文件，允许想法在分类前自由存在，适合长期研究与创作者。作者进一步引入AI视角，指出Notion的AI更能精准执行，Obsidian的AI更能发散共鸣。在AI快速迭代的背景下，作者建议聚焦1年内的实际需求做选择，核心问题是：你希望知识优先成为行动系统，还是保持为可被重新解释的思想文本？&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Notion的强大结构化能力既是优势也是约束，它迫使用户为每条信息找到明确的位置和关系，适合快速将目标转化为行动、搭建CRM或项目看板等结构化系统。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Obsidian允许笔记先于分类存在，以低成本的双向链接和模糊归档支持长期阅读与概念孵化，但基于Markdown的系统一旦引入复杂插件便会陷入维护漩涡。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI的加入将抹平两款产品在表面功能上的差异，但Notion因信息结构清晰更利于Agent精确执行，Obsidian则更擅长发散思考与意外共鸣，作者对笔记长期价值持悲观态度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在AI尚未让信息架构完全多余的当下，选择哪款工具取决于近1年内的需求：Notion适合需要快速进入工作流的项目型工作者，Obsidian适合需要长期积累与慢慢孵化想法的创作者。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;两类典型用户被具体描绘：同时推进多项目的管理者适合Notion，进行长期研究写作的创作者适合Obsidian，核心分歧在于是否希望知识优先成为行动系统还是保持为可重新解释的思想文本。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108385&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1｜秒看视频参数，我做了个免费的 Mac 小工具&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 macOS右键快速查看视频帧率和详细信息的免费开源小工具&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了一款专为macOS设计的免费开源小工具，旨在解决用户快速查看视频帧率和分辨率的需求痛点。作者因macOS自带「显示简介」不显示帧率、其他工具如VLC和MediaInfo操作繁琐，遂自行开发此工具。通过Finder右键「快速操作」即可一键弹出视频的分辨率、帧率、编码格式、色彩信息、时长和文件大小。工具基于AVFoundation框架，零外部依赖，支持主流格式和编码，要求macOS 13及Apple silicon，代码开源于GitHub，全程由Claude协助完成。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因经常需要确认视频帧率却苦于macOS原生工具不便，决定自己开发一款小工具来解决这一痛点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;该工具通过Finder右键快速操作即可显示视频的分辨率、帧率、编码格式、色彩信息、时长和文件大小，安装简便且基于macOS内置AVFoundation框架，无需额外依赖。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;工具支持MP4、MOV、MKV、AVI等主流格式，兼容H.264、H.265/HEVC、AV1及Apple ProRes编码，支持HDR和Log素材的色彩元数据显示，要求macOS 13及Apple silicon设备，完全免费且代码开源。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108991&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：鸿蒙智行发布多款车型、Framework 推出多款新品等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 鸿蒙智行发布多款新车，Framework、海信等品牌同日推出新品&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派科技早报，汇总了2025年4月22日多项重要科技新品资讯。华为鸿蒙智行春季发布会推出问界M6、尚界Z7/Z7T、智界V9及问界M9等多款新车，覆盖SUV、轿车及MPV细分市场，均搭载华为最新智驾与电池技术。Framework发布模块化笔记本Laptop 13 Pro及OCuLink 8i扩展套件，强调Linux兼容性与硬件可升级性。海信推出小墨E5S系列Mini LED电视，Razer发布高端玻璃鼠标垫。此外，SpaceX获得收购Cursor的优先权，科技投资动态引发关注。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;华为鸿蒙智行召开春季新品发布会，推出问界M6智慧SUV，起售价25.98万元，标配激光雷达、乾崑智驾ADS 4.1，纯电续航最高760km，增程综合续航最高1605km。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尚界Z7与Z7T正式推出，起售价分别为21.98万元和22.98万元，搭载华为巨鲸800V电池平台，最高续航905km，标配896线双光路激光雷达及全维防碰撞4.0系统。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;智界V9在发布会上开启小订，预售价39.98万元起，基于华为途灵MPV定制平台，配备多块大尺寸屏幕、零重力座椅及52处储物空间，全系标配13个安全气囊。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;大型豪华SUV问界M9开启预订，提供标准版（49.98万元起）和加长版（66.98万元起），搭载6激光雷达矩阵及ADS 5系统，最大功率超900马力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Framework推出模块化笔记本Framework Laptop 13 Pro，搭载第三代英特尔酷睿Ultra Panther Lake处理器，支持Linux，采用LPCAMM2内存模组，准系统售价1199美元起。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Framework还推出Laptop 16的OCuLink 8i开发套件，使该机成为首款支持OCuLink 8i的笔记本，并预览了与光宝联合打造的无线触控板键盘新品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;海信发布小墨E5S系列电视，包括RGB-Mini LED技术的E5S Pro和Mini LED升级款E5S，前者支持100% BT.2020色域，峰值亮度3000nits，后者峰值亮度4200nits。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Razer推出帝王蝶Atlas Pro专业版玻璃鼠标垫，整体厚度低于2mm，玻璃层1.1mm，莫氏硬度9H，售价1199元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;SpaceX获得以600亿美元收购AI代码编辑工具Cursor的优先权，或就双方合作支付100亿美元，目前双方正紧密合作打造顶尖代码开发AI。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
