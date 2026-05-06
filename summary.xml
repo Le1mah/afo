@@ -4,8 +4,254 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-05-05T20:37:16.587Z</updated>
+  <updated>2026-05-06T20:49:44.234Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - May 6, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-05-06</id>
+    <updated>2026-05-06T20:49:44.233Z</updated>
+    <published>2026-05-06T20:49:44.233Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>11 articles from 7 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 6, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;138.08219178082192&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    34.5%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;126&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;239&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;18&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████░░░░░░░░░░░░░░░░░░░░ 34.5%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blog.jim-nielsen.com/2026/small-html-pages/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions - Jim Nielsen’s Blog&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用多页面HTML导航替代JavaScript交互，让网站构建回归简单&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者对其提出的LLMS（大量小HTML页面）网站构建方法进行了回顾总结，核心思想是尽量避免依赖JavaScript的页内交互，转而使用多页面HTML导航，并用CSS view transitions进行渐进增强。以博客菜单为具体案例，作者展示了如何用简单的链接实现菜单的开关功能，同时通过history.back()和document.referrer优化浏览历史体验。作者强调，这种方法将浏览器视为文档导航工具而非代码执行环境，使网站在各种设备和浏览器上都能可靠运行，最终让网站构建回归简单本质。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了使用&amp;#039;LLMS&amp;#039;（大量小HTML页面）构建网站的方法，核心理念是用多页面导航替代需要JavaScript的页内交互，并通过CSS view transitions进行增强。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;以博客菜单为例，菜单不使用JS展开动画，而是通过普通链接导航到独立页面，CSS view transitions提供视觉增强效果，确保在任何设备和浏览器上都能正常工作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;菜单的实现原理是：普通页面包含指向菜单页的链接，菜单页的关闭按钮则通过JS的history.back()实现返回，同时用document.referrer判断是否有有效的历史记录可回退。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展示了具体的HTML代码示例，说明菜单开关的实现逻辑，关闭按钮会根据document.referrer决定执行history.back()还是直接跳转到首页。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出，这个看似简单的解决方案实际上需要深入思考导航的本质，这种方法塑造了设计本身，将浏览器视为文档导航工具而非代码执行运行时，可以让网站构建变得更简单。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22554&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The schedule for UX London 2026&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 UX London 2026三天活动涵盖研究、设计与协作全议题&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;UX London 2026将于2026年6月2日至4日举行，分为研究日、设计日和协作日三个主题日，每天既是整体体验的一部分，也可作为独立活动参加。活动汇聚了众多演讲嘉宾，涵盖用户研究系统化、无障碍设计、Web可持续性、设计系统以及组织协作等多元议题。除上午主题演讲外，下午还提供多个可选实践工作坊。门票现已开售，使用折扣码JOIN_JEREMY可享八折优惠。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;UX London 2026将于2026年6月2日至4日举行，距活动开始不足一个月，主办方公布了完整日程，整个活动设计为连贯的三天体验，同时每天也可作为独立体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一天（6月2日）聚焦用户研究，四位演讲者将分别探讨研究系统化、验证作为UX超能力、假设驱动框架以及将失败转化为机遇等主题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二天（6月3日）专注设计细节，演讲内容涵盖关键时刻设计、有意图的设计、无障碍设计以及Web可持续性指南等议题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三天（6月4日）围绕协作与设计系统展开，话题包括设计系统中以用户为中心、初创公司设计规模化以及沟通即核心等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;除上午演讲外，每天下午还提供多个可选工作坊，涵盖未来摩擦点、用户认知、信息架构、职业道德、对齐策略及组织文化评估等主题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;每天下午工作坊结束后将有一场压轴演讲，演讲嘉宾尚未公布但被描述为相当特别；目前门票已开售，使用折扣码JOIN_JEREMY可享受八折优惠。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/05/architecture-local-first-web-development/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Architecture Of Local-First Web Development&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文分享local-first Web应用的实战经验与架构选择边界&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者基于多年实践经验，深入探讨了2026年构建local-first Web应用的真实状况。文章从一次亲身遭遇网络故障的挫败经历切入，系统阐述了local-first架构的核心理念：客户端持有数据主副本，本地读写即时响应，服务器仅为同步节点。作者以Git分布式模型作类比，帮助读者建立直觉理解，同时坦诚指出该架构的适用边界——不适合需要强一致性的金融系统或纯服务端数据场景。在技术实现层面，文章重点介绍了SQLite via WebAssembly结合OPFS的客户端存储方案，并分享了Safari兼容性等实际踩坑经验，体现出务实而非炒作的写作风格。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在里斯本出差前夜，因酒店Wi-Fi故障导致自己团队耗时四个月构建的项目管理工具无法正常加载，深感挫败，由此开始认真研究local-first架构。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者坦承曾长期忽视local-first的实用性，直到亲身遭遇性能问题后才转变观点，并在此后成功交付三个基于local-first架构的生产应用，同时也在两个项目中移除了该架构。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章厘清了local-first与offline-first、PWA等概念的区别，强调local-first是一种数据架构，客户端持有数据主副本，服务器仅作为同步节点，而非数据读取的守门人。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者明确列出不适合使用local-first的场景，包括服务端生成数据的分析仪表盘、需要强事务一致性的金融系统，以及数据集过大无法在客户端存储的应用，并建议从单个功能开始尝试而非全面迁移。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以Git分布式模型类比local-first架构，说明本地写入无需等待服务器响应，UI即时更新，sync在后台进行，从根本上消除了传统请求-响应模式中的等待状态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了客户端数据存储方案的演进，重点推荐通过WebAssembly将SQLite运行于浏览器并结合OPFS持久化的方案，同时分享了Safari兼容性问题及不同存储方案的对比。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-06T17:31Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-06T17:31Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 谷歌借Chrome强推AI标准被批滥用平台霸权&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文批评谷歌在Chrome 148中强行推进其Prompt API，将其伪装成Web标准，却要求用户同意广告公司的使用条款。作者Mat Marquis将此举定性为谷歌对Web标准的霸凌行为，其他浏览器厂商如Mozilla目前拒绝跟进。文章还指出，外界讨论多聚焦于技术流程，而忽视了该AI技术背后的道德问题。作者认为谷歌此举与即将到来的I/O大会及员工晋升激励密切相关，具有明显的商业驱动性质。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Chrome 148内置了一个大型语言模型推理功能（Prompt API），谷歌员工声称这不是Web标准，但其他浏览器厂商拒绝跟进，批评者认为这是谷歌滥用其Web平台主导地位的行为。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对业界讨论仅聚焦于流程和实现细节感到遗憾，而非关注该技术对受害者造成的道德问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者暗示谷歌急于在I/O大会前发布此功能，背后存在员工绩效考核和舞台展示的商业动机。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 土豆不好吃 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dmesg.app/ios-push-proxy.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;iOS通知走代理及其副作用&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple限制大陆推送通知，代理方案有副作用&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了Apple近期疑似对中国大陆用户海外应用推送通知进行限制的问题，非大陆IP可正常接收通知。作者介绍了一种通过将APNs相关域名加入代理并开启&amp;#039;包括所有网络&amp;#039;的临时解决方案，并附上了详细配置链接。同时，作者指出该方案存在明显副作用：会导致iOS热点功能和CarPlay失效，关闭代理工具后可恢复。作者对此次事件的原因持不确定态度，认为可能是bug或有意限制。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple近期对部分海外应用的消息推送通知进行了限制，表现为使用中国大陆IP时无法收到通知，切换至非大陆IP则恢复正常。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;一个不完美的解决方案是将推送相关域名加入代理并开启&amp;#039;包括所有网络-代理APNs&amp;#039;，但此方案依赖梯子稳定性，梯子失效则通知全部失效。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开启&amp;#039;包括所有网络&amp;#039;选项存在副作用：热点功能失效（开启代理工具时热点会断网）以及CarPlay失效，关闭代理工具后两者均可恢复正常。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对Apple此次行为的性质持观望态度，认为可能是bug也可能是有意为之，未来走向尚不明朗。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/88578&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;返工怎能不烦恼，打工人片单总有一部是你的「嘴替」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 10部影视作品为打工人发声共鸣&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由少数派编辑部多位作者联合撰写，以「打工人」为主题精选了10部影视作品，时间跨度从2000年至2023年，涵盖港剧、日剧、韩剧、国产剧、动画及欧美剧集等多种类型。这些作品或以写实笔触还原职场生态，或借科幻设定探讨工作异化，从不同角度为普通打工人发声。无论是《未生》对职场潜规则的深刻揭示，《人生切割术》对工作与生活边界的哲学追问，还是《我在他乡挺好的》对北漂生活的细腻呈现，都精准触动当代打工人的内心共鸣，兼具治愈与批判双重价值。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章以「打工人」为主题，介绍了10部影视作品，涵盖港剧、动画、日韩剧及欧美剧集，旨在为节后复工的打工人提供情感共鸣与娱乐解压。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;港剧《男亲女爱》（2000）以TVB神作的身份登场，通过郑裕玲和黄子华的精彩演技与贴近生活的台词，精准呈现了职场打工人的懒散心态与都市女强人的双重面貌。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《星空清理者》（2003）以2075年太空清洁工为主角，在硬科幻背景下描绘基层打工人的奋斗与成长，展现职场人际关系和平凡工作的伟大意义。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;日剧《打工仔的梦想房》（2010）讲述三流大学毕业生诚治在求职碰壁中为母亲买房的故事，真实呈现了普通年轻人在工作、家庭与购房压力之间的挣扎与成长。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;韩剧《未生》（2014）改编自同名漫画，以四位职场新人为主线，极度写实地还原了韩国职场文化，包括严苛制度、性别不平等和职场潜规则，被誉为韩国职场剧天花板。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《中间管理录利根川》（2018）从反派干部利根川的视角切入，幽默地呈现了中层管理者夹在上司与下属之间的辛酸职场日常，对人性与职场生态进行了毒辣剖析。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;国产剧《我在他乡挺好的》（2021）以四位北漂女孩为主角，真实还原了职场焦虑、租房通勤、催婚压力等打工人日常困境，被评为贴地飞行的国产职场剧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;美剧《人生切割术》（2022）通过「记忆切割手术」的科幻设定，探讨工作与生活分离的代价，警示工作异化的危险，揭示人的整体性不可分割的深刻主题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;韩国电影《下一个素熙》（2022）改编自真实事件，以双线叙事揭示韩国社会的职场PUA、唯KPI论和性别不平等等结构性问题，反思东亚社会对年轻人的系统性抛弃。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;日本电影《疯狂星期一》（2022）以无限时间循环的科幻设定放大了职场社畜的荒诞日常，用纪录片式镜头语言增强观众共鸣，传递「珍视过程、坚守梦想」的正面信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;韩剧《成人孩子们》（2023）是一部轻喜剧微短剧，聚焦30岁左右打工人「三明治困境」，用温和笔触呈现职场人的心理活动与同事情谊，适合打工人午餐时解压观看。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109296&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;为了让「上厕所」更健康，我做了一个小工具&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 「拉完了」用计时与健康建议助你养成科学如厕习惯&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者介绍了其自主开发的iOS App「拉完了」——一款专注于健康如厕习惯的计时与记录工具。App通过蓝黄红三色计时器提示如厕时长，支持灵动岛、推送通知、状态记录、日历与图表回顾，并提供动态趋势预警、健康建议及50条如厕小知识。所有数据本地存储，支持Face ID隐私保护。作者还分享了基于Google Gemini与Antigravity的Vibe Coding开发经验，强调AI是执行工具，人类的产品思维与持续打磨才是做出优质App的关键。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在如厕时灵感迸发，发现长时间如厕会增加痔疮等健康风险，于是借助Vibe Coding技术开发了一款名为「拉完了」的计时提醒App，并成功上架全区App Store。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;「拉完了」的核心功能是计时，通过蓝、黄、红三色标注如厕时长，支持灵动岛和实时活动显示，并在超时时推送通知提醒用户；同时提供结算记录功能，用户可选择如厕状态并添加备注，所有数据仅存储在本地，可通过日历和图表回顾。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;App不仅是记录工具，更注重健康引导：图表界面提供「动态趋势」预警卡片和「健康建议」卡片，并在每次保存记录后推送健康小知识，目前共有50条知识随使用进程逐步解锁，旨在帮助用户养成健康如厕习惯。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;App完全本地运行，不收集任何用户信息，支持Face ID锁定及高级隐私保护功能；基础功能免费，12元可解锁高级版；未来计划适配Apple Watch、支持快捷指令、iCloud同步及更多健康内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了基于Google Gemini和Antigravity的Vibe Coding开发流程，将项目拆分为五个阶段推进，强调AI只是执行工具，人类需以产品经理思维把控全局，才能将「能用」打磨成「好用」的产品。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109288&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;我写了一个 skill，用 AI 给 AI「除味儿」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI结合Skill可去除部分AI味但无法替代人类润色&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者通过对比实验，探讨AI结合自定义Skill能否有效去除生成文章的&amp;#039;AI味&amp;#039;。作者首先列举了原文（由Claude Opus 4.6生成）的典型AI味特征，包括句式泛滥、过度戏剧化、比喻链延伸等问题，随后介绍了自建的mp-article-writor Skill的设计原理与多阶段审核机制。通过让GLM 5.1和Claude Sonnet 4.6使用相同素材重写，作者从六个维度进行对比分析，发现Skill可去除约四到五成AI味，但无法完全消除。作者最终结论是：AI结合Skill适合去除重度AI味，文章的美感与灵魂仍需人类作者介入。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了背景：一篇由Claude Opus 4.6一次性生成的获奖文章被读者指出AI味较重，作者决定用自建的mp-article-writor Skill重写该文章进行对比实验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细列举了原文中典型的AI味特征，包括&amp;#039;不是A而是B&amp;#039;句式泛滥、过度戏剧化的悬念制造、比喻链过度延伸、过度对称的小标题、每个案例都是同一套三段式结构，以及程式化的过渡句。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了mp-article-skill的设计原理：包括理解意图、校准语感、确认大纲三个前置步骤，以及独立审读、事实核查、终审自检三个subagent审核机制，通过隔离上下文防止主Agent盲目自信。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者使用相同的素材和prompt，分别让GLM 5.1和Claude Sonnet 4.6重写文章，对比两者在去除AI味方面的表现，发现Claude Sonnet 4.6在多数维度上表现更好。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从&amp;#039;不是A而是B&amp;#039;句式、戏剧化悬念、比喻链延伸、加粗总结句、小标题风格和过渡句六个维度，详细对比了原文与两篇新稿的差异，分析Skill对各维度的改善效果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为，Skill的作用下两篇新稿去除了约四到五成的AI味，但仍有残余。作者倾向于AI结合Skill只用于去除重度AI味，文章的美感与灵魂仍需人类作者亲自介入润色，并宣布将mp-article-writor Skill开源在GitHub上。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109410&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：一加、realme 合并，M4 Mac mini 256GB 版本下架等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报：一加realme合并、漏洞曝光、AI付费化等多项动态&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为科技早报合辑，涵盖多条重要行业动态。OPPO整合一加与realme品牌架构；Apple下架M4 Mac mini低配版应对存储芯片短缺；豆包宣布推出付费订阅服务；OpenAI发布GPT-5.5 Instant提升准确性；Linux曝出可被本地提权利用的Copy Fail漏洞；Daemon Tools遭供应链投毒攻击；LG和Bose发布新品硬件；美国防部与多家科技公司签署AI协议；Google开放来源偏好设置；AMD完善Linux HDMI 2.1支持；Spotify推出真人认证徽章；Meta面临数据隐私与版权多重争议。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OPPO宣布成立子系列事业部，将一加与realme的营销、产品及研发体系整合统一管理，realme各部门已陆续并入OPPO总部。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple在全球范围内下架M4 Mac mini 256GB版本，起步配置调整为512GB，库克表示存储芯片短缺导致供需平衡恢复需数月。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;豆包确认将推出三个付费层级，月费从68元至500元不等，官方表示免费服务将持续提供，付费方案细节仍在测试阶段。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI推出GPT-5.5 Instant模型替代GPT-5.3 Instant，大幅降低幻觉率、提升事实准确性，并优化输出长度和个性化调用能力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Linux内核曝出Copy Fail漏洞CVE-2026-31431，允许低权限用户完成root提权，修复补丁已进入主线内核，CISA要求联邦机构限期修补。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Daemon Tools遭受约一个月的供应链攻击，恶意版本通过官方渠道分发，已波及全球超100个国家数千台设备，卡巴斯基建议立即扫描。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026款LG Gram系列笔记本正式开售，采用新型铝镁合金减重，多款机型通过军规耐用认证，价格从1150美元起。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bose发布Lifestyle Collection家庭音频系列，包含音箱、条形音箱和低音炮三款产品，支持Google Cast和AirPlay，5月15日正式上市。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;美国国防部与英伟达、微软、亚马逊等多家科技公司签署AI合作协议，允许在机密网络中部署AI技术用于战略决策支持。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google面向全球用户全量开放搜索来源偏好设置功能，用户可自定义新闻搜索中的媒体来源，覆盖超过20万个独立网站。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AMD为Linux平台新增HDMI FRL支持，实现接近完整的HDMI 2.1兼容性，DSC支持完成测试后将进一步带来最高10K分辨率输出。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Spotify推出Verified by Spotify真人认证徽章，用于区分真实音乐人与AI生成艺人，超过99%被主动搜索的艺人将获得初期认证。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Meta本周发布多项重要动态：推出AI视觉未成年检测机制、终止与数据标注公司Sama的合作、以及遭到五家出版商联合起诉侵权训练AI模型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本节汇总多条简讯：Android版Chrome新增大致位置共享、微软开源最早DOS源码、Apple接触三星英特尔寻求芯片多元化、iOS 27将支持第三方AI模型扩展、三星开发新款Galaxy Book、iOS新增RCS端对端加密以及Pixel 11放弃面部识别升级方案等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;JSON.rawJSON方法的作用是什么？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 JSON.rawJSON可原样输出JSON原语文本，解决精度丢失与类型不符问题&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由张鑫旭撰写，深入浅出地介绍了JavaScript新特性JSON.rawJSON。文章首先揭示了JSON.stringify在处理超大整数时存在精度丢失的固有缺陷，以及将数字转为字符串导致类型不符的两难困境。随后详细讲解了JSON.rawJSON的核心作用——让stringify原样输出合法的JSON原语文本，并归纳了三个关键细节：参数必须为合法JSON原语、返回值为冻结的特殊对象、可用JSON.isRawJSON判断类型。最后介绍了BigInt序列化和精确格式控制两大应用场景，以及兼容性处理建议。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开头介绍了JSON.rawJSON这一JS新特性，指出大多数前端开发者熟悉parse和stringify，但对rawJSON感到陌生，作者承诺用通俗方式讲清楚其作用和用法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过超大整数精度丢失的例子揭示了JSON.stringify的核心缺陷——JavaScript浮点数无法精确表示超过2^53的整数，导致序列化时数字末位被篡改，而转成字符串又会造成类型不符，陷入两难。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;JSON.rawJSON的核心作用是创建一个&amp;#039;原始JSON对象&amp;#039;，告诉stringify原样输出传入的JSON文本，不做任何转义或修改，从而完美解决超大整数精度保留与数字类型兼容的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细介绍了rawJSON的三个关键细节：传入参数必须是合法的JSON原语文本（数字、字符串、布尔值、null），否则抛出SyntaxError；返回值是原型为null且被冻结的特殊对象；可配合JSON.isRawJSON方法判断一个值是否为rawJSON对象。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章列举了rawJSON的实际应用场景，包括解决BigInt无法被stringify序列化的问题，以及精确控制JSON序列化格式避免转义字符被二次转义；同时提醒不需要精确控制时、传入非法内容时以及兼容性要求高的项目中应谨慎使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结尾介绍了rawJSON的浏览器兼容性，推荐了ponyfill项目，并总结rawJSON是对stringify的补充而非替代，核心场景为超大整数/BigInt序列化和精确控制JSON格式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 虹线 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://1q43.blog/post/12336/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一个新的 AI 记忆层概念：哈勃半径&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 三层AI记忆系统让个人信息宇宙可被调用&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者详细介绍了为个人AI Agent构建三层上下文记忆系统的实践与思考。第一层是基于切片式RAG的事实记忆，第二层是由Hermes Agent驱动的LLM Wiki结构记忆，第三层是作者独创的「哈勃半径」——将用户长期关注的所有信息源汇入私有Meilisearch搜索引擎，构建可被AI调用的个人信息宇宙。作者认为哈勃半径本质是记忆层而非搜索引擎，其价值在于边界与选择，能让AI在进入公开互联网之前先回到用户的可观测宇宙，将「阅读」从前置消费转变为后置召回，是AI时代知识管理的重要范式转变。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者为自己的AI Agent配置了三层上下文记忆系统：第一层「我知道的」、第二层「我应该知道的」、第三层「我可能知道的」（即「哈勃半径」），并指出现有AI记忆讨论中缺少对用户信息感知来源的关注。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一层是切片式RAG系统，通过Notion AI从日记、Dayflow、Looki等多源数据中每日自动提取事实记忆碎片，让AI了解用户近况；但其局限在于只能处理已发生、已记录的事实。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二层是由Hermes Agent驱动的LLM Wiki，将散落材料整理成结构化知识网络，解决「我应该知道的」问题，并将立场和知识结构作为对话背景；作者同时澄清RAG与LLM Wiki各有所长，并非非此即彼。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三层「哈勃半径」通过将抖音、播客、公众号、RSS等所有关注源汇入FreshRSS，再导入私有Meilisearch搜索引擎，并接入Notion AI和Hermes Agent，构建一个私人可检索的信息宇宙。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;哈勃半径的技术搭建过程包括部署Meilisearch、配置UI与CORS、接入Cloudflare Worker做中转反向代理，最终形成近万条、每周增长约2000条的私有文档库。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;哈勃半径与公开搜索引擎的根本区别在于：前者是用户长期关注动作筛选过的信息源，代表「在我的信息宇宙里有什么」，而非「全网有什么」，尤其适合回答非事实类、气候感知类问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为哈勃半径本质是记忆层而非搜索引擎，核心在于「限定上下文」：同一关键词在不同人的半径内含义不同，而公开搜索会压平这些语义差异，忽视用户的个人信源权重结构。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三层记忆的独特之处在于记录的是「我可能知道的」——大量用户未读内容，但AI时代可将「阅读」从前置消费改为后置召回，未读内容从信息债务变为可调用的可能性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;哈勃半径的价值来自边界而非覆盖率，维护重点是「选择」而非「多抓」；边界的划定必须由人完成，因为它代表用户的注意力史、信任结构和审美偏好，AI只能辅助清理和索引。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三层记忆的关系类比为：第一层是记忆，第二层是知识，第三层是视野；真正个人化的AI必须同时具备三者，仅靠偏好记录和网页搜索无法捕捉用户与世界之间长期形成的媒介关系。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为未来每个重度使用AI的人都需要自己的哈勃半径，技术栈可以简化，关键在于观念：给AI一个持续更新、由用户授权的内容池，让AI先进入用户的可观测宇宙，再面向公开互联网，从而真正实现个人AI的个性化。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - May 5, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1762,158 +2008,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了qutebrowser的两种配置方式：通过内建设置界面或直接编辑config.py文件，并说明了按键绑定和选项设置的具体方法。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者说明了最终放弃qutebrowser的原因：QtWebEngine安全更新滞后、潜在内存泄漏、不支持Web Extensions导致插件生态贫乏，以及书签、历史记录、下载管理、标签页管理等基础功能过于简陋。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结认为qutebrowser在模态浏览核心功能上表现成熟，但基础功能粗糙，这与个人维护现代浏览器的难度有关，作者最终转向Ungoogled Chromium，并推荐对模态浏览感兴趣的读者关注glide项目。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - April 25, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-04-25</id>
-    <updated>2026-04-25T20:25:26.509Z</updated>
-    <published>2026-04-25T20:25:26.509Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>6 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 25, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;126.02739726027397&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    31.5%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;115&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;250&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;16&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████░░░░░░░░░░░░░░░░░░░░░ 31.5%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;6&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22546&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Taytos with Jack at Cork airport&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者在科克机场与友人共享Taytos薯片&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条简短的社交媒体帖子，记录了作者于2026年4月25日中午12时03分在爱尔兰科克机场与Jack一起吃Taytos（爱尔兰著名薯片品牌）的日常片段。帖子附有地理坐标（52°N, 8°E），并同步发布于Mastodon和Bluesky平台。评论区中，Phil Hawksworth回应称自己周一从巴尔的摩返程时也有过相同经历，帖子获得了三个点赞。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22545&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;I know people joke about everyone in Ireland knowing everyone else, but I just got off the plane in Cork and the customs officer is my cousin.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A traveler arriving at Cork Airport discovers their customs officer is their own cousin, humorously confirming Ireland&amp;#039;s famously small-world social connections.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;In a humorous post dated April 25th, 2026, the author recounts arriving at Cork Airport only to find that the customs officer processing their entry is their own cousin, providing a real-world confirmation of the well-known joke that everyone in Ireland knows everyone else. The anecdote resonated widely, quickly attracting 11 likes from the online community after being syndicated to both Mastodon and Bluesky. Commenter Nigel Anderson extended the humor by quipping that Ireland&amp;#039;s tight-knit social fabric would make it impossible to sustain a witness protection programme. The post also reflects an IndieWeb ethos, incorporating a webmention-style prompt inviting readers who have published responses elsewhere to submit their URLs.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Arrival in Cork:&lt;/strong&gt; The author arrives at Cork airport on April 25th, 2026, noting the location at 52°N, 8°E. The post is also syndicated to Mastodon and Bluesky.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Irish Small-World Stereotype:&lt;/strong&gt; The author humorously confirms the well-known joke that everyone in Ireland knows everyone else, by encountering a family member working as a customs officer upon landing.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Customs Officer Coincidence:&lt;/strong&gt; The specific, real-world manifestation of the stereotype is that the customs officer processing the author&amp;#039;s entry turns out to be their cousin.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Community Engagement:&lt;/strong&gt; Commenter Nigel Anderson extends the joke by quipping that Ireland could never support a witness protection programme, given how interconnected its population is.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Social Reactions:&lt;/strong&gt; The post received 11 likes from various members of the online community within hours of posting, indicating broad resonance with the humorous observation.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Open Response Invitation:&lt;/strong&gt; The post includes a standard webmention-style prompt inviting readers who have published a response elsewhere to submit their URL, reflecting an open, IndieWeb-oriented engagement model.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22544&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Going to Cork. brb&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A London-based author announces a brief trip to Cork, Ireland, using a POSSE IndieWeb post syndicated to Mastodon and Bluesky.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This minimal IndieWeb post, published April 25th, 2026, announces a short trip to Cork, Ireland, with embedded geographic metadata placing the author near London (51°N, 0°E) at time of posting. The post exemplifies the POSSE (Publish on Own Site, Syndicate Elsewhere) pattern, cross-publishing to both Mastodon and Bluesky while keeping the canonical version on the author&amp;#039;s own site. Social interaction flowed back from the federated platforms, with a congratulatory Bluesky reply receiving one like from Ms. Jen on the same day. The page also supports the Webmention protocol, prompting readers to submit response URLs for decentralized reply tracking—demonstrating a full IndieWeb stack in practice even for a trivial travel note.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Travel Announcement:&lt;/strong&gt; The author briefly announces a trip to Cork, Ireland, posted on April 25th, 2026 at 8:03am. The post is minimal, using &amp;#039;brb&amp;#039; to indicate a short-term departure.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Geolocation Metadata:&lt;/strong&gt; The post includes geographic coordinates of approximately 51°N, 0°E, placing the author near London or the UK southeast before departing. This reflects IndieWeb-style metadata embedded in personal posts.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Syndication Links:&lt;/strong&gt; The post is cross-published to both Mastodon and Bluesky, demonstrating a POSSE (Publish on Own Site, Syndicate Elsewhere) approach common in the IndieWeb community.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Social Engagement:&lt;/strong&gt; A congratulatory response was received via Bluesky and received one like from Ms. Jen on the same day. This illustrates federated social interaction bridging back to the original post.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Webmention Support:&lt;/strong&gt; The page includes a prompt asking readers to submit URLs of their responses, indicating support for the Webmention protocol for decentralized reply tracking.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Day We Met &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/814828143756132352&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 4, Page 40&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 *The Day We Met* webcomic&amp;#039;s Chapter 4, Page 40 generated active Tumblr community engagement including reblogs, likes, and fan comments.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The source material for this request is a Tumblr social activity feed rather than a substantive article — it consists entirely of engagement metadata (likes, reblogs, and comments) associated with a webcomic page post. No technical or prose content exists to meaningfully summarize.
-
-What can be noted contextually: the post published Chapter 4, Page 40 of the webcomic *The Day We Met* via the creator account `thedaywemetcomic`, and generated measurable community engagement including dozens of likes, reblog chains through users such as `urbeastprime` and `blizzard-nightlamps`, and at least one fan comment expressing character attachment. The dataset is purely social graph and interaction metadata with zero narrative or informational content beyond confirming an active readership. A meaningful technical or content summary cannot be produced from this input without the actual comic page visuals or accompanying prose.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Comic Page Publication:&lt;/strong&gt; This is a Tumblr post from the webcomic &amp;#039;The Day We Met,&amp;#039; specifically publishing Chapter 4, Page 40. The content is a single comic page update shared by the creator account &amp;#039;thedaywemetcomic.&amp;#039;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Community Engagement Metrics:&lt;/strong&gt; The page received significant community interaction, with dozens of users liking the post across a wide range of Tumblr accounts. This indicates an active and engaged readership for the webcomic.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reblog Distribution Network:&lt;/strong&gt; Multiple users reblogged the post, including through chains originating from &amp;#039;urbeastprime&amp;#039; and &amp;#039;blizzard-nightlamps,&amp;#039; demonstrating organic content spread across the Tumblr network.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fan Reaction Comment:&lt;/strong&gt; User &amp;#039;greatest534&amp;#039; left an enthusiastic comment expressing excitement about a character, repeating &amp;#039;pretty boy&amp;#039; multiple times and urging the character to &amp;#039;go drink some coffee.&amp;#039; This reflects emotional fan investment in the comic&amp;#039;s characters.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Platform and Format Context:&lt;/strong&gt; The content is a raw Tumblr activity/notes feed rather than a structured article, consisting entirely of social interaction metadata such as likes, reblogs, and comments with no substantive prose content to analyze.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-04-25T06:26Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-04-25T06:26Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Workers harmed by AI workplace tools face silencing through fear of retaliation, while tech industry deflects accountability with &amp;quot;AI is just a tool&amp;quot; framing.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This post responds to growing discourse around AI&amp;#039;s real-world harms in workplace settings, sparked by Tante&amp;#039;s piece on techno-fascism and a concrete incident shared by Ky Decker, where an AI note-taking tool was deployed in a meeting without consent and then produced an inaccurate characterization of the conversation. The author highlights a systemic silencing effect: workers harmed by AI adoption often cannot speak out due to fear of retaliation, job loss, or financial precarity, leaving them few options beyond self-preservation and mentally weathering the situation. Central to the piece is a firm rejection of the &amp;quot;AI is just a tool&amp;quot; framing, which the author argues functions as deliberate denial that obscures accountability and shields the tech industry from meaningful criticism. The post calls for a more vocal, critical public response rather than passive acceptance of AI-related workplace harms.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Techno-Fascism Discourse:&lt;/strong&gt; A piece by Tante on techno-fascism gained significant attention, but was largely met with denial from those in the tech industry who are unwilling to acknowledge the harms AI is causing.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Consent Violation:&lt;/strong&gt; Ky Decker&amp;#039;s experience illustrates a concrete harm: a coworker deployed an AI note-taking tool in a meeting without consent, and the tool then mischaracterized the conversation.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Silenced Voices:&lt;/strong&gt; Those who experience AI-related harms in the workplace are frequently unable to speak out due to fear of harassment, termination, or financial inability to quit.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Limited Recourse Available:&lt;/strong&gt; Affected workers have few meaningful options beyond waiting out the situation and focusing on protecting their mental health and rediscovering personal passion for their work.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Is Not Neutral:&lt;/strong&gt; The author pushes back firmly against the dismissive framing of AI as &amp;#039;just a tool,&amp;#039; arguing this denial obscures real harm and warrants a more critical, public response.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108977&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;掌控专注力，你需要做的和没必要做的&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科学辨析专注力提升方法，远离手机与健康生活才是关键&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者结合心理学与神经科学的实证研究，系统梳理了影响专注力的五大&amp;#039;凶手&amp;#039;——手机、社交媒体成瘾、多任务处理、情绪与ADHD，并逐一评估了舒尔特方格、运动睡眠饮食、正念冥想、小技巧及音乐等常见提升专注力手段的科学依据。文章指出，手机的物理存在本身即会消耗认知资源，应做到&amp;#039;out of sight, out of mind&amp;#039;；多巴胺驱动的成瘾本质是&amp;#039;想要&amp;#039;而非&amp;#039;喜欢&amp;#039;；情绪尤其是焦虑是隐蔽的专注杀手；舒尔特方格等商业训练缺乏迁移证据。作者最终归纳出&amp;#039;人事场&amp;#039;框架，强调规律运动、健康饮食、充足睡眠才是提升专注力最根本、最有效的路径。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;当今时代专注力成为稀缺能力，短视频、社交媒体等导致注意力分散，市场上涌现出大量专注力训练产品，但其效果良莠不齐，作者旨在结合实证研究帮读者辨别真伪。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;手机是危害专注力的最大元凶，心理学家达克沃斯的SAAR模型将分心拆解为情境、注意、评估、反应四阶段；研究表明，将手机放在另一个房间是保持专注的最优策略。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;社交媒体和游戏成瘾的本质是多巴胺驱动的&amp;#039;想要&amp;#039;而非&amp;#039;喜欢&amp;#039;，解决方法包括制造摩擦力远离手机、熬过戒断低谷期、用高质量活动充实生活。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;多任务处理本质是任务间的频繁切换，会消耗大量精力。根据巴德利工作记忆模型，同时使用不同子系统的任务冲突较小，开车时应避免复杂通话等高认知负荷操作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;情绪是隐蔽的专注力杀手，焦虑会激活杏仁核占用认知资源，导致无法深度工作；建议识别并合理宣泄情绪，长期可借助积极心理学和正念冥想改善焦虑。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ADHD是青少年最常见的神经发育障碍，需由专科医生综合诊断，不可自行用药；互联网时代应避免&amp;#039;赛博诊断&amp;#039;，怀疑有问题应去正规医院就诊。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;舒尔特方格等专注力训练游戏缺乏有效迁移至真实学习场景的证据，多为针对家长焦虑的智商税；真正有效的方法是健康饮食、充足睡眠和规律运动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;运动对专注力、情绪、成瘾等问题有全面益处，有氧运动和力量训练互补；抗炎饮食和充足睡眠同样不可忽视，这些朴素的生活习惯才是提升专注力的根本。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;正念冥想经神经科学研究证实有效，其核心是训练对走神的觉察力和纠偏力，需长期坚持（至少8周）才能产生大脑结构层面的改变，应警惕短平快的冥想广告。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;嚼口香糖等低认知负荷的小动作可短期内安抚大脑、提升专注；听音乐对专注的影响因人因事而异，建议做复杂任务时听白噪音或熟悉音乐，避免带歌词的音乐干扰语音回路。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结认为专注力受&amp;#039;人、事、场&amp;#039;三因素影响，核心建议是做好睡眠、饮食、运动和健康的电子设备使用习惯，保持积极心态，这是提升专注力最朴素也最有效的路径。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
