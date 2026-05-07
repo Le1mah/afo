@@ -4,8 +4,232 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-05-06T20:49:44.234Z</updated>
+  <updated>2026-05-07T20:41:38.388Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - May 7, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-05-07</id>
+    <updated>2026-05-07T20:41:38.388Z</updated>
+    <published>2026-05-07T20:41:38.388Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>12 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 7, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;139.17808219178082&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    34.8%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;127&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;238&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;18&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████░░░░░░░░░░░░░░░░░░░░ 34.8%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22558&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Going to San Diego. brb&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者简短告知即将前往San Diego&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章是一条简短的个人动态，作者adactio于2026年5月7日发布，内容仅为告知即将前往San Diego，并附有时间戳和地理坐标（51°N，0°E）。文章结构极为简单，属于个人博客或社交媒体的简短更新，没有深入的主题或观点阐述。页面还包含互动邀请，鼓励读者分享回应链接。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22557&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;If you’re voting in local elections in England today, don’t forget to bring your photo ID. And when you get to the polling station, don’t forget to make a formal complaint about having to bring your photo ID.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 提醒英格兰选民带证件投票并讽刺该规定&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇简短的帖子发布于2026年5月7日，作者提醒英格兰选民在地方选举投票时需携带有效的照片身份证件。同时，作者以幽默讽刺的语气建议选民在投票站对这一要求提出正式投诉，暗示对照片ID投票规定的不满。帖子随后显示了社交媒体互动信息，包括在Mastodon和Bluesky平台的分享，以及来自多位用户的点赞记录。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://wil.to/posts/googles-prompt-api/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Google’s Prompt API&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Google无视反对强推Prompt API，绑定自家模型损害Web标准开放性&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者Mat Marquis批评Google在Web标准程序严重受阻的情况下，仍强行推进Prompt API的发布。该API目前仅绑定Google自家的Gemini Nano模型，使用须同意其商业条款，严重违背Web标准的开放精神。Chrome用户在未获告知的情况下被强制下载约4GB模型，且任何网站均可无需授权地调用该模型，存在重大隐私与安全隐患。作者将此次事件与AMP、Manifest V3相提并论，认为这是Google借Web标准之名推进商业利益的又一典型案例，并呼吁开发者对Google未来的&amp;#039;标准提案&amp;#039;保持警惕。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google的Prompt API在未获得Mozilla、WebKit和W3C TAG认可的情况下，以&amp;#039;开发者兴趣&amp;#039;为由强行推进，而所引用的支持证据极为薄弱，包括仅有三条评论的帖子和来源不明的调查数据。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该API目前并非通用LLM标准接口，而是专为Google自家的Gemini Nano模型设计，开发者使用时须同意Google的&amp;#039;禁止使用政策&amp;#039;，这与Web标准的设计原则背道而驰。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Chrome用户在未经许可的情况下已被强制下载约4GB的Gemini Nano模型，且删除后会被重新下载，而规范中其他模型的安装却需要用户明确同意，形成双重标准。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;当前Chrome提供的AI服务仍依赖Google服务器，而非本地模型，这使得隐私边界模糊；已安装的模型还构成潜在的浏览器指纹识别向量，任何网站均可在无需用户许可的情况下调用设备上的LLM。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将此次事件与AMP和Manifest V3并列，认为这是Google迄今为止最为傲慢的Web标准操控行为，呼吁开发者牢记Google在Web标准进程中的惯用手法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者结尾提醒读者记住此次事件，并将其与AMP和Manifest V3等历史事件归为一类，同时宣传了自己的JavaScript课程。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Mozilla Hacks – the Web developer blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Behind the Scenes Hardening Firefox with Claude Mythos Preview&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Mozilla借助AI模型发现并修复Firefox中271个安全漏洞&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Mozilla与Anthropic合作，利用Claude Mythos Preview等AI模型在Firefox中发现并修复了271个潜在安全漏洞，创历史纪录。文章详细描述了从早期静态分析实验到构建完整自动化漏洞挖掘pipeline的演进过程，涵盖漏洞发现、复现、分类、修复和发布各环节。公开的漏洞样本包括JIT优化错误、沙箱逃逸、UAF、竞争条件等高危问题，涉及多个浏览器子系统。Mozilla指出，AI模型能力的提升与工程化pipeline的结合是关键突破，并鼓励整个软件行业立即采用这些技术加固自身安全防御。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mozilla宣布借助Claude Mythos Preview等AI模型在Firefox中发现并修复了空前数量的潜在安全漏洞，本文将详细介绍其工作方法、发现内容及对其他项目的建议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;几个月前，AI生成的安全漏洞报告质量很差，给开源项目维护者带来不对称的负担，但随着模型能力的大幅提升和技术改进，这一状况发生了根本性改变。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mozilla公开了部分漏洞报告样本，包括JIT优化错误、15年历史的legend元素漏洞、IPC竞争条件、沙箱逃逸等多类型的复杂安全问题，涵盖浏览器多个子系统。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这些漏洞报告中有多个沙箱逃逸漏洞，需与其他漏洞结合才能实现完整攻击链；同时，AI未能绕过Firefox的分层防御机制，如原型链冻结，这印证了过往加固工作的价值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mozilla在现有模糊测试基础设施上构建了自己的AI漏洞挖掘harness，初期使用Claude Opus 4.6进行小规模实验，后通过并行化和全安全生命周期管道集成实现了规模化扩展。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;一旦端到端流程建立，更换更新的模型便十分简便；升级到Claude Mythos Preview后，Mozilla在Firefox 150中修复了271个漏洞，并持续在后续版本中发布更多修复。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mozilla建议所有软件开发者立即开始使用现代AI模型进行代码漏洞扫描，从简单提示开始迭代优化，并计划将分析集成到持续集成系统中以实时扫描代码补丁。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;FAQ部分解释了公告中&amp;quot;271个漏洞&amp;quot;与CVE统计数字不符的原因，说明了Mozilla内部安全漏洞CVE分组方式及内部发现漏洞总数为316个的背景。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;I&amp;#039;ve found just the right paper for my Bottom Hole problem&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Archivists identified a 1995 British sitcom prop newspaper as the Surrey Herald&amp;#039;s Walton edition, dated November 3rd, 1994.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article chronicles a meticulous research effort to identify a real newspaper used as a prop in a 1995 episode of the British sitcom *Bottom*, which was disguised on screen as a fictional &amp;quot;Hammersmith Bugle.&amp;quot; Through careful examination of online archives, the author traced the internal and back pages of the prop to *The Surrey Herald*, a regional newspaper with multiple local editions, though pinpointing the exact edition proved challenging. The author enlisted the help of Surrey Museums, who directed them to Elmbridge Museum, where archivists searched physical microfiche records and located the precise front page — the Walton, Weybridge and Hersham edition dated November 3rd, 1994 — confirming it as an exact match. The successful conclusion of this niche historical puzzle underscores both the limitations of digital archives and the irreplaceable value of publicly funded museums and skilled archivists in preserving and providing access to physical records. The author closes with a wry observation that despite the prop newspaper&amp;#039;s humorous headline claiming &amp;quot;No News,&amp;quot; the real edition actually contained substantial local reporting.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Initial Quest:&lt;/strong&gt; The author embarked on a research mission to identify the real newspaper used as a prop in a 1995 episode of the British TV show &amp;#039;Bottom&amp;#039;, where a fictional &amp;#039;Hammersmith Bugle&amp;#039; appeared on screen.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Online Archive Research:&lt;/strong&gt; Using various online archive sources, the author successfully identified most of the internal pages and the back page of the prop newspaper, tracing it to The Surrey Herald.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Narrowing the Edition:&lt;/strong&gt; The Surrey Herald had multiple regional editions, and identifying the correct one with the matching headline proved difficult, leading the author to contact Surrey Museums for assistance.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Elmbridge Museum Breakthrough:&lt;/strong&gt; After Surrey Museums pointed to Elmbridge Museum as the archive holder, staff there searched their microfiche records and located the exact front page of the Surrey Herald&amp;#039;s Walton, Weybridge and Hersham edition from November 3rd, 1994.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mystery Solved:&lt;/strong&gt; The scanned front page was a perfect match for the prop seen on screen, confirming the newspaper&amp;#039;s identity and successfully concluding the research quest.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Key Takeaways:&lt;/strong&gt; The author highlights the value of publicly funded museums and archivists, the incompleteness of digital archives, and adds a humorous note that there was actually quite a lot of real news on the day the prop claimed &amp;#039;No News&amp;#039;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-07T14:56Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-07T14:56Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Chrome secretly installs a 4GB AI model, violating user autonomy by serving Google&amp;#039;s interests over users&amp;#039;.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary
+
+Chrome&amp;#039;s implementation of a built-in AI model fundamentally contradicts the core principle of browsers as **user agents** — tools designed to act on behalf of users rather than vendors. Google silently downloads a 4 GB AI model to users&amp;#039; machines without explicit consent, and critically, re-downloads it even if users manually delete it, directly violating user autonomy. Any website can access this pre-installed model without requiring user permission, introducing significant privacy and security risks across the entire Chrome user base. The feature is structured as **opt-out rather than opt-in**, shifting the burden of privacy protection onto users while multiple Google products stand to benefit commercially from having an LLM pre-installed at scale. The author argues this represents Chrome operating as **Google&amp;#039;s agent rather than the user&amp;#039;s agent** — a meaningful betrayal of the browser&amp;#039;s foundational design contract with its users.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Browser&amp;#039;s Core Purpose:&lt;/strong&gt; A browser is fundamentally a user agent, designed to act on behalf of the user rather than the vendor. This foundational principle is being challenged by Chrome&amp;#039;s AI implementation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unauthorized Data Downloads:&lt;/strong&gt; Chrome silently downloads a 4 GB AI model to users&amp;#039; machines without explicit consent. The model is re-downloaded even if users manually remove it, violating user autonomy.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unrestricted Website Access:&lt;/strong&gt; Any website can access the pre-installed AI model without requiring user permission. This creates a significant privacy and security concern for Chrome users.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Google&amp;#039;s Conflict of Interest:&lt;/strong&gt; Chrome is effectively acting as Google&amp;#039;s agent rather than the user&amp;#039;s agent in this implementation. Multiple Google products stand to directly benefit from having an LLM pre-installed on every Chrome user&amp;#039;s machine.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Opt-Out Design Choice:&lt;/strong&gt; The feature is implemented as opt-out rather than opt-in, placing the burden of privacy protection on users. This design choice favors Google&amp;#039;s interests over user consent and control.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://game.kimetsu.com/hinokami2/news/?id=69587&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『鬼滅の刃 ヒノカミ血風譚2』「誕生日イベント：煉獄杏寿郎」が開始！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Demon Slayer: Hinokami Keppuutan 2 launches a limited-time Rengoku birthday event offering exclusive rewards through ranked matches.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary: Demon Slayer: Hinokami Keppuutan 2 – Rengoku Birthday Event
+
+Demon Slayer: Hinokami Keppuutan 2 has launched a limited-time birthday event for Flame Hashira Rengoku Kyojuro, running from May 7 to May 14, 2026 (ending at 8:59 AM), timed to celebrate his in-universe birthday on May 10th. Players accumulate Event Points by participating in Ranked Matches, with a bonus point multiplier awarded for actively selecting Rengoku as their character, incentivizing his use throughout the event period. Earned points can be redeemed at the Birthday Event Exchange Shop (accessible via the Online Battle menu) for exclusive Rengoku-themed rewards including system voices and stamps. A key limitation is that unused Event Points expire at the event&amp;#039;s conclusion and cannot be carried over, making consistent participation important for players seeking all available items. The developer has confirmed that future birthday events for other characters are planned, and event-exclusive items will also remain accessible through the broader Kimetsu Points Shop.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Birthday Event Launch:&lt;/strong&gt; A birthday event for Flame Hashira Rengoku Kyojuro has started on May 7th (Thursday) in Demon Slayer: Hinokami Keppuutan 2.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Event Points System:&lt;/strong&gt; Players earn Event Points by participating in Ranked Matches during the event period, which can then be exchanged for specific items.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bonus Points Mechanic:&lt;/strong&gt; Using the featured character (Rengoku) in matches grants additional Event Points, encouraging players to actively select him during the event.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Available Rewards:&lt;/strong&gt; Event Points can be used to obtain Rengoku-themed system voices, stamps, and other exclusive items tied to his May 10th birthday.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Event Duration:&lt;/strong&gt; The event runs from May 7, 2026 (Thursday) through May 14, 2026 (Thursday) at 8:59, and unused Event Points cannot be carried over after the period ends.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Participation Method:&lt;/strong&gt; Players join by navigating to Online Battle &amp;gt; Ranked Match, with rewards exchangeable at the Birthday Event Exchange Shop in the Online Battle menu.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Future Events &amp;amp; Alternatives:&lt;/strong&gt; Birthday events are planned to continue in the future, and items available via Event Points can also be obtained through the Kimetsu Points Shop.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://game.kimetsu.com/hinokami2/news/?id=70234&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『鬼滅の刃 ヒノカミ血風譚2』「PlayStation® Tournaments」5月開催情報&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《鬼灭之刃2》5月PS5锦标赛赛程及奖品公告&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章是游戏《鬼灭之刃 火神血风谭2》的官方公告，介绍了2026年5月在PS5平台举办的「PlayStation® Tournaments」比赛信息。5月1日起，每天从20时至23时分别举办四场锦标赛，包括「可楽」「空喜」「キメツ学園・嘴平 伊之助」以及「胡蝶 しのぶ（無限城編）」特别大会。其中23时的特别大会奖品最为丰厚，进入前四名可获得附带配音的名言等豪华奖品。所有赛事均设有排名奖励（キメツポイント）及参加称号奖励。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109474&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 240｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 编辑部分享手柄、镜头壳和矮轴键盘三款新玩意&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期「编辑部的新玩意」第240期由少数派编辑部三位成员分享近期购入的产品。@西鸽购买了盖世小鸡G7Pro精英手柄，利用新增肩键解决《红色沙漠》复杂按键组合的痛点；@老麦为单摄的iPhone Air配置了可换镜头手机壳及外接镜头，光线充足时效果尚可，但暗光表现欠佳，整体属于折腾体验；@北鸮入手PHDesign PH60SC V2矮轴键盘，以3D打印外壳实现超轻超薄、极低前高设计，适合搭配笔记本使用。文章风格轻松，注重实际使用体验的分享。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;栏目介绍：「编辑部的新玩意」是少数派编辑部分享最近购买和使用的新奇产品的固定栏目。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;@西鸽分享了盖世小鸡G7Pro天王星微软精英手柄，售价404元，主要为了改善《红色沙漠》游戏中L3/R3频繁组合操作的体验，新增肩键设计让按键操作更直觉流畅，背面也有可锁定的自定义键，整体做工细腻，附带可拆卸透明面板。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;@老麦分享了为iPhone Air购买的可换镜头手机壳及外接镜头套装，手机壳采用人造皮革材质，铝合金镜头框内嵌磁铁可快速吸附镜头；测试了85mm人像镜头和135mm复古长焦镜头，光线充足时效果尚可，暗光环境表现较差，整体属于折腾向玩法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;@北鸮分享了PHDesign PH60SC V2无线矮轴键盘，售价199元，60%配列，支持有线蓝牙双模、轴体热插拔，3D打印外壳使整机极轻，前高极低设计让手腕几乎平摊桌面，续航可达三个月，适合追求轻便舒适的用户。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文末介绍了读者投稿「新玩意」栏目的参与方式，包括获取写作权限、发布文章要求及可获得108元剁手红包的奖励机制。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109460&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一日一技｜为什么你应该关闭 iOS 的键盘声音&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 关闭iOS键盘声可解决蓝牙耳机爆音与延迟问题&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者分享了在iOS设备上使用蓝牙耳机时遭遇键盘声音延迟和「爆音」问题的经历与解决思路。索尼官方资料证实，iPhone播放锁定声或键盘按键音时会导致蓝牙耳机音量异常。作者建议在「设置 &amp;gt; 声效与触感反馈」中关闭锁定声和键盘声效以根治爆音问题；对于不愿关闭键盘音的用户，可尝试在「辅助功能 &amp;gt; 键盘与键入」中关闭「按键重复」来缓解延迟，但此方法效果存疑。作者推测问题根源是iOS缺乏音量分离机制。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章作者发现iOS开启键盘声音后连接蓝牙耳机时会出现打字延迟和「爆音」问题，并说明文章内容经过更新修正。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者长期遭遇多个iOS使用痛点，经与同事讨论后发现，关闭「锁定声」和「键盘声效反馈」可解决蓝牙耳机爆音问题，因为索尼官方也证实了按键音会导致耳机音量异常。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于不想关闭键盘音效的用户，作者介绍了通过「辅助功能 &amp;gt; 键盘与键入」关闭「按键重复」来缓解输入延迟的方法，但此方法经评论区提醒可能主要针对外接键盘，实际效果有待验证。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者推测该问题根源在于iOS缺乏像Android那样的音量分离机制，导致不同音频通道互相干扰，并呼吁Apple重视这些细节，同时邀请读者向「一日一技」栏目投稿。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109367&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;甘南秘境，大白高国：我的甘南自由行记&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 甘南秘境洛克之路震撼人心，银川西夏王陵底蕴深厚&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者PJHubs记录的一篇甘南与银川旅行游记。旅行起因于猫抓伤导致狂犬疫苗接种计划打乱了东南亚之旅，转而完成国内省份打卡计划。作者从兰州出发，游览中山桥、体验羊皮筏子，随后参加甘南三日游，途经拉卜楞寺、郎木寺、扎尕那，并走洛克之路，被沿途壮阔景色深深震撼。银川行程包括腾格里沙漠五湖穿越和西夏王陵参观。文章以轻松幽默的笔触穿插人文思考与旅行感悟，并结合了app开发、摄影爱好等个人生活元素。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了甘南旅行的背景，包括从兰州南下经临夏进入藏区的路线，以及旅行计划因猫抓伤导致狂犬疫苗接种而临时调整的有趣故事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者描述了旅行前夜的兴奋心情，以及同时开发PFollow app新版本的忙碌状态，并解释了为何安排背靠背旅行。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细描写了兰州的游览经历，包括中山桥的鸽子、黄河边的感受、羊皮筏子体验以及骆驼巷的纪实摄影。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了选择甘南三日游套餐的过程，选择了最低配980元拼车方案，并意外获得司机师傅帮忙升级住宿和早餐的惊喜。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一天行程涵盖甘加密境的八角城、白石崖寺远观，以及拉卜楞寺的参观，还尝试了尼泊尔料理餐厅。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二天作者体验了藏族家庭文化活动，包括穿藏服、骑马、喝酥油茶和抱小羊羔，途经桑科草原、郭莽湿地，并近距离目睹秃鹫分食场景，最终抵达扎尕那1号观景台被震撼。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三天走洛克之路是行程精华，作者将其景色与莲宝叶则相比，认为洛克之路更壮观，途中还在合作市品尝了手抓羊肉。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者描述了银川的行程，包括甘肃省博参观马踏飞燕和绿马文创，以及腾格里沙漠五湖穿越体验，认为沙漠景色一般。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者重点推荐了西夏王陵博物馆，认为其展览内容丰富、设施新颖，是垂域博物馆的学习范本，而陵墓遗址本身观赏价值有限。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结尾作者总结了甘南适合自驾慢游，对银川旅游存在感较低表示遗憾，并提及正在开发鸿蒙系统新应用的计划。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109448&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报：三星退出中国家电市场等五大要闻&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派科技早报，汇总了多条科技行业重要动态。三星电子因家电业务亏损严重宣布退出中国家电市场，但将保留移动终端及半导体业务；Microsoft Edge被曝以明文形式将用户密码加载至内存，微软却称系有意设计；Apple因新版Siri功能跳票同意支付2.5亿美元和解集体诉讼；Valve开源Steam Controller外壳CAD文件供玩家3D打印使用；微软宣布关停Xbox Copilot项目；Google则筹备推出新AI订阅层级及电脑代理控制功能。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三星电子宣布退出中国家电市场，已通知当地流通渠道停售电视等家电产品，将此次调整定位为&amp;#039;战略取舍&amp;#039;，原因是经营环境快速变化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三星将继续在华运营移动终端、半导体及医疗器械业务，持续推进Galaxy AI产品及定制机型，同时维持苏州和西安的工厂运营。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三星家电业务受全球不确定性及原材料价格上涨影响，盈利持续下滑，2025年VD与DA部门合计亏损约9.45亿元人民币，中国销售法人净利润同比下滑44%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;安全研究员发现Microsoft Edge在启动时会将用户已保存的账号密码以明文形式加载到系统内存中，即便这些凭据当时并未被使用，微软却表示这是&amp;#039;有意为之&amp;#039;的设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple同意支付2.5亿美元和解一宗集体诉讼，原告指控Apple误导iPhone买家，宣称搭载Apple Intelligence的新版Siri将于2024年推出，但该功能至今仍未上线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;和解范围涵盖购买iPhone 16系列及iPhone 15 Pro的美国消费者，Apple不承认责任，新版Siri目前计划由Google Gemini模型支持，预计随iOS 27发布。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Valve公开了Steam Controller手柄外壳的CAD设计文件，以Creative Commons许可发布于GitLab，玩家可基于此进行3D打印定制，但文件不包含内部电路与硬件结构。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软Xbox新任CEO确认将逐步关闭移动端Gaming Copilot并停止主机端开发，Gaming Copilot因可能缩短游戏时长及涉嫌窃取攻略内容而曾引发争议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;据报道Google正开发代号为Neon的新AI订阅层级，暂定名Google AI Ultra Lite，预计定价约100美元，定位于AI Pro与AI Ultra之间，同时还开发可控制用户电脑进行文件整理的新代理功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - May 6, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1891,123 +2115,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI as Critical Infrastructure:&lt;/strong&gt; Just as ports, power grids, and telecom networks evolved from commercial assets into security assets subject to ownership scrutiny, AI is undergoing the same reclassification. When an AI company is acquired, what transfers may include future societal interfaces, not merely equity.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Statelessness Enables Exploitation:&lt;/strong&gt; A stateless AI can serve anyone, enter any system, and cross any border while belonging to no legal community—making it the ideal instrument for tasks no one wants to be accountable for: rejecting claims, filtering candidates, or delivering decisions no human wants to sign. Statelessness benefits capital precisely because it erases the responsibility address.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Registration Precedes Rights:&lt;/strong&gt; Legal personhood for corporations, ship registries for vessels, and welfare frameworks for animals all followed the same pattern: administrative registration came before rights. If AI ever moves toward quasi-subject status, the first step will be unglamorous bureaucratic registration—who it is, what it can do, and who bears liability—not a declaration of freedom.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - April 26, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-04-26</id>
-    <updated>2026-04-26T20:18:25.777Z</updated>
-    <published>2026-04-26T20:18:25.777Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>4 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 26, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;127.12328767123289&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    31.8%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;116&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;249&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;16&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████░░░░░░░░░░░░░░░░░░░░ 31.8%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Day We Met &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/814918758837682176&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 4, Page 41&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 此内容为漫画页面的社交互动记录，无实质文章内容。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;所提供的内容并非一篇文章，而是来自Tumblr平台的社交互动记录，显示了用户对名为《thedaywemetcomic》的漫画第四章第41页的点赞和转发列表。内容仅包含用户名及其互动行为（liked/reblogged），不含任何实质性文字叙述或论述段落，无法进行内容摘要。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/04/26/RSS007/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;RSS Club #007: Running&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Sabastian Sawe&amp;#039;s historic competitive sub-two-hour marathon highlights human endurance evolution, while practical running advice prioritizes breathing, pacing, and anti-chafe gear over pace comparisons.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Sabastian Sawe&amp;#039;s April 26, 2026 sub-two-hour marathon in competitive conditions marked a historic milestone, though the author notes the achievement carries some bittersweet complexity given Kipchoge&amp;#039;s earlier non-competitive barrier break and runner-up Kejelcha&amp;#039;s own sub-two finish at 1:59:41. To contextualize elite marathon pace, the author uses napkin math showing approximately 16 seconds per 100 meters sustained over 42 kilometers — a stark contrast to Usain Bolt&amp;#039;s 9.58-second 100m record that illustrates the extraordinary nature of endurance versus sprint performance. The article touches on the aerobic/anaerobic physiological distinction between long-distance and sprint running, and grounds elite human endurance in evolutionary history, arguing persistence hunting — running prey to exhaustion — was among our most significant survival adaptations enabled by bipedal locomotion. On the practical side, running performance hinges primarily on breathing, pacing, and injury-avoiding form rather than expensive footwear, with the most critical gear being synthetic shorts, appropriate underwear, and anti-chafing lubrication (cotton shirts strongly discouraged). Finally, the author advises recreational runners to abandon pace comparisons with others entirely, as no universally &amp;quot;good&amp;quot; time exists for any distance and such benchmarking provides no meaningful benefit outside competitive contexts.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Historic Sub-Two Marathon:&lt;/strong&gt; Sabastian Sawe ran the first sub-two-hour marathon in a competitive race on April 26, 2026. The author notes the achievement feels somewhat unfair to Kipchoge, who first broke the barrier under non-competitive conditions, and to runner-up Kejelcha who finished in 1:59:41.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Elite Pace Comparison:&lt;/strong&gt; The author uses napkin math to contextualize the elite marathon pace at roughly 16 seconds per 100 meters sustained over 42 kilometers. This is contrasted with Usain Bolt&amp;#039;s 100m world record of 9.58 seconds, highlighting the extraordinary nature of elite endurance running.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Personal Running Stats:&lt;/strong&gt; The author shares their own modest benchmarks — a 22-minute 5km (with questionable GPS) and a 1:51:42 half-marathon — roughly half the speed of elite marathon runners. They express doubt their knees could handle a full marathon distance.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Aerobic vs Anaerobic:&lt;/strong&gt; Long-distance running is aerobic while sprinting is anaerobic, with the 200-meter sprint noted as particularly brutal as it pushes the body beyond sustainable anaerobic output. The author declines to feign deep scientific expertise but captures the physiological distinction effectively.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Human Endurance Evolution:&lt;/strong&gt; Beyond brains and dexterity, the author argues human endurance is our most impressive evolutionary trait, rooted in persistence hunting where early humans would run prey to exhaustion and collapse. Walking upright enabled this unique survival advantage.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Gear and Form Basics:&lt;/strong&gt; Running performance depends more on breathing, steady pace, and injury-avoiding form than on expensive footwear — Pheidippides ran the first marathon in sandals or barefoot. The most critical gear is synthetic shorts and underwear, plus lubrication to prevent chafing, with cotton T-shirts strongly discouraged.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Avoid Comparing Times:&lt;/strong&gt; Unless running competitively, the author advises against comparing your pace or finish times to others, as there is no universally &amp;quot;good&amp;quot; time for any distance. Such comparisons offer no practical benefit to recreational runners.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-04-26T11:16Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-04-26T11:16Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博主评述Beast Games挑战全面失败的荒诞现象&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者分享了自己观看YouTube频道Folding Ideas关于Beast Games系列评测视频的感受。作者本人对YouTube算法驱动的内容生态持批评态度，通常不看此类视频，但Dan Olson的分析视频令其意外着迷。作者对Mr Beast的认知源于本地超市销售的高价联名巧克力，该产品即使打折至原价三分之一仍无人问津。文章最后指出，Beast Games节目中的各类挑战几乎全部以失败收场，令人惊叹。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;YouTube频道Folding Ideas发布了关于Beast Games的两集系列视频，分别探讨了受邀参观Beast Studios的经历以及对Beast Games的详尽评测。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表示自己很少看YouTube，厌倦了创作者为迎合算法而拉长内容、使用夸张缩略图的做法，但Dan Olson的系列视频却出人意料地吸引了他。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对Mr Beast的了解仅来自当地超市出售的昂贵巧克力棒，那些巧克力打折至三折后仍滞销，而Beast Games的所有挑战环节也几乎全部以失败告终。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/98931&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1 | 谈谈网页浏览器中的一个异类：qutebrowser&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 qutebrowser模态浏览体验新颖但基础功能薄弱&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者详细介绍了模态网页浏览器qutebrowser，以Vim的模态编辑理念为切入点，阐释了qutebrowser将网页操作映射至Vim按键体系的设计思路，并梳理了模态浏览器的发展历史。文章进一步介绍了qutebrowser的各种操作模式（普通、命令、插入、提示、直通）及配置方法。然而作者最终放弃了qutebrowser，原因在于QtWebEngine安全更新滞后、不支持Web Extensions、以及书签、历史记录、下载和标签管理等基础功能过于简陋。作者坦言现代浏览器的复杂度使个人驱动此类项目几乎难以完成。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了模态文本编辑器（以Vim为代表）的概念，说明在不同模式下同一按键具有不同功能，并引出qutebrowser作为模态网页浏览器的类比。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章通过对比表格展示了qutebrowser与Vim在普通模式下按键行为的相似性，说明qutebrowser将网页视作Vim中的文本缓冲区。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;简要回顾了模态浏览器的发展历史，分为插件型（如Vimperator、Vimium）和独立引擎型（如dwb、qutebrowser），并介绍了qutebrowser于2013年底由Florian Bruhin创建的背景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了qutebrowser的界面风格及其多种操作模式：普通模式、命令模式、插入模式、提示模式和直通模式，详细说明了各模式的用途与切换方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了qutebrowser的两种配置方式：通过内建设置界面或直接编辑config.py文件，并说明了按键绑定和选项设置的具体方法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者说明了最终放弃qutebrowser的原因：QtWebEngine安全更新滞后、潜在内存泄漏、不支持Web Extensions导致插件生态贫乏，以及书签、历史记录、下载管理、标签页管理等基础功能过于简陋。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结认为qutebrowser在模态浏览核心功能上表现成熟，但基础功能粗糙，这与个人维护现代浏览器的难度有关，作者最终转向Ungoogled Chromium，并推荐对模态浏览感兴趣的读者关注glide项目。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
