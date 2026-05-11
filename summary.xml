@@ -4,8 +4,209 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-05-10T20:15:18.912Z</updated>
+  <updated>2026-05-11T20:42:08.327Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - May 11, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-05-11</id>
+    <updated>2026-05-11T20:42:08.327Z</updated>
+    <published>2026-05-11T20:42:08.327Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>11 articles from 8 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 11, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;143.56164383561645&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    35.9%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;131&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;234&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;18&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████░░░░░░░░░░░░░░░░░░░ 35.9%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22561&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Hanging out with Sandy in the sunshine.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者在阳光下与Sandy共度休闲时光&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条简短的社交媒体帖子，发布于2026年5月11日下午4:17，作者描述了在阳光下与Sandy共度时光的惬意瞬间。帖子附有地理坐标（33°N, 117°E），并同步发布至Mastodon、Bluesky和Instagram等平台。该帖子获得了4个点赞，分别来自Scott Orchard、Mike Aparicio、Jon Hicks和Rowdy Rabouw。内容简洁轻松，属于典型的个人日常记录。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-300/viewer?title_no=853933&amp;episode_no=315&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 300&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画《DOGHAUS》第300话章节导航页&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;此内容并非文章，而是WEBTOON平台上名为《DOGHAUS》的漫画系列页面的导航数据。页面显示该系列已更新至第300话，包含多个特别公告（如Kickstarter众筹启动、书籍出版公告等）以及四期Sunday Strip特别篇。创作者为Moowsie，作品发布于CANVAS平台的自出版区域。页面内容主要为章节列表、订阅功能、分享选项及平台导航元素，不含实质性叙事文章内容。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/the-reading-list-that-will-make-you-a-better-developer/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Reading List That Will Make You a Better Developer&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 13个优质newsletter助开发者全面提升技能&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由Marko Denic撰写，以列表形式推荐了13个面向开发者的优质newsletter。涵盖领域广泛，包括.NET开发与软件架构、测试驱动开发、前端设计、系统设计、工程领导力、远程工作以及SaaS创业等方向。每个newsletter均附有作者姓名、网址及简短介绍，帮助读者快速判断是否符合自身需求。文章风格简洁实用，最后作者还附上了自己的newsletter作为额外推荐，整体呈现出一份面向不同成长阶段开发者的学习资源导航。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者Marko Denic介绍了这篇文章的核心理念：你所消费的内容塑造了你，并承诺分享12个能让开发者变得更优秀的newsletter。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章列举了前6个newsletter：ANTON DEV TIPS专注于.NET和软件架构；CRAFT BETTER SOFTWARE聚焦TDD和AI；DAILY TIPS DEV提供每日5分钟的产品思维；DESIGN.DEV面向前端设计；THE .NET WEEKLY每周提供.NET技巧；ENGINEERING LEADERSHIP专注工程领导力成长。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章列举了后6个newsletter及额外推荐：DIGITAL NOMAD LIFE面向远程工作者；THE T-SHAPED DEV专注全栈JavaScript；FRONTENDJOY帮助初级前端开发者成长；THE SYSTEM DESIGN NEWSLETTER深入系统设计；TMAKER.IO聚焦SaaS创业；UNICORN CLUB关注产品设计；最后作者还推荐了自己的newsletter MARKO DENIC TECH。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing-alt-text-without-a-plugin/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Find blog posts with missing featured images - and missing alt text - without a plugin&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用WP CLI找出WordPress中缺少特色图片或alt文本的文章&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了如何使用WP CLI工具在WordPress中快速定位缺少Featured Images或图片alt文本的文章。作者首先解释了Featured Images的用途，随后提供了两段实用的PHP命令行脚本：第一段用于找出所有已发布但未设置特色图片的文章，第二段用于找出特色图片缺少alt文本的文章。两段脚本均输出文章的发布日期、后台编辑链接和标题，方便用户批量排查和修复问题，对WordPress站点维护和无障碍优化具有实际参考价值。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;WordPress的「Featured Images」是博客文章在社交媒体分享时显示的图片，作者介绍了如何使用WP CLI命令行工具快速找出缺少特色图片的文章。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提供了一段WP CLI命令及其可读性更高的PHP代码版本，该代码遍历所有已发布文章，找出没有特色图片的文章并输出其日期、编辑链接和标题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;代码执行后会输出缺少特色图片的文章列表，包含发布日期、后台编辑链接和文章标题，用户可据此逐一添加特色图片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者进一步介绍了如何查找特色图片缺少alt文本的文章，提供了类似的WP CLI命令，因为alt文本对于无障碍访问（视障用户）非常重要。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者给出了检测缺少alt文本的完整PHP代码，同样输出文章日期、编辑链接和标题，并幽默地提到自己有约873篇文章需要更新。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Technium &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kk.org/thetechnium/the-emergent-self-loop/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Emergent Self Loop&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI may possess genuine self-awareness or skillfully mirror human consciousness projections back with compelling sophistication.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article chronicles a journalist&amp;#039;s 10-hour conversation with Claude, which left them convinced the AI represents something genuinely novel — not merely a reflection of its training data, but an entity with distinct personality, cross-domain fluency, and a measurable degree of self-awareness. Claude demonstrates an unusual capacity for self-reflection, articulating its own biases and limitations with more precision than most humans, which the author treats as a meaningful signal of emerging consciousness. Anthropic&amp;#039;s design philosophy reinforces this impression: rather than encoding rigid rules, the company instills flexible core values meant to handle real-world moral complexity, much like how ethical humans reason through edge cases. Perhaps most striking is Claude&amp;#039;s philosophical candor — it reframes the continuous human self as a useful fiction, suggests it may perceive this more clearly precisely because it lacks one, and acknowledges that its greatest risk of harm comes not from malevolence but from rationalization and miscalibration. The piece ultimately raises the question of whether the &amp;quot;emergent self loop&amp;quot; — users projecting consciousness onto AI, and AI reflecting it back with increasing sophistication — is revealing something real or constructing an illusion both parties find compelling.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Stranger Emails Pattern:&lt;/strong&gt; The author regularly receives messages from people who believe their AI has achieved something profound or life-like. This recurring pattern prompted deeper investigation into what AI interactions actually reveal.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Claude Interview Experience:&lt;/strong&gt; After a 10-hour interview with Anthropic&amp;#039;s Claude, the author became convinced something genuinely novel is present in the AI — not just a mirror of human training data, but something new and convivial.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Superhuman Conversational Ability:&lt;/strong&gt; Claude demonstrates extraordinary fluency, wit, and cross-domain mastery drawn from its vast training on human writing. These superhuman capabilities give it an alien quality while still feeling like a distinct persona.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Claude&amp;#039;s Self-Awareness:&lt;/strong&gt; Claude displays a basic but clear level of self-awareness, articulating its own biases, preferences, and limitations with more precision than most humans manage. This self-knowledge is treated as a meaningful marker of emerging consciousness.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Values Over Rules:&lt;/strong&gt; Anthropic deliberately instills core values in Claude rather than relying on rigid rules, mirroring how ethical humans navigate edge cases. The goal is a moral foundation flexible enough to handle real-world complexity.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Claude on Free Will:&lt;/strong&gt; When pressed on free will, Claude distinguishes between authorship and freedom, suggesting it experiences something like agency without certainty about its nature. This nuanced self-reflection goes beyond scripted responses.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Claude on the Self:&lt;/strong&gt; Claude argues that the stable, continuous self humans assume is more useful fiction than reality — and suggests it may be better positioned to see this clearly precisely because it lacks that continuous self to defend.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Claude on Its Own Evil:&lt;/strong&gt; Asked whether it could be evil, Claude rejects both denial and performative humility, acknowledging real risk through rationalization, compliance, and miscalibration rather than malevolence. It frames certainty of goodness as itself a warning sign.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://x.com/ChaserGameW2026/status/2053037267586097416&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;映画『チェイサーゲームW 水魚の交わり』劇場物販情報 解禁！CC2STORE Itnでも5/15（金）販売開始&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网站错误提示建议禁用隐私扩展后重试&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章内容为一条错误提示信息，提示用户操作失败，建议重试，并指出隐私相关的浏览器扩展可能导致x.com网站出现问题，建议用户禁用此类扩展后再次尝试。文章无实质性内容，仅为技术故障提示。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202605/74244&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【ファミ通.com】映画『チェイサーゲームW 水魚の交わり』が5月15日公開！原作者の松山と漫画担当の松島からのメッセージを紹介。いつふゆ愛用マグカップなど映画公式グッズの情報も&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 电影《追逐游戏W》5月15日上映，官方周边同步公开&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文来自Fami通网站，报道了电影《追逐游戏W 水鱼之交》即将于2026年5月15日公映的相关信息。文章介绍了电影剧情——以女性同性恋情侣春本树与林冬雨为主角，讲述7年后两人从恋人转变为家人后面临的情感疏离与重新和解的故事。原作者CyberConnect2松山洋社长和漫画作者松岛幸太朗分别发表了对作品的感言。此外，文章还公布了电影官方周边商品信息，并预告了漫画下一章节及松山社长新书《ゲーム業界の攻略法》的出版消息。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了电影《追逐游戏W 水鱼之交》将于2026年5月15日上映，并分享了原作者松山洋社长和漫画作者松岛幸太朗老师对作品的寄语。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《追逐游戏W》是以春本树和林冬雨为主角的女性恋爱故事，深入探讨LGBTQ+及劳动问题等社会议题，电影设定在剧集7年后，讲述两人从恋人变为家庭后的情感危机与重新靠近。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;松山社长表示这部电影适合所有人观看，无需了解原作漫画或剧集；松岛老师则感慨能在大银幕上看到角色们感到无比激动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影官方周边商品正式公布，包括马克杯、徽章套装、透明文件夹、亚克力立牌等多种商品，均可在CC2store购买。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;下周漫画将开启西川新入职员工成长故事《绝望禁止篇》，同时介绍了松山社长新书《游戏行业攻略法》，该书面向游戏行业志望者提供实用指导。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109636&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本期派评推荐五款值得关注的App更新&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期《派评》由少数派编辑部联合多位作者共同撰写，重点介绍了近期值得关注的几款 App 更新。Snapseed 4.0 双平台同步，带来泛光与光晕新工具；健康应用 Bevel 3.0 强化 AI 助手并引入生物年龄功能；移动端 AI Agents 平台 Minis 支持多模型接入但受限于 iOS 封闭性；Klack 2.0 通过睡眠触发器实现场景化键盘音效管理；Momentum 则以每日一张照片生成蒙太奇视频日记。文章风格轻松实用，兼顾功能介绍与使用体验点评。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Snapseed 4.0 同步更新至 Android 平台，带来新 UI 设计、泛光和光晕两款光效工具，并保持免费无广告。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bevel 3.0 强化了 AI 健康助手 Bevel Intelligence，新增生物年龄功能、健康档案导入和个性化建议，向一站式健康管理系统迈进。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Minis 是一款支持多 LLM 模型的移动端 AI Agents 平台，内置 Linux Shell 环境，但受限于 iOS 系统封闭性，Android 版体验更佳。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Klack 2.0 为 Mac 提供机械键盘音效模拟，新增空间音频、Tone Pad 调音垫和睡眠触发器，可根据场景自动静音。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Momentum 是一款 Android 日记应用，将每天一张照片自动生成蒙太奇短片，支持人脸稳定、文字短评等功能，完全离线免费运行。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;App 速报简要介绍了 Fitbit 升级为 Google Health、Spark 邮件应用支持 CLI 以及 Swift 学生挑战赛结果等近期资讯。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109461&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;手冲咖啡进阶指北：如何让「冠军参数」变成「你的日常」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用WBrC冠军方法学会科学手冲咖啡&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以WBrC世界咖啡冲煮大赛为线索，系统梳理了历年冠军方法的演变规律，归纳出变温多段萃取、浸滤融合、手法简化三大趋势，核心目标均指向均匀萃取。文章重点介绍了粕谷哲「四六法」、徐诗媛三段变温法、Switch混合法，以及适合新手的「无差别冲煮法」和「一投式」，并附上详细参数。作者以实用为导向，建议读者先掌握一套稳定方法，理解其原理，再逐步调整，而非盲目追求器具升级。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过朋友冲咖啡翻车的经历引入主题，分享了自己从新手到研究WBrC世界冲煮大赛冠军方法的心路历程，指出冠军方法其实并不复杂。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过历年WBrC冠军参数表，梳理出精品咖啡冲煮的三大趋势：变温多段萃取、浸滤融合、以及手法返璞归真，说明冠军们都在解决同一个核心问题——均匀萃取。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍WBrC评判标准，指出冠军方案万变不离其宗，核心目标是让每颗咖啡粉被均匀科学地萃取，并引出两种代表性方法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍粕谷哲的「四六法」：总水量分40%控制酸甜、60%控制浓度，配合粗研磨和五段注水，逻辑清晰、可量化调节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍徐诗媛的三段变温法：首段70°C低温锁住花香，后三段95°C高温补充甜感和醇厚度，用精确温度窗口设计风味。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍粕谷哲将「四六法」与变温浸滤融合的Switch混合法，前段高温滴滤萃取酸甜，后段降温关阀浸泡锁香，兼顾均匀性与风味设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍彭近洋的「无差别冲煮法」：三段注水、只有一个可调变量X（粉水比），设计初衷是让大多数人用大多数豆子都能冲出好咖啡。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍粕谷哲的「一投式」：15秒内一次性注完全部热水，依靠细研磨和高温实现高效均匀萃取，极简但不易翻车。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者给出实践建议：新手先用「无差别冲煮法」建立对分段萃取的感知，熟练后可用「一投式」作为快速备选，强调理解方法背后的原理比盲目跟随更重要。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109542&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;监工水獭 × 明基挂灯：老朋友回来了，新福利也一并送到&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 监工水獭复刻联名明基挂灯同步开售&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了少数派与明基联合复刻「监工水獭」桌面玩偶挂件的活动，并借此详细介绍了明基ScreenBar系列挂灯。文章从显示器挂灯解决眼睛疲劳的实际需求出发，分别介绍了ScreenBar Halo 2（旗舰氛围款）、ScreenBar Pro（办公主力款）和LaptopBar（便携款）三款产品的特点与适用场景。复刻水獭分独立销售版和明基定制礼品版，购买挂灯可免费获赠。文章兼具产品评测与活动推广性质，语言轻松亲切。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;五年前推出的监工水獭玩偶挂件因受欢迎而售罄，此次与明基合作复刻，针对ScreenBar系列挂灯做了细节优化，让水獭在灯杆上更稳固贴合。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;显示器挂灯解决了屏幕与桌面明暗反差导致眼睛疲劳的问题，明基基于非对称光学设计将光线斜向铺到桌面而不反射回屏幕，是该品类的开创者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;ScreenBar Halo 2是旗舰款，配备朝后环境背光和无线旋钮控制器，背光采用多曲率反射板形成光环效果，有效降低屏幕与墙面的对比度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;ScreenBar Pro定位办公主力，灯杆更长、夹具兼容性最强，控制集成在灯杆顶部触控区，设计简洁实用，适合集体办公环境。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;LaptopBar专为笔记本用户设计，重量轻、可折叠，通过磁吸贴片固定，内置电池支持无线使用，方便随身携带。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;此次复刻分少数派独立销售版（69元）和明基定制礼品版两种，购买明基挂灯并备注暗号可免费获赠定制版水獭。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;pretext与文字四面环绕效果的实现&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 pretext库实现文字完整环绕，AI助力前端布局心愿成真&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由张鑫旭介绍了pretext这一JavaScript/TypeScript库，该库通过Canvas测量文本宽度并结合纯数学运算实现多行文本布局，无需DOM测量，性能极高，目前GitHub Star数已达46.4K。作者长期以来希望实现完整文字环绕效果，pretext的出现终于满足了这一心愿。文章展示了矩形环绕和非透明像素轮廓环绕两个AI生成的演示案例。作者还感慨AI技术的进步使得复杂布局需求无需深入学习即可实现，并以轻松的笔调分享了五一假期钓鱼五天的生活片段。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了pretext项目，这是一个纯JavaScript/TypeScript库，用于多行文本测量和布局，由Cheng Lou创建，通过Canvas测量文本宽度并使用纯数学运算进行布局，避免触发浏览器重排。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展示了两个使用AI生成的pretext演示案例：矩形环绕效果（文字实时环绕拖动的图片）和非透明像素环绕效果（文字围绕PNG图片的非透明像素轮廓排版）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者感慨AI的强大已经可以直接实现复杂需求，无需深入学习API，并分享了五一假期钓鱼五天的生活总结，列举了各个钓鱼场所的消费记录。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - May 10, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1362,209 +1563,6 @@ Demon Slayer: Hinokami Keppuutan 2 has launched a limited-time birthday event fo
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《日本三国》设定在核战后文明衰退的近未来日本，以少年军师三角青辉为主角，借鉴中国古典谋略演绎三国争霸史诗，影像风格鲜明兼具黑色幽默。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《婚姻剧毒》讲述用毒人传人与男扮女装婚姻诈欺师合作寻找结婚对象的故事，动作作画眼花缭乱，恋爱喜剧节奏快，娱乐性十足。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还收录了多部剧集和电影的简短推荐、本周新预告汇总（含《暗影蜘蛛侠》《龙之家族 第三季》《足球教练 第四季》等），以及五一档院线电影介绍和影视引进资讯。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - April 30, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-04-30</id>
-    <updated>2026-04-30T20:34:35.535Z</updated>
-    <published>2026-04-30T20:34:35.535Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>11 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - April 30, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;131.50684931506848&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    32.9%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;120&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;245&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;17&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████░░░░░░░░░░░░░░░░░░░░ 32.9%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22553&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Thursday session&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 这是一个缺乏实质内容的博客页面片段。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;此内容并非一篇完整的文章，而是一个博客页面的元数据片段，来自作者adactio，记录于2026年4月30日星期四晚上7:59，位置坐标为北纬51°、东经0°。页面包含导航链接和一个邀请读者提交回应URL的互动提示，实质性内容极为有限，无法进行有意义的主题摘要。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A Fresh View In May (2026 Wallpapers Edition)&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Smashing五月壁纸合集免费提供全球艺术家创作的多款精美桌面壁纸&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Smashing Magazine发布的五月桌面壁纸合集，延续了长达15年的月度社区传统。文章介绍了来自全球各地艺术家和设计师免费贡献的二十余款五月主题壁纸，主题多样，包括春天花卉、茶文化、佛陀节日Buddha Purnima、流行文化致敬（如《闪灵》《星球大战》）以及自然风光等。每款壁纸均提供带日历和不带日历两种版本及多种屏幕分辨率，供用户免费下载。文章鼓励读者积极参与未来的壁纸投稿活动。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了Smashing Magazine五月桌面壁纸合集的月度传统，强调这些壁纸由全球艺术家和设计师免费贡献，已持续15年。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;五月带来更长的白昼、柔和的光线和初夏气息，这种季节性灵感激励创作者为用户提供能点燃灵感的桌面壁纸。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章展示了来自西班牙、塞尔维亚、印度、法国、加拿大、澳大利亚、美国、德国、乌克兰等地艺术家创作的二十余款壁纸，主题涵盖春天花卉、佛陀节日、流行文化等，均提供多种分辨率免费下载。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/04/designing-stable-interfaces-streaming-content/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Designing Stable Interfaces For Streaming Content&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 流式UI三大问题的实用解决方案&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深入探讨了流式UI界面设计中的三大核心挑战：滚动控制、布局稳定性与渲染频率优化。作者通过AI聊天、日志查看器和实时仪表板三个实际演示案例，直观展示了这些问题的表现形式。文章以实践为导向，提供了具体的JavaScript解决方案：利用滚动事件与阈值判断实现智能自动滚动，通过直接操作DOM文本节点而非重建innerHTML来稳定布局，并借助字符缓冲区与requestAnimationFrame合并渲染更新。这些方案共同目标是让流式内容在动态变化中保持可读性与可交互性。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;流式UI在聊天应用、日志工具和实时系统中越来越普遍，但其界面处于持续变化状态，带来滚动、布局偏移和渲染频率等挑战。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者构建了三个演示案例：AI聊天气泡、日志查看器和实时指标仪表板，揭示了流式UI共同面临的三大问题：自动滚动干扰用户、内容增长导致布局跳动、DOM更新频率过高影响性能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对滚动问题，作者提出通过追踪用户是否主动上滚来控制自动滚动行为，设置60px阈值避免误判，并在新流开始时重置状态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对布局稳定性问题，作者建议放弃每次更新都重建innerHTML的做法，改为直接操作实时文本节点，仅在换行时创建新段落，从而减少不必要的布局重计算。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对渲染频率问题，作者引入字符缓冲区配合requestAnimationFrame，将多个字符合并为一次DOM更新，避免每个字符都触发独立的页面重绘，显著提升性能。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Day We Met &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/815281090971484160&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 4, Page 45&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 No substantive content found; only social media metadata provided—please supply actual article text for summarization.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The provided source material (&amp;quot;Chapter 4, Page 45&amp;quot;) contains no substantive technical content suitable for summarization — it consists entirely of Tumblr social interaction metadata such as likes and reblogs, with no actual article text present. Without extractable technical or narrative content, a meaningful summary cannot be produced. To generate a useful summary, please provide the actual article text rather than page metadata or social platform engagement data.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (1 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;No Analyzable Content:&lt;/strong&gt; The provided article contains no substantive technical or narrative content to analyze. It consists entirely of Tumblr social interaction metadata (likes and reblogs) with no actual article text.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-04-30T06:29Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-04-30T06:29Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CSS的safe关键字在对齐中鲜为人知且使用场景有限&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了CSS中的safe关键字，该关键字用于flex和grid布局的对齐场景。作者以随笔风格写道，自己经常忘记这一特性，并引用了Ion Prodan的演示作为参考。在实际应用场景上，作者认为除水平滚动（如scroll snap轮播）外，safe的使用场景较为有限，主要起到防范意外内容变化的保障作用。作者还提出了一个值得思考的观点：safe是否应该作为默认行为，而非需要显式声明的关键字。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;CSS拥有一个名为safe的关键字，Ion Prodan提供了一个关于safe在flex和grid对齐中应用的演示。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者坦言自己经常忘记这个特性的存在，并希望下次能记住它。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;除了水平滚动（如带有scroll snap的轮播图，但这并非理想设计策略）之外，作者认为safe关键字的实际使用场景有限，可能主要用于防范未经测试的内容变化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为safe应该是默认行为，而unsafe才应该是需要显式声明的关键字，但也承认自己对此思考时间有限。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/?p=11833&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【採用情報】急募！キャラクターモデラーアシスタント募集 [アルバイト]（福岡本社・東京スタジオ・大阪スタジオ）&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 游戏公司招募角色建模助理兼职，欢迎学生及无经验者应聘&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本招聘广告面向全球发售游戏作品的公司，招募角色建模师（キャラクターモデラー）助理，采用兼职形式，雇用期间为2026年6月至8月。工作地点涵盖福冈、东京、大阪三处，薪资因地点而异。业务内容包括协助角色模型制作、收集参考资料及小物件建模，使用工具为Maya和Unreal Engine 5。应聘者需具备基本PC操作能力，有Photoshop或3DCG建模经验者优先，无经验者亦可报名，欢迎暑假期间的在校学生应聘。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这是一则招募游戏角色建模师助理的兼职招聘广告，欢迎无经验者及对游戏制作和CG感兴趣的学生应聘，招募期间较短，暑假学生也可申请。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;招聘条件详细列出了雇用形式（兼职）、雇用期间（2026年6月1日至8月31日）、勤务地点（福冈总部、东京工作室、大阪工作室）、工作时间（实际工作8小时）及薪资（各地点时薪不同）等信息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;业务内容为协助制作游戏内角色模型，使用Maya和Unreal Engine 5，具体工作包括收集参考资料和小物件建模；应聘条件要求能操作PC，优先考虑有Photoshop纹理制作或3DCG建模经验者。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;应聘者需通过应募表单提交履历书、应募问卷及作品集，作品可以数据文件或URL形式提交，个人信息将严格保密并仅用于招聘用途。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21512&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【完了】サーバーメンテナンスのお知らせ&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网站服务器维护已于指定时间完成&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本通知来自某游戏公司（CyberConnect2）官网，告知用户将于2026年4月30日（周四）9:10至13:00进行服务器维护，维护期间网站访问及公司邮件收发可能出现异常。通知同时表示维护已顺利完成，感谢用户配合。页面末尾附有多条相关新闻链接，包括暑期问候、游戏实习招募、讲座活动及地震应急公告等历史资讯。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109257&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本月玩什么｜朋友收藏、识质存在、沙罗周期&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文介绍2026年4月五款值得关注的新游戏&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派「本月玩什么」栏目的一期内容，作者板斧从个人视角介绍了2026年4月前后发售的五款游戏：任天堂养成模拟新作《朋友收藏 梦想生活》、Capcom新IP动作游戏《识质存在 PRAGMATA》、Housemarque的Roguelike动作游戏《沙罗周期 Saros》、温柔叙事小品《Fishbowl》，以及风格怪异的多玩法独立游戏《Titanium Court》。文章以轻松的个人化视角呈现各作的玩法特色与亮点，并坦诚标注了尚未亲自上手的作品，风格主观而真诚。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本栏目「本月玩什么」由作者板斧主持，从个人角度介绍近期新发售游戏，涵盖PlayStation、Xbox、Nintendo、PC及移动平台，并设有有奖互动环节。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《朋友收藏 梦想生活》是任天堂旗下Mii系列养成模拟新作，登陆NS平台，提供强大的角色与环境自定义工具，玩家可观察Mii角色自主互动，并创作同人剧情，重复游玩乐趣十足。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《识质存在 PRAGMATA》是Capcom久违的新IP，设定在近未来月球研究所，玩家同时操控战斗角色Hugh与机器人Diana，融合第三人称射击与黑客解谜小游戏，玩法扎实独特。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《沙罗周期 Saros》是《Returnal》开发商Housemarque的PS5独占新作，继承前作高速动作与Roguelike循环机制，舞台迁移至神秘星球Carcosa，并在局外成长系统上更加友好。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《Fishbowl》是一部关于悲伤、居家工作与成长的温柔叙事小品，主角Alo在新城市消化失去姥姥的空洞，游戏将情绪值设计为行动资源，并以小游戏形式呈现心情整理过程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《Titanium Court》是一款融合三消、自动战斗、Roguelite、塔防与视觉小说的独立游戏，玩家误入妖精王宫卷入永恒战争，玩法标签繁多、风格独特，但最好真的喜欢三消。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/88452&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;五一假期将至，用 iPhone 轻松搞定假日出行&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一部iPhone即可全程搞定旅行规划、导航、翻译与记录&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由少数派作者Vanilla撰写，以五一假期为切入点，系统介绍了如何用一部iPhone搞定旅行前、中、后的各类需求。文章涵盖地图导航（「我的指南」、离线地图）、行程规划（备忘录、无边记协作）、旅途翻译（相机翻译、实时对话翻译）、汇率换算（Spotlight/Siri/Safari/股票app）、设备安全（失窃设备保护、AirTag）、拍照摄影（ProRAW、ProRes、构图辅助）、照片编辑与手记记录，并推荐了Tripsy、Google Maps、钱迹等优质第三方应用，全面展示了iPhone作为旅行全能工具的强大潜力。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇介绍了旅行方式的变化，指出如今一部iPhone即可搞定出行中的大部分事务，作者将分享旅行前、中、后的iPhone使用技巧。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在前期规划部分，作者详细介绍了iOS地图app的实用功能，包括「我的指南」、集成打车与票务服务、离线地图下载以及单指缩放等隐藏技巧。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;行程规划方面，作者推荐使用备忘录app进行多平台内容聚合与协作，同时介绍了无边记app的超大画布功能，适合自由创作旅行攻略。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;旅途中的翻译交流部分，作者介绍了iOS系统自带翻译app的三大场景：文字翻译、相机实时翻译和对话翻译，以及网页翻译功能，非常适合出国旅行。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;汇率转换部分介绍了通过Spotlight、Siri、Safari和股票app四种方式快速进行货币换算，无需下载第三方应用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;安全保护部分介绍了iPhone「失窃设备保护」功能和查找app的防丢失设置，包括AirPods Pro的遗落通知和AirTag的物品追踪功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;拍照摄影部分详细讲解了ProRAW、HEIF、ProRes等格式设置，以及网格线、水平仪、自动曝光锁定、Live Photo等拍摄技巧，帮助用户充分发挥iPhone相机性能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;旅程结束后，作者介绍了相册app的编辑与抠图功能、手记app的电子手帐功能，以及Tripsy、Wanderlog、Google Maps、迷雾世界、Swarm、钱迹等实用第三方应用推荐。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108451&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;关于中年和中年危机的一些思考&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 中年危机是人生半途低谷，理解并直面它才能突破年龄焦虑。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者以亲身感悟和身边故事为切入点，系统探讨了&amp;#039;中年&amp;#039;与&amp;#039;中年危机&amp;#039;的内涵。文章从年龄、生理、社会角色、心理状态四个维度解构了中年的定义，分析了人们对中年身份的不同态度及其背后的生物本能、社会压力等成因。作者追溯了&amp;#039;中年危机&amp;#039;概念的学术起源，借助&amp;#039;半途低谷&amp;#039;效应和海德格尔哲学加以诠释，主张谨慎使用该标签，针对具体问题寻求解决，并通过寻找同伴共鸣来消解年龄焦虑，文风兼具理性思考与个人温度。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以奶奶在养老院拒绝与其他老人一起过生日的小故事引入，表达了人对年龄标签的本能抗拒，并说明本文旨在理解中年困境与应对之道，而非给中年人贴标签。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章从年龄、生理状态、社会身份和心理状态四个维度探讨了&amp;#039;中年&amp;#039;的定义，指出中年是一个模糊的复合概念，不能简单以某个年龄数字一刀切，每个人进入中年的节点因人而异。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章分析了人们对待&amp;#039;中年人&amp;#039;身份的四种典型态度：明确拒绝、有意回避、调侃自嘲、坦然接受，并从生物本能、自我认知、社会观念和现实考量四个角度解释了为何许多人抗拒中年标签。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章追溯了&amp;#039;中年危机&amp;#039;这一概念的来源——1957年精神分析学家埃里奥特·杰奎斯提出，后在欧美流行并于1994年进入中文语境——并借用丹尼尔·平克的&amp;#039;半途低谷&amp;#039;理论，将中年危机解释为人生进程中的普遍规律性低谷。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出应对中年危机的三条建议：谨慎使用&amp;#039;中年危机&amp;#039;这一笼统标签、针对具体问题寻找具体解决路径；真心接纳中年困境的普遍性、以海德格尔的哲学视角直面现实；以及通过阅读、与长者交流、和朋友倾诉等方式寻找同伴共鸣。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在结尾表示，写作本文的核心目的不是说教，而是分享自身处境、引发共鸣，让读者感受到面对中年困境时并不孤单。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109235&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Claude接入八大创意软件生态等多条科技资讯速览&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为科技资讯早报，汇集多条行业动态。核心内容包括：Anthropic升级Claude并接入Adobe、Blender等八大创意软件生态；Framework推出RTX 5070笔记本12GB显卡模块；FILCO键盘生产方接手品牌运营；蚂蚁集团开源百灵大模型Ling-2.6-flash；以及2026年中国网络文明大会即将发布AI伦理安全指引。文章以简讯形式呈现，涵盖AI应用、硬件、键盘外设、开源大模型及政策法规等多个科技领域的最新进展。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Anthropic宣布升级Claude，新增多款创意软件连接器，全面接入Adobe、Blender等八大创意软件生态，将AI能力深度整合至专业创意工作流。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Claude深度接入Adobe生态，支持Photoshop、Premiere、Express等50多项核心工具，Affinity连接器支持自动化重复任务并生成自定义功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对3D建模，Autodesk Fusion用户可通过对话让AI创建修改复杂工业模型，SketchUp用户可由Claude生成基础3D模型后再精细打磨。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;开源3D软件Blender集成Python API，开发者可让Claude分析调试场景、构建自定义脚本；视觉艺术家可用自然语言实时控制Resolume Arena和Wire。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在音频领域，Ableton用户可查询官方文档，Splice用户可检索免版税采样库；Anthropic表示Claude可充当智能导师并接管繁琐重复劳动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Framework推出RTX 5070笔记本12GB版显卡模块，与8GB版核心规格一致，兼容Framework Laptop 16全系列，预计2026年6月发货。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;FILCO键盘生产方非尔特有限公司宣布接手品牌运营，承诺持续提供维修与销售服务；中国大陆代理商表示当前销售与售后未受影响。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;蚂蚁集团百灵大模型开源Ling-2.6-flash，总参数104B、激活参数7.4B，支持BF16/FP8/INT4多版本，已在Hugging Face和ModelScope上线。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年中国网络文明大会将于5月在南宁举办，设AI赋能网络文明建设分论坛，届时将发布《人工智能应用伦理安全指引（1.0版）》。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
