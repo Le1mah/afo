@@ -4,8 +4,186 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-05-11T20:42:08.327Z</updated>
+  <updated>2026-05-12T20:40:03.206Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - May 12, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-05-12</id>
+    <updated>2026-05-12T20:40:03.206Z</updated>
+    <published>2026-05-12T20:40:03.206Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>8 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 12, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;144.65753424657535&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    36.2%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;132&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;233&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;18&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████░░░░░░░░░░░░░░░░░░░ 36.2%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;8&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/what-is-code.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;What is Code&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI代理编程时代，源代码的未来何去何从&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了随着AI代理越来越多地承担代码编写工作，未来是否还会存在源代码这一问题。作者Unmesh Joshi认为，要回答这个问题，首先需要理解代码的本质。他将代码视为具有两种不同但相互交织的属性或功能的存在。文章引发了对软件开发未来走向的深层思考，探讨人类与AI在编程领域的角色转变。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-12T05:55Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-12T05:55Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Supply-chain attack compromised JavaScript npm packages on GitHub, with Socket team uncovering the broader malicious campaign.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;A JavaScript package was compromised in a supply-chain attack campaign, with the Socket team identifying multiple affected packages across the same operation. GitHub and NPM are highlighted as the primary targets, underscoring their status as high-value platforms for this class of attack. The author uses satire to critique the industry&amp;#039;s tendency toward vague or absurd incident postmortems, and pokes fun at the sheer volume of CVE disclosures with a placeholder identifier (CVE-2024-YIKES). Credit for the findings goes to Andrew Nesbitt.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Supply Chain Attack:&lt;/strong&gt; A JavaScript package was compromised as part of a broader supply-chain attack pattern. The Socket team identified multiple affected packages in the same campaign.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Platform Exposure:&lt;/strong&gt; GitHub and NPM are the primary platforms at the center of this security incident, highlighting their role as high-value targets for supply-chain attacks.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Postmortem Culture Critique:&lt;/strong&gt; The author satirizes the quality of incident postmortems in the industry, referencing a humorous fictional root cause as a stand-in for vague or absurd real-world reports.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;CVE Reference:&lt;/strong&gt; The incident is tagged with a placeholder CVE identifier (CVE-2024-YIKES), poking fun at the volume and naming of disclosed vulnerabilities. Credit is attributed to Andrew Nesbitt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-12T05:14Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-12T05:14Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 I can&amp;#039;t access that URL, but based on the summary you provided:
+
+GitLab cuts up to 30% of roles while pivoting to AI, masking layoffs with corporate euphemisms like &amp;quot;role right-sizing.&amp;quot;&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;GitLab is undergoing a major strategic pivot toward AI-driven &amp;quot;agentic&amp;quot; workflows, which its leadership is framing as the company&amp;#039;s largest opportunity. This shift is accompanied by layoffs of up to 30% in certain areas, internally described as &amp;quot;role right-sizing&amp;quot; — a framing the author finds dishonest and tone-deaf. The timing stands out because a key competitor is currently struggling, making the cuts harder to justify as purely strategic rather than opportunistic. The author&amp;#039;s core critique is that corporate euphemisms obscure real harm to employees, and that optimistic rebranding of significant job losses reflects poorly on executive integrity.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;GitLab Strategic Pivot:&lt;/strong&gt; GitLab is positioning itself around the &amp;#039;agentic era&amp;#039; as its largest company opportunity, signaling a major strategic shift under executive leadership.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Workforce Reduction:&lt;/strong&gt; The company is conducting layoffs of up to 30% in certain areas, framed internally as &amp;#039;role right-sizing&amp;#039; amid the strategic restructuring.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Corporate Messaging Critique:&lt;/strong&gt; The author criticizes GitLab&amp;#039;s use of optimistic language to describe significant job cuts, viewing it as tone-deaf and dishonest framing.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Competitive Context:&lt;/strong&gt; The layoffs are noted as occurring while a key competitor is struggling, making the timing and internal framing appear particularly jarring to observers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202605/74468&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【『戦場のフーガ』開発記録】『インターミッション』第86回 公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《戦場のフーガ》漫画第86回揭示钢铁旋律真相并预告5周年活动&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是ファミ通.com连载漫画《戦場のフーガ 鋼鉄のメロディ》第86回的开发记录与幕后解说。作者松山洋详细说明了角色阿什（アッシュ）在漫画与游戏版本中性格差异的原因，并深入探讨了标题伏笔回收的创作理念，强调标题与内容一致的重要性。文章还介绍了漫画媒介相较于游戏画面在视觉表现上的自由度优势，并预告系列5周年纪念活动及下一话的完全原创内容。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;漫画第86回中，角色阿什（アッシュ）以轻松的态度出现在关键场景，其台词&amp;#039;阻止凯撒，那台塔拉尼斯完全做得到&amp;#039;展现出独特的信任感，作者指出漫画版阿什的台词主要由自己撰写，因此与游戏版角色性格有所不同。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者谈及作品标题&amp;#039;荘厳なる鋼鉄のメロディ&amp;#039;的伏笔回收，强调标题与内容呼应的重要性，并揭示对于反派马埃斯特罗而言，&amp;#039;钢铁旋律&amp;#039;指的正是召唤古代兵器ヘルヘイム。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了漫画表现手法的优势，如自由构图和纵向分格，并预告下一回将完全原创呈现ヘルヘイム召唤场景，同时宣布《戦場のフーガ》系列将于2026年5月迎来5周年纪念活动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑部补充说明马埃斯特罗追求多年的&amp;#039;钢铁旋律&amp;#039;终于唤醒古代兵器ヘルヘイム，第87话将于2026年5月19日刊载，并介绍了松山洋著作《ゲーム業界の攻略法》的出版信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109674&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 140 | 派友热议状态栏里藏了啥、两款百元级新玩意体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 社区速递汇聚状态栏应用热议与两款百元新品体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派Matrix社区第140期社区速递，内容涵盖多个板块：一派热议聚焦派友状态栏应用分享，370人参与讨论，常见工具包括RunCat、iStat、PixPin等；一周热评汇集装修、咖啡、旅游等话题的精彩留言；社区摘要收录多篇原创文章；新玩意栏目收录两篇作者投稿，分别介绍了joie伸缩便携吸管和新款Xiaomi智能音箱的实际体验，两篇均以实用视角对比产品优缺点，风格轻松接地气。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期社区速递介绍了少数派Matrix社区的周报内容，重启周报旨在为更多优质内容提供曝光机会。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在第273期一派讨论中，370名派友分享了各自状态栏/系统托盘中的应用，涵盖RunCat、iStat、PixPin、HapiGo等工具，大多数用户保持6-10个图标。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;一周热评汇聚了来自多篇文章的精彩评论，话题涵盖旅游游记、手冲咖啡、苹果与英特尔芯片合作、母亲节礼物、装修经验等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;社区摘要板块收录了多位作者的原创内容，包括生活事项管理、App开发历程、早睡习惯养成等主题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者胖鱼要进步分享了joie品牌伸缩便携吸管的体验，对比了伸缩款与拼接款的优缺点，认为两款各有适用场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者一群小羊说分享了将老款小爱音箱Play升级为新款Xiaomi智能音箱的经历，重点评测了音质、识别率、超级小爱功能及不支持AirPlay等优缺点。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109546&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;精彩之下的反常时刻：聊聊 F1 2026 年新规悖论&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年F1新规引入油电混动致电量管理成核心，带来悠悠球超车与安全隐患&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深入分析了F1 2026年新技术规则对赛事的影响。新规将赛车动力系统转变为真正的油电混动，内燃机与电机输出比约1:1。这带来了三大反常现象：&amp;#039;悠悠球式超车&amp;#039;（车手因电量管理反复互相超越）、直道&amp;#039;空气墙&amp;#039;失速（电量耗尽进入Super Clipping状态导致赛车骤减速），以及由此引发的危险速度差事故（日本站贝尔曼撞墙事件）。作者结合遥测数据和亲身观赛经历，系统解释了Super Clipping机制，并对新规持客观态度，认为其提升了观赏性，期待各方尽快适应。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;F1赛事主办方通过定期更新技术规则来平衡各车队竞争力，2026年新规是新一代规则的首年执行，比赛观赏性提升但也出现了一些反常现象。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年新规将F1赛车从内燃机主导转变为真正的油电混动车，内燃机与电机输出比约为1:1，但这一变化的影响远不止于动力系统本身。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新规带来了&amp;#039;悠悠球式超车&amp;#039;现象，车手利用电机动力超车后因电量耗尽被反超，反复交换位置，传统驾驶技术和空气动力学优势被大幅削弱。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;排位赛中出现赛车在直道末端无故骤然减速的&amp;#039;空气墙&amp;#039;现象，遥测数据显示车手并未踩刹车，这是电池电量耗尽进入Super Clipping状态所致。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;日本站贝尔曼超车事故中，前后车因Super Clipping造成50km/h以上速度差，贝尔曼被迫驶上草地避险，赛车撞墙承受约50G冲击力，所幸仅轻伤。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新规的核心问题在于电量管理机制：电池通过动能回收充电，电量耗尽时内燃机被强制用于发电（Super Clipping），导致赛车突然失速。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;不同赛道因弯道特性影响电量管理难度，长直道赛道（如澳大利亚、日本）充电机会少，电量管理更严苛；街道赛（如摩纳哥）重刹机会多则相对轻松。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者亲历日本站比赛，在200R弯道附近观赛时目睹安全车出动，事后得知贝尔曼事故，这促使其深入研究Super Clipping现象。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对2026新规持中立态度，认为新规有效增加了比赛可看性，但希望各方尽快适应规则，让比赛更激烈、有趣且安全。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/73727&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 推荐ICL地震预警App及微信小程序替代方案&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由少数派作者北鸮撰写，以亲身经历四川地震为引，系统介绍了地震预警工具的选择与使用。文章重点推荐成都高新减灾研究所开发的ICL地震预警App，解释了P波与S波速度差的预警原理，并详述了应用的警报界面、阈值设置、灾情反馈等功能。同时指出iOS系统级预警缺失的现状，以及该App服务器承载和付费功能的局限。文章还补充介绍了中国地震台网微信小程序、各省地震局小程序及「国家应急广播预警」等替代方案，实用性强，适合地震频发地区居民参考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者搬到四川后经历多次地震，介绍了地震预警的背景，指出此前推荐的应用存在数据源或功能缺陷，并说明中国地震预警网于2024年全面建成，但iOS至今未接入系统级地震预警。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章重点推荐由成都高新减灾研究所开发的ICL地震预警应用，介绍了地震预警的基本原理（P波与S波速度差），以及该应用在芦山地震中的实际表现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了ICL应用的功能：警报界面、倒计时、烈度提示音、阈值设置、预警科普、灾情反馈上传及关注外地功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;指出该应用的两个缺陷：地震后服务器承载压力大导致信息流加载缓慢；iOS版「重要警告」功能需付费订阅（16元/年起），但可手动绕过。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了替代方案：中国地震台网微信小程序预警系统和各省地震局小程序，以及「国家应急广播预警」小程序可获取40多种灾害预警，并说明各地预警精准度因监测点分布不同而有差异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明本次更新背景为第18个全国防灾减灾日，文章依现状调整了部分内容并新增了2025年推行的微信小程序服务介绍。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 虹线 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://1q43.blog/post/12346/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;如何给 Notion AI 接入第三方 API?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用Cloudflare Worker为Notion AI搭建第三方API接入网关&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了一种通过Cloudflare Worker将第三方API接入Notion AI的工程化方案。由于Notion AI默认版本不支持直接调用需要POST请求和API Key认证的第三方API，作者设计了一个Worker网关作为中间层：对Notion AI暴露带签名验证的GET接口，对第三方服务发起真正的POST请求，并将结果渲染为HTML供Notion AI读取。文章以博查搜索API为例，提供了完整的Worker代码和Notion AI调用Prompt模板，并指出该方案可扩展至搜索、数据、模型、自动化等各类API，使个人用户无需购买Custom Agents即可将外部系统接入Notion AI。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了通过Cloudflare Worker将第三方API接入Notion AI的工程化方案，解决了Notion AI无法直接调用第三方API的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章解释了为何需要Worker网关：因为Notion AI更适合处理GET请求的网页，而大多数第三方API需要POST请求和API Key认证，Worker充当两者之间的转换桥梁。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;方案由三个角色构成：Notion AI负责生成查询和签名，Cloudflare Worker负责鉴权和转换请求，第三方API提供实际能力，API Key存储在Worker环境变量中以保证安全。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;以博查搜索API为例，作者详细说明了Worker暴露的GET URL参数设计，包括query、summary、count、freshness等参数，以及基于时间戳和SHA-256哈希的签名机制。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章提供了完整的Cloudflare Worker示例代码，包含签名验证、参数提取、调用博查API、将JSON结果渲染为HTML页面等完整逻辑。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者给出了供Notion AI调用的Prompt模板，说明如何生成动态签名、拼接URL，并强调真正的API Key始终保留在Worker中而非暴露在Prompt里。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结了该方案的扩展性：不仅限于搜索API，还可接入数据API、模型API、自动化API等，让Notion AI能够访问用户的私有系统和外部数据源。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - May 11, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1385,184 +1563,6 @@ Demon Slayer: Hinokami Keppuutan 2 has launched a limited-time birthday event fo
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在五一劳动节后一天，宣布对人人影视分享站进行了更新。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;此前站内用户分享的网盘链接存在两个问题：链接需要手动复制粘贴才能访问，以及部分链接已失效但用户无法提前得知。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;本次更新针对上述两个问题进行了改进，新增了网盘链接可点击访问及有效性检测功能，但检测算法尚不完善，需后续优化。作者还预告将更新《我的欧洲生活 - 英国和爱尔兰篇》。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - May 1, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-05-01</id>
-    <updated>2026-05-01T20:28:56.241Z</updated>
-    <published>2026-05-01T20:28:56.241Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>7 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 1, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;132.6027397260274&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    33.2%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;121&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;244&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;17&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████░░░░░░░░░░░░░░░░░░░░ 33.2%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;7&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Designing Stable Interfaces For Streaming Content&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 流式UI三大问题的识别与解决方案&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深入探讨了流式UI（Streaming UI）的实现挑战与解决方案。作者通过AI聊天、日志查看器和实时仪表板三个实际演示，系统分析了流式界面面临的三大核心问题：滚动控制（界面强制覆盖用户滚动意图）、布局偏移（内容持续增长导致元素位移）和渲染频率（DOM更新过于频繁导致性能损耗）。文章提供了具体的JavaScript代码解决方案，包括基于60px阈值的智能自动滚动、直接操作文本节点替代innerHTML重建、以及利用requestAnimationFrame进行批量渲染，帮助开发者构建稳定、流畅的流式用户界面。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (15 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;流式UI表面上概念简单，但实际实现复杂，涉及布局偏移、滚动管理、标记语言和各种交互状态等诸多挑战。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;越来越多的界面在响应仍在生成时就开始渲染，这种实时更新的特性带来了内容不断变化、布局持续增长的问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文将通过一个简单界面，展示如何正确处理流式UI的稳定性、滚动管理和局部内容渲染。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者构建了三个演示——聊天气泡、日志流和转录视图，它们外表不同但面临相同的三个核心问题：滚动控制、布局偏移和渲染频率。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;滚动问题：内容流式传输时界面强制将视口固定在底部，用户主动上滚后页面会强制跳回，干扰阅读体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;布局偏移问题：流式内容导致容器不断增长，页面元素持续下移，用户正在交互的元素位置发生变化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;渲染频率问题：浏览器每秒约渲染60帧，但数据流到达速度可能更快，导致DOM被频繁更新，性能悄然下降。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过三个CodeSandbox示例，展示了AI聊天、日志查看器和实时指标仪表板各自的流式UI问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;流式UI的不稳定性不是传统代码错误，而是影响所有用户的可访问性问题，可通过仔细的UX规划和测试加以修复。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过追踪用户滚动行为标志（userScrolled）和设置60px阈值，可实现智能自动滚动：用户在底部时自动跟随，上滚时停止，返回底部时恢复。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新流开始时需重置userScrolled标志，否则上一条消息的滚动状态会静默禁用下一条的自动滚动功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;布局稳定性问题的根源在于每次更新都重建整个DOM（innerHTML清空再重建），导致持续的布局重计算和光标闪烁。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;优化方案是维护一个活跃的文本节点并直接追加字符，仅在换行时创建新段落，大幅减少不必要的布局重计算。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;渲染频率优化通过缓冲区和requestAnimationFrame实现批量DOM更新，用rafQueued标志确保每帧只调度一次刷新，避免过度更新。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;flush函数在每帧绘制前一次性将缓冲区所有字符写入DOM，然后清空缓冲区、重置标志并执行一次自动滚动。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-297/viewer?title_no=853933&amp;episode_no=312&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 297&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 DOGHAUS是WEBTOON上连载超297话的漫画系列&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本内容并非文章，而是一个名为《DOGHAUS》的WEBTOON漫画系列的网页界面文本，包含从第1话到第297话的章节列表、特别公告、Kickstarter众筹启动通知以及书籍出版公告等导航信息。创作者为Moowsie，该系列在WEBTOON的CANVAS平台上自行发布，属于戏剧类别。页面还包含订阅、分享、举报等功能按钮，以及其他推荐漫画的排行榜信息，并无实际文章内容可供摘要。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;NHS Goes To War Against Open Source&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 NHS计划关闭开源库，作者强烈反对并呼吁逆转&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者曾在英国政府GDS、NHSX、i.AI等多个部门任职并积极推广开源理念，对NHS England计划以AI安全扫描工具Mythos带来的安全风险为由关闭几乎所有开源代码库一事表示强烈反对。作者指出，此举既无必要——NHS代码库多为数据集和内部工具，不构成安全隐患——也无实效，因为相关代码已被抓取，AI工具同样可攻击闭源系统。此决定还与英国多项官方开源政策相矛盾。作者已提交信息自由申请，并呼吁公众向议员施压，要求NHS撤回这一倒退决定。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;NHS正准备关闭其几乎所有的开源代码库，作者曾在英国政府多个部门工作并大力倡导开源，对此决定深感失望。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;多名NHS内部人士向作者透露了这一消息，一位NHS England高级技术人员表示，由于AI安全扫描工具Mythos带来的安全风险，将暂停公开代码并删除大多数代码库。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为这一反应过度，AI安全研究所和NCSC均未建议采取此类行动，且4月29日发布的指导文件SDLC-8进一步证实了这一计划。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;NHS的大多数开源代码库包含数据集、内部工具和前端设计等内容，并不会带来实质性安全风险，疫情期间的新冠接触追踪应用开源后也未发生任何安全事故。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;此次关闭决定与英国技术实践准则第3条、服务标准、DHSC政策及NHS数字化软件工程质量框架等多项官方文件的开源要求直接矛盾。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;关闭所有代码库不仅工程量巨大，而且为时已晚——代码已被抓取，AI工具同样可以分析闭源软件和网站，关闭代码库无法有效提升安全性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者已提交信息自由申请以了解决策原因，并确保所有NHS代码库已备份，同时呼吁公众联系议员，反对NHS关闭其世界领先的开源代码库。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Day We Met &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/815371683239280640&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 4, Page 46&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A webcomic Tumblr page generated only social engagement data—likes and reblogs—with reader comments hinting at a romantic near-kiss moment.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The submitted content for &amp;quot;Chapter 4, Page 46&amp;quot; is not a substantive article but rather the social engagement metadata from a Tumblr post by the webcomic account *thedaywemetcomic*, consisting primarily of usernames who liked or reblogged the page. The only extractable narrative signal comes from two brief user comments indicating the page depicts a romantic or emotionally charged interaction between characters, with readers expressing enthusiasm for a potential kiss. No technical, narrative, or analytical content is present that would support a meaningful summary in the traditional sense. The source material is essentially a social graph artifact — engagement telemetry — rather than prose or structured content. Any attempt to summarize it substantively would be inferential extrapolation beyond what the data actually contains.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unsuitable Content Provided:&lt;/strong&gt; The submitted text is not an article but rather a Tumblr post&amp;#039;s notes section, consisting entirely of usernames who liked or reblogged a webcomic page. There is no substantive technical or narrative content to analyze.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Webcomic Engagement Data:&lt;/strong&gt; The content represents social engagement metadata from &amp;#039;thedaywemetcomic&amp;#039; on Tumblr, showing reblogs and likes from dozens of users for what appears to be Chapter 4, Page 46 of a webcomic.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reader Comment Reactions:&lt;/strong&gt; Two brief user comments are present: one expressing strong desire for characters to kiss and calling them &amp;#039;too cute,&amp;#039; and another simply saying &amp;#039;Omg so cute,&amp;#039; indicating the page features a romantic or emotionally resonant character interaction.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-01T09:56Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-01T09:56Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Build Awesome多次众筹引发对开源项目诚信的质疑&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文围绕&amp;#039;Build Awesome&amp;#039;（基于Eleventy的开源项目）的Kickstarter众筹活动展开评述。作者以旁观者视角，重点关注开源项目融资的诚信问题。文章梳理了三次众筹活动的经过：2024年原始Web Awesome活动筹资超78万美元；2025年3月新活动在超额完成目标后被取消，官方归咎于Gmail邮件送达率低；目前重启的活动已达目标200%。作者对团队在已超额募资情况下仍选择取消的行为表示质疑，认为这损害了支持者的信任，并对项目最终能否交付持保留态度。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者注意到&amp;#039;Build Awesome&amp;#039;活动重新上线，认为它不过是Eleventy的品牌重塑，并对开源项目融资模式更感兴趣。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新一轮活动已筹集到57,000美元，远超30,000美元的目标，还有27天剩余；而此前3月的活动在3天内达标后却意外取消，尽管已筹集45,000美元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&amp;#039;Awesome&amp;#039;团队将取消归咎于谷歌的邮件送达问题，声称推广邮件仅有5-10%到达收件箱，但此说法引发了不少质疑。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;相比之下，2024年最初的Web Awesome活动以同样的30,000美元目标筹集了786,282美元，这使团队认为本次活动表现异常。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者质疑团队在已超额完成目标的情况下仍取消活动的决定，认为此举缺乏诚信，并对支持者能否获得回报表示担忧。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-01T08:05Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-01T08:05Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Developers critique AI-generated &amp;quot;performative slop&amp;quot; projects built purely for social signaling, not solving real problems or delivering lasting value.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author critiques what they term &amp;quot;performative slop&amp;quot; — low-quality, AI-generated projects built not to solve real problems but to signal enthusiasm and attract attention from employers and peers in AI-adjacent circles. This output is disposable by design: briefly showcased for social validation, then abandoned in public repositories with no expectation of maintenance or long-term value. The motivation is purely reputational, with metrics like token consumption being wielded as hollow proxies for engineering effort or capability. The author expresses deep frustration and fatigue with this dynamic, voicing a perspective shared by developers who prioritize genuine craft and substance over spectacle-driven self-promotion.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Performative AI Culture:&lt;/strong&gt; The author expresses frustration with a persistent culture of creating AI-generated content purely for show rather than genuine utility. This &amp;#039;performative slop&amp;#039; stage has overstayed its welcome in the developer community.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Zero Lasting Value:&lt;/strong&gt; The content being produced is characterized as low-quality and disposable, attracting no meaningful second look from anyone. It exists solely as a fleeting artifact with no real-world impact.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Peer Approval Motivation:&lt;/strong&gt; The driving force behind this output is impressing AI-enthusiast peers and employers rather than solving real problems. Social signaling within AI-adjacent circles has replaced genuine engineering merit.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;GitHub Graveyard Problem:&lt;/strong&gt; Projects are paraded briefly for attention and then abandoned, left to decay in public repositories. The rapid cycle of showcase-then-discard reflects a lack of commitment to maintainability or long-term value.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Token Usage Vanity Metric:&lt;/strong&gt; The author mocks the competitive posturing around resource consumption as a proxy for capability or effort. Treating token usage as a status symbol highlights the superficiality of current AI project culture.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Developer Burnout Sentiment:&lt;/strong&gt; The closing line conveys deep exhaustion and disillusionment with the current state of AI-driven development culture. It reflects a broader fatigue shared by developers who prioritize substance over spectacle.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109266&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 10 部作品&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派本周推荐十部影视动画佳作及近期影视资讯速览&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部「本周看什么」栏目的综合影视推荐，涵盖电影、韩剧、日剧、英剧、美剧及动画共10部重点作品，另附更多简短推荐、本周新预告、院线片资讯及引进消息。重点推荐包括国产宣纸手绘动画《燃比娃》、探讨性侵余波的韩国电影《世界的主人》、朴惠英新作韩剧《努力克服自卑的我们》、改编华城案的《稻草人》，以及动画《日本三国》《婚姻剧毒》等。文章以编辑点评为主要形式，兼顾剧情介绍与观感分析，为读者提供全面的观影参考。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文是少数派编辑部「本周看什么」栏目的一期推荐，列出了近期值得观看的10部影视及动画作品，并附上精彩预告和影视资讯速览。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影《燃比娃》是上海美术电影制片厂首部宣纸手绘动画长片，结合东方美学与现代技术，讲述猴子少年寻找圣山秘密的冒险故事，美术惊艳但台词略显冗余。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影《世界的主人》由韩国导演尹佳恩执导，以举重若轻的方式探讨儿童性侵案件的漫长余波，强调受害者应成为自己世界的主人而非被毁掉一生。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;韩剧《努力克服自卑的我们》由金牌编剧朴惠英创作，讲述两个自卑破碎的中年人相遇后互相治愈、与自我和解的故事，金句频出发人深省。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;韩剧《稻草人》改编自韩国著名华城连环杀人案，以剧集形式还原1988年案件始末，增加了刑警与检察官对垒的故事线，细致展现腐败官僚体系。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;日剧《月夜行路：答案在名作中》讲述家庭主妇与跨性别酒吧妈妈桑的公路旅行，两人借助文学名作破解沿途案件，渐渐找回人生主动权。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;英剧《半个男人》是HBO限定剧，以双线叙事展现两个性格迥异的男孩因母亲重组家庭而命运交织三十年，情感纠葛难以言说是兄弟情还是爱意。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;美剧《逆转狂篮 第二季》改编自NBA湖人队首位女总裁珍妮·巴斯的经历，讲述女性总裁艾拉在哥哥回归后既要经营球队又要防范家族夺权的故事，亲情博弈更有看点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《怪奇物语 1985 故事集 第一季》是大热IP的衍生动画，时间线设定在正剧第二季和第三季之间，以少年组为主角展开轻快的青少年探险故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《日本三国》设定在核战后文明衰退的近未来日本，以少年军师三角青辉为主角，借鉴中国古典谋略演绎三国争霸史诗，影像风格鲜明兼具黑色幽默。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《婚姻剧毒》讲述用毒人传人与男扮女装婚姻诈欺师合作寻找结婚对象的故事，动作作画眼花缭乱，恋爱喜剧节奏快，娱乐性十足。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还收录了多部剧集和电影的简短推荐、本周新预告汇总（含《暗影蜘蛛侠》《龙之家族 第三季》《足球教练 第四季》等），以及五一档院线电影介绍和影视引进资讯。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
