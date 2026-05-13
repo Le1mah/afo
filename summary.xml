@@ -4,8 +4,211 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-05-12T20:40:03.206Z</updated>
+  <updated>2026-05-13T20:40:22.195Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - May 13, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-05-13</id>
+    <updated>2026-05-13T20:40:22.195Z</updated>
+    <published>2026-05-13T20:40:22.195Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>9 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 13, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;145.75342465753425&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    36.4%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;133&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;232&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;19&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████░░░░░░░░░░░░░░░░░░░ 36.4%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;9&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Practical Interface Patterns For AI Transparency (Part 2)&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI transparency requires precise, context-aware status language — not spinners — to build user trust during agentic operations.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Traditional loading patterns (spinners, vague &amp;quot;Working...&amp;quot; messages) break down in agentic AI contexts because they were built for data retrieval latency, not decision-making time — making transparency fundamentally a language problem. Effective status updates follow a three-part structure: a strong action verb, the specific item being processed, and any constraints the AI is operating within, which together confirm the system understood the request. For multi-step operations, breaking the wait into discrete sequential steps grounded in the user&amp;#039;s real-world context reduces uncertainty better than any single status message. Voice calibration matters too: conversational tone works for low-stakes tasks, while high-stakes operations like financial transfers warrant precise, mechanical language. Since no framework universally predicts what builds trust, A/B testing and usability studies are essential to validate that the communication style fits the actual audience — a pattern Perplexity AI demonstrates well with its real-time, updating action list.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Legacy Loading Patterns:&lt;/strong&gt; Traditional spinner-based loading patterns fail in agentic AI contexts because they were designed for data retrieval latency, not the &amp;#039;thinking time&amp;#039; of AI agents making decisions and weighing options.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Microcopy Over Visuals:&lt;/strong&gt; Transparency in AI interfaces is fundamentally a language problem, not just a visual design problem. Vague placeholders like &amp;#039;Loading&amp;#039; or &amp;#039;Working&amp;#039; must be replaced with specific, action-oriented status updates.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Agentic Update Formula:&lt;/strong&gt; Effective AI status updates follow a three-part structure: a strong Action Word, a Specific Item being processed, and any Limits or rules the AI is operating within. This structure confirms to users that the AI understood their request.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Step-by-Step Progress:&lt;/strong&gt; Rather than a single vague status message, agentic systems should break waiting periods into multiple discrete, sequential steps that ground the technical process in the user&amp;#039;s real-world context.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Tone Matches Risk:&lt;/strong&gt; The appropriate AI voice should be calibrated to task risk: conversational and friendly for low-stakes tasks, precise and mechanical for high-stakes operations like financial transfers or database migrations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;User Research Is Essential:&lt;/strong&gt; No framework can predict the exact tone that builds trust for every user group, so A/B tests, usability studies, and interviews are necessary to validate that the AI&amp;#039;s communication style fits its actual audience.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Perplexity AI Example:&lt;/strong&gt; Perplexity AI demonstrates best-practice status updates by displaying a real-time, updating list of actions as they are completed, eliminating user uncertainty about what the system is doing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/486&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 486: TanStack Attack&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 TanStack遭供应链攻击，84个npm包被污染并含危险payload&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期Bytes newsletter（第486期）重点报道了TanStack供应链攻击事件：攻击者通过链式利用GitHub Actions的pull_request_target漏洞污染pnpm缓存，提取OIDC令牌后向npm发布84个恶意包，payload具备凭证收割、自我传播和死亡开关功能。文章以轻松幽默的风格提醒开发者谨慎轮换凭证并升级pnpm 11。此外还涵盖Tailwind CSS v4.3、Expo 56 beta、Waku 1.0等前端生态更新，以及一道关于JavaScript原型链查找顺序的小测验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;一名攻击者发布了84个恶意版本，覆盖42个@tanstack/*包，在外部研究员发现前约存活20分钟。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;攻击通过三个漏洞链式利用：恶意PR利用GitHub Actions的pull_request_target污染pnpm缓存，再通过合法发布流程提取OIDC令牌发布到npm。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;恶意payload具备凭证收割、自我传播蠕虫和死亡开关三大功能，撤销token会触发rm -rf ~/命令。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;建议受影响用户谨慎轮换凭证、设置包最小发布年龄、升级到pnpm 11。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还介绍了QA Wolf测试平台广告及Clerk CLI新功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cool Bits板块汇总了Tailwind CSS v4.3、Waku 1.0 beta、Expo 56 beta等多个开源项目更新动态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;JavaScript弹出测验解析：构造函数内部的箭头函数属性优先于原型方法被调用，因此输出Woof Woof。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/stupidly-simple-svg-sparklines/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Stupidly Simple SVG Sparklines&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用纯SVG无需第三方库即可创建交互式迷你折线图&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了如何使用纯SVG创建sparkline（迷你折线图）。作者以简洁实用的风格，逐步讲解了SVG坐标系的特点、x和y坐标的计算算法，并提供了PHP代码示例。文章重点说明了y坐标需要特殊处理，因为SVG的原点在左上角，需将数据值转换后从高度中减去。此外，作者还介绍了通过叠加带title属性的SVG circle元素来实现数据点的悬停交互效果。整篇文章强调无需任何第三方库，仅凭原生SVG即可轻松实现数据可视化。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Sparkline是一种没有坐标轴的简洁折线图，使用SVG的polyline元素通过x,y坐标对来绘制，适合快速展示数据趋势。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;SVG坐标系以左上角为原点(0,0)，x坐标计算简单，而y坐标需要通过SVG高度、数据最大值和最小值进行换算，并用高度减去计算值来实现正确的方向。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章提供了PHP代码示例，展示如何计算每个数据点的x和y坐标，并加入内边距以优化显示效果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过在相同坐标上叠加SVG circle元素并添加title属性，可以为每个数据点增加悬停交互提示功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;最终效果展示了一个带有可交互圆点的sparkline图表，无需任何图形库或第三方依赖，仅用纯SVG即可实现。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://x.com/PR_CC2/status/2054435186885243356?s=20&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『チェイサーゲームW水魚の交わり』 W主題歌 LieN ーリアンー「大切な一日」本日リリース！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网站错误提示建议禁用隐私扩展后重试&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章内容为一条错误提示信息，提示用户操作失败，建议重试，并指出隐私相关的浏览器扩展可能导致x.com网站出现问题，建议用户禁用此类扩展后再次尝试。文章无实质性内容，仅为技术故障提示。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n1bc11036f50b&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【観劇感想！】リーディング公演『しごにんの侍』&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 異形剣豪活劇の朗読公演が配信で楽しめる&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本記事はサイバーコネクトツーの宣伝広報担当者が、トライディア主催のシネマティックリーディング公演『しごにんの侍』の観劇感想をレポートしたものです。シネマティックリーディングとは、豪華なセットを使わず、声優の朗読・生演奏・漫画コマの映像を組み合わせた独自の舞台形式です。戦国時代を舞台に最強剣豪4人の手足が入れ替わるという奇抜な設定の本作は、声優陣の圧倒的な演技と音楽の融合により観客を魅了しました。また、5月14日から20日まで期間限定アーカイブ配信が実施されることも告知されています。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー宣伝広報課のなかとおが、シネマティックリーディング公演『しごにんの侍』の感想を紹介し、その没入感が数日後も残っていると述べている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;シネマティックリーディングとは、大画面・生演奏・漫画のコマを組み合わせた臨場感あふれる朗読劇形式であると説明している。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;原作『しごにんの侍』のあらすじを紹介し、戦国時代を舞台に最強剣豪4人の手足が入れ替わるという異形の設定が魅力だと述べている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;声優陣の職人芸と生演奏BGMの融合が生み出す緊張感と臨場感を高く評価している。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;公演を見逃した人向けに、5月14日から20日まで期間限定アーカイブ配信が行われることを告知し、アフタートーク映像も収録されていると案内している。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109399&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1 | 把笔记软件「装进」浏览器：SilverBullet.md&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 SilverBullet是一款自托管PWA笔记软件，开浏览器即可用&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了开源笔记软件SilverBullet.md。作者从自身多年辗转于各类PKM软件的经历出发，引出SilverBullet的核心优势：自托管、本地优先的PWA架构，让用户打开浏览器即可使用笔记，无需重复安装客户端。文章系统介绍了其部署方式、界面结构、编辑功能（包括frontmatter、wikilink、transclusion、Space Lua等）、类SQL的集成查询语言SLIQ、软件设置及插件扩展体系。作者认为SilverBullet是一款被低估的软件，兼具数字所有权保障与跨设备便利性，具有相当大的潜力。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了自己多年来尝试各种笔记软件的经历，核心需求是数据自控和纯文本存储，同时表达了对跨设备同步繁琐问题的困扰。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章引出SilverBullet.md这一开源项目，介绍其最大特点：支持自托管，客户端为本地优先的PWA，用户打开浏览器即可使用，无需重复安装配置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了SilverBullet的部署方式，包括购买VPS和域名、使用Docker部署、配置Cloudflare和反向代理，以及最简便的PikaPods一键部署方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了SilverBullet的基本界面结构，包括顶栏、编辑区、Page Picker和Command Palette等核心交互元素，以及笔记自动保存和离线支持等特性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了SilverBullet的笔记编辑功能，包括frontmatter、wikilink、transclusion、行内标签、任务列表、LaTeX公式、Mermaid图表以及Space Lua扩展语法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了SilverBullet的集成查询功能（SLIQ），类似SQL的查询语言可检索笔记库中的各类对象，并通过游戏信息汇总和待办事项筛选两个例子演示其用法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了SilverBullet的软件设置方式，包括图形界面和直接编辑CONFIG文件两种方法，以及通过Space Style代码块自定义CSS样式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了SilverBullet的扩展能力，包括创建笔记模板、斜杠命令、自定义命令，以及Git、TreeView、SilverSearch等值得安装的插件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为SilverBullet是一款被低估的软件，肯定其便利性和潜力，并提及SilverBullet+桌面版本及作者Zef Hemel的开发付出。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108228&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;佳明本能 Instinct 3 太阳能版评测：我的智能手表终章&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 佳明Instinct 3以超长续航和太阳能技术成为作者的终极智能手表。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者对佳明本能Instinct 3太阳能版的深度评测。作者在经历多款智能手表的不满后，找到了这款兼顾超长续航、专业运动健康监测与消息通知的「结合体」。文章详细介绍了其功能导向的设计理念、基于RTOS系统和Power Glass太阳能技术实现的近乎无限续航、丰富的自定义功能，以及独特的「身体电量」健康管理体系。作者也指出其与手机联动弱、碎片活动记录差等不足。整体而言，作者认为本能3追求长久耐用的理念在快餐时代难能可贵，将其定为个人智能手表的终极选择。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了自己使用智能手表的历程，从Moto360到TicWatch、三星手环、G-Shock和Pixel Watch，发现各有不足，最终确定需要一款续航超长、具备专业运动健康监测且能查看通知的手表。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本能3的设计以功能为导向，采用塑料表圈和铝合金保护表盘，5个实体按键支持盲操作，10 ATM防水，传感器凸起设计确保贴合皮肤，顶部配备双色LED手电筒，整体风格坚固耐用而非精致华丽。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本能3在作者的日常设置下可续航21天，90分钟完成充电；太阳能测试显示晴天户外3小时可增加约8%电量，超过日均5%的消耗，实现近乎无限续航。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;佳明自研RTOS系统与Android等通用操作系统不同，能精准管理任务、随时秒睡秒醒，极大节省电量，是佳明续航领先的核心原因之一。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;佳明的Power Glass技术将太阳能电池分割成微米级网格嵌入透明玻璃，源自收购法国SunPartner Technologies的专利，是目前移动设备端最先进的太阳能方案，但也存在发电效率和屏幕通透性的不足。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本能3功能极为丰富，提供高度自定义选项；GPS搜星速度快、精度高；ABC传感器可快速查看海拔气压；Elevate V4心率传感器在精度与功耗间取得平衡。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;佳明的「身体电量」概念将身体和精神疲劳量化，能准确反映用户状态，并据此提供睡眠和运动建议，体现了数据服务人而非制造焦虑的理念。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本能3独立性强，离开手机也能完整运行，但与手机的联动较弱：睡眠模式无法同步系统设置、碎片化活动自动记录差、通知只能查看不能回复，娱乐功能几乎为零。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为本能3帮助自己戒掉了频繁刷屏的习惯，其不抢夺注意力、长续航、太阳能的理念在当下快餐文化中尤为可贵，称其为自己的「智能手表终章」。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109699&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Google 提前给 Android 办了场发布会，但主角依然不是 Android&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Android发布会主角实为Gemini Intelligence的全生态整合&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文报道了Google举办的The Android Show | I/O Edition 2026发布活动。作者指出，尽管以Android为名，发布会的真正主角是Gemini Intelligence——一套深度整合Android软硬件生态的AI体验平台，涵盖自动化任务执行、智能表单填写、Gboard语音整理等功能。发布会另一重磅内容是Googlebook，本质上是融合Gemini Intelligence的新一代Chromebook。Android 17本身更新内容有限，包括emoji重设计、Pause Point数字健康工具及Quick Share扩展。作者以批判性视角指出，大部分新功能受地区和语言限制，国内用户几乎无缘体验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2025年Google首次将Android部分从I/O大会Keynote中拆分出来，今年延续该策略并举办了时长翻倍的The Android Show | I/O Edition 2026直播活动，但主角看起来并非Android本身。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Gemini Intelligence是整合了Android生态软硬件的智能化体验，将从今年夏季开始分批登陆三星Galaxy和Google Pixel等设备，支持自动化任务执行、多模态操作、智能表单填写和Gboard语音整理等功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Chrome for Android将于6月底引入Gemini in Chrome，支持网页摘要、上下文问答及auto browse网页自动化操作，但功能限制较多，仅面向美国英语用户及付费订阅用户。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android系统引入了Create My Widget生成式小组件功能，允许用户通过自然语言描述由Gemini生成自定义小组件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Googlebook被定义为全新笔记本电脑品类，实质是以Chromebook为基础融合Gemini Intelligence、Android应用生态和Chrome扩展生态的整合产品，将与Acer、ASUS、Dell、HP、Lenovo合作于今年秋季推出首批设备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Googlebook的Magic Pointer功能将鼠标指针变为唤起Gemini的入口，晃动鼠标即可激活并基于指向内容提供上下文建议，是本次发布中较具新意的交互设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android 17的更新内容相对有限，包括近4000个重新设计的emoji表情、新增Pause Point数字健康应用、扩展Quick Share跨平台分享支持，以及与Apple合作改进iOS到Android的数据迁移流程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android Auto将适配更多车载屏幕形状，引入Material 3 Expressive设计语言，Google Maps迎来十余年来首次大幅车机视觉更新，Gemini也将进入车机系统。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为，这场Android Show的真正主角是Gemini Intelligence对Android跨设备生态的全面整合，而非Android系统本身，并对国内用户因地区、语言、机型限制而难以体验大部分新功能表示遗憾。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 笨方法学写作 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://cnfeat.com/2026/05/13/handbook4.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;《笨方法文化手册4.0》：从 0 到 1 构建长期主义者的人生成长系统&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 笨方法手册4.0全面重构，助力长期主义者构建人生成长系统。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《笨方法文化手册4.0》是一本历时6年打磨、面向长期主义者的人生成长系统手册。本次4.0版本进行了大规模内容重构，从14万字扩容至27万字，新增13万字真实实战案例。全书重构为四大板块：核心系统、行动指南、磨练实录与个人思想实验室，并新增高手与普通人实践案例附录。作者以「笨方法」为核心理念，强调磨练、好奇、科学、模仿四大实践要素，倡导长期主义的成长方式，鼓励读者在平凡日常中渐进改变，最终实现安身立命。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《笨方法文化手册4.0》历时6年打磨，新增13万字实战案例，全书共27万字536页，是该手册的「完全体」版本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;手册自2020年起每年更新，4.0版本不仅是版本迭代，更是从内到外的内容重构。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本次超级更新将手册从14万字扩容至27万字，新增内容来自真实世界的高手实践案例，全书共151份文档，200多处修改。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;4.0版本全面重构目录，梳理四大板块：核心系统、行动指南、磨练实录与个人思想实验室，并新增高手与普通人实践案例附录。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;手册目录详细列出从序言到四大部分的所有章节，涵盖笨方法的定义、践行方式、磨练实录及个人思想实验室等内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表达了对读者的期望，认为无论是初识还是长期践行笨方法的人，都能从手册中获得新认知与改变灵感，并以「世上无难事，只怕笨方法」作结。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - May 12, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1483,86 +1686,6 @@ Demon Slayer: Hinokami Keppuutan 2 has launched a limited-time birthday event fo
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;参考旅行社路线抄作业：建议参考携程鸿鹄逸游等旅行社的精品定制路线，借鉴其景点安排和路线规划，省时省力。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;从自身兴趣出发规划行程：建议根据个人喜好选择博物馆、城市展览馆、铁路博物馆、特色建筑等，并可策划「主题之旅」，如收集印章、拍摄电箱彩绘、记录城市设计细节等。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;放松心态与主动沟通：旅途中保持深呼吸、放慢心跳，以闲适心态捕捉细节；同时鼓励大胆与陌生人交流，因为大部分人都是友善的，这也是许多旅行vlog有趣之处。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - May 2, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-05-02</id>
-    <updated>2026-05-02T20:11:46.984Z</updated>
-    <published>2026-05-02T20:11:46.984Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>1 articles from 1 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 2, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;133.6986301369863&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    33.4%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;122&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;243&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;17&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████░░░░░░░░░░░░░░░░░░░░ 33.4%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;1&lt;/strong&gt; articles from &lt;strong&gt;1&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 土豆不好吃 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dmesg.app/labors-day.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;五一劳动节快乐，顺便来谈谈人人影视分享站的更新&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 人人影视站更新网盘链接可点击及有效性检测功能&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇简短的博客更新公告。作者在五一劳动节后，介绍了对人人影视分享站所做的功能改进：原来用户分享的网盘链接需要手动复制粘贴才能访问，且无法预先判断链接是否有效，导致用户体验不佳。本次更新解决了这两个问题，链接现在可以直接点击访问，并加入了网盘链接有效性检测功能。作者坦言检测算法仍不完善，需持续优化。文末还预告了《我的欧洲生活 - 英国和爱尔兰篇》的近期更新计划。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在五一劳动节后一天，宣布对人人影视分享站进行了更新。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;此前站内用户分享的网盘链接存在两个问题：链接需要手动复制粘贴才能访问，以及部分链接已失效但用户无法提前得知。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本次更新针对上述两个问题进行了改进，新增了网盘链接可点击访问及有效性检测功能，但检测算法尚不完善，需后续优化。作者还预告将更新《我的欧洲生活 - 英国和爱尔兰篇》。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
