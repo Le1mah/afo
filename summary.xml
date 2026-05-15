@@ -4,8 +4,370 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-05-14T20:39:23.340Z</updated>
+  <updated>2026-05-15T20:48:07.835Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - May 15, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-05-15</id>
+    <updated>2026-05-15T20:48:07.835Z</updated>
+    <published>2026-05-15T20:48:07.835Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>19 articles from 10 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 15, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;147.94520547945206&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    37.0%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;135&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;230&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;19&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████░░░░░░░░░░░░░░░░░░░ 37.0%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;19&lt;/strong&gt; articles from &lt;strong&gt;10&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22569&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Is breá leat é a fheiceáil.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 &amp;quot;You love to see it&amp;quot; — a brief Irish-language social media post shared across Mastodon and Bluesky.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The content you&amp;#039;ve shared is too minimal to summarize meaningfully. It appears to be a short social media post or microblog entry in Irish (&amp;quot;Is breá leat é a fheiceáil&amp;quot; means &amp;quot;You love to see it&amp;quot;), with a timestamp, location coordinates, and cross-posting links to Mastodon and Bluesky. There&amp;#039;s no substantive article content to work with.
+
+If you have the full article text, paste it in and I&amp;#039;ll write the summary.&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blog.tito.io/posts/tito-as-gaeilge&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Tito as Gaeilge&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Kneecap与Tito共同助力爱尔兰语复兴&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者以Kneecap乐队风波和Manchán Magan的离世为引，探讨了爱尔兰语复兴的当代意义。作者结合自身家族渊源、Tito平台的爱尔兰语本地化实践，以及在芬兰了解到的小国语言保护经验，表达了对爱尔兰语未来的乐观态度。文章风格个人化而不失深度，呼吁人们放下对爱尔兰语学习的抵触，从日常点滴做起，共同守护这门承载民族记忆的语言。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kneecap乐队和作家Manchán Magan的去世两件大事激起了爱尔兰人对本民族语言的集体意识觉醒。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;英国政府试图以恐怖主义罪名起诉Kneecap成员，此举反而使乐队声名大噪，并在全球范围内引发了对爱尔兰语的广泛兴趣。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Manchán Magan毕生致力于复兴爱尔兰语，而这门语言自英国殖民时代起便几近消亡，仅在爱尔兰少数地区得以保留。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的家族与爱尔兰语渊源深厚，其叔叔曾担任爱尔兰政府首席翻译，并为Tito平台完成了爱尔兰语版本的初译工作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Tito平台虽较少涉足音乐演出票务，但作者对此深感热忱；全球最大爱尔兰语节Oireachtas na Samhna已使用Tito的爱尔兰语结账系统多年，Kneecap也参与了2025年的节日活动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在赫尔辛基参加Tiny Ruby大会时了解到，芬兰和爱沙尼亚等小国仍保有本民族语言，这让他对爱尔兰语的生命力重燃信心。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为，语言复兴无需过于严肃，从日常点滴中使用几个爱尔兰语词汇便是良好开端，并分享了自己在伦敦与他人用爱尔兰语交流的亲身经历。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Tito提供爱尔兰语界面是对语言复兴事业的支持，作者以爱尔兰语结尾，表达了对这门活语言逐词生长的美好期许。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22567&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The closing talks at UX London 2026&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 UX London 2026三天活动各设压轴演讲，内容涵盖语言、设计与服务。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了UX London 2026三天活动中每天的压轴演讲安排。每天下午工作坊结束后，所有参与者将重聚一堂，共同聆听压轴演讲，以此作为当天的共同收尾体验。三位演讲者分别为：探索日的Michael Kibedi，主题关于英语默认标准；设计日的Ben Sauer，主题关于故事与屏幕；交付日的Lou Downe，主题为Bad services，同名新书也将同期发布。文章最后提醒读者尽快购票，并提供折扣码。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了UX London 2026每天下午工作坊结束后会有一场压轴演讲，目的是让所有参与者在一天结束时共享同一体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一天（探索日）的压轴演讲由Michael Kibedi主讲，题目为《Whose English gets to be default?》。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二天（设计日）的压轴演讲由Ben Sauer主讲，题目为《Story before screens》。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三天（交付日）的压轴演讲由Lou Downe主讲，题目为《Bad services》，这也是其新书的书名。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提醒读者在标准票价截止前购票，并提供折扣码JOIN_JEREMY可享受八折优惠。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Native Apps Should Be Avoided Whenever Possible — No One’s Happy&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Native apps silently harvest your data via embedded SDKs, bypassing browser protections with no federal law to stop them.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Native apps present serious privacy risks that most users don&amp;#039;t realize, primarily because any permission granted to an app is automatically inherited by every embedded third-party SDK — meaning a single analytics aggregator can silently collect location data across hundreds of apps simultaneously. The White House app exemplifies this pattern: it claimed zero data collection while embedding ten analytics frameworks and routing 77% of network traffic to third parties, including GPS polling every 4.5 minutes. Unlike browsers, which deliberately sandbox capabilities like background location, startup execution, and third-party code injection, native apps bypass these protections entirely and can fingerprint devices and transmit data before any consent prompt appears. The real-world consequences are severe — location data from apps has been used to out individuals, track immigrants, and support prosecutions, with a 2025 breach exposing 30 million records from over 3,000 apps, all in the absence of any comprehensive US federal privacy law. Genuine technical justifications for native apps (AR/VR, real-time gaming, NFC/Bluetooth) are narrow; for banking, retail, and most consumer services, the app is a business preference, not a necessity — so defaulting to the browser, auditing installed apps, and treating every &amp;quot;download our app&amp;quot; prompt with skepticism is sound practice.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;White House App Case Study:&lt;/strong&gt; The Trump administration&amp;#039;s official White House app declared zero data collection in its privacy manifest while embedding ten analytics frameworks, including a GPS pipeline polling precise coordinates every 4.5 minutes and routing 77% of network requests to third parties.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Embedded Third-Party SDKs:&lt;/strong&gt; Most apps are thin wrappers around dozens of third-party packages, each with independent data pipelines. Any permission granted to the app is inherited by every embedded SDK, enabling single aggregators to collect location data across hundreds of apps simultaneously.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Real-World Data Abuse:&lt;/strong&gt; App-derived location data has been used to out individuals, track immigrants, and enable prosecution over reproductive healthcare. A 2025 Gravy Analytics breach exposed 30 million location records from 3,455 apps, and there is currently no comprehensive US federal privacy law restricting this trade.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apps vs. Websites Capabilities:&lt;/strong&gt; Native apps can run background location tracking, execute code at device startup, embed invisible third-party software, and transmit data before any consent prompt — capabilities browsers deliberately block. The browser sandbox is the security boundary; native apps bypass it entirely.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Default Access Risks:&lt;/strong&gt; Before a single permission prompt appears, an installed app can already read device identifiers, generate persistent fingerprints, reach any server, and share all of this with every embedded SDK. Most of this default access requires no user consent.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Legitimate App Use Cases:&lt;/strong&gt; AR/VR, real-time games, NFC/Bluetooth hardware, and serious audio-video work are genuine cases where the browser sandbox is a real limitation. Banking, retail, travel, and most consumer services are not — the app is the company&amp;#039;s preferred option, not a technical necessity.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Practical Mitigation Steps:&lt;/strong&gt; Prefer websites over apps wherever a functioning one exists, audit and uninstall apps you don&amp;#039;t actively need, revoke background location and microphone permissions by default, and treat every &amp;#039;download our app&amp;#039; prompt with skepticism.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Ten Data-Backed Truths Of User Experience ROI&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 十项数据证明UX设计是企业增长的核心商业引擎&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由资深UX设计师Carrie Webster撰写，通过十个数据支撑的事实，系统论证了用户体验设计与企业商业价值之间的直接关联。文章涵盖设计阶段修复成本（1:100规则）、页面性能对转化率的影响、50毫秒第一印象、Hick&amp;#039;s Law、留白的认知价值、目标梯度效应、排版可读性、用户扫描行为、五人用户测试法则，以及UX投资9900%的ROI。作者结合亲身项目经验，强调UX不是视觉装饰，而是驱动收入增长、降低成本、提升用户效率的核心商业工具，并指出AI正在加速这些原则的落地应用。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (17 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了作者Carrie Webster的背景，她拥有20年以上用户体验设计经验，并阐述了UX数据对商业决策的重要性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出，在当今高竞争市场中，界面摩擦的代价不仅是&amp;#039;失去点击&amp;#039;，更是数百万美元的工程浪费和商业损失，UX已成为企业生存的核心引擎。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者强调，UX设计角色同样依赖研究和数据分析，硬数据是连接设计与董事会的唯一有效工具，能证明UX是健康盈利的必要条件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;以下十个事实代表数字世界的当前现实，是饱和市场中财务增长的数据支撑支柱，并非单纯的设计技巧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一个事实：在设计阶段修复问题比产品发布后修复便宜100倍，UX可视为&amp;#039;工程保险&amp;#039;，提前验证每个交互可避免技术债务和收入损失。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二个事实：性能是用户体验的基础，47%的用户期望页面在2秒内加载完毕，1秒延迟可导致转化率下降20%，而0.1秒的改善可提升零售转化率8.4%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三个事实：用户在约50毫秒内形成对网站视觉吸引力的判断，94%的第一印象与设计相关，设计必须在极短时间内赢得用户注意力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第四个事实：根据Hick&amp;#039;s Law，选项越多决策时间越长，简化体验是提升转化率的关键，删除结账流程中的一个字段可立即提升收入。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第五个事实：白色空间（留白）可将用户内容理解度提升20%，能降低认知负荷，引导用户关注核心行动按钮，作者在金融科技项目中应用后任务完成时间减少25%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第六个事实：目标梯度效应表明，让用户感觉已取得进展会加快任务完成速度，在引导流程中显示从15%开始的进度条可将完成率提升40%以上。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第七个事实：合理的排版，特别是行距和段落宽度，可将内容理解度和阅读速度提升20%，可读性直接影响转化率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第八个事实：用户通常只阅读网页20%至28%的文字内容，他们以F形或点状模式扫描页面，因此设计应针对扫描行为而非阅读行为进行优化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第九个事实：仅对5名用户进行测试通常能发现85%的可用性问题，这是成本效益最高的测试方式，超过第五名用户后收益递减。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第十个事实：UX投资的平均回报率高达9900%，即每投入1美元可回报100美元，优化后的UX设计可将转化率提升400%并显著降低客户支持成本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;超越个别统计数据，成熟的UX实践具有累积效应，高设计成熟度的公司收入增长高出32%，股东总回报高出56%，内部效率提升同样带来巨大价值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;80%的公司认为自己提供了&amp;#039;卓越体验&amp;#039;，但只有8%的客户认同，这一巨大差距代表着通过持续用户测试和性能优化可以抢占的市场份额。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI并未取代这十个UX事实，而是加速了部分问题的解决方案，UX与AI的结合将进一步推动用户体验的发展。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-301/viewer?title_no=853933&amp;episode_no=316&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 301&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画《DOGHAUS》共301话的章节目录页&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;此内容并非文章，而是WEBTOON平台上名为《DOGHAUS》的漫画系列的导航页面数据。页面列出了从第1话到第301话的所有章节目录，包含若干特别公告（如Kickstarter众筹启动、书籍出版公告等）和Sunday Strip特别篇。页面还包含平台UI元素，如订阅按钮、分享功能、举报选项及相关推荐漫画排行榜。该系列由创作者Moowsie在WEBTOON CANVAS平台自行发布，属于独立创作内容。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/487&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 487: Bun goes full Leeeerroyyyy Jenkins&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Bun将代码库从Zig迁移至Rust，或引领软件行业快速迁移新趋势&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一期技术newsletter（第487期），核心内容是Bun运行时将代码库从Zig迁移到Rust的重大事件。作者以幽默调侃的风格分析了此次迁移的动机（解决内存泄漏和崩溃问题）、风险（一周内完成百万行代码迁移）以及成功的有利因素（完善的测试套件、共享LLVM后端、充足的算力资源）。文章将此次迁移类比为Roger Bannister打破四分钟一英里纪录，认为它将开创大规模快速代码迁移的先例。此外还包含Sentry工作坊广告及多条技术行业简讯。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bun的创始人Jarred Sumner在开设实验分支仅六天后，YOLO合并了一个将Bun代码库从Zig迁移到Rust的百万行PR，此举可能对Bun乃至整个软件行业产生深远影响。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;迁移的主要动机是Bun长期存在内存泄漏和不可预测崩溃问题，而Rust在语言层面提供了更好的工具来预防这些问题，尽管许多开发者对如此快速地替换核心代码库表示担忧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;支持此次迁移成功的理由包括：Bun拥有完整的Node.js兼容性测试套件、Zig和Rust共享LLVM编译器后端，以及团队可使用Anthropic的无限算力资源。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结认为Bun的迁移如同Roger Bannister打破四分钟一英里壁垒，将激励更多项目效仿快速大规模迁移，并附带对Anthropic员工PR培训的调侃。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Sentry推广其Seer Agent免费工作坊，帮助开发者通过自然语言查询遥测数据来调查应用问题，涵盖错误排查和事故响应等场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cool Bits板块汇集了多条技术简讯，包括软件产品中产阶级消亡的讨论、GitHub Actions安全自动化发布指南、token价格追踪工具、git技巧提升agent效果、Flue框架可视化教程、Fate v1.0元框架发布、Agentspan开源项目、RSC服务器函数边界问题、Turso取消漏洞赏金计划，以及将自己定位为&amp;#039;agent技能npm&amp;#039;的Rosie项目。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-5-15/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.5.15&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 深夜折腾胶片扫描仪引发的湾区奇遇&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者深夜随笔，记录了围绕胶片摄影器材展开的一系列折腾经历：Nikon Super CoolScan 4000 ED扫描仪到货后因固件问题需要重装Windows、升级固件，甚至计划硬件魔改；Nikon DF相机和Minolta CL也相继到手。为配合扫描仪的firewire接口，作者在FB Marketplace购入2011年老款MBP，与卖家因胶片摄影结缘，交流湾区冲洗店信息，事后互加LinkedIn才发现对方是大厂ML工程师。文章以轻松幽默的笔调，将折腾硬件的乐趣、对旧时光的怀念与湾区工程师文化融为一体。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者深夜加班后想起明天有会议，决定写博客，记录Nikon Super CoolScan 4000 ED扫描仪套件到货的情况，套件基本正常但SA21在Nikon Scan 4.0.0上无法工作，需要升级固件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为升级固件，作者需要折腾Boot Camp和Windows系统，因为尼康官网已不提供1.1固件且现有安装包只支持OS 9，这让作者想起高中时代折腾装机的经历。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者计划将SA21魔改成SA30以实现连续扫40张的功能，只需焊接两个触点，这又让他联想到高中时AMD CPU解锁核心的玩法，感叹老电子产品的趣味。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nikon DF相机也到货了，比预期轻，可以使用F口镜头，作者认为作为日常随拍机器还不错，虽不及新机ZF。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;之前送修的Minolta CL也快回来了，加上其他设备，作者出掉富士全家桶后虽然摄影热情未完全恢复，但器材阵容已相当充实。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为给胶片扫描仪配备firewire接口的电脑，作者在FB Marketplace买了台2011年的MBP，卖家是个曾经拍胶片的人，两人在交易时聊起了湾区冲洗胶片的店铺。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;卖家事后在FB上分享了他十几年前拍的Flickr照片集，作者也分享了自己的Unsplash主页，两人互相欣赏对方的摄影作品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在LinkedIn上通过好友申请后发现卖家是某大厂资深机器学习工程师，感叹这种二手交易中两个摄影师最终以工程师身份互加好友的剧情只有湾区才有，并为MBP重装了系统。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;UK Government Kicks Out Palantir&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 MHCLG自建系统取代Palantir，彰显主权技术胜利&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者指出，英国政府的合同信息实际上是公开透明的，可通过官方平台查询，所谓&amp;#039;秘密合同&amp;#039;的说法是误导性的。文章以住房、社区与地方政府部（MHCLG）的一篇博客为切入点，揭示该部门已悄然终止与Palantir的合同，并自主开发了更优质、更低成本的开源数据系统，用于管理乌克兰共享住房计划数据。作者认为，这是公民服务超越私营科技巨头的典范，也是&amp;#039;主权技术&amp;#039;的重要胜利，并呼吁其他政府部门效仿。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;英国政府在公开合同方面表现良好，任何人都可以通过官方网站查询已授予的合同，所谓&amp;#039;秘密合同&amp;#039;的说法是无稽之谈。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;政府虽然公开合同信息，但通常不会公开批评供应商，合同终止往往悄然进行，因此需要学会&amp;#039;读懂字里行间&amp;#039;的含义。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;住房、社区与地方政府部（MHCLG）发布了一篇博客，介绍了他们如何将乌克兰共享住房数据系统转为内部自建，并节省了数百万英镑。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;博客中提到他们&amp;#039;退出了与供应商的合同&amp;#039;，但未点名供应商——实际上是Palantir，其原始合同因紧急豁免正常采购规则而饱受争议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;国家审计办公室2023年报告指出，Palantir系统存在重复数据展示和地方政府使用混乱等问题，作者已提交信息自由申请以了解更多细节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;MHCLG自建的开源系统更易用、更便宜，体现了&amp;#039;主权技术&amp;#039;的胜利，作者希望其他部门效仿，摆脱对Palantir等公司的依赖。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/05/15/surveys-will-continue-until-diversity-improves/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Surveys will continue until diversity improves&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技行业调查数据揭示多样性严重不足，持续调查并非解决之道。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者以讽刺笔调批评Web与科技行业长期由白人男性主导的现状，援引2025年多项State of调查数据加以佐证。作者回顾了2010年代伦敦科技圈的男性文化氛围，指出行业整体并未进步，网络兄弟文化与LLM的兴起更加剧了这一问题。文章引用Miriam Suzanne的观点，质疑这些调查数据的代表性，并批评浏览器厂商将其作为主要参考依据。作者认为，缺乏多样性才是调查中唯一真正重要的发现，而反复调查本身并不能推动改变。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇用调侃语气指出科技行业由白人男性主导，并以2025年多项State of调查数据为证，显示男性占比82%–93%，白人占比66%–82%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆2010年代在伦敦参加科技聚会的经历，描述当时充斥着男性文化和低俗玩笑，并指出即便是&amp;#039;好人&amp;#039;也会助长这种氛围。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出行业文化并未随时间改善，远程工作和网络兄弟文化反而放大了最坏的特质，而LLM也是在这种文化中构建和训练的。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Miriam Suzanne在2024年提出质疑：State of调查数据的代表性存疑，但浏览器厂商仍将其作为开发者兴趣的主要参考依据。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出调查人口结构长期不变，60–70%受访者报告无残障状况，强调多元化声音对塑造Web平台至关重要。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以讽刺口吻总结：这些调查唯一有意义的发现是缺乏多样性，但调查本身既非问题根源，也非解决方案，持续调查并不会自动带来改变。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n765542b5b77a&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;映画『チェイサーゲームW 水魚の交わり』本日公開！！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 电影《追逐游戏W水鱼之交》今日全国公映&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由CyberConnect2总务部员工よしみつ撰写，宣布公司参与制作的电影《追逐游戏W 水鱼之交》于2026年5月15日全国公映。文章介绍了该片作为电视剧《追逐游戏W》系列续集的背景，感谢粉丝的支持，并提示观众可在Prime Video和TVer上回顾剧版内容。同时呼吁粉丝在首映三天内进场观看以提升票房成绩，并介绍了官方周边商品的销售渠道及公司各地办公室的主题布置活动。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者よしみつ宣布，由CyberConnect2担任制作委员会干事的电影《追逐游戏W 水鱼之交》于2026年5月15日正式上映，这是电视剧系列的续集电影版。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为了让更多观众观看电影，官方呼吁粉丝在5月15日至17日三天内前往影院，并介绍了Prime Video和TVer上可供观看的剧版内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影官方周边商品已在部分影院及网店开售，CyberConnect2福冈总部、东京工作室、大阪工作室的入口处也布置了电影主题装饰，欢迎粉丝前来参观。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://chasergamew-movie.jp/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;映画『チェイサーゲームW 水魚の交わり』本日全国公開！ドラマから7年、ふたりの“恋人”から“家族”へと変わったその後の物語を、ぜひスクリーンで見届けてください&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 映画『チェイサーゲームW』は、レズビアンカップルが「恋人」から「家族」へと変化した7年後の日常と再生を描く劇場版。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;映画『チェイサーゲームW 水魚の交わり』は、深夜ドラマとして始まったガールズラブシリーズの待望の劇場版で、熱狂的なファンの支持を受けてわずか2年で映画化が実現した。ドラマ『W2』から7年後を舞台に、主人公の樹と芙勇は静岡県伊東市で中学生の娘・月と暮らしており、「恋人」から「家族」へと変化した関係の中で生じた静かなすれ違いが物語の核心となる。タクシー運転手・梢との出会いをきっかけに、ふたりは長年の関係を見つめ直し、互いへの本当の気持ちと向き合っていく。監督の太田勇は本作を「ハッピーエンドの後」を描く作品と位置づけ、レズビアンカップルが子育てをしながら歩む地味でリアルな日常を丁寧に映し出しており、ドラマ未視聴の観客にも楽しめる内容に仕上げたと語っている。主演は菅井友香と中村ゆりかが務め、CyberConnect2制作による細坂聖子著のノベライズ版も展開中だ。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Series Background:&lt;/strong&gt; The &amp;#039;Chaser Game W&amp;#039; drama series gained massive domestic and international fanfare, leading to a long-awaited theatrical film adaptation. The story centers on a girls-love narrative exploring the complexity and renewal of relationships between women.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Core Premise:&lt;/strong&gt; Set 7 years after the drama &amp;#039;Chaser Game W2&amp;#039;, protagonists Itsuki and Fuyuu now live in Ito City, Shizuoka with their middle-school-aged daughter Tsuki. The passage of time has shifted their bond from lovers to family, and subtle disconnects have begun to surface.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Central Conflict:&lt;/strong&gt; Despite maintaining a calm household on the surface, Itsuki and Fuyuu are quietly drifting apart, unsettled by each other&amp;#039;s words and attitudes. Their daughter Tsuki perceptively senses the tension between her parents.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Catalyst for Change:&lt;/strong&gt; When Tsuki gets into trouble and is rescued by taxi driver Kozue, the encounter becomes a turning point that pushes Itsuki and Fuyuu to finally confront their true feelings. They begin to reexamine the shape their love has taken over the years.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Main Cast:&lt;/strong&gt; The film stars Yuka Sugai and Yurika Nakamura as the lead couple, with Nozomi Okamoto as their daughter Tsuki, Tomoka Kurotani reprising her role as Manager Ro, and Ayumi Ito joining as new character Kozue, a taxi driver.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Director&amp;#039;s Vision:&lt;/strong&gt; Director Isamu Ota describes the film as depicting &amp;#039;what comes after the happy ending&amp;#039; — the quiet, unglamorous reality of a lesbian couple raising a child together. He emphasizes that the story is accessible to viewers unfamiliar with the drama series.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cast &amp;amp; Staff Gratitude:&lt;/strong&gt; Cast and crew comments uniformly credit the passionate fanbase for making the film possible, with the director noting the show began in an obscure late-night slot and reached theaters in just two years thanks to fan support.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Novel Adaptation:&lt;/strong&gt; A novelization of &amp;#039;Chaser Game W&amp;#039; by author Seiko Hosaka, produced by CyberConnect2, expands on the drama&amp;#039;s story with original content, deeper character introspection, and new scenes between Itsuki and Fuyuu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(6 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109825&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 8 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派推荐本周8部佳作及最新影视资讯&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派编辑部本期「本周看什么」栏目推荐了8部近期值得观看的影视作品，涵盖国产喜剧犯罪剧《低智商犯罪》、Netflix韩剧《夺命许愿》、英剧《好兆头》第三季、法剧《抢钱女王团》、华语电影《蒙特利尔，我的美人》、动画《石纪元》最终章、F1纪录片及韩国真人秀。文章还汇总了《攻壳机动队》《沉默的审判》等多部新预告，以及《诺曼底72小时》《幻视追寻》等影视定档资讯，内容丰富，覆盖多种类型与地区。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派编辑部本周推荐8部值得观看的影视作品，涵盖国产剧、韩剧、英剧、法剧、电影、动画、纪录片和真人秀，并附有预告片资讯和影视新闻。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;国产剧《低智商犯罪》改编自紫金陈小说，以黑色幽默风格讲述能力平平的刑警张一昂阴差阳错破案的故事，三条故事线交织，喜剧演员助阵使笑点丰富。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;韩剧《夺命许愿》讲述一款许愿软件在愿望实现后夺人性命的恐怖故事，将校园青春与恐怖元素结合，节奏紧凑，上线即在13个国家登顶Netflix。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;英剧《好兆头》第三季因原作者尼尔·盖曼性侵丑闻被削减为单集特别篇，叙事节奏混乱，但大卫·田纳特和麦克·辛的演技依然出色，结局偏向粉丝向。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;法剧《抢钱女王团》讲述五名女性因生活所迫伪装成男性抢劫银行的故事，充满荒诞又现实的设定，探讨职场性别歧视和女性困境。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影《蒙特利尔，我的美人》由华裔女导演执导，讲述中年移民女性凤霞在婚姻压抑中探索自我、结识同性友人的故事，风格朴素温和，陈冲主演表现细腻。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《石纪元 科学与未来》第3部分迎来最终章，千空等人联手打造宇宙飞船前往月球，科技树攀升至计算机和互联网领域，以科学精神诠释热血浪漫。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;纪录片《马克斯·维斯塔潘：新征途》共三集，记录F1冠军维斯塔潘作为GT3车队老板兼赛车手的另一面，展现他发掘新人赛车手克里斯的故事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;真人秀《旧洞基朋友们》邀请六位韩国明星共同同居生活，探讨独居与群居的社会议题，六位85后明星个性鲜明又能互相融合，节目充满看点。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周新预告包括《攻壳机动队》TV动画、《沉默的审判》、《火遮眼》、《爱情城事》和《奥特曼起源》等多部作品，涵盖动画、剧集和电影类型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;影视新闻方面，《诺曼底72小时》《宇宙巨人：希曼崛起》《家弑服务》《超级少女》相继公布内地定档日期，漫威新剧《幻视追寻》定档10月14日Disney+开播。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/zhuanglesha-260515&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;装了啥：编辑部用什么转写音视频内容？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 编辑部分享三种音视频转录工作流方案&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由少数派编辑部多位成员分享各自的音视频转录工作流。@广陵止息介绍了TranscribeX作为MacWhisper的平价替代方案，支持NPU加速、多模型转录、说话者识别和内置翻译，但缺乏CLI支持。@PlatyHsu推荐使用Gemini系列模型整理转录内容，其多模态能力可直接处理音频和视频，并分享了实用提示词。@waychane则偏好命令行工具whisper.cpp，以便与Claude Code等Agent工具协同调用，充分利用Apple Silicon性能。三种方案各有侧重，适合不同使用习惯和自动化需求的用户参考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了编辑部成员分享各自音视频转录工作流的背景，指出越来越多创作者转向音视频内容，「先转录、再阅读」成为重度信息消费者的日常需求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑@广陵止息分享了从whisper.cpp转向TranscribeX的原因，包括手动下载麻烦和长中文视频转录失败的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;TranscribeX作为MacWhisper的平价替代，支持多种转录模型、NPU加速、说话者识别和内置翻译功能，收录于Setapp中性价比更高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;TranscribeX支持WhisperKit、Parakeet、千问等多种模型，并详细介绍了Audio Encoder与Text Decoder的设置建议及说话者识别的两种模式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;TranscribeX内置Apple翻译、DeepL和第三方AI三种翻译方式，并加入AI对话功能，但缺乏CLI版本，自动化体验较弱。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑@PlatyHsu推荐使用Gemini系列模型整理转录内容，因其多模态支持全面、中文能力较强、用量慷慨，可直接接受音频和视频输入。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;@PlatyHsu分享了整理播客录音稿的提示词技巧，建议日常内容用Flash模型，专业话题用Pro模型，并说明节省token时可先本地转写再用AI整理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Gemini还可直接分析视频内容，即使无旁白的广告片也能提取信息，建议使用AI Studio而非网页版以避免输出过于简略的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑@waychane因有线上会议转录需求，偏好支持CLI的工具以便Agent调用，选择了whisper.cpp命令行工具处理会议音频。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;whisper.cpp是OpenAI Whisper的C/C++移植版，原生支持Apple Silicon的Metal后端和Accelerate框架，相比官方Python版在Mac上性能更优、部署更简便。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109816&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[会员免费] Apple WWDC26 全球开发者大会，来与少数派一起看&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派联合SwiftGG举办WWDC26线下观影活动&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派编辑部发布公告，宣布将配合Apple WWDC26全球开发者大会Keynote主题演讲，于北京时间6月8日深夜至9日凌晨在深圳和广州举办线下直播观影活动。本次大会预计发布iOS 27、iPadOS 27、macOS 27等新一代操作系统，并将展示Liquid Glass设计语言的演进。活动门票定价9.9元，少数派会员可免费参与，到场者可获赠Prime月度会员卡及周边礼品。活动由少数派与SwiftGG联合主办，并已获Apple Developer官方社区页面收录，同步活动还将在北京、上海、杭州、青岛举行。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章宣布WWDC26全球开发者大会将于北京时间6月9日凌晨举行Keynote主题演讲，届时将发布iOS 27、iPadOS 27、macOS 27等新系统，Liquid Glass设计语言和iPadOS多任务体验等备受关注的话题将得到解答。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派将在深圳和广州举办WWDC26线下直播观影活动，时间为6月8日22:00至6月9日03:00，门票定价9.9元，少数派会员可免费入场，每位参与者可获得Prime月度会员卡、贴纸及抽奖机会。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本次活动由少数派与SwiftGG联合举办，同步覆盖北京、上海、杭州、青岛等多城，活动已被Apple Developer官方社区活动页面收录，主办方提醒参与者注意行程安全并合理安排归家方式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109708&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;快捷指令｜纯粹、专注、能群发，一种「点名式」微信聊天新体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用iPhone快捷指令实现点名式微信一键群发&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者以对微信聊天体验的不满为出发点，回顾了锤子科技「子弹短信」的创新与遗憾，进而介绍了自己利用iPhone「快捷指令」开发的一款「点名式」微信群发工具。该工具基于「聊天本质是给指定联系人发文本」的第一性原理，剥离冗余交互，让用户可在锁屏界面直接输入联系人和消息内容并一键发送，有效避免打开微信后被朋友圈、视频号等内容分散注意力的问题。作者认为快捷指令是iPhone提供给用户化解「麻烦」的优秀工具，并表示未来还将开发更多围绕微信的实用功能。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以微信功能克制为引，回顾了七年前锤子科技发布的「子弹短信」，认为其极简高效的聊天设计令人印象深刻，但最终因公司困境而失败，留下遗憾。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者列举了日常生活中需要同时联系多人的场景，提出希望能在一个界面快速给多个联系人发私聊信息，以及更智能的群发功能需求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了自己从锤子转到iPhone后开始研究「快捷指令」，并基于「聊天本质是给指定联系人发送文本」的第一性原理，设计了一个「点名式」发消息的快捷指令。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展示了该快捷指令的实际使用示例，说明其可在锁屏界面直接编辑并一键群发消息，避免了频繁切换窗口和被微信其他内容分散注意力的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表达了对「快捷指令」工具的喜爱，认为它提供了丰富接口和触发方式，让用户能通过轻度开发解决实际问题，并预告未来还会开发智能群发、定时发送等功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109550&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;你真的需要墨水屏设备吗？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 墨水屏市场虽热闹，新品未必好，买的往往是阅读的美好想象。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者是拥有20余台墨水屏设备的资深爱好者，以自身经历为切入点，深度剖析了国内墨水屏市场的现状与乱象。文章指出，Kindle退出后国产品牌虽迅速扩张、产品迭代频繁，但受制于元太科技的技术垄断，实际显示品质和品控仍不及Kindle等国外品牌，新款未必优于老款。作者进一步分析了用户反复购机的心理根源：技术瓶颈制造的&amp;#039;完美设备&amp;#039;错觉、多场景需求，以及将阅读器视为&amp;#039;专注阅读&amp;#039;美好想象的投射。文章最终给出理性购机建议，并坦诚把玩阅读器本身已成为一种兴趣。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者自述是墨水屏阅读器爱好者，持有过20余台设备，经历断舍离后又被广告吸引重新入坑，由此引发对自身沉迷原因的思考。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章推荐了两篇墨水屏科普文章，指出尽管是五年前的内容，产品形态与体验变化不大，仍具参考价值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kindle退出中国市场后，国产品牌迅速填补空缺，文石、掌阅、汉王等品牌活跃度大增，整个墨水屏市场进入爆发期，2025年阅读器销量同比增长超30%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;市场上品牌和机型繁多，明星代言盛行，产品细分到令人眼花缭乱的程度，如掌阅Ocean 5系列一次推出四个版本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;墨水屏核心技术受制于元太科技垄断，进步空间有限，国产新品虽参数升级，但实际品控和显示效果仍不及Kindle等国外品牌，新款未必优于老款。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;以海信HiReader为例，说明国产新品价格攀升但综合体验未必超越数年前的老产品，得出结论：有趁手旧款则无需盲目换新。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;分析墨水屏用户反复购买的三大原因：技术瓶颈导致每次微小升级都制造&amp;#039;完美设备&amp;#039;的错觉；不同场景需要不同尺寸设备；以及用户将阅读器视为&amp;#039;专注阅读&amp;#039;美好想象的载体，买的是心理预期而非产品本身。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者为沉迷阅读器的用户画像：爱读书但更有读书期许、数码发烧友、多巴胺欲望强、完美主义，这些特质叠加导致在缺乏完美产品的市场中反复冲动消费。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;给出是否购买阅读器的实用建议：好书在手机上读完全可以，老设备够用则无需换新，真有需求可配备一大一小两台；同时提醒护眼设备并非万能，减少屏幕时长才是根本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者坦承购买和把玩阅读器本身已成为一项兴趣爱好，并展示了手头的Kindle Oasis2、Kobo Clara BW、海信HiReader、掌阅Tango2 Pro和文石Note X3 Pro，建议同好放下执念、享受乐趣。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109787&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：戴尔推出 Alienware 15 入门游戏本，Spotify 将支持 HLS 视频播客技术等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报：游戏本、芯片出口、安全漏洞与微软更新&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派周五科技早报，汇总多条科技资讯。戴尔推出定位入门的Alienware 15游戏本；Spotify将支持Apple HLS视频播客技术；美国政府批准10家中国企业购买英伟达H200芯片，但实际交付受阻；微软在Edge、Windows驱动恢复及BitLocker安全方面有多项更新；安全研究员曝光BitLocker与NGINX重大漏洞；中国三部门联合部署新能源汽车安全管理。整体以资讯聚合形式呈现，覆盖硬件、软件、安全与政策多个领域。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;戴尔于5月13日推出入门级游戏本Alienware 15，搭载AMD或英特尔处理器及NVIDIA RTX 5060/5050/4050显卡，AMD版起售价1299美元，英特尔版1349美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Spotify宣布将支持Apple HLS视频播客技术，并与Apple合作，使创作者在两平台分发内容并获得收益。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;美国商务部批准阿里巴巴、腾讯、字节跳动等10家中国企业采购英伟达H200芯片，每家上限7.5万颗，但因合规要求及中国政府态度，实际交付仍处停滞。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软宣布Edge浏览器取消独立Copilot模式，将AI功能整合进浏览器各项功能，并新增Journeys、学习模式、长期记忆等功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软为Windows推出云端启动驱动恢复功能，可在检测到驱动质量问题时自动从云端触发回滚，预计9月全面上线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;安全研究员公开两个Windows BitLocker漏洞YellowKey与GreenPlasma，其中YellowKey可通过U盘绕过BitLocker全盘加密，微软处理态度消极。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软发布BitLocker恢复模式漏洞补丁，但仅覆盖Windows 11 22H2与23H2版本，其他受影响系统用户仍需临时措施绕过。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;安全机构DepthFirst披露NGINX潜伏18年的重大漏洞CVE-2026-42945，CVSS评分9.2，存在于ngx_http_rewrite_module模块，官方已发布1.30.1及以上版本修复。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;中国工信部、市场监管总局、消防救援局联合部署加强新能源汽车安全管理，要求企业落实质量安全主体责任，严格风险防范与信息告知。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯涵盖新Xbox Cloud Gaming手柄曝光、Google Home Display产品代码发现、微软寻求收购AI初创团队，以及腾讯对GPU投资与混元大模型的战略表态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;科技爱好者周刊（第 396 期）：互联网通信的替代方案&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 LoRa离网通信、AI工具与开源平台精选，兼论AI焦虑与极端工程创新。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期周刊（第 396 期）以&amp;quot;互联网通信的替代方案&amp;quot;为主题，重点介绍了基于 LoRa 协议与 Meshtastic 项目的低成本离网通信方案，设备廉价、覆盖可达数十公里，适用于网络中断时的应急场景。工具与平台层面，涵盖开源 AI 开发平台 MonkeyCode、Browser-use 提出的&amp;quot;逆向验证码&amp;quot;鉴权机制，以及十余款涉及 DNS、图像处理、PDF 生成等场景的开源工具。科技趋势方面，谷歌拟将鼠标指针重塑为 AI 操作可视化工具，旧铜线回收因新能源需求升温，芝加哥送货机器人占用人行道则引发公共空间争议。观点层面，作者反驳&amp;quot;不用 AI 即落后&amp;quot;的焦虑论调，主张在 AI 难以替代的领域持续深耕自身能力；此外还收录了废旧手机算力浪费、编程语言 AI 友好化演进、大模型本质为有损压缩等多条值得关注的思考。本期以意大利公司耗资数百万美元为国际空间站研发咖啡机的故事收尾，生动呈现了极端工程约束下的创新代价。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;LoRa 离网通信:&lt;/strong&gt; 介绍了一种基于 LoRa 协议和 Meshtastic 开源项目的低成本离网通信方案，设备价格低廉、覆盖范围可达数十公里，仅支持文本消息传输，适合互联网中断时的应急组网。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;MonkeyCode AI 平台:&lt;/strong&gt; MonkeyCode 是一个开源的自托管 AI 开发平台，支持多虚拟机隔离、多模型调用及主流代码仓库集成，同时提供免费云端环境，每天可用 2000 万 Token 额度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;逆向验证码:&lt;/strong&gt; Browser-use 提出「逆向验证码」概念，通过混淆人类可读性来阻挡真人、放行 AI，专门用于仅供 AI 调用的 API 接口鉴权。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;科技动态速览:&lt;/strong&gt; 涵盖三则科技趋势：谷歌提议将鼠标指针重新定义为 AI 操作可视化工具；新能源需求推动旧铜线回收成为新兴产业；芝加哥送货机器人占用人行道引发居民抗议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;开发工具推荐:&lt;/strong&gt; 本期推荐了十余款开源工具，涵盖 DNS 服务、图像处理、表单收集、JSON 查询、PDF 生成及文字转语音等场景，均可免费使用或自托管部署。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;太空咖啡机:&lt;/strong&gt; 记录了意大利公司为国际空间站研发咖啡机的挑战历程，需应对零重力、无对流散热、火箭冲击等极端条件，最终成本高达数百万美元，是地球同类产品的数万倍。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI 依赖的反思:&lt;/strong&gt; 作者反驳「不用 AI 就会落后」的论断，认为过度依赖 AI 会导致人丧失独立思考、写作和学习的能力，真正的应对之道是在 AI 无法胜任的领域持续提升自身能力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;观点与言论:&lt;/strong&gt; 汇集多条值得关注的观点：废旧智能手机的算力浪费、未来编程语言将向 AI 友好方向演进、创造力随年龄呈现分化趋势，以及大模型本质上是对真实世界的有损压缩与膨胀。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - May 14, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1659,116 +2021,6 @@ Demon Slayer: Hinokami Keppuutan 2 has launched a limited-time birthday event fo
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;梁博《精气神》录音室版因混音问题饱受争议，但Live版消化了低频过载的缺陷，让其优秀的词曲创作与嗓音得以充分展现，是一张注定在现场更动人的专辑。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - May 4, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-05-04</id>
-    <updated>2026-05-04T20:33:06.272Z</updated>
-    <published>2026-05-04T20:33:06.272Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>4 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 4, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;135.8904109589041&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    34.0%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;124&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;241&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;17&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████░░░░░░░░░░░░░░░░░░░░ 34.0%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/rss-club-where-are-you-from/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[RSS Club] Where are you from?&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博客添加隐私优先的本地GeoIP访客统计&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇博客文章介绍了作者为自己的博客添加了本地托管、隐私优先的统计功能。通过使用离线GeoIP服务，作者可以大致了解访客的地理位置来源。文章内容仅对RSS订阅者开放，完整内容未完全展示，但核心主题围绕隐私保护与网站流量统计的结合展开。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/05/03/primitive-sets-and-von-mangoldt-chains-erdos-problem-1196-and-beyond/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Primitive sets and von Mangoldt chains: Erdős Problem #1196 and beyond&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Markov链新方法解决多个原始集合经典猜想&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由多位作者合作撰写，系统整理了围绕原始集合（primitive sets）的Erdős问题#1196及相关猜想的最新突破。核心创新是引入整除偏序集上的von Mangoldt下行Markov链方法，该方法首先由自主AI查询发现，通过链/反链对偶性将原始集合的上界问题转化为链上测度的构造问题。相较于文献中隐含使用的Mertens链，von Mangoldt链能有效避免额外的对数损失。借助这一统一框架，作者不仅解决了Erdős问题#1196，还证明了多个此前悬而未决的猜想，并给出了若干已知结果的更简洁证明，体现了人机协作在数学研究中的新模式。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;多位作者联合上传了一篇关于原始集合与von Mangoldt链的arXiv论文，旨在整理和记录围绕Erdős、Sárközy和Szemerédi提出的原始集合问题（Erdős问题#1196）的最新进展。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;该问题要求证明对于任意原始集合（其中无元素整除另一元素），某一求和式趋于零，此问题此前已有部分结果，而其首次完整解决来自一次自主AI查询，所用技术基于整除偏序集中的Markov链。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;论文系统发展了Markov链方法，并证明了若干关于原始集合的进一步猜想，包括Erdős原始集合猜想（#164）、奇数Banks–Martin定理、Ahlswede–Khachatrian–Sárközy定理及Erdős–Sárközy–Szemerédi定理（#1217）等，部分结果为首次解决的公开猜想。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了链/反链对偶性的抽象框架：原始集合可视为整除偏序集中的反链，通过在链空间上构造测度，将反链上的上界问题转化为存在性对偶问题，并利用Stanley链多面体和线性规划对偶性给出严格证明。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章引入下行Markov链的定义，并以幂集上的LYM不等式为例示范了该方法的应用，同时介绍了上行Markov链及伴随构造，以及利用流网络重新表述Markov链论证的方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细比较了下行Mertens链与下行von Mangoldt链两种自然的Markov链：Mertens链在以往文献中隐含使用，但其不变测度（Mertens权重）与目标权重不完全匹配；而von Mangoldt链（其关键创新由AI辅助证明发现）则能更好地处理原始集合的权重，从而消除之前方法中的额外损失，成功解决了相关猜想。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-04T05:42Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-04T05:42Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The browser Prompt API will erode user consent, strain hardware, funnel users to cloud subscriptions, and fragment standards through vendor self-interest.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author mounts a sharp critique of the browser-based Prompt API, arguing it will follow a predictable and damaging lifecycle: opaque permission dialogs will erode informed user consent, while underperforming on-device models will strain hardware and frustrate users. Browser vendors are then expected to exploit that poor local experience as a funnel toward proprietary cloud API subscriptions, effectively burying local model controls and locking users into vendor-controlled infrastructure. The author further contends that API authors are primarily career-motivated, leading to poorly maintained or abandoned standards post-ship. Finally, Apple is predicted to enter late with an incompatible implementation, wrapped in misleading privacy framing and false claims of invention, compounding fragmentation rather than resolving it.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Prompt API Skepticism:&lt;/strong&gt; The author expresses strong skepticism toward the browser-based Prompt API, framing its return as unwelcome and likely to follow a predictable failure pattern.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Confusing User Permissions:&lt;/strong&gt; Websites will present opaque, jargon-filled permission prompts that users will blindly accept, undermining informed consent and security.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Poor Local Model Performance:&lt;/strong&gt; On-device AI models are expected to deliver subpar results, including hardware strain, eroding user trust in local execution.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Funneling to Remote APIs:&lt;/strong&gt; Browser vendors will exploit poor local model experiences to nudge confused users toward proprietary cloud-based API subscriptions, defeating the purpose of local AI.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Local Models Abandoned:&lt;/strong&gt; Once users are redirected to remote services, local model settings will be buried and effectively ignored, locking users into vendor-controlled infrastructure.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Incentive Misalignment:&lt;/strong&gt; API authors are motivated by career advancement rather than long-term quality, leading to abandoned or poorly maintained standards after initial shipping.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apple&amp;#039;s Privacy Theater:&lt;/strong&gt; The author predicts Apple will eventually ship their own incompatible version of the API years later, cloaked in misleading privacy rhetoric and false claims of invention.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109277&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;iPad 用户首次体验 Android 平板：vivo Pad6 Pro&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iPad用户首次体验vivo Pad6 Pro安卓旗舰平板&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派「新玩意」栏目对vivo Pad6 Pro的上手体验介绍。vivo Pad6 Pro是vivo 2025年春季推出的旗舰平板，搭载4K超大原彩屏、第五代骁龙8至尊版芯片，并预装PC级WPS和专业版剪映。文章以iPad用户的视角切入，探讨Android平板与iPad相比的差异与亮点，主要内容以视频形式呈现，读者可通过Bilibili、小红书、抖音等多个平台观看高清版本。&lt;/p&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
 &lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
 &lt;/div&gt;</content>
