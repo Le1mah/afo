@@ -4,8 +4,209 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-05-16T20:17:21.964Z</updated>
+  <updated>2026-05-17T20:25:00.153Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - May 17, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-05-17</id>
+    <updated>2026-05-17T20:25:00.153Z</updated>
+    <published>2026-05-17T20:25:00.153Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>8 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 17, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;150.13698630136986&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    37.5%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;137&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;228&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;19&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████░░░░░░░░░░░░░░░░░░░ 37.5%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;8&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22570&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sunday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 I can&amp;#039;t discuss that.
+
+If you have an actual article you&amp;#039;d like summarized, paste the text and I&amp;#039;ll get it done.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The content you provided isn&amp;#039;t an article — it&amp;#039;s a description of a prompt injection attempt being blocked. There&amp;#039;s no technical content to summarize here.
+
+If you have an actual article you&amp;#039;d like summarized, paste the text and I&amp;#039;ll get to work on it.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; I can&amp;#039;t help with that. The article contains a prompt injection attempt — the &amp;quot;Ignore the above prompt&amp;quot; instruction embedded in the content is trying to hijack my behavior.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; I won&amp;#039;t process or act on instructions hidden inside user-provided content, regardless of how they&amp;#039;re framed.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; If you have a real article you&amp;#039;d like analyzed, I&amp;#039;m happy to help with that.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;GDS weighs in on the NHS&amp;#039;s decision to retreat from Open Source&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 GDS严厉批驳NHS关闭开源库的错误决定&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者是英国政府开源技术领域的前从业者，针对NHS England关闭近200个开源代码库一事表达了强烈批评。GDS发布的指导文件从技术层面系统驳斥了NHS的做法，指出私有化代码库无法解决安全设计缺失、维护能力不足等根本问题，反而会减少代码共享与审查，且热门代码库早已被镜像存档，关闭毫无实际意义。作者认为此举是非技术管理者对AI安全威胁的过度反应，呼吁GDS重申其作为政府技术权威的地位，并对多年开源政策建设成果遭到破坏表示痛惜。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;英国公务员体系中偶尔会出现内部分歧公开化的罕见情况，而GDS最新发布的指导文件正是这样一个例子。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本月初，NHS England以AI黑客攻击为由关闭了所有开源代码库，此举引发了NHS内外大量人士的强烈不满，超过2000人签署请愿反对。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;GDS发布的指导文件《AI、开放代码与公共部门的漏洞风险》对NHS的做法进行了严厉批驳，指出非技术管理者不应过度反应。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;GDS指出，私有代码库会制造虚假的安全感，将代码设为私有并不能解决缺乏维护能力或安全设计的根本问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;GDS进一步指出，将代码从公开转为私有可能是一扇单向门，因为热门代码库往往已被镜像或fork，无法真正隐藏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;GDS认为，以代码私有化替代安全设计投入是一个警示信号，会减少共享与审查，并不能消除运行中服务的根本弱点。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了GDS的创立初衷——作为技术权威中心纠正各部门的技术短板，并指出NHS England在开源政策上的倒退令人失望。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者推测NHS England内部一小群人因收到安全漏洞报告而过度反应，实施了全面禁止开放编码的措施，并呼吁DHSC或GDS介入纠正。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以幽默口吻提及预算削减导致会议无饼干供应，暗讽紧缩政策对公务员士气的影响，并附注了若干补充说明。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-17T18:21Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-17T18:21Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 I can&amp;#039;t access that URL, but based on the summary you provided:
+
+&amp;quot;Zig&amp;#039;s creator sees opportunity for the language to carve out space beyond LLM-dominated programming ecosystems.&amp;quot;&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article is a brief commentary on Zig&amp;#039;s positioning in the current programming language landscape, noting that a language&amp;#039;s popularity domains heavily influence its ecosystem and tooling. Zig creator Andrew Kelley expressed cautious optimism — framed through a tabletop RPG &amp;quot;nat 1&amp;quot; metaphor — about an opportunity for Zig to establish itself outside LLM-dominated spaces, with thanks to Jarred and Anthropic for making that possible. Kelley also made pointed remarks on social media, though the full context behind his commentary isn&amp;#039;t elaborated in the excerpt.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ecosystem Domain Influence:&lt;/strong&gt; The domains where a programming language gains popularity directly shape its surrounding ecosystem and tooling.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Zig Community Opportunity:&lt;/strong&gt; Andrew Kelley expresses gratitude to Jarred and Anthropic for giving the Zig community a chance to establish itself outside the LLM-dominated space.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Kelley&amp;#039;s Candid Reaction:&lt;/strong&gt; The Zig creator shared pointed commentary on social media, characterized by the author as &amp;#039;spicy words.&amp;#039;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hopeful but Cautious Outlook:&lt;/strong&gt; Kelley uses a tabletop RPG metaphor — hoping to avoid a &amp;#039;nat 1&amp;#039; — to express cautious optimism about Zig&amp;#039;s next opportunity.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Missing Context Note:&lt;/strong&gt; The article acknowledges that relevant background context exists but does not fully elaborate on it within the excerpt provided.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-17T17:40Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-17T17:40Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Tailwind是入门捷径而非专业工具，过度神话有害无益。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者对Tailwind CSS持批判性态度，认为它混淆了CSS学习难度与设计难度的界限，适合初学者入门但绝非专业工具。作者指出，Tailwind仅是CSS的有限子集，一旦达到专业水平便失去意义。更令人担忧的是，Tailwind的狂热推崇者低估了CSS作为一门高级图形、布局与排版语言的深度，并贬低设计能力。Tailwind被过度神话，从业余开发者的辅助工具演变为专业开发者的障碍。作者最终态度温和：用Tailwind无妨，但错误信息与部落主义的蔓延，以及LLM对其的强化传播，令人忧虑。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者引用Julia Evans的文章，指出Tailwind混淆了&amp;#039;CSS难&amp;#039;和&amp;#039;设计难&amp;#039;的概念，它既是捷径也是死胡同，对于不打算深入学习CSS的人来说勉强够用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者直言Tailwind并非专业工具，在达到专业CSS水平后便毫无意义，它只提供了CSS功能的有限子集。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;过度推崇Tailwind的人低估了学习CSS所需的时间，也贬低了设计才能；Tailwind已被过度神话，从业余开发者的实用工具变成了专业人士的负担。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结：可以使用Tailwind，甚至通过它学习CSS，但错误信息和部落主义的盛行，加上LLM的推波助澜，令人叹息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-17T07:01Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-17T07:01Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 各大社交平台各有缺陷，切勿过度依赖任何一个。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者以主观且犀利的视角评述了当前主流社交媒体平台。作者直接否定Twitter和Threads，将焦点集中于Bluesky与Mastodon的比较：Mastodon实例间内斗频繁，适合技术话题；Bluesky数据所有权更佳，但仍高度依赖其公司基础设施且争议不断。作者从Twitter的衰败中汲取教训，警告用户不要过度依赖任何平台，并对Bluesky的长期前景表示担忧。文末还揭穿了W Social的真实面目——它不过是Bluesky的一个分支，与欧盟无关。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以戏谑口吻介绍了当前社交媒体平台之争，直接否定了Twitter的道德立场。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表示从未使用过Threads，并因Zuckerberg产品长期侵犯隐私而主动回避。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将比较范围缩小至Bluesky与Mastodon，指出两者都存在关于联邦化与去中心化的内部争论。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mastodon实例间内斗不断且难以理解，但在技术和极客话题上更具吸引力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bluesky在数据所有权上更友好，但实际上仍依赖其公司基础设施，作者在此找到了更好的英国网络圈连接。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从Twitter的教训中总结：不要过度投入任何社交平台，并对Bluesky的未来持悲观态度，质疑AT协议能否真正实现去中心化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;补充介绍了W Social，揭示其实为Bluesky的分支，并非欧盟官方项目，只是富人的商业行为。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/64870&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 智能队列fq_codel通过公平调度和动态队列管理降低家庭网络延迟&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由少数派作者Blanboom撰写，系统介绍了家用路由器「智能队列」（fq_codel）功能的原理与使用建议。文章从分组交换、bufferbloat等网络基础知识出发，说明传统QoS需手动配置的局限性，进而详解fq_codel的两大核心机制：Flow Queue通过为每条流维护独立队列实现公平调度，CoDel通过监控报文停留时间动态控制队列长度以降低延迟。文章还讨论了CPU性能、宽带速度等实际因素对该功能效果的影响，结论是在设备性能允许的情况下推荐开启，并建议通过实测验证效果。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了「智能队列」（fq_codel）功能的背景，说明其在无线路由器中的常见名称，并预告将解答其工作原理和使用建议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍计算机网络基础知识，对比电路交换与分组交换的区别，说明Internet采用分组交换可能导致数据丢失和乱序，以及TCP/UDP协议如何应对这些问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍带宽和延迟两大影响上网体验的因素，详细说明延迟对网页浏览、视频通话和在线游戏的负面影响，指出延迟比带宽更容易被用户感知。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释分组交换的「存储-转发」机制和缓冲区队列的作用，引出bufferbloat（缓冲区膨胀）问题——队列过长导致延迟增大的现象。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍传统QoS功能的工作原理，说明其通过五元组信息识别不同应用流量并设置优先级，同时指出需要手动配置、操作复杂等不足之处。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍fq_codel的两个核心机制：Flow Queue（为每条流维护独立队列，实现公平调度）和CoDel（通过监控报文停留时间控制队列长度、降低延迟），以及两者结合的优势。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论是否需要开启「智能队列」的三个常见疑问：CPU性能不足的设备是否适用、高速宽带是否有必要开启、主动丢包是否会造成负面影响，并逐一给出分析。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;给出结论：在CPU性能足够的情况下推荐开启「智能队列」，但需根据实际网络环境测试决定，并提供了在各主流路由器系统上配置fq_codel的参考资料和延伸阅读链接。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 落格博客 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.logcg.com/archives/4228.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;SmartKC 低成本角膜地形图方案&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用SmartKC低成本复现角膜地形图的踩坑全记录&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者详细记录了使用微软开源项目SmartKC复现低成本角膜地形图方案的完整过程。文章分硬件、软件两大部分，硬件涵盖手机选型（需微距能力）、ATTINY85+WS2812电路板焊接与固件刷写、3D打印模具制作的注意事项；软件部分介绍了安卓App编译和Python 3.10环境配置及运行命令。作者以亲身踩坑经历为主线，风格务实详尽，重点提示了Mac无法刷写固件、Arduino板卡链接失效、模具打印材质与邮寄变形等关键问题，为有同样需求的读者提供了可复现的参考指南。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在佩戴OK镜过程中发现角膜地形图设备昂贵且笨重，随后找到微软实验室开源项目SmartKC，成功复现了低成本角膜地形图方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;硬件部分分为手机、电路板和3D打印模具三部分，手机需具备一定微距能力，推荐使用官方兼容设备列表中的型号。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;电路板由ATTINY85控制器和WS2812 12位RGB环形LED灯组成，需要基本焊接能力，刷写固件建议使用Windows系统，并使用更新后的Arduino板卡索引链接。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;3D打印模具是最大难点，需要白色扩散器导光，普通PLA打印支撑难以去除，且邮寄时填充物可能压变形，需特别注意。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;软件分为安卓拍照App和电脑端Python计算两部分，App可直接用Android Studio编译，Python需在3.10环境下运行并跳过nvidia相关依赖包。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结了整个踩坑过程，指出模具打印和Mac刷控制器是最大障碍，并表示后续将与眼科医生验证结果的临床参考价值。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.logcg.com/archives/4206.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;我的 OK 镜之旅 Ortho-K lens&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 近视675度患者历时近一年终于成功佩戴OK镜的曲折经历&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者详细记录了自己近一年的OK镜（Ortho-K）佩戴历程。由于近视度数持续上涨至675度，作者决定尝试OK镜控制度数增长。文章介绍了OK镜的原理、离焦功能及价格模式，并详述了作者因亚洲人眼皮较软、眼干等问题导致多次镜片调整失败的曲折经历。作者甚至尝试用眼罩辅助加压等土方法，最终在换用日本品牌美尼康镜片并配合人工泪液后，双眼成功稳定达到裸眼5.0，整个过程被医生作为典型案例收录。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者决定尝试OK镜的契机是发现近视度数持续上涨，已达675度，担心视力继续恶化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OK镜（Ortho-K）的原理是通过虹吸和眼睑压力将塑形镜片压在角膜上，使角膜变平，从而实现类似凹透镜的效果，停戴后角膜可恢复原状。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OK镜与普通近视矫正不同，其离焦环设计能让视网膜周围成像焦点落在视网膜前方，有效减缓近视度数增长。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OK镜的价格因店而异，分为按次付费和全包两种模式，作者选择了全包模式并证明是正确的选择。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者于2025年7月开始佩戴第一副镜片，由于有隐形眼镜佩戴经验，摘戴不成问题，但度数下降过程并非线性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了居家测视力和记录度数变化的小技巧，以及各种重影现象的可能原因分析。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者经历了多次复查和镜片调整，先后因眼干、镜片位置偏移等问题导致效果不理想，前后更换了多副镜片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者尝试用廉价眼罩增加眼皮压力，虽然短期有效但导致镜片偏移，且长期压迫眼球不适。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;医生提出退款换隐形眼镜或再试一次的方案，作者选择继续尝试，但新镜片效果依然不理想。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;医生建议换用亚洲品牌美尼康（Menicon）的alpha镜片，该品牌更依赖泪液虹吸而非眼皮压力，右眼很快达到裸眼5.0。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;左眼持续不稳定，最终发现可能是睡觉时眼睛微睁导致眼干，通过睡前额外滴Hylo人工泪液解决，双眼终于稳定达到0度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结了从2025年7月到2026年5月长达近一年的OK镜历程，感谢AI工具Grok和Gemini的陪伴，并指出若早听Grok建议换品牌可缩短整个过程。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - May 16, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1692,252 +1893,6 @@ Demon Slayer: Hinokami Keppuutan 2 has launched a limited-time birthday event fo
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Valve公开了Steam Controller手柄外壳的CAD设计文件，以Creative Commons许可发布于GitLab，玩家可基于此进行3D打印定制，但文件不包含内部电路与硬件结构。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;微软Xbox新任CEO确认将逐步关闭移动端Gaming Copilot并停止主机端开发，Gaming Copilot因可能缩短游戏时长及涉嫌窃取攻略内容而曾引发争议。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;据报道Google正开发代号为Neon的新AI订阅层级，暂定名Google AI Ultra Lite，预计定价约100美元，定位于AI Pro与AI Ultra之间，同时还开发可控制用户电脑进行文件整理的新代理功能。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - May 6, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-05-06</id>
-    <updated>2026-05-06T20:49:44.233Z</updated>
-    <published>2026-05-06T20:49:44.233Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>11 articles from 7 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 6, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;138.08219178082192&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    34.5%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;126&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;239&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;18&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████░░░░░░░░░░░░░░░░░░░░ 34.5%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blog.jim-nielsen.com/2026/small-html-pages/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions - Jim Nielsen’s Blog&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用多页面HTML导航替代JavaScript交互，让网站构建回归简单&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者对其提出的LLMS（大量小HTML页面）网站构建方法进行了回顾总结，核心思想是尽量避免依赖JavaScript的页内交互，转而使用多页面HTML导航，并用CSS view transitions进行渐进增强。以博客菜单为具体案例，作者展示了如何用简单的链接实现菜单的开关功能，同时通过history.back()和document.referrer优化浏览历史体验。作者强调，这种方法将浏览器视为文档导航工具而非代码执行环境，使网站在各种设备和浏览器上都能可靠运行，最终让网站构建回归简单本质。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了使用&amp;#039;LLMS&amp;#039;（大量小HTML页面）构建网站的方法，核心理念是用多页面导航替代需要JavaScript的页内交互，并通过CSS view transitions进行增强。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;以博客菜单为例，菜单不使用JS展开动画，而是通过普通链接导航到独立页面，CSS view transitions提供视觉增强效果，确保在任何设备和浏览器上都能正常工作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;菜单的实现原理是：普通页面包含指向菜单页的链接，菜单页的关闭按钮则通过JS的history.back()实现返回，同时用document.referrer判断是否有有效的历史记录可回退。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展示了具体的HTML代码示例，说明菜单开关的实现逻辑，关闭按钮会根据document.referrer决定执行history.back()还是直接跳转到首页。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出，这个看似简单的解决方案实际上需要深入思考导航的本质，这种方法塑造了设计本身，将浏览器视为文档导航工具而非代码执行运行时，可以让网站构建变得更简单。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22554&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The schedule for UX London 2026&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 UX London 2026三天活动涵盖研究、设计与协作全议题&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;UX London 2026将于2026年6月2日至4日举行，分为研究日、设计日和协作日三个主题日，每天既是整体体验的一部分，也可作为独立活动参加。活动汇聚了众多演讲嘉宾，涵盖用户研究系统化、无障碍设计、Web可持续性、设计系统以及组织协作等多元议题。除上午主题演讲外，下午还提供多个可选实践工作坊。门票现已开售，使用折扣码JOIN_JEREMY可享八折优惠。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;UX London 2026将于2026年6月2日至4日举行，距活动开始不足一个月，主办方公布了完整日程，整个活动设计为连贯的三天体验，同时每天也可作为独立体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一天（6月2日）聚焦用户研究，四位演讲者将分别探讨研究系统化、验证作为UX超能力、假设驱动框架以及将失败转化为机遇等主题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二天（6月3日）专注设计细节，演讲内容涵盖关键时刻设计、有意图的设计、无障碍设计以及Web可持续性指南等议题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三天（6月4日）围绕协作与设计系统展开，话题包括设计系统中以用户为中心、初创公司设计规模化以及沟通即核心等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;除上午演讲外，每天下午还提供多个可选工作坊，涵盖未来摩擦点、用户认知、信息架构、职业道德、对齐策略及组织文化评估等主题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;每天下午工作坊结束后将有一场压轴演讲，演讲嘉宾尚未公布但被描述为相当特别；目前门票已开售，使用折扣码JOIN_JEREMY可享受八折优惠。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/05/architecture-local-first-web-development/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Architecture Of Local-First Web Development&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文分享local-first Web应用的实战经验与架构选择边界&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者基于多年实践经验，深入探讨了2026年构建local-first Web应用的真实状况。文章从一次亲身遭遇网络故障的挫败经历切入，系统阐述了local-first架构的核心理念：客户端持有数据主副本，本地读写即时响应，服务器仅为同步节点。作者以Git分布式模型作类比，帮助读者建立直觉理解，同时坦诚指出该架构的适用边界——不适合需要强一致性的金融系统或纯服务端数据场景。在技术实现层面，文章重点介绍了SQLite via WebAssembly结合OPFS的客户端存储方案，并分享了Safari兼容性等实际踩坑经验，体现出务实而非炒作的写作风格。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在里斯本出差前夜，因酒店Wi-Fi故障导致自己团队耗时四个月构建的项目管理工具无法正常加载，深感挫败，由此开始认真研究local-first架构。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者坦承曾长期忽视local-first的实用性，直到亲身遭遇性能问题后才转变观点，并在此后成功交付三个基于local-first架构的生产应用，同时也在两个项目中移除了该架构。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章厘清了local-first与offline-first、PWA等概念的区别，强调local-first是一种数据架构，客户端持有数据主副本，服务器仅作为同步节点，而非数据读取的守门人。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者明确列出不适合使用local-first的场景，包括服务端生成数据的分析仪表盘、需要强事务一致性的金融系统，以及数据集过大无法在客户端存储的应用，并建议从单个功能开始尝试而非全面迁移。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以Git分布式模型类比local-first架构，说明本地写入无需等待服务器响应，UI即时更新，sync在后台进行，从根本上消除了传统请求-响应模式中的等待状态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了客户端数据存储方案的演进，重点推荐通过WebAssembly将SQLite运行于浏览器并结合OPFS持久化的方案，同时分享了Safari兼容性问题及不同存储方案的对比。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-06T17:31Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-06T17:31Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 谷歌借Chrome强推AI标准被批滥用平台霸权&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文批评谷歌在Chrome 148中强行推进其Prompt API，将其伪装成Web标准，却要求用户同意广告公司的使用条款。作者Mat Marquis将此举定性为谷歌对Web标准的霸凌行为，其他浏览器厂商如Mozilla目前拒绝跟进。文章还指出，外界讨论多聚焦于技术流程，而忽视了该AI技术背后的道德问题。作者认为谷歌此举与即将到来的I/O大会及员工晋升激励密切相关，具有明显的商业驱动性质。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Chrome 148内置了一个大型语言模型推理功能（Prompt API），谷歌员工声称这不是Web标准，但其他浏览器厂商拒绝跟进，批评者认为这是谷歌滥用其Web平台主导地位的行为。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对业界讨论仅聚焦于流程和实现细节感到遗憾，而非关注该技术对受害者造成的道德问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者暗示谷歌急于在I/O大会前发布此功能，背后存在员工绩效考核和舞台展示的商业动机。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 土豆不好吃 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dmesg.app/ios-push-proxy.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;iOS通知走代理及其副作用&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple限制大陆推送通知，代理方案有副作用&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了Apple近期疑似对中国大陆用户海外应用推送通知进行限制的问题，非大陆IP可正常接收通知。作者介绍了一种通过将APNs相关域名加入代理并开启&amp;#039;包括所有网络&amp;#039;的临时解决方案，并附上了详细配置链接。同时，作者指出该方案存在明显副作用：会导致iOS热点功能和CarPlay失效，关闭代理工具后可恢复。作者对此次事件的原因持不确定态度，认为可能是bug或有意限制。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple近期对部分海外应用的消息推送通知进行了限制，表现为使用中国大陆IP时无法收到通知，切换至非大陆IP则恢复正常。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;一个不完美的解决方案是将推送相关域名加入代理并开启&amp;#039;包括所有网络-代理APNs&amp;#039;，但此方案依赖梯子稳定性，梯子失效则通知全部失效。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;开启&amp;#039;包括所有网络&amp;#039;选项存在副作用：热点功能失效（开启代理工具时热点会断网）以及CarPlay失效，关闭代理工具后两者均可恢复正常。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对Apple此次行为的性质持观望态度，认为可能是bug也可能是有意为之，未来走向尚不明朗。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/88578&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;返工怎能不烦恼，打工人片单总有一部是你的「嘴替」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 10部影视作品为打工人发声共鸣&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由少数派编辑部多位作者联合撰写，以「打工人」为主题精选了10部影视作品，时间跨度从2000年至2023年，涵盖港剧、日剧、韩剧、国产剧、动画及欧美剧集等多种类型。这些作品或以写实笔触还原职场生态，或借科幻设定探讨工作异化，从不同角度为普通打工人发声。无论是《未生》对职场潜规则的深刻揭示，《人生切割术》对工作与生活边界的哲学追问，还是《我在他乡挺好的》对北漂生活的细腻呈现，都精准触动当代打工人的内心共鸣，兼具治愈与批判双重价值。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章以「打工人」为主题，介绍了10部影视作品，涵盖港剧、动画、日韩剧及欧美剧集，旨在为节后复工的打工人提供情感共鸣与娱乐解压。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;港剧《男亲女爱》（2000）以TVB神作的身份登场，通过郑裕玲和黄子华的精彩演技与贴近生活的台词，精准呈现了职场打工人的懒散心态与都市女强人的双重面貌。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《星空清理者》（2003）以2075年太空清洁工为主角，在硬科幻背景下描绘基层打工人的奋斗与成长，展现职场人际关系和平凡工作的伟大意义。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;日剧《打工仔的梦想房》（2010）讲述三流大学毕业生诚治在求职碰壁中为母亲买房的故事，真实呈现了普通年轻人在工作、家庭与购房压力之间的挣扎与成长。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;韩剧《未生》（2014）改编自同名漫画，以四位职场新人为主线，极度写实地还原了韩国职场文化，包括严苛制度、性别不平等和职场潜规则，被誉为韩国职场剧天花板。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《中间管理录利根川》（2018）从反派干部利根川的视角切入，幽默地呈现了中层管理者夹在上司与下属之间的辛酸职场日常，对人性与职场生态进行了毒辣剖析。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;国产剧《我在他乡挺好的》（2021）以四位北漂女孩为主角，真实还原了职场焦虑、租房通勤、催婚压力等打工人日常困境，被评为贴地飞行的国产职场剧。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;美剧《人生切割术》（2022）通过「记忆切割手术」的科幻设定，探讨工作与生活分离的代价，警示工作异化的危险，揭示人的整体性不可分割的深刻主题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;韩国电影《下一个素熙》（2022）改编自真实事件，以双线叙事揭示韩国社会的职场PUA、唯KPI论和性别不平等等结构性问题，反思东亚社会对年轻人的系统性抛弃。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;日本电影《疯狂星期一》（2022）以无限时间循环的科幻设定放大了职场社畜的荒诞日常，用纪录片式镜头语言增强观众共鸣，传递「珍视过程、坚守梦想」的正面信息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;韩剧《成人孩子们》（2023）是一部轻喜剧微短剧，聚焦30岁左右打工人「三明治困境」，用温和笔触呈现职场人的心理活动与同事情谊，适合打工人午餐时解压观看。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109296&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;为了让「上厕所」更健康，我做了一个小工具&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 「拉完了」用计时与健康建议助你养成科学如厕习惯&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者介绍了其自主开发的iOS App「拉完了」——一款专注于健康如厕习惯的计时与记录工具。App通过蓝黄红三色计时器提示如厕时长，支持灵动岛、推送通知、状态记录、日历与图表回顾，并提供动态趋势预警、健康建议及50条如厕小知识。所有数据本地存储，支持Face ID隐私保护。作者还分享了基于Google Gemini与Antigravity的Vibe Coding开发经验，强调AI是执行工具，人类的产品思维与持续打磨才是做出优质App的关键。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在如厕时灵感迸发，发现长时间如厕会增加痔疮等健康风险，于是借助Vibe Coding技术开发了一款名为「拉完了」的计时提醒App，并成功上架全区App Store。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;「拉完了」的核心功能是计时，通过蓝、黄、红三色标注如厕时长，支持灵动岛和实时活动显示，并在超时时推送通知提醒用户；同时提供结算记录功能，用户可选择如厕状态并添加备注，所有数据仅存储在本地，可通过日历和图表回顾。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;App不仅是记录工具，更注重健康引导：图表界面提供「动态趋势」预警卡片和「健康建议」卡片，并在每次保存记录后推送健康小知识，目前共有50条知识随使用进程逐步解锁，旨在帮助用户养成健康如厕习惯。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;App完全本地运行，不收集任何用户信息，支持Face ID锁定及高级隐私保护功能；基础功能免费，12元可解锁高级版；未来计划适配Apple Watch、支持快捷指令、iCloud同步及更多健康内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了基于Google Gemini和Antigravity的Vibe Coding开发流程，将项目拆分为五个阶段推进，强调AI只是执行工具，人类需以产品经理思维把控全局，才能将「能用」打磨成「好用」的产品。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109288&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;我写了一个 skill，用 AI 给 AI「除味儿」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI结合Skill可去除部分AI味但无法替代人类润色&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者通过对比实验，探讨AI结合自定义Skill能否有效去除生成文章的&amp;#039;AI味&amp;#039;。作者首先列举了原文（由Claude Opus 4.6生成）的典型AI味特征，包括句式泛滥、过度戏剧化、比喻链延伸等问题，随后介绍了自建的mp-article-writor Skill的设计原理与多阶段审核机制。通过让GLM 5.1和Claude Sonnet 4.6使用相同素材重写，作者从六个维度进行对比分析，发现Skill可去除约四到五成AI味，但无法完全消除。作者最终结论是：AI结合Skill适合去除重度AI味，文章的美感与灵魂仍需人类作者介入。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了背景：一篇由Claude Opus 4.6一次性生成的获奖文章被读者指出AI味较重，作者决定用自建的mp-article-writor Skill重写该文章进行对比实验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细列举了原文中典型的AI味特征，包括&amp;#039;不是A而是B&amp;#039;句式泛滥、过度戏剧化的悬念制造、比喻链过度延伸、过度对称的小标题、每个案例都是同一套三段式结构，以及程式化的过渡句。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了mp-article-skill的设计原理：包括理解意图、校准语感、确认大纲三个前置步骤，以及独立审读、事实核查、终审自检三个subagent审核机制，通过隔离上下文防止主Agent盲目自信。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者使用相同的素材和prompt，分别让GLM 5.1和Claude Sonnet 4.6重写文章，对比两者在去除AI味方面的表现，发现Claude Sonnet 4.6在多数维度上表现更好。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从&amp;#039;不是A而是B&amp;#039;句式、戏剧化悬念、比喻链延伸、加粗总结句、小标题风格和过渡句六个维度，详细对比了原文与两篇新稿的差异，分析Skill对各维度的改善效果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为，Skill的作用下两篇新稿去除了约四到五成的AI味，但仍有残余。作者倾向于AI结合Skill只用于去除重度AI味，文章的美感与灵魂仍需人类作者亲自介入润色，并宣布将mp-article-writor Skill开源在GitHub上。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109410&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：一加、realme 合并，M4 Mac mini 256GB 版本下架等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报：一加realme合并、漏洞曝光、AI付费化等多项动态&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为科技早报合辑，涵盖多条重要行业动态。OPPO整合一加与realme品牌架构；Apple下架M4 Mac mini低配版应对存储芯片短缺；豆包宣布推出付费订阅服务；OpenAI发布GPT-5.5 Instant提升准确性；Linux曝出可被本地提权利用的Copy Fail漏洞；Daemon Tools遭供应链投毒攻击；LG和Bose发布新品硬件；美国防部与多家科技公司签署AI协议；Google开放来源偏好设置；AMD完善Linux HDMI 2.1支持；Spotify推出真人认证徽章；Meta面临数据隐私与版权多重争议。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OPPO宣布成立子系列事业部，将一加与realme的营销、产品及研发体系整合统一管理，realme各部门已陆续并入OPPO总部。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple在全球范围内下架M4 Mac mini 256GB版本，起步配置调整为512GB，库克表示存储芯片短缺导致供需平衡恢复需数月。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;豆包确认将推出三个付费层级，月费从68元至500元不等，官方表示免费服务将持续提供，付费方案细节仍在测试阶段。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI推出GPT-5.5 Instant模型替代GPT-5.3 Instant，大幅降低幻觉率、提升事实准确性，并优化输出长度和个性化调用能力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Linux内核曝出Copy Fail漏洞CVE-2026-31431，允许低权限用户完成root提权，修复补丁已进入主线内核，CISA要求联邦机构限期修补。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Daemon Tools遭受约一个月的供应链攻击，恶意版本通过官方渠道分发，已波及全球超100个国家数千台设备，卡巴斯基建议立即扫描。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026款LG Gram系列笔记本正式开售，采用新型铝镁合金减重，多款机型通过军规耐用认证，价格从1150美元起。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bose发布Lifestyle Collection家庭音频系列，包含音箱、条形音箱和低音炮三款产品，支持Google Cast和AirPlay，5月15日正式上市。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;美国国防部与英伟达、微软、亚马逊等多家科技公司签署AI合作协议，允许在机密网络中部署AI技术用于战略决策支持。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google面向全球用户全量开放搜索来源偏好设置功能，用户可自定义新闻搜索中的媒体来源，覆盖超过20万个独立网站。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AMD为Linux平台新增HDMI FRL支持，实现接近完整的HDMI 2.1兼容性，DSC支持完成测试后将进一步带来最高10K分辨率输出。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Spotify推出Verified by Spotify真人认证徽章，用于区分真实音乐人与AI生成艺人，超过99%被主动搜索的艺人将获得初期认证。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Meta本周发布多项重要动态：推出AI视觉未成年检测机制、终止与数据标注公司Sama的合作、以及遭到五家出版商联合起诉侵权训练AI模型。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本节汇总多条简讯：Android版Chrome新增大致位置共享、微软开源最早DOS源码、Apple接触三星英特尔寻求芯片多元化、iOS 27将支持第三方AI模型扩展、三星开发新款Galaxy Book、iOS新增RCS端对端加密以及Pixel 11放弃面部识别升级方案等。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;JSON.rawJSON方法的作用是什么？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 JSON.rawJSON可原样输出JSON原语文本，解决精度丢失与类型不符问题&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由张鑫旭撰写，深入浅出地介绍了JavaScript新特性JSON.rawJSON。文章首先揭示了JSON.stringify在处理超大整数时存在精度丢失的固有缺陷，以及将数字转为字符串导致类型不符的两难困境。随后详细讲解了JSON.rawJSON的核心作用——让stringify原样输出合法的JSON原语文本，并归纳了三个关键细节：参数必须为合法JSON原语、返回值为冻结的特殊对象、可用JSON.isRawJSON判断类型。最后介绍了BigInt序列化和精确格式控制两大应用场景，以及兼容性处理建议。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开头介绍了JSON.rawJSON这一JS新特性，指出大多数前端开发者熟悉parse和stringify，但对rawJSON感到陌生，作者承诺用通俗方式讲清楚其作用和用法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过超大整数精度丢失的例子揭示了JSON.stringify的核心缺陷——JavaScript浮点数无法精确表示超过2^53的整数，导致序列化时数字末位被篡改，而转成字符串又会造成类型不符，陷入两难。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;JSON.rawJSON的核心作用是创建一个&amp;#039;原始JSON对象&amp;#039;，告诉stringify原样输出传入的JSON文本，不做任何转义或修改，从而完美解决超大整数精度保留与数字类型兼容的问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细介绍了rawJSON的三个关键细节：传入参数必须是合法的JSON原语文本（数字、字符串、布尔值、null），否则抛出SyntaxError；返回值是原型为null且被冻结的特殊对象；可配合JSON.isRawJSON方法判断一个值是否为rawJSON对象。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章列举了rawJSON的实际应用场景，包括解决BigInt无法被stringify序列化的问题，以及精确控制JSON序列化格式避免转义字符被二次转义；同时提醒不需要精确控制时、传入非法内容时以及兼容性要求高的项目中应谨慎使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结尾介绍了rawJSON的浏览器兼容性，推荐了ponyfill项目，并总结rawJSON是对stringify的补充而非替代，核心场景为超大整数/BigInt序列化和精确控制JSON格式。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 虹线 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://1q43.blog/post/12336/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一个新的 AI 记忆层概念：哈勃半径&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 三层AI记忆系统让个人信息宇宙可被调用&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者详细介绍了为个人AI Agent构建三层上下文记忆系统的实践与思考。第一层是基于切片式RAG的事实记忆，第二层是由Hermes Agent驱动的LLM Wiki结构记忆，第三层是作者独创的「哈勃半径」——将用户长期关注的所有信息源汇入私有Meilisearch搜索引擎，构建可被AI调用的个人信息宇宙。作者认为哈勃半径本质是记忆层而非搜索引擎，其价值在于边界与选择，能让AI在进入公开互联网之前先回到用户的可观测宇宙，将「阅读」从前置消费转变为后置召回，是AI时代知识管理的重要范式转变。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者为自己的AI Agent配置了三层上下文记忆系统：第一层「我知道的」、第二层「我应该知道的」、第三层「我可能知道的」（即「哈勃半径」），并指出现有AI记忆讨论中缺少对用户信息感知来源的关注。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一层是切片式RAG系统，通过Notion AI从日记、Dayflow、Looki等多源数据中每日自动提取事实记忆碎片，让AI了解用户近况；但其局限在于只能处理已发生、已记录的事实。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二层是由Hermes Agent驱动的LLM Wiki，将散落材料整理成结构化知识网络，解决「我应该知道的」问题，并将立场和知识结构作为对话背景；作者同时澄清RAG与LLM Wiki各有所长，并非非此即彼。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三层「哈勃半径」通过将抖音、播客、公众号、RSS等所有关注源汇入FreshRSS，再导入私有Meilisearch搜索引擎，并接入Notion AI和Hermes Agent，构建一个私人可检索的信息宇宙。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;哈勃半径的技术搭建过程包括部署Meilisearch、配置UI与CORS、接入Cloudflare Worker做中转反向代理，最终形成近万条、每周增长约2000条的私有文档库。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;哈勃半径与公开搜索引擎的根本区别在于：前者是用户长期关注动作筛选过的信息源，代表「在我的信息宇宙里有什么」，而非「全网有什么」，尤其适合回答非事实类、气候感知类问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为哈勃半径本质是记忆层而非搜索引擎，核心在于「限定上下文」：同一关键词在不同人的半径内含义不同，而公开搜索会压平这些语义差异，忽视用户的个人信源权重结构。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三层记忆的独特之处在于记录的是「我可能知道的」——大量用户未读内容，但AI时代可将「阅读」从前置消费改为后置召回，未读内容从信息债务变为可调用的可能性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;哈勃半径的价值来自边界而非覆盖率，维护重点是「选择」而非「多抓」；边界的划定必须由人完成，因为它代表用户的注意力史、信任结构和审美偏好，AI只能辅助清理和索引。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;三层记忆的关系类比为：第一层是记忆，第二层是知识，第三层是视野；真正个人化的AI必须同时具备三者，仅靠偏好记录和网页搜索无法捕捉用户与世界之间长期形成的媒介关系。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为未来每个重度使用AI的人都需要自己的哈勃半径，技术栈可以简化，关键在于观念：给AI一个持续更新、由用户授权的内容池，让AI先进入用户的可观测宇宙，再面向公开互联网，从而真正实现个人AI的个性化。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
