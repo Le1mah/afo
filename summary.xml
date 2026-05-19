@@ -4,8 +4,172 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-05-18T20:48:01.734Z</updated>
+  <updated>2026-05-19T20:36:24.850Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - May 19, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-05-19</id>
+    <updated>2026-05-19T20:36:24.850Z</updated>
+    <published>2026-05-19T20:36:24.850Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>7 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 19, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;152.32876712328766&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    38.1%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;139&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;226&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;19&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████░░░░░░░░░░░░░░░░░░░ 38.1%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;7&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-5-18/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.5.18&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录相机试用、朋友偶遇、加班与DIY改造的生活随笔&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者的一篇生活随笔，记录了近期的几件事：在Pacifica海边餐厅用餐并试用Leica Q3 43相机，作者认为该相机性能不错但色彩风格与个人偏好不符，自己更倾向于在拍摄时就确定色彩而非依赖后期调整；偶然发现朋友Roc与Alan相识，感叹社交圈之小；近期持续加班至WWDC前；以及利用零散时间改造Chipolo Spot，计划制作一个适合冷靴座使用的方形Find My设备，填补市场空白。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者周日与朋友在Pacifica海边的Taco Bell用餐，并试用了Leica Q3 43拍摄，认为该相机镜头素质好、快门安静，但色彩风格不符合个人习惯，更倾向于拍摄时就确定色彩倾向而非后期大量调整。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;周六接到朋友Roc后意外发现Roc与Alan相识，且有共同的网友，感叹世界之小。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者近期持续加班，预计到WWDC发布会前一周才会减轻，业余时间则在改造Chipolo Spot，计划3D打印或金属加工一个冷靴座用的方形Find My设备外壳。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/sensors-for-coding-agents.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Maintainability sensors for coding agents&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 利用静态分析传感器引导AI代理维护代码库质量&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者Birgitta Böckeler分享了在AI编码代理工作流中使用可维护性传感器的实践经验。文章定义了可维护性的核心含义，并介绍了在编码会话、CI流水线及定期检查中部署的多种传感器，重点探讨了ESLint静态代码分析的应用。作者通过构建自定义格式化器，为代理提供自我纠正指导，允许其在合理情况下抑制警告或调整阈值，从而在灵活性与规范性之间取得平衡。文章指出，AI降低了创建自定义规则的成本，提升了静态分析的实用价值，但同时也警示了质量虚假安全感和反馈过载的潜在风险。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了本文的背景：在之前关于编码代理工具链的文章基础上，本文聚焦于帮助保持代码库可维护性的传感器（sensors）的实践经验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者定义了可维护性（maintainability）的含义，即让代码库随时间推移易于修改且风险低，并指出AI生成的代码库同样会出现内部质量问题，影响代理的工作效率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了其实验应用：一个用于社区管理者的内部分析仪表板，技术栈为TypeScript、NextJS和React，并特意减少了对AI的代码质量指导，以测试传感器反馈的效果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章概述了在编码会话中、CI流水线中以及定期运行的各类传感器，包括类型检查、ESLint、Semgrep、dependency-cruiser、测试套件、变异测试、安全审查等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了所使用的工具和模型，包括Cursor、Claude Code和OpenCode，默认模型为Claude Sonnet。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了使用ESLint进行静态代码分析的经验，指出针对AI常见失误（如函数参数过多、文件过长、圈复杂度过高）的规则需要手动配置，默认预设中并未包含。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了为ESLint构建自定义格式化器以提供自我纠正指导的做法，允许代理在合理情况下抑制警告或小幅提高阈值，从而保持规则的灵活性与可管理性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者观察到AI频繁提高圈复杂度阈值，但在引导下能提出良好的重构建议；同时发现React前端出现了属性链过长的问题，并指出自定义lint消息对代理行为有显著影响。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结了主要收获：静态分析的成本效益比因AI而改善，但也担忧可能产生虚假的质量安全感，以及反馈过载导致代理过度重构的问题，并预告了下一篇关于模块化的文章。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 三部中篇科幻小说以旅途为壳探讨孤独与自我&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是对Adrian Tchaikovsky三部中篇小说合集的书评。评论者认为，这三个故事表面上描写前往新世界（太空、未来等）的旅程，实则深刻探讨孤独与自我逃避的主题——无论走多远，人都无法逃离自身。三个故事均涉及猎人与猎物身份互换的母题，令人联想到Susanna Clarke的《Piranesi》。评论者高度赞扬书中罕见的悲悯情怀与地道的英式幽默，认为Tchaikovsky比同类科幻作家更具真实感和文化根基，最终给予五星评价。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这篇评论介绍了Adrian Tchaikovsky的三部中篇小说合集，表面上讲述前往新目的地的旅程，实则深入探讨孤独这一主题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;评论者指出三个故事都涉及猎人与猎物角色互换的主题，并将其与Susanna Clarke的《Piranesi》相比较，认为读者始终无法确定主角是否只是在与自己臆想的敌人作战。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者赞扬了书中罕见的悲悯情怀与恰到好处的英式幽默，并指出Tchaikovsky比Weir/Scalzi更接地气，敢于提及真实的英国地名和文化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;评论以五星好评作结，并提供了多种购买和借阅渠道的链接，包括Amazon、Kobo、Audible及独立书店等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-19T07:54Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-19T07:54Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者因Penpot存在未修复bug被迫回归Figma&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者发现Penpot存在一个严重bug，导致其几乎无法正常使用。该bug早在三周前已被另一位用户报告，但至今未修复。作者本希望支持欧洲本土替代产品（如Penpot和Go European项目），却因此bug不得不重新使用Figma，对此感到无奈和自责。文章语气轻松幽默，带有自嘲色彩，同时表达了对欧洲开源设计工具发展的关注与期待。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109928&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 141 | 派友下午三点的「精神快充」、复古磁带机与特殊的新玩意&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 社区速递汇聚派友精神快充方式、复古磁带机与遗体捐献新玩意分享&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派Matrix社区第141期社区速递，汇聚了社区一周精华内容。热议话题围绕「下午三点的精神快充」展开，近400名派友分享了工间运动、散步、喝咖啡等放松方式。一周热评涉及AI与翻译、墨水屏阅读器、佳明手表对比、地震预警App等多元话题。新玩意板块中，作者LOSSES分享了对索尼复古磁带机WM-GX788的情感寄托与使用体验，以及登记遗体捐献的简单流程和豁达心态。整体内容丰富多元，展现了少数派社区的活跃氛围。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期社区速递介绍了少数派Matrix社区的内容汇总，包括一派热议、热评和新玩意等板块。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在第276期一派讨论《下午三点，聊聊你的「精神快充」方式？》中，399名派友分享了各自的放松方式，包括运动、散步、喝咖啡、刷手机等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;多位派友详细描述了自己的工间休息计划，如番茄钟配合深蹲俯卧撑、定时散步保证万步目标等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;一周热评涵盖多篇文章的精彩评论，话题涉及Windows菜单、AI与翻译、墨水屏设备、佳明手表、Android发布会及地震预警App等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者LOSSES分享了索尼磁带机WM-GX788的购入体验，从情感价值、物理设计到使用习惯进行了详细描述。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者LOSSES还分享了登记遗体捐献的经历，介绍了登记流程简便，并表达了对身后事的豁达态度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文末介绍了新玩意栏目的投稿规则及奖励方式，鼓励读者踊跃参与。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109724&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;线下活动｜听完这首，不再 Emo：Leon x 少数派萨克斯音乐奏享会&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派广州联合Austrian Audio举办Leon萨克斯音乐线下奏享会&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派广州线下体验店发布的一则活动预告，介绍了一场联合音频品牌Austrian Audio、邀请知名萨克斯演奏家Leon（陈郎）举办的线下音乐奏享会。活动将于2026年5月30日在广州荔湾湖畔举行，内容涵盖现场演奏、自媒体运营经验分享及观众互动环节，限60人到场并同步直播。文章以活动宣传为主要目的，详细介绍了Leon的个人背景、Austrian Audio的品牌理念、活动流程及参与方式，语言轻松亲切，兼具信息性与推广性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派广州线下体验店联合音频品牌Austrian Audio，邀请萨克斯演奏家Leon举办一场兼具演奏欣赏与录音干货分享的线下音乐活动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Leon（陈郎）是拥有超60万粉丝的流行萨克斯演奏家及音乐自媒体博主，作品总播放量破亿，曾获周杰伦、陶喆等知名音乐人转发认可。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Austrian Audio创立于2017年，专注话筒和耳机产品，覆盖录音棚到日常等多种使用场景，以Making Passion Heard为研发理念。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;活动定于2026年5月30日（周六）20:00-21:30在少数派广州线下体验店举行，限60人参与，同步开启线上直播，现场提供饮品折扣及Austrian Audio周边礼品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;活动流程包括Leon暖场演奏、自媒体运营经验分享、穿插现场演奏、观众互动问答及即兴演奏环节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派广州线下体验店于2025年初开业，位于荔湾湖畔泮塘五约古村，是集数码、音乐、社区于一体的复合型据点，定期举办音乐沙龙等活动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;活动温馨提示包括户外防蚊建议、互动礼品赠送、线上直播观看方式及活动期间饮品折扣信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109889&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 C·ONE将AI融入日常，构筑数字化自我&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者体验了YoooClaw C·ONE智能卡片，这是一款专为AI Agent设计的硬件设备。文章从工业设计、通知管理、灵感捕捉和数据积累四个维度展开，作者以ADHD患者和自由撰稿人的双重身份，分享了C·ONE如何通过灯条状态、自然语言指令和物理按键，将AI从聊天界面中解放出来，融入日常工作流。作者认为，设备沉淀的个人数据将构筑「数字分身」，而C·ONE的价值在于降低AI使用门槛，有望成为AI时代的「Lisa时刻」。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了YoooClaw C·ONE智能卡片的背景，指出当前AI仍停留在屏幕交互模式中，而C·ONE是一款专为AI Agent设计的硬件产品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;C·ONE采用全金属楔形设计，与iPhone Air高度契合，背面设有按钮和条形指示灯，通过灯条颜色和效果传达AI状态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者作为ADHD患者，详细描述了C·ONE如何通过自然语言设定通知过滤规则，用灯条颜色替代手机弹窗，有效保护工作专注状态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;C·ONE的物理按键可作为「闪念胶囊」，作者通过长按录音将碎片化灵感实时记录，AI整理成文字，解决了创作者灵感易逝的痛点。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者引用YoooClaw创始人播客案例，阐述通知数据作为AI上下文的价值，以及积累个人数据最终构建「数字分身」的愿景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为C·ONE降低了AI交互门槛，将复杂配置简化为「磁吸、配对、按键」的物理操作，可能成为AI的「Lisa时刻」，并表达了拥抱AI共生的态度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - May 18, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
