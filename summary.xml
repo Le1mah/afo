@@ -4,8 +4,238 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-05-20T20:49:13.897Z</updated>
+  <updated>2026-05-21T20:42:46.740Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - May 21, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-05-21</id>
+    <updated>2026-05-21T20:42:46.740Z</updated>
+    <published>2026-05-21T20:42:46.740Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>13 articles from 8 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 21, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;154.5205479452055&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    38.6%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;141&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;224&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;20&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████░░░░░░░░░░░░░░░░░░ 38.6%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;13&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22575&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Thursday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 There&amp;#039;s no article content here to summarize — just a title with no body text. Paste the full article text and I&amp;#039;ll summarize it.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The content provided doesn&amp;#039;t contain an actual article to summarize — &amp;quot;I can&amp;#039;t discuss that&amp;quot; is not article content.
+
+If you have an article you&amp;#039;d like summarized, paste the full text and I&amp;#039;ll put together a concise summary for you.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (1 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; I can&amp;#039;t discuss that.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22574&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Brigid by Kim Curran&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《Brigid》以双重视角重述爱尔兰神话，轻松愉快但缺乏突破。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是对Kim Curran新书《Brigid》的简短书评。作者因喜爱其前作《The Morrigan》而阅读此书。《Brigid》同为爱尔兰神话现代重述，背景设于早期基督教爱尔兰，以圣人Brigid为主角、异教女神Brigid为叙述者，构成独特的双重叙事框架。书中融入Patrick等基督教历史人物，但超自然元素并不归于基督教神明，与《The Morrigan》的神话世界一脉相承。作者总体评价正面，认为此书虽缺乏突破性，但仍是轻松愉快的读物。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因喜爱Kim Curran的处女作《The Morrigan》而借阅了她的新书《Brigid》，指出两书同为爱尔兰神话的现代重述，但时代背景不同，《Brigid》设定于早期基督教爱尔兰。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本书以圣人Brigid为主角、女神Brigid为叙述者的双重视角构建故事框架，Patrick和Brendan等基督教人物客串出场，但书中的超自然力量并未归因于基督教神明。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为《Brigid》虽不算突破性之作，吸引力也不及《The Morrigan》，但仍是一部值得一读的轻松读物。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CSS新函数可直接获取兄弟元素位置，告别JS注入索引&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了CSS新函数`sibling-index()`和`sibling-count()`，它们属于CSS Values and Units Module Level 5规范，已在Chrome/Edge 138和Safari 26.2中落地。这两个函数让开发者无需JavaScript或大量`:nth-child()`规则，即可在样式表中直接获取元素的兄弟位置和兄弟总数，从而实现交错动画、自动等宽、色相分布、圆形菜单等效果。文章同时深入讲解了Shadow DOM作用域、`display:none`计数、自定义属性求值时机等实际开发中的陷阱，并给出了基于`@supports`的渐进增强方案。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了CSS中实现交错动画效果的传统痛点：要么用Sass循环生成大量`:nth-child()`规则，要么用JavaScript注入内联样式，两种方式都需要告诉浏览器它本已知晓的信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CSS Values and Units Module Level 5规范引入了`sibling-index()`和`sibling-count()`两个新函数，前者返回元素在父节点中的1-based位置，后者返回父节点的子元素总数，两者均解析为整数，可直接用于`calc()`等数学函数。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展示了多种实用模式：反向交错动画、自动等宽标签、色相均匀分布、纯CSS圆形菜单布局以及z-index堆叠，这些过去都需要JavaScript才能实现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细说明了几个重要注意事项：Shadow DOM作用域限制、伪元素不计入兄弟节点、`display:none`元素仍占据DOM位置、自定义属性会立即求值等陷阱。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在性能方面，DOM变更会触发受影响兄弟元素的样式重算，对于普通布局性能可接受，但万级节点的动态列表仍建议使用JavaScript管理索引；浏览器支持方面，Chrome/Edge 138和Safari 26.2已支持，Firefox尚未在稳定版发布，建议配合`@supports`渐进增强。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/bliki/VibeCoding.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Bliki: Vibe Coding&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Vibe coding适合一次性软件但存在安全与质量风险&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由Martin Fowler撰写，介绍了vibe coding这一新兴软件开发技术。Vibe coding是指通过提示LLM构建应用程序，完全不查看生成代码的方式，由Andrej Karpathy于2025年2月创造。文章区分了vibe coding与Agentic Programming的本质差异：前者完全忽视代码存在，后者仍关注代码质量。Fowler指出vibe coding的主要风险包括安全漏洞、低质量代码和LLM幻觉导致的错误行为，并建议该技术仅适用于一次性、小范围使用的软件项目。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vibe coding是一种通过提示LLM来构建软件应用的技术，用户无需查看任何生成的代码，适合无编程知识的人使用，但生成的软件常存在可维护性、正确性和安全性问题，最适合用于一次性软件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该术语由Andrej Karpathy于2025年2月创造，他描述了一种完全依赖LLM、不阅读代码差异、遇到错误直接粘贴错误信息的编程方式，认为这种方式适合周末的一次性项目。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vibe coding的核心是&amp;#039;忘记代码的存在&amp;#039;，这与许多程序员使用LLM但仍审查代码的Agentic Programming不同，尽管&amp;#039;vibe coding&amp;#039;一词因语义扩散而被广泛误用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vibe coding适合无编程知识者为自己构建应用，也适合有经验的程序员快速开发原型，但其局限性正在被探索，随着模型能力的变化而改变。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vibe coding最严重的风险是安全问题，LLM本身存在大量攻击面，vibed应用可能暴露敏感信息或凭证，即使是非程序员也需了解Lethal Trifecta的概念。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于对代码关注度低，vibed软件可能快速产生大量低质量代码，形成难以维护的&amp;#039;意大利面条式&amp;#039;代码，而结构良好的代码对LLM同样更易处理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;LLM存在幻觉问题，可能生成行为不正确的软件，且其非确定性意味着增强功能时可能引入新错误，因此应对LLM生成的软件保持怀疑态度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总体而言，vibe coding最适合仅由作者或少数了解风险的协作者使用的一次性软件，而更复杂、更广泛使用且风险后果更大的代码不应被忽视。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Mozilla Hacks – the Web developer blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Announcing Web Serial Support in Firefox&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Firefox 151支持Web Serial API，可直连硬件设备&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Firefox 151桌面版正式支持Web Serial API，使网页应用能够直接与微控制器、开发板、3D打印机等串口硬件通信，无需安装原生软件。该功能对硬件爱好者、创客、教育者和开发者极具价值。文章通过Adafruit的CircuitPython固件安装、Florian的USB功率计数据可视化以及Home Assistant的ESPHome固件配置等实际案例，展示了Web Serial的广泛应用场景。在安全方面，Firefox要求用户主动授权每个串口访问，并引入附加组件门控机制保护隐私。Mozilla目前正积极推动Web Serial在WHATWG中实现标准化。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Firefox 151桌面版新增Web Serial API支持，允许网页应用直接与微控制器、开发板、3D打印机等串口设备通信，无需安装原生软件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Adafruit作为开源硬件和STEM教育领域的领导者，展示了Web Serial的实用价值，用户可通过Firefox使用Adafruit Web Serial Tool为设备安装CircuitPython固件，并通过简单的文本I/O实现设备与网页的交互。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mozilla工程师Alex Franchuk创建了Page Playground项目，将Web Serial与电子设备结合；支持的设备包括ESP32系列、Raspberry Pi Pico、3D打印机、LEGO设备等众多串口兼容硬件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Web Serial是一种允许网站通过JavaScript读写串口设备的Web API，现代计算机通过USB或蓝牙连接的串口设备可被操作系统识别为串口，从而被Web Serial API访问。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mozilla工程师Florian Quèze演示了如何用Web Serial读取USB功率计数据并在Firefox Profiler中可视化；Home Assistant和ESPHome项目也支持通过Web Serial安装和配置ESP32设备固件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Web Serial在安全和隐私方面采用严格的用户授权机制：网站必须调用navigator.serial.requestPort()让用户主动选择授权端口，不会自动获取设备列表，也不提供有效的指纹信息；Firefox还引入了附加组件门控提示，企业用户可通过策略设置管理Web Serial权限。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Web Serial目前仍在WICG孵化阶段，Mozilla正积极推动其在WHATWG中标准化，并邀请用户通过Mozilla Connect分享项目和反馈，技术问题可访问support.mozilla.org或提交bug报告。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 TJ&amp;#039;s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thaddeusjiang.com/20260521-wei-shi-me-wo-mei-you-chang-shi-github-de-ti-dai-pin&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;20260521 为什么我没有尝试 GitHub 的替代品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 工具迁移成败取决于社区是否跟随&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了尝试用Hugging Face替代GitHub的经历。尽管Hugging Face在功能上已全面覆盖GitHub的核心功能，并提供Datasets等额外特性，但普通web开发者社区并未迁移，导致替代尝试无疾而终。作者以Mastodon、Meta Threads无法替代X为类比，说明工具迁移的成败取决于社区是否跟随，而非工具本身的优劣。由此，作者确立了自己的技术迁移原则：跟随社区。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/whale-fall/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Whale Fall&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技巨头如鲸落，衰亡孕育新生态&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以&amp;#039;鲸落&amp;#039;（Whale Fall）这一海洋生态现象为核心隐喻，探讨科技巨头的兴衰更替。作者将Twitter的衰落比作鲸鱼之死，指出Mastodon、Discord、BlueSky等新兴平台正从其残骸中获益成长。文章进一步暗示GitHub和WordPress也可能步其后尘。作者的笔触兼具诗意与讽刺，核心观点是：巨头的消亡并非终结，而是新生态系统诞生的契机。进化厌恶单一文化，生态位的多样性才是真正的成功。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以鲸鱼之死为引子，描述鲸落现象——巨型哺乳动物死后沉入海底，成为无数生物的盛宴，象征着巨大存在的终结与新生命的开始。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Twitter的衰落被比作鲸落，其&amp;#039;Fail Whale&amp;#039;标志成为预兆，Mastodon、Discord、BlueSky等新兴社交平台正从其残骸中汲取养分，寻找各自的生态位。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者进一步将这一比喻延伸至GitHub和WordPress，暗示这些科技巨头也可能面临类似的衰退命运，而新的竞争者正虎视眈眈。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章以哲学性结语收尾，指出所有巨头终将消亡，其内部生态系统将借机解放，与新宿主共同进化，孕育出意想不到的新生态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-21T13:04Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-21T13:04Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者宣布六月离线并请人监督执行&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一则简短的个人通知，告知读者作者将于六月份离线，无法在线联系。作者请求任何看到其在线的人立即提醒他断开连接，以帮助其遵守离线计划。内容简洁，无复杂主题或论点。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-21T04:46Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-21T04:46Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者质疑AI Resist List的真实性与一致性&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者对&amp;quot;AI Resist List&amp;quot;这一倡议表达了复杂的看法。一方面，作者指出该倡议在基础设施上存在矛盾——托管于Vercel和Cloudflare这两家被视为Big Tech代表的平台。另一方面，作者承认该倡议背后有知名人士支持，包括在Twitter上宣布此事的Karen Hao。作者对其真实动机持怀疑态度，猜测可能是为了推广书籍再版，但同时也肯定了Hao的书本身是值得一读的作品。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110009&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 242｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派编辑分享保冷瓶、风扇、手机壳和充电底座四款新品体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部「新玩意」栏目第242期，四位编辑分别分享了近期购入的产品使用体验。巴斯介绍了一款日本购入的双层真空保冷瓶，保冷效果佳但对异形瓶兼容性差；克莱德推荐了小米直流变频电风扇1X，以自然风模式、低噪音和低功耗见长；北鸮评测了图拉斯支点壳O3Hue，外观出色但支点环稳定性有待提升；路中南体验了Qi2.2三合一主动散热充电底座，充电效率高且散热改善明显。整体风格轻松真实，兼顾优缺点。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派编辑部「新玩意」栏目介绍编辑们最近购买和使用的新奇产品，内容包含商务声明和参与规则说明。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑巴斯分享了一款在日本新宿购买的双层不锈钢真空保冷瓶，优点是保冷效果出色、防凝水，缺点是仅适配瓶装饮料且体积较大，对异形瓶和小容量饮料瓶兼容性差。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑克莱德分享了小米直流变频电风扇1X，该风扇支持100档风速调节和多种自然风模式，具有低噪音、低功耗、轻便易携带等优点，支持USB-C供电，唯一遗憾是不支持升降。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑北鸮分享了图拉斯支点壳O3Hue手机壳，外观好看、防护能力尚可、相机按键灵敏，但支点环在竖屏状态下稳定性一般，与其他磁吸配件兼容性有限。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑路中南分享了一款支持Qi2.2协议的三合一充电底座，带主动散热风扇、震动反馈和触控开关，手表充电模块获MFW认证且充电速度快，缺点是包装粗糙、不便携、需要15V3A输入才能达到25W功率。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/104073&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;iOS 里的这些实用辅助功能，每个人都可能用得上&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iOS 26辅助功能实用指南，人人皆可受益&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文发布于全球无障碍宣传日，介绍了iOS 26辅助功能中多项实用但鲜为人知的功能。文章涵盖防晕车的「车辆运动提示」、护眼的「降低白点值」、管控孩子的「引导式访问」、提升效率的「轻点背面」、帮助行动不便者的「眼动追踪」与「头部追踪」、升级后的「音乐触感反馈」、方便老人使用的「人声快捷指令」，以及可留存亲人声音的「个人声音」功能。作者以轻松实用的笔触说明每项功能的使用场景与设置方法，强调辅助功能并非残障人士专属，而是惠及所有用户的人文科技体现。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章发布于全球无障碍宣传日，指出iOS辅助功能不只是残障人士的专属，每个人都可能从中受益。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;「车辆运动提示」功能可在乘车时于屏幕两侧显示跟随运动的圆点，帮助用户减轻晕车感，并支持自定义外观和自动开启。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;「降低白点值」功能可让屏幕在最低亮度基础上进一步变暗，解决夜间使用未适配深色模式应用时屏幕过亮的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;「引导式访问」可将设备锁定在指定应用中，适合家长管控孩子使用设备，也适合需要专注工作的成年人。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;「轻点背面」功能支持双击或三击iPhone背面触发截屏、换壁纸、运行快捷指令等操作，建议开启提示横幅以防误触。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;「眼动追踪」和「头部追踪」功能可让行动不便的用户通过眼球或头部动作操控iPhone，支持面部表情触发详细操作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iOS 26对「音乐触感反馈」进行了升级，新增振动匹配模式选择和振动强度调节，解决了此前用户反馈的「手麻」问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;「人声快捷指令」可让用户设置自定义语音命令触发系统操作，音频仅在本地处理不上云，适合帮助不熟悉手机操作的老人。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;「个人声音」功能可通过录制15句话，利用AI技术在短时间内学习并复现某人的声音，适合希望留存亲人声音的用户。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结指出，Apple的辅助功能体现了科技的人文关怀，这些功能既帮助有障人士，也为所有iPhone用户带来便利。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109957&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;少数派 × 飞傲 多功能便携 CD 音箱一体机 BEATBOX 预售开启&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派×飞傲联名BEATBOX CD音箱预售开启&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了少数派与飞傲联合推出的多功能便携 CD 音箱一体机 BEATBOX 的预售信息。双方此前举办了盖板设计大赛，征集用户创意，第一名「复古盖板」将随首发限量套装附赠。产品采用磁吸可更换盖板设计，支持 MagSafe 配件，内置可充电电池，搭载 2.1 重低音立体声扬声器及 3.5mm Hi-Fi 耳机输出。功能涵盖 CD 播放、蓝牙、U 盘、FM 广播和 AUX 输入，满足多种听歌场景需求。预售现已开启，计划 2026 年 6 月底前发货。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派联合飞傲举办了「BEATBOX CD 机盖板设计大赛」，鼓励用户参与共创，最终评选出多名获奖作品，第一名「复古盖板」将作为首发限量套装专属配件随机器一同发货。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;BEATBOX 采用磁吸式可更换盖板设计，支持 MagSafe 规格磁吸配件，内置 3350mAh 电池，配备 2.1 重低音立体声扬声器和 3.5mm 耳机输出，兼具 Hi-Fi 音质与便携性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;BEATBOX 除 CD 播放外还支持蓝牙、U 盘、FM 调频广播及 AUX 输入等多种音频来源，预售于少数派官网和蔚来商城开启，计划 2026 年 6 月底前发货。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109976&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：iQOO 15T 正式发布、小鹏 GX 上市等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报：iQOO 15T发布、小鹏GX上市等十条资讯速览&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派5月21日科技早报，汇总了当日十条科技资讯。主要内容包括：iQOO 15T发布，搭载天玑9500 Monster版芯片与两亿像素主摄；Apple公布2025年App Store反欺诈成果；微软计划推出8GB内存版Surface Laptop并发布Azure Linux 4.0；小鹏GX上市，提供纯电与增程双版本；技嘉、AMD分别推出新显示器与EPYC 8005处理器；索尼发布WH-1000XX十周年典藏版耳机；运营商网上营业厅服务新国标落地；微信测试本机号码登录；战马工作室公布中土世界RPG与新《天国》系列两款新作。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iQOO 15T于5月20日正式发布，首销价3799元起，搭载天玑9500 Monster版芯片、8000mAh电池、2K 144Hz珠峰屏及两亿像素主摄，同期还发布了iQOO Pad6 Pro平板和iQOO TWS 5i耳机。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple发布2025年App Store反欺诈报告，显示当年阻止超过22亿美元潜在欺诈交易，拒绝逾200万次问题app提交，并停用4040万个欺诈客户账户。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软计划2026年推出8GB内存版Surface Laptop，售价1299.99美元，同时发布基于Fedora的通用云Linux发行版Azure Linux 4.0。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小鹏GX正式上市，提供纯电与超级增程双动力版本，指导价27.98万至35.98万元，纯电续航750km，增程版综合续航达1585km，全系搭载图灵AI芯片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;技嘉推出GO27Q24A显示器，采用26.5英寸QD-OLED半镜面面板，QHD分辨率，240Hz刷新率，HDR峰值亮度400nits。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AMD公布EPYC 8005 Sorano处理器详细信息，采用单路SP6插槽，拥有8至84个Zen 5核心，相比上代单核整数性能提升30%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;索尼发布WH-1000XX十周年典藏版头戴降噪耳机，国行首发价4399元，搭载新一代V3处理器，首次支持DSEE Ultimate技术，蓝牙升级至6.0。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;市场监管总局发布运营商网上营业厅服务新国标，规范资费透明、操作便捷、无障碍服务及个人信息保护等各环节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微信在iOS版中灰度测试「用本机号码登录」功能，通过运营商手机号认证服务自动识别SIM卡绑定号码，无需密码或短信验证码即可登录。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;战马工作室宣布同时开发两款新作：一款中土世界开放世界RPG，以及一部全新的《天国》系列冒险游戏。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - May 20, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2113,98 +2343,6 @@ GitLab cuts up to 30% of roles while pivoting to AI, masking layoffs with corpor
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了pretext项目，这是一个纯JavaScript/TypeScript库，用于多行文本测量和布局，由Cheng Lou创建，通过Canvas测量文本宽度并使用纯数学运算进行布局，避免触发浏览器重排。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展示了两个使用AI生成的pretext演示案例：矩形环绕效果（文字实时环绕拖动的图片）和非透明像素环绕效果（文字围绕PNG图片的非透明像素轮廓排版）。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者感慨AI的强大已经可以直接实现复杂需求，无需深入学习API，并分享了五一假期钓鱼五天的生活总结，列举了各个钓鱼场所的消费记录。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - May 10, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-05-10</id>
-    <updated>2026-05-10T20:15:18.912Z</updated>
-    <published>2026-05-10T20:15:18.912Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>2 articles from 2 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 10, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;142.46575342465752&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    35.6%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;130&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;235&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;18&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████░░░░░░░░░░░░░░░░░░░ 35.6%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;2&lt;/strong&gt; articles from &lt;strong&gt;2&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[RSS Club] A Sneak Preview of Upcoming Posts&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 RSS订阅者专属内容，预告即将发布的博客文章。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章是专为RSS订阅者准备的独家内容，作者以感谢的方式向RSS Club成员提前分享即将发布的博客文章预告。文章提到作者使用Editorial Calendar Plugin来组织和规划博客内容，但由于文章内容不完整，具体细节未能呈现。整体风格轻松友好，带有一种奖励忠实读者的互动感。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/87897&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;寻找你身边的电波——如何上中继&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 新手如何用手台通过中继台进行业余无线电通联&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细介绍了业余无线电爱好者（HAM）如何使用手持电台（手台）通过中继台进行通联。文章涵盖中继台的基本原理、查询方法、数字与模拟中继的区别、UV段频率划分、上下行频率及频差设置、亚音（CTCSS/DCS）配置，以及存储信道的操作步骤。此外，还通过模拟对话详细解析了无线电通联礼仪和专用话术，包括CQ呼叫、信号报告、Q简语和告别语73。文章以实用操作为主线，适合无线电初学者入门参考。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章引言介绍了无线电波无处不在的现象，并说明本文将重点讲解如何使用手台通过中继台进行通联。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;中继台是一种信号放大器，可将电台信号放大并扩展通联距离至数十公里，基本每个城市都设有官方或非官方中继台。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了如何通过搜索引擎、交流群或小程序「无线电工具集」查询本地中继台的频率信息，并提示中继台信息会随时间变化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;中继台分为数字中继与模拟中继，数字中继通讯效果更好但入门门槛较高，模拟中继价格便宜适合新手入门。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了UV段频率概念，VHF适合开阔地区，UHF穿透性好适合城市，并说明了中国业余无线电的频率使用范围及法规限制。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲解了上行频率（发送给中继）与下行频率（接收中继信号）的概念，以及如何在手台上设置频率和频差。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了亚音（CTCSS/DCS）的原理和设置方法，亚音是附带在发射信号中的低频音，用于验证和减少干扰，并说明了连接中继台的实际操作步骤。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了如何将常用频道存储到对讲机信道中，以及通过写频功能将频道信息写入设备的操作方法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过模拟通话示例详细讲解了无线电通联礼仪和话术，包括CQ群呼、呼号、信号报告（59）、Q简语（QTH）及告别语73的含义。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;后记中作者分享了接触无线电的初衷，表达了对无线电文化传播的热情，并祝愿读者通联愉快。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
