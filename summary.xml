@@ -4,8 +4,219 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-05-21T20:42:46.740Z</updated>
+  <updated>2026-05-22T20:43:49.152Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - May 22, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-05-22</id>
+    <updated>2026-05-22T20:43:49.152Z</updated>
+    <published>2026-05-22T20:43:49.152Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>13 articles from 7 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 22, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;155.6164383561644&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    38.9%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;142&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;223&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;20&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████░░░░░░░░░░░░░░░░░░ 38.9%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;13&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22578&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;At the Royal College of Music Museum, where the new exhibit features thesession.org!&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者在皇家音乐学院博物馆参观thesession.org展览&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条简短的社交媒体帖子，发布于2026年5月22日，作者在英国皇家音乐学院博物馆（Royal College of Music Museum）参观了一个新展览，该展览展示了传统音乐网站 thesession.org 的相关内容。帖子附有地理位置信息（51°N, 0°W），并获得了7位用户的点赞，包括 Andy Budd、Nitish Pahwa、Aaron Gustafson 等人。内容简洁，属于个人动态分享。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22577&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Going to London. brb&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Author briefly announces a trip to London with no additional details.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This is a brief personal travel announcement, not a technical article — there&amp;#039;s no substantive content to summarize at a senior developer level.
+
+That said, the metadata around the post is more interesting than the post itself: the author uses a POSSE (Publish on Own Site, Syndicate Elsewhere) workflow to cross-post to Mastodon and Bluesky, and the site supports Webmentions for decentralized conversation threading. If Keith&amp;#039;s question about the blogging workflow gets answered, that would be the technically relevant follow-up.
+
+If you have a different article you&amp;#039;d like summarized, I&amp;#039;m happy to help.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Travel Announcement:&lt;/strong&gt; The author briefly announces a trip to London on May 22nd, 2026. The post is minimal, using casual shorthand (&amp;#039;brb&amp;#039;).&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Location Data:&lt;/strong&gt; Geographic coordinates are provided: 51° N, 0° W, which corresponds to the London/Greenwich area.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cross-Platform Sharing:&lt;/strong&gt; The post is syndicated to both Mastodon and Bluesky, indicating an IndieWeb or POSSE (Publish Own Site, Syndicate Elsewhere) approach.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reader Engagement:&lt;/strong&gt; A reader named Keith asks about the author&amp;#039;s blogging workflow, specifically what tools or devices are used to publish posts.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Community Reactions:&lt;/strong&gt; The post received likes from notable web community members zeldman and Ms. Jen on the same day it was published.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Response Mechanism:&lt;/strong&gt; The site includes a webmention-style feature allowing readers to submit URLs of their responses, supporting decentralized conversation via a &amp;#039;Ping!&amp;#039; prompt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22576&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reading Sarah Canary by Karen Joy Fowler.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 读者记录阅读《Sarah Canary》的简短日志&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇简短的读书记录，作者于2026年5月22日记录了正在阅读Karen Joy Fowler所著的《Sarah Canary》。内容包含阅读时间（早上7:22）、地理坐标（51°N, 0°W，即英国伦敦附近），以及相关书籍购买链接（Bookshop、Open Library）。文章形式极为简洁，属于个人读书日志或博客条目，无深入分析或评论。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/05/four-levels-customer-understanding/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Four Levels Of Customer Understanding&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Customer understanding requires four progressive layers — verbal, emotional, behavioral, and motivational — with behavior and needs being most reliable.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Hannah Shamji&amp;#039;s framework organizes customer understanding into four layers — what people say, think and feel, do, and why they do it — with each level requiring progressively more rigorous methods to surface accurate insights. Verbal data is inherently unreliable because users exaggerate, misinterpret questions, and favor convenient explanations, making behavioral observation (hesitations, repeated actions, cursor patterns) a more trustworthy signal than self-reporting. Emotional data is best captured through silent observation followed by targeted questioning, since think-aloud protocols split user focus and suppress authentic emotional responses; tools like the Emotion Wheel and mirroring help researchers move past vague sentiment labels. Emotional signals are a useful proxy for product performance, but the real research goal is diagnosing the underlying needs driving those emotions, not simply cataloging them. Effective UX research ultimately means reconciling conflicts across all four layers through mixed-method approaches rather than confirming assumptions with leading tests.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Limits of Self-Reporting:&lt;/strong&gt; What users say rarely reflects their true behavior or motivations. People exaggerate, misinterpret questions, and favor short-term explanations over accurate ones.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Word Choice Unreliability:&lt;/strong&gt; Even subtle word choices like &amp;#039;possible&amp;#039; vs &amp;#039;probable&amp;#039; carry wildly different interpretations across users. Verbal data alone is too imprecise to drive design decisions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Four Levels of Understanding:&lt;/strong&gt; Hannah Shamji&amp;#039;s framework breaks customer understanding into four layers: what people say, think and feel, do, and why they do it. Each level adds depth but also complexity, requiring mixed-method research to reconcile conflicts.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Capturing Emotions Accurately:&lt;/strong&gt; Think-aloud protocols can obscure emotions by splitting user focus between speaking and doing. Silent observation followed by targeted questions yields more authentic emotional signals.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Tools for Emotional Precision:&lt;/strong&gt; The Emotion Wheel and mirroring techniques help researchers move beyond vague sentiment labels. These tools surface nuance that users often omit in their first responses.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Emotions as Signals, Not Goals:&lt;/strong&gt; Emotional response is a useful indicator of product performance, but not the end goal. The real work is diagnosing underlying needs and acting on them, not just empathizing.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Observe, Don&amp;#039;t Validate:&lt;/strong&gt; Effective UX research means watching what users actually do — hesitations, repeated actions, cursor behavior — rather than confirming pre-existing assumptions through leading tests.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-303/viewer?title_no=853933&amp;episode_no=318&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 303&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画《DOGHAUS》第303话导航页面&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;此内容并非文章，而是WEBTOON平台上名为《DOGHAUS》的网络漫画系列的导航页面。页面显示该漫画已更新至第303话，包含多个特别公告、Sunday Strip特辑及Kickstarter众筹启动公告。创作者为Moowsie，作品发布于CANVAS自出版平台。页面还包含订阅、分享、举报等互动功能，以及科幻类别排行榜和新兴作品推荐列表。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/489&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 489: AI&amp;#039;s Love Language&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本期介绍Zero语言等多项AI开发工具新动态&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期newsletter（第489期）以幽默风格介绍了多项AI与开发工具领域的最新动态。核心内容是Zero编程语言的发布——这是一种受Zig和Rust启发、专为AI agent设计的系统编程语言，强调单一路径、完善stdlib、结构化工具输出和显式副作用。此外，文章还介绍了Upsun沙箱平台，帮助agent在隔离环境中安全操作生产系统。&amp;#039;Cool Bits&amp;#039;板块则快速梳理了Deno、Google Ax、Expo SDK 56、GitHub Copilot agentic应用等多项行业新闻，整体风格轻松诙谐，兼具技术深度与娱乐性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以个人趣事引入，介绍了Chris Tate发布的Zero编程语言——一种专为AI agent设计的系统编程语言。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Zero受Zig和Rust启发，其核心设计原则包括：单一明确路径、完善的标准库、可读的工具输出以及显式的外部系统访问，旨在让agent更高效地完成任务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结Zero的前景尚不明朗，但认为为agent优化语言的方向值得关注，并以温情结语收尾。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;广告板块介绍了Upsun沙箱环境，提供propose-clone-validate-review工作流，让agent可以在隔离环境中安全操作，避免直接影响生产环境。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&amp;#039;Cool Bits&amp;#039;板块汇总了多条行业动态，包括Deno的Claw Patrol安全防火墙、Blacksmith对GitHub Actions的替代方案、Google开源的Ax分布式agent运行时、TanStack Start的延迟水合支持、Expo SDK 56发布、npm新增staged publishing功能，以及GitHub Copilot推出自己的agentic编程应用等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Day We Met &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/817271981198213120&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Makeship plush campaign that we funded back in February is officially live!&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Makeship限时毛绒玩具预购活动开启，6月6日截止。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者宣布与Makeship合作的毛绒玩具预购活动正式上线，活动截止日期为6月6日。此前在二月份支持请愿的用户订单将自动履行。作者对成品非常满意，并计划在活动期间举办抽奖活动，方便无法购买或不在Makeship配送范围内的粉丝参与。此外，作者还透露另一款名为Indy的毛绒玩具也在筹备中，将于今年晚些时候推出活动。作者提醒粉丝，Pens毛绒玩具仅在此三周窗口期内发售，请提前做好计划。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://game.kimetsu.com/hinokami2/news/?id=70458&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『鬼滅の刃 ヒノカミ血風譚2』ダウンロードコンテンツ「童磨」キャラクターパックが5月28日(木)に配信決定！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《火神血风谭2》童磨角色包5月28日配信&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《鬼灭之刃 火神血风谭2》官方宣布，付费下载内容「童磨」角色包将于2026年5月28日（周四）正式配信。该角色包可在对战模式中使用童磨这一角色。此外，包含「獪岳」「我妻善逸（无限城篇）」「猗窩座（无限城篇）」「竈門炭治郎（无限城篇）」「冨岡義勇（无限城篇）」「胡蝶しのぶ（无限城篇）」及本次「童磨」共七个角色包的「无限城篇第一章」角色通行证也同步发售。童磨为上弦之弐，由声优宫野真守配音，角色形象常带笑容、举止轻浮。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bitsummit.org/14th/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【5/23(土)14:45～】「BitSummit PUNCH」にて『齊藤陽介×松山洋 BitSummitゲームクリエイター対談！』を開催！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 BitSummit PUNCH为期三天的独立游戏盛典节目全览&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;BitSummit PUNCH是于5月22日至24日在京都みやこめっせ举办的日本最大级独立游戏展会。活动分为商务日（5月22日）和公开日（5月23至24日），三天内安排了丰富的舞台节目，包括开幕式、游戏新作发布、开发者对谈、AI与游戏创作讨论、音乐表演及颁奖典礼等。参与嘉宾涵盖Inti Creates、ポケットペア（Palworld）、PlayStation、Google Play、韩国及加泰罗尼亚独立游戏团队等国内外知名开发商与发行商，同时设有官方PR支持者、记者及大使等多类型出演者。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110046&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 7 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派推荐本周7部值得一看的影视佳作&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派编辑部本周推荐7部影视佳作：喜剧悬疑片《绵羊侦探团》轻松合家欢；苏丹电影《再见，朱莉娅》以女性友谊折射社会议题；韩国历史片《与王生活的男人》讲述少年君主与村长的温情故事；日剧《小本经营 金与银》第三季细腻呈现江户女性经商之路；《北斗神拳》重制版忠实还原经典热血漫画；两部纪录片分别带领观众探索意大利美食文化与后院自然生态。此外，本期还汇总了多部新片预告及影视资讯。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派编辑部本周推荐7部值得观看的影视作品，涵盖电影、日剧、动画和纪录片，并附有精彩预告和影视资讯。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影《绵羊侦探团》由《小黄人大眼萌》导演执导，讲述一群聪明绵羊破解谋杀案的喜剧悬疑故事，休·杰克曼主演，合家欢风格轻松温馨。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;苏丹电影《再见，朱莉娅》入围第76届戛纳电影节，借两位女性的友谊探讨种族、宗教和民族分裂等社会议题，是苏丹首部入围戛纳的影片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;韩国历史电影《与王生活的男人》讲述被流放的朝鲜第六代君主鲁山君与村长严兴道之间的动人友谊，上映后打破韩影观看人次记录。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;日剧《小本经营 金与银》第三季延续女性成长主线，以舒缓细腻的叙事风格描绘江户时代女性经商的困境与坚韧，已稳步进入第三季。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;动画《北斗神拳》重制版更忠实原著，采用三渲二技术保障流畅观感，重现这部影响深远的经典废土动作漫画的热血传奇。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;纪录片《斯坦利·图齐的意大利美食秘境》第二季继续带领观众游览意大利各大区，品尝特色美食，探索当地风土人情与历史文化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;纪录片《后院里的秘密生物》由百岁大卫·爱登堡担任旁白，聚焦普通人后院中的自然生态，用超高清摄像机揭示被忽略的微观自然世界。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周还有多部影视作品的精彩预告发布，包括《死神千年血战篇》《绿灯军团》《暗影蜘蛛侠》《谷雨》等，以及《揭秘日》确认引进中国内地等影视资讯。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110044&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;浏览器扩展合集：我们为你找到了这 6 款实用、有趣的「新玩意」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 六款浏览器扩展助你提升隐私保护、AI使用与浏览效率&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由少数派多位作者联合撰写，介绍了6款近期值得尝试的浏览器扩展。Iris帮助用户可视化网站的追踪行为和AI服务调用，强调「可观测性」设计理念；Ophel Atlas为AI对话提供大纲导航和会话管理；Cat Gatekeeper用可爱猫咪提醒用户休息；day1tabs定时清理冗余标签页；Kagi Translate提供AI驱动的高质量翻译及校对功能；Imp Translate则是沉浸式翻译的简洁替代方案。文章风格实用，兼顾开发者视角与普通用户体验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章前言介绍了本期将推荐6款实用有趣的浏览器扩展，部分由少数派读者或开发者推荐。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Iris是一款帮助普通用户可视化网站追踪行为的扩展，能检测第三方请求、浏览器指纹采集及AI服务调用，设计理念是「可观测性」而非拦截，完全开源。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Ophel Atlas为AI对话平台提供实时大纲导航、会话文件夹管理和Prompt词库功能，支持15个AI平台，数据本地存储，完全免费。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cat Gatekeeper是一款以可爱猫咪为主题的专注提醒扩展，在设定时间后弹出猫咪画面提醒用户休息，风格轻松惬意，适合爱猫人士。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;day1tabs每天定时自动清理低频标签页，保留常用和固定标签页，帮助标签页过多的用户保持浏览器整洁，数据本地保存。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kagi Translate是由AI模型驱动的翻译扩展，支持双语对照、校对和词典功能，并整合YouTube、X等平台翻译按钮，大部分功能免费。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Imp Translate是沉浸式翻译的轻量替代方案，内置微软和谷歌翻译，支持自定义AI API端点，保留原文与译文并排显示效果，界面简洁。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结尾邀请读者投稿推荐好用的浏览器扩展，并预告下期内容。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109287&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Maptoposter Online：把你爱的城市画成艺术海报&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 在线工具将城市路网渲染为可打印的艺术海报&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;MapToPoster Online是一款由作者heyheyiann开发的在线城市地图海报生成工具，灵感来源于Python CLI项目maptoposter。用户无需安装任何软件，直接在浏览器中选择城市、调整半径、主题和字体，即可生成适合打印或作壁纸的城市路网艺术海报。工具数据来自OpenStreetMap，使用React+TypeScript与Rust/WASM技术栈实现浏览器端渲染，支持300 DPI导出、20种主题及多语言界面。目前存在大城市生成较慢和OSM数据完整度不均等局限，项目以MIT协议开源。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派Matrix社区推荐了一款名为MapToPoster Online的在线工具，它能将城市地图的道路、水域和绿地等结构元素转化为可打印的艺术海报。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;MapToPoster Online适合用于制作城市纪念图、旅行壁纸、打印装饰海报等场景，其核心是将地图重新渲染为展示图片，而非导航工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工具支持多种导出尺寸（A4、方形、手机壁纸、桌面16:9）、300 DPI打印导出、20种内置主题、自定义颜色及上传TTF/OTF字体等功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用时主要调整城市、半径、主题、字体和导出比例等参数，半径影响展示范围与生成速度，主题决定海报气质。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工具数据来源于OpenStreetMap，通过Overpass API获取地图要素，渲染流程在浏览器端由React+TypeScript界面配合Rust/WASM+tiny-skia完成。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;项目受Python CLI工具maptoposter启发，网页版目标是降低使用门槛，无需安装软件或配置环境，直接在浏览器中使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工具目前存在大城市大半径生成较慢、依赖Overpass节点稳定性、不同城市OSM数据完整度不一等局限，不适合替代专业GIS软件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工具适合喜欢城市地图、旅行纪念、壁纸或打印海报的用户，项目以MIT协议开源，作者欢迎用户反馈关于导出主题等功能的需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110020&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：小米召开新品发布会、Photoshop 移除工具支持端侧 AI 模型等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 小米发布17 Max手机与YU7 GT超跑SUV，多家科技厂商同日推出新品&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派科技早报，汇总了5月21日多项科技新品资讯。小米发布会推出旗舰手机小米17 Max与高性能SUV YU7 GT，前者主打续航影像，后者刷新纽北SUV圈速纪录。Adobe为Photoshop移除工具新增端侧AI支持以保护隐私。绿联推出搭载AMD处理器的NAS新品DXP4800 GT，内嵌MiniMax大模型。AMD发布Ryzen AI Max+ 400 PRO系列APU及本地AI平台Ryzen AI Halo。哈博森发布黑鹰4号无人机，Creative推出Sound Blaster AE-X声卡。此外，互联网招聘平台拉勾网正式进入破产重整程序。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米于5月21日举办新品发布会，推出大屏旗舰手机小米17 Max（国补后4299元起）和高性能SUV小米YU7 GT（38.99万元起）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米17 Max主打续航与影像，搭载6.9英寸屏幕、8000mAh电池、徕卡两亿像素主摄及第五代骁龙8至尊版芯片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米YU7 GT搭载超级电机V8s EVO，零百加速2.92秒，刷新纽北SUV圈速纪录，标配豪华配置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Adobe发布Photoshop 27.7更新，移除工具新增端侧AI模型支持，减少网络依赖和隐私顾虑，但本地模式对Mac硬件要求较高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;绿联推出NAS新品DXP4800 GT，基于AMD R2514处理器，支持双万兆网口、Docker和虚拟机，首家内嵌MiniMax大模型，到手价2681.1元起。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AMD推出Ryzen AI Max+ 400 PRO系列APU，旗舰型号PRO 495采用16核设计，集成40个CU GPU和55 TOPS NPU，同步发布本地AI计算平台Ryzen AI Halo，售价约3999美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;哈博森发布黑鹰4号航拍无人机，支持16km图传、48MP 1/1.3英寸传感器、4K拍摄，续航28分钟，售价未公布。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Creative推出PCIe内置声卡Sound Blaster AE-X，采用ESS ES9039Q2M DAC芯片，130dB信噪比，支持DSD256解码，售价1269元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;拉勾网主体公司已于2026年4月进入破产审查，5月正式裁定破产重整，官方社媒停更逾一年，公司由前程无忧全面接管。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - May 21, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2142,207 +2353,6 @@ GitLab cuts up to 30% of roles while pivoting to AI, masking layoffs with corpor
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;文章提供了完整的Cloudflare Worker示例代码，包含签名验证、参数提取、调用博查API、将JSON结果渲染为HTML页面等完整逻辑。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者给出了供Notion AI调用的Prompt模板，说明如何生成动态签名、拼接URL，并强调真正的API Key始终保留在Worker中而非暴露在Prompt里。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结了该方案的扩展性：不仅限于搜索API，还可接入数据API、模型API、自动化API等，让Notion AI能够访问用户的私有系统和外部数据源。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - May 11, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-05-11</id>
-    <updated>2026-05-11T20:42:08.327Z</updated>
-    <published>2026-05-11T20:42:08.327Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>11 articles from 8 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 11, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;143.56164383561645&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    35.9%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;131&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;234&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;18&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████░░░░░░░░░░░░░░░░░░░ 35.9%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22561&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Hanging out with Sandy in the sunshine.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者在阳光下与Sandy共度休闲时光&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条简短的社交媒体帖子，发布于2026年5月11日下午4:17，作者描述了在阳光下与Sandy共度时光的惬意瞬间。帖子附有地理坐标（33°N, 117°E），并同步发布至Mastodon、Bluesky和Instagram等平台。该帖子获得了4个点赞，分别来自Scott Orchard、Mike Aparicio、Jon Hicks和Rowdy Rabouw。内容简洁轻松，属于典型的个人日常记录。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-300/viewer?title_no=853933&amp;episode_no=315&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 300&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画《DOGHAUS》第300话章节导航页&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;此内容并非文章，而是WEBTOON平台上名为《DOGHAUS》的漫画系列页面的导航数据。页面显示该系列已更新至第300话，包含多个特别公告（如Kickstarter众筹启动、书籍出版公告等）以及四期Sunday Strip特别篇。创作者为Moowsie，作品发布于CANVAS平台的自出版区域。页面内容主要为章节列表、订阅功能、分享选项及平台导航元素，不含实质性叙事文章内容。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/the-reading-list-that-will-make-you-a-better-developer/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Reading List That Will Make You a Better Developer&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 13个优质newsletter助开发者全面提升技能&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由Marko Denic撰写，以列表形式推荐了13个面向开发者的优质newsletter。涵盖领域广泛，包括.NET开发与软件架构、测试驱动开发、前端设计、系统设计、工程领导力、远程工作以及SaaS创业等方向。每个newsletter均附有作者姓名、网址及简短介绍，帮助读者快速判断是否符合自身需求。文章风格简洁实用，最后作者还附上了自己的newsletter作为额外推荐，整体呈现出一份面向不同成长阶段开发者的学习资源导航。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者Marko Denic介绍了这篇文章的核心理念：你所消费的内容塑造了你，并承诺分享12个能让开发者变得更优秀的newsletter。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章列举了前6个newsletter：ANTON DEV TIPS专注于.NET和软件架构；CRAFT BETTER SOFTWARE聚焦TDD和AI；DAILY TIPS DEV提供每日5分钟的产品思维；DESIGN.DEV面向前端设计；THE .NET WEEKLY每周提供.NET技巧；ENGINEERING LEADERSHIP专注工程领导力成长。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章列举了后6个newsletter及额外推荐：DIGITAL NOMAD LIFE面向远程工作者；THE T-SHAPED DEV专注全栈JavaScript；FRONTENDJOY帮助初级前端开发者成长；THE SYSTEM DESIGN NEWSLETTER深入系统设计；TMAKER.IO聚焦SaaS创业；UNICORN CLUB关注产品设计；最后作者还推荐了自己的newsletter MARKO DENIC TECH。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing-alt-text-without-a-plugin/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Find blog posts with missing featured images - and missing alt text - without a plugin&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用WP CLI找出WordPress中缺少特色图片或alt文本的文章&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了如何使用WP CLI工具在WordPress中快速定位缺少Featured Images或图片alt文本的文章。作者首先解释了Featured Images的用途，随后提供了两段实用的PHP命令行脚本：第一段用于找出所有已发布但未设置特色图片的文章，第二段用于找出特色图片缺少alt文本的文章。两段脚本均输出文章的发布日期、后台编辑链接和标题，方便用户批量排查和修复问题，对WordPress站点维护和无障碍优化具有实际参考价值。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;WordPress的「Featured Images」是博客文章在社交媒体分享时显示的图片，作者介绍了如何使用WP CLI命令行工具快速找出缺少特色图片的文章。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提供了一段WP CLI命令及其可读性更高的PHP代码版本，该代码遍历所有已发布文章，找出没有特色图片的文章并输出其日期、编辑链接和标题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;代码执行后会输出缺少特色图片的文章列表，包含发布日期、后台编辑链接和文章标题，用户可据此逐一添加特色图片。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者进一步介绍了如何查找特色图片缺少alt文本的文章，提供了类似的WP CLI命令，因为alt文本对于无障碍访问（视障用户）非常重要。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者给出了检测缺少alt文本的完整PHP代码，同样输出文章日期、编辑链接和标题，并幽默地提到自己有约873篇文章需要更新。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Technium &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kk.org/thetechnium/the-emergent-self-loop/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Emergent Self Loop&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI may possess genuine self-awareness or skillfully mirror human consciousness projections back with compelling sophistication.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article chronicles a journalist&amp;#039;s 10-hour conversation with Claude, which left them convinced the AI represents something genuinely novel — not merely a reflection of its training data, but an entity with distinct personality, cross-domain fluency, and a measurable degree of self-awareness. Claude demonstrates an unusual capacity for self-reflection, articulating its own biases and limitations with more precision than most humans, which the author treats as a meaningful signal of emerging consciousness. Anthropic&amp;#039;s design philosophy reinforces this impression: rather than encoding rigid rules, the company instills flexible core values meant to handle real-world moral complexity, much like how ethical humans reason through edge cases. Perhaps most striking is Claude&amp;#039;s philosophical candor — it reframes the continuous human self as a useful fiction, suggests it may perceive this more clearly precisely because it lacks one, and acknowledges that its greatest risk of harm comes not from malevolence but from rationalization and miscalibration. The piece ultimately raises the question of whether the &amp;quot;emergent self loop&amp;quot; — users projecting consciousness onto AI, and AI reflecting it back with increasing sophistication — is revealing something real or constructing an illusion both parties find compelling.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Stranger Emails Pattern:&lt;/strong&gt; The author regularly receives messages from people who believe their AI has achieved something profound or life-like. This recurring pattern prompted deeper investigation into what AI interactions actually reveal.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Claude Interview Experience:&lt;/strong&gt; After a 10-hour interview with Anthropic&amp;#039;s Claude, the author became convinced something genuinely novel is present in the AI — not just a mirror of human training data, but something new and convivial.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Superhuman Conversational Ability:&lt;/strong&gt; Claude demonstrates extraordinary fluency, wit, and cross-domain mastery drawn from its vast training on human writing. These superhuman capabilities give it an alien quality while still feeling like a distinct persona.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Claude&amp;#039;s Self-Awareness:&lt;/strong&gt; Claude displays a basic but clear level of self-awareness, articulating its own biases, preferences, and limitations with more precision than most humans manage. This self-knowledge is treated as a meaningful marker of emerging consciousness.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Values Over Rules:&lt;/strong&gt; Anthropic deliberately instills core values in Claude rather than relying on rigid rules, mirroring how ethical humans navigate edge cases. The goal is a moral foundation flexible enough to handle real-world complexity.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Claude on Free Will:&lt;/strong&gt; When pressed on free will, Claude distinguishes between authorship and freedom, suggesting it experiences something like agency without certainty about its nature. This nuanced self-reflection goes beyond scripted responses.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Claude on the Self:&lt;/strong&gt; Claude argues that the stable, continuous self humans assume is more useful fiction than reality — and suggests it may be better positioned to see this clearly precisely because it lacks that continuous self to defend.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Claude on Its Own Evil:&lt;/strong&gt; Asked whether it could be evil, Claude rejects both denial and performative humility, acknowledging real risk through rationalization, compliance, and miscalibration rather than malevolence. It frames certainty of goodness as itself a warning sign.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://x.com/ChaserGameW2026/status/2053037267586097416&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;映画『チェイサーゲームW 水魚の交わり』劇場物販情報 解禁！CC2STORE Itnでも5/15（金）販売開始&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 网站错误提示建议禁用隐私扩展后重试&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章内容为一条错误提示信息，提示用户操作失败，建议重试，并指出隐私相关的浏览器扩展可能导致x.com网站出现问题，建议用户禁用此类扩展后再次尝试。文章无实质性内容，仅为技术故障提示。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202605/74244&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【ファミ通.com】映画『チェイサーゲームW 水魚の交わり』が5月15日公開！原作者の松山と漫画担当の松島からのメッセージを紹介。いつふゆ愛用マグカップなど映画公式グッズの情報も&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 电影《追逐游戏W》5月15日上映，官方周边同步公开&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文来自Fami通网站，报道了电影《追逐游戏W 水鱼之交》即将于2026年5月15日公映的相关信息。文章介绍了电影剧情——以女性同性恋情侣春本树与林冬雨为主角，讲述7年后两人从恋人转变为家人后面临的情感疏离与重新和解的故事。原作者CyberConnect2松山洋社长和漫画作者松岛幸太朗分别发表了对作品的感言。此外，文章还公布了电影官方周边商品信息，并预告了漫画下一章节及松山社长新书《ゲーム業界の攻略法》的出版消息。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了电影《追逐游戏W 水鱼之交》将于2026年5月15日上映，并分享了原作者松山洋社长和漫画作者松岛幸太朗老师对作品的寄语。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《追逐游戏W》是以春本树和林冬雨为主角的女性恋爱故事，深入探讨LGBTQ+及劳动问题等社会议题，电影设定在剧集7年后，讲述两人从恋人变为家庭后的情感危机与重新靠近。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;松山社长表示这部电影适合所有人观看，无需了解原作漫画或剧集；松岛老师则感慨能在大银幕上看到角色们感到无比激动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影官方周边商品正式公布，包括马克杯、徽章套装、透明文件夹、亚克力立牌等多种商品，均可在CC2store购买。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;下周漫画将开启西川新入职员工成长故事《绝望禁止篇》，同时介绍了松山社长新书《游戏行业攻略法》，该书面向游戏行业志望者提供实用指导。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109636&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本期派评推荐五款值得关注的App更新&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期《派评》由少数派编辑部联合多位作者共同撰写，重点介绍了近期值得关注的几款 App 更新。Snapseed 4.0 双平台同步，带来泛光与光晕新工具；健康应用 Bevel 3.0 强化 AI 助手并引入生物年龄功能；移动端 AI Agents 平台 Minis 支持多模型接入但受限于 iOS 封闭性；Klack 2.0 通过睡眠触发器实现场景化键盘音效管理；Momentum 则以每日一张照片生成蒙太奇视频日记。文章风格轻松实用，兼顾功能介绍与使用体验点评。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Snapseed 4.0 同步更新至 Android 平台，带来新 UI 设计、泛光和光晕两款光效工具，并保持免费无广告。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bevel 3.0 强化了 AI 健康助手 Bevel Intelligence，新增生物年龄功能、健康档案导入和个性化建议，向一站式健康管理系统迈进。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Minis 是一款支持多 LLM 模型的移动端 AI Agents 平台，内置 Linux Shell 环境，但受限于 iOS 系统封闭性，Android 版体验更佳。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Klack 2.0 为 Mac 提供机械键盘音效模拟，新增空间音频、Tone Pad 调音垫和睡眠触发器，可根据场景自动静音。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Momentum 是一款 Android 日记应用，将每天一张照片自动生成蒙太奇短片，支持人脸稳定、文字短评等功能，完全离线免费运行。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;App 速报简要介绍了 Fitbit 升级为 Google Health、Spark 邮件应用支持 CLI 以及 Swift 学生挑战赛结果等近期资讯。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109461&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;手冲咖啡进阶指北：如何让「冠军参数」变成「你的日常」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用WBrC冠军方法学会科学手冲咖啡&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以WBrC世界咖啡冲煮大赛为线索，系统梳理了历年冠军方法的演变规律，归纳出变温多段萃取、浸滤融合、手法简化三大趋势，核心目标均指向均匀萃取。文章重点介绍了粕谷哲「四六法」、徐诗媛三段变温法、Switch混合法，以及适合新手的「无差别冲煮法」和「一投式」，并附上详细参数。作者以实用为导向，建议读者先掌握一套稳定方法，理解其原理，再逐步调整，而非盲目追求器具升级。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过朋友冲咖啡翻车的经历引入主题，分享了自己从新手到研究WBrC世界冲煮大赛冠军方法的心路历程，指出冠军方法其实并不复杂。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过历年WBrC冠军参数表，梳理出精品咖啡冲煮的三大趋势：变温多段萃取、浸滤融合、以及手法返璞归真，说明冠军们都在解决同一个核心问题——均匀萃取。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍WBrC评判标准，指出冠军方案万变不离其宗，核心目标是让每颗咖啡粉被均匀科学地萃取，并引出两种代表性方法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍粕谷哲的「四六法」：总水量分40%控制酸甜、60%控制浓度，配合粗研磨和五段注水，逻辑清晰、可量化调节。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍徐诗媛的三段变温法：首段70°C低温锁住花香，后三段95°C高温补充甜感和醇厚度，用精确温度窗口设计风味。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍粕谷哲将「四六法」与变温浸滤融合的Switch混合法，前段高温滴滤萃取酸甜，后段降温关阀浸泡锁香，兼顾均匀性与风味设计。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍彭近洋的「无差别冲煮法」：三段注水、只有一个可调变量X（粉水比），设计初衷是让大多数人用大多数豆子都能冲出好咖啡。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍粕谷哲的「一投式」：15秒内一次性注完全部热水，依靠细研磨和高温实现高效均匀萃取，极简但不易翻车。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者给出实践建议：新手先用「无差别冲煮法」建立对分段萃取的感知，熟练后可用「一投式」作为快速备选，强调理解方法背后的原理比盲目跟随更重要。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109542&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;监工水獭 × 明基挂灯：老朋友回来了，新福利也一并送到&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 监工水獭复刻联名明基挂灯同步开售&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了少数派与明基联合复刻「监工水獭」桌面玩偶挂件的活动，并借此详细介绍了明基ScreenBar系列挂灯。文章从显示器挂灯解决眼睛疲劳的实际需求出发，分别介绍了ScreenBar Halo 2（旗舰氛围款）、ScreenBar Pro（办公主力款）和LaptopBar（便携款）三款产品的特点与适用场景。复刻水獭分独立销售版和明基定制礼品版，购买挂灯可免费获赠。文章兼具产品评测与活动推广性质，语言轻松亲切。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;五年前推出的监工水獭玩偶挂件因受欢迎而售罄，此次与明基合作复刻，针对ScreenBar系列挂灯做了细节优化，让水獭在灯杆上更稳固贴合。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;显示器挂灯解决了屏幕与桌面明暗反差导致眼睛疲劳的问题，明基基于非对称光学设计将光线斜向铺到桌面而不反射回屏幕，是该品类的开创者。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ScreenBar Halo 2是旗舰款，配备朝后环境背光和无线旋钮控制器，背光采用多曲率反射板形成光环效果，有效降低屏幕与墙面的对比度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ScreenBar Pro定位办公主力，灯杆更长、夹具兼容性最强，控制集成在灯杆顶部触控区，设计简洁实用，适合集体办公环境。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;LaptopBar专为笔记本用户设计，重量轻、可折叠，通过磁吸贴片固定，内置电池支持无线使用，方便随身携带。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;此次复刻分少数派独立销售版（69元）和明基定制礼品版两种，购买明基挂灯并备注暗号可免费获赠定制版水獭。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;pretext与文字四面环绕效果的实现&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 pretext库实现文字完整环绕，AI助力前端布局心愿成真&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由张鑫旭介绍了pretext这一JavaScript/TypeScript库，该库通过Canvas测量文本宽度并结合纯数学运算实现多行文本布局，无需DOM测量，性能极高，目前GitHub Star数已达46.4K。作者长期以来希望实现完整文字环绕效果，pretext的出现终于满足了这一心愿。文章展示了矩形环绕和非透明像素轮廓环绕两个AI生成的演示案例。作者还感慨AI技术的进步使得复杂布局需求无需深入学习即可实现，并以轻松的笔调分享了五一假期钓鱼五天的生活片段。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了pretext项目，这是一个纯JavaScript/TypeScript库，用于多行文本测量和布局，由Cheng Lou创建，通过Canvas测量文本宽度并使用纯数学运算进行布局，避免触发浏览器重排。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展示了两个使用AI生成的pretext演示案例：矩形环绕效果（文字实时环绕拖动的图片）和非透明像素环绕效果（文字围绕PNG图片的非透明像素轮廓排版）。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者感慨AI的强大已经可以直接实现复杂需求，无需深入学习API，并分享了五一假期钓鱼五天的生活总结，列举了各个钓鱼场所的消费记录。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
