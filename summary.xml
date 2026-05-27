@@ -4,8 +4,229 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-05-26T20:52:55.646Z</updated>
+  <updated>2026-05-27T20:48:37.208Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - May 27, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-05-27</id>
+    <updated>2026-05-27T20:48:37.208Z</updated>
+    <published>2026-05-27T20:48:37.208Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>9 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 27, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;161.0958904109589&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    40.3%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;147&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;218&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;21&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████░░░░░░░░░░░░░░░░░░ 40.3%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;9&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22585&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Signing in solidarity with Wiki Workers United: https://en.wikipedia.org/wiki/Wikipedia:Wiki_Workers_United_solidarity#Signatures&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者公开声援Wiki Workers United劳工联署活动&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇简短的帖子发布于2026年5月27日，作者表达了对Wiki Workers United（维基工作者联合会）的声援，并分享了一个Wikipedia上的联署链接。帖子包含发布时间、地理位置信息（51°N, 0°W），以及作者在Mastodon和Bluesky平台上的社交媒体存在。该帖子获得了Tom Coates的点赞。内容简洁，主要是一次劳工权益支持行动的公开表态。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-05-27.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: May 27&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI时代的技术实践、社会影响与政策困境综述&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Martin Fowler于2026年5月发布的一篇片段集锦，涵盖多个与AI和软件开发相关的话题。文章引用了Kent Beck的对话、Ian Johnson的代码重构实践、NHS关闭开源库的争议、AI协作带来的认知疲劳问题，以及年轻一代对AI的负面态度。此外，文章还讨论了AI对就业市场的影响、美国政府AI监管的失败，并为具有软件背景的国会候选人Beth Anders-Beck进行了背书。Fowler以其一贯的观察视角，将技术实践与社会政治议题融为一体。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Martin Fowler描述了他与Kent Beck在2025年哥本哈根GOTO大会上的对话，话题涵盖LLM辅助编程、软件开发三十年来的经验教训，以及对年轻开发者职业发展的建议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Ian Johnson分享了他用约三个月时间重构一个混乱Laravel+React代码库的经历，从无测试的遗留单体架构演进为结构良好、具备自动化质量门禁的应用，并详述了他如何逐步从&amp;#039;in-the-loop&amp;#039;转变为&amp;#039;on-the-loop&amp;#039;的AI协作模式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;英国国家医疗服务体系（NHS）以LLM安全威胁为由关闭开源代码库，此举遭到批评，GDS等机构指出将代码转为私有并不能解决根本安全问题，反而减少了共享与协作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Adam Tornhill等开发者反映，与AI agent高强度协作会带来认知疲劳，决策密度的增加对大脑造成负担，他建议保持任务小型化、自动化验证，并反对盲目并行运行多个agent。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;社交媒体上流传两则幽默短语：一则关于&amp;#039;隐喻债务&amp;#039;，另一则调侃同时使用Claude写Rust的纯素食crossfit爱好者会先提哪件事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Karl Bode指出年轻一代对AI持日益怀疑的态度，约50%的Z世代认为AI的风险超过收益，80%认为AI妨碍真正的学习，年轻人对科技寡头的愤怒可能带来政治和社会影响。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《经济学人》的文章指出，历史上重大技术进步并未导致大规模失业，但数据显示AI对应届毕业生就业有一定影响，AI暴露度最高的职业类别就业率下降幅度（6.6%）明显高于最低类别（1.5%）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Lawfare评论指出，美国政府在AI监管上行动迟缓，白宫在签署一项温和的自愿性AI行政令前数小时突然取消，反映出政府缺乏AI专业知识，监管政策实质上处于不透明且无法可依的状态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Fowler罕见地为马萨诸塞州第六国会选区候选人Beth Anders-Beck背书，认为其软件开发背景将为国会带来急需的技术专业知识。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/sensors-for-coding-agents.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The test suite as a regression sensor&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 利用静态分析传感器提升AI编码代理的代码可维护性&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Thoughtworks杰出工程师Birgitta Böckeler关于编码代理可维护性传感器的实践性探讨。作者围绕一个基于TypeScript/NextJS/React构建的内部分析仪表板，系统介绍了在编码会话、CI流水线和定期检查三个阶段部署的各类传感器，重点分析了ESLint静态代码分析的应用经验。文章指出AI代理常见的代码质量问题（如高圈复杂度、函数过长等），并提出通过自定义lint消息为代理提供自我纠正指导的方法。作者认为，编码代理的出现使静态分析工具的成本收益比发生了积极变化，但同时也警示了反馈过载和虚假质量安全感的风险。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了本文是关于编码代理可维护性传感器的实践性后续文章，旨在探讨如何通过传感器保持代码库的可维护性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者定义了可维护性的含义，即使代码库随时间推移易于修改且风险低，并指出内部质量问题对AI代理的影响与对人类开发者的影响类似。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者描述了正在开发的应用程序：一个内部分析仪表板，技术栈为TypeScript、NextJS和React，并说明该应用是用AI从头重建的。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章概述了所有传感器的使用情况，分为编码会话期间、集成后流水线和定期运行三类，涵盖计算型和推断型传感器。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了基础工具链和模型，主要使用Cursor、Claude Code和OpenCode，默认模型为Claude Sonnet。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;关于ESLint基础代码检查，作者发现AI常见失误（如函数参数过多、文件过长、圈复杂度高）需要手动配置规则，默认预设并未涵盖这些。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者构建了自定义ESLint格式化器，为代理提供自我纠正的上下文指导，例如对no-explicit-any警告给出判断建议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者探讨了警告管理的新可行性：编码代理可以对警告做出判断并有选择地抑制，从而保持代码库的整洁基线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;观察发现AI频繁提高圈复杂度阈值，但在引导下能提出良好的重构建议；自定义lint消息对代理行为有显著影响。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结了静态分析的主要收获：成本降低、收益提升，但也担忧可能产生虚假的质量安全感和代理反馈过载问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者开始探索跨文件和模块边界的可维护性传感器，包括依赖规则、耦合分析和模块化审查三个方向。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/vibesec-reckoning.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The VibeSec Reckoning&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI编码安全需硬性规则而非仅靠提示词&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由Thoughtworks全球营销AI应用团队撰写，探讨了vibe coding（非技术用户借助AI快速构建应用）带来的系统性安全风险。作者通过亲身经历的两个安全事故——AI建议公开存储桶访问权限和过度分配服务账户权限——揭示了AI工具倾向于选择阻力最小路径的本质问题。文章援引2026年多项研究数据佐证风险的普遍性，并明确指出仅靠提示词无法保障安全。作者提出了短期习惯、中期解决方案（安全上下文文件与安全情报订阅）及长期组织变革建议，强调需将安全规则编码为开发流程中不可绕过的确定性检查，而非依赖推理性提示。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vibe coding让非技术用户能够借助AI快速构建应用，但AI倾向于选择阻力最小的路径，频繁推荐不安全配置，造成系统性安全风险。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Thoughtworks全球营销AI应用团队在扩展一个由citizen builder构建的视频原型时，发现了两个严重安全漏洞：AI建议将存储桶设为公开访问，以及为服务账户分配了过度的Access Token Creator权限。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;研究数据表明AI辅助编码带来的安全风险已成行业性问题，包括25%的AI生成代码存在已确认漏洞、44%的应用漏洞攻击同比增长，以及1/5的企业数据泄露由AI生成代码引发。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;仅靠提示词告诉AI&amp;#039;要安全&amp;#039;是不够的，提示词可被覆盖或忽略；真正的安全需要将规则编码为开发生命周期中不可协商的约束，结合前馈控制（Guides）和反馈控制（Sensors）构建harness工程体系。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;业务部门（如市场营销团队）同样需要承担安全责任，AI辅助开发必须符合企业安全标准，以保护客户数据、维护品牌资产并满足ISO 27001等合规要求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;短期内可通过三个习惯提升安全性：将安全规则加入AI工具的Rules配置、质疑AI建议的每一个权限设置、使用红队提示让AI扮演攻击者进行渗透测试。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;团队采取了两项中期解决方案：构建结构化安全上下文文件（security context file）并在每次编码会话前加载，以及建立每日安全情报订阅（security intelligence feed）以及时获取供应链告警。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;安全上下文文件涵盖零信任与最小权限、secrets管理、harness工程门控和供应链完整性等核心领域，需与自动化检查配合使用，而非仅依赖推理性指令。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Chuwi Minibook N150是款廉价小巧、可运行Linux的旅行笔记本&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者评测了Chuwi Minibook N150这款小型笔记本电脑。该设备售价约300英镑，金属机身，重量不足1公斤，支持USB-C充电，屏幕比例16:10，配备触摸屏。主要缺点包括美式键盘布局、触控板偶尔抖动、屏幕锁定50Hz、无生物识别及厂商支持较差。作者成功安装NixOS，几乎所有硬件功能均可正常驱动。文章以实用角度出发，客观列举优缺点，认为该设备是价格合理、适合旅行携带的Linux兼容设备，最终给出四星评价。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因旅行需求选购了Chuwi Minibook N150，这款小巧的笔记本售价约300英镑，能放入口袋，支持USB-C充电，总体表现尚可。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该设备的主要缺点包括：美式键盘布局、触控板偶尔抖动、屏幕旋转后键盘不自动关闭、无生物识别功能，以及厂商支持不稳定。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者简要介绍了安装Linux的步骤：禁用Secure Boot、设置USB启动，尝试多个发行版后最终选择NixOS，几乎所有功能均可正常使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;设备外观为金属机身，无品牌贴纸，背面适合贴纸装饰，配备两个USB-C接口和一个耳机孔。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;键盘虽来自英国仓库但为美式布局，缺少英镑符号，@和&amp;quot;位置互换，反斜杠和竖线无法输入，背光仅有三档。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;触控板支持多点触控手势，但中间点击手感不佳；屏幕为16:10比例，带圆角遮罩，锁定在50Hz刷新率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;充电方面，附带36W USB-C充电器，但实测充电功率偏低，开机状态下充电速度更快，可达35W左右。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;设备重量不足1公斤，支持多点触控和手写笔（不含），摄像头画质尚可，适合视频通话。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;综合评价：售价300至350英镑，配置合理，能流畅运行Linux，适合愿意折腾的旅行用户，获得四星评价。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/nc335b74f5e52&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ぼくすた！若手社員座談会【アーティスト編】&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 サイバーコネクトツー若手モデラー二人の入社経緯と目標を紹介&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本記事はサイバーコネクトツーの公式ブログ「ぼくすた！」に掲載された若手社員座談会のアーティスト編で、キャラクターモデラーの藤島さんと谷口さんへのインタビューをまとめたものである。二人はそれぞれ異なる経緯で入社し、互いの長所を認め合いながら東京スタジオでの充実した職場環境を楽しんでいる。藤島さんはリーダーを、谷口さんは一人前のクリエイターを目標に掲げており、若手社員の成長と活躍への意欲が伝わる内容となっている。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー公式ブログ「ぼくすた！」の若手社員座談会アーティスト編として、キャラクターモデラーの藤島さんと谷口さんが登場する。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;藤島さんは『NARUTOナルティメットヒーロー2』への愛着からサイバーコネクトツーへの入社を決め、谷口さんは作品展示会でのスカウトと会社の「情熱」に魅力を感じて入社を決めた。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;藤島さんは谷口さんをゲーム知識が豊富で親切な同期と評価し、谷口さんは藤島さんをコミュニケーション力が高く明るい存在と評している。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;東京スタジオについて、藤島さんはオンオフのメリハリと充実した社内イベントを、谷口さんは趣味の合う仲間との交流の多さを魅力として挙げている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;藤島さんはキャラクターモデラー班のリーダーを目指し、谷口さんは一人前のクリエイターとして早期に活躍することを目標としている。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108618&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;客制化键盘｜近期值得一看的套件与键帽：怪诞主题、复古创新与静电容&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 近期客制化键盘圈多款键帽与套件设计点评&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由少数派作者「车不能快」撰写，系统介绍了近期客制化键盘圈值得关注的多款键帽与套件产品。内容涵盖Keykobo Emoji绘文字、GMK Gregory 2、MW贤者之石、MW Gesha、KBS致幻浩室、GMK Arcade、KeyBoy40、KeyBoy Advance、Matter 65、Venus、Do.25、MetaPulse以及Jahre 65等十余款作品。作者从配色逻辑、设计灵感、搭配建议及产品完成度等多维度进行点评，风格专业且带有个人审美判断，同时关注静电容生态开放等行业趋势，为玩家提供了较为全面的选购参考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (13 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三月末KEI发布Emoji绘文字键帽GB帖，以聊天表情为灵感，采用灰阶底色搭配高饱和黄色点缀，将Emoji作为核心主题构建整套键帽设计，适合冷调简洁风格的键盘搭配。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;四月末pancake发布GMK Gregory 2 GB帖，以淘宝桌垫上的狗头表情包为灵感，延续黑黄配色与夸张表情的「丑萌」路线，在Geekhack与Reddit上形成强烈传播效应，评价两极分化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三月初York发布MW贤者之石IC帖，以中世纪炼金术手稿为主题，采用旧羊皮纸质感棕黄色为基调搭配勃艮第酒红色，融入大量炼金术符号，整体呈现年代感与仪式感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三月末KENT发布MW Gesha IC更新帖，以手冲咖啡为灵感，通过咖啡豆从生豆到烘焙的色彩变化作为配色线索，将原料到成品的过程融入键帽设计，个性图案完成度略显不足。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三月末York发布致幻浩室R2 IC帖，采用极高饱和度荧光绿、紫色与橙色碰撞，以迷幻蘑菇为主题，整套键帽视觉冲击力极强，适合风格化桌搭与亚文化收藏，日常兼容性较低。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三月中旬Rassles发布GMK Arcade IC帖，以街机为灵感，采用黑底搭配青色与洋红色的霓虹配色，致敬经典游戏，整体风格与GMK Miami Nights相似，中规中矩。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三月中旬牛牛发布KeyBoy40 GB帖，以Game Boy为灵感设计40%键盘，主打机械与静电容二合一PCB方案，价格亲民，外观仿照Game Boy做线条雕刻，是40%配列圈层的代表产品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三月初Galo发布KeyBoy Advance IC更新帖，以Game Boy Advance为原型重构设计，通过曲面结构与分件设计还原掌机形态，加入可按压肩键结构，完成度较高，定价1.7k–1.8k。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;四月初Chq发布Matter 65 IC帖，以PC与铜混搭为特色的65%套件，通过透明外壳展示内部金属结构，将对比作为核心设计方法，但PC与金属内构结合在市场上已非新鲜方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;四月中旬TRY发布Venus IC帖，以雕塑为灵感的40%套件，从「形体」入手将雕塑语言转化为体块关系与曲面结构，以正面为设计基准推导各细节，完成度较高，定价高配2K出头。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;四月中旬ises发布Do.25 IC更新帖，基于WS 785改造的复古风格套件，将列间距统一为0.25U对传统配列进行简化重组，外观服务于配列，逻辑统一，但非标准配列对用户习惯有一定要求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;四月中旬MetaKeebs查尔斯发布MetaPulse GB帖，推出面向客制化市场的完整静电容配件方案，覆盖PCB、推杆、轴座、胶碗等核心部件，兼容火山口与MX规格，推动静电容走向开放生态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;二月末Jingvv发布Jahre 65 IC帖，以保时捷911前三代车型为灵感的65%套件，将车身设计融入键盘轮廓，通过梭形弧边与收腰线条体现工业设计思路，而非简单堆砌车标元素。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110115&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;屏忆：这款开源工具，把过目就忘的日常变成「上下文」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 屏忆用本地截屏和OCR帮你找回手机上看过却遗忘的内容&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了作者开发的开源本地屏幕记忆工具屏忆（ScreenMemo）。作者从日常遗忘手机内容的痛点出发，意识到个人AI助手的质量取决于积累的真实上下文，由此开发了这款工具。屏忆通过无障碍服务定时截屏，结合OCR索引、时间线、每日总结和AI回顾，帮助用户找回曾经看过的内容。文章还回顾了Rewind和微软Recall的发展历程，强调闭源产品的生命周期风险，说明屏忆坚持本地优先和开源的设计理念。作者认为，屏幕记忆工具的核心是让用户掌握自己的上下文数据。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者描述了一种常见的遗忘困境：明明在手机上看过某内容，却找不到来源，也没有截图留存。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者意识到这个问题不只是找不到截图，而是关乎未来个人AI助手所需的真实上下文积累，由此萌生了开发屏忆的想法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;屏忆（ScreenMemo）是一款开源本地屏幕记忆工具，通过无障碍服务定时截屏，结合OCR、搜索、时间线、每日总结和AI回顾功能，帮助用户找回曾经看过的内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;屏忆最直接的使用场景是找回模糊记忆中的内容，用户可通过关键词搜索OCR索引，定位到对应截图。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;时间线和回放功能可还原跨多页面的操作过程，弥补单张截图只能呈现某一时刻的局限。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;每日总结功能将一天零散的屏幕记录整理成可读摘要，AI回顾则基于已留存的截图和上下文片段进行分析，而非凭空生成内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;屏忆还支持收藏和备注功能，自动记录作为兜底，人工标注作为补充。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以Rewind为参照，介绍了桌面端屏幕记忆工具的发展历程，Rewind后来转向Limitless并被Meta收购，最终停止了屏幕捕获功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软Recall同样尝试将电脑内容做成可搜索时间线，但因隐私和安全质疑而推迟发布，说明屏幕记录工具的信任问题先于功能本身。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;基于对闭源产品生命周期风险的认识，屏忆强调本地保存和开源，截图、OCR、索引默认留在本地，代码和隐私边界在GitHub上公开可查。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;屏忆提供隐私模式、敏感内容分析和NSFW相关能力，以及存储管理功能，包括压缩、过期清理和按应用策略，应对长期截图数据增长问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;屏忆将AI能力设计为可选项，用户需手动启用并配置提供商，支持OpenAI、Claude、Gemini等服务，MCP服务也需手动开启，确保用户对数据流向有明确掌控。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结屏忆的设计理念：记录、搜索、回顾、备份和隐私控制缺一不可，未来计划推出桌面端并适配更多平台，形成完整的跨设备记忆链路。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展望未来，认为真正懂用户的个人AI需要真实、连续且由用户自己掌握的上下文，屏忆的目标就是先把这些上下文留存下来。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110102&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;为什么没人会喜欢你用 LLM 写出来的东西？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 LLM写作辅助的困境、模型评价与实用技巧&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者从前端工程师视角深入探讨了LLM辅助写作的现状与困境。文章指出，当前主流模型因过度追求Benchmark分数和RLHF微调，导致输出风格同质化、口癖泛滥，且互联网AI内容占比已超74%，形成劣化循环。作者认为提示词风格控制效果有限，建议写作者通过Arena盲评训练风格敏感度，采用「先输出想法、再让LLM提问厘清思路」的写作流程，并对Claude、DeepSeek、Gemini、GPT等模型的写作适用性进行了横向评价，附上实用的风格控制提示词，强调作者必须深度参与创作才能避免成为LLM的嘴替。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章指出当前LLM评测基准已成为优化目标而非真实能力指标，以LLAMA 4作弊跑分为例，说明Benchmark无法准确衡量写作等主观认知任务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;语言能力难以量化，加之厂商通过RLHF微调进行安全对齐和风格调整，导致模型输出多样性降低、口癖增多，各主流模型均出现明显的风格同质化问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;互联网上AI生成内容泛滥（74.2%新网页含AI内容），若同质化内容被循环用于训练，将持续劣化模型输出质量，形成恶性循环。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者本身可能难以察觉LLM辅助写作带来的风格问题，建议通过Arena盲评训练风格敏感度，并在创作完成后间隔数日再审稿。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提示词工程对语言风格的约束效果有限，LLM容易忽略要求或输出逻辑混乱的内容，作者建议混用新旧模型但指出这也存在局限。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了具体写作方法：先录音或打草稿输出想法，再让LLM提问厘清思路，最终整理成文，强调必须提供足够多的个人输入以避免成为LLM的嘴替。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对各主流模型进行横向评价：Claude Sonnet较好用但AI味仍浓，DeepSeek V4滥用形容词且意图理解差，Gemini 3系列难用，GPT 5和Grok 4在写作任务上表现最差，并提供了针对各模型的风格控制提示词。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;建议作者在发布前彻底手动编修，并在完稿后将文章交给多个模型评价以发现问题，当模型开始牵强附会批评时说明文章完成度已较高。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - May 26, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1979,122 +2200,6 @@ If you have an actual article you&amp;#039;d like summarized, paste the text and
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;医生建议换用亚洲品牌美尼康（Menicon）的alpha镜片，该品牌更依赖泪液虹吸而非眼皮压力，右眼很快达到裸眼5.0。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;左眼持续不稳定，最终发现可能是睡觉时眼睛微睁导致眼干，通过睡前额外滴Hylo人工泪液解决，双眼终于稳定达到0度。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结了从2025年7月到2026年5月长达近一年的OK镜历程，感谢AI工具Grok和Gemini的陪伴，并指出若早听Grok建议换品牌可缩短整个过程。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - May 16, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-05-16</id>
-    <updated>2026-05-16T20:17:21.964Z</updated>
-    <published>2026-05-16T20:17:21.964Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>3 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 16, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;149.04109589041096&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    37.3%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;136&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;229&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;19&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████░░░░░░░░░░░░░░░░░░░ 37.3%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;3&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Theresa O’Connor &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://tess.oconnor.cx/2026/05/the-name-of-my-high-school-band&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;IIRC “Navel-Gazing Tier List” was the name of my high school band’s second album.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者将14年高中乐队名称笑话整理成趣味tier list&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者将多年来在网站和社交媒体上发布的所有&amp;#039;…was the name of my high school band&amp;#039;系列笑话整理成一个tier list。这些笑话以荒诞、奇特的短语作为虚构乐队名称，时间跨度约14年（2012–2026）。文章以幽默自嘲的风格呈现，将S至F级排名赋予各个名称，并附上荣誉提名及一个从未公开发布过的个人最爱——&amp;#039;Evergreen Jade and The Soul Pills&amp;#039;，出自成龙1978年电影《Half a Loaf of Kung Fu》。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了&amp;#039;…was the name of my high school band&amp;#039;这个梗的由来，说明这些笑话散布在网站和社交媒体上，他决定将收集到的所有此类笑话制作成一个tier list。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章列出了完整的tier list，从S级到F级，包含了从2012年到2026年间发布的14个乐队名称笑话，如S级的&amp;#039;Lady Usher and the Black Rods&amp;#039;和&amp;#039;Least Fungible Walrus&amp;#039;等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者补充了一些荣誉提名，包括大学即兴喜剧团名称和专辑名称，并分享了他从未在网上发布过的个人最爱笑话——&amp;#039;Evergreen Jade and The Soul Pills&amp;#039;，来自成龙1978年电影《半斤八两》中的MacGuffin道具。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-16T08:00Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-16T08:00Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者批判AI滥用破坏信任并呼吁停止使用AI&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇随笔式博文中，作者表达了对AI滥用现象的强烈不满。文章批评了所谓&amp;#039;vibecusations&amp;#039;——即无凭据指控他人使用LLM的行为，并指出智能引号并非AI的专属特征。作者以Den Odell和Adam Argyle为例，对AI生成艺术在博客中的使用表示失望，认为这损害了内容创作者的可信度。作者还谴责了那些将AI作为牟利工具的&amp;#039;AI grifters&amp;#039;，并对AI对行业和人际信任造成的破坏深感痛心，最终呼吁人们停止使用AI。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了&amp;#039;vibecusations&amp;#039;概念，即在没有证据的情况下指控他人使用LLM，并批评了将智能引号视为AI生成内容信号的错误观点，指出许多文字处理软件早已自动实现此功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了Den Odell的两篇文章，并提到Lobsters评论区对其进行了无根据的AI指控，作者重读后认为即便Den使用LLM，也远非最严重的滥用案例，但对内容准确性仍存疑虑。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者更确信Den使用了AI生成艺术，并对其博客中出现的低质量AI图像感到失望，同时提到Adam Argyle也有类似情况，质疑为何要用明显的AI垃圾图像污染自己的博客。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表示并非要点名批评，而是以仍然尊重的人为例说明问题，同时提到有些已成为&amp;#039;AI骗子&amp;#039;的高知名度人士，他已取消关注，并预言其最终将付出代价。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对AI带来的破坏感到愤怒和沮丧，引用了多位分享亲身遭遇的人，表达了坚持反AI立场的决心，并呼吁人们停止使用AI。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109777&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;为什么我觉得好的东西，媒体评测却给了低分？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 厂商、媒体与社区共谋下主观评测陷入公信力崩塌的恶性循环&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇长篇社区观察文章，作者以在校大学生身份，探讨游戏区与数码区主观体验评测的现状与困境。文章指出，评测的主观性本质、厂商将媒体纳入宣传体系、自媒体内容同质化以及社区用户将产品视为自我认同延伸等多重因素，共同构成了一个媒体公信力不断坍塌、情绪输出替代理性讨论的恶性循环。作者借用&amp;#039;死灭回游&amp;#039;概念描绘这一乱象，并以DxOMark衰落、骁龙888翻车、MIUI舆论危机等具体案例加以佐证，揭示厂商、媒体与社区三方共谋下主观评测领域的深层困境。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者首先进行免责声明，表明自己是在校大学生，无传媒学背景，文章内容仅代表个人观察与思考，并非专业意见，同时说明文章涵盖范围限于单机游戏和部分数码评测领域。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以IGN的游戏评测流程为例，探讨主观评测的本质困境：即使有严格的内部流程，评测者的个人偏好仍会影响最终结论，导致评分与大众预期产生偏差，进而引发玩家对媒体公信力的质疑。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;以《死亡搁浅》评测为具体案例，分析评测者Tristan Ogilvie因自身偏向动作系统与流程顺畅度而给出6.8分，却未能预见游戏异步社交玩法日后大放异彩，说明评测的局限性与时代背景对游戏评价的影响。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;随着互联网发展，数码圈自媒体在2019年和2021年前后经历两次井喷式增长，但内容同质化问题随之而来，自媒体面临在坚持独立观点与靠近厂商获取资源之间艰难抉择的困境。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;以DxOMark为例，分析其因与手机厂商过度合作、评分标准受商业利益影响而逐渐丧失公信力的过程，最终在小米等厂商放弃送测后宣告一个时代的终结。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年极客湾大横评揭露手机厂商特调性能事件，暴露了主观体验评测媒体无力核实厂商数据的根本缺陷，进一步加剧了社区对评测媒体的不信任，并引发新一轮独立评测自媒体的崛起与循环。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者借用《咒术回战》中&amp;#039;死灭回游&amp;#039;概念，描绘互联网社区中因心理投射与移情，人们将喜爱的产品视为自我认同延伸，进而在圈层内展开激烈攻防的社会图景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;以MIUI12发布及骁龙888翻车事件为核心案例，详述小米系统问题如何引发社区大规模舆论反弹，极客湾与木羽等媒体的批评视频如何点燃舆论，进而演变为超出理性范畴的社区狂欢与混乱。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;描述MIUI舆论危机演变为失控局面的具体表现：低质量负面视频获得大量传播、用户故意在门店寻衅、恶意利用换货政策等非理性行为，质疑这场持续三年的&amp;#039;死灭回游&amp;#039;究竟给消费者带来了什么价值。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2023年小米以HyperOS品牌替代MIUI，完成对旧品牌的告别，数码圈舆论逐渐平息，但作者指出这种社区混战的模式已转移至新能源汽车领域，历史在不断重演。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者转向游戏区，描述游戏营销与社区炒作现象，以《33号远征队》荣获2025年TGA年度冠军为引子，指出游戏区同样存在厂商营销与社区情绪相互裹挟的问题，文章后续将继续展开分析。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
