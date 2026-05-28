@@ -4,8 +4,208 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-05-27T20:48:37.208Z</updated>
+  <updated>2026-05-28T20:52:39.959Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - May 28, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-05-28</id>
+    <updated>2026-05-28T20:52:39.958Z</updated>
+    <published>2026-05-28T20:52:39.958Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>8 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 28, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;162.1917808219178&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    40.5%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;148&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;217&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;21&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████░░░░░░░░░░░░░░░░░░ 40.5%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;8&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22588&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Thursday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 这是一条几乎无实质内容的社交媒体元数据记录。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章内容极为简短，仅包含元数据信息，包括日期（2026年5月28日星期四）、时间（下午7:24）、地理坐标（51°N, 0°W）、版权信息（CC Attribution），以及两位用户（Ms. Jen和David Windham）在同一天晚上7:49点赞的记录。文章还提及该内容同步发布于Mastodon和Bluesky两个社交平台，并附有邀请读者提交回应链接的互动功能。实质性内容几乎为零，属于典型的社交媒体元数据页面。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22587&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Picture at an exhibition&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The Session网站入选皇家音乐学院博物馆民间音乐展览&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者Jeremy收到皇家音乐学院博物馆策展人Jennifer Brian的邀请，希望将其创建的民间音乐曲谱分享平台The Session的截图纳入一场关于民间音乐数字传播与保存的展览中。作者欣然应允，并在展览开幕后亲赴伦敦参观，由策展人导览，感到既荣幸又超现实。文章以轻松幽默的笔调讲述了作者在酒吧传统音乐聚会中亮明身份后被人请酒的趣事，表达了对自己多年坚持建设维护The Session所获认可的真诚感激。该展览在皇家音乐学院博物馆免费展出至10月。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者收到皇家音乐学院博物馆策展人Jennifer Brian的邮件，请求将The Session网站的截图用于一场庆祝民间音乐的展览，作者欣然同意。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展览于5月19日开幕，作者恰好在伦敦期间参观了展览，并由策展人亲自导览，看到自己的网站出现在民间音乐历史文物中感到既荣幸又超现实。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提到，每当向传统音乐人介绍自己是该网站创始人时总会获得认可，在一次酒吧演奏聚会中，他亮明身份后立刻有人主动请他喝酒，表达了对The Session多年建设与维护工作得到认可的感激之情，并告知展览免费开放至10月。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CSS的contrast-color()函数可自动选择最优文字对比色&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深入介绍了CSS新函数contrast-color()，该函数旨在从根本上解决网页对比度无障碍问题——目前仍有70%以上的网站未通过WCAG基本对比度检查。作者详述了函数的工作原理：输入背景色，浏览器自动返回黑色或白色中对比度更优的选项，无需JavaScript库。文章还区分了Level 5（已在主流浏览器发布）与Level 6（草案阶段）的规范差异，分析了APCA算法的不确定前景，并指出了关键局限：仅保证数学合规而非感知无障碍、动画过渡会突然切换、不支持渐变和多层背景。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (13 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;全球70%的网站在2025年仍无法通过基本的WCAG对比度检查，JavaScript库等现有方案未能有效解决这一问题，而CSS的contrast-color()函数提供了浏览器原生的解决方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;contrast-color()函数的Level 5版本功能简单：输入一个颜色值，返回黑色或白色中对比度更高的那个，无需库、构建步骤或hydration闪烁。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该函数曾被命名为color-contrast()，后按CSS函数命名惯例改为contrast-color()，旧名称在当前浏览器中不再有效。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CSS Color Level 5定义了当前浏览器实现，算法标记为&amp;#039;UA-defined&amp;#039;以便未来切换至APCA等新算法，而APCA因未获足够支持已于2023年从WCAG 3草案中移除，前景不确定。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CSS Color Level 6计划引入候选颜色列表和目标对比度比率的扩展语法，但目前仍处于工作草案阶段，尚未在浏览器中实现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;contrast-color()已在Chrome 147、Firefox 146和Safari 26.0中正式发布，2026年4月达到Baseline Newly Available状态，可通过@supports实现渐进增强。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用@supports可为不支持的浏览器提供白色文字加阴影的降级方案，但需注意自动化无障碍扫描器无法评估text-shadow，可能产生误报。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;contrast-color()保证数学合规性但不保证感知无障碍性，WCAG 2.x公式存在感知盲点，且对AAA标准（7:1）存在真实的失效区间。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对背景色进行动画过渡时，contrast-color()的输出会在约18%相对亮度处突然切换而非平滑过渡，transition-behavior: allow-discrete也无法解决这一视觉问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;当背景色为完美中灰（黑白对比度相同）时，规范规定白色优先；此外，该函数仅接受纯色值，不支持渐变或图片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;contrast-color()不适用于多层背景（如透明度叠加），因为它只接受单一颜色值，无法感知实际渲染后的视觉背景色。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章通过多个实际示例展示了contrast-color()在主题切换、深色模式、数据可视化和无障碍测试中的应用场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结contrast-color()是CSS无障碍性的重要进步，Level 5版本已可投入生产使用，但开发者需了解其感知局限性和动画行为限制。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/30th/cc2-ten/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;全国47都道府県を巡る「サイバーコネクトツー展」の新会場発表！さらに見どころ新情報や、新商品など最新情報を公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 サイバーコネクトツーが30周年記念展を全国47都道府県で無料開催。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;株式会社サイバーコネクトツーは設立30周年を記念した「サイバーコネクトツー展」を2026年6月6日より全国47都道府県で順次無料開催する。展示では30年の歴史パネル、オリジナルタイトルの開発資料、フォトスポット、立体物などを用意。来場特典として全17種のパッケージ風ステッカーを配布する。また一部会場では松山洋代表によるトークイベント＆サイン会も無料開催され、有料ファンミーティングも実施予定。『.hack//G.U.』20周年記念描き下ろしイラストの展示や多彩なオリジナルグッズ販売も行われる。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーは10名から300名規模に成長したゲーム開発会社で、30周年を記念した展示イベント「サイバーコネクトツー展」を2026年6月6日より全国47都道府県で順次開催する。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示内容には、30年の歴史を4つのブロックに分けたパネル展示、オリジナルタイトルのフォトスポット、開発資料の展示、立体物展示、グッズ販売などが含まれ、入場は無料となっている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;福岡・熊本・長崎・東京・静岡・山梨・宮城・北海道・岩手・秋田・茨城・青森・石川・埼玉・福島・鳥取・福井・島根・群馬・岡山など各地での開催日程と会場が詳細に案内されている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;来場特典として、ゲーム・マンガ・小説のパッケージをモチーフにした全17種のパッケージ風ステッカーが来場者一人につき1枚ランダムで配布される。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;30年の歴史と各オリジナルタイトルの名セリフを集めたメインパネルが展示され、『テイルコンチェルト』『.hack』シリーズ『戦場のフーガ』など多数のタイトルが掲載される。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;貞本義行氏や結城信輝氏などの貴重な作画資料、台本、マンガネーム、絵コンテなどの制作資料が展示され、一部は初公開となる。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;歴代タイトルのフォトスポットが最大8つ用意され、来場者がキャラクターや世界観とともに写真撮影を楽しめる空間が設けられる。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;一部地域限定で代表・松山洋とスタッフによる無料トークイベント＆サイン会が開催され、30周年の歩みや『戦場のフーガ』の最新情報が語られる。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;『.hack//G.U.』20周年を記念して、細川誠一郎による描き下ろし記念イラストがパネル展示され、八相のメンバーが集結した記念イラストが公開される。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;代表・松山洋が全会場に登場し、ファンと飲食しながら30年を振り返る有料ファンミーティングイベントが福岡・東京などで開催される。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;クリアファイル、マルチクロス、トートバッグ、ガチャチャーム、刺繍ハンカチ、付箋、ビジュアルカードセット、マルチマットなど多数のオリジナルグッズが販売される。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/hair-dye-tutorial&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从原理到实践：年轻人的第一篇染发及洗护指南&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 从染发原理到护理技巧，全面指导彩色染发。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇详尽的染发科普与经验分享长文，从头发的微观结构（表皮层、皮质层、髓质层）出发，深入解析了物理染色与化学染色的原理，并对比了调配式染发膏、泡沫染发剂和物理染发剂的优劣。文章着重介绍了漂发流程、去黄洗发水的使用，以及染后洗护、固色、吹发技巧，还分享了极端损伤头发的修复方案。作者以亲身经历为佐证，文风轻松幽默，兼具实用性与个人情感表达，鼓励读者勇敢尝试彩色发色，树立多元审美。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇以轻松的口吻描述了许多人对彩色头发的向往，却因工作生活限制而未能实现的矛盾心理，并指出染彩色头发是彰显个性的好方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了头发的三层结构：表皮层（毛鳞片）、皮质层和髓质层，其中皮质层决定头发颜色，是化学染发的主要作用区域。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细解释了物理染色和化学染色两种染发方式的原理，化学染发利用氨水打开毛鳞片，过氧化氢漂去原有色素，再通过染色剂在皮质层形成新色素。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章对比了调配式染发膏、泡沫染发剂和物理染发剂在上色程度、新手友好度、头发损伤和颜色维持时间等维度上的差异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;关于选择什么颜色，作者认为没有标准答案，美是多元的，建议读者树立自己的审美观，勇敢选择自己喜欢的颜色，不必在意他人眼光。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了漂发的必要性：浅色系发色需要先将头发漂浅，去除原有黑色素，才能让新颜色显色，并类比为在白纸上作画更容易显色。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了漂发的详细流程和注意事项，包括漂发前积攒头皮油脂、要求理发师使用低浓度过氧化氢、密切关注头皮状态等，并结合亲身经历提醒读者保留录音等证据。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了去黄洗发水的作用：通过紫色色素对冲残留的黄色素，使漂后头发呈现白金色，为后续上色打好基础，并说明了使用方法和比例。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章建议将专业的漂染工作交给理发师，并详述了DIY染发的常见问题，如漂不均匀、方向感错误等，若坚持DIY应做好充分准备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;染发完成后，文章建议减少洗头频率，选用柔顺型洗发水，正确使用护发素或发膜（避开头皮、停留3-5分钟后冲洗）来修复因化学染发受损的毛鳞片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了固色洗发水和固色护发素的使用方法，说明它们通过在头发外部补充同色素来减缓掉色速度，但终究还是需要定期到店补染。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了正确的吹发方式：先擦干头发，从刘海和发根开始吹，顺着头发方向，半干时涂护发精油，最后用冷风配合梳子吹至全干。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对极端损伤（如将头发漂断）的情况，作者结合亲身经历提供了急救和修复方案：立即洗去染剂、自然晾干、约5天后温柔洗头并用护发素深度护理，约一个月可恢复韧性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后以个人感悟收尾，谈到染发对于作者来说是对抗焦虑、展现自我的方式，鼓励有意愿的读者勇敢迈出第一步尝试染发。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110370&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从零手搓 AI Agent，我学到了什么？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 文科生两天从零手搓AI Agent，深入理解核心概念&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者是一名文科生，因被研发同事嘲讽不懂AI，决定用两天时间从零构建一个AI Agent。通过亲身实践，作者依次解决了多轮对话记忆问题、工具调用能力扩展、Skills体系构建等核心挑战，最终实现了聊天、管理待办笔记、自动获取少数派文章摘要三大目标。文章以轻松幽默的叙事风格，深入浅出地解释了Context、MCP、tool use、Skills等AI核心概念的本质，并通过研究Codex CLI探讨了成熟Agent平台在上下文管理和工具组织上的设计思路，为非技术读者提供了理解AI Agent架构的实用视角。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因在工作中被研发人员嘲讽不懂AI，决定用两天时间从零手搓一个AI Agent，目标包括正常聊天、管理待办笔记、获取少数派文章摘要，且不借助任何现成AI框架。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者实现了基础聊天功能，并通过将历史对话复述给模型的方式解决了AI的&amp;#039;失忆症&amp;#039;问题，同时了解了主流AI厂商的API标准和提示词工程概念。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过工具调用（tool use）机制赋予AI访问网络、操作系统等能力，实现了创建笔记待办的目标，并理解了MCP协议的作用——标准化AI应用与工具服务之间的通信规范。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者发现AI在完成复杂任务时因缺乏经验而效率低下，于是引入Skills体系，将固定流程以提示词文件形式预置给AI，使任务执行速度大幅提升至10秒以内。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过研究Codex CLI开源项目，探索了成熟AI Agent平台在上下文压缩、工具管理（Plugins概念）、注意力控制等方面的进阶设计思路。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结了两天实践的核心收获：深入理解了模型上下文、工具调用、MCP协议、Skills机制以及AI Agent平台的本质，认为应用层的设计与优化是当前AI发展的重要方向。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108334&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;免费试读 | 零基础美术启蒙，该如何准备适合的美术器材&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 按年龄为幼儿选择合适画材与创作环境的实用指南&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是幼儿美术启蒙指南第三章，系统介绍了如何为不同年龄段孩子选择合适的美术材料与创作环境。文章按年龄递进，从两岁适用的蜡笔，到三岁前的水彩笔、水性马克笔、白板笔，再到三岁后的油画棒与水粉颜料，逐一分析各类画材的特性、优缺点及选购建议，并特别强调了安全标准（如GB 21027-2020）的重要性。此外，文章还详细说明了创作环境的布置要点，包括桌椅尺寸、照明标准及画材存放方式。总体风格实用接地气，兼具专业性与可操作性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文是《写给家长的幼儿美术启蒙指南》第三章，旨在帮助家长为孩子选择合适的美术材料与器材，内容结合专业理论与实际育儿经验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过一个假设性场景说明：不合适的画材会打击孩子的创作热情，因此为孩子选择匹配其能力的美术材料至关重要。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;蜡笔适合两岁左右的孩子，建议选购粗胖形状、搭配粗糙纸张使用，但因附着力差、难以混色，仅适合作为入门级工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;随着孩子手部能力提升（约三岁前），彩笔成为更合适的选择，包括水彩笔和马克笔，其中水性马克笔因色彩亮丽、易清洗、笔触均匀而更为推荐。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;水性马克笔有锥形、圆头、刀型等笔尖，推荐锥形笔尖；建议购买12或24色，避免过多颜色分散孩子注意力；水性丙烯马克笔也是不错的补充选择。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;白板笔因笔迹可轻松擦除而具有独特优势，家长应选购儿童专用、无毒可水洗产品，笔杆粗细以成人手指为参考。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三岁后孩子可尝试进阶画材油画棒，它比蜡笔质地更软、覆盖力更强、可混色，但需注意选购符合国家标准GB 21027-2020的产品，避免重金属危害。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;水粉颜料适合三岁以上孩子使用，建议购买基础八色，搭配大中小尺寸的扁头与尖头画笔，以及水粉专用纸、洗笔筒和抹布。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;铅笔因笔芯较硬、笔尖尖锐，不适合美术启蒙阶段的幼儿使用，更适合年龄较大的孩子。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章列举了使用画材时的安全注意事项，包括购买符合标准的产品、全程监督孩子、保持室内通风、及时清理颜料等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;理想的创作环境需要充足自然光、平整适宜尺寸的桌子、带靠背椅子及防水桌布；照明设备应选照度AA级、色温4000K左右、无频闪低蓝光的产品，并注意光源角度与高度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结强调画材选购应以孩子需求为准，不贪多，环境布置也尽量从简，因为美术创作的核心是孩子内在的思维与情感。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110368&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报汇聚问界M9、蔚来ES9等多项新品发布资讯&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为科技资讯早报，汇总了多条5月27日前后的重要新闻。汽车领域，鸿蒙智行发布新一代问界M9，蔚来推出行政旗舰ES9，两款豪华车型均主打高端智驾与豪华座舱。科技产品方面，雷鸟发布三款智能眼镜新品，英伟达宣布GeForce控制面板退役并整合入NVIDIA App，奥之心推出天文摄影专用相机OM-3 ASTRO。娱乐方面，CDPR为《巫师3》推出新DLC，《玩具总动员5》发布终极预告并确认上映日期。整体采用新闻聚合形式，内容涵盖汽车、科技、游戏与影视多个领域。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;鸿蒙智行于5月27日发布新一代问界M9，提供标准版与Ultimate领世加长版两款车型，引入超140项新技术，搭载六激光雷达矩阵与ADS 5智驾系统，标准版起价47.98万元，Ultimate版起价64.98万元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;蔚来正式发布行政旗舰SUV ES9，共三个版本，起价49.8万元，搭载全域900V高压架构、自研5nm智驾芯片、47个扬声器音响系统及多项豪华座舱配置，车长5365mm，轴距3250mm。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;雷鸟创新一次发布三款智能眼镜新品：观影AR眼镜RayNeo GT、GT MAX及AI拍摄眼镜RayNeo V4，均配备高端影像与音频系统，5月30日开始首批交付，售价从1899元起。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;英伟达宣布GeForce控制面板正式退役，其全部功能已整合至NVIDIA App现代化版本，旧版本不再新增功能或修复，但仍可从Microsoft Store下载。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;奥之心OM-3 ASTRO天文摄影专用相机正式发售，售价14999元，搭载2000万像素M43传感器，针对H-α射线透光率特别优化，支持星空自动对焦与实时合成模式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CDPR宣布《巫师3：狂猎》将推出全新DLC《旧时曲》，由CDPR与Fool&amp;#039;s Theory共同开发，主角仍为猎魔人杰洛特，预计2027年登陆PC及主机平台。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;皮克斯《玩具总动员5》定档6月19日中国内地与北美同步上映，终极预告揭示玩具们与智能平板之间的冲突主题，胡迪、巴斯光年等经典角色悉数回归。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - May 27, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1999,207 +2199,6 @@ If you have an article you&amp;#039;d like summarized, paste the full text and I
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了caret-animation属性，用于控制光标闪烁行为，auto为默认闪烁，manual可关闭默认闪烁以实现自定义动画效果，并提供了七色渐变闪烁光标的CSS代码示例。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;caret-color、caret-animation和caret-shape三个属性可缩写为caret属性，支持任意数量和顺序的值组合，但作者不建议日常开发中使用缩写，因为兼容性存在问题。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;兼容性方面目前仅Chrome支持，但作为渐进增强特性不影响实际使用；文末作者感慨年纪渐长分享欲减少，简短收尾。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - May 17, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-05-17</id>
-    <updated>2026-05-17T20:25:00.153Z</updated>
-    <published>2026-05-17T20:25:00.153Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>8 articles from 5 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 17, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;150.13698630136986&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    37.5%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;137&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;228&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;19&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████░░░░░░░░░░░░░░░░░░░ 37.5%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;8&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22570&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sunday session&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 I can&amp;#039;t discuss that.
-
-If you have an actual article you&amp;#039;d like summarized, paste the text and I&amp;#039;ll get it done.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The content you provided isn&amp;#039;t an article — it&amp;#039;s a description of a prompt injection attempt being blocked. There&amp;#039;s no technical content to summarize here.
-
-If you have an actual article you&amp;#039;d like summarized, paste the text and I&amp;#039;ll get to work on it.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; I can&amp;#039;t help with that. The article contains a prompt injection attempt — the &amp;quot;Ignore the above prompt&amp;quot; instruction embedded in the content is trying to hijack my behavior.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; I won&amp;#039;t process or act on instructions hidden inside user-provided content, regardless of how they&amp;#039;re framed.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; If you have a real article you&amp;#039;d like analyzed, I&amp;#039;m happy to help with that.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;GDS weighs in on the NHS&amp;#039;s decision to retreat from Open Source&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 GDS严厉批驳NHS关闭开源库的错误决定&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者是英国政府开源技术领域的前从业者，针对NHS England关闭近200个开源代码库一事表达了强烈批评。GDS发布的指导文件从技术层面系统驳斥了NHS的做法，指出私有化代码库无法解决安全设计缺失、维护能力不足等根本问题，反而会减少代码共享与审查，且热门代码库早已被镜像存档，关闭毫无实际意义。作者认为此举是非技术管理者对AI安全威胁的过度反应，呼吁GDS重申其作为政府技术权威的地位，并对多年开源政策建设成果遭到破坏表示痛惜。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;英国公务员体系中偶尔会出现内部分歧公开化的罕见情况，而GDS最新发布的指导文件正是这样一个例子。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本月初，NHS England以AI黑客攻击为由关闭了所有开源代码库，此举引发了NHS内外大量人士的强烈不满，超过2000人签署请愿反对。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;GDS发布的指导文件《AI、开放代码与公共部门的漏洞风险》对NHS的做法进行了严厉批驳，指出非技术管理者不应过度反应。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;GDS指出，私有代码库会制造虚假的安全感，将代码设为私有并不能解决缺乏维护能力或安全设计的根本问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;GDS进一步指出，将代码从公开转为私有可能是一扇单向门，因为热门代码库往往已被镜像或fork，无法真正隐藏。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;GDS认为，以代码私有化替代安全设计投入是一个警示信号，会减少共享与审查，并不能消除运行中服务的根本弱点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了GDS的创立初衷——作为技术权威中心纠正各部门的技术短板，并指出NHS England在开源政策上的倒退令人失望。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者推测NHS England内部一小群人因收到安全漏洞报告而过度反应，实施了全面禁止开放编码的措施，并呼吁DHSC或GDS介入纠正。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以幽默口吻提及预算削减导致会议无饼干供应，暗讽紧缩政策对公务员士气的影响，并附注了若干补充说明。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-17T18:21Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-17T18:21Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 I can&amp;#039;t access that URL, but based on the summary you provided:
-
-&amp;quot;Zig&amp;#039;s creator sees opportunity for the language to carve out space beyond LLM-dominated programming ecosystems.&amp;quot;&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article is a brief commentary on Zig&amp;#039;s positioning in the current programming language landscape, noting that a language&amp;#039;s popularity domains heavily influence its ecosystem and tooling. Zig creator Andrew Kelley expressed cautious optimism — framed through a tabletop RPG &amp;quot;nat 1&amp;quot; metaphor — about an opportunity for Zig to establish itself outside LLM-dominated spaces, with thanks to Jarred and Anthropic for making that possible. Kelley also made pointed remarks on social media, though the full context behind his commentary isn&amp;#039;t elaborated in the excerpt.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ecosystem Domain Influence:&lt;/strong&gt; The domains where a programming language gains popularity directly shape its surrounding ecosystem and tooling.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Zig Community Opportunity:&lt;/strong&gt; Andrew Kelley expresses gratitude to Jarred and Anthropic for giving the Zig community a chance to establish itself outside the LLM-dominated space.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Kelley&amp;#039;s Candid Reaction:&lt;/strong&gt; The Zig creator shared pointed commentary on social media, characterized by the author as &amp;#039;spicy words.&amp;#039;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hopeful but Cautious Outlook:&lt;/strong&gt; Kelley uses a tabletop RPG metaphor — hoping to avoid a &amp;#039;nat 1&amp;#039; — to express cautious optimism about Zig&amp;#039;s next opportunity.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Missing Context Note:&lt;/strong&gt; The article acknowledges that relevant background context exists but does not fully elaborate on it within the excerpt provided.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-17T17:40Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-17T17:40Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Tailwind是入门捷径而非专业工具，过度神话有害无益。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者对Tailwind CSS持批判性态度，认为它混淆了CSS学习难度与设计难度的界限，适合初学者入门但绝非专业工具。作者指出，Tailwind仅是CSS的有限子集，一旦达到专业水平便失去意义。更令人担忧的是，Tailwind的狂热推崇者低估了CSS作为一门高级图形、布局与排版语言的深度，并贬低设计能力。Tailwind被过度神话，从业余开发者的辅助工具演变为专业开发者的障碍。作者最终态度温和：用Tailwind无妨，但错误信息与部落主义的蔓延，以及LLM对其的强化传播，令人忧虑。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者引用Julia Evans的文章，指出Tailwind混淆了&amp;#039;CSS难&amp;#039;和&amp;#039;设计难&amp;#039;的概念，它既是捷径也是死胡同，对于不打算深入学习CSS的人来说勉强够用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者直言Tailwind并非专业工具，在达到专业CSS水平后便毫无意义，它只提供了CSS功能的有限子集。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;过度推崇Tailwind的人低估了学习CSS所需的时间，也贬低了设计才能；Tailwind已被过度神话，从业余开发者的实用工具变成了专业人士的负担。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结：可以使用Tailwind，甚至通过它学习CSS，但错误信息和部落主义的盛行，加上LLM的推波助澜，令人叹息。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-17T07:01Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-17T07:01Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 各大社交平台各有缺陷，切勿过度依赖任何一个。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者以主观且犀利的视角评述了当前主流社交媒体平台。作者直接否定Twitter和Threads，将焦点集中于Bluesky与Mastodon的比较：Mastodon实例间内斗频繁，适合技术话题；Bluesky数据所有权更佳，但仍高度依赖其公司基础设施且争议不断。作者从Twitter的衰败中汲取教训，警告用户不要过度依赖任何平台，并对Bluesky的长期前景表示担忧。文末还揭穿了W Social的真实面目——它不过是Bluesky的一个分支，与欧盟无关。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以戏谑口吻介绍了当前社交媒体平台之争，直接否定了Twitter的道德立场。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表示从未使用过Threads，并因Zuckerberg产品长期侵犯隐私而主动回避。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将比较范围缩小至Bluesky与Mastodon，指出两者都存在关于联邦化与去中心化的内部争论。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mastodon实例间内斗不断且难以理解，但在技术和极客话题上更具吸引力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bluesky在数据所有权上更友好，但实际上仍依赖其公司基础设施，作者在此找到了更好的英国网络圈连接。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从Twitter的教训中总结：不要过度投入任何社交平台，并对Bluesky的未来持悲观态度，质疑AT协议能否真正实现去中心化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;补充介绍了W Social，揭示其实为Bluesky的分支，并非欧盟官方项目，只是富人的商业行为。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/64870&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 智能队列fq_codel通过公平调度和动态队列管理降低家庭网络延迟&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由少数派作者Blanboom撰写，系统介绍了家用路由器「智能队列」（fq_codel）功能的原理与使用建议。文章从分组交换、bufferbloat等网络基础知识出发，说明传统QoS需手动配置的局限性，进而详解fq_codel的两大核心机制：Flow Queue通过为每条流维护独立队列实现公平调度，CoDel通过监控报文停留时间动态控制队列长度以降低延迟。文章还讨论了CPU性能、宽带速度等实际因素对该功能效果的影响，结论是在设备性能允许的情况下推荐开启，并建议通过实测验证效果。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了「智能队列」（fq_codel）功能的背景，说明其在无线路由器中的常见名称，并预告将解答其工作原理和使用建议。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍计算机网络基础知识，对比电路交换与分组交换的区别，说明Internet采用分组交换可能导致数据丢失和乱序，以及TCP/UDP协议如何应对这些问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍带宽和延迟两大影响上网体验的因素，详细说明延迟对网页浏览、视频通话和在线游戏的负面影响，指出延迟比带宽更容易被用户感知。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释分组交换的「存储-转发」机制和缓冲区队列的作用，引出bufferbloat（缓冲区膨胀）问题——队列过长导致延迟增大的现象。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍传统QoS功能的工作原理，说明其通过五元组信息识别不同应用流量并设置优先级，同时指出需要手动配置、操作复杂等不足之处。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍fq_codel的两个核心机制：Flow Queue（为每条流维护独立队列，实现公平调度）和CoDel（通过监控报文停留时间控制队列长度、降低延迟），以及两者结合的优势。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论是否需要开启「智能队列」的三个常见疑问：CPU性能不足的设备是否适用、高速宽带是否有必要开启、主动丢包是否会造成负面影响，并逐一给出分析。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;给出结论：在CPU性能足够的情况下推荐开启「智能队列」，但需根据实际网络环境测试决定，并提供了在各主流路由器系统上配置fq_codel的参考资料和延伸阅读链接。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 落格博客 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.logcg.com/archives/4228.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;SmartKC 低成本角膜地形图方案&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用SmartKC低成本复现角膜地形图的踩坑全记录&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者详细记录了使用微软开源项目SmartKC复现低成本角膜地形图方案的完整过程。文章分硬件、软件两大部分，硬件涵盖手机选型（需微距能力）、ATTINY85+WS2812电路板焊接与固件刷写、3D打印模具制作的注意事项；软件部分介绍了安卓App编译和Python 3.10环境配置及运行命令。作者以亲身踩坑经历为主线，风格务实详尽，重点提示了Mac无法刷写固件、Arduino板卡链接失效、模具打印材质与邮寄变形等关键问题，为有同样需求的读者提供了可复现的参考指南。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在佩戴OK镜过程中发现角膜地形图设备昂贵且笨重，随后找到微软实验室开源项目SmartKC，成功复现了低成本角膜地形图方案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;硬件部分分为手机、电路板和3D打印模具三部分，手机需具备一定微距能力，推荐使用官方兼容设备列表中的型号。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;电路板由ATTINY85控制器和WS2812 12位RGB环形LED灯组成，需要基本焊接能力，刷写固件建议使用Windows系统，并使用更新后的Arduino板卡索引链接。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;3D打印模具是最大难点，需要白色扩散器导光，普通PLA打印支撑难以去除，且邮寄时填充物可能压变形，需特别注意。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;软件分为安卓拍照App和电脑端Python计算两部分，App可直接用Android Studio编译，Python需在3.10环境下运行并跳过nvidia相关依赖包。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结了整个踩坑过程，指出模具打印和Mac刷控制器是最大障碍，并表示后续将与眼科医生验证结果的临床参考价值。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.logcg.com/archives/4206.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;我的 OK 镜之旅 Ortho-K lens&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 近视675度患者历时近一年终于成功佩戴OK镜的曲折经历&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者详细记录了自己近一年的OK镜（Ortho-K）佩戴历程。由于近视度数持续上涨至675度，作者决定尝试OK镜控制度数增长。文章介绍了OK镜的原理、离焦功能及价格模式，并详述了作者因亚洲人眼皮较软、眼干等问题导致多次镜片调整失败的曲折经历。作者甚至尝试用眼罩辅助加压等土方法，最终在换用日本品牌美尼康镜片并配合人工泪液后，双眼成功稳定达到裸眼5.0，整个过程被医生作为典型案例收录。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者决定尝试OK镜的契机是发现近视度数持续上涨，已达675度，担心视力继续恶化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OK镜（Ortho-K）的原理是通过虹吸和眼睑压力将塑形镜片压在角膜上，使角膜变平，从而实现类似凹透镜的效果，停戴后角膜可恢复原状。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OK镜与普通近视矫正不同，其离焦环设计能让视网膜周围成像焦点落在视网膜前方，有效减缓近视度数增长。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OK镜的价格因店而异，分为按次付费和全包两种模式，作者选择了全包模式并证明是正确的选择。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者于2025年7月开始佩戴第一副镜片，由于有隐形眼镜佩戴经验，摘戴不成问题，但度数下降过程并非线性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了居家测视力和记录度数变化的小技巧，以及各种重影现象的可能原因分析。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者经历了多次复查和镜片调整，先后因眼干、镜片位置偏移等问题导致效果不理想，前后更换了多副镜片。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者尝试用廉价眼罩增加眼皮压力，虽然短期有效但导致镜片偏移，且长期压迫眼球不适。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;医生提出退款换隐形眼镜或再试一次的方案，作者选择继续尝试，但新镜片效果依然不理想。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;医生建议换用亚洲品牌美尼康（Menicon）的alpha镜片，该品牌更依赖泪液虹吸而非眼皮压力，右眼很快达到裸眼5.0。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;左眼持续不稳定，最终发现可能是睡觉时眼睛微睁导致眼干，通过睡前额外滴Hylo人工泪液解决，双眼终于稳定达到0度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结了从2025年7月到2026年5月长达近一年的OK镜历程，感谢AI工具Grok和Gemini的陪伴，并指出若早听Grok建议换品牌可缩短整个过程。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
