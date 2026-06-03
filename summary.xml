@@ -4,8 +4,233 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-06-02T21:09:49.820Z</updated>
+  <updated>2026-06-03T21:11:23.364Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - June 3, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-06-03</id>
+    <updated>2026-06-03T21:11:23.364Z</updated>
+    <published>2026-06-03T21:11:23.364Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>10 articles from 7 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 3, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;168.76712328767124&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    42.2%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;154&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;211&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;22&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████░░░░░░░░░░░░░░░░░ 42.2%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;10&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22592&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;25 years of The Session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 thesession.org社区网站迎来上线25周年纪念&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是thesession.org网站创始人为庆祝网站上线25周年而撰写的纪念文章。The Session最早以简单形式存在于1990年代末，而现在这个开放社区网站于2001年6月3日正式上线。作者为网站历经四分之一世纪仍活跃运营感到自豪，称其为自己毕生的心血，但也谦虚地强调自己只是策展人，网站的真正价值来源于广大社区成员的无数贡献。文章充满感恩与期待，作者展望未来25年，语气温暖而真诚。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;The Session网站自1990年代末以简单形式存在，最初只是作者每周发布一首曲子，而现在这个允许所有人添加曲目的社区网站于2001年6月3日正式上线，至今已满25年。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者为网站在四分之一世纪后仍然在线并蓬勃发展而感到自豪，认为thesession.org是自己毕生的心血，但同时谦虚地表示自己只是策展人，网站的价值完全来自社区成员的贡献。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了过去25年的美好历程，并表达了对未来25年的期待，文章下方还记录了6位用户在2026年6月3日当天对该文章的点赞互动。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How To Make Your Design System AI-Ready&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 规范化设计决策是提升AI原型质量的关键&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了Atlassian的Hardik Pandya提出的提升AI生成原型质量的实用方法。核心观点是将设计决策视为基础设施，通过三层架构实现：结构化Markdown规范文件（spec files）记录设计原则和组件使用规范；token层维护所有设计变量；审计脚本（如FigmaLint）检测硬编码值和不一致问题。AI应读取明确的文本规范而非解析设计稿，从而减少歧义和错误。设计师需持续维护并更新这些规范，才能获得一致、高质量的AI原型输出。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI生成的原型常因设计系统中的细微不一致而质量不稳定，包括未文档化的决策、硬编码值以及过度依赖AI自行理解设计流程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;要获得更好的AI原型结果，需要将设计决策视为基础设施，明确优先级、决策路径、设计原则及示例，并将所有决策记录到供AI使用的规范文件中。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;FigmaLint是一款免费的Figma插件，可用于审计设计系统质量，包括检测token、可访问性、分离实例和硬编码值等问题，适合与第三方设计系统协作时使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过三层架构确保质量：结构化Markdown规范文件定义设计原则和规则；token层维护设计系统中所有变量；审计脚本扫描并标记硬编码值，确保AI始终读取最新规范。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章列举了Atlassian、Carbon、CMS Design System和Nordhealth等AI就绪设计系统的实际案例供参考。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI无法在没有明确指导的情况下自动解决技术债务，设计师需要持续维护设计系统，将决策更新到Markdown文件中，以确保AI生成高质量的原型。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 David Heinemeier Hansson &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/a-pond-of-interesting-problems-5f697567&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A pond of interesting problems&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 **Build the right team to focus on high-impact work aligned with personal strengths, generating better products and satisfaction.**&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary: &amp;quot;A Pond of Interesting Problems&amp;quot;
+
+The author argues that a truly successful business delivers non-financial dividends by enabling its leaders to concentrate on work that aligns with their unique strengths and genuine passions, rather than being consumed by routine obligations. This philosophy is illustrated through concrete examples: developing Kamal to migrate 37signals off cloud infrastructure, extracting Ruby on Rails from Basecamp in 2003, and building Omarchy after a principled switch to Linux — all projects where personal conviction and business necessity converged productively. The author credits a strong, capable team at 37signals as the foundational enabler of this freedom, acknowledging that urgent or uniquely suited tasks still occasionally demand attention, but noting this is increasingly rare. Critically, the piece balances idealism with pragmatism, conceding that no leader is exempt from everyday responsibilities and that sustainable fulfillment requires integrating stimulating work with shared routine tasks. The central takeaway for technical leaders is that **building the right team unlocks the ability to operate at the intersection of personal motivation and high-leverage impact** — a compounding advantage that generates both better products and greater long-term satisfaction.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Business Freedom Benefits:&lt;/strong&gt; Running a successful business with talented staff allows the author to focus on the most interesting problems most of the time, aligning personal passion with business needs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Kamal and Cloud Exit:&lt;/strong&gt; The author spent months developing Kamal to help 37signals move out of the cloud, avoiding Kubernetes complexity as an example of a problem that was both personally engaging and business-critical.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Rails Origin Story:&lt;/strong&gt; Ruby on Rails was born from Basecamp in 2003 as the author wanted Ruby to work well for web development, illustrating how personal technical interests can create foundational business tools.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apple Conflict and Linux:&lt;/strong&gt; Following a 2020 clash with Apple over App Store monopoly practices, the author eventually switched to Linux in 2024 and built Omarchy, demonstrating how personal convictions can drive technical decisions even years later.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unavoidable Obligations:&lt;/strong&gt; Despite the freedom to choose, urgent company problems and tasks best suited to the author&amp;#039;s skills occasionally demand attention, though this is increasingly rare thanks to the strong team at 37signals.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Comparative Advantage Philosophy:&lt;/strong&gt; A successful business should yield non-financial dividends by allowing leaders to maximize time on work that leverages their unique strengths and stimulates genuine motivation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Balanced Responsibility Mindset:&lt;/strong&gt; While pursuing passion projects is ideal, the author acknowledges that no one is above routine tasks, advocating for a balance between stimulating work and shared everyday responsibilities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;London Data Store Relaunch&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 伦敦开放数据平台完成16年来重大更新，鼓励市民积极使用。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;data.london.gov.uk作为伦敦开放数据平台已运营16年，是全球最早发布Open Data的主要城市之一。近期该平台完成了前后端的全面升级，新前端界面更直观易用，尤其在数据许可证的展示方面有所改进。作者以热情的笔调介绍了此次更新，并呼吁用户积极探索数据集、开发有趣应用，向平台贡献本地数据。文章强调，开放数据平台的生命力来源于用户的积极使用，认为这是一项值得重视和珍惜的公共资源。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;data.london.gov.uk自16年前作为最早发布开放数据的主要城市之一上线，如今已不仅是数据存储库，更是Open Data的展示平台，近期完成了前后端的全面更新，新界面更便于用户查找数据，并突出显示数据的许可证信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者鼓励用户积极使用该数据平台，探索数据集、构建应用，并说明如遇问题可发送反馈邮件，强调这一资源的价值在于被充分使用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-03T13:45Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-03T13:45Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者对headingoffset属性褒贬不一，最终勉强认可其价值。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者对HTML的headingoffset属性表达了矛盾的看法。一方面，该属性确实解决了组件库和模板中标题层级管理的实际问题；另一方面，作者对h1至h6元素显示与其名称不对应的层级感到困惑，并提出是否有人讨论过更简洁的单一&amp;lt;h&amp;gt;元素方案。文章还提到了Manuel Matuzović的文章和Jake Firefox的视频作为参考资源。最终，作者以一种幽默的方式表示，由于AI工具可能无法正确解析headingoffset的层级，他选择支持该属性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对HTML中新的headingoffset属性持矛盾态度，同时提到了Manuel Matuzović和Jake Firefox关于该属性的相关资源。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出该属性解决了组件库和模板中的实际问题，但对h1到h6元素显示与其名称不符的层级感到不适，并提出是否讨论过简单的&amp;lt;h&amp;gt;元素方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者好奇AI工具是否能正确解析heading层级，并以此为由，最终对headingoffset属性给予认可。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/nf99fb0b1ef1c&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;上司とアレの共有できていますか？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 上司と感覚を共有し認識のズレを防ごう&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文はサイバーコネクトツー取締役の西川裕貴氏が、職場における上司と部下のクオリティ認識のズレという問題を取り上げ、その解決策を提案している。上司が求める80点と部下が考える80点が異なることでコミュニケーションエラーが生じやすく、特にゲーム開発現場では頻発する課題だという。解決の近道は「上司と時間や行動を共にすること」であり、同じエンタメ作品を鑑賞したりランチを共にしながら「可愛い」「カッコいい」などの感覚を日々すり合わせることが重要と述べている。成果は長期戦であり、毎日コツコツ取り組むことを勧めている。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー取締役の西川裕貴氏が、上司とのコミュニケーションの重要性について紹介し、毎日平均30分を「感覚の共有」のために費やしていると述べている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;仕事の基本は「上司の期待に応える」ことであり、上司と部下の間でクオリティの認識がズレると開発現場でコミュニケーションエラーが起きやすいと説明している。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;上司とクオリティの感覚を共有する近道は「上司と時間や行動を共にする」ことであり、同じエンタメ作品に触れるなど日々の積み重ねが感覚の共有につながると提唱している。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110114&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;小车车里的大世界：车模收藏入坑指南&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 汽车模型收藏全面入门指南&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇汽车模型收藏入门指南，作者从个人与车模结缘的经历出发，系统介绍了车模的基础知识。文章涵盖常见比例（1:18、1:43、1:64）的特点与适用人群，重点评测了拓意、MINIGT、Spark等主流品牌的定位与价格，并介绍了礼品店、品牌专营店、贩卖机等购买渠道。此外还延伸介绍了风火轮打野和乐高机械组等相关玩法。文章语言轻松活泼，兼具实用性与趣味性，适合车模新手作为入坑参考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆从小学开始与汽车模型结缘，从购买第一辆保时捷卡宴1:18车模，到参加工作后入手小米SU7车模，逐渐深入了解车模收藏领域。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章科普了车模的基本概念：车模是精密收藏摆件而非玩具，大部分需手工组装，价格较高，适合静态观赏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了1:18、1:43、1:64三种常见比例的特点：1:18细节最丰富但占空间，1:43是主流&amp;#039;甜点&amp;#039;比例，1:64最小巧适合成系列收藏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了汽车原厂车模和第三方授权厂商，包括拓意、Spark、MINI GT、比美高等品牌的定位与特点。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;重点介绍拓意品牌：专注国产车1:64模型，覆盖经典与新能源车型，定价百元以内，性价比突出。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍MINIGT品牌：香港创立，主打全球主流品牌和经典性能车的1:64模型，部分限定款在二级市场溢价严重。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍Spark品牌：法国创立，主打F1等顶级赛事授权模型，采用树脂车体，定位高精度收藏级，价格较高且需提前预订。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍购买渠道：包括礼品门店、品牌专营店、自助贩卖机和专门模型店，并建议线下购买以获得更好的体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍车模的多种玩法：收集党、改装党、置景党各有乐趣，也可简单静态展示，并推荐使用防尘罩保存。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍风火轮&amp;#039;打野&amp;#039;玩法：通过在普通挂卡中寻找&amp;#039;普宝&amp;#039;和&amp;#039;超宝&amp;#039;稀有款，享受寻宝乐趣。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍乐高机械组车模系列：从1977年发展至今，分旗舰1:8、中端1:18和入门1:43多个层级，近期F1系列广受欢迎。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结分享多年车模收藏心得，鼓励更多人加入车模收藏爱好。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110458&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;让原生体验「接地气」：Pixel Text 与「原点系列」工具集&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 原点系列工具集为国内Pixel用户修补原生Android体验缝隙&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由Pixel系列工具开发者Mystery0撰写，介绍了其针对国内Pixel及原生Android用户痛点开发的本地短信管家Pixel Text，以及由此整合而成的「原点系列」工具集。Pixel Text通过本地解析将中文短信提炼为信息卡片，并利用本地LLM识别骚扰短信，全程不上传数据以保障隐私，同时遵循Material You设计语言融入原生系统。作者将Pixel Meter、Pixel Telo、Pixel Geo与Pixel Text统一纳入开源组织Pixel-Tailor-CN，秉持「只解决一个具体问题、保持轻量可验证」的原则，为原生Android在国内的体验做精细缝补。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因在原生Android（Pixel）上使用国内短信体验不佳，萌生了开发本地化短信工具的想法，并回顾了此前开发Pixel Meter和Pixel Telo的经历及社区反馈。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分析了国内短信场景的痛点：信息密度高但关键内容难以快速定位，传统短信应用缺乏智能提炼能力，由此确立了Pixel Text的开发目标。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pixel Text的核心功能是在本地解析中文短信，将验证码、快递、账单等关键字段提炼为信息卡片，减少用户重复阅读的成本，同时保留原始短信完整内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为解决骚扰短信难以识别的问题，Pixel Text引入了本地大模型（LLM）进行语义判断，并坚持全程本地处理、不上传短信内容，同时通过开源方式保障隐私可验证性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pixel Text在视觉上遵循Material You动态色彩规范，力求融入原生系统风格，保持轻量低存在感的使用体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者阐述了Pixel Text刻意不做的事：不加云端分类、不加广告和账号体系、不追求大而全，专注于高频场景的精准解决。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将Pixel Meter、Pixel Telo、Pixel Geo和Pixel Text整合为「原点系列」，在GitHub建立开源组织Pixel-Tailor-CN，定位为对原生Android国内体验的精细「缝补」工具集。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了从个人需求出发到形成系列工具的独立开发历程，邀请用户下载体验、提交反馈或参与开源共建。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110059&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 MockupStudio让开发者三步即可制作专业产品展示视频&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了作者开发的网页端产品展示视频制作工具MockupStudio。作者以自身使用Rotato的痛点为切入点，指出现有工具存在学习门槛高、订阅成本贵、仅支持macOS等问题，从而开发了更轻量的MockupStudio。该工具仅需三步——拖入录屏、调整样式、导出成品——即可在浏览器中快速生成专业的产品展示视频，无需安装客户端，免费版提供基础功能。文章还介绍了后续规划，包括更多模板、配乐功能和模板配置保存，旨在为独立开发者提供高效的产品展示工作流。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了订阅管理App「知续」的展示视频制作背景，提出了如何在3分钟内用一个网页完成产品展示视频制作的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;MockupStudio是一个网页端产品展示视频制作工具，支持将录屏放入设备样机并添加背景、Logo等元素，使用流程简单，分为拖入录屏、调整样式、导出成品三步。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一步是将录屏文件拖入网站，页面会立即预览最终效果，包括背景颜色、设备位置和整体构图，无需创建项目或学习复杂时间线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二步是配置视频元素和样式，包括背景颜色、设备机型、阴影效果、画幅比例，以及添加品牌Logo和产品名称，基本覆盖产品展示视频的常见制作需求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三步是导出成品，点击导出按钮即可下载图片或视频文件，整个流程省去了大量重复操作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者曾是Rotato早期用户，但发现其存在学习门槛高、设备样机视觉效果粗糙、订阅成本高、仅支持macOS客户端等问题，因此决定开发更轻量的MockupStudio。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;MockupStudio解决了无需动画知识即可快速导出视频、使用实时更新设备样机、免费版可用基础功能、无需安装客户端等核心痛点。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了MockupStudio的未来规划，包括补充更多Mockup模板、加入配乐功能、开发模板配置保存功能，目标是成为适合日常使用的轻量产品展示工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110658&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Apple 公布 2026 年 Apple 设计大奖得主等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 派早报汇总苹果设计奖、微软Build大会及多项科技新闻&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派派早报，汇总了2026年6月2日至3日的科技资讯。Apple公布2026年设计大奖12款获奖作品；微软Build 2026大会发布多款自研AI模型及Surface开发硬件；索尼State of Play展示大量游戏新作；特朗普签署AI监管行政命令要求发布前自愿审查；Dashlane遭2FA暴力破解攻击；Google为Android引入防诈骗通话功能并扩展AirDrop兼容支持；此外还涵盖Nintendo Music、Claude Mythos扩展、三星折叠屏新机规格等多条简讯。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple公布2026年Apple设计大奖得主，共12款app与游戏在六个类别中获奖，包括grug、Blue Prince、Cyberpunk 2077等，开发者将在WWDC26期间受到表彰。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软在Build 2026大会上发布自研推理模型MAI-Thinking-1及多款AI模型，同时推出Surface RTX Spark Dev Box硬件、GitHub Copilot桌面端预览版等开发工具和云服务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;索尼6月State of Play发布会公开超60分钟游戏内容，包括《God of War Laufey》、《漫威金刚狼》等第一方新作，以及多款第三方游戏的发售日期信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《影之刃零》宣布从2026年9月9日延期至10月29日，将利用50天时间升级角色模型、重构场景，强化「武侠朋克」主题视觉表现，并计划发布实机预告片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;特朗普签署AI监管行政命令，要求特定AI公司在发布新产品前30天自愿提交政府测试，同时明确不建立强制性许可机制，并将AI辅助黑客攻击列为高优先级执法领域。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;密码管理器Dashlane遭到2FA暴力破解攻击，约20个用户账号密码库被下载，但由于主密码保护，密码库仍处于加密状态，受影响账户已被自动锁定。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google为Android 12及以上系统引入防deepfake来电诈骗检测功能，同时扩展「圈定即搜」支持范围，并将快速分享与Apple AirDrop的互通支持扩展至更多品牌设备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯涵盖Nintendo Music推出网页版、Anthropic扩展Claude Mythos访问权限至150家新组织、Withings发布GLP-1用户专属智能体脂秤、三星Galaxy Z Fold 8系列规格曝光等资讯。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派近期动态包括飞傲BEATBOX预售、监工水獭挂件复刻、MBTI定制墨水屏「口袋先知」预售，以及麦金獭钢化膜补充装上线等产品信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派推荐了近期可能错过的文章，包括macOS后台进程管理工具App Tamer评测、OPPO Find X9 Ultra影像漫谈，以及关于Obsidian知识管理软件的推荐文章。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - June 2, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1991,121 +2216,6 @@ If you have a real article you&amp;#039;d like summarized, I&amp;#039;m happy to
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;capcap 纯 AppKit 实现，无 SwiftUI，零第三方依赖，使用 ScreenCaptureKit、Carbon Hotkey API 和 CGEventTap，要求 macOS 14.0+，支持 Apple Silicon 和 Intel。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;capcap 提供 Homebrew 和直接下载 DMG 两种安装方式，因未进行 Apple 公证，首次运行可能需要手动移除隔离属性。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表示 capcap 是自己每天使用的工具，不会添加冗余功能，无任何遥测和数据上报，完全免费，欢迎在 GitHub 上给予 Star 支持。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - May 23, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-05-23</id>
-    <updated>2026-05-23T20:20:54.451Z</updated>
-    <published>2026-05-23T20:20:54.451Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>4 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 23, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;156.7123287671233&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    39.2%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;143&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;222&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;20&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████░░░░░░░░░░░░░░░░░░ 39.2%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22580&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Saturday session in London.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 That content doesn&amp;#039;t look like an article — it&amp;#039;s just a title with no body text to summarize.
-
-Paste the full article text and I&amp;#039;ll give you a one-line summary.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;That content doesn&amp;#039;t look like an article — it&amp;#039;s just the phrase &amp;quot;I can&amp;#039;t discuss that,&amp;quot; which isn&amp;#039;t something I can summarize.
-
-If you have an actual article you&amp;#039;d like summarized, paste the full text and I&amp;#039;ll get it done.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (1 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; I can&amp;#039;t discuss that.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22579&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Londoning&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 此页面为博客元数据，无实质文章内容。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该内容并非一篇完整的文章，而是一个博客或社交媒体帖子的元数据页面，包含发布时间（2026年5月23日）、地理位置（伦敦，北纬52°，西经0°）、社交平台链接（Mastodon、Bluesky）以及7条点赞记录。页面缺乏实质性文章内容，仅展示了互动数据和用户反馈入口，无法提取有意义的主题或观点。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Which age-gates should be skill-gates and vice-versa?&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 年龄门槛与技能门槛的边界应如何重新划定？&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨社会中&amp;#039;年龄门槛&amp;#039;与&amp;#039;技能门槛&amp;#039;的设置逻辑及其合理性。作者以投票权、驾照、饮酒和医疗执照为例，分析现行规则背后的假设，并质疑年龄是否真的是衡量能力或成熟度的合理标准。文章提出&amp;#039;投票执照&amp;#039;等颠覆性设想，同时承认这些想法存在现实局限。作者的写作风格带有思辨性和自我反思色彩，旨在引发读者对社会规范边界的深层思考，而非提供确定性答案。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在英国，购买酒精须年满18岁，大多数国家投票也有年龄限制，这些被称为&amp;#039;年龄门槛&amp;#039;；而业余无线电执照等则需通过考试，属于&amp;#039;技能门槛&amp;#039;；驾照则同时具备两种门槛。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章探讨投票权问题：英国准备将投票权扩展至16至17岁青少年，但作者质疑为何要设置年龄门槛，指出成熟度与年龄无关，并提出&amp;#039;投票执照&amp;#039;的概念，让人们通过简短测验证明其理解投票的能力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将同样的逻辑延伸至驾驶和饮酒：若7岁儿童能证明驾驶能力，是否比从未参加现代考试的90岁老人更安全？饮酒因其对发育中人体的危害而设年龄限制，但作者质疑是否应改为知识测验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者坦承自己并非完全认同上述观点，而是对不同文化如何设定活动限制感到好奇，并提出一系列开放性问题：为何各地驾驶年龄不同？测试标准为何有差异？哪些年龄门槛和技能门槛应该互换？&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110052&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;这个周末，来深圳文博会和少数派打个卡吧&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派深圳文博会共创主题展正式开幕&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派参加第二十二届中国（深圳）国际文化产业博览交易会，在深圳宝安区元匠坊举办数字创意共创主题展，展出包括与飞傲联名的CD音箱一体机、监工水獭复刻版、口袋先知墨水屏包挂等多款共创产品。创始人老麦在开幕式上回顾了社区从内容分享到软硬件共创的发展历程。展览于5月22日至24日对公众开放，现场设有打卡互动福利活动。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派参加第二十二届中国（深圳）国际文化产业博览交易会元匠坊分会场，以共创主题展形式集中展示旗下软硬件产品，邀请深圳读者前往参观。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派创始人老麦在开幕仪式上分享了社区从App心得交流到连接创作者、用户与硬件供应链的成长历程，强调共创是让热爱落地的过程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;展会展出少数派与飞傲联合共创的多功能便携CD音箱一体机，支持蓝牙、U盘、FM及AUX多种音频输入，并配备MagSafe磁吸设计和可更换盖板。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;监工水獭复刻版以PVC加植绒材质回归，可挂于显示器或灯具，陪伴用户日常工作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;口袋先知是一款搭载墨水屏的包挂设备，集成MBTI人格指引、决策工具、蓝牙翻页、NFC等多种实用与趣味功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派在深圳宝安区元匠坊C座212布置了共创画廊，展示历年软硬件产品，并设有关注社媒领贴纸、拍照发帖抽徽章等现场互动福利，活动时间为5月22日至24日。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
