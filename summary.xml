@@ -4,8 +4,177 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-06-10T21:00:12.490Z</updated>
+  <updated>2026-06-11T20:54:54.646Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - June 11, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-06-11</id>
+    <updated>2026-06-11T20:54:54.646Z</updated>
+    <published>2026-06-11T20:54:54.646Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>7 articles from 2 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 11, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;177.53424657534248&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    44.4%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;162&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;203&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;23&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████░░░░░░░░░░░░░░░░░ 44.4%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;7&lt;/strong&gt; articles from &lt;strong&gt;2&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22603&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;(if you think *that’s* spicy, you haven’t even seen the question I put to the representative from the Ladybird browser project …alas my question wasn’t asked on stage) #CSSday&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者在CSS Day上未能提问Ladybird代表&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇极短的博客帖子，作者提到2026年6月11日在CSS Day活动上，他向Ladybird浏览器项目的代表提出了一个犀利问题，但该问题最终未能在台上被提问。帖子包含地理位置信息（52°N，5°E，荷兰阿姆斯特丹附近）以及一个邀请读者回应的互动提示。内容极为简短，缺乏实质性细节，更像是一条个人日志或社交媒体风格的简短记录。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22602&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;At #CSSday the Google Chrome team are asking developers “What’s missing from the web?” …I needed a few post-it notes for my answer.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Google Chrome team asked developers &amp;quot;What&amp;#039;s missing from the web?&amp;quot; at CSS Day, prompting the author to fill multiple post-it notes.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary
+
+At CSS Day on June 11th, 2026, the Google Chrome team engaged developers in a crowdsourcing initiative by asking &amp;quot;What&amp;#039;s missing from the web?&amp;quot; — a direct effort to identify gaps in the current web platform. The author responded enthusiastically, requiring multiple post-it notes to capture the breadth of perceived shortcomings in modern web capabilities. The post was cross-published to both Mastodon and Bluesky, reflecting the author&amp;#039;s commitment to decentralized, IndieWeb publishing principles. Additionally, the article incorporates a &amp;quot;Ping&amp;quot; response mechanism, inviting readers to submit reply URLs and fostering federated discussion across personal sites — a hallmark of the open web philosophy. Overall, the piece highlights both the developer community&amp;#039;s appetite for web platform improvements and the author&amp;#039;s active participation in decentralized web ecosystems.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;CSS Day Event:&lt;/strong&gt; The Google Chrome team presented at CSS Day on June 11th, 2026, engaging developers in a discussion about web platform gaps. The event took place at approximately 52°N, 5°E.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Developer Feedback Request:&lt;/strong&gt; Google Chrome&amp;#039;s team posed the question &amp;#039;What&amp;#039;s missing from the web?&amp;#039; to gather direct input from developers attending the conference. This represents an effort to crowdsource web platform improvement ideas.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Author&amp;#039;s Response:&lt;/strong&gt; The article&amp;#039;s author had an extensive response to the question, requiring multiple post-it notes to capture all their thoughts. This suggests significant perceived gaps in current web capabilities.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Social Syndication:&lt;/strong&gt; The post was cross-published to both Mastodon and Bluesky, indicating the author participates in decentralized social media platforms. This reflects an IndieWeb publishing approach.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Community Engagement:&lt;/strong&gt; The post invites readers to submit response URLs via a &amp;#039;Ping&amp;#039; mechanism, encouraging open web interaction and conversation. This supports the IndieWeb concept of federated discussions across personal sites.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/home-made-beverages-1&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;家庭饮品 DIY 指南（一）：工欲善其事，必先利其器&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 家庭冰饮DIY指南：冰块选择与基础设备推荐&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇家庭饮品DIY系列指南的开篇，作者基于多年咖啡及饮品制作经验，介绍如何用简单设备在家制作高品质冰饮。文章重点讨论了冰块的获取方式，比较了自制冰、购买可食用冰和透明方冰的优缺点，并明确不推荐不锈钢冰块，理由是其会对弱酸性饮品产生负面风味影响。此外，作者还列出了一套精简实用的调饮设备清单，为后续系列内容奠定基础。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享多年积累的家庭饮品DIY心得，本系列涵盖咖啡、茶等非酒精饮品的制作，使用简单设备和材料，目标是在家制作出与外面一样好喝的饮品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;夏季先介绍冰饮，作者认为冰饮比热饮更难制作，并重点讨论家庭获取冰块的方式：自制（使用硅胶模具）或购买（普通可食用冰或高品质透明方冰）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;透明方冰融化慢、适合需要长时间保持浓度的饮品，而不锈钢冰块因散热快且会影响弱酸性饮品风味，不被作者推荐。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者列出一套经过优化的最小调饮设备清单，包括碎冰锤、雪克壶、盎司杯、滤网和搅拌机，并对各设备的选购要点给出具体建议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;系列制作还会用到多种耗材，这些材料均可在电商平台购得，作者强调食材选择相对优质，以保证饮品品质。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110334&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;618 相机存储卡选购全攻略（2026）&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 618相机存储卡按需选购，避开山寨魔改卡&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇面向2026年618购物节的相机存储卡选购攻略，作者系统梳理了存储卡卡面标识含义（读速、写速、U系列、V系列等），解析了SD卡、TF卡、UHS-II卡及CFexpress（CFA/CFB）卡的性能差异与适用场景。文章特别揭示了CFB卡市场中普遍存在的2230固态魔改山寨卡风险，并列举了CF协会执行会员与普通会员品牌名单，帮助读者辨别正规资质产品。核心建议是：普通用户V30 SD卡足够，专业需求才需升级CFE卡，购买时认准正规渠道和有资质的品牌，避免以低价赌数据安全。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了撰写本文的背景：六年前曾写过存储卡选购攻略，2023年国产品牌崛起导致价格暴跌，但从去年起闪存进入涨价周期，趁618换新相机之际再次更新选购指南。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章梳理了存储卡卡面标识的含义，包括读取速度、SDHC/SDXC容量规格、⑩/U系列写入速度等级，以及视频速度等级V标准（V30/V60/V90），并说明V30卡可满足码率不超过240Mbps的视频录制需求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了TF（microSD）卡与SD卡遵循相同标准，并说明A标（A1/A2）用于衡量随机读写能力，A2标准适合Nintendo Switch用户提升游戏读取速度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;进阶选购部分介绍了UHS-II高速SD卡（V60/V90），以及基于PCIe+NVMe协议的CFexpress卡，分为CFA和CFB两种规格，分别适配索尼和尼康、佳能等品牌相机。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细讲解CFA卡的技术演进（CFE3.0升级至CFE4.0）、VPG视频性能保证标准，以及索尼对存储卡的严格管控策略与其他品牌宽松兼容政策的对比。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;揭示CFB卡市场存在大量用2230固态硬盘魔改的山寨卡，成本极低但数据丢失风险高；而CFA卡体积小无法魔改，市场上基本为正规大厂出品，品质更有保障。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供实用选购建议：SD卡优先选10年以上质保、官方渠道购买；CFE卡尽量选择CF协会正规会员品牌，列举了执行会员名单及中国大陆、港澳台普通会员企业清单。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结选购原则：按需匹配、认准正规资质、避开山寨魔改；普通用户V30 SD卡够用，有专业需求再升级CFE卡；618是全年入手好时机，不建议为省钱选杂牌卡。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110670&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;5月音乐推荐：不可错过的9张惊喜专辑&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 5月9张华语专辑盘点，回望根源与音乐新突破&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由少数派音乐栏目FM3.14发布，作者麻乐盘点了2026年5月值得关注的9张华语及相关独立音乐专辑。文章涵盖蓝色窗帘、苏紫旭&amp;amp;The Paramecia、华裔美国熊、达闻西、顾忠山三重奏、LICHANG.rar、待时而动、梁奕源&amp;amp;李带菓以及林家谦等多位艺人的新作。整体主题呈现出对根源、故土与情感的深情回望，以及华语独立音乐在编曲创新与审美表达上的多元探索，文笔专业而富有个人情感温度。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章由少数派音乐推荐栏目FM3.14发布，介绍了2026年5月的9张值得关注的华语及相关独立音乐专辑，并说明栏目由飞傲冠名赞助。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;蓝色窗帘时隔多年发布第二张EP《一期一会的快乐与忧伤》，三首歌记录成员散落各地后短暂聚首、同步录制的珍贵时光，融合民谣、爵士与弦乐编排。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;苏紫旭&amp;amp;The Paramecia发布《悲歌欢唱》，以克制深情的中式前卫摇滚书写故土情怀与人生浮沉，被视为年度华语乐坛丰碑之作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;华裔美国熊推出第三张专辑《Dim Sum &amp;amp; Then Some》，以极简中英双语和迷幻流行风格记录生活简单美好，编曲融合放克、爵士与实验电子元素。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;达闻西乐队发布全英文专辑《From Grey To Gold》，反对过度表达，以散文式随感和丰富音乐语言呈现另类国摇的新突破。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;顾忠山三重奏推出《同袋中人 Pocket People》，探索爵士与放克的融合，以默契的三人演奏展现音乐律动之美，适合普通听众欣赏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;老王乐队主唱张立长以LICHANG.rar为名发布个人专辑《CIAO》，以猫咪走失归来为契机，记录失去、等待与自我对话的忧郁心境。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;嘉兴新乐队待时而动发布首张专辑《去日苦多》，融合后朋克与迷幻摇滚，以宿命感与摇滚反叛精神传递严肃情感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;梁奕源&amp;amp;李带菓发布实验器乐专辑《新时代婚恋行为研究》，以唢呐为核心，结合多种传统乐器，反讽式地探索当代中国婚姻观。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;林家谦发布粤语翻唱EP《FIVE EASY PIECES》，向香港音乐家顾嘉辉致敬，翻唱五首经典港剧主题曲，保留时代风味编曲与人声制作风格。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结尾鼓励读者分享5月听到的好专辑，并附上往期推荐内容链接。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/75419&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;苹果新增的「围绝经期」提醒，你该比 watchOS 27 多了解一点&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 更年期是人生新阶段，科学应对不必恐惧&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由作者因母亲疑惑自身是否进入更年期而写，系统介绍了更年期的医学定义、生理机制、常见症状（包括潮热、情绪波动、阴道干涩等）及雌激素长期缺乏的健康隐患。文章详细讲解了激素替代疗法（HRT）与非激素疗法（饮食调整、运动、生活习惯改变等）的缓解方案，并专门为年轻人提供了陪伴女性长辈度过更年期的实用建议。文章结尾以温情笔调鼓励女性正视更年期，将其视为人生新阶段而非终点，破除社会对更年期的刻板印象。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因母亲体检发现激素水平不稳定、询问是否进入更年期而写下此文，旨在为即将或正在经历更年期的女性及其家人提供科学指导。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;从医学角度解释更年期：女性卵巢卵泡随年龄减少，导致激素分泌变化，月经周期紊乱是最先出现的症状，最终走向停经期，雌激素维持低水平。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍更年期常见症状：潮热（约80%女性经历）、情绪波动（抑郁焦虑）、睡眠障碍、认知下降，以及85%女性会出现的阴道干涩、泌尿系统问题等难以启齿的症状。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明雌激素长期缺乏对身体的长期影响，包括骨质疏松、心血管疾病风险上升、认知障碍风险增加、易胖及糖尿病风险提高等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍激素替代疗法（HRT）：通过补充雌激素和孕激素缓解更年期症状，有口服药、皮肤贴剂等多种剂型，但需在医生指导下使用，并非人人适用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍非激素疗法：包括食用豆制品、调整饮食结构、力量训练、补充钙和维生素D、凯格尔运动、应对潮热的生活技巧，以及其他非激素类药物。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;指导年轻人如何陪伴经历更年期的女性长辈：帮助她们了解相关信息、及时就医、陪同看诊、耐心倾听需求，并在情绪冲突时选择回避而非对抗。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;结语鼓励正在经历更年期的女性：更年期只是人生新阶段的开始，激素紊乱不会彻底改变一个人，女性仍可充满活力地享受接下来的人生。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;补充说明Apple Watch在watchOS 27中新增了围绝经期（更年期）提醒功能，并内置相关宣教内容，帮助女性更自然地了解自身变化。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110951&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Insta360 发布首款手持云台相机 Luna Ultra 等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 多款科技新品集中发布涵盖相机鼠标麦克风及AI翻译&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派周四早报，汇集多条科技新品资讯。Insta360与徕卡联合发布首款旗舰云台相机Luna Ultra，主打专业影像，售价3999元起；罗技推出首款折叠鼠标Mobi Fold，主打便携办公；雷蛇发布专业级麦克风魔音海妖V3 Pro；Kensington推出人体工学垂直轨迹球鼠标；Google发布支持70余种语言的实时语音互译模型Gemini 3.5 Live Translate；微软宣布Windows Ready Print打印平台升级计划。文章以简洁的产品介绍为主，兼附用户评论，呈现科技产品的多元发展趋势。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Insta360发布旗下首款旗舰级双摄云台相机Luna Ultra，与徕卡联合研发，搭载双徕卡Summicron镜头系统，主摄为1英寸8K传感器，支持8K 30fps杜比视界录制及4K 120fps慢动作，售价3999元起。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Luna Ultra配备可拆卸2英寸OLED图传遥控屏、独立无线麦克风、第一人称头追模块，整机重约232克，内置1550mAh电池，续航最长4小时，支持23分钟快充至80%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;罗技发布首款折叠鼠标Mobi Fold，采用风琴式折叠结构，折叠后投影面积减少近50%，配备4K DPI传感器，内置100mAh电池续航约1个月，售价79.99美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;雷蛇发布魔音海妖V3专业版USB麦克风，支持32-bit浮点格式录制，集成AI降噪和DSP处理，采用一体式锌合金机身，提供USB-C与XLR接口，国行售价1999元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Kensington推出Pro Fit Ergo TB675拇指轨迹球垂直鼠标，采用60°大倾角人体工学设计，配备34mm球体和9个可编程按钮，提供有线和无线三模两个版本，售价49.99至59.99美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google发布实时语音互译模型Gemini 3.5 Live Translate，支持70多种语言实时口译，可保留说话者语调语速，并具备较强抗噪能力，将登陆全球Android和iOS版Google翻译应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软宣布将现代打印平台更名为Windows Ready Print，计划自2026年7月起在新安装打印机上默认启用，推动Windows打印从传统第三方驱动程序转向基于IPP协议的现代化打印方式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - June 10, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1925,167 +2094,6 @@ A limited-time birthday event celebrating **Mitsuri Kanroji (Love Hashira)** lau
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;目前所有主流浏览器已支持contrast-color()函数，可以直接投入使用。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者感慨中国前端开发中无障碍访问特性无人问津，并以抖音Web端为例批评当前工程师缺乏追求。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为contrast-color()目前仍有局限性，只能处理颜色值而无法自动识别背景图片，实用性有限，暂时只能当玩具使用。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - May 31, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-05-31</id>
-    <updated>2026-05-31T20:29:54.095Z</updated>
-    <published>2026-05-31T20:29:54.095Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>6 articles from 5 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - May 31, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;165.47945205479454&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    41.4%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;151&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;214&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;21&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████░░░░░░░░░░░░░░░░░░ 41.4%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;6&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;June Is For Exploring (2026 Wallpapers Edition)&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Smashing六月壁纸合集展示全球艺术家的夏日创意设计&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Smashing Magazine发布的六月桌面壁纸合集，汇集了来自美国、西班牙、塞尔维亚等地艺术家和设计师的原创作品。文章延续了该网站坚持超过15年的月度壁纸传统，鼓励创意表达与社区参与。各壁纸主题丰富多样，涵盖夏日海滩、自然花卉、棒球运动、旅行冒险等，均由艺术家自主构思创作。文章同时邀请读者投稿，共同参与这一创意活动，体现了Smashing Magazine一贯的社区互动精神。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (20 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章以迎接六月和夏天的到来为开篇，介绍了来自全球艺术家和设计师的桌面壁纸合集，旨在为读者带来新鲜灵感。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章探讨了创意的普遍性，指出每个人都有创造力的火花，无论是通过数字工具、摄影还是手绘来表达。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了这一月度壁纸系列已持续超过15年，是一个让人暂时脱离日常、投入有趣创意项目的机会。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;来自世界各地的艺术家和设计师贡献了独特的六月主题桌面壁纸，文章还收录了往期精选作品，并邀请读者参与投稿。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章说明了编辑团队尊重每位艺术家的创意自由，所有壁纸主题均由艺术家自主设计，未受任何外部影响。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了&amp;#039;Drifting Into June&amp;#039;壁纸，由美国设计师Emma Kim创作，灵感来自夏日家庭漫步和鸭子游泳的温馨场景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了&amp;#039;Let The Ocean Influence You&amp;#039;壁纸，由塞尔维亚Ginger IT Solutions设计，以海洋为主题，鼓励人们在六月探索自我。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了&amp;#039;Dancing In The Kitchen&amp;#039;壁纸，由美国设计师Sue Jenkins创作的数字拼贴画，象征自由、舞蹈、快乐与滋养。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了&amp;#039;Fruit &amp;amp; Gingham&amp;#039;壁纸，由新泽西设计师Ella Peplowski创作，以水彩水果搭配蓝色格纹野餐桌布为主题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了由西班牙设计师Ricardo Gimenes创作的&amp;#039;Not In The Mood Forecast&amp;#039;壁纸。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了&amp;#039;Ballpark Patches&amp;#039;壁纸，由宾夕法尼亚设计师Madison Evans创作，以棒球贴片风格庆祝夏季的到来。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了&amp;#039;A Very Special Amusement Park&amp;#039;壁纸，由西班牙设计师Veronica Valenzuela创作，以夏日旅行和游乐园为主题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了由宾夕法尼亚设计师Jayden Evans创作的&amp;#039;Wavy Jellyfish&amp;#039;水母主题壁纸。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了&amp;#039;Buzzing Through June&amp;#039;壁纸，由美国设计师Caroline Flynn创作，以春意盎然的色彩搭配花朵与蜜蜂元素。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了&amp;#039;Tiny Paradise Under the Sun&amp;#039;壁纸，由塞尔维亚PopArt Studio设计，描绘了夏日阳光下宁静惬意的户外场景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了&amp;#039;Patches Of Flowers&amp;#039;壁纸，由Caroline Flynn使用Blender软件创作，以丰富的纹理和色彩呈现宁静的花卉主题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了&amp;#039;Amsterdam&amp;#039;壁纸，由西班牙设计师Ricardo Gimenes创作，灵感来源于即将举办的SmashingConf Amsterdam 2027。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了由宾夕法尼亚设计师James Lucia创作的&amp;#039;Let Me Grow With You&amp;#039;壁纸。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了&amp;#039;Travel Time&amp;#039;壁纸，由塞尔维亚PopArt Studio设计，以夏日旅行为主题，描绘了在机场等待航班时对旅途的憧憬。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后提及&amp;#039;June Is For Nature&amp;#039;壁纸，以地球种树为主题，传递关爱自然的温馨信息。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/j-s-not-so-leisure-vacation-pt-one/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;J 的并不漫长也不悠闲假期（一）&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 J endures six months of stressful car accidents, insurance disputes, and legal filings instead of a real vacation.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary: &amp;quot;J&amp;#039;s Not-So-Long, Not-So-Leisurely Vacation (Part 1)&amp;quot;
-
-This narrative follows protagonist J through six months of **involuntary &amp;quot;travel&amp;quot;** — a series of reactive, stressful errands rather than genuine leisure. The chaos begins when J&amp;#039;s car is hit in a hit-and-run incident, triggering a two-month cycle of airport rental car swaps that culminates in a frustrating beater Mitsubishi SUV, ultimately prompting an impulsive 200km drive to Elk Grove to purchase a $5,000 used Ford SUV with 190k miles. J then navigates the bureaucratic aftermath of the accident — filing certified mail, pressuring insurance companies, and independently filing a lawsuit against his parents&amp;#039; wishes — all while enduring high-intensity work sprints leading up to a developer conference release. The story arc reframes mundane logistical ordeals (car rentals, legal filings, insurance disputes) as an **unintentional &amp;quot;journey&amp;quot;** in their own right, contrasting sharply with J&amp;#039;s stated dislike of travel. The piece concludes on a turning point: with the conference shipped and feedback delays creating a natural buffer, J finally transitions from **reactive problem-solving to proactive planning** — setting the stage for an actual vacation in subsequent installments.
-
----
-
-**Key Technical/Contextual Notes for Developers:**
-- Developer conference release cycle used as a **narrative pacing mechanism** (feedback latency → guilt-free PTO window)
-- Themes of **system friction and workarounds** mirror common engineering problem-solving patterns&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;文章开篇描述了大多数人对旅途的厌恶感，无论是火车、飞机还是自驾，旅途过程往往单调乏味。主角J同样不喜欢旅途，但试图通过拍照或看电影来打发时间。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;J的小车被撞后送修，被迫频繁去机场租车行换车长达两个月，最后一次租到一辆破旧的三菱SUV，让他忍无可忍。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Elk Grove购车之旅&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;J冲动地驱车两百公里前往Elk Grove，在雨中购入一辆里程19万英里、仅花五千多美元的二手福特SUV，解决了反复换租车的烦恼。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;拥有福特SUV后，J开始用它处理肇事逃逸的赔偿事宜，多次去邮局寄挂号信、威胁投诉保险公司，同时还要应对高强度加班，车辆成为处理琐事的工具而非旅行载体。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;尽管保险公司迟迟未赔付，J最终决定独立起诉对方，顶住父母的担忧与反对，成功确定了双方出庭日期，展现了其独立解决问题的决心。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;J所在的团队完成了一次开发者大会发布，开发者反馈的问题会延迟数周才传递到J手中，这让他得以争取到一段无负罪感的假期时间。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;经历了六个月被动奔波的&amp;quot;路途&amp;quot;后，J开始规划一次真正意义上的假期旅行，思考如何利用旅途时间，暗示生活终于从被动应对转向主动掌控。&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Who are the actors in the UK&amp;#039;s 2015 passport?&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者调查英国护照上三名身份不明演员的来历&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者因一篇Reddit帖子而深入调查2015年英国新护照设计。护照因在纪念人物中女性仅占两位而被批评存在性别歧视。作者重点关注护照&amp;#039;表演艺术&amp;#039;页面上三名身份不明的演员或模特，他们与莎士比亚的图像同处一页。作者通过图库搜索、AI识别、咨询朋友及提交信息自由申请等多种手段试图查明其身份，但均无功而返。护照办公室以GDPR为由拒绝透露，仅确认照片由受雇摄影师拍摄。作者最终公开发文，希望知情者提供线索。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因一篇Reddit帖子而被吸引，起因是2015年英国新护照设计因被指&amp;#039;性别歧视&amp;#039;而引发负面报道——护照上只有两名有名字的女性，却有七名男性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;护照上的&amp;#039;表演艺术&amp;#039;页面以莎士比亚为主角，页面中还有三名身份不明的演员或模特，他们看起来像是普通的职业演员，没有明显的知名度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者尝试通过多种方式查明这三人的身份，包括搜索图库、询问朋友、使用AI识别以及向护照办公室提交信息自由申请，但均未能成功，最终发文向公众求助。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-31T17:29Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-31T17:29Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 玩家用Shiv流通关了地穴杀手2的A10难度&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在《Slay the Spire 2》中连续完成了两次以shiv为核心的卡组构建，成功通关了The Silent角色的Ascension 10难度。作者表示此前一直觉得The Silent难以操控，但此次不仅击败了两位Boss，还全程未使用手中的两瓶fairy potion，展现出强劲的战斗表现。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-05-31T11:22Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-05-31T11:22Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者全角色达成A10级但尚未通关&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在《Slay the Spire 2》中达成了一个重要里程碑——所有角色均达到Ascension 10级。其中The Silent是最后完成的角色，通过两张升级版Afterimage配合shiv流派才得以成功。作者习惯在最高可用的Ascension等级下游玩，整体胜率约为8–10%，The Regent角色胜率略高达20%。尽管多次到达最终Boss，但尚未通关A10，预计胜率还会进一步下降。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110488&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本月玩什么｜混音青春、007 初露锋芒、归零巡礼、地平线 6&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 五月游戏新作盘点：音乐、特工、谍战、竞速、平台跳跃等多类型佳作集中发售。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一期游戏月度推荐栏目，作者从个人角度介绍了五月份发售的七款值得关注的游戏作品。包括音乐叙事游戏《混音青春》致敬1980年代电影美学、IO Interactive开发的《007初露锋芒》突破《杀手》框架、ZA/UM新作《归零巡礼》延续《极乐迪斯科》精神、《地平线6》首次登陆日本、耀西新作融入图鉴机制、《咖啡心语东京》搬迁舞台，以及独立小品《我看人下碟》致敬唱片文化。作者以细致的叙述和个人感受，展现了这些游戏各自的创意理念、开发背景和美学特色，为玩家提供了多角度的游戏评析参考。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了五款即将发售的游戏作品，包括由澳大利亚工作室Beethoven &amp;amp; Dinosaur开发的音乐叙事游戏《混音青春》，讲述三个高中生最后一夜的故事，采用虚幻引擎5开发，融合定格动画风格和1980年代电影美学。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;IO Interactive开发的《007初露锋芒》延续《杀手》系列的沙盒设计哲学，但强调作为间谍而非刺客的身份认同，增加了潜入调查、肉搏连招和载具驾驶等新要素，呈现青年邦德的起源故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ZA/UM在核心主创离职后推出的新作《归零巡礼：亡谍镇魂曲》沿袭前作《极乐迪斯科》的等距视角叙事RPG框架，讲述女特工Hershel Wilk的谍战故事，灵感来自约翰·勒卡雷的间谍小说。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Playground Games开发的《极限竞速：地平线6》首次将系列舞台设定在日本东京，打造了系列历史最大的游戏地图，融合了东京市区、山川景观和多个标志性地点，强化了动态季节系统和视觉还原度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Good-Feel开发的《耀西与不可思议的图鉴》延续系列横版平台动作玩法，引入了与生物互动、填充图鉴的新机制，采用铅笔彩绘风美术风格，为任天堂Switch 2独占作品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Chorus Worldwide开发的《咖啡心语东京》将系列舞台从西雅图搬至近未来东京，保留深夜咖啡馆的核心玩法框架，新增11位全新角色和更新的社交系统，继续探讨爱、失去和身份等主题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;两人独立团队Patattie Games开发的《我看人下碟》是一部融合叙事和模拟经营的小品游戏，玩家在唱片店工作中根据客人描述推荐黑胶唱片，同时揭开虚构乐队Becoming Violet的解散悬案。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
