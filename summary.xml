@@ -4,8 +4,320 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-06-11T20:54:54.646Z</updated>
+  <updated>2026-06-12T20:59:48.359Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - June 12, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-06-12</id>
+    <updated>2026-06-12T20:59:48.359Z</updated>
+    <published>2026-06-12T20:59:48.359Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>18 articles from 9 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 12, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;178.63013698630138&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    44.7%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;163&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;202&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;23&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████░░░░░░░░░░░░░░░░░ 44.7%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;18&lt;/strong&gt; articles from &lt;strong&gt;9&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22607&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Leaving #CSSday genuinely inspired (as in, I was inspired to whip out my laptop straight away and start programming some very cool CSS).&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者参加CSS Day后深受启发并立即开始编程&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者于2026年6月12日参加了CSS Day活动后，深受启发，甚至当场拿出笔记本电脑开始编写CSS代码。这是一条简短的社交媒体风格帖子，记录了作者对该活动的积极感受。帖子获得了9个点赞，点赞者包括多位开发者和设计师。内容简洁，情感真实，展现了技术社区活动对参与者的激励作用。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://gridlanes.webkit.org/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Field Guide to CSS Grid Lanes&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CSS Grid Lanes原生实现瀑布流布局，四行代码无需JS&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是CSS Grid Lanes的官方介绍与教程页面，详细讲解了display: grid-lanes这一新CSS布局特性的用法。文章涵盖基础语法、轨道定义方式（fr、minmax、repeat、auto-fit等）、排列选项（flow-tolerance、gap、span、显式定位）、渐进增强策略，以及瀑布流与砖块布局的切换方法。Grid Lanes由CSS Working Group历经多年设计，旨在以原生CSS替代JavaScript实现的Masonry布局，仅需四行代码即可完成，无需任何第三方库或框架。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这是一个CSS Grid Lanes的交互式演示页面，介绍了display: grid-lanes的基本用法，通过定义grid-template-columns或grid-template-rows，子元素会自动填充到网格通道中。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细介绍了Grid Lanes支持的多种轨道定义方式，包括fr单位、固定长度、百分比、auto、min-content、max-content、fit-content()、minmax()和repeat()等，并推荐了repeat(auto-fit, minmax(120px, 1fr))作为灵活等宽列的首选方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了Grid Lanes的排列与间距选项，包括flow-tolerance（控制填充顺序的容差）、gap（间距）、跨列spanning以及显式定位等功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章提醒开发者注意源码顺序保留、使用@supports实现渐进增强，以及在瀑布流与砖块布局之间切换时需要unset原有轨道定义等注意事项。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;页面提供了照片、食谱、报纸、导航菜单、时间轴、钉板等多个演示案例，并推荐了WWDC26的10分钟讲解视频及webkit.org上的深度文章。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CSS Grid Lanes团队介绍了该技术的背景：自2017年CSS Grid发布以来，开发者一直寻求原生Masonry布局方案，经过多年设计与讨论，Grid Lanes终于以四行CSS代码实现了这一需求，无需任何库或框架。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22605&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Pretty chuffed that Keith’s Law has been quoted twice on stage at this year’s #CSSday: &amp;gt; JavaScript should do what only JavaScript can do.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 **&amp;quot;Keith&amp;#039;s Law&amp;quot; — &amp;#039;JavaScript should do only what JavaScript can do&amp;#039; — was cited twice at CSS Day.**&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary: Keith&amp;#039;s Law and Progressive Enhancement Philosophy
+
+**Keith&amp;#039;s Law** — *&amp;quot;JavaScript should do what only JavaScript can do&amp;quot;* — gained significant community recognition at **CSS Day 2026**, where it was cited twice during stage presentations, signaling mainstream adoption of the principle within the front-end development community. The law advocates for **disciplined, purposeful JavaScript usage**, asserting that CSS and HTML should handle presentation and structure within their native capabilities, reserving JavaScript strictly for functionality that cannot be achieved through other means. This philosophy aligns directly with **progressive enhancement** and the broader &amp;quot;right tool for the job&amp;quot; principle that has long been debated in web development circles. The post garnered notable engagement from respected industry figures including **Scott Jehl, Andy Bell, Brian LeRoux, and Jeffrey Zeldman**, suggesting broad cross-community endorsement from both performance-focused and standards-driven practitioners. Distribution across **Mastodon and Bluesky** further reflects the decentralized, community-driven nature of how modern front-end development principles propagate today.
+
+---
+
+**Key Takeaway for Engineers:** Audit JavaScript usage against this principle — if CSS or HTML can handle it natively (animations, form validation, layout, state styling via `:has()`/`:checked`), defer to those technologies to reduce bundle size, improve resilience, and enhance maintainability.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Keith&amp;#039;s Law Origin:&lt;/strong&gt; The author expresses pride that &amp;#039;Keith&amp;#039;s Law&amp;#039; was quoted twice on stage at CSS Day 2026. The law states: &amp;#039;JavaScript should do what only JavaScript can do.&amp;#039;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Core Principle Stated:&lt;/strong&gt; Keith&amp;#039;s Law advocates for restraint in JavaScript usage, implying that CSS and HTML should handle what they are capable of. JavaScript should be reserved exclusively for functionality that cannot be achieved otherwise.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;CSS Day Recognition:&lt;/strong&gt; The principle gained notable visibility at CSS Day 2026, being referenced twice during stage presentations. This signals growing community alignment with the philosophy of using the right tool for the job.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Community Engagement:&lt;/strong&gt; The post received 3 shares and 15 likes from notable web development community members including Scott Jehl, Andy Bell, Brian LeRoux, and Jeffrey Zeldman. This reflects broad endorsement across the front-end development community.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Social Syndication:&lt;/strong&gt; The post was cross-published to both Mastodon and Bluesky, reflecting modern decentralized social media distribution. The author also invites responses via a &amp;#039;Pingback&amp;#039; style URL submission mechanism.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22604&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Ana has gone above and beyond to match the branding for this year’s #CSSday.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Ana为CSSday完美呈现了品牌视觉设计&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条发布于2026年6月12日的简短社交媒体帖子，提到Ana在今年的CSS day活动中出色地完成了品牌视觉匹配工作。帖子获得了11个点赞，并被Ana Rodrigues转发分享。互动者包括多位知名Web开发社区成员，如Jake Archibald、Andy Bell和zeldman等。内容简短，属于活动现场的即时分享，不含深度技术讨论。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Impact Of Humanoid Robots On Humanity&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 人形机器人快速进化将深刻重塑人类社会与伦理边界&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由UX设计师Carrie撰写，深入探讨了人形机器人技术的现状与未来影响。文章指出，随着Figure AI、Tesla等公司将机器人部署至工厂，结合NVIDIA GR00T等先进AI，机器人已从简单工具进化为能自主学习的智能体。作者预测未来机器人将进入家庭和公共空间，届时人机界限将彻底模糊。文章系统分析了潜在正面影响（消除危险工作、应对老龄化、降低商品成本）与负面风险（社会孤立、经济失业、身份欺诈、自主战争、监控国家），最终呼吁社会思考如何有效监管而非简单禁止这一不可阻挡的技术浪潮。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (18 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章宣布我们已正式超越人形机器人作为公关噱头的时代，随着机器人日益逼真，社会将面临深刻的心理、经济和伦理挑战。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;科幻小说曾让我们以为&amp;#039;机器人革命&amp;#039;是遥远的幻想，但现实正在迅速展开，人类与机器的界限正在模糊。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者观看了一段展示高度逼真人形机器人的YouTube视频后深感不安，虽然视频是个障眼法，但这引发了一个真实问题：未来的机器人是否会逼真到让人无法分辨？&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;当今的技术现状由激进的商业化部署竞赛所定义，Figure AI已将机器人部署到宝马工厂，特斯拉也在其超级工厂测试Optimus机器人。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Honda的ASIMO机器人曾因能走楼梯而受到庆祝，而今天先进的电机工程与AI的融合从根本上改变了机器人技术的发展轨迹。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;现代人形机器人的核心进步在于其&amp;#039;思维&amp;#039;方式——由Figure AI的Helix或NVIDIA的GR00T等先进AI驱动，机器人可通过观察人类动作自主学习并改进任务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管数字大脑飞速进步，机器人的物理身体仍面临电池续航短、复杂地形导航难、制造成本高等现实障碍。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;专家预测未来10至20年内，机器人将从工厂走向零售、医院乃至家庭，届时将跨越一个重大边界——人们将无法仅凭外观区分机器人与人类。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;科学家正在研究由先进硅复合材料制成的人造皮肤、微型致动器和人工肌肉系统，使机器人能做出逼真的面部表情。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;未来AI将被训练模仿人类缺陷，如随机眨眼、叹气和停顿，以避免触发&amp;#039;恐怖谷&amp;#039;效应，使人类感到不适。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;人形机器人进入日常生活的最大预期好处是接管&amp;#039;3D&amp;#039;工作（枯燥、肮脏、危险），并在老龄化社会中提供医疗和陪伴服务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;从宏观来看，广泛的机器人劳动力可能使商品极度廉价，将人类从为生存而工作中解放出来，专注于爱好、家庭和创造力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;然而，这一高科技未来愿景掩盖了一个更黑暗的现实：完美替代人类存在的机器将不可避免地挑战社会结构、经济稳定和心理健康。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;最大的负面威胁是深度人类孤立——当机器人被编程为永远耐心、友善时，人们可能开始偏爱机器人而非真实朋友，从而破坏社区感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;经济层面，即使廉价商品的未来听起来美好，通往那里的路意味着数百万人可能迅速失业，造成科技超级富豪与普通大众之间的巨大鸿沟。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;当你无法分辨公交车上坐着的或网上与你交谈的是真人还是机器人时，信任将崩溃，真实性将丧失。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在个人层面，难以辨别的机器人是身份盗窃和诈骗的终极工具；企业可能利用合成同理心操纵消费者；政府则可能将机器人部署为间谍网络或自主战争武器。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;面对所有这些风险，作者认为无法阻止技术进步，真正的问题不是是否允许人形机器人存在，而是如何有效利用它们并建立相应的监管框架。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-309/viewer?title_no=853933&amp;episode_no=324&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 309&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画DOGHAUS的章节目录导航页&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本内容并非一篇文章，而是WEBTOON平台上名为《DOGHAUS》的网络漫画系列的目录导航页面。该页面由创作者Moowsie自行发布于CANVAS平台，展示了从第1话到第309话的完整章节列表，其中穿插有特别公告、Sunday Strip特别篇及Kickstarter众筹启动等里程碑内容。页面还包含订阅、分享、点赞及举报等平台互动功能，以及其他热门漫画的排行榜推荐。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/495&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 495: Claude Fable 5&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Anthropic发布Claude Fable 5，能力强但价高且慢&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一期技术Newsletter（第495期），核心内容是介绍Anthropic新发布的Claude Fable 5模型。文章以讽刺笔调批评Anthropic在警告AI危险后立即发布更强大模型的矛盾行为，并总结了开发者对Fable 5的三大反馈：推理能力强、价格昂贵、响应速度慢。此外，文章还涵盖了npm v12破坏性变更、Vue邮件框架Maizzle、QA Wolf测试工具等技术动态，以及一个关于JavaScript构造函数未使用new关键字的经典Bug分析。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期Newsletter介绍了三个主要话题：npm的破坏性变更、Vue社区的胜利，以及对四行代码的致敬，这是第495期内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Anthropic在警告AI危险四天后发布了Claude Fable 5（Mythos级别模型），该模型经过安全分类器处理，涉及网络安全、生化等领域的请求会被转交给Opus 4.8处理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发者对Fable 5的评价呈现三个特点：智能程度高（在基准测试中找到1700%的算法加速）、价格昂贵（$50/百万token，约为竞品2倍）、响应速度慢（比Opus 4.8慢4-5倍）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章以讽刺口吻总结道，Dario可能希望通过&amp;#039;暂停AI&amp;#039;说服竞争对手，为Anthropic的IPO争取时间，但在囚徒困境中背叛始终是最优策略。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;QA Wolf推出了一款AI测试代理，能够自主探索应用、映射200+测试用例，并随新功能自动更新测试，可免费试用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期&amp;#039;发现Bug&amp;#039;环节展示了一个JavaScript构造函数问题：调用Animal()时未使用new关键字，导致this指向错误对象或全局对象，而非新创建的实例。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cool Bits部分汇总了多项技术动态，包括Flow的模式匹配、Apple的容器工具、npm v12的破坏性变更、Vue邮件模板框架Maizzle，以及Expo与Swift JSI通信等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bug解决方案揭示：构造函数必须使用new关键字调用，否则this不会指向新对象，修复方法是将const winston = Animal(...)改为const winston = new Animal(...)。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 EH210以太网分线器小巧实用，性价比高，适合简单组网需求。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在家中铺设了CAT6以太网线，但健身房只有电视和Kodi盒子两台设备，不想额外布线或购买多口交换机。为此，他购买了EH210以太网分线器，该设备通过USB-C供电，可直接插入电视USB口，随电视开关自动启停。EH210金属外壳散热良好，指示灯亮度适中，双网口可同时工作，流媒体播放流畅。售价约十英镑，性价比高，适合不需要复杂网络设备的简单使用场景，作者给予五星好评。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在家中布置了CAT6以太网线，每个房间都有连接，但健身房只有一台联网电视和后来添加的Kodi盒子，不想为此额外布线或购买昂贵的交换机。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者购买了EH210以太网分线器，因为它支持USB-C供电，可以直接插入电视的USB口，随电视开关自动启停，使用方便。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;EH210的金属外壳散热良好，指示灯亮度适中，两个以太网口可同时工作且速度足够流媒体使用，性价比高，适合不需要完整网络交换机的简单场景，作者给出五星好评。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Theresa O’Connor &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://tess.oconnor.cx/2026/06/12&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Recordamos&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 奥兰多枪击十周年：悼念与未竟的人生&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者对2016年6月奥兰多Pulse同性恋夜总会枪击事件十周年的深情回忆。49名受害者在这场美国历史上当时最惨烈的大规模枪击事件中遇难，大多数是拉丁裔同性恋男性。作者参加了两周后的旧金山Pride游行，佩戴着写有受害者Cory Connell名字的徽章，并沉思那些未能活出自我的生命。作者坦言，游行时自己尚未公开出柜，正处于HRT治疗约一年、尚未完成社会性别转变的阶段，表达了对逝者未竟人生的深切哀思。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/06/12/apple-deepfakes/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Apple deepfakes&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple发布AI图像功能与儿童安全理念自相矛盾&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者对Apple在WWDC 2026发布会上的行为提出批评：Apple先以&amp;#039;儿童安全&amp;#039;议题开场博取好感，随后推出AI图像生成功能，两者存在明显矛盾。作者引用404 Media关于深度伪造技术破坏校园生活的报道，以及Jared White关于未经同意生成他人图像应被立法禁止的观点，指出AI技术存在严重的同意权问题。作者认为，此类功能不仅可能抹去残障人士的身体特征造成伤害，更会将AI行业的去人性化行为正常化，批评AI辩护者为商业利益放弃道德底线。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple在WWDC 2026主题演讲中先以&amp;#039;儿童安全&amp;#039;开场，随后发布AI图像生成功能，作者认为这存在明显的认知矛盾。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;404 Media报道了深度伪造技术如何破坏高中校园生活，学生利用App Store中的深度伪造应用骚扰同学，成人也广泛滥用此类技术。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple将&amp;#039;关心儿童&amp;#039;的叙事置于演讲前端以获取好感，随后推销与之矛盾的功能，作者将此比作Apple过去的&amp;#039;绿色洗白&amp;#039;营销手法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出AI行业存在严重的同意权问题，用户无法拒绝被AI技术影响，并引用Jared White的观点，认为未经同意生成他人图像应被立法禁止。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Jared White在播客中进一步指出，AI图像生成可能抹去残障人士的身体特征，造成心理创伤，作者批评AI辩护者为了商业利益放弃道德判断。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为，无论Apple自身应用能力如何，其存在都将使AI行业的去人性化行为正常化，并对这一未来表示强烈不满。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-12T07:39Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-12T07:39Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 &amp;quot;Privacy-preserving&amp;quot; is corporate doublespeak signaling intentional privacy compromises that serve vendors, not users.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary
+
+The article critiques the tech industry&amp;#039;s use of &amp;quot;privacy-preserving&amp;quot; as **corporate doublespeak**, arguing the qualifier itself reveals intentional privacy compromises rather than genuine protection. The author contends that truly private software requires no such modifier — its presence signals selective privacy enforcement that serves the vendor&amp;#039;s interests over users&amp;#039;. This is illustrated through the concrete example of deepfake victims, whose privacy remains unprotected despite Apple and others prominently marketing privacy-preserving features. The piece advises developers and consumers to **interrogate the specific omissions** whenever this terminology appears, treating it as a red flag rather than a reassurance.
+
+### Key Takeaway for Developers
+&amp;gt; When evaluating vendor privacy claims, the modifier *&amp;quot;privacy-preserving&amp;quot;* should prompt the question: **&amp;quot;Preserving whose privacy, and at whose expense?&amp;quot;** — not serve as a compliance checkbox or architectural justification.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Privacy Language Critique:&lt;/strong&gt; The term &amp;#039;privacy-preserving&amp;#039; used by Apple and other Big Tech companies is characterized as misleading corporate doublespeak. The author argues that truly private software should not require any qualifier to describe its privacy properties.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Linguistic Red Flag:&lt;/strong&gt; The use of &amp;#039;privacy-preserving&amp;#039; as a modifier signals that some aspect of privacy is intentionally not being protected. Readers are advised to critically examine what specific privacy elements are being omitted when this term appears.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Victim Privacy Ignored:&lt;/strong&gt; The critique highlights a fundamental contradiction in the &amp;#039;privacy-preserving&amp;#039; framing by pointing out that deepfake victims&amp;#039; privacy is not being protected. This exposes the selective and self-serving nature of Big Tech&amp;#039;s privacy claims.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n4e469bb35b74&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;「サイバーコネクトツー展」が皆様のところへ！お近くで開催されたときはぜひご来場ください✨&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CC2の30周年展が47都道府県を巡回開催中&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーの宣伝担当たっしーが、同社30周年を記念した「サイバーコネクトツー展」の概要と福岡会場の様子を紹介している。このイベントは47都道府県を巡回する前代未聞の展覧会で、入場無料・来場特典付き。会場では歴代作品の開発資料やパッケージ、初公開資料、各作品のフォトスポットが展示されている。トークイベントは福岡・東京・大阪限定で、東京会場の優先席はすでに満員。今後の開催地は特設サイトで順次公開される。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーの宣伝担当たっしーが、30周年記念「サイバーコネクトツー展」の第1回福岡開催を報告し、47都道府県を巡回する前代未聞のイベントであることを紹介している。入場無料で来場特典（全17種のランダムステッカー）が用意されている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;福岡会場の展示内容として、歴代作品のパッケージや開発資料、メインパネル、初公開の福岡県防災キャラクター「まもるくん」の資料などが展示され、代表の松山氏が当時のクリエイターとして携わった資料も並んでいる。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;トークイベントとサイン会は福岡・東京・大阪限定で開催され、6/27東京会場の優先席は定員に達している。また、『テイルコンチェルト』『.hack//』『戦場のフーガ』など各オリジナル作品のフォトスポットも設置されており、詳細は特設サイトで確認できる。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21576&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ドラマ『チェイサーゲームW』公式ノベライズ『小説 チェイサーゲームW』6/12より9巻配信！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《追逐游戏W》官方小说第9卷开始配信&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文宣布了剧集《追逐游戏W》官方小说第9卷于2026年6月12日正式配信，以纪念电影《追逐游戏W 水鱼之交》的公映。小说在原剧情基础上增加了原创内容与人物心理描写，第9卷聚焦于分离后的树与冬雨各自在压抑环境中寻求幸福的故事，标志着第二部的开幕。作品由CyberConnect2制作，松山洋总监修，定价770日元，在多家电子书平台发售。电影由菅井友香与中村由里香主演，已于全国上映。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为纪念电影《追逐游戏W 水鱼之交》于5月15日公映，官方宣布将以隔周形式配信剧集《追逐游戏W》的官方小说化作品，第9卷于6月12日开始配信。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小说版在剧情基础上加入原创故事、人物内心描写及情景刻画，并增添了树与冬雨的感官场景，以全新视角重新演绎《追逐游戏W》的故事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第9卷剧情简介：为彼此幸福而选择分离的树与冬雨，冬雨随浩宇和月回到中国，在母亲严格监视下过着压抑的生活；浩宇回忆起过去某件事，为家人未来的幸福而苦苦思索，第二部由此揭幕。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作品信息：小说《追逐游戏W》第9卷，总监修为CyberConnect2的松山洋，小说脚本由保坂星耀担任，定价770日元，于Apple Books、Kindle等多家平台配信。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影《追逐游戏W 水鱼之交》于5月15日在新宿Balt9等全国院线公映，由菅井友香与中村由里香W主演，原作为松山洋，导演为太田勇。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110992&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 10 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本周精选10部优质作品推荐及多部新片预告发布。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部推出的周度影视推荐专栏，精选了10部近期值得观看的优质作品，涵盖电影、电视剧、动画和真人秀等多种类型。推荐作品既包括动作犯罪片《火遮眼》这样的视觉盛宴，也有以小见大的战争电影《诺曼底72小时》，还有反映社会现实的韩剧《铁拳教育》和治愈系日剧《午夜出租车》。此外还发布了《攻壳机动队》《社交网络2》等多部新片的预告和定档信息，为观众提供全面的本周影视观看指南。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周推荐10部值得观看的作品，包括电影《火遮眼》《诺曼底72小时》、韩剧《铁拳教育》、美剧《星城》等多种类型作品，并发布了多部新片的预告和定档信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;重点推荐作品包括国产剧《主角》讲述秦腔演员的成长历程、日剧《午夜出租车》以出租车司机视角展现人生故事、动画《躲在超市后门抽烟的两人》描绘都市人的治愈爱情。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;其他值得关注的作品还有真人秀《克拉克森的农场第五季》和《花样青春·限量版》，以及多部国产、德国、日本、韩国的新剧集和动画作品的简介推荐。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110329&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Level Read：让英语学习从「读得懂」开始，每天都进步一点点&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Level Read用分级新闻阅读帮你轻松建立英语学习习惯&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Level Read是一款面向普通英语学习者的分级阅读应用，由开发者Meterscao创建。其核心设计是将每日精选的BBC等主流媒体新闻改写为三个难度级别，参考CEFR标准，使用Claude Sonnet 4模型辅助生成，帮助用户从适合自己的难度开始阅读。产品提供点词查义、音频、全文翻译、阅读理解quiz及情境化单词本等功能，强调轻量化的每日学习习惯。目前已上线一年半，拥有3万余用户，支持Web、iOS和Android多平台，致力于让英语学习从焦虑回归到真实阅读的乐趣。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了开发Level Read的初衷：让英语学习回归阅读本身，帮助用户每天轻松读懂一点英文内容，而非将语言学习变成痛苦的任务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出现有英语学习材料普遍难度过高，Level Read希望解决的核心问题是让普通学习者每天都能读懂一篇英文内容，从而建立持续学习的动力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Level Read最核心的设计是将同一篇新闻改写为三个难度级别（Level 1/2/3），参考CEFR标准，让不同水平的学习者都能从适合自己的入口进入同一篇内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Level Read使用Claude Sonnet 4系列模型辅助分级改写，内容生产经过人工筛选来源，改写时严格控制词汇难度、句子长度和信息密度，确保不改变新闻事实、保持自然表达。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;产品围绕帮助用户完整读完一篇英文内容而设计，提供点词查义、全文翻译、音频和阅读理解quiz等功能，所有功能均服务于阅读本身而非打断阅读节奏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Level Read的单词本功能将生词与阅读情境绑定，记录单词来源新闻和句子，并在单词再次出现时自动高亮，帮助用户在真实语境中积累词汇。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;产品节奏设计轻量化，鼓励每天5到10分钟的小习惯，并提供学习记录和进度追踪，帮助用户看见真实的积累过程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Level Read支持网站、iOS和Android多平台，并提供PDF导出功能，满足离线阅读、批注和课堂使用等多种场景需求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了Level Read的目标用户群体：想重新开始学英语、觉得外刊太难、希望保持语感或想用英语了解世界的普通学习者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回应了&amp;#039;有AI翻译还需要学英语吗&amp;#039;的讨论，强调直接读懂另一种语言仍有独特价值，Level Read的目标是帮更多人降低开始的门槛，让英语成为理解世界的工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110914&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;把 AI 装进口袋，然后把它忘掉：
+YoooClaw C·ONE 智能硬件一个月使用体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 YoooClaw C·ONE将AI无感融入日常的随身硬件值得入手&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者对YoooClaw C·ONE智能硬件一个月的使用体验评测。C·ONE是一款信用卡大小、无屏幕的AI硬件，基于OpenClaw生态，通过蓝牙连接手机，提供录音转写、场景功能订阅、通知摘要及后台透明化管理等功能。其最大亮点是超长续航和将AI无感融入日常的设计理念。不足之处包括安卓兼容性问题、按键误触、不支持其他agent及无法发送图片文件。售价599元起，作者认为性价比较高，适合OpenClaw用户和需要随身AI助手的职场人。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者初次拿到YoooClaw C·ONE时感到失望，因为它只是一张信用卡大小的紫色哑光卡片，没有屏幕，但使用一个月后它成为了作者出门必带的第三件电子设备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;C·ONE是基于OpenClaw生态的AI硬件入口，通过蓝牙连接手机，充当24小时在线的agent助手、网关和信息采集器，核心使用场景包括信息捕捉、手机通知归纳、场景功能设计和OpenClaw后台透视。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;C·ONE续航极强，作者一个月只充了两次电，这种低电量焦虑的消除使其真正融入了日常携带（EDC）环境。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;C·ONE的双击录音功能不仅能转写语音，还能将内容结构化整理成分析报告形式，比手动记笔记更高效完整，但存在英文语音识别偶尔出错的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;YoooClaw App通过「场景功能」市场和后台透明化设计降低了AI使用门槛，用户可一键订阅各类场景模板，并可视化查看模型调用、Token消耗和定时任务等信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;C·ONE存在若干不足：对安卓机型兼容性欠佳、按键位置易误触、偶发插件报错、暂不支持OpenClaw以外的其他agent，以及不支持发送图片或文件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;C·ONE售价599元起，适合想低成本接触AI的新手、需要频繁录音转写的职场人以及OpenClaw生态用户，作者认为其性价比较高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为，C·ONE最大的价值在于让AI无感地融入日常生活，帮助用户提前发现工作流隐患并优化AI使用体验，599元买的是将AI融入生活的入场券。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110967&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;WWDC 26 发布会上，Apple 没告诉你的那些事&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WWDC 26发布会隐藏的大量新功能盘点&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;WWDC 2026发布会虽被认为内容平淡，但测试版上线后用户挖掘出大量未公开介绍的新功能。功能层面包括中国大陆专属调休闹钟、铃声闹钟独立音量、随航手指触控支持、iPhone镜像窗口无极调节及新恢复模式等。设计层面液态玻璃效果经历大幅精简，移除争议性视觉效果并新增图标投影。macOS终于内置图标托盘解决刘海遮挡问题。代码层面则揭示了Siri AI与Gemini的合作架构、官方输入法偏旁拆字支持，以及暗示折叠屏MacBook存在的系统参数。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;WWDC 2026发布会被认为相对平淡，主要是填补前两年挖下的坑，但测试版上线后用户发现了大量未在发布会介绍的新功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;功能层面新增了多项实用更新：中国大陆专属调休闹钟、铃声闹钟独立音量设置、锁屏正在播放控件可滑动清除、随航支持手指触控、tvOS重回同级系统地位、watchOS新手势及支持机型乌龙事件、iPhone镜像支持无极调节窗口大小、以及iPhone新增恢复模式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;设计层面，液态玻璃效果经过大幅调整：移除了重力感应轮廓光照和渐进式模糊效果，新增应用图标彩色投影，通知动画和下拉手势逻辑也随Siri AI入驻灵动岛而改变。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;macOS Golden Gate带来菜单栏有线连接图标和期待已久的图标托盘功能，解决了刘海MacBook图标被挤入黑洞的五年顽疾。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Music、Apple Pay、App Store等界面均获得UI更新，visionOS的Siri球球支持实时光照投影，AirPods设置界面全面重设计并支持独立提示音音量调节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;代码层面揭示了Siri AI与Gemini的真实合作架构：Apple掌控系统编排器，仅在模型层借助Gemini；同时发现了Siri AI提示词、输入法支持偏旁拆字，以及暗示折叠屏MacBook的三个新系统参数。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110975&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：五电商平台因「百亿补贴」问题被约谈、Xbox 启动业务重置计划等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 五电商被约谈补贴造假，Xbox启动百日重置计划&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派周五早报，汇聚多条科技资讯。北京监管部门约谈五大电商平台，针对「百亿补贴」虚假宣传和规则不透明问题要求整改。Xbox公布百日重置计划，承认盈利率低、扩张过度，将削减预算并探索新硬件合作模式。文石发布第二代BOOX Go 6阅读器，小米开源AI编程助手MiMo Code。此外，SANWA推出笔式鼠标，飞利浦Hue上线世界杯灯效功能，Google发布DiffusionGemma模型，Trump Mobile T1被证实与HTC机型高度相似。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;北京市场监管局约谈淘宝、京东、拼多多、抖音、小红书五大电商平台，通报其在「百亿补贴」促销活动中存在虚假宣传、规则不透明、信息未公示等问题，并要求整改。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Xbox CEO公布为期100天的业务重置计划，承认盈利率仅3%、过度扩张，未来将重新聚焦第一方独占游戏，并因硬件成本大幅上涨而探索新的商业模式和合作伙伴，同时计划裁员。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文石发布第二代BOOX Go 6墨水屏阅读器，新增手写笔记功能，搭载300 PPI屏幕、Android 11系统及Google Play，售价199.99美元，预计6月17日发货。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米正式发布并开源AI编程助手MiMo Code v0.1.0，基于OpenCode开发，内置持久记忆系统、Compose自动化流程和语音输入功能，支持多种主流AI模型接入。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;SANWA推出笔式无线鼠标400-MAWB231，重量仅25g，支持2.4GHz与蓝牙双连接，1600 DPI传感器，续航约4.5个月，售价约240元人民币。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;飞利浦Hue上线「Sports Live」实时赛事灯效功能，配合2026年国际足球赛事，可在进球、红黄牌等关键时刻触发灯光效果，与电视转播实时同步。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯汇总：Google发布文本扩散实验模型DiffusionGemma；微软降低Windows 11本地AI模型API硬件门槛；《蜘蛛侠：崭新之日》国内定档7月29日；iFixit拆解证实Trump Mobile T1手机与HTC U24 Pro内部结构几乎一致，零件主要来自中国。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - June 11, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1829,271 +2141,6 @@ The author argues that a truly successful business delivers non-financial divide
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;拓竹科技发布A2L 3D打印机，打印体积较A1提升105%，支持刀切与画笔模组切换，静音模式音量低至49dB，定价2549元。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;戴尔发布新款XPS 13笔记本，对标MacBook Neo，起售价699美元，重1kg，厚12.7mm，采用Intel Core 5 320处理器，6月开售。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯汇总包括豆包计划开启付费订阅、疑似iPhone Ultra机模曝光、《神鬼寓言》延期至2027年、掌阅与WIKO发布AI玩具，以及谷歌Pixel Watch 5在海底被捡到的趣闻。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - June 1, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-06-01</id>
-    <updated>2026-06-01T21:25:34.917Z</updated>
-    <published>2026-06-01T21:25:34.917Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>12 articles from 7 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 1, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;166.57534246575344&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    41.6%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;152&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;213&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;21&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████░░░░░░░░░░░░░░░░░░ 41.6%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.linkedin.com/posts/piccia-neri_happy-monday-everyone-and-lets-talk-about-share-7467149289408950272-LwVs/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Piccia Neri’s post on LinkedIn&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 **Tech conferences lack diversity by choice, not necessity — UX London proves inclusive lineups are achievable when organizers prioritize representation.**&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary: Diversity &amp;amp; Representation in Tech Conferences
-
-Piccia Neri&amp;#039;s LinkedIn post uses firsthand observations from Valencia Tech Fest — approximately 80/20 male-to-female ratio and ~90% white attendance — to illustrate the persistent diversity gap in tech conferences, while noting that a women-focused talk nearly inverted the typical gender ratio, proving women engage when content is relevant to them. She contrasts this with UX London (organized by Clearleft), which achieved genuinely diverse representation across gender, ethnicity, and background, directly dismantling the industry&amp;#039;s common excuse that inclusive speaker lineups are unattainable. Neri applies equity of representation as a personal gatekeeping criterion for accepting speaking engagements, reflecting a principled, action-oriented stance rather than passive observation. She criticizes the decades-long default of white middle-aged men dominating conference stages and argues the industry must actively amplify broader voices — she herself will speak at UX London&amp;#039;s Design Day (June 3rd) on the intersection of creativity and accessibility. The post also briefly signals age discrimination as an underexplored dimension of tech&amp;#039;s diversity problem, teasing it as a topic for future discussion.
-
-**Key Takeaway for Tech Leaders:** Diverse conference lineups are achievable and demonstrably drive broader audience engagement — the barrier is organizational will, not feasibility.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Tech Event Gender Gap:&lt;/strong&gt; The author observed an 80/20 male-to-female ratio and roughly 90% white attendance at a Valencia Tech Fest, highlighting the persistent diversity problem at tech conferences.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Women in Tech Session:&lt;/strong&gt; A talk specifically on women in tech as an untapped resource attracted a near-complete inversion of the typical gender ratio, demonstrating that women attend when content is relevant to them.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Diversity as Acceptance Criteria:&lt;/strong&gt; The author uses equity of representation as a personal criterion when deciding whether to accept speaking invitations at conferences, reflecting a principled stance on inclusion.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;UX London&amp;#039;s Representative Lineup:&lt;/strong&gt; UX London, organized by the Clearleft team, achieved a genuinely diverse speaker lineup across gender, ethnicity, and background, directly challenging the common industry excuse that such representation is impossible.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Default Speaker Problem:&lt;/strong&gt; The author calls out the decades-long dominance of white middle-aged men as the default conference speaker profile, arguing it is time for broader voices and perspectives to be heard.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Author&amp;#039;s Speaking Role:&lt;/strong&gt; The author is speaking at UX London on Design Day, June 3rd, covering the intersection of creativity and accessibility, expressing pride in being part of the diverse lineup.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Age as Hidden Factor:&lt;/strong&gt; A brief comment from the author hints that age discrimination in tech is another dimension of the diversity problem, signaling a future discussion on the topic.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://time.com/6337835/ai-mediocrity-essay/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;AI and the Rise of Mediocrity&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI无法真正创新，其真正危害是机械化人类品味与创造力&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者通过日常生活中同质化现象的观察，深入批判了所谓&amp;#039;人工智能&amp;#039;的本质与危害。作者指出ChatGPT等工具并非真正智能，只是基于统计预测的语言模型，只能在平庸需求下发挥作用，无法实现真正的创意突破。更深层的危险在于，AI如同工业机械化一样，不仅会用衍生内容填满世界，还会系统性地降低消费者的审美期望与辨别能力。作者援引福特流水线历史和好莱坞编剧困境，论证机械化最终制造的不是产品，而是接受平庸的顺从消费者，人类的创造力与品味将在不知不觉中被侵蚀。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过停车场发现五辆与自己相同的车这一经历，引出了关于个体性与同质化的思考。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在超市排队时读到关于AI的文章，注意到周围人穿着相同品牌的鞋，引发对AI是否会取代创意工作的思考。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者明确指出ChatGPT、Midjourney等工具并非真正的&amp;#039;人工智能&amp;#039;，它们只是基于互联网数据训练的语言和图像模型，通过统计预测生成内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于人类日常行为具有高度可预测性，AI在处理常规任务时表现有效，适合生成列表、填充性文字和普通插图，但本质上只在需求平庸时才能发挥作用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;真正的创意工作具有不可预测性，需要逻辑跳跃和反直觉的组合，AI永远无法创作出真正伟大的小说或艺术作品，但更大的危险是它根本不需要做到这一点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI只能生成已有内容的续集和混搭，这将加剧商业领域已有的模仿趋势，用平庸的文字、衍生插图和缺乏原创性的设计填满世界。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI对人类创造力的真正威胁是将创新机械化，就像福特流水线用非熟练劳动力取代工匠一样，机械化最终导致工人技能下降、薪酬降低、价值被贬低。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;机械化不仅要求可替换的工人，也要求可替换的消费者，通过降低消费者的期望值来操纵需求，让人们接受&amp;#039;足够好&amp;#039;的产品，真正被制造出来的是消费者的态度和需求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以超市番茄和好莱坞电影为例，说明消费者往往不知道自己错过了什么，因为更好的选择从未被呈现过。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用AI工具生成故事或图片并不能使用户成为真正的作家或艺术家，就如同组装宜家书架不能使人成为木匠一样，结果只是堪用而非卓越。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI取代创意工作并非经济必要，因为支付作家和艺术家的成本相比公司其他支出微不足道，好莱坞编剧收入微薄而高管却赚取数千万，这种不平等才是真正的问题所在。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI正在机械化人类的品味和辨别能力，当创造力的缺失在悄然发生时，消费者可能浑然不觉，因为机械化的真正创新在于制造出降低期望值的顺从买家。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-306/viewer?title_no=853933&amp;episode_no=321&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 306&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画《DOGHAUS》第306话章节导航页面&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本内容并非文章，而是WEBTOON平台上名为《DOGHAUS》的漫画系列页面的导航数据。内容主要由章节编号列表（第1至306话）、平台功能按钮（订阅、分享、举报等）以及相关推荐漫画组成。作者为Moowsie，作品发布于WEBTOON CANVAS平台，属于自出版内容。期间穿插有特别公告、Sunday Strip加刊及Kickstarter众筹启动等里程碑信息，显示该系列已发展成熟并推出实体书。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 David Heinemeier Hansson &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/let-the-agents-democratize-open-source-9fd630a9&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Let the agents democratize open source&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 开源社区抵制AI编程是保护主义而非原则&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文批评了开源社区中出现的反AI辅助编程运动。作者认为，一些程序员以质量、署名权等为借口，拒绝接受AI辅助的代码贡献，本质上是在维护自身特权、排斥新参与者。作者指出，人类程序员本就长期产出有缺陷的代码，AI的出现让更多人能够参与软件创作，这恰恰是开源运动自由精神的延伸。这种抵制行为源于地位焦虑与尼采所称的&amp;#039;ressentiment&amp;#039;（怨恨），是对计算自由扩散的保护主义反应。作者呼吁拥抱编程的演变，抵制封闭参与门槛的冲动。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;开源运动数十年来致力于让所有人都能自由修改软件，但随着AI革命的到来，部分人开始将AI辅助编程者排除在&amp;#039;所有人&amp;#039;之外。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;越来越多的开源项目开始设置障碍，拒绝AI辅助的代码贡献，以保护传统程序员群体的特权，这是一种典型的保护主义行为，其借口无非是质量、署名权和劳工权益。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;人类程序员本就长期产出低质量代码，AI并不完美，但它让更多人能够参与软件创作，这本应是开源精神的胜利。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这场对AI的抵制本质上是一种地位游戏与嫉妒心理，正如尼采所说的&amp;#039;怨恨&amp;#039;——不愿让他人绕过自己曾经历的痛苦而获得同等能力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者呼吁不要屈服于这种封闭、恐惧的保护主义思维，编程正在进化，让更多人享有计算自由的价值远大于维护参与门槛。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/06/01/challenge-and-opportunity/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Challenge and opportunity&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者批判AI浪潮危害技术行业，呼吁捍卫真实技能与开放网络。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者休假归来后的感想与宣言。他对行业内因AI浪潮导致人才流失、教育者质疑自身价值等现象感到愤怒，批评AI被过度吹捧却问题频出，尤其对Google将&amp;#039;技能&amp;#039;降格为Markdown文件目录的&amp;#039;deskilling&amp;#039;行为强烈谴责。尽管面临压力与挑战，作者仍保持动力，计划成立有限公司，并决心调整工作节奏以应对压力。他呼吁从业者不要用AI替代真实技能，要保持学习热情，共同捍卫开放网络，反对将互联网沦为token经济的企图。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者休假十天回归，表示此次休假恰逢行业与个人压力高峰期，看到有才华的人失去动力令他感到沮丧，并感谢了在他离线期间联系他的人。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对RSS中教育者质疑自身价值的内容感到愤怒，对越来越多的人以AI为由离开科技行业感到激愤，并引用了Chad Whitacre退出科技行业的案例，批评AI热潮和所谓的&amp;#039;chatbox psychosis&amp;#039;流行病，指出大量研究表明AI并未带来预期回报。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者批评Google的&amp;#039;deskilling&amp;#039;行为，认为将技能重新定义为一堆Markdown文件是对&amp;#039;技能&amp;#039;一词的严重侮辱。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管面临种种挑战，作者表示自己仍有动力，计划成立有限公司，并意识到需要控制不健康的压力水平，将优先处理付费客户工作而非博客和社交媒体。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表达了继续享受职业的愿望，希望鼓励和重新激励他人，同时强调必须为开放网络而战，反对将互联网变成&amp;#039;tokendollar economy&amp;#039;，并呼吁人们保持真实技能，持续学习，为网络而战。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://game.kimetsu.com/hinokami2/news/?id=69588&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『鬼滅の刃 ヒノカミ血風譚2』「誕生日イベント：甘露寺蜜璃」が開始！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Demon Slayer Hinokami Keppuudan 2 launches a limited 7-day Mitsuri Kanroji birthday event with ranked match rewards.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary: Demon Slayer Hinokami Keppuudan 2 – Mitsuri Kanroji Birthday Event
-
-A limited-time birthday event celebrating **Mitsuri Kanroji (Love Hashira)** launched on **May 28, 2026**, running through **June 4, 2026 at 8:59 AM** in *Demon Slayer: Hinokami Keppuudan 2*. Players accumulate **Event Points** exclusively through **Ranked Matches**, with performance-based rewards and a **point bonus mechanic** triggered by selecting Mitsuri Kanroji as the active character during battles. Earned points are redeemable at the **Birthday Event Exchange shop** (accessible via the Online Battle menu) for exclusive themed rewards including **system voices, stamps, and other Mitsuri-specific cosmetic items** tied to her June 1st birthday. A secondary acquisition path exists through the **Kimetsu Point Shop** for players seeking alternative redemption options. Critically, **unused Event Points do not carry over** after the deadline, requiring players to actively manage point accumulation and redemption within the tight **7-day event window**.
-
----
-
-**Key Technical Takeaways for Developers/Analysts:**
-| Parameter | Detail |
-|---|---|
-| Event Duration | May 28 – June 4, 2026 |
-| Point Source | Ranked Match results only |
-| Bonus Mechanic | Featured character selection multiplier |
-| Point Expiry | Hard cutoff, no rollover |
-| Redemption Path | Event Shop + Kimetsu Point Shop |&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Event Announcement:&lt;/strong&gt; A birthday event for &amp;#039;Love Hashira&amp;#039; Mitsuri Kanroji has launched on May 28, 2026, in Demon Slayer: Hinokami Keppuudan 2.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Event Point System:&lt;/strong&gt; Players earn Event Points by participating in Ranked Matches during the event period, which can be exchanged for specific in-game items.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bonus Point Mechanic:&lt;/strong&gt; Using the featured character (Mitsuri Kanroji) in battles grants additional Event Points, encouraging players to actively select her during matches.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Available Rewards:&lt;/strong&gt; Event Points can be used to obtain Mitsuri Kanroji-themed system voices, stamps, and other exclusive items tied to her June 1st birthday.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Event Duration:&lt;/strong&gt; The birthday event runs from May 28, 2026 (Thursday) through June 4, 2026 (Thursday) at 8:59 AM, with no carryover of unused Event Points after the deadline.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Participation Method:&lt;/strong&gt; Players can join by navigating to Online Battle &amp;gt; Ranked Match, where battle results determine the amount of Event Points earned.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point Exchange Details:&lt;/strong&gt; Earned Event Points are redeemed at the &amp;#039;Birthday Event Exchange&amp;#039; shop in the Online Battle menu, with items also available via the Kimetsu Point Shop.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://game.kimetsu.com/hinokami2/news/?id=70405&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『鬼滅の刃 ヒノカミ血風譚2』『第参回 公式オンライン大会～最強への道～』開催決定！エントリー受付中！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《火神血风谭2》第三回官方线上大赛将于2026年8月11日举办&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《鬼滅の刃 ヒノカミ血風譚2》第三回官方线上大赛定于2026年8月11日举办，即日起在Tonamel平台开放报名。大赛分为PlayStation和Nintendo Switch两个部门，全54名角色（含「无限城编 第一章」角色通行证角色）均可使用。赛制采用双败淘汰制，常规赛BO1，关键赛事BO3，对战设定为无装具、无限城舞台。参赛者须在日本国内游玩并能使用日语沟通，未成年人需获监护人同意。赛事录像将在Aniplex YouTube频道播出，冠亚季军获奖杯，另设前16名奖品及参与奖。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;宣布《鬼滅之刃 火神血风谭2》第三回官方线上大赛将于2026年8月11日举办，即日起在Tonamel平台开放报名，PlayStation和Nintendo Switch两个部门同时进行，全54名角色均可使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;大赛采用双败淘汰制，常规赛为BO1（先取2回合），败者组决赛及大决赛为BO3，对战设置为无装具、无限城舞台，基于Ver1.81版本环境进行。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;参赛条件要求选手在日本国内游玩且能用日语交流，未成年人需获得法定监护人同意，同时需订阅PlayStation Plus或Nintendo Switch Online，赛事录像将于当晚在Aniplex YouTube频道播出，冠亚季军将获得奖杯，前16名及所有参赛者另有奖品。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202606/76543&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『チェイサーゲーム』シーズン2 第68話 運命の引力（3）公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《追逐者游戏》第68话讲述主角企划梦想瞬间破碎&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为日本游戏媒体Fami通网站连载漫画《チェイサーゲーム》（追逐者游戏）第二季第68话的介绍页面。本话标题为「运命の引力（3）」，讲述角色西村在游戏公司以企划职兼职入职后，被松山社长评定为不适合企划岗位的故事情节。编辑暗示主角刚触及梦想便遭遇变故。此外，原作者松山洋出版了面向游戏业界志望者的书籍《ゲーム業界の攻略法》，页面还包含相关商品购买链接及网站销售排行榜等信息。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;法米通网站连载漫画《追逐者游戏》第二季第68话「命运的引力（3）」于2026年6月1日发布，讲述西村在企划职位上遭遇挫折的故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑评论指出西川刚刚抓住梦想的起点，但平静瞬间崩塌，下一话将于2026年6月15日公开。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《追逐者游戏》原作者、CyberConnect2社长松山洋于2026年2月出版新书《游戏业界攻略法》，内容涵盖游戏创作者建议、就职面试实态及真实合格者作品集。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110547&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本期派评推荐7款涵盖摄影、效率、健康与开发的优质App&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期《派评》介绍了7款值得关注的应用。Halide Mark III带来胶片风格系统与HDR支持；Raycast v2.0全面升级成为Mac效率必备工具；MacTracker 5.0新增Apple产品对比与个人收藏功能；Caffeine Health帮助用户量化咖啡因摄入对睡眠的影响；PairPods简化macOS多耳机音频共享流程；MedTimer提供开源本地化服药提醒与记录功能；GitSync则为Android用户提供图形化Git同步解决方案，尤其适合Obsidian知识库管理。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Halide正式推出Mark III版本，核心是与好莱坞调色师合作开发的胶片风格系统（Looks），提供5款主要风格，支持HDR效果，并新增Photo Lab手动修图功能，界面全面重做，需付费订阅使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Raycast for Mac v2.0大幅更新，采用新设计语言适配macOS Tahoe，提升文件搜索速度、优化Quicklink功能、强化AI能力（新增Agents、Memory、Skills），并加入语音转译功能，目前处于Beta测试阶段。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;MacTracker 5.0新增产品对比功能和「我的型号」收藏功能，支持高亮差异项和iCloud同步，方便用户检索Apple历史产品或管理个人设备库，可在App Store免费获取。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Caffeine Health是一款Android咖啡因摄入追踪应用，根据用户年龄、体重、睡眠时间等个人数据计算咖啡因代谢情况，以图表形式直观呈现摄入对睡眠的影响，开源免费可通过F-Droid下载。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;PairPods是一款macOS免费开源小工具，简化了多蓝牙耳机共享音频的配置流程，支持独立音量调节、自动重连等功能，适合两人共同收听同一音频来源的场景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;MedTimer是一款Android开源本地优先服药提醒应用，支持定时提醒、服药记录统计、多种提醒规则设置，无需账号同步，适合需要长期规律服药的用户，可在Play Store或F-Droid免费下载。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;GitSync是一款Android端图形化Git客户端，支持克隆、拉取、提交、推送、分支管理及冲突处理，内置文件管理器和文本编辑器，支持自动同步Obsidian等应用，并可接入LLM实现AI辅助操作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;App速报简述：据Mark Gurman透露，Apple计划在iOS 27中推出独立Siri应用，支持文字和语音对话及历史记录查看功能。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110412&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;成本 600 元不到，我 3D 打印了一把能弹的电吉他&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 570元3D打印电吉他全程制作踩坑记录&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者以570元成本、历时20天，利用3D打印技术从零制作一把可演奏电吉他的完整过程。作者选用Bambucaster模型与PLA耗材，单独采购琴颈、拾音器等配件，并自主设计配色与LED透光护板。制作过程中经历了焊接短路、配件不匹配、琴弦绷断等多次挫折，通过查阅资料和AI辅助逐一克服。文章以第一人称叙述，兼具技术细节与情感表达，最终以&amp;#039;完成比完美更重要&amp;#039;作结，适合有动手兴趣的读者参考。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因某品牌无弦吉他降价而萌生自制电吉他的念头，决定利用3D打印技术，花费20天时间，以570元成本制作一把可演奏的电吉他。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者梳理了整个制作流程，列出了详细的材料清单与费用，总成本约570元，涵盖PLA耗材、琴颈、拾音器、琴弦及LED等配件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在MakerWorld上筛选模型，最终选择了基于Telecaster琴身的Bambucaster模型，因其外观更符合偏好且有较好的优化设计。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;耗材方面，作者分析了PLA与PETG的特性，指出PLA因刚性更强更适合对抗琴弦拉力，并选用实心碳棒作为加强筋。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;配件采购上，作者放弃套件方案，选择单独购买琴颈、拾音器、琴桥等核心配件，并对LED相关器件进行了专项采购。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;配色设计历经多番纠结，借助AI生图工具辅助决策，最终确定红白黑为主色、黄色为辅助色的方案，并为护板设计了透光LED图案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;LED电路与开关安装是最耗时抓狂的环节，作者从零学习焊接，经历短路烧线等挫折，第二次尝试后终于成功点亮LED。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;打印与安装过程中，作者总结了多项关键注意点，包括琴体内部贴铜箔、安装顺序规划、LED充电口适配等细节问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;琴颈、琴桥、拾音器、背带扣等配件的安装均遇到各种意外问题，如螺丝孔径不符、配件生锈、操作顺序失误等，均通过反复摸索解决。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;琴弦安装与调试阶段，作者总结了电吉他完整的调节顺序，并配套购入了外置声卡Focusrite 2i2，为后续练琴做好准备。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结整个制作过程，强调这把不完美的吉他承载了独特的制作印记与成就感，表达了&amp;#039;完成比完美更重要&amp;#039;的心得体会。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110094&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;把一句经文放进每天：「一日一偈」的轻阅读尝试&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 极简App「一日一偈」以克制设计让经文融入日常&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;「一日一偈」是一款极简佛经阅读App，作者以「克制」为核心设计理念，刻意删除收藏、打卡、统计等常见功能，只保留每日一句经文、白话解释、留白涂画区和日期轨。白话解释力求像朋友说话，让经典回归日常生活。小组件是主要使用入口，静默显示于桌面，不打扰用户。App无需登录、不收集数据，所有内容存储本机。作者认为，做一个小App也是练习克制——每个新增按钮看似合理，但叠加起来会冲淡最初的安静初衷。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者开发「一日一偈」App的初衷是为自己创造一个轻量入口，每天读一句经文配白话解释，不要任务感，像桌上放着的一张纸，随时看一眼。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发过程中作者刻意删除收藏、搜索、打卡、统计等常见功能，只保留每日一句经文、白话解释、留白涂画区和日期轨，让App保持安静克制。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;白话解释的写作原则是像朋友说话，既不把经文变成金句，也不堆砌术语，只回答一个问题：这句话如何放回日常生活。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;首页留白区域从装饰演变为核心使用方式，供用户随手涂画或静思；底部日期轨故意设计得不完整，避免变成资料库。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;小组件是作者最常用的入口，经文静静显示在桌面，不通知不催促，每天自动更新，体现「不需要让你进去」的设计理念。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;每日提醒只有早上8点一次本地推送，设计克制；分享图功能也只为真正有触动的时刻而存在，而非为了刷朋友圈。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结开发体验：最难的不是实现功能，而是判断哪些不该做；App定位是轻量日常入口，不适合系统学习佛学。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;隐私说明：App无需登录，不收集数据，无第三方广告，所有内容和偏好均存储在本机，保护用户隐私。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;CSS contrast-color()函数简介&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CSS contrast-color()函数可自动返回最佳对比色&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由张鑫旭介绍CSS新函数contrast-color()，该函数专为无障碍访问设计，能根据传入的颜色值自动返回黑色或白色，以确保前景色与背景色之间满足WCAG最小对比度要求。文章通过实时demo展示了其在按钮文字配色中的应用，并指出目前所有主流浏览器已支持该函数。作者以轻松批评的笔调指出，中国前端开发中无障碍访问普遍被忽视，同时认为contrast-color()因无法自动识别背景图片等局限性，实用价值仍然有限，当前阶段更多只是玩具性质。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了CSS contrast-color()函数，该函数专为无障碍访问（WCAG）设计，能根据提供的颜色自动返回对比度最友好的颜色（白色或黑色）。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;WCAG中的最小对比度概念要求前景色与背景色保持足够对比度，淡灰色文字因对比度过低会造成阅读障碍，contrast-color()函数正是为解决此问题而生。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;contrast-color()语法简单，可接受颜色值或CSS变量，返回值仅为white或black，与反相颜色有本质区别。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过按钮demo演示，随着背景色变化，文字颜色自动匹配黑白以保证对比度，而此前实现类似效果需要大量复杂代码。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前所有主流浏览器已支持contrast-color()函数，可以直接投入使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者感慨中国前端开发中无障碍访问特性无人问津，并以抖音Web端为例批评当前工程师缺乏追求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为contrast-color()目前仍有局限性，只能处理颜色值而无法自动识别背景图片，实用性有限，暂时只能当玩具使用。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
