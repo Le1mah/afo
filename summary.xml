@@ -4,8 +4,188 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-06-12T20:59:48.359Z</updated>
+  <updated>2026-06-13T20:37:35.042Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - June 13, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-06-13</id>
+    <updated>2026-06-13T20:37:35.042Z</updated>
+    <published>2026-06-13T20:37:35.042Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>8 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 13, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;179.72602739726028&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    44.9%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;164&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;201&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;23&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████░░░░░░░░░░░░░░░░░ 44.9%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;8&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22609&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A tale of two browsers&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Safari 27专注修复获赞，Chrome 148强推私有API受批&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者对Safari 27和Chrome 148进行了对比评价。作者肯定了WebKit团队在Safari 27中专注于修复历史bug的务实做法，认为525项修复体现了对质量的重视，而非一味追求新功能。相比之下，作者批评Chrome 148在缺乏社区共识的情况下强行引入专有的prompt API，损害了开发者对Google的信任。文章呼吁浏览器厂商应重视维护与修复，而非盲目追逐新技术，并对Google Chrome团队在开发者关系上的公信力下滑表示遗憾。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者承认自己经常批评Apple，尤其是其在iOS上对网页功能的限制，以及Safari长期落后于其他浏览器的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;即将发布的Safari 27令人印象深刻，但亮点不在于新功能，而在于其专注于修复大量历史遗留bug，共包含525项修复，是Safari历史上修复数量最多的版本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出浏览器行业普遍存在重视新功能、忽视维护修复的问题，并以此肯定了WebKit团队的务实态度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;与Safari 27形成鲜明对比的是，Chrome 148在其他浏览器反对、开发者无正面反馈的情况下，强行推出了专有的prompt API技术。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者区分了Google Chrome团队中负责开发者关系的人员与做出技术决策的人员，指出前者多年积累的信誉因后者的决定而受损，最终对Safari 27给予肯定，对Chrome 148表示批评。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22608&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sarah Canary by Karen Joy Fowler&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 历史冒险外壳下探讨种族与性别的颠覆性处女作&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《Sarah Canary》是Karen Joy Fowler的处女作，故事设定于19世纪末美国太平洋西北地区。小说以神秘莫测的主角Sarah Canary为核心麦格芬，视角在多个角色间流转。作者以双重叙事层次构建故事：表面上是一系列历史冒险，深层则是对类型文学的巧妙颠覆。无论读者选择哪种解读方式，书中对种族主义、性别歧视和殖民主义的持续探讨都贯穿始终，使这部小说兼具娱乐性与思想深度。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《Sarah Canary》是Karen Joy Fowler的一部奇特小说，故事背景设定在19世纪末的太平洋西北地区，以神秘的主角为核心，视角在各角色间切换，既是一部历史冒险故事，也可能是对某种类型小说的颠覆性重构。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;无论读者如何解读这部作品，书中始终贯穿着对种族主义、性别歧视和殖民主义的探讨，作者将这些主题融入叙事之中，令人印象深刻，堪称出色的处女作。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Day We Met &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/819266165552660480&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 4, Epilogue&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 漫画第四章完结，作者邀请读者支持Patreon获取独家内容。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇漫画章节结尾的后记，作者宣布第四章正式完结，并向读者介绍其Patreon页面。作者以轻松友好的语气邀请喜欢该漫画的读者通过Patreon给予打赏支持，作为回报，支持者可获得下一章的提前预览页面（已有前四页可读）、创作过程WIP图、跨越近十年的速写本图库、包含TDWM角色的18+内容（含一部完整迷你漫画及一部已更新22页的连载），以及其他未在公开社交媒体发布的作品。文章以感谢读者的温馨话语作结。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/819264883231227904&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 4, Page 50&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 **Chapter 4, Page 50 logs high-volume social engagement via likes and reblogs using paginated async data fetching.**&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary: Chapter 4, Page 50 — Engagement Metrics &amp;amp; Activity Logs
+
+This dataset captures social engagement metrics for a specific page segment (Chapter 4, Page 50) of a digital narrative work, logging two primary interaction types: **likes** (sentiment signals) and **reblogs** (content redistribution events). The reblogging activity follows a traceable hierarchical structure, with content propagation originating from identifiable source nodes such as `iratusmagus` and `thedaywemetcomic`, enabling graph-like lineage tracking of shared content. A high density of unique user identifiers indicates substantial community engagement concentrated around this particular content segment. Notably, the presence of UI strings such as `&amp;quot;Show more notes&amp;quot;` and `&amp;quot;Loading...&amp;quot;` reveals an **asynchronous, paginated data-fetching pattern** for retrieving social metadata, likely via lazy-loading or infinite scroll mechanisms.
+
+### Key Technical Observations
+| Aspect | Detail |
+|---|---|
+| **Event Types** | `likes`, `reblogs` |
+| **Content Origin Nodes** | `iratusmagus`, `thedaywemetcomic` |
+| **Data Pattern** | Paginated async fetching |
+| **Signal** | High unique user ID volume → strong community interaction |
+
+&amp;gt; **Developer Note:** The reblog hierarchy structure suggests this data may be suitable for graph traversal or network analysis to map content propagation paths.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Source Identification:&lt;/strong&gt; The data represents engagement metrics and activity logs specifically for Chapter 4, Page 50 of a digital narrative work.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Interaction Event Taxonomy:&lt;/strong&gt; User activities are categorized into two primary event types: &amp;#039;likes&amp;#039; for sentiment expression and &amp;#039;reblogs&amp;#039; for content redistribution.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Content Propagation Paths:&lt;/strong&gt; The logs trace the origin of shared content back to specific nodes such as &amp;#039;iratusmagus&amp;#039; and &amp;#039;thedaywemetcomic&amp;#039;, indicating a structured reblogging hierarchy.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;User Engagement Density:&lt;/strong&gt; A high volume of unique user identifiers is present, demonstrating significant community interaction with this specific page segment.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;UI State Indicators:&lt;/strong&gt; The inclusion of &amp;#039;Show more notes&amp;#039; and &amp;#039;Loading...&amp;#039; strings suggests an asynchronous data fetching mechanism for paginated social metadata.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/06/13/RSS008/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;RSS Club #008: Duck duck, swan?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者晨跑时从溢流沟中救出一只幼鸟，后推断其为加拿大雁。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章是作者的RSS专属随笔，记录了一次晨跑中的动物救援经历。作者在英国运河边跑步时，发现一只幼鸟掉入溢流沟无法自行脱困，在父天鹅的注视下趴地伸手将其救出。幼鸟最终躲入草丛，作者稍后返回发现其已离去。文章以轻松幽默的笔调描述了整个过程，并提及RSPCA负责野生动物救援而非RSPB这一常见误解。作者最终推断被救的是加拿大雁而非天鹅。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了英国运河的魅力，运河穿越城市提供自然环境，是跑步的理想场所，每年春季小鸟孵化后运河边热闹非凡。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者描述了运河边常见的加拿大雁和今年在可见地点筑巢的疣鼻天鹅，天鹅巢由泥土、树枝和瓶子堆成。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在晨跑时发现一只幼鸟掉入运河旁约60-90厘米深的溢流沟中，父天鹅在水面来回冲刺显得焦躁不安。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者趴在地上伸手将幼鸟从沟中救起，幼鸟挣扎时差点再次落入沟中，最终跑上小路躲入草丛。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;父天鹅确认幼鸟离开后返回巢穴，作者后来意识到这只幼鸟可能是鹅而非天鹅，并留它在荆棘丛中休息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者返回查看时幼鸟已不见踪影，在附近看到一家加拿大雁后确信被救的是鹅，并感叹从未见过鹅的巢穴。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-13T07:52Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-13T07:52Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 盲目用技术替代人力只会适得其反&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇来自McSweeney&amp;#039;s的短文《AI Economics for Dummies》以寓言形式讽刺了盲目追求自动化和技术替代人力的经济逻辑。故事中农场主Benjamin因一头骡子带来10%的生产力提升，便冲动地解雇几乎所有工人、购入99头骡子，结果造成巨额财产损失，唯一留下的员工也只能铲骡粪。作者通过荒诞的结局揭示：不经深思熟虑的技术投资和裁员决策，不仅无法带来预期收益，反而可能造成更大损失。文章结尾的评论暗示这是对AI取代人类劳动力浪潮的辛辣批评。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Benjamin雇用100名工人耕地，年薪资总额达1000万美元，某天他购入一头骡子后发现其能提升10%的生产力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;他随即解雇99名工人并购入99头骡子，期望获得1000%的生产力提升，结果无人驾驭的骡子造成超过5000万美元的财产损失。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;仅剩的一名员工不再耕地，而是花费全部时间清理骡粪，Benjamin损失惨重，这则寓言讽刺了盲目自动化的代价。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-13T05:30Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-13T05:30Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Safari终于支持masonry布局，作者反思其对标准过程的悲观态度&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Safari浏览器终于正式支持了CSS masonry布局，WebKit团队随之发布了《Field Guide to Grid Lanes》指南。作者以自嘲的口吻回顾了自己过去两年对masonry布局的态度转变——从强烈反对（认为会助长无限滚动泛滥），到摇摆不定，再到如今的接受与期待。作者感叹该功能来得太晚，十年前就有需求，同时反思自己对浏览器标准制定过程过于悲观，并指出若不依赖标准，浏览器厂商可能会各自为政。最后，作者对masonry grid-lanes在UI布局中的潜力持乐观态度，期待Chromium尽快跟进实现。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Safari浏览器正式支持了&amp;#039;masonry&amp;#039;布局，WebKit团队发布了《Field Guide to Grid Lanes》作为参考资料。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了自己两年前对masonry布局的负面看法，认为它会导致&amp;#039;无限滚动&amp;#039;式布局的复苏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者承认自己对规范偏好曾有过摇摆，并感叹CSS masonry来得太晚，十年前就需要它了。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者反思自己对标准制定过程过于cynical，并表达了对masonry grid-lanes在UI布局中潜在价值的期待，希望Chromium尽快跟进支持。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110973&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iOS 27注重体验优化而非创新，是近年最值升级的版本&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是对iOS 27 Developer Beta的全面评测，涵盖Liquid Glass视觉优化、系统性能大幅提升、Safari新功能、多应用细节更新、Apple Intelligence AI功能以及全新Siri AI的介绍。作者以实测为基础，客观分析了各项新功能对用户体验的改善，并特别指出中国大陆用户在AI功能方面的限制。文章还披露了折叠屏彩蛋。作者结论认为，iOS 27不是一个让人迫不及待升级的版本，但它认真偿还了过去几代iOS在使用体验上欠下的债，是近年来升级后最值得的一版。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;WWDC 2026发布会结束后，作者体验了iOS 27 Developer Beta，认为该版本侧重于全面优化系统使用体验，而非为创新而创新，中国大陆用户依然无缘Siri AI。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iOS 27对Liquid Glass视觉方案进行了多项调整，新增全局透明度滑杆供用户自定义效果强度，同时优化了图标、控件、动画及AirPods管理界面，并新增自定义EQ功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iOS 27在性能方面大幅提升，App启动最快快30%，AirDrop传输快80%，外置存储传输最快快5倍，同时优化了CPU调度器和搜索底层，将Spotlight、邮件、照片统一到同一搜索引擎。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Safari新增页面内容监测提醒功能，可设置关键词和频率；AI智能标签分组、AI生成浏览器插件等功能也已上线，但部分功能在中国大陆不可用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iOS 27还带来了大量细节更新，包括铃声闹钟独立音量、输入法拼字输入、备忘录Markdown支持、照片新增分类、快捷指令新增逻辑和自动化触发方式、新增恢复模式等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Intelligence方面，AI转译集成进系统键盘、日历和提醒支持自然语义输入、密码应用支持AI自动更换弱密码，照片应用新增扩展、重构和增强版消除功能，但部分功能已在中国大陆被限制。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;全新Siri AI由Gemini模型驱动，拥有系统级上下文感知能力和独立应用，目前仅限iPhone 15 Pro及以上机型，并设有地理围栏，中国大陆用户无法使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iOS 27代码中出现了折叠屏相关框架字符串，iPhone镜像也可拉伸至折叠屏比例，部分系统应用已可自动适配，被视为最大彩蛋。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为iOS 27没有令人耳目一新的亮点，但踏实优化了流畅度、搜索稳定性和传输速度等体验细节，是近几年升级后最不后悔的一版iOS。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - June 12, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1934,213 +2114,6 @@ The author argues that a truly successful business delivers non-financial divide
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯涵盖Nintendo Music推出网页版、Anthropic扩展Claude Mythos访问权限至150家新组织、Withings发布GLP-1用户专属智能体脂秤、三星Galaxy Z Fold 8系列规格曝光等资讯。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派近期动态包括飞傲BEATBOX预售、监工水獭挂件复刻、MBTI定制墨水屏「口袋先知」预售，以及麦金獭钢化膜补充装上线等产品信息。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派推荐了近期可能错过的文章，包括macOS后台进程管理工具App Tamer评测、OPPO Find X9 Ultra影像漫谈，以及关于Obsidian知识管理软件的推荐文章。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - June 2, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-06-02</id>
-    <updated>2026-06-02T21:09:49.820Z</updated>
-    <published>2026-06-02T21:09:49.820Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>10 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 2, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;167.67123287671234&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    41.9%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;153&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;212&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;21&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████░░░░░░░░░░░░░░░░░ 41.9%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;10&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22591&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Tuesday session in London&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博客日志页面，仅含元数据与互动提示。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章内容极为简短，来自博客作者adactio，发布于2026年6月2日星期二，地点为伦敦。文章仅包含博客元数据信息，如日期、时间、地理坐标（52°N，0°W），以及一个邀请读者回应并提交URL链接的互动提示。文章本身没有实质性的叙述内容或主题论述，属于典型的个人博客日志格式页面，内容不足以进行深入分析。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/492&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 492: Making Jam for the love of the game&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 新编程语言Jam发布，融合多语言特性&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一期开发者newsletter，核心内容是介绍 Raphael Amorim 发布的新编程语言 Jam。Jam 基于 LLVM、用 C++ 编写，融合了 Rust、Swift、Zig、Elixir 和 JavaScript 的设计理念，强调内存安全与开发者友好性。作者以幽默风格讲述了 Raphael 从 React 开发者到语言设计者的历程，并肯定其坚持手工构建的精神。此外，文章还涵盖 QA Wolf 测试工具推广、一道关于 JavaScript falsy 值导致 calculateAverage 函数 bug 的编程题及其解答，以及多条社区开发动态简讯。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Raphael Amorim 宣布了一种名为 Jam 的新编程语言，这是一种基于 LLVM 编译器、用 C++ 编写的编译型语言，完全由人工手动构建。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Raphael 曾是一名 React 开发者，后来构建了 React TV 和 Rio Terminal 等项目，在经历 Rust 的陡峭学习曲线后，决定自己设计一门新语言。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Jam 融合了 Rust 的内存安全、Swift 的可变值语义、Zig 的显式设计、Elixir 的模式匹配以及 JavaScript 的友好语法等多种语言特性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了 QA Wolf 这一 AI 测试工具，它能自动生成 Playwright 和 Appium 测试代码，声称比其他工具快 12 倍，已获 Figma、Drata 等公司信赖。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期&amp;#039;找 Bug&amp;#039;环节指出 calculateAverage 函数因使用 truthy 检查而错误过滤掉数值 0，导致计算结果不准确。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;修复方案是移除 arr[i] 的 truthy 检查，仅保留 typeof arr[i] === &amp;#039;number&amp;#039; 的类型判断，从而正确处理数组中的 0 值。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cool Bits 部分汇总了多个开发动态，包括 XState Store v4、纯 CSS 视差效果、Expo 聊天模板、tsgo 内存分析以及 Conductor 迁移至 TanStack Router 后性能翻倍等。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-06-02.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: June  2&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI tools reshape rather than eliminate developer roles, while amplifying existing problems like technical debt and knowledge corruption at scale.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This &amp;quot;Fragments&amp;quot; piece covers several converging themes around AI&amp;#039;s practical limitations and second-order effects. On measurement and labor, standard ROI metrics for AI tools are unreliable, and historical patterns suggest AI will reshape rather than eliminate developer roles — though the Jevons paradox and cascading effects make precise forecasting nearly impossible. The capability landscape is shifting rapidly, with open models closing the gap on frontier closed models from 13-18 months down to 2-7 months, meaning competitive moats are eroding faster than most organizations can strategize around them. A thread running through multiple items is how AI amplifies existing problems at scale: hallucinated citations from reputable firms corrupt the knowledge commons, technical debt in codebases gets reproduced and deepened into &amp;quot;generative debt,&amp;quot; and AI-generated content is degrading web quality while spawning &amp;quot;humanizer&amp;quot; tools to obscure it. Finally, the parallel agents model hits a hard ceiling — the human developer becomes the single orchestrating bottleneck, limiting how much concurrent agent work can actually be leveraged.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Measuring AI Productivity:&lt;/strong&gt; Common metrics for evaluating AI tool ROI—lines of code, tickets closed, developer surveys—are all flawed in different ways. In the absence of reliable measures, qualitative developer sentiment may be a dim but useful signal.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Automation and Job Forecasting:&lt;/strong&gt; Historical precedent shows automation rarely eliminates professions; accountants multiplied despite a century of accounting automation. Forecasting AI&amp;#039;s impact on jobs is nearly impossible due to effects like the Jevons paradox and cascading second-order consequences.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Open vs. Closed Models:&lt;/strong&gt; Closed models lead AI capability benchmarks, but open models are closing the gap faster over time—from 13-18 months to catch up to GPT-4, down to 2-7 months for GPT-4o. Capability moats are eroding quickly, making today&amp;#039;s frontier tomorrow&amp;#039;s baseline.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hallucinated Citations Harm:&lt;/strong&gt; AI-generated reports with fabricated references—like Ernst &amp;amp; Young Canada&amp;#039;s cyber threat report where over half the citations were hallucinations—mislead readers and corrupt the broader knowledge pool on the internet. This is especially damaging when published by reputable firms on high-traffic sites.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Powered Security Defense:&lt;/strong&gt; Mozilla used AI models to dramatically scale security bug detection in Firefox, fixing 423 bugs in April 2026 compared to a monthly average of 17-31 earlier in 2025. The shift came from both more capable models and significantly improved techniques for steering and stacking them.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Generative Debt in Codebases:&lt;/strong&gt; LLMs treat existing code as examples to imitate, meaning technical debt in a codebase gets actively reproduced and amplified rather than flagged. This introduces &amp;#039;generative debt&amp;#039;—confused patterns that models are likely to continue propagating throughout the codebase.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Slop and the Zombie Internet:&lt;/strong&gt; AI-generated content is degrading the web and distorting how humans perceive their own writing, leading to the rise of &amp;#039;humanizer&amp;#039; tools that make AI output look organic. The result is an increasingly hollow internet where bots, agents, and humans interact in ways that are hard to distinguish.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Agent Orchestration Bottleneck:&lt;/strong&gt; Spawning multiple AI agents in parallel mirrors running concurrent processes that all depend on a single orchestrating thread—the human developer. This creates a coordination and cognitive bottleneck that limits how much parallel agent work can actually be leveraged effectively.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-02T17:34Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-02T17:34Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 玩家用The Defect在A10难度成功通关&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了在《Slay the Spire 2》中以The Defect角色在Ascension 10难度下取得胜利的喜悦。本次胜利的关键在于构建了一套连贯的卡组：4张Claw配合3张Feral，并搭配足够的格挡手段，形成了高效的伤害与防御平衡。文章简短地记录了这一里程碑式的成就，附有相关遗物和卡牌的游戏截图作为佐证。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-02T05:39Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-02T05:39Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 语义化HTML是实现网页无障碍的根本基础&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由Declan Chidlow撰写，概述了数字无障碍技术的重要性。文章指出，网站开发者很难通过测试覆盖所有设备和使用场景，尤其是对于每天依赖辅助技术的用户而言。作者强调，将无障碍性作为事后补救措施注定失败，正确的做法是从基础做起——使用符合Web标准的语义化HTML，使浏览器能够理解并适配内容。作者批评当代许多开发者忽视这一基本步骤，并呼吁从源头打好基础，为辅助技术创造发挥作用的条件。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202606/76596&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;公式コミカライズ『戦場のフーガ 鋼鉄のメロディ』第88話 公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 『戦場のフーガ』第88話でコア破壊作戦が開幕&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本記事はファミ通.comに掲載されたマンガ『戦場のフーガ 鋼鉄のメロディ』第88話の紹介記事である。前回、皇帝カイザーが古代兵器ヘルヘイムを呼び起こしたものの、その圧倒的な力によって帝国軍ごと取り込まれてしまった。第88話では総力戦によるコア破壊作戦が展開され、世界の激動の裏で動く「未知の介入」やキャラクター・マルトの動向が描かれる。また、サイバーコネクトツーの松山社長によるゲーム業界志望者向け書籍『ゲーム業界の攻略法』の情報も併せて紹介されている。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ファミ通.comで連載中のマンガ『戦場のフーガ 鋼鉄のメロディ』第88話が2026年6月2日に公開された。前話では皇帝カイザーが古代兵器ヘルヘイムを召喚したが、その力に自軍ともども飲み込まれてしまった。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;今回の話ではコア破壊作戦が始まり、謎の「未知の介入」とマルトの行方が注目される。次回第88.5話は2026年6月16日掲載予定。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーの松山社長がゲーム業界志望者向けの書籍『ゲーム業界の攻略法』を刊行。就職面接の実態や合格者のポートフォリオなども収録されている。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/manage-macos-background-activities-with-app-tamer&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;得力管家还是多此一举？聊聊 macOS 后台进程管理工具 App Tamer&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 App Tamer用三种策略弥补macOS原生调度的不足&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了 macOS 第三方工具 App Tamer 的功能与原理。作者从自身遭遇性能瓶颈的经历出发，说明了 macOS 原生 App Nap 机制在面对浏览器、Electron 应用及多显示器场景时的局限性，进而引出 App Tamer 的三种管控策略：完全停止（SIGSTOP/SIGCONT 信号）、限制在效率核心运行（QoS 优先级调整）和达阈值后限速（交替发送进程信号）。文章技术性较强，深入讲解了 Unix 信号机制与 Apple silicon QoS 调度原理，适合希望精细管控 Mac 性能的进阶用户参考。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;App Tamer 是 St. Clair Software 开发的一款菜单栏工具，可实时监控进程并提供 CPU 占用上限、核心类型指定和后台挂起等功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者此前认为 App Tamer 多此一举，直到设备出现性能瓶颈并发现 3.0 公测版，才开始认真使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;macOS 自 10.9 起引入的 App Nap 机制会在应用不可见时降低其调度优先级，但效果有限。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;App Nap 只对遵循原生规范的应用有效，持有网络连接、定时器等系统资源的应用均可豁免。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;浏览器中的广告动画、社交媒体轮询和 Electron 应用都无法被 App Nap 调节。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;多显示器用户同时显示的窗口更多，导致被系统视为「后台」的应用减少，进一步削弱了 App Nap 的效果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;App Tamer 提供三种管控策略：完全停止、在效率核心上运行、达占用率门槛后限速，可单独或组合使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;完全停止和限速策略通过发送 SIGSTOP 和 SIGCONT 进程信号实现，前者挂起进程，后者通过交替冻结与恢复来控制 CPU 占用率。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在效率核心上运行的策略通过调整线程的 QoS 优先级参数实现，使线程被限制在低性能核心上运行。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple silicon 采用大小核设计，QoS 机制决定线程分配到性能核还是效率核，setpriority(2) 系统调用可将进程限制在小核上运行。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;App Tamer 自带保守预设，作者根据使用习惯总结了额外的配置建议。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110550&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;在视频时代，认真拍一张照片：OPPO Find X9 Ultra 影像漫谈&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 OPPO与哈苏共同坚守静态摄影的光影哲学&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以作者使用OPPO Find X9 Ultra拍摄暮色照片的亲身体验为引子，深入探讨了该手机与哈苏合作背后的影像哲学。文章梳理了哈苏HNCS自然色彩解决方案的核心理念，分析了LUMO凝光引擎、大师模式和胶片预设如何将&amp;#039;光学至上&amp;#039;的主张落地。在更宏观的视角下，作者指出行业普遍转向视频内容之际，OPPO与哈苏选择用HDR深化静态摄影的表达力，认为这条路比单台产品的参数更具长远价值，并呼吁更多厂商共同推动端到端HDR静态摄影生态的发展。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者描述了用OPPO Find X9 Ultra拍摄暮色场景的体验，发现该手机保留了真实的明暗对比，而非像常见手机那样把画面处理得&amp;#039;平&amp;#039;。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OPPO首次将哈苏作为Find X9 Ultra的核心影像身份，叙事重心从&amp;#039;参数强大&amp;#039;转向&amp;#039;光学至上&amp;#039;，回归相机对真实影调的追求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了哈苏的影像哲学——让画面接近人眼对真实场景的感知，以及HNCS色彩还原方案的核心理念。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;X9 Ultra通过第二代丹霞原彩镜头实现精准色彩还原，这是整套影像系统最基础的部分。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;LUMO凝光影像引擎借鉴哈苏&amp;#039;不强行抹平明暗&amp;#039;的判断，愿意让暗部就是暗，赋予光线自然的衰减节奏。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;大师模式在普通拍照基础上更克制地使用计算摄影，胶片预设则通过影像处理管线而非滤镜叠加实现胶片质感。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章探讨了HDR显示设备普及与行业转向视频内容的背景，指出静态摄影有其独特的&amp;#039;凝视&amp;#039;力量不可被替代。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;哈苏选择坚守静态摄影并推出HNCS HDR，将HDR定义为保留真实影调层次而非动态范围的算法压缩。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OPPO早在哈苏发布HNCS HDR之前就走上了同一方向，Find X9 Ultra是这条HDR路线的持续深化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者阐述HDR对静态摄影的意义——让照片在&amp;#039;凝视&amp;#039;状态下保有光影纵深，并呼吁更多厂商推动这一方向。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结了手机与相机品牌联名合作的不同深度，认为OPPO与哈苏的合作属于影像哲学层面的真正汇合。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109850&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从插件到 AI 辅助：Obsidian 如何成为我的主力工具&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI加持下Obsidian成为个人知识管理最佳工具&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者Lars漫步通过亲身深度使用体验，系统阐述了选择Obsidian作为知识管理主力工具的核心理由。文章重点介绍了AI插件Claudian与DeepSeek V4的强强联合所带来的笔记管理质变，包括选中修改、全局搜索、批量整理、语言控制配置等场景。此外，内置浏览器、官方Web-Clipper剪藏插件及Obsidian CLI的推出，进一步完善了知识采集与AI协作的生态。对比Notion，作者认为Obsidian在个人数据主权、费用和自由度上更具优势，是个人知识工作者的理想选择。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了自己在多次深度使用后，最终选择Obsidian作为知识管理主力工具的背景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI插件Claudian的出现让Obsidian发生了质变，支持选中文字直接修改、全局搜索引用、AI管理笔记文件、一句话安装配置插件等高频实用场景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;DeepSeek V4的推出以极低价格提供1M超长上下文能力，使AI可同时处理上千篇笔记，与Claudian结合成为作者坚定使用Obsidian的核心原因。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;内置浏览器功能让用户无需跳出笔记即可浏览任何网页，极大保护了写作心流，并支持Claudian直接识别网页中选中的文字。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;官方Web-Clipper插件可一键剪藏文章和YouTube视频（含字幕），格式完整无乱码，配合Claudian翻译可构建强大的调研知识库。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Obsidian CLI作为AI与笔记库之间的桥梁，使Claudian能快速批量处理笔记操作，如查找孤儿文件、批量打标签等，效率远超逐文件读取。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Obsidian高度自由的页面自定义能力（尤其是Minimal深色主题）兼顾美观与简洁，各插件组合使用可产生协同增效的效果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分析了Notion的优缺点，认为Notion更适合团队协作，而Obsidian在费用、数据主权和个人自主性上更适合个人知识工作者。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以自媒体创作者身份总结，借助Obsidian及其AI插件，原本需要两三天的长文现在一天即可完成，写作体验大幅提升，强烈推荐知识工作者使用。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110592&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：英伟达、华硕等多个厂商在 COMPUTEX 2026 发布新品&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 COMPUTEX 2026多厂商集中发布AI芯片、新显卡及消费电子新品&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为科技媒体少数派发布的科技早报，聚焦COMPUTEX 2026展会上多家厂商集中发布新品的盛况。英伟达推出DLSS 4.5光线重建技术与RTX Spark PC处理器（联合微软发布Surface Laptop Ultra）；华硕带来ProArt系列AI PC和ROG 20周年纪念产品；英特尔公布最高288核Xeon 6+及AI GPU平台Crescent Island；AMD发布新款3D V-Cache处理器与RX 9070 GRE显卡；华为发布nova 16系列手机及全场景新品。此外，AV2编码标准正式发布、MiniMax推出M3开源大模型，文章以快讯形式呈现，信息密度高、覆盖面广。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文为科技早报速览，列出了COMPUTEX 2026期间多个厂商在同一天发布的新品目录，包括英伟达、华硕、英特尔、AMD、华为等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;英伟达发布DLSS 4.5光线重建技术，采用神经渲染取代传统降噪器，计算能力提升35%，将于8月推出，支持所有GeForce RTX GPU，已公布38款支持游戏。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;英伟达在Computex 2026发布RTX Spark PC处理器，由联发科合作的20核Grace CPU与Blackwell RTX GPU组成，AI性能达1petaFLOP，同时微软联合推出Surface Laptop Ultra笔记本。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;华硕发布多款新品，包括搭载RTX Spark处理器的ProArt系列PC、多款新显示器，以及ROG XBOX Ally X20掌机和ROG Edition 20系列20周年纪念产品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;英特尔公布Xeon 6+服务器处理器，最高288核，采用18A制程，同时预告2027年Diamond Rapids处理器，并发布面向AI数据中心的GPU平台Crescent Island。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AMD发布Ryzen 7 7700X3D与Ryzen 7 5800X3D十周年纪念版处理器，推出EXPO ULL超低延迟内存技术，宣布AM5平台延续至2029年，并发布定价549美元的RX 9070 GRE显卡。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;华为发布nova 16系列四款手机，均搭载麒麟处理器，以及MatePad Pro Max平板、FreeClip 2耳机、路由器和智能手表等全场景新品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;开放媒体联盟正式发布AV2视频编码标准v1.0，压缩效率较AV1提升约28-32%，但目前参考软件编码速度仅约1帧每秒，距实际应用尚有距离。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;MiniMax发布M3模型，具备前沿编程能力、1M超长上下文和原生多模态支持，是国内首个同时具备这三项能力的开源模型，编程评测超越GPT-5.5。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;森海塞尔MOMENTUM 5头戴耳机开售，售价3299元，支持aptX Lossless无损蓝牙传输，配备8个麦克风，主动降噪状态下续航长达57小时。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;科大讯飞发布Fika手机造型墨水屏阅读器，定价2399元，配备6.13英寸300PPI屏幕，重量140g，搭载联发科8核芯片。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;拓竹科技发布A2L 3D打印机，打印体积较A1提升105%，支持刀切与画笔模组切换，静音模式音量低至49dB，定价2549元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;戴尔发布新款XPS 13笔记本，对标MacBook Neo，起售价699美元，重1kg，厚12.7mm，采用Intel Core 5 320处理器，6月开售。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯汇总包括豆包计划开启付费订阅、疑似iPhone Ultra机模曝光、《神鬼寓言》延期至2027年、掌阅与WIKO发布AI玩具，以及谷歌Pixel Watch 5在海底被捡到的趣闻。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
