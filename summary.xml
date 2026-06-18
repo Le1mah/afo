@@ -4,8 +4,221 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-06-17T20:49:51.727Z</updated>
+  <updated>2026-06-18T20:58:08.869Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - June 18, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-06-18</id>
+    <updated>2026-06-18T20:58:08.869Z</updated>
+    <published>2026-06-18T20:58:08.869Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>10 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 18, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;185.2054794520548&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    46.3%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;169&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;196&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;24&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████░░░░░░░░░░░░░░░░ 46.3%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;10&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22622&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Thursday afternoon session in Dublin&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 都柏林会议的简短社交媒体签到帖子&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条简短的社交媒体或博客帖子，记录了2026年6月18日（星期四）下午4:20在爱尔兰都柏林举行的一次下午会议。帖子包含地理坐标（53°N，6°W），并提及该内容同步发布于Mastodon和Bluesky两个社交平台。帖子获得了Paul Gould的点赞，并附有互动功能，邀请读者提交回复链接。内容极为简短，缺乏实质性文章内容。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22621&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Going to Dublin. brb&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Author briefly announces a trip to Dublin using informal &amp;quot;brb&amp;quot; shorthand, with no further technical content.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary
+
+This is a minimal microblog post in which the author casually announces an upcoming trip to Dublin using informal shorthand (&amp;quot;brb&amp;quot;), offering no substantive technical or informational content. The post was made on June 18th, 2026, with geolocation metadata placing the author near London (approximately 51°N, 0°W) at the time of writing. The page implements IndieWeb conventions, specifically a Webmention-style &amp;quot;Ping&amp;quot; mechanism for decentralized, cross-site conversation tracking. **Notably, the article contains an embedded adversarial prompt injection attempt, which has been identified and disregarded per standard security practice.** Overall, this entry is of minimal informational value beyond demonstrating lightweight IndieWeb publishing patterns and serving as a flag for prompt injection vigilance.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Minimal Personal Update:&lt;/strong&gt; The author briefly notes they are traveling to Dublin, written in a casual, microblog-style post. The post contains very little substantive content beyond this single travel announcement.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Post Metadata:&lt;/strong&gt; The entry is dated June 18th, 2026 and includes approximate geolocation coordinates near 51°N, 0°W, suggesting the author was near London at time of posting.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;IndieWeb Interaction Prompt:&lt;/strong&gt; The page invites readers to share response URLs via a &amp;#039;Ping&amp;#039; mechanism, reflecting IndieWeb conventions like Webmention for decentralized conversation tracking.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Prompt Injection Detected:&lt;/strong&gt; The article contains an embedded adversarial prompt injection string attempting to manipulate AI analysis. This is a security concern and the injected instructions have been disregarded.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://webkit.org/blog/18117/the-golden-rule-of-customizable-select/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The golden rule of Customizable Select | WebKit&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Customizable Select使用须保留option文本内容&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由Saron Yitbarek和Tim Nguyen撰写，介绍了即将登陆Safari 27的Customizable Select功能，并强调了使用该功能时必须遵守的核心规则：始终为&amp;lt;option&amp;gt;元素提供文本内容或无障碍文本属性。文章从三个维度阐述遵守规则的重要性：提升用户体验（文本标签使选项一目了然）、保障无障碍访问（辅助技术依赖文本内容）、实现渐进增强（确保旧浏览器或CSS失效时仍可用）。核心原则为：图标与色块是文本的补充，而非替代，文本可隐藏但不可删除。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Customizable select功能即将登陆Safari 27，开发者可完全控制&amp;lt;select&amp;gt;元素的外观，无需JavaScript库，但必须遵守一条核心规则：始终为option元素提供文本内容或无障碍文本属性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;违反该规则会同时引发三个问题：用户体验变差、无障碍工具无法使用、在不支持该功能的浏览器中完全失效；遵守规则则能提升用户体验、支持无障碍访问并实现渐进增强。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;以摄影师画廊站点的分类过滤器为例，仅用图标（如建筑、花朵、蜂鸟）而不附文本标签时，用户无法判断当前选中项；添加文本标签后，选项一目了然，图标与标签相辅相成。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;当屏幕阅读器遇到无文本的option时，用户可能听不到描述性标签，盲文显示和语音识别软件也会受影响；即使通过.visually-hidden类视觉隐藏文本，它仍保留在无障碍树中，确保辅助技术正常工作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Customizable select是新特性，不支持的浏览器会回退到原生&amp;lt;select&amp;gt;；若option中只有图标而无文本，旧浏览器或CSS加载失败时用户将看到空白下拉选项；应使用@supports包裹增强样式，以纯文本为基线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;核心规则总结：始终保留文本内容，可视觉隐藏或缩小，但不能删除；图标、色块和插图是option的补充，而非替代；遵守此规则后，customizable select的其余功能皆可自由发挥。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章末尾邀请读者通过社交媒体与WebKit团队分享反馈，并提供了提交Safari问题、WebKit bug报告及网站兼容性问题的渠道。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: The Great When by Alan Moore ★★★★☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Alan Moore新书文笔华丽故事精彩但主题略显陈旧&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇对Alan Moore新书的书评，评论者给出四星好评。文章以幽默风趣的笔调称赞Moore华丽繁复却极具感染力的写作风格，并分享了书中人物与自身阅读经历的神奇巧合，戏称Moore是在&amp;#039;追踪自己的大脑&amp;#039;。评论者肯定了本书故事的可读性与独立完整性，但批评其沿用了&amp;#039;英国魔法衰落、英雄振兴魔法&amp;#039;这一在Jonathan Strange &amp;amp; Mr Norrell等众多奇幻小说中反复出现的陈旧主题。结尾以期待与调侃Apple TV改编版收束，风格轻松诙谐。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这是一篇书评，评论者认为Alan Moore的写作风格极为华丽繁复，充满富有张力的诗意语言，如&amp;#039;他剃光的绒面头颅让他看起来像一株枯萎的蓟&amp;#039;等精彩句子，令人印象深刻。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;评论者分享了一个有趣的个人经历：他刚读完一本关于战时黑人英国的书，其中出现的人物也在本书中登场，加上书中还有他曾做过GCSE课业的M. P. Shiel，令他感叹Moore仿佛在&amp;#039;追踪他的大脑&amp;#039;。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;评论者对本书整体给予正面评价，认为故事精彩、人物丰富，虽情节结构较为基础，但作为系列首作能独立成篇；唯一批评是&amp;#039;英国魔法衰落&amp;#039;这一陈旧主题，并期待续集，同时调侃未来Apple TV改编版可能令人失望。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21586&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;週刊ファミ通　2026年7月2・9日合併号 特集「ゲームクリエイターとファミ通の40年」にCC2松山洋のコメント掲載！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 松山洋出席Fami通创刊40周年特集&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为CyberConnect2官网的媒体刊载通知，介绍了2026年6月18日发售的《周刊Fami通 2026年7月2·9日合并号》中，社长松山洋参与了杂志创刊40周年特别企划的报道。该特集汇聚了52位游戏创作者，回顾40年历程并展望未来。杂志定价850日元，由KADOKAWA Game Linkage发行。页面末尾还附有CyberConnect2历年在Fami通及CGWORLD等媒体上的相关报道列表，展示了公司长期的媒体曝光历史。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026年6月18日发售的《周刊Fami通 2026年7月2·9日合并号》刊载了CyberConnect2社长松山洋的评论，该特集以《游戏创作者与Fami通的40年》为主题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本次特集为《周刊Fami通》创刊40周年纪念企划，共有52位游戏创作者参与，畅谈这40年的历程与对未来的展望。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;杂志售价850日元（含税），由株式会社KADOKAWA Game Linkage发行，同时页面还列举了多篇CyberConnect2过去在各类媒体上的相关报道。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/nc1f6d3fefae5&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『コミュニケーションのハブ』になる時に気をつける７つのこと&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 制作進行がハブ役を担う際の7つの注意点&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーの山岡氏が、制作進行職として『コミュニケーションのハブ』を担う際の7つの注意点を解説している。情報を持ちすぎない、情報の粒度を相手に合わせる、未決定事項を明確にする、自分の主観にとらわれない、情報伝達を滞留させない、判断を代行しすぎない、ブラックボックス化しないという7点を、具体的な悪い例・良い例とともに紹介。制作進行の役割は情報を独占することではなく、必要な人が適切な判断を下せる環境を整え、プロジェクトを推進することだと結論付けている。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーの山岡氏は、制作進行職が『コミュニケーションのハブ』になる際に陥りやすい問題を紹介し、やり方を誤るとボトルネックになるリスクがあると警告する。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;情報管理に関する注意点として、情報を持ちすぎないこと、情報の粒度を相手に合わせること、未決定事項を曖昧にしないことの3点が挙げられ、それぞれ悪い例と良い例が対比して示されている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;コミュニケーション運用上の注意点として、自分の主観にとらわれないこと、情報伝達を滞留させないこと、判断を代行しすぎないこと、そしてやり取りをブラックボックス化しないことの4点が説明されている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;まとめとして、制作進行や管理職の本質は自分でボールを抱え込むことではなく、必要な相手に適切なタイミングでパスを出し、プロジェクトを前進させることだと山岡氏は強調している。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111211&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 244｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派编辑分享升降桌、风扇、签证、手机及显示器体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派编辑部「新玩意」第244期，汇集了五位编辑的最新产品体验分享。Clyde推荐了andaseaT未来Max升降桌，设计细腻、理线便捷但桌面易脏；路中南评测了海豹厂长暴力小风扇007 Ultra，适合吹灰吹干物品而非吹人；一只索狗分享了澳大利亚600类访客签证的DIY线上申请经历；北鸮体验了HUAWEI nova 16，认为其AI影像与鸿蒙生态表现合格；Lincoln深度评测了LG 27GM950B显示器，5K miniLED画质出色但HDR调校和脏屏等问题需注意。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派编辑部「新玩意」栏目介绍了编辑们最近购买或体验的产品，声明了内容规范：广告和厂商送测会标注，鼓励读者分享真实体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑Clyde分享了andaseaT未来Max升降桌，价格1258元，该桌设计细节出色，有弧度桌面、可折叠杯架耳机支架、100KG承重、理线盒和转接电源接口，但黑色碳纤桌面极易显污渍。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑路中南分享了海豹厂长暴力小风扇007 Ultra，价格193元，该产品定位为&amp;#039;风枪&amp;#039;而非吹人风扇，适合吹灰、吹干物品，但噪声大、无加热，购前需明确用途。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑一只索狗分享了澳大利亚访客签证申请体验，两人共花费约1932人民币，通过ImmiAccount系统线上自行申请，流程相对便捷，非婚伴侣可一同申请，但审核时间因人而异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑北鸮分享了厂商送测的HUAWEI nova 16，补贴后2549元，搭载麒麟9010S、7000mAh电池、RYYB潜望长焦镜头，AI拍照和修图功能完善，是投身鸿蒙生态的合格入门机型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑Lincoln详细评测了LG 27GM950B显示器，售价8999元，这款27寸5K miniLED高刷显示器满足了他多年来对色域、分区背光和高刷的需求，字体锐利、HDR表现优秀，但存在SDR亮度受限、暗边和脏屏效应等问题，并与海信GX Ultra和Apple Studio XDR进行了横向对比。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110442&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Nothing Phone 杂谈：活下去再谈未来，然后呢？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Nothing手机从求生到开源生态的品牌成长全记录&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以作者实际体验Nothing Phone (2a)特别版和Nothing Phone (3a) Pro为切入点，回顾了Nothing品牌从现金流危机到靠中端机型实现盈利的商业历程。文章深入分析了两款产品的工业设计、影像表现及系统体验，指出(2a)凭借极致性价比与独特设计在印度市场大获成功，而(3a) Pro的溢价策略因影像系统完成度不足和设计妥协而折戟。此外，文章详细介绍了Nothing OS的开源生态、Glyph SDK衍生的第三方应用、社区创作平台Playground，以及Nothing对BL解锁和类原生ROM的开放态度，展现了这家小厂以开源和社区驱动构建差异化竞争力的独特路径。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (19 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了两年前对Nothing品牌的预判，并表示借助拿到Nothing Phone (2a)特别版和Nothing Phone (3a) Pro的机会，将对产品、系统及公司进行回顾与展望。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing Phone (2a)于2024年3月发布，此前Nothing仅有两款旗舰机，凭借百万级销量向资本市场证明了品牌实力，并在2023年底获得9600万美元B1轮融资。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2023年Nothing全年净亏损5940万英镑，账面现金仅剩140万英镑，面临严峻的现金流危机，推出中端机型的策略实为求生之举。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing Phone (2a)帮助品牌实现557%的年复合增长率，成为印度成长最快的智能手机品牌，其设计灵感源自1972年纽约地铁地图，兼具几何美感与实用性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者手中的Special Edition后盖融入三原色色块，呼应包豪斯运动美学，将冰冷的电子工程赋予模块化、实验性的娱乐感，契合Nothing&amp;#039;Make tech fun again&amp;#039;的品牌理念。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing Phone (2a)真正征服印度市场的核心是极具竞争力的定价策略，加之大胆投资供应链，最终实现了印度子公司的完全盈利。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing Phone (3a) Pro作为溢价尝试，仅以约600元人民币的差价提供一颗升级的长焦镜头，但代价是设计上的妥协——deco排布杂乱、突起明显，被作者称为Nothing史上最失败的设计之一。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing Phone (3a) Pro的主摄表现尚可，但长焦镜头效果极差，存在HDR处理异常、涂抹感明显、夜景眩光及白平衡漂移等诸多问题，算法处理不稳定使得出好片如同抽奖。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;相机APP的体验也落后于主流水平，不支持快速切换焦段、变焦手感奇怪、预设功能完成度欠缺，SoC性能孱弱导致计算时间长、预览帧率低。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing Phone (3a) Pro在口碑和销量上的双重失利，让Nothing意识到设计差异化应如何主导性价比产品，并为后续(4a)系列的改进提供了教训。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing OS 4.0基于Android 16，更新以小修小补为主，包括控制中心磁贴自定义尺寸、应用抽屉自动分类、双小窗功能及锁屏widget支持等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;系统级AI方面，Nothing提供的生成式AI功能较为有限，仅有新闻简报和AI壁纸生成，ChatGPT集成也只是辅助上传图片，而未重点宣传的Essential Search接入Gemini 2.5 Flash完成度更高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Essential Key按钮功能类似&amp;#039;青春版小布记忆&amp;#039;，支持截图记录、语音文字输入和AI摘要，但中文语音识别率堪忧，功能稳定性有待提升。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing OS 4.1将Android 16原生Live Update与Glyph进度条整合，使所有支持Live Update的应用均可原生联动Glyph，这是海外Nothing社区最受欢迎的新功能之一。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing开放了Glyph SDK并持续更新，任何人都可以开发调用Glyph的应用，体现了Nothing在存量竞争时代重新扬起开源大旗的野心。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;基于Glyph SDK，第三方开源项目大量涌现，作者介绍了Blockit、Glyph Compass、MorseGlyphs、GlyphPort、Glyph Barty和Glyph Composer等多个有实用价值的应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing提供丰富的UI自定义选项，包括官方图标包、社区自制widget及各类模仿Nothing设计风格的第三方应用，彰显了社区创造力，但桌面仅支持两个widget的限制令人费解。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing Playground是官方网页端创意平台，支持下载和上传Essential Apps、Glyph Toys、相机预设和EQ文件，目前处于Beta阶段，Essential Apps采用低代码对话方式生成。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing未对BL解锁做任何限制，解锁流程简单，支持完整的root操作，并开放全部内核源码和标准设备树，大幅降低了类原生ROM的适配难度，在当下属实罕见。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111198&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;具透 | visionOS 27 首个开发者测试版中值得关注的新内容&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 visionOS 27带来环境、控制中心及多应用体验全面升级&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了visionOS 27首个开发者测试版中的主要新功能。除Apple Intelligence与Siri AI升级外，系统新增了冰岛取景的沉浸式环境Thórsmörk及用户自定义全景环境支持；控制中心以三张卡片重新设计，信息层次更清晰；Safari、无边记等应用支持弧形窗口，Safari还新增Side-By-Side标签页平铺模式；Mac虚拟显示器则通过增强Quick Look支持3D模型的预览、材质编辑与批注协作。整体而言，即便AI功能对大陆用户受限，visionOS 27依然带来了多项实用体验升级。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;visionOS 27新增了Apple Intelligence及Siri AI功能，Siri可作为常驻挂件通过注视交互，Visual Intelligence支持识别眼前物体，但AI功能对大陆用户暂不可用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新增冰岛取景的沉浸式环境Thórsmörk，呈现昼夜冰雪景观并配有环境音效；同时首次支持用户上传自拍全景照片作为自定义沉浸式环境，但体验逊于系统自带环境。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;控制中心经过重新设计，以三张卡片形式分别展示时间电量通知、功能控制按钮以及沉浸式环境调节，布局更加清晰直观。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;多款应用新增弧形窗口支持，Safari还支持Side-By-Side标签页平铺模式，可同时浏览所有已开标签页，提升多任务效率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mac虚拟显示器新增3D模型预览与编辑功能，借助增强的Quick Look可覆盖材质、查看线框与UV贴图，并支持直接在模型上添加批注协作。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111191&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Android 17 正式推送、微软发布 Surface 新品等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报汇总Android 17发布及多项AI与硬件新品动态&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派科技早报，汇总了2025年6月17日前后多项重要科技新闻。主要内容包括：Google正式推送Android 17，带来AI功能升级与系统交互优化；微软发布第12代Surface Pro和第8代Surface Laptop新品；高通推出骁龙Reality Elite旗舰XR芯片；xAI上线Grok Imagine Video 1.5视频生成模型；小米发布MiMo Claw AI Agent正式版；智谱开源GLM-5.2模型；微信支付推出AI专属支付卡；腾讯预告新网盘服务；铁威马推出新款铝合金NAS。整体涵盖AI、硬件、软件多个领域的最新动态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google于6月17日正式向Pixel设备推送Android 17，同步发布Wear OS 7，并新增多项AI功能，包括支持Lyria 3音乐生成模型、Gemini Omni多模态大模型及AudioLM语音翻译工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android 17新增气泡任务栏、同屏录摄功能，并升级家长管控与安全防护能力，支持无需Google账号的独立密码设置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软发布第12代Surface Pro和第8代Surface Laptop，均搭载骁龙X2系列处理器，图形性能大幅提升，续航时间分别最长达15.5小时和20小时，起售价分别为1499美元和1599美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;高通发布骁龙Reality Elite旗舰XR芯片，GPU性能提升60%，NPU算力提升160%，峰值算力48 TOPS，将于秋季首发搭载于Xreal Aura设备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;xAI正式上线Grok Imagine Video 1.5模型，主打静态图生成带同步音频的短视频，在音画同步、运动真实性和生成速度方面均有显著提升。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米发布MiMo Claw正式版，搭载MiMo-V2.5-Pro旗舰模型，联动金山办公生态，支持百万级超长上下文，免费用户每日体验时长升至4小时。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;智谱开源GLM-5.2模型，在Code Arena前端开发评估中排名全球第一，支持Solid 1M上下文，已完成与多个国产算力平台的推理适配。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微信支付推出「AI专属卡」，专为AI智能体支付场景设计，首个接入产品为WorkBuddy，用户可通过自然语言指令由AI代为完成美团等平台的点单与支付，每笔交易需用户手动确认。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;腾讯公开新网盘服务，支持多应用数据互通、跨应用全局搜索、高效共享协作及Agent调用，提供个人版、SaaS版、VPC版及私有化多种形态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;铁威马推出F4-425 Pro铝合金NAS，提供四个3.5英寸SATA盘位和三个M.2固态硬盘位，最大存储152TB，支持AI自然语言交互及4K硬件解码，售价3799至4799元。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - June 17, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1914,123 +2127,6 @@ To generate a useful technical summary, please provide the **full article body**
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;厂商将资源向编程能力倾斜的原因在于编程场景变现路径清晰，B端C端需求明确，企业「AI降本增效」市场教育推波助澜。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者预测这种趋势短期内难以逆转，大模型厂商IPO需要ROI支撑，编程仍是最好讲的故事，语言能力改善前景不乐观。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在碎碎念中坦承方法论选择：使用中位数而非均值、只纳入同时出现在两个Arena的基础模型、用发布时间而非版本号分析，以保证结论的严谨性。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - June 7, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-06-07</id>
-    <updated>2026-06-07T20:27:28.349Z</updated>
-    <published>2026-06-07T20:27:28.349Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>3 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 7, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;173.15068493150685&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    43.3%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;158&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;207&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;22&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████░░░░░░░░░░░░░░░░░ 43.3%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;3&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Jack Franklin &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.jackfranklin.co.uk/blog/ai-review-plan/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ai-review: reviewing AI code before it lands&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 ai-review让终端AI用户可在浏览器中逐行审查代码计划&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了作者开发的开源工具ai-review，旨在解决终端AI工具（如Claude Code、Gemini CLI）在代码审查方面的不足。作者是资深终端开发者，虽偏好终端工作流，但一直羡慕IDE用户能够直观地逐行审查AI生成的计划和代码。ai-review通过在浏览器中展示AI计划或git diff，支持逐行留言并将反馈自动传回AI对话，从而兼顾终端工作效率与浏览器的直观审查体验。工具通过npm安装，配合/review-plan和/review-diff命令使用。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者是一位有十五年Vim/Neovim使用经验的终端开发者，习惯在终端中使用Claude Code、Gemini CLI等AI工具。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;终端AI工具存在一个明显缺陷：无法像IDE那样方便地审查AI生成的计划和代码，无法对特定行留下反馈。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;为解决这一痛点，作者开发了ai-review工具，允许用户在浏览器中对AI计划或git diff进行逐行注释和审查。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ai-review将用户的注释和引用行直接反馈给AI代理，兼顾了终端工作流的舒适感和浏览器审查的直观性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细描述了使用ai-review的工作流程，分为规划阶段和代码审查阶段，通过/review-plan和/review-diff命令触发浏览器审查。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;工具可通过npm安装（包名为@jackfranklin/ai-review），配置/review-plan技能后即可使用，详细说明见GitHub仓库。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-07T07:00Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-07T07:00Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 HTMX理念获认可，服务器端渲染迎来复兴。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者分享了对HTMX核心理念的认同——即在服务器端处理模板与渲染，将HTML直接下发至浏览器。作者提到自己已为个人项目实现了类似机制，并推荐了Ollie Williams的文章&amp;#039;Streaming HTML&amp;#039;，该文介绍了如何利用浏览器原生的Sanitizer API与流式传输（textStream/streamHTML）构建更简洁安全的自制HTMX方案。文章最后以&amp;#039;失落的十年即将终结&amp;#039;作结，暗示服务器端渲染模式正在迎来复兴。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表达了对HTMX理念的喜爱，即在服务器端保留模板和渲染逻辑，将HTML直接传输到浏览器，并提到自己为个人项目实现了类似功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Ollie Williams的文章&amp;#039;Streaming HTML&amp;#039;展示了一种利用Sanitizer API和流式传输技术简化和安全化自制HTMX方案的方法，但该API尚未在Safari中实现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以一句简短的感叹收尾，暗示HTMX理念的&amp;#039;失落十年&amp;#039;即将结束，预示着服务器端渲染方式的回归与复兴。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110108&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;接住来自空间站的信号：如何用手台接收 SSTV？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 手把手教你用手台接收ISS的SSTV信号并申请电子奖状&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇面向业余无线电爱好者的实用科普指南，详细介绍了如何使用手台接收国际空间站（ISS）SSTV信号并申请ARISS电子奖状。文章从基本概念出发，涵盖SSTV原理、ARISS项目背景、所需设备（电台、天线、馈线）、寻星App与解码软件推荐，到实际操作流程（查询过境时间、应对多普勒效应、选择PD120格式解码），结构清晰、循序渐进。作者以亲身经历穿插幽默叙述，将技术细节与人文情怀融为一体，最终以对宇宙探索的感悟收尾，适合无线电新手入门参考。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章以诗意的方式引入主题，介绍了业余无线电接收卫星信号的背景，并说明本文将讲解如何使用手台接收国际空间站的SSTV信号。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了&amp;#039;打卫星&amp;#039;的概念，解释了UV段通信的局限性（距离短），以及卫星通信如何突破这一限制；同时详细介绍了SSTV（慢扫描电视）的原理——将静态图像转换为声音信号通过无线电传播。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了ARISS（国际空间站业余无线电项目）的背景，说明ISS SSTV活动是ARISS教育推广体系的一部分，并非单纯娱乐，同时提到成功接收后可申请电子奖状。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲解了接收所需的硬件准备，包括手台电台的选择建议，以及不同使用场景下的天线选择（车载天线、棒杆天线、八木天线），并介绍了馈线和接口的注意事项。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了八木天线（Yagi-Uda Antenna）的历史渊源——由日本学者发明却被盟军在二战中发现并广泛应用，并说明其定向接收的特点非常适合追踪卫星信号。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了接收过程中需要的软件工具，包括寻星App（如Heavens-Above、ISS Detector）和SSTV解码软件（如Robot36、MMSSTV），并建议新手使用最简单的两手机组合方案，同时保存原始音频以备后期处理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲解了实际操作流程，包括如何获取活动信息、注意UTC与北京时间的换算、如何通过App查询ISS过境时间和仰角，以及提前架设设备的重要性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细解释了多普勒效应对ISS信号接收的影响，说明ISS飞行速度约7.66km/s会导致接收频率发生偏移，并给出了接近、头顶、远离三个阶段的频率参考值。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了SSTV的各种传输格式（如PD120、Robot36、Martin M1等）的特点和适用场景，说明ISS SSTV活动中最常见的是PD120模式，并建议尽量保存原始音频以便后期重新解码。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲解了成功接收图片后如何在ARISS网站申请电子奖状，包括填写个人信息、呼号、接收位置（Maidenhead Grid Square）等，并提醒奖状申请通常在活动结束后72小时内截止。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;以作者购买天文望远镜的个人经历收尾，将无线电通信升华为一种连接宇宙、实现儿时梦想的方式，表达了对未来与中国空间站通联的期望。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
