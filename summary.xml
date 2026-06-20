@@ -4,8 +4,100 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-06-19T20:35:39.950Z</updated>
+  <updated>2026-06-20T20:33:22.184Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - June 20, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-06-20</id>
+    <updated>2026-06-20T20:33:22.184Z</updated>
+    <published>2026-06-20T20:33:22.184Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>2 articles from 2 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 20, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;187.39726027397262&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    46.8%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;171&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;194&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;24&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████░░░░░░░░░░░░░░░░ 46.8%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;2&lt;/strong&gt; articles from &lt;strong&gt;2&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Which Copyleft Licence is Suitable for an SVG?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 SVG兼具代码与图像属性，许可证选择存在争议&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深入探讨SVG文件的许可证选择困境。SVG以XML编写，通过数学运算生成可无限缩放的清晰图像，兼具代码与媒体的双重属性。作者逐一分析了Creative Commons（CC不推荐用于软件）、GPL（可用于任何作品但需明确源代码）和Free Art License（与GPL不兼容）等许可证的适用性，并讨论了SVG作为库或嵌入栅格图像时的特殊情况。最终，作者认为SVG本质上是软件，建议使用Copyleft源代码许可证，而非Creative Commons。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;SVG（可缩放矢量图形）格式使用XML编写，通过数学运算定义图像，能在任意尺寸下保持清晰，与传统栅格图像不同。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章探讨为SVG选择Copyleft许可证的困境：Creative Commons适用于创意作品，但CC自身建议不将其用于软件，而SVG本质上是生成图像的代码。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;若将SVG视为媒体而非软件，GPL许可证在理论上可适用，因为GPL允许用于任何类型的作品，但关键在于明确什么是&amp;#039;源代码&amp;#039;。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;SVG在软件与媒体之间模糊地带徘徊——它可能有简化前的复杂源版本，也可能有优化输出版本，这使GPL的适用性变得复杂。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;FSF推荐的Free Art License适用于艺术作品，但与GNU GPL不兼容，进一步加剧了SVG许可证选择的困境。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章质疑SVG是否算作软件：它是纯文本、含定义和指令、可包含脚本，但用户体验上是图形；并以GIF为类比，提出&amp;#039;多少代码才算软件&amp;#039;的哲学问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;从LGPL和MPL角度，SVG可被视为库被嵌入非自由软件，但这种解读较为牵强。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;SVG可嵌入栅格图像，嵌入的图像可使用CC BY-SA许可，且CC BY-SA与GPLv3兼容；但若对图像应用程序化变换，许可证属性又变得模糊。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过Mastodon进行了一次非正式公众调查以收集意见。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者个人认为SVG属于软件：即使最简单的SVG也以被计算机执行的方式分发，仍保留源代码的本质，建议使用Copyleft源代码许可证而非Creative Commons。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-20T14:00Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-20T14:00Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 玩家凭借RNG在新版本中达成Ascension 10胜利&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了重返《Slay the Spire 2》的游戏体验。新补丁更新将最终Boss Doormaker替换为Aeonglass，作者认为其机制较为无聊。尽管如此，作者凭借Lord&amp;#039;s Parasol这件遗物，将一套较弱的Necrobinder牌组逆转为Ascension 10难度的胜利，并感叹RNG的神奇。文章还列出了作者目前的Ascension 10通关记录，包括The Silent、The Defect、The Necrobinder，以及正在进行中的The Ironclad和The Regent。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - June 19, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1938,160 +2030,6 @@ A brief social post was published on June 10th, 2026, documenting a Wednesday se
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了border-shape的语法，其与clip-path相同，支持inset()、circle()、ellipse()、polygon()、shape()和path()等函数，实用重点在polygon()和shape()两个函数上。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;说明border-shape目前仅Chrome 147+支持，不支持的浏览器可用clip-path加drop-shadow()滤镜近似模拟，并附有标签式导航条的codepen演示案例。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在&amp;#039;碎碎念&amp;#039;部分分享了对AI辅助开发的反思：全AI生成的复杂项目在后期维护成本惊人，开发者难以理解代码细节，强调技术积累、预研和掌控整体实现脉络的重要性。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - June 9, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-06-09</id>
-    <updated>2026-06-09T20:47:03.987Z</updated>
-    <published>2026-06-09T20:47:03.987Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>8 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 9, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;175.34246575342465&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    43.8%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;160&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;205&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;22&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████░░░░░░░░░░░░░░░░░ 43.8%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;8&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22598&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Going to Amsterdam. brb&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者宣布即将前往阿姆斯特丹&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章是一条简短的个人动态，作者于2026年6月9日下午1:55发布，内容仅为宣布即将前往阿姆斯特丹，并附有地理坐标（51°N，0°W）。文章同步发布于Mastodon和Bluesky两个社交平台。内容极为简洁，属于典型的个人微博式更新，无深度分析或详细信息。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/full-circle/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;full circle.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 信息鸿沟让父母的认知停在六年前，作者渴望被理解与认可。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者在苹果WWDC发布会结束后写下的一篇私人日记。作者讲述了与母亲通话的经历：一方面分享了在苹果完成SwiftUI着色器talk的成就，另一方面回顾了因Cannonball自驾计划与父母的争执。文章的核心在于一种深刻的信息断层——百度AI对作者的认知停留在2020年，而父母也因此无法真正了解儿子六年来的成长与蜕变。作者以平静而略带感伤的笔触，描绘了数字时代跨越中美两个信息世界所产生的隔阂，以及子女渴望被父母理解与认可的普遍情感。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者参加完苹果WWDC发布会后与国内开发者朋友聚餐，回家后决定给父母打电话，告知自己完成了第二个苹果开发者视频，此前因坚持参加Cannonball公路赛一事与父母发生争吵，已有一段时间未联系。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;母亲因苹果开发者网站被墙无法查看链接，作者便发送了哔哩哔哩上的官方视频，让母亲了解自己近几个月熬夜加班的成果，气氛因此有所缓和。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;话题转回Cannonball争论，母亲表示只是担心并非反对，作者表达了对父母频繁干涉个人决定的困惑，认为自己快三十岁仍被拦着做计划有些离谱，最终双方基本和解，母亲希望作者继续分享位置与状态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;母亲搜索作者名字时，百度AI返回的信息仍停留在2020年——作者获得苹果奖学金被采访时的资料，显示其为即将赴美留学的独立开发者，完全没有此后在苹果就职的记录。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者反思自己虽坚持用中文写博客和发社交媒体，但因博客无SEO权重、推特不被百度收录，中文互联网世界对其六年来的成长一无所知，父母眼中的他依然是那个对汽车毫无兴趣的二十三岁少年，而非如今门口停着跑车与皮卡、独自往返旧金山和洛杉矶的近三十岁的人，作者以软件开发隐喻的演变收尾，深情表达希望父母为自己骄傲。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Day We Met &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/818957547731091456&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 4, Page 47&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 漫画第4章第47页获大量用户点赞转发&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这段内容并非一篇正式文章，而是来自社交平台（疑似Tumblr）的互动记录，显示了大量用户对某漫画作品《The Day We Met》第4章第47页的点赞、转发和评论行为。内容主要由用户名列表构成，包含少量互动评论，如用户featheredcyclops的简短留言。整体上，这是一段社交媒体的engagement数据，反映了该漫画页面受到较多读者关注与喜爱。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-09T06:51Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-09T06:51Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI部署威胁劳工，受益者并非工人&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者Henry Desroches指出，AI和大型语言模型（LLMs）的大规模部署对劳动者构成存在性威胁，无论这些技术对采用它们的行业是否真正有效。作者认为，工人们不应再纠结于AI是否有效这一问题，而应将关注点转向：AI部署的最终受益者究竟是谁。文章言简意赅，直接点明答案——受益者并非普通劳动者。作者以犀利简洁的风格传达了一个核心警示：技术有效与否并不重要，权力与利益的归属才是关键。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-09T05:48Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-09T05:48Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Deno has lost its innovative edge, shifting from pioneering JavaScript runtime features to chasing trends and pivoting toward undifferentiated AI infrastructure.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary
-
-Deno, once a trailblazer in the JavaScript/TypeScript runtime ecosystem through innovations like web standards adoption, a permission model, URL imports, and JSR, has reportedly lost its pioneering edge and shifted into a reactive posture — following ecosystem trends rather than setting them. Drawing on Hong Minhee&amp;#039;s retrospective, the author argues that Deno should refocus on its core strengths rather than chasing broader ecosystem compatibility. Critics, including the article&amp;#039;s author, view JSR (Deno&amp;#039;s package registry) as a strategic misstep that reflects this loss of direction. A central tension is identified between Deno&amp;#039;s original technical vision and the financial pressures of VC funding, which appear to have compromised its founding principles. Most tellingly, the company&amp;#039;s remaining runway is reportedly being directed toward AI token infrastructure — a move the author dismisses as an undifferentiated, unremarkable &amp;quot;we have AI too&amp;quot; pivot in an already saturated 2026 landscape.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Deno&amp;#039;s Early Innovation:&lt;/strong&gt; Deno initially set industry trends by pioneering web standards, a permission model, URL imports, and JSR, driving the broader ecosystem forward.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Strategic Direction Reversal:&lt;/strong&gt; Deno has shifted from leading innovation to playing catch-up, now reacting to ecosystem trends rather than defining them.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Community Criticism:&lt;/strong&gt; Hong Minhee&amp;#039;s retrospective argues Deno should focus on its core strengths, a sentiment the author echoes while also criticizing JSR as a misstep.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Financial Pressures:&lt;/strong&gt; Deno&amp;#039;s unique identity and vision appear incompatible with its financial realities, suggesting VC funding has compromised its original direction.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Pivot Concerns:&lt;/strong&gt; Remaining VC funding is being spent on AI token infrastructure, with the author dismissing this as an unremarkable &amp;#039;we have AI too&amp;#039; strategy in 2026.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202606/77632&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【『戦場のフーガ』開発記録】『インターミッション』第88回 公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《战场的赋格》第88话剧透战争终结并宣布5周年庆典&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为《战场的赋格》开发记录连载漫画第88回的解说专栏。作者介绍了本话的核心情节：孩子们再度集结拯救世界，延续少年漫画的热血套路。随后作者大胆剧透，表示第89话中与巨大化凯撒的战斗将迅速落幕，故事节奏将加快推进至第三部最终宿敌的决战。此外，文章宣布游戏将于2026年7月迎来5周年，并公布了纪念插画、CyberConnect2展览及周边商品等庆祝活动信息。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本段落介绍了《战场的赋格》连载漫画第88回的核心主题——伙伴们齐心协力击败大反派，这是少年漫画的经典套路，主角凯尔喊出&amp;#039;先去拯救世界吧&amp;#039;的台词也呼应了孩子们此前两度拯救世界的经历。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者剧透了第89话中与巨大化凯撒的战斗将出乎意料地迅速结束，战争宣告终结，故事将加速推进至第三部最大宿敌的决战。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;公告部分宣布《战场的赋格》将于2026年7月迎来5周年，届时将公开纪念插画、举办展览及销售周边商品，同时宣传了松山洋著作《游戏行业攻略法》的发售信息。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110907&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 社区速递汇聚AI营养处方讨论与耳机支架新玩意分享&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期少数派社区速递（第144期）包含多个板块：编辑部对本季度优秀作者进行表彰；一派讨论聚焦AI辅助营养健康管理话题，235名用户分享了用AI减肥、基因分析、补剂管理的真实经历；热评汇聚大模型编程化、汽车增重、响度战争等话题；社区摘要收录多篇原创内容；新玩意栏目介绍了韶音OpenDots ONE耳夹式耳机（¥849）和优篮子PS01 MagSnap磁吸支架（约¥91），前者主打无感佩戴，后者兼具支架与拍摄辅助功能且性价比突出。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派Matrix社区重启周报，新增社区内容和作者投稿展示，并对本季度优秀新老作者进行表彰，包括值得关注作者和新星作者。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第279期一派讨论&amp;#039;你会听AI模型的话，给自己开营养处方吗？&amp;#039;引发235名用户参与，多位用户分享了用AI辅助减肥、基因分析、营养补剂管理的真实经历，也有用户提醒AI存在幻觉风险。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周热评涵盖大语言模型编程化趋势、乘用车增重现象、响度战争、汉坦病毒科普等多篇文章的读者讨论。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;社区摘要汇聚多位作者的原创内容，涵盖背单词应用、效率相册、学习计时器、科学阅读指南等多个领域。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者@Kasper分享了韶音OpenDots ONE耳夹式耳机的使用体验，重点介绍其无感佩戴、运动稳定性和长续航等优点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者@旭彦兮沐分享了优篮子PS01 MagSnap磁吸支架的购买和使用体验，以91元低价入手，认为其支撑性、便携性和拍摄辅助功能均优于MOFT同类产品。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110863&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;众测招募｜灵犀 Linx 键盘功能共创计划开启&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 灵犀Linx带屏键盘招募众测用户共创功能&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派联合思维重置与Akko共创推出新产品「灵犀Linx键盘」，这是一款带屏矮轴键盘，支持通过灵犀OS与云端连接，实现OTA功能更新。产品计划上线番茄时钟、天气、日历、电子宠物等多种功能，并未来支持API自定义开放社区。在正式发布前，官方面向少数派社区招募10名众测用户，招募时间为2026年6月9日至22日，优先考虑有创作或硬件体验经验者。同时将于6月11日举行功能共创直播，向用户介绍开发进展并收集反馈。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派联合思维重置与Akko共创的新产品「灵犀Linx键盘」即将上市，计划面向少数派社区招募10名体验用户，在正式发布前参与功能验证。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;灵犀Linx是一款支持云端持续更新的带屏矮轴键盘，配备独立屏幕并通过灵犀OS与云端服务连接，支持OTA远程功能更新，功能亮点包括桌面信息实时更新、数字伴侣系统和开放功能社区。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本次众测围绕功能体验展开，重点收集用户对高频功能、屏幕信息展示适配性及产品设计合理性的反馈，参与者需提供真实使用反馈和改进建议。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;招募时间为2026年6月9日至6月22日，共招募10人，优先考虑有内容创作或硬件体验经验的用户，可通过扫码填写问卷报名。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;官方将于6月11日19:30在小红书、视频号、抖音等平台进行功能共创直播，分享开发进度、更新规划及功能设计思路，欢迎用户提出建议。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
