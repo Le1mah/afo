@@ -4,8 +4,104 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-06-20T20:33:22.184Z</updated>
+  <updated>2026-06-21T20:31:57.611Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - June 21, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-06-21</id>
+    <updated>2026-06-21T20:31:57.611Z</updated>
+    <published>2026-06-21T20:31:57.611Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>2 articles from 2 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 21, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;188.49315068493152&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    47.1%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;172&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;193&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;24&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████░░░░░░░░░░░░░░░░ 47.1%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;2&lt;/strong&gt; articles from &lt;strong&gt;2&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-21T10:53Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-21T10:53Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI需求推动硬件价格暴涨，自建服务器成本大幅攀升&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者指出AI的发展导致自建家庭服务器（homelab）所需硬件价格大幅上涨。通过对比2024年购买价格与当前市场价格，作者发现多款存储和内存产品价格涨幅惊人：1TB Samsung SSD 870 EVO涨幅136%，500GB版本涨幅高达434%，Crucial P3 Plus NVMe SSD涨幅462%，32GB Kingston DDR4 RAM涨幅303%。作者认为这些价格暴涨是为了补贴AI基础设施建设，同时指出NAS所需硬盘价格也翻倍且经常缺货，整体情况令人担忧。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110972&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用AI Agent完成Game Jam，效率十倍但美学仍靠人。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者详细记录了在BOOOM Jam中完全依赖AI Agent（Cursor、Codex、ElevenLabs）开发Unity游戏《茫室》的实践经验。通过具体案例，介绍了Agent在模糊转译、工具串联、Git管理、Unity MCP闭环验证、Debug Mode、音效生成等方面的应用，代码量实现十倍增长。作者强调Agent极大提升了工程效率，让许多低优先级打磨得以实现，但同时指出AI无法替代游戏体验与美学层面的人为判断，MDA理论中的Dynamics和Aesthetics仍需创作者亲力亲为。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者参加了BOOOM Jam游戏创作马拉松，与艺术家Frank合作开发了俯视角射击游戏《茫室》，首次完全采用vibe coding方式，使用Cursor、Codex生成代码，ElevenLabs生成音效。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过三次BOOOM Jam数据对比，今年代码量从4千行增长至3.1万行，达十倍提升，Git提交次数约1000次，实际投入时间约100小时，是去年两倍，Agent带来的正反馈极强。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了&amp;#039;模糊转译&amp;#039;工作流：让Agent将美术Frank的自然命名文件规范化、移动目录、替换引用，并将Notion文档中的对白直接转换为游戏配置，大幅减少手动体力劳动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;推荐使用Notion和Dropbox等开放工具让Agent串联工作流，包括用GPT Image 2生成美术清单、用小票打印机打印todo、用Discrawl读取Discord聊天记录提取需求，提升团队协作效率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Agent能从多个prefab中收集数据以表格形式呈现，辅助音频归一化筛选，并用自然语言分析Unity Scene的yaml冲突，帮助合并场景和修复reference丢失问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者让Agent全面接管Git操作，包括自动写commit、叙述资产变动、运行git bisect定位渲染bug，并利用git worktree在不打断主编辑器的情况下解决WebGL shader问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者开发了deeplink功能，通过复制GlobalObjectId精确定位场景中的GameObject，解决层级复杂prefab难以描述的问题，并在LDtk关卡编辑器中实现批量替换敌人实体。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Unity MCP是Agent闭环验证的关键，compile and fix skill可自动触发编译、检查错误日志、进入play mode冒烟测试；iOS打包全程无需打开Xcode，Agent自动处理plist问题并上传TestFlight。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cursor的Debug Mode让Agent先列假设、植入debug log、复现后再修复，避免盲猜；还可通过ssh与Steam Deck形成闭环，分析Unity Profiler数据完成性能优化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者习惯口头让Agent修改参数，探索&amp;#039;动口不动手&amp;#039;边界，包括让Agent搭建动画状态机；推荐使用Cursor Composer fast模型处理此类体力活，其token占比超62%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Agent大幅降低实验门槛，game juice细节得以加入，Frank可借助Agent独立实验C#效果；作者还让Agent修改LDtk源码、生成关卡JSON、修复WebGL shader兼容问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;ElevenLabs AI生成了游戏全部音效和BGM，Codex一站式完成音效埋点；意外生成的dark synth BGM强化了游戏氛围，并促使团队打磨出intro/loop/outro三段式音效响应。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI擅长搭建机制和原型，但无法替代体验与美学判断；作者因过于依赖AI推进工程，拖延了美术对接，导致后期体验整合困难，深刻认识到MDA理论中Dynamics和Aesthetics的重要性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结：《茫室》是首个完全AI native项目，半年来已抛弃IDE和大量Unity插件；AI改变的是生产效率而非游戏质量本身，游戏是否成立仍取决于体验、审美和人的判断，game jam提供了宝贵的早期反馈闭环。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - June 20, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1802,234 +1898,6 @@ At CSS Day on June 11th, 2026, the Google Chrome team engaged developers in a cr
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Kensington推出Pro Fit Ergo TB675拇指轨迹球垂直鼠标，采用60°大倾角人体工学设计，配备34mm球体和9个可编程按钮，提供有线和无线三模两个版本，售价49.99至59.99美元。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Google发布实时语音互译模型Gemini 3.5 Live Translate，支持70多种语言实时口译，可保留说话者语调语速，并具备较强抗噪能力，将登陆全球Android和iOS版Google翻译应用。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;微软宣布将现代打印平台更名为Windows Ready Print，计划自2026年7月起在新安装打印机上默认启用，推动Windows打印从传统第三方驱动程序转向基于IPP协议的现代化打印方式。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - June 10, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-06-10</id>
-    <updated>2026-06-10T21:00:12.489Z</updated>
-    <published>2026-06-10T21:00:12.489Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>12 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 10, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;176.43835616438358&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    44.1%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;161&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;204&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;23&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████░░░░░░░░░░░░░░░░░ 44.1%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22601&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Wednesday session in Amsterdam&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 **A brief Amsterdam social post on Mastodon and Bluesky sparked community engagement using IndieWeb&amp;#039;s decentralized Webmention interaction model.**&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary: Wednesday Session in Amsterdam
-
-A brief social post was published on June 10th, 2026, documenting a Wednesday session at a location in Amsterdam (52° N, 5° E), distributed across both Mastodon and Bluesky as part of a decentralized social media strategy. The content is licensed under CC Attribution, permitting reuse with proper credit to the original author. Community engagement materialized quickly, with user Matthew Pennell inquiring whether the venue was &amp;quot;Mulligans&amp;quot; — implying the post references a locally recognizable establishment — and Mike Janssen registering a like within roughly an hour of publication. The platform employs a **Webmention-based interaction model**, allowing federated readers to submit response URLs via a &amp;quot;Ping!&amp;quot; mechanism, enabling cross-platform engagement tracking consistent with IndieWeb principles. Overall, the post exemplifies a modern, decentralized content distribution and interaction architecture spanning both proprietary-adjacent and open federated social protocols.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Event Location Details:&lt;/strong&gt; A Wednesday session took place in Amsterdam on June 10th, 2026 at 6:25pm. The geographic coordinates provided are 52° N, 5° E, confirming the Amsterdam location.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Content Licensing:&lt;/strong&gt; The content is published under a CC Attribution license, allowing reuse with proper credit given to the original author.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Social Media Presence:&lt;/strong&gt; The content is cross-posted on both Mastodon and Bluesky, indicating a decentralized and federated social media distribution strategy.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;User Response Activity:&lt;/strong&gt; A user named Matthew Pennell left a response asking &amp;#039;Is that Mulligans?&amp;#039;, suggesting the post references a recognizable location or establishment.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Engagement Metrics:&lt;/strong&gt; The post received at least one like from Mike Janssen on the same day at 7:31pm, indicating early community engagement shortly after publication.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Response Submission Feature:&lt;/strong&gt; The platform supports webmention-style responses, prompting readers to submit their response URLs via a &amp;#039;Ping!&amp;#039; mechanism for federated interaction tracking.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22600&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Strolling through Amsterdam.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者在阿姆斯特丹漫步并发布简短动态&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇极简的个人动态帖子，发布于2026年6月10日上午10:14，作者记录了自己在荷兰阿姆斯特丹漫步的简短状态。帖子包含地理坐标（52°N，5°E），并同步发布至Mastodon和Bluesky社交平台。该内容获得了来自Adam Kuhn、Scott Jehl、Ahmad Shadeed、Andy Bell等多位用户的点赞和转发，共计11个互动反应。内容本身极为简洁，无深度叙述，属于典型的个人微博式生活记录。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Benefits Of Cognitive Inclusion In UX Research&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 认知障碍用户能发现1.8倍更多可用性问题&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了一项由Fable与加州大学尔湾分校合作开展的认知可用性研究。研究者对认知障碍人群和普通人群各15名参与者进行用户访谈，测试三个AI生成的网站原型。结果显示，认知障碍参与者发现的问题和提出的建议均约为普通人群的1.8倍，尤其在内容、按钮链接、图标视觉元素等方面发现更多问题，并提供更深入的定性反馈。研究证明，在UX研究中纳入认知障碍参与者能够发现更多可用性问题，是提升产品无障碍设计的有效方法。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者Kate Kalcevich在2024年夏天共同主持了一个工作组，研究如何对认知障碍人群进行无障碍测试，认知障碍是美国最普遍的残疾类型，影响记忆、专注和学习能力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;工作组制定了四个目标，包括招募筛选参与者、研究最佳实践、验证方法有效性并记录成果，最终通过25名测试者的试点研究形成了认知测试者用户访谈指南。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;研究使用AI原型工具生成了三个不同类型的网站（Strong Snacks、Turning Pages、Crown &amp;amp; Comb），用于测试不同任务场景下的用户体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;研究共进行30次用户访谈，认知障碍参与者和普通人群各15名，所有参与者完成任务后填写无障碍可用性量表（AUS）问卷。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;研究者记录了每位参与者提出的所有问题、困难和改进建议，同时观察参与者未注意到但实际存在的操作遗漏。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;研究发现认知障碍参与者识别出197个问题、提出93条建议，分别是普通人群（113个问题、54条建议）的约1.8倍。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在Strong Snacks网站上，认知障碍参与者平均发现的问题比普通人群多3.4个，AUS评分平均低13.7分。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在Turning Pages网站上，认知障碍参与者平均多发现6个问题，AUS评分平均低17.2分，该网站功能最复杂、任务最多。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在Crown &amp;amp; Comb网站上，认知障碍参与者平均多发现7个问题，但AUS评分反而比普通人群高14.3分，两组评分出现了有趣的反差。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;定性分析显示，认知障碍参与者更频繁地指出图标、视觉元素和内容问题，并提供更丰富的解释性反馈；普通人群反馈更简短，完成任务后较少继续评论。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Randy&amp;#039;s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://lutaonan.com/blog/undefined&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;高考随想&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者从高考解脱感出发反思自由与成长的认知变迁&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以作者高考结束时发的朋友圈「自由的风」为引子，回顾了那种如释重负的解脱感。通过老师当年的评论，作者意识到自由的含义因年龄和经历而异。如今到了老师当年的年纪，作者对高考的态度从情感化的感受转变为理性的哲学与社科思辨，不再执着于评判其对错。文章以夹叙夹议的方式，探讨了自由的主观性以及人随年岁增长对同一事物认知的转变。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;高考结束那天，作者发了一条写着「自由的风」的朋友圈，感到如释重负，认为世界在那一刻向自己敞开了大门。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;老师的评论让作者当时不解，但如今到了老师当年的年纪，才明白自由在不同年龄和不同人眼中有着不同的含义，尽管如此，那种自由的感觉是真实的。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表示现在已超越了评判高考对错的阶段，对高考的看法已成为纯理性的哲学与社科思辨，并引出当年的自己与现在的自己之间可能展开的对话。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://cedec-kyushu.jp/2026/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【11/14(土)】CEDEC+KYUSHU 2026開催決定！全国からの講演者公募を受付開始！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CEDEC+KYUSHU 2026启动讲演者全国公募&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CEDEC+KYUSHU 2026是九州最大级别的计算机娱乐开发者会议，将于2026年11月14日采用现场与在线混合形式举办。会议面向全国公募讲演者，提供常规讲座和短讲座两种形式，鼓励提交实践性强、难度较高的讲座内容，同时欢迎初学者向讲座。讲演者需提交详细申报材料，经实行委员会和外部企业组成的工作组两阶段审查。采选讲演者将获得免费通行证、懇亲会邀请等特典。所有讲座将在现场后进行约两周的时移配信，面向购买通行证的参加者。应募截止为2026年7月31日。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;CEDEC+KYUSHU 2026将于2026年11月14日在九州产业大学举办，采用现场与在线混合形式，面向全国公募讲演者，预计安排40场讲座。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;公募讲演分为60分钟的常规讲座和25分钟的短讲座两种形式，鼓励提交难度较高的「中辛」「辛口」讲座，同时也接受针对初学者的「初学者向」讲座申报。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲演者应提交包括标题、内容、难度等级、详细说明等必要信息，审查由CEDEC+KYUSHU 2026实行委员会和外部参加企业组成的会议工作组进行，采用两阶段审查流程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲演者享受免费在线通行证、现场通行证、懇亲会邀请等特典，所有讲座将在现场举办后进行约两周的时移配信。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;应募截止日期为2026年7月31日，应募者需使用日语填写表格，讲演内容需获得所属机构许可，禁止明示宣传自有产品或进行招聘活动。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://manga.line.me/product/periodic?id=S133094&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;しごにんの侍 第四十九話「足知唄」公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 未提供文章内容，无法摘要。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;未提供任何文章内容，无法进行摘要处理。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110911&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;线下活动｜周日到广州来，给你一张过去的 CD&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 唱片漂流计划让10万张CD免费借阅流动&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了唱片收藏家谢江川（川哥）发起的「唱片漂流计划」。川哥拥有超10万张CD收藏，为让唱片真正被聆听而非堆积仓库，决定免费出借给全国音乐爱好者。少数派与其合作搭建了同名网站，支持浏览和借阅功能。6月14日，川哥将亲临少数派广州体验店举办线下分享活动，乐迷可在线下单面交唱片，或携带个人收藏到场共同聆听，参与者还可获得盲盒CD等现场福利。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派因与飞傲合作CD音箱产品结识了唱片收藏家谢江川（川哥），川哥从业超二十年，拥有超10万张CD收藏，现定居大理经营唱片主题民宿「一十一」。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;川哥发起「唱片漂流计划」，决定将全部CD收藏免费出借给全国音乐爱好者，已在广州、东莞、北京等城市完成线下试点并获好评。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派为此搭建了「唱片漂流计划」网站，支持浏览、搜索和借阅功能，展示川哥的真实收藏，未来还将持续升级增加更多功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;6月14日，川哥将亲赴少数派广州体验店举办线下唱片分享活动，乐迷可在线下单面交唱片或携带自己的唱片到场共同分享，参与者可获赠盲盒CD等福利。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110614&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;又是一年 618：可以直接抄作业的护肤搭配清单&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 根据肤质和需求提供618护肤品直接可抄的搭配方案。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是关于618购物节护肤品选购指南的专业建议。作者根据肤质类型（油性、干性）和护肤需求（保湿控油、美白提亮、抗老），为不同消费者提供具体的产品搭配方案。文章强调护肤的首要原则是根据肤质状况确定优先级：敏感肌需先维稳修护，普通肌可追求功效，重度问题肌需采用针对性强效产品。每个搭配方案都详细解释了产品选择的科学原理和功效协同机制，帮助消费者理解为何这样搭配，而非盲目跟风。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者连续第三年撰写618护肤攻略，今年改变思路，从直接提供搭配方案入手，根据不同肤质和护肤目的提供具体的产品组合建议，方便消费者直接选购。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章以肤质和护肤目的为两个维度，将肤质分为油性、干性两大类，每类再细分为普通、重度和敏感三种情况，并针对每种情况制定不同的护肤原则，如油皮需优先保湿控油，敏感肌需先维稳修护。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于普通油性肤质，作者提供了保湿控油、美白提亮和抗老三个方向的多个搭配方案，涵盖从温和到高效的不同选择，每个方案都详细说明了产品的功效原理和搭配逻辑。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于重度油性肤质，作者强调其油脂分泌过多反而对皮肤有保护作用，因此可以尝试更强效的产品，并提供了相应的保湿控油、美白提亮和抗老搭配方案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;敏感油性肤质的核心问题是角质层脆弱导致的保湿不足，作者强调应优先做好保湿维稳工作，并提供了三个保湿维稳搭配和针对稳定后的美白抗老产品推荐。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于普通干性肤质，作者指出其属于健康肤质，在保湿充分的前提下可以使用各类功效性产品，并分别提供了保湿维稳、美白提亮和抗老的三个搭配方案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于重度干性肤质，作者强调需要使用强封闭效果的保湿产品作为基础，并提供了保湿维稳、美白提亮和抗老三个维度的搭配方案，其中强调了植物油脂和神经酰胺的重要性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;干敏肌肤质需要优先完成保湿维稳和屏障修护工作，文章提供了三个不同强度的保湿维稳搭配方案，以及在皮肤稳定后可尝试的功效性产品。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110557&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;告别阅读焦虑：一份硬核科学阅读指南&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 阅读能力主要靠知识储备，多读书是唯一正道。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文系统阐述了阅读的科学原理，强调背景知识和知识面对阅读理解的核心作用，揭示了浅层扫描与深度阅读的区别及其对思维能力的影响。作者通过神经科学和认知心理学研究，论证了阅读速度存在生理极限、默读是必要机制、纸质书优于电子阅读等观点。文章批判了速读法等伪科学，强调多读书是提升阅读能力的唯一途径，阅读是需要后天培养的珍贵技能。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇通过讨论纸质书和电子书的阅读效果问题，引出对阅读科学研究的关注，指出人们往往忽视阅读领域的前沿神经科学发现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阅读理解能力主要依赖背景知识而非阅读技巧，棒球实验证明知识储备比阅读能力更重要，优秀读者的核心素养包括丰富的知识储备和对文字符号的熟悉程度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;浅层扫描和深度阅读是两种不同的阅读模式，数字时代人们阅读量增加但多为浅层阅读，导致深度阅读能力退化，这影响了逻辑思维和同理心的培养。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阅读速度受眼跳、注视和回读等生理因素限制，英文阅读上限约300词/分钟，所谓一目十行的速读法违反生理极限，默读不是坏习惯而是深度阅读的必要机制。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;纸质书阅读效果优于电子阅读，因为静止的文字提供固定的物理落脚点和空间记忆坐标，电子屏幕滑动会增加认知负担，削弱记忆和理解效果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阅读是后天习得的技能而非天生能力，大脑通过改造视觉皮层形成视觉词形区来识别文字，全人类使用同一脑区识别书面文字，不同文字的设计都遵循大脑的生物学偏好。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110868&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;这些人用实测，给麦金獭钢化膜交了份真实答卷&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 麦金獭钢化膜超薄无感获用户好评，贴膜工具便捷但需防尘。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇集了少数派编辑部收集的多位真实用户对麦金獭AR抗反射钢化膜的使用反馈。用户普遍认可该膜0.13mm超薄设计带来的无感体验，边缘贴合度高，黑边几乎不可见，AR抗反射效果优于普通膜。配套的无尘舱定位贴膜工具也获得广泛好评，操作简便。不足之处在于贴膜时若操作不当易混入灰尘，且包装存在轻微鼓包问题。整体来看，该产品性价比较高，官方也承诺持续优化改进。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派编辑部汇总麦金獭钢化膜的真实买家反馈，将内容分为「用户体验」和「进阶体验」两部分，帮助用户选购前了解产品细节。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;多位iPhone用户（包括17 Pro、17 Pro Max、16 Pro机型）反馈麦金獭AR抗反射钢化膜贴合度极佳、几乎无感，透光度好，黑边不明显，且配套贴膜工具易于操作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;进阶用户详细评测了麦金獭钢化膜的开箱体验，包装内含完整贴膜工具套装，无尘舱定位器设计对手残党友好；膜厚0.13mm，透光率高，疏油层顺滑，整体手感接近裸机。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;部分用户反馈了使用中的小问题，如贴膜过程中可能进入灰尘导致尘点，以及包装盒轻微鼓包等细节不足，但总体评价仍然正面。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派官方在结语中表示麦金獭钢化膜在手感、清晰度和边缘贴合度上收获好评，后续将持续优化生产工艺、包装设计和贴膜教程。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110925&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Apple 更新 App Store 审核与订阅规则、Anthropic 发布 Claude Fable 5 等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 周三科技早报涵盖Apple审核新规、Claude Fable 5发布及多款硬件新品&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派周三早报，涵盖多条科技资讯。Apple更新App Store审核规范，限制低质量应用并扩展Bundle订阅功能；Anthropic公开发布Claude Fable 5，面向专业工作场景开放但设有安全限制；小米推出MiMo-V2.5-Pro-UltraSpeed高速推理模式；Marshall、Razer分别发布新款音箱和XLR麦克风；戴尔与零刻推出新款迷你主机产品；此外还包括任天堂直面会游戏公告、Pebble智能手表发货动态以及Meta移除人脸识别代码等简讯。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple更新App Store审核规范，限制开发者提交低质量或重复性应用，扩大了对饱和品类的限制范围，新增壁纸、简单计时器和音效应用等类别，并警告反复提交低质量应用的开发者可能失去开发者账号权限。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple在WWDC 2026期间宣布扩展App Bundles功能，允许拥有重叠用户群的不同开发者合作销售跨应用订阅包，用户可以更低价格获得多个应用的访问权限。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Anthropic发布Claude Fable 5，这是其Mythos模型首个公开版本，面向软件工程、知识工作和视觉任务开放，在高风险领域设有安全限制，定价为每百万token输入10美元、输出50美元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米宣布与TileRT联合发布MiMo-V2.5-Pro-UltraSpeed模式，在通用GPU上实现1000 tokens/s的生成速度，定价为标准版的3倍，体验期截至6月23日。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Marshall发布Stockwell III便携式蓝牙音箱，续航从20小时提升至超过40小时，支持IP55防尘防水，搭载True Stereophonic技术，定价250美元，预计8月4日上市。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Razer发布首款支持XLR接口的麦克风Seiren V3 Pro，定价249.99美元，支持双USB-C连接，内置AI降噪和DSP处理，配备30mm心形指向拾音头。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;戴尔在京东上架Dell Pro Micro E迷你主机，搭载AMD锐龙5 150处理器，配备8GB RAM和512GB SSD，采用1.2L体积机箱，定价4279元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;零刻发布搭载英特尔酷睿i5-13500H处理器的NAS型迷你主机ME Pro，采用2+4盘位设计，空机售价2569元，支持Wi-Fi 6和蓝牙5.4，提供丰富接口配置。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;任天堂直面会公布多款游戏资讯，《塞尔达传说：时之笛》重制版确认年内发售，《王国之心4》确认首发登陆NS平台；Pebble Round 2确认7月开始发货；Meta从新版应用中移除了未启用的人脸识别系统NameTag的相关代码。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;全新的CSS border-shape属性简介&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 border-shape属性可实现不规则CSS边框效果&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由张鑫旭撰写，介绍了CSS新属性border-shape的功能与用法。border-shape用于实现不规则边框效果，其语法与clip-path一致，支持polygon()、shape()、path()等函数。文章以AI生成五角星SVG路径为案例，演示了如何将path()转换为shape()函数并应用于border-shape，实现可缩放的五角星边框。文章还指出该属性目前仅Chrome 147+支持，并在结尾分享了对AI辅助开发的思考：复杂项目不能完全依赖AI，开发者需掌握技术细节以控制维护成本。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了border-shape属性的用途，并通过AI生成五角星SVG路径作为案例入手，展示如何将path()路径转换为shape()函数来实现不规则边框效果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过代码示例展示了五角星边框的实现，并总结出border-shape的两个关键特性：设置后border-style失效且边框永远为实线，同时box-shadow等属性的轮廓计算区域也会随之改变。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了border-shape的语法，其与clip-path相同，支持inset()、circle()、ellipse()、polygon()、shape()和path()等函数，实用重点在polygon()和shape()两个函数上。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明border-shape目前仅Chrome 147+支持，不支持的浏览器可用clip-path加drop-shadow()滤镜近似模拟，并附有标签式导航条的codepen演示案例。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在&amp;#039;碎碎念&amp;#039;部分分享了对AI辅助开发的反思：全AI生成的复杂项目在后期维护成本惊人，开发者难以理解代码细节，强调技术积累、预研和掌控整体实现脉络的重要性。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
