@@ -4,8 +4,170 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-06-24T20:41:37.991Z</updated>
+  <updated>2026-06-25T20:43:38.788Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - June 25, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-06-25</id>
+    <updated>2026-06-25T20:43:38.788Z</updated>
+    <published>2026-06-25T20:43:38.788Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>7 articles from 3 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 25, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;192.87671232876713&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    48.2%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;176&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;189&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;25&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████░░░░░░░░░░░░░░░░ 48.2%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;7&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-25T11:10Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-25T11:10Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 atproto参考PDS新增账户管理功能，方便自托管用户&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;atproto参考PDS（个人数据服务器）新增了账户管理功能，这对自托管用户来说是一个重要改进。此前，用户必须借助Bluesky等应用或使用goat CLI（管理员工具）才能修改密码等账户设置。目前作者尚未发现任何第三方PDS实现，并表示自己有冲动开发一个，但考虑到所需时间成本过高而放弃了这一想法。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n03d3ce5cc944&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;クレジットカード、リボ払いの危険性&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 リボ払いの高金利は元金をほぼ減らさず借金地獄を招く&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツー副社長の宮崎氏が、新社会人に向けてクレジットカードのリボ払いの危険性を具体的な数字で解説した記事。リボ払いは月々の支払いが均一で便利に見えるが、15〜17.64％という高金利により、実際には大幅な余分な支払いが発生する。特に楽天カードの「楽Pay」などの自動リボ設定は、ポイント特典で魅力的に見せながら高金利を課す仕組みであり、毎月少額返済しながら買い物を続けると元金が永久に減らなくなる危険性がある。収入の範囲内での生活を心がけることの重要性を訴えている。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー副社長の宮崎氏が、新社会人に向けてクレジットカードのリボ払いの危険性について警鐘を鳴らす記事を執筆した。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;リボ払いは毎月の支払いが均一で便利に見えるが、消費者金融と同水準の約15％前後という高い金利が設定されており、事実上の借金と同じ状態になる。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;30万円の買い物を毎月1万円返済した場合、総返済額は38万2千円となり、8万2千円もの金利を支払うことになる具体例が示された。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;楽天カードの「楽Pay」や三井住友カードの「マイペイすリボ」などの自動リボ設定は、ポイント特典で魅力的に見えるが実際には罠である。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;楽天カードの金利17.64％で20万円の残高を毎月3,000円返済した場合、元金は月60円しか減らず、返済がほぼ不可能な状態になることが示された。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;毎月3万円の買い物を続けると残高と利息が雪だるま式に膨らみ、6か月目以降は利息すら返済できず元金が永久に減らなくなる危険性がある。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;自分の収入の範囲内で生活することの重要性を説き、社員には困った際に相談するよう呼びかけて記事を締めくくった。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111518&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 245｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派编辑分享四款新产品的真实使用体验&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部「新玩意」栏目第245期，四位编辑分享了近期体验的产品。克莱德以51元捡到Google Stadia手柄，盛赞其握持感和扳机反馈；张奕源试用荣耀600 Pro，意外于其干净系统和强劲续航；路中南体验Nothing Phone (4a) Pro，欣赏其Glyph灯阵设计和简洁NothingOS，但相机细节仍需打磨；PlatyHsu闲鱼450元入手安克智显充Pro 160W，认可其全C口设计但觉价格偏高。文章风格轻松，兼顾优缺点，适合消费者参考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了少数派编辑部「新玩意」栏目的背景，编辑们分享各自近期购买或试用的新产品体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑克莱德以51元入手了停服的Google Stadia手柄，称赞其圆润握持感和细腻的霍尔线性扳机反馈，认为超出预期，已用其替换Xbox无线手柄，但指出缺少陀螺仪且需升级蓝牙固件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑张奕源试用了荣耀600 Pro，意外发现其系统干净、广告少，MagicOS 10动画流畅，8000mAh电池续航强劲，但震动马达质感较差，整体评价为适合学生党和想退烧的中端机用户。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑路中南试用了Nothing Phone (4a) Pro，肯定了其铝合金背板、Glyph点阵灯通知系统和简洁的NothingOS体验，长焦相机表现不错，但指出缺少无线充电、非整数变焦画质下滑等不足。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑PlatyHsu因出门遗失旧充电头，以450元闲鱼价入手安克Prime智显充Pro 160W，称赞其全C口设计和紧凑体积，但指出外壳质感一般、部分国产设备兼容性有限，且价格偏高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章末尾介绍了读者参与「新玩意」栏目投稿的方式和奖励规则。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111421&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;给记忆一个归处：我为什么开始使用 Apple 手记&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple手记以智能建议降低门槛，助用户记录真实感受与生活记忆。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者ElijahLee详细介绍了Apple原生日记应用《手记》的使用体验与功能特色。作者因关注心理健康而开始使用手记，并持续记录40余天、70余篇日记。文章重点介绍了「手记建议」这一核心功能，它通过整合音乐、照片、地图、体能训练等原生应用数据，以活动卡片形式帮助用户回顾生活，避免面对空白页。文章还涵盖排版设计、多平台使用体验、日记管理功能及即将到来的OS 27新特性，最终得出结论：手记的最大价值在于帮助用户发现值得记录的时刻，引导用户关注感受而非流水账式的事实记录。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因关注心理健康而开始使用Apple手记，从记录心情出发，发现手记可与健康App的「心理状态」功能数据互通，逐渐发展为连续记录40多天、70多篇日记的习惯。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;手记最大特色是「手记建议」功能，通过调用音乐、照片、地图、体能训练、心理状态、人物等原生应用API，以活动卡片形式提供写作素材，避免用户面对空白页面，使日记成为多媒体生活记录工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;手记排版分为上半部多媒体区和下半部文字区，支持多种尺寸卡片自动排版和手动调整，心理状态和地点信息可选大小视图，文字区支持标题、正文、格式设置及语音录制等功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;手记通过智能建议将事件记录自动化，让用户专注于感受记录；小组件和反思提示功能提供随机写作话题引导，内置心理状态记录和正念计时功能，帮助用户深入记录内心感受。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;手记支持iPhone、iPad和Mac多平台，各平台功能有所差异；提供日记本分类、书签、多维度搜索、统计分析和地点足迹地图等管理功能，并支持Face ID锁定和iCloud同步，隐私处理在设备本地完成。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;即将到来的OS 27更新将为手记新增日记时刻功能，允许用户查看和编辑精确的创建时间，同时带来动态写作提示、更多附件格式和全屏照片等新功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为，手记通过降低记录门槛、引导感受记录，已从单纯日记工具演变为个人记忆档案馆，帮助用户在回顾时看到鲜活的生活片段和真实的自我。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111483&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 墨水屏手机壳让背面随心换装表达个性&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;XTREM INNO极稚墨水屏手机壳是一款嵌入彩色电子墨水屏的MagSafe手机壳，通过G Shell应用和NFC技术，用户可随时将图片投屏至手机背面，实现个性化展示。该壳无需充电，采用电容储能，显示静止画面时零耗电。配套应用内置AI生图功能和艺术家社区，还支持好友间远程投屏互动。壳体本身做工精良，重量轻薄，提供多种配色。文章还介绍了少数派联名版的专属权益与购买信息，定价399至429元。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;手机背面个性化长期被忽视，XTREM团队推出墨水屏手机壳，旨在让手机背面也能像正面一样随心更换外观，成为承载个人情绪和日常表达的窗口。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;XTREM INNO极稚墨水屏手机壳外观类似MagSafe壳，内嵌彩色电子墨水屏，通过G Shell应用和NFC配对，可轻松将图片投屏到手机背面，整个更换过程不到半分钟。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该手机壳分辨率400×400像素，DPI为212，户外阳光下显示效果清晰；内部无电池，采用电容储能，利用NFC传输时充电，无需额外充电，也无电池老化隐患。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;受四色墨水屏限制，建议使用线条干净、色块分明的插画风格图片；G Shell应用内置AI生图功能，可将照片转换为适合墨水屏展示的风格，未来还将支持自定义文字和更多AI风格。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;G Shell不仅是换图工具，还是内容社区入口，汇聚多位艺术家作品；用户还可添加好友账号，远程将图片投送到对方手机壳，实现类似明信片的互动体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;XTREM手机壳本体采用亲肤哑光材质，重量与普通防摔壳接近，提供橙、黑、白三色，做工精细，兼顾美观与实用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结了XTREM INNO的适用人群，并介绍了少数派联名版的专属权益、定价（399-429元）及购买渠道，前314位用户可获赠贴纸套装、挂饰及G Shell无限点数。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111349&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;风暖鸟声碎，日高花影重：我的昆明与腾冲行记&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 从春城昆明到热海腾冲，一场寻找晴天与市井烟火的云南之旅。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者从恩施经昆明到腾冲的旅行经历。作者以细致的观察和生动的笔触，描绘了昆明春城的宜人气候、市井烟火气和文艺书店，体验了滇越铁路沿线的历史底蕴。在腾冲，作者享受了官房酒店的度假环境，探访了火山地热奇观、抗战遗迹和古镇风情，最后因天气变化体验了云南的空地联运系统。整个行程展现了云南多元的自然风景和人文特色，传达了旅行中发现自我、感受生活的主题。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从恩施出发，选择在昆明中转，被昆明宜必思酒店附近的夜市小吃街吸引，品尝了瓦罐米粉和木番茄拌粉等当地特色美食。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者游览了斗南花市、翠湖公园和滇池湿地公园，在翠湖与松鼠互动喂蓝莓，体验了独特的人与自然的互动，感受到了昆明的生活气息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者探访了昆明老城区，包括大观篆新农贸市场、过桥米线、纸布石书店和橡皮书店，漫步文林街感受文艺氛围，沿着滇越铁路从西南联大旧址往西走，体验百年前的市井风情。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者前往腾冲，入住官房大酒店享受度假体验，参观了叠水河瀑布和国殇墓园，在和顺古镇制作植物拓染包，欣赏白鹭群落和书局咖啡的夕阳景色。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者游览了热海温泉景区和北海湿地，体验了火山地热景观和沼泽湿地的独特自然风貌，最后因天气原因航班改至芒市起飞，体验了云南三地空地联运保障系统。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111476&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：豆包推出专业版、GTA VI 开启预售等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 豆包发专业版，OpenAI推AI芯片，GTA VI开预售&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派派早报，汇总了6月24日多条科技资讯：字节跳动发布豆包专业版及音频生成模型1.0，主打AI办公自动化；OpenAI联合博通推出首款定制AI推理芯片Jalapeño，成本低、研发周期短；小米上线NAS众筹产品；Goodram推出新款SD存储卡PRO S6B0；《GTA VI》正式开启预售并公布发售日期与定价。文章以简讯形式逐条呈现，涵盖AI、硬件、游戏等多个领域的最新动态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;字节跳动正式推出豆包专业版，接入豆包2.1 Pro模型的办公任务模式支持操作本地电脑、调用Skills技能、内置Office套件等，能自主拆解任务并持续执行，实现从&amp;#039;回答问题&amp;#039;到&amp;#039;专业办公&amp;#039;的升级。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;豆包专业版分标准（68元/月）、加强（200元/月）、高级（500元/月）三档；同时发布豆包音频生成模型1.0，支持参考生成、多角色音色一致性及单条Prompt编排完整音频，已在火山方舟开启API邀测。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI与博通联合发布首款定制AI芯片Jalapeño，定位智能处理器，专为大语言模型推理设计，从设计到流片仅用9个月，成本较主流AI GPU节约约50%，预计2026年底开始首批部署。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米在众筹页面上线NAS产品&amp;#039;小米智能存储&amp;#039;，分4TB（2299元）、8TB（2899元）、16TB（4699元）三档，为双盘位设计，将于7月1日正式开售。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;波兰品牌Goodram推出PRO S6B0 SD存储卡，128GB容量，符合UHS-II规范，顺序读取265MB/s、写入120MB/s，获U3、V60认证，支持4K录制及RAW摄影，享终身保修。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Rockstar Games母公司Take-Two宣布《GTA VI》于6月25日开启预售，2026年11月19日正式发售，登陆PS5与Xbox Series X|S，标准版79.99美元，终极版99.99美元，预购可获多种特典，暂无PC版计划。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - June 24, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1751,112 +1913,6 @@ Published on June 16th, 2026, from somewhere near London, England, this brief po
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;EA宣布推出游戏内广告平台EA Advertising，将品牌广告动态植入游戏场景，Visa、红牛等品牌已达成合作，激浪旗下DEW University将在EA Sports College Football 26中拥有完整可玩队伍。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;英国禁止16岁以下青少年使用TikTok、YouTube、Instagram等社交媒体平台，同时限制游戏和直播中与陌生人交流的功能，AI聊天机器人的浪漫关系模拟功能将限制在18岁以上用户。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯汇总涵盖三星简化One UI Beta入选流程、蚂蚁集团测试AI版支付宝「宝计划」、上海AI伪造证据敲诈勒索案宣判、字节跳动洽购国产AI芯片、Anthropic更新隐私政策要求年龄验证，以及Xbox考虑关闭Double Fine等三家游戏工作室。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - June 14, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-06-14</id>
-    <updated>2026-06-14T20:31:24.297Z</updated>
-    <published>2026-06-14T20:31:24.297Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>2 articles from 2 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 14, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;180.82191780821915&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    45.2%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;165&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;200&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;23&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████░░░░░░░░░░░░░░░░ 45.2%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;2&lt;/strong&gt; articles from &lt;strong&gt;2&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Theresa O’Connor &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://tess.oconnor.cx/2026/06/14-links&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Mid-June pile of links&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 **A link roundup blending CSS/HTML tips, AI criticism, accessibility advocacy, and transgender rights commentary for socially conscious developers.**&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary
-
-This mid-June link roundup from a technically and socially engaged blog aggregates resources spanning web development, AI criticism, accessibility, and sociopolitical commentary. On the technical side, it highlights CSS Grid resources, a case study demonstrating how an HTML-first architecture doubled site traffic, and practical developer tips including TOTP backup strategies and advocacy for personal blogging culture. A significant thread critiques AI&amp;#039;s societal impact on two fronts: arguments that web accessibility is increasingly being optimized for AI consumption rather than disabled users, and pushback against AI job-displacement narratives as fear-based marketing rather than credible economic analysis. The collection also serves as a substantive social commentary vehicle, documenting legislative attacks on transgender rights while citing Canadian research confirming adolescent gender identity stability, and challenging the moral legitimacy of extreme wealth concentration alongside widespread poverty. Framing devices throughout — including the opening Yiddish term *farpotshket* (something worsened by overcorrection) and a McSweeney&amp;#039;s satire on browser prompts — reflect a curatorial voice that blends technical literacy with sharp cultural criticism. Overall, the roundup positions itself as a resource for developers who engage critically with both the craft of web building and the broader human consequences of technology and policy decisions.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Software &amp;amp; Web Development:&lt;/strong&gt; A collection of technical resources including a field guide to CSS Grid Lanes by Jen Simmons, a tale of two browsers by Jeremy, and a case study showing how building an HTML-first site doubled user traffic overnight.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Criticism &amp;amp; Web Access:&lt;/strong&gt; Jonathan Zong and Frank Elavsky argue the web is being made accessible for AI rather than people, while Scott Galloway contends that AI job apocalypse narratives are a marketing strategy monetizing fear rather than genuine economic forecasting.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Design &amp;amp; UX Humor:&lt;/strong&gt; Jake Albaugh&amp;#039;s piece frames design as the core work itself, while a McSweeney&amp;#039;s satirical piece mocks aggressive browser default prompts by comparing them to centuries of torment.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Trans Rights &amp;amp; Healthcare:&lt;/strong&gt; Multiple articles document ongoing attacks on transgender rights including elimination of LGBTQ+ veteran healthcare, federal rules denying trans existence, and concerns about detransition centers, alongside a Canadian multicenter study confirming stability of transgender identity in adolescents.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Political &amp;amp; Social Commentary:&lt;/strong&gt; Commentary covers criticism of D-Day commemoration being hijacked for xenophobia, analysis of multi-party government challenges by Steve Randy Waldman, and scrutiny of elected officials failing to follow through on promises to protect marginalized communities.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Economic Inequality:&lt;/strong&gt; A pointed social critique highlights the moral failure of a society that tolerates a single trillionaire alongside widespread poverty, framing extreme wealth concentration as a source of collective shame.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Blogging &amp;amp; Web Preservation:&lt;/strong&gt; Daniel&amp;#039;s post advocates for friends maintaining personal blogs, the 2026 Tiny Awards nominations are open celebrating small independent websites, and a practical tip recommends printing TOTP codes as a simple backup strategy.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Yiddish Word &amp;amp; Framing:&lt;/strong&gt; The article opens with the Yiddish term &amp;#039;farpotshket,&amp;#039; meaning something ruined by attempts to fix a minor flaw, which is noted as commonly used today to describe software engineering projects gone wrong.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110761&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 韶音OpenDots 2小幅进步值得推荐，Air性价比不及一代&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由TDS Studio对韶音OpenDots 2和OpenDots Air两款耳夹式开放真无线耳机进行了全面评测，并与上代OpenDots ONE对比。OpenDots 2在漏音控制、低频表现和Dolby Audio支持上有所进步，佩戴舒适，续航实测超10小时，信号表现优秀，获得V分（Excellent）评价，与FreeClip 2共同构成千元以上耳夹核心推荐。OpenDots Air则声音风格化、做工有妥协、信号稍弱，综合性价比不及降价后的ONE，仅获III分（Average）。作者建议大多数消费者优先考虑价格已降至七百多的OpenDots ONE。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了韶音第二代耳夹产品OpenDots 2和OpenDots Air的首发评测背景，作者自购两款新品并借用读者的OpenDots ONE进行对比测试。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenDots 2包装延续一代风格，外观设计变化不大，新增白金缮等配色；Air包装盒较大，配色选择有限，做工细节略显廉价；两款产品佩戴体验均较好，2适合小耳廓，Air适合耳廓稍厚用户。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;操作逻辑通过捏动和敲击实现，两款产品逻辑略有不同；韶音APP功能直观，支持固件升级、音效切换等功能；新增掉落提醒功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通话方面，OpenDots 2搭载骨传导麦克风实现「骨气三麦」，高噪音环境表现有进步；Air双麦克风收音清晰度明显不如主系列产品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;信号测试中OpenDots 2表现出色，隔墙7.5m内稳定；Air信号稍弱，约6.5m开始丢包；续航方面两款实测均超过10小时，符合官方标称。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;两款耳机均搭载11.8mm对置双动圈，支持四种预设音效和自定义EQ；漏音控制方面两款产品均属耳夹品类最优一档，OpenDots 2表现尤为出色。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenDots 2声音低频量感比一代略多，厚度和饱满度控制良好，人声自然顺滑，高频延伸比一代有所改善，整体素质与华为Freeclip相当。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenDots Air声音风格化明显，中高频能量突出，低频厚度不足，人声偏亮偏薄，齿音稍突出，解析感明显但整体素质略不如主系列两代。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结认为OpenDots 2在杜比支持、低频质量和漏音控制上有进步，与FreeClip 2共同构成千元以上耳夹推荐；但初代ONE性价比更高，Air综合表现不及ONE，仅获III分评价。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
