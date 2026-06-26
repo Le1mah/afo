@@ -4,8 +4,271 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-06-25T20:43:38.788Z</updated>
+  <updated>2026-06-26T20:49:56.274Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - June 26, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-06-26</id>
+    <updated>2026-06-26T20:49:56.274Z</updated>
+    <published>2026-06-26T20:49:56.274Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>13 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 26, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;193.97260273972603&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    48.5%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;177&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;188&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;25&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████░░░░░░░░░░░░░░░ 48.5%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;13&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Human Who Codes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://humanwhocodes.com/blog/2026/06/android-expo-device-testing/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Testing Android apps with Expo on physical devices&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通过USB和adb反向代理在Android真机上测试Expo应用&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了如何将Android物理设备通过USB连接到运行Expo开发服务器的Windows机器，以实现移动应用的本地测试。文章分步骤讲解了完整流程：安装Android Studio获取adb工具、启用设备USB调试、生成并安装开发版APK、使用--localhost标志启动开发服务器，以及通过adb reverse命令设置反向代理。该方案使设备可访问localhost上的API后端，支持端到端功能测试，无需外部依赖，且兼容WSL开发环境，为开发者提供了高效可靠的真机调试工作流。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了Web开发者使用Expo开发iOS和Android移动应用的背景，以及在物理设备上测试的必要性，作者最终选择通过USB将Android设备连接到运行Expo开发服务器的Windows机器。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一步：下载并安装Android Studio，以获取adb（Android调试桥）工具，无论使用云端还是本地构建方式都需要此步骤。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二步：在Android设备上启用USB调试功能，包括开启开发者选项和USB调试，并通过adb devices命令验证设备连接。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三步：安装expo-dev-client包，并通过本地构建或Expo Application Services生成开发版APK，扫描二维码安装到设备上。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第四步：使用--localhost标志启动本地开发服务器，使设备能够在开发构建中看到开发服务器列表。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第五步：若设备仍无法发现开发服务器，使用adb reverse命令设置反向代理，将设备端口映射到本地端口，同时也支持其他本地服务的端口映射。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结指出，通过USB连接和adb反向代理的方式，可以建立快速可靠的开发工作流，支持本地API后端的端到端测试，同时兼容WSL等复杂开发环境。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/499&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 499: Everything but the runtime&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 nub.js为Node.js提供全套工具链增强方案&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期技术通讯（第499期）重点介绍了nub.js——一个由Colin McDonnell开发的Node.js一体化工具链，提供文件运行、脚本执行、包管理和Node版本管理等功能，性能全面超越npm、npx和pnpm。文章还包含一个JavaScript排序bug案例，揭示了默认字符串比较无法处理特殊字符的问题，并给出使用Intl.Collator的解决方案。此外，通讯汇总了多项技术动态，包括Deno 2.9、Rspack 2.1、GitHub Actions并行步骤更新，以及OpenAI发布GPT-5.6 Sol等。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bun在2021年作为Node.js的替代品出现，但现实中大多数开发者仍然使用Node.js，无法轻易切换到新工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Colin McDonnell（Zod和tRPC的创作者）开发了nub.js，这是一个增强Node.js而非替代它的一体化工具链。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;nub.js提供了文件运行器、脚本运行器、包运行器、包管理器和Node版本管理器等组件，各项性能均大幅优于现有工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;nub.js通过提供&amp;#039;除运行时之外的一切&amp;#039;，已在GitHub上获得大量关注，有望成为Node.js开发的标准工具链。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Slack可以连接550+工具实现工作流自动化，每天运行300万个工作流，帮助企业节省大量时间。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了一个JavaScript排序bug：默认字符串比较不支持语言敏感排序，无法正确处理带重音符号的特殊字符。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解决方案是使用Intl.Collator进行语言敏感的字符串比较，从而正确排序包含特殊字符的名字。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期&amp;#039;Cool Bits&amp;#039;涵盖多个技术动态：Flow迁移至Rust、Formisch v1 RC发布、Deno 2.9、Rspack 2.1、GitHub Actions并行步骤，以及OpenAI发布GPT-5.6 Sol并进行70万GPU小时的自动化红队测试。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/06/26/aria-anti-patterns-and-you/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ARIA, anti-patterns, and you&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 APG非最佳实践，滥用ARIA让网页无障碍性更差&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者对开发者普遍误用ARIA Authoring Practices Guide（APG）的现象提出强烈批评。APG的本质是展示ARIA规范的理论能力，供浏览器和辅助技术开发者参考，而非网页开发的最佳实践指南。W3C明确规定，能用原生HTML元素实现的功能就不应使用ARIA。文章还特别警告不要将LLM代理指向APG来生成无障碍代码。WebAIM百万报告数据也证实，ARIA使用越多，无障碍错误越多。作者呼吁开发者重视专业素养，真正理解工具的用途。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章作者对一篇建议将LLM代理指向ARIA Authoring Practices Guide（APG）来生成无障碍代码的文章表示担忧，指出这是一种常见的误解。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;APG并非最佳实践指南，而是用于演示ARIA规范在理论上如何运作，帮助浏览器和辅助技术开发者评估对ARIA 1.2的支持质量，与实际最佳实践无关。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;W3C的&amp;#039;第一条ARIA使用规则&amp;#039;明确指出，应优先使用具有内置语义和行为的原生HTML元素，而非通过ARIA角色重新定义元素。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;APG中甚至出现了用`&amp;lt;div role=&amp;#039;button&amp;#039;&amp;gt;`替代`&amp;lt;button&amp;gt;`的示例代码，作者认为这种用法在任何情况下都不应被采用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;WebAIM百万报告数据显示，页面中ARIA属性使用越多，检测到的无障碍错误也越多，证明滥用ARIA实际上使网页可访问性变得更差。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结呼吁开发者尽量避免使用ARIA，不要用LLM对接APG生成代码，并强调真正的无障碍测试不应仅依赖屏幕阅读器。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/gihyo_design/n/na747cc17068d&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【技術評論社 デザイン・イラストnote】ミリアッシュ竹谷彰人氏×サイバーコネクトツー松山洋による特別対談が公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 热情与准备是进入游戏插画行业的核心关键&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是游戏公司CyberConnect2代表松山洋与插画制作公司Milliash代表竹谷彰人的对谈实录。两人分别著有《游戏行业攻略法》和《想委托这样的插画师！》，围绕如何在游戏与插画行业中脱颖而出展开深入交流。核心观点是：技术固然重要，但真正的热情与端正的心态才是根本；求职失败者往往缺乏充分调研；业界横向人脉至关重要。两人还呼吁从业者不忘初心，并鼓励有志者认真学习、全力以赴，因为本气投入者终能抓住机会。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了两本关于游戏和插画行业的新书，以及两位作者——CyberConnect2代表松山洋与插画制作公司Milliash代表竹谷彰人——之间的对谈背景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;两人相识于约10年前的漫画评论圈，因松山的一篇&amp;#039;不要轻易目标成为插画师&amp;#039;的文章引发大炎上，随后在竹谷的活动中相遇，发现彼此思想相近，从此成为好友。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;两人探讨了横向人脉在娱乐行业的重要性，认为协调性和人际关系是在业界生存的关键，技术固然重要，但背后的&amp;#039;心态&amp;#039;和&amp;#039;姿势&amp;#039;更为根本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;两人强调&amp;#039;本气&amp;#039;（真正的热情）是进入行业的前提，以专门学校学生不主动提问为例，批评缺乏积极性的求职者，并对比海外留学生的进取心。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;松山指出就活失败者往往调研不足，连目标公司的游戏都没玩过；两人呼吁求职者认真研读行业相关书籍，做好充分准备再投简历。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;松山表示写书的目的之一是让更多中学生、高中生及其家长了解游戏行业的真实情况，并通过每年约100场讲演消除社会对游戏行业的误解，推动行业关系人口增加。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;松山坦言写书的另一动机是想对业界内满腹牢骚的从业者&amp;#039;当头棒喝&amp;#039;，提醒他们不忘初心；竹谷则补充，外部视角的引入有助于行业持续繁荣。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;两人总结认为，真正热爱这个行业的人只要认真分析、全力以赴，就一定能抓住机会；并以NARUTO名言和乌克兰插画师被征召入伍的故事激励读者珍惜机遇、勇敢追梦。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n3f60cc7786d6&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;AI時代だからこそ、「支える技術」がもっと面白い。&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI时代支撑技术与开发支援工作同样不可或缺&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由CyberConnect2开发支援课经理樫野撰写，记述了其参加Interop Tokyo 2026的感悟。作者观察到AI已全面渗透IT展览，但最令其印象深刻的是支撑AI运行的基础设施技术。他将此与游戏开发类比，指出无论是高性能服务器、网络运维，还是游戏开发中的构建环境、自动化工具，这些&amp;#039;幕后支撑技术&amp;#039;都是创作的根基。开发支援课的工作正是如此，通过整备开发环境让开发者专注创造。作者鼓励有志于IT行业的年轻人，支撑型工作同样重要且充满价值。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发支援课经理樫野参加了日本最大级互联网技术展览会Interop Tokyo 2026，感受到AI已成为业界的普遍存在，各企业纷纷展示以AI为核心的产品与服务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI要发挥其能力，需要高性能服务器、超高速网络、大容量存储等基础设施的支撑，作者将AI比作赛车，强调支撑AI的基础设施技术同样不可或缺。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏开发与AI领域相同，除了程序员、美术等显眼职种外，构建编译环境、服务器运维、自动化工具开发等幕后支撑工作同样是不可缺少的重要角色。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发支援课的日常工作包括整备开发环境、推进业务自动化、验证新技术等，这些看似不起眼的积累让开发者能够专注于游戏制作本身。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展览会上最令作者印象深刻的不是新技术本身，而是&amp;#039;如何让现场人员更轻松、开发更快更安全&amp;#039;这一解决问题的姿态，技术是支撑人与工作的手段。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者寄语有志于IT行业的年轻人，IT业界不只需要编程高手，&amp;#039;支撑他人工作&amp;#039;&amp;#039;改善整体机制&amp;#039;等开发支援类工作同样充满魅力，正是这些幕后技术让新游戏和服务得以诞生并传递给用户。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21606&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;公式コミカライズ『戦場のフーガ 鋼鉄のメロディ』 14巻配信!! 新刊発売記念電子書籍フェアやお得なセール情報も&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 『戦場のフーガ 鋼鉄のメロディ』14巻配信と記念セール開催&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーが手掛けるゲーム『戦場のフーガ』の公式コミカライズ作品『戦場のフーガ 鋼鉄のメロディ』の電子書籍第14巻が2026年6月26日に配信開始された。14巻では魔血騎隊との激闘の中でメイとタラニスに謎の力が発動し、マルトの過去と魔弾のアッシュとの関係が明かされるなど、物語が大きく動く。また、14巻発売を記念した電子書籍フェアが7月10日まで開催され、既刊巻が無料または割引価格で購入できるお得なキャンペーンも実施されている。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;ファミ通.comで連載中のゲーム『戦場のフーガ』の公式コミカライズ『戦場のフーガ 鋼鉄のメロディ』の電子書籍最新14巻が2026年6月26日に配信開始されたことが発表された。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;14巻のあらすじでは、魔血騎隊との闘いでメイとタラニスに不思議な力が発動し、マルトの過去と魔弾のアッシュとの関係がついに明かされるという展開が描かれる。単行本には足立たかふみ氏の設定画や松山洋による開発ブログも収録されている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;14巻の発売を記念した電子書籍フェアが6月26日から7月10日まで開催され、1巻から4巻が無料、5巻から8巻が50%OFF、9巻から11巻が30%OFFというセールが実施される。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21613&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ドラマ『チェイサーゲームW』公式ノベライズ『小説 チェイサーゲームW』6/26より10巻配信！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《追逐游戏W》官方小说第10卷正式配信&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为日本游戏公司CyberConnect2旗下人气百合复仇爱恨剧《追逐游戏W》官方小说第10卷的配信公告。为配合电影《追逐游戏W 水鱼之交》的公映，官方以隔周形式推出小说版，在还原剧情的同时加入原创内容与感官描写。第10卷聚焦冬雨归国后与樹重逢，却因樹的初恋ヨルム突然出现而引发新的情感纠葛。作品由CyberConnect2监修，于各大电子书平台同步发售，定价770日元。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为庆祝电影《追逐游戏W 水鱼之交》于5月15日公映，官方宣布将以隔周形式配信剧集《追逐游戏W》的官方小说化作品，第10卷于6月26日开始配信。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小说版在剧情基础上加入原创故事、人物心理描写及场景刻画，并追加了樹与冬雨的感官场景，以全新视角重新演绎《追逐游戏W》的故事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第10卷剧情简介：从中国回到日本的冬雨与樹重逢，某日樹工作的咖啡厅来了韩国网红，竟是樹的初恋ヨルム，ヨルム强行示好，而冬雨恰巧目击了这一幕。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作品由株式会社CyberConnect2监修，小说脚本由保坂星耀执笔，定价770日元，于Apple Books、Kindle等多平台同步配信。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影《追逐游戏W 水鱼之交》正在上映，由菅井友香与中村ゆりか主演，原作松山洋，导演太田勇，发行公司为NAKACHIKA PICTURES。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111562&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 10 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派推荐近期10部值得观看的影视作品及最新资讯。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部的周度影视推荐栏目，介绍了包括《玩具总动员5》、《熊家餐馆》第五季、《吸血鬼莱斯特》等10部近期热门作品。文章采用逐部详细评析的方式，突出各作品的独特魅力与创意特色，涵盖电影、美剧、国产剧、动画等多种类型。同时提供了新作预告、定档信息和MAPPA等制作公司的最新动态，为观众提供专业、全面的观影指南。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文是少数派编辑部发布的周度影视推荐栏目，介绍了近期值得观看的10部作品，包括《玩具总动员5》、《熊家餐馆》第五季等电影、美剧、国产剧等多种类型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细评析了各部作品的特色，如《玩具总动员5》探讨人与科技的连接，《熊家餐馆》呈现厨师们在困难中的坚持与成长，《吸血鬼莱斯特》以摇滚演唱会形式展现角色个性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;此外还介绍了多部其他作品如《问心2》、《水与茴香》、《四季情》第二季等，以及即将上映的预告片和最新影视资讯，为观众提供全面的观影参考。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/create-webview-in-shortcuts&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;探索快捷指令的上限：用网页视图创建丰富界面与交互&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用网页视图与剪贴板突破快捷指令交互局限&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了iPhone快捷指令交互体验的局限性，并提出了一种创新解决方案。作者指出，尽管快捷指令拥有众多启动入口，其交互方式却极为单一，复杂操作需要多个弹窗接力。通过挖掘被忽视的「显示网页视图（webview）」功能，结合AI生成的HTML界面，作者实现了App级别的交互体验。针对网页视图无法向后续步骤传值的核心问题，作者巧妙地利用剪贴板作为数据桥梁，将网页内的数据以JSON格式传递给后续快捷指令，最终成功复刻了锤子的「大爆炸」功能。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iPhone快捷指令拥有多种启动入口，但其交互方式极为有限，仅支持文本输入、列表选择和确认弹窗，导致复杂操作需要多个弹窗接力完成，功能越复杂越笨拙。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者长期思考如何让快捷指令同时具备丰富入口和App级别的交互体验，并最终找到了实现方法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;快捷指令中被忽视的「显示网页视图（webview）」指令可以接收HTML文件并从底部弹出独立UI的网页，借助AI可轻松实现App级别的界面，同时保留快捷指令即用即走的优势。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者发现网页视图存在关键缺陷：网页内的操作结果只能存于浏览器缓存，无法传递给后续快捷指令步骤，严重限制了其实用上限。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过剪贴板作为数据桥梁解决了传值问题：让网页视图中每次数据变化自动以JSON格式复制到剪贴板，后续快捷指令读取剪贴板即可获取数据，并基于此方案复刻了锤子的「大爆炸」功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/100319&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;空调续命之外的清凉：这是我们的夏日降温「新」方案&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 六位作者分享多元夏日降温实用方案&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由少数派编辑部联合6位作者共同撰写，围绕夏日降温这一主题，从不同角度分享了各自的实用解决方案。内容涵盖智能家居改造（Home Assistant接入老旧中央空调）、高转速手持涵道风扇、速干运动通勤穿搭、防晒面罩、清凉护肤喷雾、自制苏打水以及冰镇柠檬红茶等多个维度。文章风格轻松真实，每位作者结合自身生活场景给出具体产品建议和使用体验，兼顾实用性与性价比，为读者提供了多元化、可落地的夏日清凉参考方案。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了少数派编辑部邀请6位作者分享夏日降温实用装备，涵盖日常饮食、户外装备和居家方案，声明不含推广内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vanilla分享了通过Home Assistant和艾达普智能手指机器人对老旧中央空调进行智能化改造的方案，并配合米家循环扇和阳台自动喷灌系统实现卧室降温。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Geek7even介绍了海豹厂长「006」暴力手持风扇，12000转涵道风扇风力强劲，百元出头价格极具性价比，已在同事中引发「人传人」效应。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;斯利普固分享了速干衣+速干裤+防晒衣的夏日通勤穿搭方案，解决了棉质衣物在梅雨季反复湿透的困扰，推荐斯凯奇速干T恤和迪卡侬速干裤。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;许万里Alva介绍了锦纶氨纶混纺材质的防晒面罩，凉感指数0.23 J/(cm²·s)，抑菌效果好，适合痘肌通勤使用，但防晒覆盖面积有限。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Lotta推荐了欧缇丽（CAUDALIE）皇后水葡萄精华喷雾，其中薄荷精油成分带来实际清凉效果，适合户外补水降温，但含乙醇，敏感肌需谨慎。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;BillXuHAHAHA分享了使用aarke不锈钢苏打水机自制苏打水的经历，操作简单，耐用性强，五年使用无故障，成功替代碳酸饮料成为夏日消暑首选。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;潘誉晗介绍了自制冰镇柠檬红茶的方法，可控制糖度和酸度，加入大量冰块后清凉感倍增，是应对浙江闷热夏季的个人消暑饮品方案。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111297&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;林檎越东瀛：苹果的日本之旅&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 苹果公司从1977年进入日本市场到1980年代建立本地化运营体系的发展历程。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细记述了苹果公司进入日本市场的历史过程。从1977年水岛敏雄在旧金山与乔布斯的邂逅开始，到1980年代苹果日本法人的正式成立，期间经历了与东丽公司的合作失败、与佳能销售公司的成功合作等关键节点。文章以纪实风格呈现，通过多个历史人物的视角，展现了苹果如何在日本市场的各种挑战中逐步适应本地化需求，最终确立市场地位的过程。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;1977年4月，日本工程师水岛敏雄在旧金山电脑展会上首次接触Apple II，并与讲解员乔布斯交流，随后决定将其引入日本市场。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;水岛与前同事曽田敦彦合作，通过将Apple II伪装为电视游戏主机的方式通过日本海关，在秋叶原开设展厅进行销售，逐步建立了日本最初的苹果产品代理销售体系。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;1979年，东丽公司通过曽田的介绍与苹果建立合作关系，成为苹果日本的总代理，但由于产品本地化问题、市场竞争加剧等因素，合作于1982年6月失败。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;1983年苹果成立日本法人，与佳能销售公司建立合作关系，推出支持日语的Macintosh，虽然乔布斯最初反对硬件改动，但最终苹果认识到日本市场的重要性，开始推进产品本地化。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111541&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报汇聚华为新车、苹果涨价、AI芯片等多项行业动态&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派派早报，汇总了2026年6月25日至26日的科技资讯。华为发布138.8万元起售的尊界S800超高端定制车型；Apple因零部件涨价上调Mac和iPad售价；Figma发布Code layers等AI设计新功能；OpenAI推出自研推理芯片Jalapeño并升级GPT-5.5 Instant；Akko推出街机控制器FUNBOX；比亚迪发布灵动按键配件；高通公布Dragonfly数据中心方案。此外还涉及Anthropic与白宫谈判、阿里被指蒸馏Claude、Adobe收购Topaz Labs等行业动态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;鸿蒙智行发布尊界S800 Grand Design典藏大观，官方指导价138.8万元起，定位超高端定制车型，提供增程和纯电两种动力版本，主打东方美学豪华设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新车搭载鸿蒙ALPS健康座舱、华为乾崑智驾ADS 5与六激光雷达矩阵，并首发激光雷达洗刮一体系统；底盘采用华为全栈自研800V高压全主动悬架，车身超高强钢和铝合金占比达92%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple于6月25日上调多款Mac和iPad产品售价，MacBook Air起售价由8499元涨至9999元，原因是AI数据中心扩张推高零部件价格，外界预计iPhone等产品或将迎来新一轮涨价。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Figma在年度Config大会上发布多项更新，推出Code layers和AI生成动效功能，允许用户直接在画布中修改代码并通过AI自动生成动画，同时还发布Shaders等多款新工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI与Broadcom合作开发的AI推理芯片Jalapeño正式发布，性能可与Nvidia Blackwell相当，旨在降低对Nvidia GPU的依赖，预计2026年底前部署；同时升级GPT-5.5 Instant模型，提升上下文理解和多轮对话能力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;外设品牌Akko推出首款无摇杆街机控制器FUNBOX，面向格斗游戏玩家，支持8kHz回报率和0.005mm Rapid Trigger精度，配备2英寸LCD屏幕，日本售价22990日元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;比亚迪上线车载配件BYD灵动按键，首发价259元，可磁吸或粘贴于车内任意位置，支持40余项座舱功能控制，延迟不超过30ms，续航可达1年。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;高通在2026年投资者日发布Dragonfly数据中心产品组合，包括C1000 CPU、AI300推理加速器和高带宽计算架构HBC，目标是提升AI推理性能并降低数据中心功耗与成本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;其他消息包括：Anthropic与白宫谈判Claude许可问题；阿里巴巴被指控通过2.5万个欺诈账户大规模蒸馏Claude；Notion Mail将于9月停服；微软上调Xbox主机售价；Adobe收购AI图像增强工具开发商Topaz Labs。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;科技爱好者周刊（第 401 期）：如何赚到10亿美元&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Paul Graham演讲揭示创业高增长是实现十亿财富的核心路径&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期科技爱好者周刊（第401期）的核心内容是Paul Graham在牛津大学的演讲摘录，他用数学模型阐述通过创业保持高增长率可实现10亿美元财富目标，关键在于打造用户喜爱的产品并进入大市场。此外，周刊还揭示了Speedtest靠出售网速数据被高价收购的商业逻辑，SQLite作者用&amp;#039;免费小狗&amp;#039;比喻说明PR的隐性成本，并推荐了多款开发工具、AI项目及技术文章，文摘部分介绍了&amp;#039;米&amp;#039;的历史定义演变。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期科技爱好者周刊第401期由阮一峰于2026年6月26日发布，封面图展示了中国南方人们用巨型荷叶制作防晒面罩的场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Paul Graham在牛津大学发表演讲，主题为&amp;#039;如何赚到10亿美元&amp;#039;，他认为通过创业赚到10亿美元虽然困难但并非不可能，Y Combinator投资的6500家公司中已有约30位创始人实现了这一目标。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Paul Graham用数学计算说明，保持高月增长率（如93%或15%）可以在数年内实现资产从百万到十亿的跨越，关键在于打造用户愿意口口相传的优质产品并进入庞大市场。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;测速网站Speedtest被埃森哲以12亿美元收购，其盈利模式是向电信运营商出售海量真实网速数据，揭示了免费网站的两种主要盈利途径：广告和出售用户数据。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;SQLite作者Richard Hipp解释拒绝外部PR的原因：PR并非免费，接受PR意味着需要长期维护、编写文档和测试，他用&amp;#039;免费小狗&amp;#039;的比喻形象说明了这一负担。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期还包含一句话消息（握力与死亡风险、Sandisk高价硬盘、帕特农神庙修缮）、多篇技术文章推荐、12款工具介绍、5个AI相关项目、4个资源推荐以及图片和文摘内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文摘部分介绍了&amp;#039;米&amp;#039;的历史演变，从法国大革命时期基于地球子午线定义，到后来用光波长、最终用光速重新定义，展现了人类度量衡标准化的科学进程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;言论板块收录了关于雇佣初级工程师的理念、欧洲宜居住宅标准、2022年前书籍的人工价值以及大公司工程师晋升困境等多方观点。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - June 25, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
