@@ -4,8 +4,106 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-06-27T20:23:23.094Z</updated>
+  <updated>2026-06-28T20:27:39.555Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - June 28, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-06-28</id>
+    <updated>2026-06-28T20:27:39.555Z</updated>
+    <published>2026-06-28T20:27:39.555Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>2 articles from 2 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 28, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;196.16438356164383&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    49.0%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;179&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;186&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;25&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████░░░░░░░░░░░░░░░ 49.0%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;2&lt;/strong&gt; articles from &lt;strong&gt;2&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 续集风格失衡，语言虽美但结局仓促令人失望&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是对 Bob Mortimer 系列小说第二部的书评。作者在享受第一部《The Satsuma Complex》后满怀期待地阅读续集，却大失所望。续集中原本迷人幽默的写作风格变得陈腐过度，暴力元素从隐性背景升级为过于沉重的主线，与频繁的文字游戏形成矛盾，破坏了叙事张力。尽管 Bob Mortimer 的语言才华依旧出众，比喻生动迷人，但结局显得仓促且缺乏铺垫，令人不满。最终评分为两星。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者坦言自己习惯性地阅读喜爱书籍的续集，尽管曾发誓不这样做，结果对这本书感到失望——第一部中迷人幽默的风格在续集中变得过度且陈腐，暴力元素也从背景衬托变成了过于突出和沉重的主线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出，Bob Mortimer 的语言天赋依然出众，能创造出极富想象力的比喻和明喻，令人着迷；然而结尾显得仓促且缺乏说服力，像是在字数限制下草草收场。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者给出两星的评价，并附上了多个购书渠道的推荐链接，包括 Amazon、Kobo、Audible 等平台，以及通过图书馆借阅的建议。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110935&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;兜兜转转四款笔记软件，我终于为思考找到了安身之所&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者历经四款笔记软件终选虎鲸笔记，倡导笔记应保存思考痕迹。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者回顾了从Notion、Obsidian、Logseq到虎鲸笔记的笔记工具使用历程。Notion因操作繁琐被放弃，Obsidian受限于文档级引用，Logseq虽以块为单位更无压但性能欠佳，最终作者选定虎鲸笔记，欣赏其抛弃md文件的数据库设计与万物皆块的底层架构。文章还探讨了AI时代的笔记观，认为笔记的核心价值在于保存思考痕迹，笔记软件应是&amp;#039;思考保护区&amp;#039;，AI应辅助而非替代思考过程，并对&amp;#039;md格式最友好AI&amp;#039;的流行观点提出了质疑。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者是虎鲸笔记用户，借虎鲸笔记推出移动版之机，回顾自己使用多款笔记软件的历程，并为虎鲸笔记做推荐。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者最初使用Notion，被其数据库与块设计吸引，但因建立结构耗时费力、操作繁琐、卡顿严重，最终因心理负担过重而放弃。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者转向Obsidian，欣赏其本地开放的md文件存储方式，学习了Dataview、Templater等插件，并摸索出&amp;#039;时间戳日志+日记&amp;#039;的记录方法，但最终受限于其基于文档而非内容块的引用机制。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在生娃后重新有了记笔记的需求，选择了Logseq，因其以&amp;#039;块&amp;#039;为单位的双向链接和内置日志系统更无压力，但其md文件存储导致性能差、迁移不便的问题促使作者继续寻找替代品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过少数派文章发现虎鲸笔记，被其抛弃md文件的数据库设计、万物皆块的底层架构以及无需插件的完整使用体验所折服，认为这是比同类产品更先进简洁的设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者阐述AI时代的笔记观：笔记的核心价值在于保存思考痕迹，AI虽能直接生成结论，但会跳过思考过程；笔记软件应是&amp;#039;思考保护区&amp;#039;，AI应辅助而非替代思考。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者反对&amp;#039;对AI最友好的md格式就是最好的笔记软件&amp;#039;这一观点，认为虎鲸笔记不使用人眼可直读的md文件恰恰保护了思考的原始性，并建议定期将笔记打印为PDF以确认内容完整性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以推荐虎鲸笔记作结，表示文章本身用Typora写成，并声明自己不支持All in one的理念。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - June 27, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1724,220 +1822,6 @@ This is a minimal microblog post in which the author casually announces an upcom
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;微信支付推出「AI专属卡」，专为AI智能体支付场景设计，首个接入产品为WorkBuddy，用户可通过自然语言指令由AI代为完成美团等平台的点单与支付，每笔交易需用户手动确认。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;腾讯公开新网盘服务，支持多应用数据互通、跨应用全局搜索、高效共享协作及Agent调用，提供个人版、SaaS版、VPC版及私有化多种形态。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;铁威马推出F4-425 Pro铝合金NAS，提供四个3.5英寸SATA盘位和三个M.2固态硬盘位，最大存储152TB，支持AI自然语言交互及4K硬件解码，售价3799至4799元。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - June 17, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-06-17</id>
-    <updated>2026-06-17T20:49:51.727Z</updated>
-    <published>2026-06-17T20:49:51.727Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>11 articles from 5 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 17, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;184.1095890410959&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    46.0%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;168&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;197&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;24&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████░░░░░░░░░░░░░░░░ 46.0%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22619&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Stories Of Ireland by Brian Friel&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Friel短篇集充满舞台感与爱尔兰怀旧情愫&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是对Brian Friel短篇小说集《Stories Of Ireland》的简短书评。评论者指出，作为爱尔兰著名剧作家，Friel的写作风格带有明显的舞台感，对话生动出彩，部分故事宛如迷你话剧场景。故事整体基调充满怀旧、忧郁与感伤情绪，生动再现了爱尔兰西部的昔日风貌。该书还附有作家Louise Kennedy撰写的简短序言。评论者认为此书篇幅短小，便于携带，是理想的旅途读物。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://storiedcolors.com/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Storied Colors&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 唐代皇家专属黄色，法律禁止民间使用&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章介绍了中国唐代皇家专用色彩——皇家黄（Imperial Yellow）。这种颜色是矿物质颜料，色调温暖、饱和度高，自唐朝起成为中国皇帝的专属色彩，并通过服饰礼法（sumptuary law）严格禁止皇室以外的任何人使用。文章简洁地点明了这一颜色的历史地位与文化象征意义，体现了中国古代等级制度对色彩使用的严格规范。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 David Heinemeier Hansson &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/the-rape-of-britain-610412f8&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Rape of Britain&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 英国强奸团伙报告揭露国家机构系统性失职与纵容&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;英国议员Rupert Lowe发布的《强奸团伙调查报告》揭示了数十年来以巴基斯坦裔穆斯林为主的犯罪团伙对约25万名英国女童实施系统性性暴行的骇人事实。更令人震惊的是，警察、社会服务、NHS及学校等国家机构非但未能保护受害者，反而纵容甚至协助施暴者。与此同时，BBC对该报告保持沉默，而英国公众对传统媒体的信任度已跌至30%。英国政府还借保护儿童之名推行网络实名制，批评者认为此举意在压制异见，与其每年大量逮捕网络言论者的做法一脉相承。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;英国议会议员、恢复英国党领袖Rupert Lowe发布了《强奸团伙调查报告》，详述了数十年来以巴基斯坦裔穆斯林为主的犯罪团伙对英国白人女童实施的大规模性暴行，估计受害者多达25万人。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;报告揭示英国警察、社会服务、NHS、学校及出租车监管机构等国家机构不仅未能保护受害者，反而在不同程度上纵容甚至协助了施暴者，报告中的具体案例令人发指。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;BBC报道显示英国公众对传统媒体的信任度已降至30%，而BBC自身对该调查报告的完全沉默恰恰印证了这种不信任的根源所在。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;英国政府以保护未成年人为由，推行要求所有成年人验证身份的社交媒体监控计划，实质上将终结网络匿名性，批评者指出这与每年1.2万起网络言论逮捕案的背景相结合，显示出威权管控意图。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对英国民众所经历的苦难表示同情，认为受害儿童理应得到更好的保护，并警告继续拖延将带来危险后果。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-17T18:03Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-17T18:03Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 人类艺术家为AI艺术进行辩护&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文标题为《一位人类艺术家对AI艺术的辩护》，作者为Asher Perlman。从标题和简短注释来看，文章似乎以幽默或讽刺的口吻切入，探讨AI艺术的合理性与价值。作者以人类艺术家的身份为AI艺术进行辩护，这一立场本身具有反常规的意味。然而，由于提供的正文内容极为有限，无法对文章的具体论点、论据或结论进行深入分析。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/?p=11930&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【採用情報】急募！宣伝スタッフ募集［新卒・中途］（東京スタジオ）&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 サイバーコネクトツーが宣伝室スタッフを新卒・中途で募集&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーは、ゲームタイトルの国内外プロモーションを担う宣伝室スタッフ（新卒・中途）を募集している。業務内容はプレスリリース作成・SNS運用・イベント企画・メディア対応など多岐にわたり、自社パブリッシング事業の拡大に伴い漫画・ドラマ・映画などメディア展開にも携わる。求める人物は自発的な行動力と高いコミュニケーション能力を持つ人材。勤務地は福岡・東京・大阪の3拠点で希望に応じて決定。給与はジュニアとインターミディエイトの2段階制で、能力評価により昇格可能。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーは世界へ向けたゲームタイトルのプロモーションを担うマーケティング・宣伝のコアメンバーを募集しており、大規模タイトル開発を控えた今が絶好のチャンスとしている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;会社の業務部は300名超のスタッフのうち15％を占め、福岡本社・東京・大阪の3拠点で連携しながら、ゲームクリエイターのサポートを行っている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;宣伝広報課の宣伝室はファンとの距離が近い部署で、自社パブリッシング事業の拡大に伴い、漫画・ドラマ・映画などメディア展開にも関わる業務が増えている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;求める人物像は、自発的にアイデアを出し、社内外との調整・コミュニケーション能力を持ち、複数業務を同時進行できる人材である。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;募集職種は業務部宣伝広報課宣伝室で、プレスリリース作成・SNS運用・イベント企画・動画制作進行・メディア対応などの業務を担当する。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;応募資格は高卒以上でMicrosoft Officeの基本操作ができ、エンターテインメントに興味があり、コミュニケーションが得意な人物を求めている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;給与体系はジュニア（月給231,000円〜）とインターミディエイト（月給271,000円〜）の2段階で、能力評価により昇格できる仕組みになっている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;勤務条件は完全週休2日制（土日）、年間休日123日、福岡・東京・大阪の3拠点から希望に応じて勤務地を選択可能で、新卒・中途ともに募集している。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;選考フローは一次面接と最終面接の2段階で、来社またはオンラインで実施され、遠方の場合は最終面接の交通費を会社が負担する。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/ncb5ef4b76c97&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『しごにんの侍』制作ぶろぐ 第四十九回『いつこはいつつご？』&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《しごにんの侍》第49回幕后解说新角色设定与命名由来&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为CyberConnect2漫画项目《しごにんの侍》第四十九回的幕后解说博客。作者围绕本回新登场角色展开说明：新角色四子意外地被漫画家设计为眼镜少女，作者对此表示欣喜，并从世界观角度解释其为伊达眼镜；五子的命名源于她是万象第五人格而非第五个孩子；五子与姐姐们素未谋面，感情上毫无联结，且恢复的记忆对她而言如同旁观他人；姐姐们虽在身体素质上强于四剣豪，但实战能力仍存在差距。下一话预计6月24日发布。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本回介绍了新登场的眼镜少女角色「四子」，作者表示剧本中只指定了「十庵」戴眼镜，四子戴眼镜是漫画家自行设计的，令作者感到惊喜。由于时代背景下眼镜尚未普及，加之角色们多为不老不死体质，四子的眼镜被推断为装饰用的伊达眼镜，三子脸上的伤痕也被认为是角色自我认同的体现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;揭示了角色「五子」命名的由来——并非因为是第五个女儿，而是因为她是万象人格中第五个诞生的，与标题《しごにんの侍》需要第五位角色这一元设计意图相呼应。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明了五子与姐姐们没有实际往来的原因：她们从未谋面，五子对姐姐们毫无感情基础。此外，即便五子恢复了记忆，也只是如同在旁观他人记忆般的疏离感，并未真正感同身受。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;指出五子的姐姐们在身体能力上（カタログスペック）确实强于四剣豪，但在剑术与实战运用上则完全无法相比，暗示下回将有进一步的剧情展开，第五十话预计6月24日公开。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111181&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;WWDC26 在现场，与 Apple 设计大奖提名开发者聊聊他们的 app&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派WWDC26现场专访三款Apple设计大奖入围app开发者&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由少数派记者在WWDC26现场撰写，介绍了三款Apple设计大奖入围app的开发者及其作品。(Not Boring) Camera以GameCube风格的三维界面和SUPER RAW成像见长；Structured凭借可视化时间轴和全面辅助功能服务ADHD等特殊需求用户；Detail则以AI自动剪辑、设备端模型和多功能创作工具赋能内容创作者。文章还提及开发者新项目Subwave的内容分发理念，并以开发者对WWDC体验的正面反馈和对Siri AI未来应用的期待收尾。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;WWDC26开幕前，Apple设计大奖揭晓，分六大类别共评出12款获奖应用及游戏，少数派受邀前往Apple Park参与盛会，并采访了三款入围app的开发者。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;(Not Boring) Camera由Andy Allen开发，以三维相机界面、光影触感交互和GameCube风格设计著称，支持SUPER RAW、3D LUT及DNG/ProRaw格式导出，注重易用性与趣味性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Structured是德国团队unorderly开发的日程规划工具，以可视化时间轴为核心，专为ADHD人群及繁忙职场人士设计，凭借全面的辅助功能支持入围多元包容类奖项。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Detail是一款AI视频编辑工具，集自动剪辑、AI提词器、多机位录制、自动字幕等功能于一体，并利用设备端基础模型生成标题描述，面向专业内容创作者。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发者Paul Veugen还介绍了新产品Subwave，该平台可将一段对话内容自动整理成视频、文章、播客和简报，实现&amp;#039;一处发布、多种形态&amp;#039;的内容分发。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;参与WWDC的开发者们表示，大会不仅提供了与Apple工程师交流的机会，也促进了全球开发者间的思想碰撞，Siri AI的问世将为这些app带来更多创新空间。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110720&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;模糊算法让图像更清晰？游戏里的「抗锯齿」到底在做什么&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 游戏抗锯齿技术原理与各方案对比解析&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以科普方式向非图形学读者介绍了游戏中抗锯齿技术的原理与实现。文章从光栅显示器的像素本质出发，解释了锯齿（走样）产生的根本原因，随后介绍了两大应对思路：硬件上提升分辨率（PPI），以及算法层面的区域采样理论。在此基础上，文章系统梳理了SSAA、MSAA、FXAA、SMAA、TAA、DLSS、DLAA等主流抗锯齿技术的核心逻辑、优缺点及适用场景，并将其归纳为多采样、后处理和时域累积三大类。作者写作风格通俗易懂，兼顾准确性与可读性。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏图形设置中的抗锯齿选项（如TAA、MSAA、DLSS等）是本文的核心话题，作者通过科普方式解释其背后的原理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;光栅显示器由像素组成，无法显示真正连续的图像，当连续图形被转换为像素时会产生&amp;#039;走样&amp;#039;现象，锯齿就是其典型表现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;抗锯齿（Anti-Aliasing）的本质是通过技术手段让画面在视觉上更接近连续图像，可从硬件和算法两方面入手。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提高显示器分辨率（PPI）是最直接的抗锯齿方法，像素更密集使锯齿缩小到人眼难以察觉的程度，但代价是GPU需处理更多像素，性能开销大。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;区域采样是抗锯齿算法的理论基础，将像素视为有面积的区域，根据图形覆盖比例决定像素颜色，分为非加权和加权区域采样两种方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;SSAA（超采样抗锯齿）先在高分辨率下渲染再缩小，效果好但性能开销极大；MSAA（多重采样抗锯齿）只关注几何边缘，以更低成本实现接近SSAA的效果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;FXAA（快速近似抗锯齿）在渲染完成后分析图像中颜色变化剧烈的区域进行平滑，速度快但可能导致画面模糊；SMAA更细致地分析边缘形态，能更好保留清晰度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;TAA（时域抗锯齿）通过融合历史帧与当前帧信息来减少锯齿，能处理多种走样问题，但实现不好会导致画面模糊和运动拖影。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;DLSS利用深度学习从低分辨率重建高分辨率画面，主要目标是提升帧率；DLAA则在原生分辨率下追求极致画质；AMD的FSR和Intel的XeSS也有类似功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章将抗锯齿技术归为三类：多采样（SSAA/MSAA）、后处理（FXAA/SMAA）和利用时间信息（TAA/DLSS等），并指出DLSS等技术本质上已是超分辨率和图像重建技术。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出光栅显示器永远无法彻底消除走样，但学界正探索光场显示、全息显示等前沿技术，期待未来能真正还原连续的视觉世界。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110958&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;具透 | 动态应用网格、Liquid Glass 微调，watchOS 27 首个开发者测试版一览&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 watchOS 27带来动态应用网格、Liquid Glass优化及多项实用新功能&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;watchOS 27作为今年WWDC的一部分，带来了多项值得关注的更新。Liquid Glass设计语言经过进一步打磨，玻璃质感更立体、对比度更佳。全新的「动态应用网格」让应用启动更直观，智能叠放也更主动地根据场景推送相关小组件，并新增单指捏合手势，完善单手操作体验。查找App完成整合，Siri AI首次登陆Apple Watch（国内暂不支持）。此外还有经期追踪、性能提升、Workout Buddy增强等多项细节优化。该系统仅支持Series 9及以上机型。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;watchOS 近年来变化不大，今年WWDC重点讨论AI，watchOS 27相关内容较少，但少数派仍第一时间整理了其值得关注的新功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;watchOS 27对去年引入的Liquid Glass设计语言进行了优化，包括更均匀的折射、改善的对比度、更立体的按钮玻璃质感，以及更高的模糊透明度，但iOS上的调节滑杆功能未下放至watchOS。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;watchOS 27新增「动态应用网格（Dynamic app grid）」，将常用应用和推荐内容置于显眼位置，图标更大、更易点选，同时保留传统应用网格入口。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;智能叠放在watchOS 27中变得更主动，会根据时间、地点和使用场景，自动将更可能需要的小组件优先显示，如日历提醒、天气预报、联系人及运动数据等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;watchOS 27为智能叠放新增单指捏合手势，配合双指捏合，实现了完整的单手操作逻辑，用户无需触碰屏幕即可完成打开、选择和进入小组件的全部操作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Watch的查找App在watchOS 27中进行了整合，将查找设备、联系人和物品合并为一个以地图为背景的统一App，并支持精准查找功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;watchOS 27首次引入Siri AI（国内暂不可用），支持自然对话和开放式提问，新增独立App，可跨iPhone和Apple Watch继续对话，并能调取各App中的个人数据回答问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Workout Buddy新增配速、距离和训练时长的进度对比功能，并能调取健身历史进行纵向比较，且无需iPhone在身边即可使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;watchOS 27还带来了多项其他更新，包括经期追踪新增围绝经期支持、儿童Apple Watch设置优化、Apple Music启动加速、室内跑步距离追踪精度提升、电池优化建议及页面加载性能大幅改进等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;watchOS 27整体更新实用且性能优化明显，但仅兼容Series 9及更新机型，早期Apple Watch用户无法享受这些新功能。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110750&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;在香港骑共享单车：访客视角的经验分享&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 内地访客在香港新界骑共享单车的实用指南与路线推荐&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以内地访客视角，全面介绍了在香港新界骑共享单车的实用指南。文章涵盖现有两家运营商（LocoBike和HelloRide）的车型、收费与使用方式，新界约60公里单车径网络的覆盖范围，以及高德地图和「出行易」的导航建议。重点讲解了香港靠左行驶、单车须行车道、不得上人行道等与内地不同的骑行规则，并推荐了荃湾西至屯门、大围至大美督等五条特色路线。作者认为骑行能让游客以更真实、立体的方式探索香港。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;香港总体对单车不友好，但新界地区地势平坦、有单车径规划，加上共享单车市场已趋于稳定，骑行探索新界门槛较低。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者去年因偶然骑行荃湾至屯门，体验良好，此后共享单车成为其在新界闲逛的常用交通工具，本文将以内地访客视角介绍相关方法和路线。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;香港目前仅剩两家共享单车运营商：本地品牌LocoBike和内地哈啰旗下的HelloRide，两者车型均与内地相似并加装了前灯。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;LocoBike支持购买一日通行证（20港币），HelloRide按时计费但建议购买一日无限次卡（28.8港币）；HelloRide车况更好但价格较高。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;香港适宜骑行的区域主要在新界，已建成约60公里单车径网络，从屯门延伸至马鞍山，荃湾、将军澳和东涌亦有单车径。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;导航方面，高德地图和苹果地图比谷歌地图更适合规划香港骑行路线，香港运输署的「出行易」应用可查看详细单车径路线。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;骑行时须注意单车不得驶入郊野公园、隧道、快速公路等场所，在边境地带还须留意不要误入禁区，需关注相关交通标志。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;香港靠左行驶，单车被视为一般车辆，须在车行道行驶而非人行道，不得与其他车辆并排，但可进入巴士线。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;过路口须遵守行车道红绿灯规则，单车径遇路口须下车推行经斑马线过路；转向无红灯转向设计，须注意靠左超车规则。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;香港法例规定单车只能停放于指定泊车处，共享单车小程序地图上会标示可停车位置，短暂停留可将车停于路旁但不得阻碍行人。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章推荐五条骑行路线：荃湾西至屯门、上水至塱园湿地、大围至大美督、朗屏至天水围，以及康城至将军澳，各具特色风景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为骑单车能让游客以更立体、真实和个人的方式认识香港，感受城市中市井街道与山海城乡的多元面貌。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111124&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：SpaceX 宣布收购 Cursor、字节跳动推出 Seedance 2.0 Mini 等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 SpaceX收购Cursor引领本日科技新品速览&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派科技早报，汇集了2026年6月16日多条科技新闻。最重磅的是SpaceX以600亿美元全股票交易收购AI编程工具Cursor母公司Anysphere；字节跳动推出高性价比视频生成模型Seedance 2.0 Mini；夏普发布搭载徕卡相机的AQUOS R11手机；理光上调GR系列相机售价；Commodore复出推出反社交媒体翻盖手机Callback 8020；此外还有Pulsar超小键盘国行上市及飞傲复古FM收音机RR13发布等消费电子新品资讯。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;SpaceX通过SEC文件正式宣布以约600亿美元全股票交易收购AI编程工具Cursor母公司Anysphere，交易预计2026年第三季度完成，Cursor将作为SpaceX全资子公司继续运营。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;字节跳动火山引擎推出Seedance 2.0 Mini视频生成模型，主打高性价比，速度比Seedance 2.0 Fast快两倍，面向电商内容、营销素材等规模化视频生成场景，单秒视频生成成本约0.5元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;夏普发布AQUOS R11中高端手机，搭载徕卡相机系统、高通骁龙8s Gen 4处理器，配备6.5英寸Pro IGZO OLED屏幕和5100mAh电池，7月9日起发售。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;理光宣布因原材料及物流成本上涨，自2026年7月1日起调整GR系列紧凑型数码相机建议零售价，GR IV售价调整为9799元起。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;传奇PC品牌Commodore推出翻盖手机Callback 8020，运行Jolla Sailfish系统，设计上屏蔽社交媒体和网页浏览器，主打减少数字干扰，售价549.99美元起。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pulsar Lab X-PAD mini超小键盘国行版上市，定价269元，集成磁轴大键、旋钮、LCD显示和ARGB氛围灯，支持高频按键扫描和Rapid Trigger功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;飞傲推出复古设计袖珍FM收音机RR13，定价349元，搭载专业FM芯片和超薄五磁扬声器，支持外放与耳机输出，内置可更换充电锂电池。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
