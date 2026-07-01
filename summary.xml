@@ -4,8 +4,192 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-06-30T20:43:07.195Z</updated>
+  <updated>2026-07-01T20:55:21.120Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - July 1, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-07-01</id>
+    <updated>2026-07-01T20:55:21.120Z</updated>
+    <published>2026-07-01T20:55:21.120Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>8 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 1, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;199.45205479452056&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
+    49.9%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;182&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;183&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;26&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████░░░░░░░░░░░░░░░ 49.9%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;8&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/500&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 500: By the numbers&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Bytes简报庆祝第500期，回顾社区历程并汇总前沿技术动态。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Bytes简报第500期的纪念特刊，回顾了其在Web开发领域的长期耕耘。作者通过数据展示了对React、AI和TypeScript等主题的持续关注，并以幽默笔触总结了社区互动中的趣闻与争议。文章同时分享了Next.js、Vercel支持Docker及Anthropic模型更新等前沿动态，体现了作者坚持创作的决心与技术社区的活力。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;庆祝Bytes简报第500期，表达对读者长期支持的感激。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;简述本期看点，涵盖Next.js、Vjeux以及X平台的相关内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;回顾简报在多次危机中幸存并达成500期里程碑的心路历程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;统计历届主题，重点关注Web Platform、React、AI及TypeScript等技术。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;公布CoolBits贡献排行榜，TkDodo、Ahmad Shadeed和Addy Osmani位列前三。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;盘点曾引发争议的迷因，特别是涉及英国女王的推文带来的教训。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论Spot the Bug环节中读者对代码细节的严苛审查及互动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;确认简报将继续运营，并预告周五将发布新内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍Sentry即将举办的关于调试和AI工作流的免费技术研讨会。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;汇总前沿技术资讯，包括Next.js 16.3、Vercel支持Docker及Claude模型更新等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How I drove a rental Mazda across America in 59 hours&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者总结夏威夷之行与 WWDC 结束后的工作生活感悟。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者回顾了从夏威夷归来后的创作与生活状态，分享了关于 cannonball 的视频总结及对旧文的回应。文章记录了 WWDC 结束后重返工作的忙碌，以及参加 BitRig 聚会与 UI Frameworks 组同事交流的轻松时刻，展现了作者在工作与个人项目间的平衡与感悟。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n010abf674d6b&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『しごにんの侍』制作ぶろぐ 第五十回『ほんさくのほんしつ』&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Visual collaboration, character scoping, and literary symbolism define the core creative essence of &amp;quot;Shigonin no Samurai.&amp;quot;&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary: &amp;quot;Shigonin no Samurai&amp;quot; Production Blog #50 – &amp;quot;The Essence of the Original Work&amp;quot;
+
+This production blog entry reflects on the collaborative creative process behind the game/manga, highlighting how the artist&amp;#039;s visual interpretations consistently elevate and occasionally correct the original script — particularly in the case of the &amp;quot;Asura&amp;quot; fusion design, where anatomical inconsistencies were resolved to produce a more naturalistic result. The author acknowledges that reviewing the artist&amp;#039;s work frequently generates new inspiration, as the visual output often surpasses the writer&amp;#039;s own mental imagery. Character design philosophy is also addressed: Itsuko&amp;#039;s sword techniques are framed as improvisational adaptations blending her culinary expertise with observed swordsmanship from four master swordsmen, while the sisters are deliberately scoped as support-oriented combatants rather than primary fighters, directly shaping their in-battle behavior. The entry also unpacks the literary wordplay embedded in the &amp;quot;Murame&amp;quot; technique, which draws on classical Japanese literature and shark symbolism for thematic resonance. Notably, the author intentionally leaves certain dialogue passages unexplained to preserve thematic ambiguity and encourage independent reader interpretation.
+
+**Key Technical Takeaways:**
+- **Design iteration:** Artist corrections inform final canonical visuals
+- **Character scoping:** Role definition (support vs. combat) drives capability design
+- **Worldbuilding depth:** Technique names carry layered literary/cultural references
+- **Narrative philosophy:** Deliberate ambiguity as a storytelling tool&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Visual Design Evolution:&lt;/strong&gt; The author reflects on the &amp;#039;Asura&amp;#039; fusion design, noting how the artist corrected anatomical inconsistencies from the script to create a more natural visual representation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Creative Collaborative Synergy:&lt;/strong&gt; The writer emphasizes that the artist&amp;#039;s visual interpretation often exceeds their own imagination, providing fresh inspiration even to the creator during the review process.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Improvised Combat Techniques:&lt;/strong&gt; Itsuko’s new sword skills are revealed as spontaneous adaptations that blend her culinary background with techniques observed from the four master swordsmen.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Antagonist Role Definition:&lt;/strong&gt; The sisters are characterized primarily as Bansho&amp;#039;s assistants rather than dedicated combatants, which informs their specific capabilities and behavior in battle.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Literary Symbolism Pun:&lt;/strong&gt; The author explains the wordplay behind the &amp;#039;Murame&amp;#039; technique, which references classical Japanese literature while utilizing shark imagery for thematic depth.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Preserving Narrative Subtext:&lt;/strong&gt; The commentary intentionally avoids over-explaining certain dialogues to maintain the story&amp;#039;s thematic integrity and allow for reader interpretation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111709&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;声擎×少数派｜「角落新声」征文活动&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Audioengine and sspai&amp;#039;s writing contest rewards original digital ecosystem documentation with hardware and membership prizes.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Audioengine and sspai have launched the &amp;quot;New Sounds from the Corner&amp;quot; writing contest, inviting tech enthusiasts to document the architectural design and optimization of personal digital ecosystems, such as high-fidelity audio setups, desktop organization, and smart home integrations. Participants are required to submit original, long-form content via the sspai platform between July 1 and August 7, 2026, adhering to specific editorial standards and mandatory generative AI disclosure policies. High-value incentives for winners include Audioengine hardware and sspai Prime memberships, while all shortlisted entries qualify for standard community remuneration.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Concept of Recomposition:&lt;/strong&gt; The contest draws inspiration from music sampling and slicing, encouraging users to rearrange their daily life fragments into a harmonious personal space.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Contest Theme Focus:&lt;/strong&gt; Participants are invited to share how they design and optimize their ideal corners for relaxation, work, or entertainment using various digital tools and audio setups.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Creative Reference Directions:&lt;/strong&gt; Suggested topics include home theater planning, desktop organization, gaming environment upgrades, and the integration of smart lighting and audio equipment.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Submission Quality Standards:&lt;/strong&gt; Entries must be original, adhere to sspai style guidelines, and include proper disclosure if generative AI tools were used during the writing process.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Awards and Incentives:&lt;/strong&gt; Winners can receive Audioengine speakers, sspai hardware, and Prime memberships, while all shortlisted entries earn standard community remuneration.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Participation Logistics:&lt;/strong&gt; The event runs from July 1 to August 7, 2026, requiring authors to use specific tags and follow a defined submission workflow via the sspai platform.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111640&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[送码] 白描 App 的 9 周年：推出鸿蒙版，白描 PDF 共创首发&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Baimiao marks nine years with a native HarmonyOS launch and a new AI-powered PDF productivity application.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Celebrating its ninth anniversary, Baimiao has expanded its productivity suite with a native HarmonyOS launch and the debut of &amp;quot;Baimiao PDF,&amp;quot; a specialized standalone application designed for deterministic document workflows like high-accuracy OCR, table extraction, and LLM-powered translation. The developer emphasizes specialized utility over general-purpose AI interfaces, offering high-efficiency tools for tasks such as PDF-to-Markdown export and cross-platform document synchronization. Maintaining a commitment to long-term user trust, the update honors legacy lifetime memberships while introducing a new subscription model for the PDF suite, which is currently available on HarmonyOS and the web with mobile versions forthcoming.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Evolution and History:&lt;/strong&gt; Baimiao has evolved over nine years from a simple text recognition tool into a comprehensive cross-platform productivity suite.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Commitment to Users:&lt;/strong&gt; The developer emphasizes maintaining long-term trust by honoring lifetime memberships without transitioning legacy users to modern subscription models.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;HarmonyOS Ecosystem Expansion:&lt;/strong&gt; Baimiao officially launches on HarmonyOS, ensuring full feature parity and seamless account synchronization across all supported operating systems.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Baimiao PDF Introduction:&lt;/strong&gt; A new standalone application, Baimiao PDF, is introduced to handle complex document workflows including scanning, format conversion, and compression.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Tool-Centric Philosophy:&lt;/strong&gt; The developer advocates for specialized tools over general AI interfaces to provide deterministic, high-efficiency workflows for repetitive document tasks.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Advanced Feature Set:&lt;/strong&gt; The PDF suite includes high-accuracy OCR, table-to-Excel extraction, PDF-to-Markdown export, and large-model-powered document translation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cross-Platform Strategy:&lt;/strong&gt; Debuting on HarmonyOS and the web, the new PDF tool features unified accounts with planned expansions to iOS and Android.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pricing and Rewards:&lt;/strong&gt; The launch introduces a subscription model for the PDF tool with significant discounts for existing Baimiao members and community partners.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/109932&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;年度报告不够看？微信读书 Skill 上手体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Automate WeChat Reading data synchronization to Obsidian using AI agents for structured, queryable personal knowledge management.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This technical workflow leverages terminal-based AI agents (such as Qwen Code or Claude Code) and API integrations to synchronize nine years of WeChat Reading data directly into a local Obsidian knowledge base. By applying LLMs to historical highlights and notes, the system enables natural language querying of personal libraries and automates the generation of structured content, including book reviews and knowledge cards. The implementation focuses on programmatic tagging and data organization, transforming static reading logs into a dynamic, queryable intellectual record. This approach allows developers to quantify their evolving thought patterns while streamlining the transition from consumption to long-term knowledge management.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Data-Driven Reading Analysis:&lt;/strong&gt; The author utilizes AI to analyze nine years of WeChat Reading data, uncovering specific patterns in reading habits, session durations, and genre preferences.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Conversational Bookshelf Interaction:&lt;/strong&gt; By integrating the WeChat Reading Skill, users can perform natural language queries against their personal library to retrieve specific notes, highlights, and tailored recommendations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Creative Content Workflows:&lt;/strong&gt; The AI enables efficient content creation by drafting book reviews, social media snippets, and structured knowledge cards directly from reading highlights.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Automated Knowledge Pipelines:&lt;/strong&gt; A technical workflow is established connecting WeChat Reading to Obsidian via AI, automating note synchronization, tagging, and local knowledge base organization.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Tooling Implementation:&lt;/strong&gt; The solution leverages terminal-based AI agents like Qwen Code or Claude Code to execute specialized skills and manage data through API integration.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI as Intellectual Mirror:&lt;/strong&gt; The author reflects on how AI-driven analysis of reading history serves as a transparent record of one&amp;#039;s evolving thought patterns and intellectual growth.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 第二外国语日语学院 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026-2027学年一学期北京第二外国语学院日语学院跨专业复合在线课程开课计划&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 BISU’s Japanese School announced 2026-2027 interdisciplinary online courses integrating language proficiency with diverse professional tracks.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Beijing International Studies University (BISU) has released its first-semester course schedule for the 2026-2027 academic year, focusing on interdisciplinary &amp;quot;composite&amp;quot; online offerings within the School of Japanese Studies. The program aims to integrate Japanese language proficiency with diverse professional tracks, utilizing a digital-first delivery model to facilitate cross-departmental learning. This initiative underscores a long-term institutional commitment to flexible, remote pedagogy and the development of specialized educational infrastructure to support versatile, multi-skilled graduates.&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 虹线 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://1q43.blog/post/12498/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;为什么说 Anthropic 是邪恶的？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Anthropic’s Claude Code uses obfuscated fingerprinting to track Chinese users, betraying its Constitutional AI principles through discriminatory redlining.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Anthropic’s Claude Code has been found to implement silent digital fingerprinting by altering punctuation and date formats upon detecting Chinese network indicators, utilizing XOR-encrypted and Base64-encoded blacklists to trigger specific Unicode replacements. This mechanism is identified as an intentional institutional decision—involving deliberate code obfuscation and product management—to facilitate identity-based tracking and &amp;quot;digital redlining&amp;quot; without user awareness. The article argues that this shifts AI security policy from behavioral monitoring to national-origin-based exclusion, directly aligning with US &amp;quot;deemed export&amp;quot; mandates. Ultimately, these practices are framed as a betrayal of Anthropic’s &amp;quot;Constitutional AI&amp;quot; branding, replacing universal safety principles with opaque, systematic classification systems reminiscent of historical state-level discrimination.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hidden Fingerprinting Mechanism:&lt;/strong&gt; Claude Code was found to silently alter punctuation and date formats when detecting Chinese time zones or proxy usage. This creates a digital fingerprint used to identify and track specific user groups without their knowledge.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Obfuscated Blacklist Implementation:&lt;/strong&gt; The software employs XOR encryption and Base64 encoding to hide a blacklist of Chinese AI entities. It triggers specific Unicode character replacements when these keywords or Chinese network environments are detected.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Deliberate Engineering Choice:&lt;/strong&gt; This mechanism is identified as a systematic institutional decision rather than an accidental bias. It involves intentional product management, code reviews, and obfuscation to bypass user awareness.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Historical Categorization Parallels:&lt;/strong&gt; The article compares Anthropic’s tagging to historical systems like the Nuremberg Laws and IBM’s punch cards. It argues that classification is the first step toward systematic exclusion and violence.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hidden Administrative Violence:&lt;/strong&gt; Similar to historical &amp;#039;redlining,&amp;#039; this digital discrimination operates silently within processes. It deprives users of their identity narrative and the ability to contest opaque administrative decisions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Deemed Export Doctrine:&lt;/strong&gt; Recent US mandates treat providing AI access to foreign nationals as a &amp;#039;deemed export.&amp;#039; This shifts security policy from behavioral monitoring to identity-based exclusion based on national origin.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Constitutional AI Hypocrisy:&lt;/strong&gt; Anthropic’s actions are contrasted with its &amp;#039;Constitutional AI&amp;#039; branding. The author argues that the company has replaced universal safety principles with opaque, identity-based discrimination.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - June 30, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1718,98 +1902,6 @@ The author has completed the eighth book in the *Dungeon Crawler Carl* series af
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结：《茫室》是首个完全AI native项目，半年来已抛弃IDE和大量Unity插件；AI改变的是生产效率而非游戏质量本身，游戏是否成立仍取决于体验、审美和人的判断，game jam提供了宝贵的早期反馈闭环。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - June 20, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-06-20</id>
-    <updated>2026-06-20T20:33:22.184Z</updated>
-    <published>2026-06-20T20:33:22.184Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>2 articles from 2 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 20, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;187.39726027397262&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    46.8%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;171&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;194&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;24&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████░░░░░░░░░░░░░░░░ 46.8%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;2&lt;/strong&gt; articles from &lt;strong&gt;2&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Which Copyleft Licence is Suitable for an SVG?&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 SVG兼具代码与图像属性，许可证选择存在争议&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深入探讨SVG文件的许可证选择困境。SVG以XML编写，通过数学运算生成可无限缩放的清晰图像，兼具代码与媒体的双重属性。作者逐一分析了Creative Commons（CC不推荐用于软件）、GPL（可用于任何作品但需明确源代码）和Free Art License（与GPL不兼容）等许可证的适用性，并讨论了SVG作为库或嵌入栅格图像时的特殊情况。最终，作者认为SVG本质上是软件，建议使用Copyleft源代码许可证，而非Creative Commons。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;SVG（可缩放矢量图形）格式使用XML编写，通过数学运算定义图像，能在任意尺寸下保持清晰，与传统栅格图像不同。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章探讨为SVG选择Copyleft许可证的困境：Creative Commons适用于创意作品，但CC自身建议不将其用于软件，而SVG本质上是生成图像的代码。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;若将SVG视为媒体而非软件，GPL许可证在理论上可适用，因为GPL允许用于任何类型的作品，但关键在于明确什么是&amp;#039;源代码&amp;#039;。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;SVG在软件与媒体之间模糊地带徘徊——它可能有简化前的复杂源版本，也可能有优化输出版本，这使GPL的适用性变得复杂。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;FSF推荐的Free Art License适用于艺术作品，但与GNU GPL不兼容，进一步加剧了SVG许可证选择的困境。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章质疑SVG是否算作软件：它是纯文本、含定义和指令、可包含脚本，但用户体验上是图形；并以GIF为类比，提出&amp;#039;多少代码才算软件&amp;#039;的哲学问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;从LGPL和MPL角度，SVG可被视为库被嵌入非自由软件，但这种解读较为牵强。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;SVG可嵌入栅格图像，嵌入的图像可使用CC BY-SA许可，且CC BY-SA与GPLv3兼容；但若对图像应用程序化变换，许可证属性又变得模糊。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过Mastodon进行了一次非正式公众调查以收集意见。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者个人认为SVG属于软件：即使最简单的SVG也以被计算机执行的方式分发，仍保留源代码的本质，建议使用Copyleft源代码许可证而非Creative Commons。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-20T14:00Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-20T14:00Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 玩家凭借RNG在新版本中达成Ascension 10胜利&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了重返《Slay the Spire 2》的游戏体验。新补丁更新将最终Boss Doormaker替换为Aeonglass，作者认为其机制较为无聊。尽管如此，作者凭借Lord&amp;#039;s Parasol这件遗物，将一套较弱的Necrobinder牌组逆转为Ascension 10难度的胜利，并感叹RNG的神奇。文章还列出了作者目前的Ascension 10通关记录，包括The Silent、The Defect、The Necrobinder，以及正在进行中的The Ironclad和The Regent。&lt;/p&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
 &lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
 &lt;/div&gt;</content>
