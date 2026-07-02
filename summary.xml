@@ -4,8 +4,231 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-07-01T20:55:21.120Z</updated>
+  <updated>2026-07-02T20:37:11.291Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - July 2, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-07-02</id>
+    <updated>2026-07-02T20:37:11.291Z</updated>
+    <published>2026-07-02T20:37:11.291Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>10 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 2, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;200.54794520547946&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    50.1%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;183&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;182&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;26&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████░░░░░░░░░░░░░░░ 50.1%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;10&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Matching AI Modality To User Intent: Designing The Right Interface&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI界面设计应超越聊天框，按用户认知负荷匹配最优交互模态&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由UX研究员Victor Yocco撰写，指出设计界因LLM基于对话数据训练而陷入&amp;#039;对话式隧道视野&amp;#039;，将所有AI功能默认放入聊天界面。作者通过机场旅行者案例揭示错误模态选择的危害，分析了纯聊天界面在输入端造成的语言障碍和在输出端造成的认知负担。文章提供了输入输出模态分类表和认知频谱工具，涵盖按钮、语音、GUI、可视化仪表板等多种模态及其适用场景，强调优秀UX的核心是根据用户的物理状态、认知负荷和即时意图匹配最合适的交互模态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;设计社区陷入了&amp;#039;对话式隧道视野&amp;#039;，因为LLM基于对话数据训练，行业默认将所有AI功能放入聊天界面，但UX团队必须根据用户意图、场景和认知负荷选择合适的交互模态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章通过一个旅行者在嘈杂机场使用航空公司AI助手的案例，说明错误的输入输出模态如何导致用户体验失败——强迫用户打字输入和阅读冗长文本，而非提供语音输入和直观的登机口显示。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;聊天机器人的吸引力在于其&amp;#039;万能&amp;#039;的外观，但纯文本界面会造成高适应负荷，增加用户认知负担，形成心理税。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;空白聊天框带来输入障碍：用户必须猜测AI能力并将模糊想法转化为精确指令，而传统GUI的按钮和菜单提供了清晰的视觉线索，拖拽等操作比文字描述更直观。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI以长文本回复时，用户必须串行阅读才能提取信息，这种认知负担在专业场景中尤为突出，如医生需要清晰数字显示而非叙述性文字，股票交易员需要折线图而非文字描述。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章提供了输入和输出模态分类表，涵盖按钮、语音、自然语言聊天、表单、GUI、多模态手势等输入方式，以及推送通知、音频摘要、短文本、可视化仪表板、交互画布、内联确认等输出方式，并说明各自适用场景和认知理由。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;认知频谱图展示了从低认知负荷的环境交互到高认知负荷的专注体验的映射，帮助设计师判断用户需要&amp;#039;一瞥即知&amp;#039;的输出还是支持深度分析的高密度格式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;This blog is written in en-GB&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者拒绝迎合全球化要求，坚持英式文化表达的正当性。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇博文中，作者回应了一位要求其使用更具全球包容性语言的读者评论，明确拒绝了这一要求。作者强调，其博客使用英式英语（lang=en-GB）不仅是语言习惯，更是文化身份的体现。通过《哈利·波特》美国版改编、Twinkie和Vanilla Ice歌词等例子，作者论证了读者完全有能力通过上下文理解陌生的文化典故，大脑具有适应新概念的能力。文章呼吁读者接受文化霸权并非普世标准，不同文化圈的存在是正常且值得尊重的现象。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;博主收到读者评论，要求使用更具包容性的语言和更广为人知的文化典故，但博主明确拒绝了这一请求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;博主指出其博客声明了英式英语语言标签，强调这不仅是语言选择，更代表其文化背景、思维方式和口音，认为读者接触不熟悉的口音和表达是完全正常的。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;博主以《哈利·波特》美国版修改书名和用词为例，说明文化差异并不会让读者的理解崩溃，人们完全有能力通过上下文理解陌生概念。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;博主以自己直到二十多岁才了解Twinkie为例，说明通过上下文线索理解陌生文化概念是完全可行的，大脑具有适应新概念的能力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;博主总结道，如果读者遇到Count Duckula、Accrington Stanley等英国文化典故，应将其视为文化多样性的体现，世界上存在不同文化圈，这是正常且值得接受的事实。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Twokinds &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://twokinds.keenspot.com/comic/1299/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[1299] Bad by Comparison&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Webcomic platform features sequential navigation, keyboard shortcuts, tagged archives, bookmarking, RSS feeds, and stable permalinks.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary: Comic Platform Navigation &amp;amp; UX Features [Article #1299]
+
+This article describes the navigation architecture and user experience features of a webcomic platform, detailing both standard and power-user browsing capabilities. The platform implements **sequential navigation** through traditional first/previous/next/latest controls alongside keyboard shortcuts (arrow keys, J/K keys), providing flexible content traversal for casual and advanced users alike. A **centralized archive system** with descriptive tagging (e.g., &amp;#039;TraceFlora&amp;#039;) enables both linear and non-linear content discovery, supporting thematic filtering and organizational metadata. The platform also incorporates **persistent user state management** via bookmarking, allowing reading progress to be maintained across sessions. Rounding out the feature set are **RSS feeds and stable permalinks**, ensuring reliable external distribution channels and consistent deep-linking capabilities critical for content syndication and cross-referencing.
+
+---
+
+**Key Technical Takeaways:**
+| Feature | Implementation | Developer Relevance |
+|---|---|---|
+| Navigation | Sequential links + keyboard shortcuts | Accessibility compliance |
+| Discovery | Archive + tag taxonomy | Content indexing strategy |
+| State persistence | Bookmarking system | Cross-session storage |
+| Distribution | RSS + permalinks | API/syndication readiness |&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Primary Navigation Controls:&lt;/strong&gt; The interface provides standard sequential links to navigate between the first, previous, next, and most recent comic entries. These controls ensure a linear reading experience for the user.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Content Archive Access:&lt;/strong&gt; A dedicated archive link allows users to view the full collection of previously published works in a centralized list. This facilitates non-linear discovery of older content.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Keyboard Navigation Shortcuts:&lt;/strong&gt; Users can navigate through the comic sequence using keyboard inputs, specifically arrow keys or the &amp;#039;J&amp;#039; and &amp;#039;K&amp;#039; keys. This feature improves accessibility and provides a more efficient browsing experience for power users.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Integrated Bookmarking System:&lt;/strong&gt; The platform includes a bookmarking feature that allows users to save their progress or favorite pages for later retrieval. This persistent storage helps users manage their reading state across different sessions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Metadata and Taxonomy:&lt;/strong&gt; Content is organized using descriptive tags, such as &amp;#039;TraceFlora&amp;#039;, to help categorize and filter the comic entries. This metadata assists in thematic discovery and site organization.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Syndication and Permalinks:&lt;/strong&gt; The site offers RSS feeds for automated content updates and permalinks for stable, direct access to specific pages. These tools are essential for external distribution and reliable internal linking.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-07-02T18:25Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-07-02T18:25Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 玩家完成《Slay the Spire 2》全角色Ascension 10挑战&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者成功完成了《Slay the Spire 2》全角色Ascension 10挑战。最后完成的角色The Regent依靠一套极强的卡组：先天升级的Arsenal与Crash Landing配合Throwing Axe遗物，前两张牌即可获得14-15点力量，Regalite遗物提供同等格挡，随后腐化的Supermassive可造成100点以上伤害，再用Cosmic Indifference循环重复。这套配置轻松碾压了第三幕。至此，作者完成了全部五个角色（The Silent、The Defect、The Necrobinder、The Ironclad、The Regent）的Ascension 10胜利。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者宣布完成了《Slay the Spire 2》所有角色的Ascension 10挑战，最后完成的角色是The Regent。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细描述了The Regent的强力卡组：先天升级的Arsenal配合Crash Landing、Throwing Axe遗物保证前两张牌获得14-15点力量，Regalite遗物提供等量格挡，再配合腐化的Supermassive造成100+伤害，以及Cosmic Indifference循环。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表示第三幕被轻松碾压，并列出了全部五个角色的Ascension 10胜利记录：The Silent、The Defect、The Necrobinder、The Ironclad和The Regent。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/07/02/the-modern-app/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The modern app&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 讽刺现代软件臃肿与AI泛滥的幽默批判&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以讽刺性互动演示的形式，模拟了一款充斥着错误弹窗、AI废话、系统崩溃和无意义&amp;#039;新功能&amp;#039;的现代代码编辑器。作者借此批判当代软件的&amp;#039;enshittification&amp;#039;现象——Electron应用臃肿、AI功能泛滥、强制协作设计以及无休止的功能叠加。文章后半部分转为直白的吐槽，作者表达了对被迫接受各种&amp;#039;agentic&amp;#039;工具的厌倦，怀念软件简洁高效的年代，并对现代开发者不断堆砌功能而非打磨产品的做法深感失望，最后以一句&amp;#039;I used to enjoy making things on a computer&amp;#039;收尾，情感真实而令人共鸣。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章以互动演示的形式介绍了一款&amp;#039;下一代代码编辑器&amp;#039;，声称其具有blazing fast的人机协作能力，并邀请读者体验demo。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;演示内容通过大量模拟的软件错误、弹窗、AI胡言乱语、系统崩溃通知和荒诞功能，讽刺性地展现了现代软件的混乱与臃肿。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以愤怒而幽默的口吻抒发对现代软件&amp;#039;enshittification&amp;#039;趋势的不满，批评强制协作、AI泛滥、功能堆砌以及软件质量的整体下滑，并感叹曾经享受在电脑上创作的乐趣已不复存在。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://game.kimetsu.com/hinokami2/news/?id=70632&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『鬼滅の刃 ヒノカミ血風譚2』「PlayStation® Tournaments」7月開催情報&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 鬼灭之刃2七月举办PS5锦标赛系列赛事&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《鬼灭之刃 火神血风谭2》宣布2026年7月将在PS5平台举办「PlayStation® Tournaments」系列赛事。从7月1日起，每日19时至22时分别举办四场角色专属锦标赛，参赛角色包括悲鸣嶼行冥、珠世、愈史郎和茶茶丸。优胜者可获得1000枚「鬼灭积分」，第2至4名可获500枚积分，所有参赛者均可获得称号「PlayStation® Tournaments:7月出场」作为参与奖励。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110950&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Procut让复制即保存，智能管理碎片化信息&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Procut是由程序员Hirat开发的一款iOS剪贴板管理工具，核心理念为「复制即保存」。它能自动监控剪贴板变化，智能识别链接、颜色码、取件码等内容类型，并深度解析小红书、微信公众号、微博、Instagram等十余个平台的分享链接，自动生成包含标题、正文和图片的剪藏卡片。工具内置快捷命令系统、三层内容组织体系（文件夹+标签+智能筛选）以及自动化规则，实现「收集即整理」。支持iCloud多设备同步、快捷指令集成和多格式导出，提供免费版与高级订阅版，可在App Store下载。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者描述了日常生活中复制链接后丢失信息的痛点，指出剪贴板只能保存最后一条内容，而现有工具如书签、备忘录等都不够轻便，因此开发了Procut这款工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Procut是一款iOS剪贴板管理工具，核心理念是「复制、识别、保存」，用户只需像往常一样复制内容，回到App后内容已自动整理完毕，无需额外操作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Procut的剪贴板自动监控功能可持续监控剪贴板变化，智能识别链接、颜色码、取件码等内容类型，并利用苹果通用剪贴板支持Mac端复制内容的自动同步。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;多平台链接解析是Procut最核心的功能，支持小红书、微信公众号、微博、B站、抖音、Instagram等十余个平台，自动提取标题、正文和图片，生成精美剪藏卡片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Procut内置快捷命令系统，通过/link、/get、/find、/tag等文本指令可在不离开键盘的情况下完成链接提取、内容搜索、标签查询等各种操作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Procut提供文件夹、标签和智能筛选三层内容组织体系，支持无限层级嵌套文件夹、多级标签，以及基于多维度条件的自定义智能筛选视图。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;自动化规则功能可根据设定条件自动将内容归档到指定文件夹、添加标签或丢弃，实现内容自动归位，减少手动整理的工作量。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Procut支持iCloud多设备同步、内容分享导出（图片/PDF/Markdown）以及iOS快捷指令集成，可通过多种方式将其他设备的内容写入Procut。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结了Procut的亮点特色，包括零操作成本、平台级深度解析、快捷命令效率哲学、智能筛选与自动化组合、多种布局模式以及精致的深色模式设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章列举了设计师收集灵感、开发者收藏技术文章、网购比价、日常信息收集四个典型使用场景，展示了Procut在实际生活中的应用价值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Procut提供免费版和高级版，免费版包含核心功能，高级版额外解锁无限记录、自动化规则、iCloud同步等功能，支持月订阅、年订阅和永久买断三种付费方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结Procut的核心价值在于将信息收集的门槛降到最低，用户只需复制，其余交给工具处理，适合受碎片信息困扰的用户，可在App Store下载，支持iOS 15.0及以上系统。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111069&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;共创试读 | 给童年一份礼物：从是什么到为什么，找到合适的掌机&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通过游戏、机能和体验三个维度指导读者选择适合自己的中古掌机。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是《中古掌机收藏选购指南》栏目的首篇预览，作者以资深掌机玩家身份，详细阐述了选购中古掌机的核心指导原则。文章首先界定了中古掌机的范围（1989-2017年间任天堂和索尼产品），随后分析了选择实机而非模拟器的理由——原汁原味的游戏体验、特色机制无法复现、成熟的改装方案。在选购建议上，作者强调应优先从游戏出发选设备，其次考虑独特机能，最后评估原生体验。文章还介绍了各平台的游玩方式差异和拍照功能特点，为初心者和进阶玩家提供了实用的参考框架。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了中古掌机收藏选购指南栏目的整体规划，说明复古浪潮下玩家重新关注老游戏和老设备，但市场存在诸多乱象，作者希望通过多年经验帮助读者避开购买陷阱。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;栏目从掌机的定义出发，覆盖1989年Game Boy至2017年new 2DS LL时期任天堂和索尼的产品，并将按机型分类介绍设备特色、游戏兼容性、选购建议、常见问题、验机技巧和改装方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章阐述了选择中古掌机的核心理由：实机游玩体验无法被模拟器完全复现，许多游戏的特色机制如触摸屏、陀螺仪等只能在原设备上体验，同时掌机改装方案成熟，能解决原机的不足问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者建议选购掌机时按优先级考虑：首先从想玩的游戏出发选择设备，其次考虑掌机的独特机能和外设，最后考虑设备的原生体验和是否需要改装。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细介绍了各掌机平台的游玩方式，包括正版卡带、烧录卡和破解三种选项，并提供了各设备的推荐游玩方式对照表。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了掌机的拍照功能，任天堂强调趣味性提供贴纸装饰等功能，索尼强调实用性提供白平衡调节等功能，不同平台的拍照规格和导出方式各不相同。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111763&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;家用游戏机的新选择，Steam Machine 玩起来怎么样？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Steam Machine是价格合理、即插即用的优质客厅游戏PC&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Steam Machine是Valve推出的入门级游戏PC，起价1049美元，搭载Zen 4处理器和RDNA 3显卡。其小巧立方体外形能完美融入客厅电视柜，散热设计出色，支持开机即玩。作为完整Linux PC，功能远超传统主机，甚至可安装Windows。游戏性能方面，4K极高画质表现一般，但中等画质下大多数游戏可达50-60fps。价格对主机用户偏高，但与同配置自组PC相当，是折腾成本低、即插即用的优质客厅PC选择，尤其适合希望入门PC游戏的玩家。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Steam Machine历经八个月等待正式发布，起价1049美元，Valve定位其为入门级游戏PC而非传统主机竞争者，评测认为它是目前最好的客厅PC，尽管性能略逊于PS5和Xbox Series X。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Steam Machine的购买选项包括512GB基础版（1049美元）和2TB高配版（1349美元），可选捆绑Steam Controller，购买2TB版本还额外附赠两块机箱面板。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Steam Machine的定价受到内存价格上涨影响，与配置相近的自组PC价格相当，对主机用户偏贵但对PC用户具有竞争力，且支持开机即玩省去大量折腾时间。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Steam Machine外观小巧低调，边长约16厘米的立方体设计能完美融入电视柜，底部配有RGB灯带，散热采用前进后出的直通风道设计，即使放在封闭空间也不会过热。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;机身正面配备两个USB-A口和MicroSD卡槽，后侧有HDMI、DP、网口、USB-A和USB-C等接口，MicroSD卡槽支持与Steam Deck共用游戏卡，电源接口与PS5/Xbox通用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Steam Machine支持替换磁吸面板以个性化外观，底部RGB灯带可自定义颜色和灯效，预计未来会出现大量第三方3D打印面板。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Steam Machine不仅是游戏主机，更是完整的Linux PC，支持浏览器、编程等多种用途，甚至可以安装Windows，功能远超传统主机。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Steam Machine采用Steam大屏幕模式启动，首次开机扫码即可登录，操作直观简便，Steam Controller可快速调出设置菜单，也可进入Linux桌面进行更细致的调整。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Steam Machine搭载6核12线程Zen 4处理器和28CU的RDNA 3显卡，性能约等于锐龙5 7600加RX 7600，在4K极高画质下帧率表现一般，但调整至中等画质后大部分游戏可达50-60fps。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结认为Steam Machine对主机用户价格不友好，但作为入门级游戏PC具有吸引力，优点包括即插即用、散热优秀、功能多样，缺点是价格偏高、纯游戏性能弱于同代主机、接口较少。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111861&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：WhatsApp 开放用户名预留、PS 将取消实体光盘等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报涵盖WhatsApp、Gmail、三星、索尼等多项新动态&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派派早报，汇总了近期多条科技新闻。Meta开放WhatsApp用户名预留以保护隐私；Google测试基于Gemini Live的Gmail语音查询功能；BIGME推出高刷新率彩墨屏显示器B251 PRO；三星确认Galaxy Ring 2在研发中并可能支持iPhone；索尼宣布2028年起停产PlayStation新游戏实体光盘，全面转向数字发行。文章以简洁的新闻摘要形式呈现，涵盖社交、AI、硬件及游戏多个领域的最新动态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Meta宣布开放WhatsApp用户名预留功能，用户无需交换手机号即可互发消息，平台不设用户名目录以保护隐私。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google开始在Android与iOS平台测试Gmail Live功能，该功能基于Gemini Live，允许用户通过语音对话方式查询邮箱内容，将向AI Pro与Ultra订阅用户推送。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;BIGME大我推出全球首款60帧/秒刷新率的25.3英寸彩墨屏显示器B251 PRO，配备Kaleido 3彩色墨水屏，支持多种接口，定价1279美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三星高管确认Galaxy Ring 2正在研发中，新品将聚焦生态整合与健康数据分析，并暗示可能新增对iPhone的支持。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;索尼互动娱乐宣布自2028年1月起全面停止为PlayStation新游戏生产实体光盘，新游戏将仅以数字版形式发售，反映消费者购买偏好的转变。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - July 1, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1804,102 +2027,6 @@ The author has completed the eighth book in the *Dungeon Crawler Carl* series af
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;ToggleEvent是一个新的事件类型，包含beforetoggle和toggle两种事件，分别在Popover、dialog、details元素显示或隐藏前后触发，可通过newState和oldState判断元素展开或收起状态。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;新增的event.source属性可返回触发ToggleEvent的来源元素，目前测试发现只有通过command指令触发的关闭才能被识别，其他方式（如ESC、close()方法）返回null，需结合submit事件和cancel事件区分不同关闭来源。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结尾作者分享了个人投资经历，感叹恒生科技、公司股票及理想汽车股票均大幅下跌，认为人无法赚到认知以外的钱。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - June 21, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-06-21</id>
-    <updated>2026-06-21T20:31:57.611Z</updated>
-    <published>2026-06-21T20:31:57.611Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>2 articles from 2 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 21, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;188.49315068493152&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    47.1%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;172&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;193&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;24&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████░░░░░░░░░░░░░░░░ 47.1%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;2&lt;/strong&gt; articles from &lt;strong&gt;2&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-21T10:53Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-21T10:53Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI需求推动硬件价格暴涨，自建服务器成本大幅攀升&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者指出AI的发展导致自建家庭服务器（homelab）所需硬件价格大幅上涨。通过对比2024年购买价格与当前市场价格，作者发现多款存储和内存产品价格涨幅惊人：1TB Samsung SSD 870 EVO涨幅136%，500GB版本涨幅高达434%，Crucial P3 Plus NVMe SSD涨幅462%，32GB Kingston DDR4 RAM涨幅303%。作者认为这些价格暴涨是为了补贴AI基础设施建设，同时指出NAS所需硬盘价格也翻倍且经常缺货，整体情况令人担忧。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110972&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用AI Agent完成Game Jam，效率十倍但美学仍靠人。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者详细记录了在BOOOM Jam中完全依赖AI Agent（Cursor、Codex、ElevenLabs）开发Unity游戏《茫室》的实践经验。通过具体案例，介绍了Agent在模糊转译、工具串联、Git管理、Unity MCP闭环验证、Debug Mode、音效生成等方面的应用，代码量实现十倍增长。作者强调Agent极大提升了工程效率，让许多低优先级打磨得以实现，但同时指出AI无法替代游戏体验与美学层面的人为判断，MDA理论中的Dynamics和Aesthetics仍需创作者亲力亲为。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者参加了BOOOM Jam游戏创作马拉松，与艺术家Frank合作开发了俯视角射击游戏《茫室》，首次完全采用vibe coding方式，使用Cursor、Codex生成代码，ElevenLabs生成音效。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过三次BOOOM Jam数据对比，今年代码量从4千行增长至3.1万行，达十倍提升，Git提交次数约1000次，实际投入时间约100小时，是去年两倍，Agent带来的正反馈极强。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了&amp;#039;模糊转译&amp;#039;工作流：让Agent将美术Frank的自然命名文件规范化、移动目录、替换引用，并将Notion文档中的对白直接转换为游戏配置，大幅减少手动体力劳动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;推荐使用Notion和Dropbox等开放工具让Agent串联工作流，包括用GPT Image 2生成美术清单、用小票打印机打印todo、用Discrawl读取Discord聊天记录提取需求，提升团队协作效率。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Agent能从多个prefab中收集数据以表格形式呈现，辅助音频归一化筛选，并用自然语言分析Unity Scene的yaml冲突，帮助合并场景和修复reference丢失问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者让Agent全面接管Git操作，包括自动写commit、叙述资产变动、运行git bisect定位渲染bug，并利用git worktree在不打断主编辑器的情况下解决WebGL shader问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者开发了deeplink功能，通过复制GlobalObjectId精确定位场景中的GameObject，解决层级复杂prefab难以描述的问题，并在LDtk关卡编辑器中实现批量替换敌人实体。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Unity MCP是Agent闭环验证的关键，compile and fix skill可自动触发编译、检查错误日志、进入play mode冒烟测试；iOS打包全程无需打开Xcode，Agent自动处理plist问题并上传TestFlight。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cursor的Debug Mode让Agent先列假设、植入debug log、复现后再修复，避免盲猜；还可通过ssh与Steam Deck形成闭环，分析Unity Profiler数据完成性能优化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者习惯口头让Agent修改参数，探索&amp;#039;动口不动手&amp;#039;边界，包括让Agent搭建动画状态机；推荐使用Cursor Composer fast模型处理此类体力活，其token占比超62%。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Agent大幅降低实验门槛，game juice细节得以加入，Frank可借助Agent独立实验C#效果；作者还让Agent修改LDtk源码、生成关卡JSON、修复WebGL shader兼容问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ElevenLabs AI生成了游戏全部音效和BGM，Codex一站式完成音效埋点；意外生成的dark synth BGM强化了游戏氛围，并促使团队打磨出intro/loop/outro三段式音效响应。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI擅长搭建机制和原型，但无法替代体验与美学判断；作者因过于依赖AI推进工程，拖延了美术对接，导致后期体验整合困难，深刻认识到MDA理论中Dynamics和Aesthetics的重要性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结：《茫室》是首个完全AI native项目，半年来已抛弃IDE和大量Unity插件；AI改变的是生产效率而非游戏质量本身，游戏是否成立仍取决于体验、审美和人的判断，game jam提供了宝贵的早期反馈闭环。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
