@@ -4,8 +4,226 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-07-02T20:37:11.291Z</updated>
+  <updated>2026-07-03T21:01:33.180Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - July 3, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-07-03</id>
+    <updated>2026-07-03T21:01:33.180Z</updated>
+    <published>2026-07-03T21:01:33.180Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>10 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 3, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;201.64383561643837&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    50.4%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;184&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;181&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;26&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████░░░░░░░░░░░░░░░ 50.4%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;10&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Users Don’t Need More Tools: They Need Seamless Integrations&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用户需要无缝AI集成而非更多新工具&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者Vitaly Friedman指出，用户真正需要的不是更多新工具，而是与现有心智模型无缝契合的功能集成。他提出&amp;#039;Quiet AI&amp;#039;概念，即在后台静默运行、不打扰用户工作流的AI助手，并以Claude在Microsoft Office套件中的集成为例。文章重点介绍了&amp;#039;文件夹指令&amp;#039;这一创新概念——用户可为文件夹定义行为规则，让系统自动处理文件重命名、摘要生成、通知发送等任务。作者认为，减少应用间切换带来的摩擦、让AI在工作实际发生的地方提供帮助，才是真正提升用户价值的方式。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;用户真正需要的不是更多工具，而是与现有心智模型无缝契合的功能集成，以解决高严重性、高频率、高挫败感的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了&amp;#039;Quiet AI&amp;#039;概念——这类AI工具在后台静默运行，自动处理重复性任务，Claude在Excel、PowerPoint和Word中的集成是典型例子。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文件夹指令功能允许用户为文件夹定义行为规则，系统自动执行文件整理、摘要生成等任务，实现真正的无缝AI集成。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结指出，用户价值来自减少应用切换带来的摩擦和错误，无缝集成是快速交付价值而无需用户学习新工具的最有效方式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/07/03/a-digestion-of-unit-distance-constructions/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A digestion of unit distance constructions&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 系统梳理Erdős单位距离问题三种构造的内在联系与放大策略&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文围绕Erdős单位距离问题展开，系统梳理了三种关键构造的内在联系。Erdős原始构造利用高斯整数环实现超线性增长；OpenAI团队借助Golod–Shafarevich域扩张塔取得突破性下界；Mythos AI给出了介于两者之间的中间结果。作者以统一视角分析三种构造，核心参数为素数个数k（水平放大）和数域次数d（垂直放大）。文章还介绍了用同余方程替代精确方程、结合鸽巢原理的初等化处理思路，并具体展示了二次扩张塔如何重现中间定理，为理解这一领域的进展提供了清晰的概念框架。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了Erdős单位距离问题：在平面上n个点的集合中，最多能有多少对点之间的距离恰好为1，记为f(n)。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Erdős构造了一个点集使f(n)增长超过线性，并猜测f(n)的上界约为n^(1+c/loglogn)；Spencer、Szemerédi和Trotter于1984年证明了f(n)=O(n^(4/3))的上界，但改进此上界极为困难。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI团队最近解决了Erdős问题，构造了使f(n)超越原有下界的点集，利用了Golod–Shafarevich域扩张塔等代数数论工具；Mythos AI则给出了一个中间结果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以此为练习，尝试用尽量少的代数数论知识统一理解这些构造，并说明了AI工具在理解过程中的辅助作用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;所有优秀构造的核心思路是：取某个代数整数环中高度不超过某阈值的所有元素作为点集，利用有理素数在数域中的分裂性质来产生大量单位距离对。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章给出了关键数值分析：设数域次数为d，选取k个大小约为p的素数，点集大小约为p^(kd)，单位距离对数约为p^(k(d+1))，由此可启发式地推导出各定理的增长指数。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在固定次数d的情形下可严格证明Theorem 1；若允许d随n增长，则可超越Theorem 1，乃至达到Theorem 2；但让素数完全分裂于高次数域会遇到广义黎曼假设等困难。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为绕开唯一分解失效的问题，可将目标方程放宽为同余方程，再用鸽巢原理得出结论；具体实现时需要具有塔结构和复乘的数域，Golod–Shafarevich塔控制判别式最优，二次扩张塔则足以证明Theorem 3。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;三种构造形成连续谱：Erdős构造固定次数d、增大素数个数k（水平放大）；OpenAI构造固定k、增大d（垂直放大）；Mythos构造则让d与k同时增长（混合放大）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后具体勾勒了二次扩张方法如何恢复Theorem 3：选取模4余1的大素数和中等大小的素数，构造由高斯整数和多个实平方根生成的数域，定义朴素高度并统计该高度下的环元素数目，进而估计单位距离对数。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/07/03/fixing-full-bleed-css/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fixing full-bleed CSS&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 逐步修复CSS全出血布局的滚动条与嵌套容器问题&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者是一位前端开发者，深入探讨了CSS full-bleed布局的实现与修复方案。文章从Andy Bell的经典utility class出发，指出其在Windows系统滚动条场景下存在元素被裁剪的问题，并逐步介绍了overflow-x: hidden、scrollbar-gutter: stable等修复手段。随后提出基于CSS containment和容器单位（cqi）的现代方案，并通过@property自定义属性解决了嵌套容器导致的单位计算错误问题。最后展望了未来CSS直接引用具名容器单位的语法提案，呼吁尽快标准化实现。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇介绍了full-bleed布局的概念，引用Josh Comeau和Andy Bell的方案，说明在无法对整个页面使用CSS grid时，可用Andy的utility class实现全出血布局。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Andy的方案存在滚动条问题：100vw可能比视口更宽，导致元素两侧被裁剪，在Windows系统上尤为明显，可通过添加box-shadow来观察该问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了两种修复滚动条问题的方法：在body上设置overflow-x: hidden，或使用scrollbar-gutter: stable预留滚动条空间，但后者在无需垂直滚动时显示效果不佳。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;现代解决方案是使用CSS containment，将body设为容器并用容器单位（cqi）替换视口单位，同时使用overflow-x: clip和逻辑属性以支持RTL文本方向。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;当存在嵌套容器时，直接使用cqi单位会导致full-bleed失效，作者通过@property自定义属性--body-size来解决这一问题，使值在设置时而非使用时计算，从而正确引用父级body容器。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者解释了@property魔法的原理：不使用at-rule时，--body-size在.full-bleed内计算，相对于内部容器；显式定义@property后，值在.inside中设置时计算，100cqi指向父级body容器，.full-bleed继承该值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于更多层嵌套容器的情况，作者建议在body的直接子元素（如main）上设置--body-size值，并简要说明了乘以0.5而非除法的写法偏好。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展望了CSS的下一代解决方案，提议增加在使用容器单位时直接引用特定容器的语法（如100cqi(body)），并呼吁浏览器厂商优先实现该特性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n89c6c18229b3&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;東京スタジオリニューアルのお知らせ&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 東京スタジオが9Fへ移転しリニューアル完了&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーの総務課スタッフ「よしみつ」が、東京スタジオの業務部エリア・エントランス・応接室の引っ越し作業を報告している。福岡本社からのスタッフや出張中のメンバーも総動員し、短期間でリニューアルを完成させた。新しいエントランスは白を基調とした明るいデザインで、映画グッズの展示も行われている。応接室や多目的ルームも整備され、社員がボードゲームなどを自由に利用できる環境が整った。エントランスの場所が6Fから9Fに変更された点も案内されている。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;よしみつ氏は出張週間中で、東京スタジオと大阪スタジオに勤務しており、今回の出張の主な目的は東京スタジオの業務部エリア、エントランス、応接室の引っ越し作業であることを紹介している。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;引っ越し作業は備品や機材が多く大変だったが、東京スタジオ業務部メンバー全員と福岡からのスタッフ、出張中だったべーいり＆たっしーコンビも加わり、全員で無事にやり遂げた。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;リニューアルされた東京スタジオ9Fは白を基調とした明るいエントランスや応接室、ボードゲームなども揃えた多目的ルームが整備され、エントランスは6Fから9Fに変更されたことが告知されている。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/?page_id=6618&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;今年度のゲームクリエイター高卒採用情報公開！応募受付は9/5(土)より開始&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 高卒ゲームクリエイターの新卒採用を実施中&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーは2027年3月高校卒業見込みの学生を対象に、ゲームクリエイター（ゲームデザイナー・アーティスト・プログラマー等）の新卒採用を実施している。学歴不問で技術と情熱を重視し、福岡本社・東京・大阪の3拠点で正社員として採用。給与はジュニアクラス月給231,000円からスタートし、能力評価によりインターミディエイトへ昇格可能。応募は学校を通じて行い、選考期間は2026年9月〜2027年3月。YouTube説明会も配信中。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーは高校卒業予定者を対象にゲームクリエイター採用を実施しており、学歴不問で技術と情熱を持つ若者を求めている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;雇用形態は正社員で、福岡本社・東京スタジオ・大阪スタジオの3拠点に勤務可能。勤務時間は9:00〜18:30で、給与はジュニアクラス月給231,000円から始まり、能力に応じてインターミディエイトへ昇格できる体系となっている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;応募資格は2027年3月高校卒業見込みの学生で、国籍不問。ゲームデザイナー、アーティスト、各種プログラマーなど複数職種でハローワーク経由の求人番号が設定されている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;募集期間は2026年9月5日から2027年3月31日まで。選考は必ず学校を通じて行い、一次面接・最終面接の2段階で、遠方の場合はオンライン対応も可能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2027年卒向けのYouTube会社説明会が配信されており、代表の松山氏が新卒採用への想いや会社概要を紹介している。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/how-to-design-a-rental-living-room&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 租房客厅应以生活场景为核心规划功能分区&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇关于租房客厅改造的实用指南。作者认为客厅因承担功能过多容易变成&amp;#039;大杂烩&amp;#039;，因此改造前应先明确&amp;#039;生活剧本&amp;#039;——即客厅的核心使用场景。文章从社交与独处两个维度展开讨论：有社交需求时推荐沙发加地毯的灵活组合；以独处为主时应以沉浸感最高的需求为主线，并重点介绍了以个人工作区为主线的配置方案，强烈推荐升降桌、工学椅和外接显示器的组合，认为这是提升居家工作体验的高性价比投资。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇指出客厅是家中功能最复杂的区域，往往需要承担吃饭、工作、休闲和储物等多种需求，规划难度较大。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者建议改造客厅前应先思考&amp;#039;生活剧本&amp;#039;，即客厅每天会发生什么，从场景需求出发而非从风格出发，并提出两个关键问题：客厅是否是社交场所，以及独处时是否有可停留的角落。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对有社交需求的客厅，作者建议沙发加地毯的组合，认为这比沙发加茶几更灵活，能兼顾多人聚会和个人独处两种场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细讨论了沙发的选择策略，推荐在没有明确久坐需求时先用房东留下的沙发，并优先考虑购买轻便灵活的懒人沙发作为补充。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;关于房东留下的茶几等不实用大件，作者建议将其长边靠墙放置以减少对主区域的影响，并腾出空间铺地毯。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于没有社交需求、以独处为主的人，客厅应以&amp;#039;沉浸感&amp;#039;为核心，确定一条主线功能，其余副线功能围绕主线配合。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将个人工作作为客厅主线的重要选项，分享了自己从使用小桌子到购入一套桌椅和外接显示器的亲身经历，认为有效的工作区配置能显著提升居家体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后重点推荐升降桌作为租房工作区的核心家具，认为其高度可调、桌面可定制、使用场景多样，是一劳永逸的性价比之选。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111917&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 11 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 每周精选11部影视佳作推荐，涵盖电影、剧集和动画等多种类型。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派编辑部推荐的每周观影指南，精选11部近期值得观看的影视作品。推荐范围涵盖电影、美剧、韩剧、英剧、日剧和动画等多种类型，包括《小黄人与大怪兽》的创意致敬、《龙之家族》第三季的恢宏战争场景、《金特务：本色回归》的特工救女故事等。文章采用分类介绍和详细点评的方式，为每部作品提供关键词、片长、观看渠道等信息，并附加编辑的专业评价和观看建议。同时发布了多部新作预告和影视资讯，帮助观众了解最新动态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周推荐11部值得观看的作品，包括电影《小黄人与大怪兽》、美剧《龙之家族》第三季、韩剧《金特务：本色回归》等多部影视作品，涵盖科幻、动作、剧情等多种类型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影和剧集方面，《小黄人与大怪兽》以元叙事手法致敬早期好莱坞，《龙之家族》第三季以血腥海战开局，《金特务：本色回归》讲述退役特工为救女儿重出江湖的故事，各具特色。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;英剧、日剧和动画方面，《踮起脚尖》探讨性少数群体的困境，《气体人第一号》呈现精良制作但口碑分化，《机械之声的传奇》第四季关注英雄战后的生活，多部动画作品展现创意和艺术水准。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周还发布了多部作品的新预告，包括诺兰新作《奥德赛》、动画《赛博朋克：边缘行者2》等，同时《杀死比尔：血色全传》定档8月7日，《哈姆雷特》定档7月18日等影视资讯。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111405&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;快捷指令｜让 iPhone 用上锤子的「大爆炸」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用iPhone快捷指令近似复刻锤子大爆炸的文字跳转功能&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者是一名快捷指令爱好者，受锤子手机「大爆炸」功能启发，在iPhone上开发了名为「文字任意门」的快捷指令工具。该工具通过控制中心小组件快速呼出，允许用户先选取文字再选择目标APP，实现跨应用直达搜索结果，极大减少分心操作步骤。文章详述了功能的使用场景、技术实现（URL scheme与网页视窗突破）及安装配置方式，同时坦诚指出与原版「大爆炸」相比在触发方式和URL scheme收集上的不足，并向锤子科技致敬。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍自己是一名爱折腾快捷指令的书法老师，展示了在iPhone上用快捷指令复刻锤子手机「大爆炸」功能的视频成果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将这个功能命名为「文字任意门」，旨在颠倒传统的「找APP→输文字」流程，并以搜索淘宝为例说明其解决分心问题的价值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆了锤子手机「大爆炸」「一步」「闪念胶囊」等功能带来的独特体验，正是这种「旦用难回」的遗憾促使他持续在iPhone上探索快捷指令自动化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者说明了「文字任意门」的技术实现路径：利用快捷指令触发方式、URL scheme打通应用壁垒，以及「网页视窗」的突破让快捷指令能弹出类APP界面。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了「文字任意门」的操作流程：下拉控制中心→点击小组件→滑动选词→选择目标APP，并列举了多种使用场景如问AI、娱乐搜索、添加提醒等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了安装和触发方式的配置建议，包括控制中心小组件、操作按键、辅助触控等，并说明本地JavaScript不上传用户数据。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;坦诚指出两处遗憾：无法还原「大爆炸」大拇指按压炸开分词的触发方式，以及URL scheme收集不完整，欢迎社区共同完善。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;以致敬锤子科技和老罗团队作为结尾，表达对理想主义产品精神的深切缅怀。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111708&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;这四个工作习惯，或许也能帮你找到掌控感&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通过日记复盘、人脉维护、影响力散播和安全网建立四个习惯，将职业发展从被动应对转为主动掌控。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者分享了两年半职业生涯中升职两次的经验，核心观点是通过系统化的自我管理而非单纯努力实现职业进阶。作者提出四个关键习惯：工作日记与定期复盘、把人脉作为长期资产维护、散播自己的影响力以及建立多层次的安全网。这些习惯的共同特点是将职业发展中的不确定性转化为可记录、可分析、可迭代的数据，从而逐步掌控职业轨迹。作者强调这些方法并非高级技巧，而是在背景中默默运行的系统，帮助个人在面对职场变化时更有底气和选择权。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过工作日记和定期复盘，建立了一套系统化的记录方法，包括日常工作记录、周度总结和月度复盘，能够帮助积累素材、调整自我认知、理解组织结构和掌握个人状态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者把人脉维护视为长期资产，通过在通讯录中记录关键人物的背景和接触点，形成关系数据库，这样既能防止遗忘，又能在需要时有自然的切入点进行有效沟通。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者强调工作需要可见性，通过项目小结、向上沟通和外部分享等方式，把碎片化的工作转化为可复用、可量化、可传播的成果，从而提升在组织中的影响力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者建立了包含财务、身体、情绪和职业资本四层的安全网，通过数据化管理来降低对运气的依赖，使职场决策从被动应对转变为相对主动。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111898&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 大疆新麦克风发布，苹果隐私漏洞曝光等多条科技资讯速览&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派派早报，汇总了多条科技新闻。大疆发布DJI Mic Mini 2S无线麦克风，主打轻量化、长续航和多声道录音；Apple「隐藏邮件地址」功能被曝存在100%可还原真实邮箱的隐私漏洞且迟迟未修复；System76推出搭载Intel最新Panther Lake处理器的Linux轻薄本Lemur Pro；CHERRY上架新款磁轴开关MK魔晶磁轴Plus；索尼宣布逐步关闭PS3和PS Vita数字商店；此外还有Apple新品规划及Safari MCP server等消息。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;大疆于7月2日发布DJI Mic Mini 2S迷你无线麦克风，发射器重约12克，内置14.5GB存储，支持最长28小时循环内录及32-bit浮点内录，接收器最多可同时连接4个发射器，无线传输距离最远400米，搭载AI降噪模型，一拖二套装售价1199元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;安全研究员Tyler Murphy发现Apple「隐藏邮件地址」功能存在隐私漏洞，可100%推断出真实邮箱地址，该漏洞自去年6月报告至今仍未修复，Murphy决定公开漏洞存在但未披露技术细节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Linux PC制造商System76于7月1日推出新款Lemur Pro轻薄本，搭载英特尔酷睿Ultra第3代Panther Lake处理器，提供14英寸和16英寸版本，标配32GB内存和1TB SSD，14英寸版本重约998g，起售价1923美元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CHERRY于7月2日上架MK魔晶磁轴Plus键盘开关，采用TMR隧道磁阻方案，分光效优化和声音优化两个版本，相较初代改用一体式双侧防尘壁轴芯设计，10颗装售价19.9元，折合单颗约1.54元起。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;索尼宣布将逐步关闭PS3和PS Vita的PlayStation Store数字商店，部分地区将从2026年8月起关闭，其余地区于2027年7月关闭，关闭后用户无法购买新内容但已购内容仍可下载。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;其他消息涵盖Apple正测试四款新iPad Pro预计2027年春季发布、计划推出入门级14英寸MacBook Pro及M7芯片，以及Apple WebKit团队在Safari Technology Preview 247中引入Safari MCP server以辅助Web开发调试。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派近期动态包括声擎联合征文活动、与AKKO共创带屏键盘计划、WWDC26专题页更新完成，以及推荐了关于Steam Machine、掌机和iOS剪贴板工具的优质文章。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - July 2, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1808,225 +2026,6 @@ A blog post circulated on Mastodon recommended using LLM agents to convert W3C A
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;欧洲自由软件基金会（FSFE）向欧盟委员会提交文件，要求在《数字市场法案》框架下强制谷歌允许Android用户完全卸载预装AI功能，并禁止后台静默重装。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;亿咖通科技（ECARX）宣布以18亿元人民币全资收购星纪魅族旗下Flyme软件业务，核心资产包括Flyme Auto智能座舱系统和Flyme OS操作系统，交易金额约为其市值的66%。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯部分涵盖多条科技资讯：Nothing推出(b)系列定位介绍、米哈游警告冒充采购诈骗、48位中国iOS开发者联名举报苹果垄断、豆包App测试打车功能、Valve公布Steam Machine售价等。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - June 22, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-06-22</id>
-    <updated>2026-06-22T21:09:33.467Z</updated>
-    <published>2026-06-22T21:09:33.467Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>11 articles from 7 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 22, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;189.58904109589042&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    47.4%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;173&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;192&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;24&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████░░░░░░░░░░░░░░░░ 47.4%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-312/viewer?title_no=853933&amp;episode_no=327&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 312&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画《DOGHAUS》共312话章节目录页面&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本内容并非一篇文章，而是WEBTOON平台上名为《DOGHAUS》的网络漫画系列页面的导航界面文本。页面列出了该漫画从第1话到第312话的所有章节目录，包含特别公告、Sunday Strip特辑以及Kickstarter众筹启动等里程碑事件。页面还包含订阅、分享、举报等平台功能按钮，以及其他推荐漫画的排行榜信息。该内容为网站UI界面文本，不具备可总结的叙事或论述内容。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Technium &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kk.org/thetechnium/why-are-llms-smart/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Why Are LLMs Smart?&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 LLM的智能源于人类语言中隐含的思维结构&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由Kevin Kelly撰写，深入探讨了大型语言模型（LLMs）智能的来源。作者指出，LLMs的智能并非来自显式编程，而是源于人类书写中隐含的思维结构——段落和文章中蕴含的逻辑、推理与论证。文章分析了LLMs的局限性：它们擅长基于知识的推理，但缺乏直觉和持续学习能力。对于通过扩大规模实现AGI的路径，作者持谨慎态度，认为真正的创造性智能可能需要全新的算法或架构。最后，作者对神经网络再次带来意外突破保持乐观期待。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;LLMs通过预测下一个最可能出现的词来生成文本，它们在大量人类语言数据上训练后，能够模仿出从未出现过的真实语言字符串。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;研究人员在扩大LLMs规模时，惊讶地发现这些系统能够模仿人类思维的基本模式，尽管没有人为其编程思维或智能能力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;LLMs所展现的智能可能源于人类写作本身——句子需要语法规则，段落需要逻辑推理，而文章则需要清晰思考，这些思维结构被编码在语言中。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;人类文本不仅是语言结构的反映，也是人类思维的反映；LLMs通过提取这种模式，获得了某种程度上的智能，而非通过显式编程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;LLMs擅长基于知识的智能，如记忆、语法和演绎，但缺乏直觉、持续学习和创造性洞察等人类智能的其他形式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;前沿AI公司（如Anthropic、OpenAI、Google、xAI）押注于通过持续扩大LLMs规模来实现AGI，但作者对单纯扩大规模是否能达到目标持怀疑态度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为人类大脑的创造力来自于持续学习的能力，而非仅仅是知识量，LLMs要实现真正的创造力可能需要持续学习算法或全新架构。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;神经网络系统多次超出科学家预期，其第一次智能飞跃来自语言结构，作者预测第二次飞跃将以同样出乎意料的方式到来。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Twokinds &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://twokinds.keenspot.com/comic/1298/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[1298] Prior Engagements&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 这是漫画网站的导航界面文字，无实质内容。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这段内容并非真正的文章，而是一个网页漫画网站的导航界面文本，包含了页面跳转按钮（首页、上一页、档案、下一页、最新页）、键盘快捷键说明（方向键或J/K键）、书签功能提示以及标签（TraceFlora）等界面元素。内容没有实质性的叙事或信息，仅为网站用户界面的功能性文字描述。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-22T07:43Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-22T07:43Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Finished *Dungeon Crawler Carl* book eight; prefers standard audiobooks over the enhanced &amp;quot;immersion tunnel&amp;quot; format despite its added production value.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary
-
-The author has completed the eighth book in the *Dungeon Crawler Carl* series after several months of listening and is now eagerly awaiting the ninth installment. Currently, they are revisiting the series through the &amp;quot;audio immersion tunnel&amp;quot; version, an enhanced format that incorporates music, sound effects, an expanded cast, and bonus content. Despite these added production elements, the author finds themselves preferring the standard audiobooks, primarily because the new voice performances in the immersion version feel unfamiliar and detract from their established experience with the series. Cost is also a constraining factor in how far they will continue with the premium format, even though they acknowledge it represents reasonable value compared to other entertainment media. Overall, the author remains enthusiastic about the series itself while remaining somewhat ambivalent about the enhanced audio format.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Series Progress Update:&lt;/strong&gt; The author has finished book eight of Dungeon Crawler Carl after several months and is eagerly anticipating the ninth installment.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Immersion Tunnel Experience:&lt;/strong&gt; The author is now re-listening using the audio immersion tunnel version, which features music, sound effects, additional cast members, and bonus content.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Format Preference:&lt;/strong&gt; Despite the enhanced features, the author leans toward the regular audiobooks primarily because the new voices in the immersion version feel unfamiliar.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cost Considerations:&lt;/strong&gt; Financial factors may limit how far the author continues with the immersion tunnel version, despite acknowledging it offers good value relative to other media.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/nb33857257576&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;サイバーコネクトツー展IN東京へ！あのぬいぐるみがやってくる🤍🖤&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 サイバーコネクトツー展将在东京首展限定毛绒玩偶&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由サイバーコネクトツー员工リスザルゆみこ撰写，介绍公司30周年巡回展「サイバーコネクトツー展」即将在东京举办的相关资讯。东京会场作为重点站点，将首次展出《チェイサーゲームW 水魚の交わり》中樹与冬雨的毛绒玩偶样品，该玩偶目前预约火爆。会场同时展销通贩限定周边并设置拍照打卡区，展览免费入场。文章语气轻松亲切，融合了个人日常分享与官方公告，体现出作者作为工作妈妈的日常风格。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者リスザルゆみこ介绍了自己参观堀越耕平《我的英雄学院》原画展的经历，并宣布サイバーコネクトツー展即将在东京举办，这是该巡回展的重要站点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;东京会场将限定首次展出《チェイサーゲームW 水魚の交わり》中樹和冬雨的毛绒玩偶样品，玩偶制作精良，服装为真实缝制，面部刺绣精美，引发大量预约。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还附上了CC2STORE官方关于毛绒玩偶预约和马克杯补货的Twitter公告，提示商品库存有限，呼吁粉丝尽早购买。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;除限定展品外，会场还将销售《チェイサーゲームW》的通贩限定周边，并设有照片打卡区，展览免费入场，适合全年龄段观众。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202606/78897&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【漫画の裏側を語る！】『チェイサーゲーム』原作コラム 『デバッグルーム』シーズン2 第69話 運命の引力（4）公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 松山社長がゲーム開発現場の実体験と西川氏の成長を語る&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本記事はファミ通連載マンガ『チェイサーゲーム』の原作コラムで、サイバーコネクトツー社長・松山洋氏が2000年代のゲーム開発現場における実体験を語っている。毎日実施された社長チェックの厳しさ、「マジンガーZを殴ったことがないのか」という伝説的発言の実際の背景、そして西川氏がNARUTOシリーズの開発を通じてディレクターから取締役へと成長した経緯が描かれている。また、サイバーコネクトツー30周年記念展の東京開催情報や、松山氏の著書『ゲーム業界の攻略法』の告知も含まれている。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2000年代のゲーム開発では社長チェックが毎日のように実施され、松山社長は定例化したチェックによって開発者が本来の目的を忘れることを厳しく指導していた。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;「マジンガーZを殴ったことがないのか」という実際の発言は、NARUTOゲームのメカキャラクターの打撃感触への指摘として生まれ、時代背景の違いからマンガでは.hackの設定に置き換えられている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;西川さんは.hackからNARUTOシリーズの開発を経てディレクターに抜擢され、チーム内の信頼関係を築いた結果としてサイバーコネクトツーの取締役にまで昇進した。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;次回予告では「おばあちゃんの弁当箱」というキーワードが示され、西川さんの成長を描くエピソードの続きが2026年6月29日に公開予定となっている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー30周年を記念した展覧会が2026年6月27〜28日に東京・西武渋谷店で開催され、トークイベントやサイン会、ファンミーティングも実施される。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;松山社長の著書『ゲーム業界の攻略法』が2026年2月16日に発売され、ゲーム業界志望者向けに就職面接の実態や合格者のポートフォリオなどの情報が掲載されている。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111360&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派推荐七款设计出色的实用新App&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期少数派《派评》由多位作者联合撰写，介绍了七款近期值得关注的应用。旅行记录应用raum.以极简世界地图海报为特色；Pico Cam将灵动岛创意融入拍立得体验；Bear团队推出本地Markdown编辑器Lettera；番茄时钟Basil以新粗犷主义设计和实时通知见长；AI工具Codex新增录制回放技能功能；白噪音应用Metiq以四色代表不同频率噪音。文章还速报了iA Writer和VSCO Studio Pro的最新更新。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期《派评》介绍了多款值得关注的App，涵盖iOS、macOS和Android平台，读者可通过目录快速跳转感兴趣的内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;raum. 是一款iOS极简旅行记录应用，将旅行足迹转化为世界地图海报，用户通过点亮国家来记录旅行，并可生成复古风格的旅行海报，免费下载但高级功能需付费168元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pico Cam 是一款创意iOS拍照应用，将灵动岛设计为拍立得的一部分，提供沉浸式拍照仪式感，支持摇晃显像和马克笔签名，采用订阅或买断制付费模式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Lettera 是Bear团队推出的macOS本地文件优先Markdown编辑器，可视为本地版或免费版Bear，目前处于公开测试阶段，收费计划尚未确定。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Basil 是一款设计出色的Android番茄时钟应用，采用新粗犷主义设计风格，支持任务管理、背景音效、App管控和系统原生实时通知功能，兼具设计感与实用性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Codex桌面客户端更新至v26.616，新增「录制与回放」功能，可将重复操作记录为可执行的「技能」，让AI理解操作逻辑并自动完成类似工作流，目前仅支持macOS。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Metiq 是一款极简Android白噪音应用，提供粉、棕、白、灰四种颜色对应不同频率的纯白噪音，支持计时器功能，可通过F-Droid免费下载，无需联网权限。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;App速报介绍了iA Writer适配Liquid Glass风格并新增快速搜索等功能，以及VSCO推出的专业修图应用VSCO Studio Pro，主打批量处理和AI色彩提取工作流。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/108899&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;具透｜Android 17 正式版：大屏体验，先看 Google？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Android 17聚焦大屏体验与隐私保护全面升级&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Android 17正式版于2025年6月向Pixel用户推送，带来了多项重要更新。在大屏体验方面，系统优化了活动窗口重建机制、新增分屏比例快捷切换和「应用气泡（Bubbles）」多任务功能，并要求2027年后Play商店应用必须适配大屏。隐私安全方面，新增了联系人选择器、本地网络权限管控和短信验证码延迟保护。跨设备方面，引入了基于Google服务的接力API。此外还有诸多底层和细节优化，整体更新以大屏生产力和隐私保护为核心方向。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android 17正式版于本月中旬向Pixel用户推送，作为Google对Android系统的理想愿景体现，其更新对国内Android生态也有一定影响。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android 17对大屏设备体验进行了多项优化，包括改进活动窗口重建机制，避免键盘连接等配置变化导致界面被强制刷新。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android 17为分屏模式新增了一键调整比例的快捷按钮，支持5:5、6:4、9:1三种模式快速切换，提升了多任务操作效率。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android 17引入「应用气泡（Bubbles）」功能，可通过长按应用图标以悬浮分组方式打开应用，大屏设备底部还会显示「气泡栏」。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;气泡功能在小屏上表现一般，与已有的「对话气泡」功能高度重合，且触发方式单一，缺少更灵活的手势交互入口。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android 17要求以其为目标平台的新应用在大屏上默认填满整个显示窗口，2027年8月31日后仅适配小屏的应用将不再被Google Play允许。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android 17为联系人选择引入了类似iOS Contact Access的隐私友好型标准化界面，并在披露粒度上比iOS更细，但该功能并非强制性替代原有权限。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android 17将本地网络权限纳入NEARBY_DEVICES权限组，面向Android 17开发的应用默认被屏蔽本地网络访问，2027年后所有Play应用须显式申请该权限。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android 17将短信验证码的三小时延迟保护机制扩展到WebOTP API及所有应用，旨在防范OTP短信验证码劫持攻击。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android 17引入了跨设备「接力」API（Handoff），开发者可标注活动窗口，使任务状态在不同设备间无缝流转，但该功能依赖Google服务。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android 17还新增了通知语义着色API、助理专用音量流、基于RAM的内存限制、后台音频强制限制、MessageQueue无锁化重构及录屏时开启前置摄像头等多项细节更新。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Android 17同步加强了家长控制功能，Gemini引入了音乐创作和视频生成能力，此前预告的Tap to Share功能最终未出现在正式版中。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111081&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;线索若隐若现：深入 Tim Cook 和 Nike 的商业连接&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 深度解析Apple、Nike与Tim Cook的商业三角关系&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了少数派播客的一期节目内容，聚焦于 Apple、Nike 与 Tim Cook 之间错综复杂的商业三角关系。Apple 与 Nike 的合作可追溯至 iPod 时代，而 Tim Cook 自2005年起长期担任 Nike 董事并升任首席独立董事，在个人层面与 Nike 高度绑定。节目邀请体育商业专家滑轮老师，深入分析 Apple 如何从 Nike 挖人、挖数据，推动 Apple Watch 向运动健康设备转型，以及 Cook 的体育人脉如何影响 Apple 体育流媒体战略布局。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple 与 Nike 的商业合作由来已久，从 iPod 时代的 Nike+iPod Sport Kit 到每代 Apple Watch 的 Nike 特别版，双方一直保持着长期品牌与产品合作伙伴关系。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Tim Cook 自2005年起担任 Nike 董事，2016年升为首席独立董事，他持续增持 Nike 股票并在公开场合穿着 Nike 运动鞋，与 Nike 的绑定程度极深。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期播客邀请《翻转体育》主播滑轮老师，深入探讨 Apple、Nike 与 Tim Cook 之间的商业三角关系，涵盖人才挖掘、品牌数据整合、体育流媒体布局及 Nike 转型期从 Cook 身上获得的资源等话题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110742&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;恩施龙船调，游土随川流&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 十周年纪念武汉恩施雨中旅行记&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者与女友相识十周年出行记录，记述了武汉与恩施的旅行见闻。在武汉，作者重游长江边、参观湖北省博物馆，欣赏了曾侯乙编钟音乐会。转至恩施后，历经持续阴雨，游览了地心谷、恩施大峡谷、梭布垭石林、野三峡和恩施云顶等地。文章以第一人称叙述，融入个人感受与人文思考，既描绘了恩施独特的峡谷和瀑布地貌之美，也对当地旅游产品、景区管理及演出内容提出了批评，行文真实自然。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了此次武汉与恩施之旅的背景，与女友相识十周年之际，两人决定出游，先飞武汉再转恩施，但全程遭遇了持续阴雨天气。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆十年前首次来武汉参赛的经历，并描述了此次重游武汉的见闻，包括乘坐长江渡轮、游览江汉路步行街、参观湖北省博物馆欣赏曾侯乙编钟音乐会等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在恩施，作者一行报了四天三晚包车行程，并指出行程安排存在人造景观偏多、性价比不高等问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一天下午游览地心谷，因连续降雨河水暴涨，原本清澈的蓝绿色河水变为黄色；晚上游览女儿城，发现游客以中老年旅行团为主。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二天天气放晴，游览恩施大峡谷，上午在山顶七星寨峰林观景，下午深入云龙地缝，被峡谷双瀑的壮美景色深深震撼。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三天上午游览梭布垭石林，发现九龙汇瀑布等惊喜景观；下午参观土司城了解土司制度历史；晚上观看《西兰卡普》表演，但对演出中男性视角主导和低俗内容表示不满。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第四天因屏山景区持续关闭，改道野三峡，在清江上乘船游览蝴蝶岩和龙洞，初次亲眼目睹悬棺，并体验了橡皮艇滑道；下午游览恩施云顶，认为这是此行最令人心旷神怡的景点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在总结中表示，恩施峡谷之美独一无二，尤其是恩施云顶和梭布垭石林，但因雨季错过了部分精华景点，期待日后再访。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;全是好东西！HTML command属性和JS toggle事件&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 介绍HTML新特性command属性与ToggleEvent的用法及兼容性&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由张鑫旭撰写，介绍了两个较新的HTML/DOM特性。第一部分讲解了HTML command属性的用法：通过commandfor关联目标元素，触发其内置DOM方法；自定义行为需通过监听command事件并使用双短横线前缀命名实现，主流浏览器已普遍支持。第二部分介绍了ToggleEvent，包括beforetoggle和toggle两种事件类型，适用于Popover、dialog和details元素，并重点说明了新增的event.source属性可识别触发来源，但目前仅command指令触发时有效，其他关闭方式需借助submit或cancel事件辅助判断。文末作者感叹个人投资亏损。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了HTML的command属性，该属性只能设置在按钮元素上，可通过commandfor关联目标元素ID，触发元素内置的DOM方法，例如点击按钮显示dialog弹框。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;command属性支持自定义行为，但需通过监听command事件实现，自定义command名称须以双短横线开头（如--radius），直接在原型上添加方法的方式无效。commandfor属性的浏览器兼容性出乎意料地好。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ToggleEvent是一个新的事件类型，包含beforetoggle和toggle两种事件，分别在Popover、dialog、details元素显示或隐藏前后触发，可通过newState和oldState判断元素展开或收起状态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新增的event.source属性可返回触发ToggleEvent的来源元素，目前测试发现只有通过command指令触发的关闭才能被识别，其他方式（如ESC、close()方法）返回null，需结合submit事件和cancel事件区分不同关闭来源。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结尾作者分享了个人投资经历，感叹恒生科技、公司股票及理想汽车股票均大幅下跌，认为人无法赚到认知以外的钱。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
