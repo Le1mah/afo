@@ -4,8 +4,93 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-07-03T21:01:33.180Z</updated>
+  <updated>2026-07-04T20:44:07.307Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - July 4, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-07-04</id>
+    <updated>2026-07-04T20:44:07.307Z</updated>
+    <published>2026-07-04T20:44:07.307Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>1 articles from 1 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 4, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;202.73972602739727&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    50.7%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;185&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;180&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;26&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████░░░░░░░░░░░░░░░ 50.7%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;1&lt;/strong&gt; articles from &lt;strong&gt;1&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111645&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[送码] 聆听用户建议，1Capture 新增多项实用截图功能&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 1Capture新增AI擦除与动态标注等功能，优化Mac截图录屏体验。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;1Capture是一款专为开发团队设计的Mac截图与录屏工具，近期根据用户反馈新增了动态荧光笔、多彩马赛克、AI擦除、点击动画及GIF录制等实用功能。该工具注重工作流效率，旨在通过更自然的标注和可视化操作，提升问题反馈与文档制作的质量。作者采用功能导向的写作风格，清晰展示了工具在实际场景中的应用价值与进化方向。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;1Capture在过去一年根据用户反馈进行了多轮更新，旨在优化团队协作与产品展示的截图录屏工作流。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新增的动态荧光笔功能可根据文字大小自动调整高亮区域，并支持文字吸附，使标注更精准高效。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;多彩马赛克功能替代了传统的黑白遮罩，在保护隐私的同时提升了标注的视觉层级和区分度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;引入AI擦除功能，能自然移除画面中的指定内容，在保持原始风格的前提下实现局部清理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;录屏功能新增点击动画，通过强化操作轨迹的可视化表达来提升沟通效率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;支持直接录制并编辑生成GIF动图，简化了从录屏到输出的整个工作流。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;预告了包括大光标、截图翻译、历史编辑及短链接分享在内的多项未来及近期更新功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发者通过送码活动鼓励用户在评论区留下反馈建议，以进一步优化产品体验。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - July 3, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1805,227 +1890,6 @@ A blog post circulated on Mastodon recommended using LLM agents to convert W3C A
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;通过具体案例展示了color-scheme与light-dark()的黄金搭档用法，该函数从2024年起被各大浏览器支持，兼容性较好。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还介绍了prefers-contrast媒体查询，可用于高对比度主题场景，将其与color-scheme结合可提升用户体验，但该特性在国内关注度较低。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者结尾感慨入行16年，职业发展遇到瓶颈，行业不景气，心态有所转变，目前处于保持现状、走一步看一步的状态。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - June 23, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-06-23</id>
-    <updated>2026-06-23T20:48:49.707Z</updated>
-    <published>2026-06-23T20:48:49.707Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>10 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 23, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;190.6849315068493&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    47.7%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;174&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;191&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;24&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████░░░░░░░░░░░░░░░░ 47.7%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;10&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/498&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 498: What&amp;#039;s next for Nx&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Nx推出Polygraph解决AI代理跨仓库上下文丢失难题&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是NxIssue #498期简报，核心内容是介绍Nx团队推出的新产品Polygraph。Polygraph针对AI原生开发场景中多仓库（polyrepo）带来的代理上下文丢失和仓库边界问题，通过依赖图将分散的代码仓库整合为虚拟单仓库（synthetic monorepo），并提供代理框架与会话记忆功能，使AI代理能够自主、连续地完成跨仓库任务。此外，简报还涵盖了QA Wolf自动化测试、Astro 7.0、Vite 8.1、TanStack Table v9内存优化、cnfast等多项前端技术动态。文章风格轻松幽默，干货与调侃并存。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期NxIssue #498介绍了三个主题：Nx团队的新产品Polygraph、AI代理在多仓库环境中的挑战，以及其他技术动态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Polygraph是Nx推出的一款元框架工具，通过依赖图将组织中分散的多个代码仓库连接成一个虚拟的单一仓库（synthetic monorepo），使AI代理能够跨仓库读写代码，解决了代理上下文丢失和仓库边界问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Polygraph的核心功能包括三部分：依赖图（连接所有公私有仓库并建立依赖关系图）、代理框架（为代理提供完整上下文并支持跨仓库操作）、以及会话记忆（记录每位开发者的每次会话，确保任务可被任何人在任何机器上无缝恢复）。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;赞助商QA Wolf通过映射代理自动扫描应用工作流，随着新功能的交付持续更新端到端测试，帮助团队保持测试的时效性，从而自信地发布代码。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期Cool Bits涵盖多条技术简讯：Astro 7.0.0发布（升级Vite 8、新Rust编译器）、Vite 8.1推出实验性全捆绑模式、Una Kravets介绍现代CSS主题技术、ast-grep新增文件大纲功能以节省token、cnfast作为tailwind-merge的更快替代方案发布，以及TanStack Table v9将大型表格内存占用减少90%等。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Jordan Mechner &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.jordanmechner.com/en/latest-news/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Run Jump&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 波斯王子创作者将80年代游戏动画素材制成限量版艺术版画&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了《波斯王子》游戏创始人Jordan Mechner的艺术项目。1985年，他通过录像弟弟动作并逐帧转描的方式制作游戏动画。40年后，他与巴黎Imprimerie Arte合作，将这些历史素材以激光雕刻铜板、19世纪古法印刷的方式，制作成限量版艺术版画《Run Jump》和《The End》。该项目将模拟与数字创作的精神以逆向方式重现，致敬了早期游戏开发中的创造性解决问题精神，相关版画现可通过其官网和Galerie Maeght购买。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;1985年制作《波斯王子》动画时，作者先录制弟弟David的动作视频，再通过数字化卡、动画台、35mm相机、修正液和记号笔等工具，逐帧将VHS录像转换为Apple II可用的图像，相关过程已在Ars Technica和图像回忆录《Replay》中有所记录。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;巴黎Imprimerie Arte的Jules Maeght被这些转描图像所吸引，与作者合作将1980年代的工作素材雕刻在铜板上，并用19世纪印刷机印制，推出了限量50份的签名版画《Run Jump》。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;1989年在Broderbund办公室拍摄的另一段动画也被制作成限量40份的版画作品《The End》，签名版画可通过作者官网和Galerie Maeght购买，更多艺术作品和巴黎画廊展览也在筹备中。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Mozilla Hacks – the Web developer blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;PACT: Anonymous Credentials for the Web&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用隐私保护速率限制取代设备证明以对抗机器人滥用&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是Cloudflare/Mozilla关于在机器人时代保护网络开放与隐私的深度技术分析。文章指出，浏览器隐私保护和生成式AI的进步正使现有反滥用工具失效，导致用户面临更多摩擦或更少隐私的两难局面。Google和Apple提出的设备证明方案虽有一定效果，但会将控制权交给硬件制造商，损害网络开放性。作者提出基于Privacy Pass协议构建开放的稀缺信号生态系统，利用零知识证明实现issuer blinding，结合多方计算（MPC）进行聚合信誉评估，在保护隐私的前提下实现有效速率限制，从根本上防止批量滥用。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (13 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文是Distilled更新文章的技术补充，介绍了在机器人时代保持网络开放与隐私的问题背景及设计提案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在私人浏览窗口、VPN或反指纹追踪防护下访问网站，用户会遭遇注册墙、封锁页面和无休止的验证码，网站有合理理由阻止机器人以防止批量滥用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;反滥用工具正在失效：浏览器隐私保护削弱了被动识别信号，而生成式AI使验证码对机器人失效，导致网站转向更具侵入性的身份验证方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;用户面临两难困境：隐私保护越强，越难被网站识别为正常用户；浏览器AI代理的出现使这一矛盾更加突出，导致网络体验对所有人变差。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;以Google的Web Environment Integrity和Apple的Private Access Tokens为代表的设备证明方案，虽能解决部分问题，但最终将控制权交给硬件制造商，损害了用户自主权和网络开放性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;两种方案均依赖制造商控制的设备部分，若广泛部署将使网络成为中心化围墙花园，作者认为存在更好的解决路径。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;机器人的危害源于其超人规模的操作能力，网站实际上不需要用户身份，只需速率限制即可防止批量滥用，而速率限制需要锚定稀缺资源。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;硬件只是稀缺性的一种选择，电子邮件、电话号码、付费订阅等均可作为稀缺信号；提出构建开放生态系统，由多方提供稀缺信号，各网站自行选择接受哪些信号。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;VPN订阅是理想的稀缺信号来源，若VPN提供商能为用户背书，网站可对每个用户单独设置速率限制，用户就能减少摩擦并保留VPN使用权。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;构建保护隐私的跨站信息流系统技术上极具挑战性，目标是仅传递最少信息——用户是否低于网站设定的速率限制这一单一比特，避免泄露稀缺性来源等额外信息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Privacy Pass协议于2018年开发，引入了在签发与兑换之间不可关联的令牌核心机制，已被Apple、Chrome和Kagi等成功部署于需要信任关系的封闭系统中。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;将Privacy Pass应用于开放系统面临两大挑战：特定签发方的令牌本身会泄露用户信息，且网站难以评估和信任新的令牌签发方，这两个问题对系统开放性至关重要。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;issuer blinding（签发方盲化）通过零知识证明可解决隐私泄露问题，而签发方信誉评估可借助多方计算（MPC）技术实现聚合测量，Mozilla在Prio系统中已有相关积累。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-23T15:44Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-23T15:44Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 玩家用防御流通关Ascension 10难度&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者分享了在《Slay the Spire 2》中使用The Ironclad角色完成Ascension 10难度的心得。尽管胜率一直很低，作者通过坚持不懈，利用重防御构建取得了胜利。关键配件包括Sturdy Clamp（每回合持续10格格挡）、Unmovable和Barricade，整体策略以防御为主，伤害输出较为困难。目前作者已完成The Silent、The Defect、The Necrobinder和The Ironclad的Ascension 10挑战，仅剩The Regent尚未完成。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/scenario/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;アニメ版権ゲームのシナリオデザイナー発掘プロジェクト「シナリオデザイナー養成所2026」始動！！第一次選抜のエントリー受付中！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2招募动漫游戏剧情设计师&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了CyberConnect2公司招募动漫版权游戏剧情设计师的甄选项目。选拔分两个阶段：第一次选拔包括在线测试、书面审查和面试；第二次选拔以有偿业务委托形式进行实战课题制作，报酬208,000日元。应聘资格为16岁以上、热爱游戏制作。录用后以合同工或兼职起步，设Junior、Intermediate、Senior三个薪资档次，并有转正可能。应聘者需具备理解作品世界观并将其适配游戏设计的核心能力。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本募集是一个专门挖掘动漫版权游戏剧情设计师的甄选项目，通过一次和二次选拔考试，最终录用合格者为专业剧情设计师，去年已有零经验者成功入行。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一次选拔包括在线测试（两轮）、提交应聘材料、书面审查和在线面试等环节，各阶段均有合否判定。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二次选拔于2026年10月1日至29日进行，以业务委托形式让候选人制作正式剧情课题，报酬为208,000日元，合否与否均支付报酬。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;整体选拔日程从6月22日应募开始，经过两轮测试、在线面试，到11月中旬面试，12月上旬公布最终结果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;应聘方法为通过指定表单提交第一次选拔测试1的答案，截止日期为2026年8月2日，每人限答一次。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;应聘者需具备理解作品世界观与角色特性的能力，以及将作品内容适配游戏设计节奏的剧情构建能力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;动漫版权游戏剧情并非简单改写原作，而是需要在保留作品魅力的同时，按游戏设计对内容进行取舍和重构。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;招聘职种为剧情设计师，要求16岁以上、对游戏制作充满热情，有剧情或游戏制作经验者优先但非必须。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;录用后以合同工或兼职形式起步，根据能力分为Junior/Intermediate/Senior三个级别，月薪分别从231,000、271,000、301,000日元起，勤务地点可在福冈、大阪、东京三地协商确定。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202606/79133&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【『戦場のフーガ』開発記録】『インターミッション』第88.5回 公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《战场的赋格》漫画迎来高潮，谜之少女身份即将揭晓&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为ファミ通连载漫画《战场的赋格 开发记录》第88.5话的解说文章。内容聚焦于神秘少女从澳大利亚向塔拉尼斯注入能量的剧情，揭示了马埃斯特罗长期暗中行动的真相，故事正式迈向高潮。文章同时公开了松山的原始分镜与足立老师成品的对比，彰显专业作画的魅力。此外，CyberConnect2 30周年展览将于东京举办，松山社长新书《游戏业界的攻略法》也已正式发售。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;神秘少女从澳大利亚大陆向塔拉尼斯注入能量，使其获得临时强化，为下一话击败凯撒铺垫。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;揭示了马埃斯特罗长期干涉马尔特的真正目的——就是为了找到这位神秘少女，两者终于即将正面交锋，故事迈向核心。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本话为.5回形式，由松山绘制分镜后交由足立老师作画，并公开原始分镜对比，展示专业漫画家在速度感与魄力上的差异。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑部宣告故事进入高潮，舞台将转移至澳大利亚大陆，第89话预定于2026年7月7日刊载。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;CyberConnect2庆祝30周年，于2026年6月27日至28日在东京西武涉谷店举办展览，并有座谈会与签名会活动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;松山洋社长出版新书《游戏业界的攻略法》，面向游戏业界志望者，内含就职面试实态及真实合格者作品集等内容。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111410&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派社区速递分享夏季包包、百元键盘与净化器选购体验&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期「社区速递146」由少数派Matrix社区整理发布，内容涵盖四大板块：一派热议「夏季出门包」话题引发281人参与，派友分享了帆布袋、胸包、背包等多种选择；一周热评汇聚英特尔代工苹果芯片、Nothing手机系统、AI开发游戏等话题的社区观点；社区摘要推荐了AI应用、工具开发等优质原创文章；新玩意栏目重点介绍了69.5元宏碁薄膜键盘和米家空气净化器6的购买体验，内容实用接地气，体现了少数派社区的多元兴趣与理性消费取向。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派Matrix社区重启周报「社区速递」，本期聚焦上周热议话题、社区热评及新玩意分享，旨在为更多优质内容提供曝光机会。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;上期一派讨论「夏季出门背啥包」吸引281名用户参与，派友们分享了帆布袋、胸包、小鹰背包等各类夏季包型及随身物品搭配心得。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;社区热评汇聚了关于英特尔为苹果代工芯片、iPhone涨价、AI Vibe Coding开发游戏、Nothing手机系统体验以及抗锯齿技术原理等多篇文章的精彩评论。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;社区摘要收录了AI读书实践、智能体时代研究者角色、AI穿搭助手、Cloudflare工具、天气App人文关怀等多篇社区优质原创文章。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新玩意栏目分享了两款产品：69.5元宏碁OKW217薄膜键盘（三模68键，手感轻柔，性价比高）和米家空气净化器6双芯除醛版（参数均衡，适合卧室使用，作者对比选购过程详尽）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111261&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 深度解析macOS HiDPI渲染原理与显示技术演进&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由少数派作者Nnnobel撰写，系统讲解了macOS中HiDPI的原理与历史。文章从物理分辨率与逻辑分辨率的区别出发，追溯至2012年WWDC Apple引入Point坐标系与Retina显示屏的设计理念，详细阐述了渲染分辨率、FrameBuffer、整数缩放与分数缩放（Fractional Scaling）的工作机制，并指出HiDPI本质上类似SSAA超采样抗锯齿。文章还解释了Apple移除子像素抗锯齿导致低PPI显示器字体发虚的原因，以及强制开启HiDPI的原理与代价，兼顾理论深度与实用参考价值。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章起源于读者对macOS HiDPI模式是否类似SSAA的疑问，作者结合图形学知识，旨在用通俗语言解释HiDPI的本质，并引用了多篇相关实践文章。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章从分辨率概念入手，区分了物理分辨率与逻辑分辨率，引出macOS系统设置中显示分辨率与实际分辨率不一致的现象。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2012年WWDC上，Apple随Retina显示屏发布了统一坐标系统，引入Point作为逻辑单位，使1个Point对应2×2个Pixel，从而在不改变界面布局的前提下大幅提升显示精度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细介绍了渲染分辨率与FrameBuffer的概念，区分了LoDPI和HiDPI的工作方式，并指出HiDPI本质上类似于SSAA超采样抗锯齿原理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;整数缩放是Apple软硬件协同设计的体现，MacBook Pro、Studio Display等产品的物理分辨率与逻辑分辨率严格保持2×整数倍关系，实现最优显示效果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;当Mac连接第三方显示器时，物理分辨率与逻辑分辨率之间不再是整数倍关系，macOS采用分数缩放（Fractional Scaling）方案，先以更高分辨率渲染再缩放输出，虽有轻微损失但效果仍优于LoDPI。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple在部分MacBook Pro机型上曾默认使用分数缩放以换取更大桌面空间，直到2021年新款MacBook Pro通过更高规格面板才同时兼顾桌面空间与整数缩放，而MacBook Air因产品定位一直默认使用分数缩放。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple自macOS Mojave起移除了子像素抗锯齿技术，依赖高PPI与HiDPI渲染保证字体质量，但这导致低PPI外接显示器上字体显示效果不如Windows清晰。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;LCD平滑选项在Big Sur后从图形界面消失，但仍可通过命令行修改AppleFontSmoothing参数调整灰阶抗锯齿强度，并非恢复子像素渲染。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;强制开启HiDPI本质上是让macOS对低分辨率显示器启用分数缩放机制，以超采样方式提升字体平滑度，但代价是GPU需以更高分辨率持续渲染，带来额外能耗、显存占用及发热问题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110947&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 系统化面试复盘SOP助你从答题者变成掌控全局的解局人&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者分享了一套经过实战检验的面试全流程备战与复盘SOP，共分五个阶段：备战阶段通过拆解JD和获取内部情报精准定位准备方向；面试后即时记录问题与感受；再进行个人深度复盘，对比历史数据追踪成长；随后借助领导与面试官的外部视角进行二次校验；最终通过Notion知识库沉淀结构化资产，并定期与同行交流构建情报网络。作者强调面试是有规律可循的推理游戏，系统性复盘能将每次面试的经验转化为持久的职场竞争力。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了面试备战的核心理念：面试并非玄学，而是有迹可循的推理游戏，可以通过分析JD和面试官行为逆向推导招聘意图。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Phase 0备战阶段包括三步：拆解JD了解工作内容和KPI、通过人脉获取内部情报、面试前复习核心材料并借助AI预测问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Phase 1为面试后即时快照：在30-60分钟内趁热打铁记录所有问题，并将回答感受分为秒答题、混沌题和盲区题三类进行初步评估。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Phase 2为第一次个人深度复盘：将问题按类型分类，补充完整答案框架，对比历史面试记录追踪进步，并评估语言表达与非语言表现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Phase 3为与领导、前辈或面试官的二次复盘：借助外部视角获取答题思路和职业规划的交叉验证，并在未通过时向面试官索取反馈。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Phase 4为知识管理与行动计划：使用Notion建立按职级分类的面试题库，打磨可复用的行为题素材库，并将复盘结果转化为具体行动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Phase 5为构建同频情报网络：通过与内部人员和跨机构同行定期交流，打破信息茧房，获取行业动态和真实面试题，积累长期竞争优势。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结该套流程在标准化体系（如医疗系统）中尤为有效，并鼓励读者持续复盘，将职场变成不断通关升级的游戏。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111385&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：荣耀发布 X80 Pro Max 等新品等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报：荣耀新品、微软砍功能、Flyme易主等多则资讯&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派科技早报，汇总了6月22日前后多条科技新闻。荣耀发布X80 Pro Max大电池旗舰及降噪耳机；微软宣布移除Edge浏览器的Drop文件互传功能；丰巢与微信支付联合推出刷掌取件服务；Ubiquiti发布企业级NAS；阿里巴巴升级视频生成模型HappyHorse至1.1版；FSFE要求欧盟强制谷歌允许用户卸载Android预装AI；亿咖通科技以18亿元收购Flyme软件业务。此外还包含多则科技简讯，内容覆盖面广，信息密度高。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;荣耀于6月22日发布X80 Pro Max手机，搭载第五代骁龙6平台，配备11000mAh大电池，支持多级防水防摔，售价1999元起；同时发布Earbuds 5e降噪蓝牙耳机，首发价299元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软确认将移除Edge浏览器中广受好评的文件互传功能Drop，该功能依托OneDrive支持跨平台文件传输，下线后用户的文字笔记将被清除，但文件数据仍保存在OneDrive云端。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;丰巢联合微信支付推出「刷掌取件」功能，用户无需手机即可通过掌纹识别完成身份验证并开柜取件，目前已在深圳部分区域试点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Ubiquiti推出3U机架式企业级NAS系统，售价3999美元，基于8核Arm处理器，支持ZFS文件系统，存储容量可扩展至1PB以上，采用免许可制度不锁定硬盘供应商。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阿里巴巴发布视频生成模型HappyHorse 1.1，相比1.0版本在动态表现力、画面一致性、指令遵循、视觉质量及音画同步等方面均有提升，已在多个平台上线。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;欧洲自由软件基金会（FSFE）向欧盟委员会提交文件，要求在《数字市场法案》框架下强制谷歌允许Android用户完全卸载预装AI功能，并禁止后台静默重装。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;亿咖通科技（ECARX）宣布以18亿元人民币全资收购星纪魅族旗下Flyme软件业务，核心资产包括Flyme Auto智能座舱系统和Flyme OS操作系统，交易金额约为其市值的66%。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯部分涵盖多条科技资讯：Nothing推出(b)系列定位介绍、米哈游警告冒充采购诈骗、48位中国iOS开发者联名举报苹果垄断、豆包App测试打车功能、Valve公布Steam Machine售价等。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
