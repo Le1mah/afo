@@ -4,8 +4,104 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-07-04T20:44:07.307Z</updated>
+  <updated>2026-07-05T20:52:23.765Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - July 5, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-07-05</id>
+    <updated>2026-07-05T20:52:23.765Z</updated>
+    <published>2026-07-05T20:52:23.765Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>2 articles from 2 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 5, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;203.83561643835617&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    51.0%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;186&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;179&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;26&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████░░░░░░░░░░░░░░░ 51.0%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;2&lt;/strong&gt; articles from &lt;strong&gt;2&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-7-5/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.7.5&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 从《极乐迪斯科》的多重人格反思自我立场并重燃创作欲。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在周日凌晨完成《极乐迪斯科》后，反思了长假中在游戏与琐事间的挣扎。他将游戏中的多重人格对话系统与自己博客中的多面立场（如悲观主义、实干主义等）进行类比，探讨了自我意识的拆解与重构。文风随性且带有自省色彩，最终表达了受游戏启发重启个人项目的愿望，并对这款游戏给予高度评价。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在周日凌晨看完《极乐迪斯科》制作名单，回顾了长假期间在嗜睡与游戏中度过，推迟了包括 NIW RFE 材料准备和车辆保养在内的多项事务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;虽然作者意识到出门跑山或摄影可能更有意义，但他最终选择了在家度过这两天。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将游戏的人格系统与自己博客的多重立场类比，分析了自己性格中悲观主义、愤世嫉俗、实干记录与及时享乐等不同侧面。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;受游戏启发，作者思考将人生片段做成类似的系统并重启旧项目，最后表达了对《极乐迪斯科》的推荐。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111632&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;背单词更要背释义，FenyiDic 让你记住「熟悉的陌生人」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 FenyiDic is an open-source tool focusing on granular word definitions and structured review to overcome the polysemy gap.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;FenyiDic is an open-source tool for macOS and Windows that shifts the focus of language learning from rote word memorization to the mastery of granular, context-specific definitions. By re-parsing dictionary data to treat individual meanings as independent entities, the application enables developers to decouple semantic units from lexical units for precise tagging and historical tracking. The platform streamlines a structured six-step intensive reading workflow and offers five specialized review modes—such as auditory recognition and spelling—to target specific linguistic weaknesses. Ultimately, FenyiDic provides a data-driven, automated approach to overcoming the &amp;quot;polysemy gap&amp;quot; that often hinders advanced reading comprehension.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Meaning-Based Learning Focus:&lt;/strong&gt; The author argues that reading comprehension often fails due to unfamiliar definitions of known words, shifting the focus from memorizing words to mastering specific meanings.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Granular Data Structure:&lt;/strong&gt; FenyiDic re-parses dictionary data to treat individual definitions as independent entities, allowing users to tag, note, and archive specific meanings separately.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Targeted Review Modes:&lt;/strong&gt; The app features five distinct review modes—such as &amp;#039;unrecognized,&amp;#039; &amp;#039;unheard,&amp;#039; and &amp;#039;misspelled&amp;#039;—to address specific linguistic weaknesses with tailored training.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Automated Intensive Reading:&lt;/strong&gt; Inspired by structured self-study methods, the tool automates the tedious 6-step intensive reading process to improve efficiency and historical tracking.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Open Source Distribution:&lt;/strong&gt; Embracing the era of AI-driven personal tools, the developer has released FenyiDic as an open-source application for macOS and Windows on GitHub.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - July 4, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1710,186 +1806,6 @@ The author presents a sharp critique of current technology trends, characterizin
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;小米在众筹页面上线NAS产品&amp;#039;小米智能存储&amp;#039;，分4TB（2299元）、8TB（2899元）、16TB（4699元）三档，为双盘位设计，将于7月1日正式开售。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;波兰品牌Goodram推出PRO S6B0 SD存储卡，128GB容量，符合UHS-II规范，顺序读取265MB/s、写入120MB/s，获U3、V60认证，支持4K录制及RAW摄影，享终身保修。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Rockstar Games母公司Take-Two宣布《GTA VI》于6月25日开启预售，2026年11月19日正式发售，登陆PS5与Xbox Series X|S，标准版79.99美元，终极版99.99美元，预购可获多种特典，暂无PC版计划。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - June 24, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-06-24</id>
-    <updated>2026-06-24T20:41:37.991Z</updated>
-    <published>2026-06-24T20:41:37.991Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>8 articles from 5 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 24, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;191.7808219178082&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    47.9%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;175&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;190&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;25&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████░░░░░░░░░░░░░░░░ 47.9%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;8&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Auth0 PHP - manually authenticating JWT idTokens&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用PHP SDK验证Auth0颁发的JWT并提取用户信息&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者批评Auth0 by Okta的官方文档严重缺失，并以实用教程的形式填补这一空白。文章介绍了如何在PHP（Symfony框架）中使用Auth0 PHP SDK验证和解析Auth0颁发的JWT idToken。作者详细说明了配置Auth0实例的关键参数（如domain、clientId、clientSecret，以及必须设置的cookieSecret占位值），以及如何通过toArray()方法提取用户的nickname和sub等身份信息。全文风格直接、实用，带有幽默批评色彩，主要内容来自阅读源码而非官方文档。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者批评Auth0 by Okta文档严重不足，并介绍了如何使用Auth0颁发的JWT进行身份验证，指出用户认证后会获得accessToken和idToken，其中只需使用idToken。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者说明JWT是Base64编码的JSON，包含header、body和signature三部分，并推荐使用Auth0 PHP库（以Symfony为例）来解析和验证token，而非手动解码。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提供了具体的PHP代码示例，包括导入库、获取请求头中的token、配置Auth0实例并解码token，并指出cookieSecret和tokenType必须正确设置。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了从解码后的token中提取用户信息的方法，最简单的方式是调用toArray()方法获取claims数组，然后通过键名访问nickname和sub等用户属性。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-24T10:10Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-24T10:10Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Mastodon 4.6支持为头像和横幅添加alt文本&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Mastodon 4.6新增了无障碍功能，允许用户为其个人头像和横幅图片添加替代文本（alt text）。这一改进有助于提升视觉障碍用户的使用体验。目前，该功能仅在个人主页的masthead区域生效，尚未覆盖所有头像显示场景。此消息由Chee Aun提供。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-24T05:31Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-24T05:31Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 LLMs generating ARIA code from W3C APG specs risks harming disabled users, as APG documents anti-patterns not production implementations.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary
-
-A blog post circulated on Mastodon recommended using LLM agents to convert W3C ARIA Authoring Practices Guide (APG) specifications into working code — advice quickly flagged as problematic by accessibility practitioners. The core issue is a fundamental misunderstanding of the APG&amp;#039;s purpose: it exists to demonstrate the ARIA specification in isolation, not as a production implementation reference, and accessibility expert Manuel Matuzović has documented it as containing numerous anti-patterns. LLMs compound this problem by having no reliable mechanism to distinguish which ARIA patterns actually have consistent support across real-world browsers and assistive technologies, making AI-generated ARIA code from APG specs a meaningful risk to disabled users. While the original advice included the caveat to &amp;quot;test,&amp;quot; the author argues this single word obscures the substantial burden of thorough, cross-AT accessibility validation required to make such output safe. The piece closes with a broader philosophical point: the first rule of ARIA is effectively &amp;quot;don&amp;#039;t use ARIA,&amp;quot; and genuine accessibility expertise tends to result in *less* ARIA usage, not more — a direct counterpoint to the premise of generating more of it via AI.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Viral Bad Advice:&lt;/strong&gt; A quote from a May blog post circulated on Mastodon, suggesting developers use LLM agents to convert W3C ARIA Authoring Practices Guide specs into working code. Nathan Knowler flagged it as terrible advice.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;APG Misunderstood Purpose:&lt;/strong&gt; The W3C ARIA Authoring Practices Guide is commonly misused as a practical how-to guide, but its actual stated purpose is to demonstrate the ARIA specification regardless of real-world browser and assistive technology support.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;APG Anti-Patterns Problem:&lt;/strong&gt; As noted by accessibility expert Manuel Matuzović, the APG is full of anti-patterns and should not be treated as a reliable implementation reference for production accessibility work.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;LLM Knowledge Limitations:&lt;/strong&gt; LLMs cannot reliably know which ARIA patterns are actually supported across browsers and assistive technologies, making AI-generated ARIA code from APG specs particularly risky for real users.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Weight of &amp;#039;Test&amp;#039;:&lt;/strong&gt; The original advice ends with the word &amp;#039;test,&amp;#039; which the author notes carries enormous responsibility — implying that thorough accessibility testing would be required to validate any LLM-generated ARIA output.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Less ARIA Is Better:&lt;/strong&gt; The first rule of ARIA is often summarized as &amp;#039;don&amp;#039;t use ARIA,&amp;#039; and the author reflects that increased accessibility knowledge leads to using ARIA less, not more.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://manga.line.me/product/periodic?id=S133094&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;しごにんの侍 第五十話「しまい唄」公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 未提供任何文章内容。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;未提供文章内容，无法进行摘要处理。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111289&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 OPPO Enco Clip2声音出色但做工存在明显瑕疵&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是TDS Studio对OPPO Enco Clip2耳夹式开放真无线耳机的深度评测。文章从包装、外观设计、佩戴舒适度、操作与软件功能、通话表现、信号与续航、声音素质等多个维度进行了全面分析。Enco Clip2搭载双动圈单元与6nm芯片，声音整体明亮，通话降噪出色，续航实测略低于标称值，第三方设备延迟一般。高光金版本外观亮眼，但开孔做工粗糙、表面易沾油污是主要槽点。综合评级为IV级（Recommend），在同级耳夹产品中属于中等水平。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OPPO Enco Clip2是OPPO首代耳夹产品的升级版，上月首发购入，外观上与前代及竞品有更明显区分。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;包装与其他OPPO耳机一致，首发附赠代言人限量礼盒，内含保护套等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Enco Clip2提供高光金和深空灰两种配色，高光金版本采用塑料高光电镀工艺，充电盒为扁圆类楔形设计，USB-C充电口和配对按键位于底部，耳机磁吸稳定，整体造型流线形且辨识度高于初代。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;高光表面极易沾染油污，部分开孔无倒角、摸上去刮手，做工细节不符合手机品牌高端产品线水准；单边重量5.2g，佩戴舒适，支持IP55防护，但厚耳廓用户体验可能稍差。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;操作通过敲击C桥和前腔外侧滑动实现，双击、三击识别准确，但滑动调节音量识别率偏低；欢律app提供操作自定义、音效调节、游戏模式及多设备切换等功能，&amp;quot;声音空间&amp;quot;功能自然度有待提升。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;搭载6nm芯片并结合AI NPU处理通话降噪，通话稳定性良好，清晰度在耳夹品类中属第一梯队，风噪抑制表现出色，嘈杂环境下对背景噪音抑制较为激进。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;支持LHDC 5.0、AAC等编码，信号在隔墙约8.5m处出现丢包，支持Windows Swift Pair和双设备连接，但第三方设备延迟表现一般，低延迟游戏模式改善有限。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;实测AAC连接续航约7小时50分钟，低于官方标称的9.5小时；支持10分钟快充换取3.5h续航，充电功率约2.7W，不支持无线充电。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;搭载11mm+9mm双动圈单元及单侧双DAC，支持SBC/AAC/LHDC-V，有四种预设声音模式；内置空间音效可拓展空间感，但不支持头部追踪；50%音量下漏音控制处于耳夹品类第二梯队。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;低频紧实弹性出色，中频人声距离稍近且精细，整体调音在3~6kHz有明显增益带来明亮感，解析能力在千元内耳夹市场表现不错，声场呈扁球状空间。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Enco Clip2声音素质可圈可点，通话降噪出色，但做工细节和第三方设备延迟是主要短板，综合评级为IV级（Recommend），在同级别中属于中等偏下水平。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111428&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从观众到志愿者：加入 TEDxShenzhen 需要做些什么？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享三年TEDxShenzhen志愿者经历与申请建议&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者许万里Alva分享了自己从TEDxShenzhen观众转变为志愿者的三年经历。文章首先厘清了TED与TEDx的区别，说明TEDx是TED官方授权的城市级独立活动，由本地志愿者团队以非营利方式运营。作者重点介绍了讲者组的工作内容，包括发掘讲者、打磨演讲稿及陪伴彩排，并分享了邀请李忠秋教授的心路历程与争议反思。文章还详细介绍了志愿者申请流程与时间投入，最后以&amp;#039;好的观点值得被认真听见&amp;#039;作为坚持志愿服务的核心动力，语调真诚，具有较强的参考价值。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了写作本文的契机：加入TEDxShenzhen已三年，应朋友和编辑的建议，分享从观众转变为志愿者的经历，并概述文章将涵盖TED与TEDx的区别、志愿者工作内容及申请建议。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了TED的起源（1984年）及其&amp;#039;Ideas Worth Spreading&amp;#039;使命，并解释TEDxShenzhen是TED官方授权的城市级独立组织，由本地志愿者团队以非营利方式运营，规模更小但更贴近本地社群。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;TEDx中的&amp;#039;x&amp;#039;代表独立组织的TED活动，各城市TEDx由当地团队自主策划执行，TED提供规则指导但不直接负责具体组织，读者可通过TEDx events网站查找本地活动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;TED旗下还有TED-Ed动画课程、TED Talks Daily播客、TED Tech等多种内容形式，但对普通参与者而言，线下接触最多的仍是各城市的TEDx活动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;TEDxShenzhen志愿者团队分为多个组别，作者所在的讲者组负责寻找和邀请潜在讲者，工作涵盖从初步推荐、沟通意向到协助讲稿打磨和彩排的全过程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了邀请李忠秋教授参加2024年度大会的经历，起因是2020年在广州听过他关于流浪猫的演讲，那次演讲让作者意识到动物议题在更大社会和生态系统中的复杂性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;李忠秋教授的演讲曾引发网络争议，作者因此经历短暂的自我怀疑，但最终意识到公共表达本身就存在争议性，不应因争议就否定议题被认真讨论的价值。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享在大会后台认识了电影《出走的决心》原型人物苏敏阿姨、导演竹内亮及潮语音乐人林书盛等，这些预料之外的连接让志愿者经历变得尤为珍贵。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;申请TEDxShenzhen志愿者需关注公众号招募信息，填写申请问卷，通过初筛后进行线上面试；不同组别对能力要求不同，建议结合自身兴趣和经历选择合适组别申请。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者说明讲者组的时间投入较为灵活，平时各自利用空闲时间完成工作，每两周举行一次约两小时的双周会；志愿者也可根据兴趣转组或在一年服务期结束后选择是否续留。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾2025年大会筹备中遭遇的质疑和技术问题，但最终认为志愿服务虽不以报酬驱动，却因此聚集了真正热爱的人，这种共创体验在效率至上的时代显得尤为珍贵，因此选择继续留在TEDxShenzhen。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111223&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用2026年AI自动化采集二十年前的老旧DV磁带&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者将近二十年前积累的200多盘DV/HDV磁带进行数字化，过程中遭遇软件兼容、磁带老化等重重问题。通过借助Claude和Codex等AI工具，作者先后开发了完整性分析脚本、可视化采集软件、命令行采集工具tapecap及分析工具tapeflow，最终实现了由AI agent全自动控制采集、检测损坏、补采的完整流程。文章记录了2026年AI agent与2008年老设备协同工作的奇妙体验，也提醒读者macOS 26 Tahoe已移除FireWire驱动支持。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因高中时期拍摄爱好积累了200多盘未采集的DV/HDV磁带，决定将其数字化，并回顾了三年前在Mac上采集HDV的经历与未解决的问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者探索使用FFmpeg替代Premiere Pro进行DV采集，发现FFmpeg适用于DV格式但无法正确处理HDV的音频和元数据，最终仍需依赖PR 2022进行HDV采集。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;磁带经过近二十年存放出现消磁、带基老化等问题，作者发现通过retension（快进快退）可部分恢复磁带可读性，但采集过程仍不稳定且耗时费力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者借助Claude Code生成脚本，实现对采集片段的完整性分析、损坏检测和自动拼接，初步实现流程化但操作仍较繁琐。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者进一步让Claude和Codex协作开发了带可视化界面的软件，支持DV和HDV，可直观显示损坏位置并支持拖拽操作，提升了采集工作流的易用性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Claude基于苹果十多年前的FireWire SDK示例代码，开发了支持DV/HDV源码级采集的命令行工具tapecap，并证实Apple Silicon的Mac底层仍保留FireWire接口，但macOS 26 Tahoe已彻底移除该驱动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将tapecap与分析工具tapeflow整合，通过AI agent（Codex）实现全自动采集、分析、补采流程，Codex奋战至凌晨6点完成一盘磁带148个片段的采集，标志着整个流程的完全自动化。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;CSS color-scheme属性与light-dark()颜色函数&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 light-dark()与color-scheme配合实现CSS深浅主题切换&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由张鑫旭撰写，系统介绍了CSS中light-dark()颜色函数的使用方法及其背景。文章从prefers-color-scheme媒体查询的局限性出发，引出color-scheme属性，再进一步说明light-dark()函数如何与color-scheme配合，真正将深浅配色自定义能力交给开发者。文章还提及prefers-contrast媒体查询在高对比度场景中的应用。light-dark()函数自2024年起获主流浏览器支持，兼容性良好。文末作者感慨入行16年，职业发展遇到瓶颈，心态趋于平稳。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文由张鑫旭撰写，介绍CSS中的light-dark()颜色函数，该函数可根据当前配色方案返回相应颜色，无需使用prefers-color-scheme媒体查询。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;prefers-color-scheme媒体查询虽可匹配系统深浅模式，但实际开发中用处有限，因为大多数用户不会在系统层面设置深浅模式，应用内切换才是更友好的交互方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;CSS引入了color-scheme属性，允许开发者自定义深浅模式，无需依赖系统设置，可改变浏览器内置组件的配色方案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;color-scheme的局限性在于只能改变浏览器内置控件样式，无法整体切换页面配色，需配合其他手段才能实现完整的深浅主题切换。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;light-dark()函数与color-scheme属性配合使用，才真正将深浅配色的自定义能力交给开发者，支持颜色值、自定义属性等多种语法形式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过具体案例展示了color-scheme与light-dark()的黄金搭档用法，该函数从2024年起被各大浏览器支持，兼容性较好。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章还介绍了prefers-contrast媒体查询，可用于高对比度主题场景，将其与color-scheme结合可提升用户体验，但该特性在国内关注度较低。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者结尾感慨入行16年，职业发展遇到瓶颈，行业不景气，心态有所转变，目前处于保持现状、走一步看一步的状态。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
