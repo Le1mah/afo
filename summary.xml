@@ -4,8 +4,188 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-07-05T20:52:23.765Z</updated>
+  <updated>2026-07-06T21:50:11.502Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - July 6, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-07-06</id>
+    <updated>2026-07-06T21:50:11.501Z</updated>
+    <published>2026-07-06T21:50:11.501Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>9 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 6, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;204.93150684931507&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    51.2%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;187&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;178&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;26&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████░░░░░░░░░░░░░░░ 51.2%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;9&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-07-06.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: July  6&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Modern engineering scales production AI through modular architecture and cost-effective models to manage rising token expenses and complexity.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Modern software engineering has transitioned from AI experimentation to production-scale agentic development, where rigorous architectural modularity and clean naming conventions are now essential for optimizing LLM token efficiency. To manage these systems, developers are adopting &amp;quot;harness engineering&amp;quot; and structured workflows—such as ADRs and automated task lists—while cultivating &amp;quot;mechanical sympathy&amp;quot; for model-specific limitations. Economically, the move toward smaller, cost-effective models is accelerating as enterprise LLM expenses balloon toward $100 million annually, making high-quality internal design a vital hedge against rising costs and platform volatility. Despite ethical concerns regarding AI training and the rise of fraudulent copyright takedowns targeting technical journalism, the industry consensus emphasizes active engagement to improve the ecosystem from within.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;From Aspiration to Production:&lt;/strong&gt; The focus of agentic development has shifted from theoretical possibilities to shipping real software in production environments. The industry debate over whether AI changes engineering is largely over, moving instead toward refining implementation patterns.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Architecture and Agent Experience:&lt;/strong&gt; Good software architecture remains vital because AI agents benefit from the same modularity and clear naming conventions that assist human developers. Design quality can now be measured by evaluating the token efficiency of required code changes.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Emerging Agentic Workflows:&lt;/strong&gt; New practices like harness engineering and structured workflows involving ADRs and automated task lists are becoming standard. Developers are encouraged to maintain mechanical sympathy for LLMs to better understand their specific capabilities and limitations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hedging Against AI Dependency:&lt;/strong&gt; Maintaining high design standards serves as a critical hedge against risks such as rising token costs or restricted model access. Robust internal design ensures software remains maintainable even if AI tools become unavailable or prohibitively expensive.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pragmatic AI Ethics:&lt;/strong&gt; While acknowledging the harms of AI training and inference, the consensus favors active engagement over ethical renunciation. Improving the technology and its implementation from within is seen as more impactful than removing oneself from the system.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Exploiting DMCA Systems:&lt;/strong&gt; Fraudulent copyright claims are being used to erase legitimate technical journalism from search engine results. This highlights a significant vulnerability in how major platforms handle automated takedown requests without sufficient verification.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Escalating Token Costs:&lt;/strong&gt; Large enterprises are facing massive increases in AI operational expenses, leading to a shift toward smaller, more cost-effective models. Internal reports indicate some companies are on track to spend over $100 million annually on LLM tokens.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/07/06/behold-the-perfect-algorithm/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Behold the perfect algorithm!&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Replace manipulative engagement algorithms and state mandates with transparent, chronological SQL feeds based on explicit user follows.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The UK government’s proposed mandate to prioritize &amp;quot;public service news&amp;quot; on platforms like YouTube and TikTok has sparked a debate between state-driven visibility and corporate engagement-driven algorithms. The author critiques both approaches, arguing that modern recommendation engines weaponize engagement metrics and &amp;quot;doomscrolling&amp;quot; at the expense of user mental health. As a technical alternative, the author advocates for a &amp;quot;perfect algorithm&amp;quot; centered on a transparent, chronological SQL query based strictly on a user’s explicit follow list. By returning to deterministic feed curation, the author posits that platforms can eliminate the need for both complex algorithmic manipulation and government-mandated content prioritization.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;UK Government Consultation:&lt;/strong&gt; The UK government is exploring regulations to prioritize public service news and combat misinformation on major platforms like YouTube and TikTok.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Big Tech Resistance:&lt;/strong&gt; YouTube is actively urging creators to oppose these proposed algorithmic changes, which would mandate increased visibility for government-sanctioned news content.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Anti-Establishment Sentiment:&lt;/strong&gt; The author expresses a dual disdain for both government interventionism and the manipulative, engagement-driven practices of large technology corporations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Minimalist Algorithm:&lt;/strong&gt; The author proposes a simple SQL query as the &amp;#039;perfect&amp;#039; alternative, advocating for a transparent, chronological feed based strictly on user follows.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Engagement vs. Health:&lt;/strong&gt; Modern recommendation engines are criticized for prioritizing engagement metrics and &amp;#039;doomscrolling&amp;#039; at the expense of user well-being and mental health.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;User-Centric Curation:&lt;/strong&gt; The core argument posits that a user&amp;#039;s explicit follow list provides all the necessary data for feed curation, rendering complex algorithmic manipulation unnecessary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-07-06T07:30Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-07-06T07:30Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 浏览器 Hack 在 Safari 中复现并用于实现动态主题切换。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了浏览器 Hack 在 Safari 中的回潮。作者指出这种在 Internet Explorer 时代常见的手段正因 Safari 的特性而复兴，并分享了利用 @supports、Temporal 和 CSS color-mix 实现动态主题切换的案例。作者强调此类技术具有不确定性，仅建议在能够持续维护的网站上使用，以应对未来浏览器更新带来的潜在破坏。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-07-06T07:21Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-07-06T07:21Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 生成式 AI 取代专业经验，摧毁了作者的职业生涯。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;生成式 AI (Generative AI) 摧毁了作者的职业生涯。在职业后期，其深思熟虑的专业工作被要求替换为低质量的 AI 生成内容（slop）。作者强调，他在长期职业生涯中积累的模式识别能力和工具使用经验是独特且不可替代的，而 Generative AI 的介入使得这种非同质化的人类经验失去了生存空间。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://news.denfaminicogamer.jp/interview/260706c2&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【電ファミニコゲーマー】「誰でも合格できる」はずの試験で、なぜ合格率は1/200だったのか。サイバーコネクトツー「シナリオデザイナー養成所」の舞台裏&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2’s scenario training prioritizes technical discipline and specification adherence over raw creativity, resulting in a 0.5% acceptance rate.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2 established an internal training program to professionalize game scenario design, prioritizing fundamental &amp;quot;professional hygiene&amp;quot;—such as strict adherence to specifications and rigorous research—over raw creative talent. Despite a 0.5% acceptance rate, the selection process filters primarily for baseline discipline, as many applicants fail early rounds by neglecting technical instructions or failing to utilize available resources. The curriculum emphasizes the unique constraints of interactive media, focusing on how narrative must integrate with gameplay loops, state transitions (e.g., battle triggers), and real-time dialogue timing. Ultimately, the studio treats scenario design as a disciplined production workflow, seeking candidates with &amp;quot;untrainable&amp;quot; IP passion while viewing technical writing as a skill that can be standardized through consistent execution.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Scenario Training Initiative:&lt;/strong&gt; CyberConnect2 established an in-house training program to address the lack of clear career paths for game scenario designers in the industry.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fundamental Professionalism Required:&lt;/strong&gt; The initial selection phases prioritize basic professional competencies, such as following specifications and conducting research, over advanced creative talent.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;High Failure Rates:&lt;/strong&gt; Despite low technical barriers, many applicants fail early rounds by neglecting instructions or failing to utilize available resources like the internet.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Prioritizing IP Passion:&lt;/strong&gt; The program seeks individuals with deep love for specific intellectual properties, as technical writing skills are trainable while genuine passion is not.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Game-Specific Scripting Logic:&lt;/strong&gt; Game scenarios require unique considerations compared to traditional media, specifically regarding battle transitions and interactive dialogue timing within gameplay loops.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Evaluation of Collaboration:&lt;/strong&gt; Final selection criteria include communication skills and the ability to align with the team’s production workflow during standard working hours.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Transparency in Requirements:&lt;/strong&gt; CyberConnect2 has publicly released successful applicant assignments to demonstrate that consistent execution of specifications is prioritized over unconventional genius.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202607/80314&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【漫画の裏側を語る！】『チェイサーゲーム』原作コラム 『デバッグルーム』シーズン2 外伝 おばあちゃんの弁当箱編 公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 松山洋通过真实毒舌轶事回顾游戏开发中的严苛磨炼与团队成长。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是《Chaser Game》原作者松山洋的专栏，通过分享“奶奶的便当盒”等真实轶事，回顾了游戏开发过程中严苛的反馈与团队成长。作者坦诚了过去曾使用极具冲击力的言语激励员工，强调这种高压管理建立在深厚信任与对质量的极致追求上。如今，随着核心成员的成长，团队已能独立完成高质量产出。文章最后推荐了作者的新书，旨在为行业新人提供实用的职场攻略。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍外传章节“奶奶的便当盒”的真实背景，分享了因画面过于地味、色调单一而被要求重做的制作轶事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;记录了松山洋社长曾对员工石桥发表的“喝泥水”式毒舌评价，尽管社长本人已忘记，但员工对此记忆犹新。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;回顾过去游戏开发中严苛的沟通方式，解释这种高压环境仅针对抗压性强的成员，且源于对工作的极度投入。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;阐述如今开发团队已高度成熟，西川和石桥等骨干能在社长检查前解决所有问题，实现了高效的“一发OK”。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑部评论指出这种严厉的教导建立在深厚的信任基础之上，是公司能产出完美工作成果的基石。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;宣传松山洋社长的新书《游戏行业的攻略法》，为志向进入游戏行业的人才提供职场指导和经验分享。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111999&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple’s AI expansion headlines recent app releases, featuring new developer utilities and significant industry shifts from Safari and Notion.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Apple has significantly expanded its creative and productivity suites with on-device generative AI and deep Pixelmator integration, while the developer landscape sees the arrival of AI-native tools like the Rust-based, GPU-accelerated Otty terminal and Glaze for natural-language macOS app construction. System-level utilities have evolved with BetterCmdTab&amp;#039;s advanced window management and ObtainX’s secure, Material 3-based Android app sourcing, alongside Trayzero’s strict GTD implementation for mobile task management. Finally, notable industry shifts include Safari’s adoption of the Model Context Protocol (MCP) for AI agent interaction and Notion’s announcement to sunset its mail service by late 2026.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apple Creative Ecosystem:&lt;/strong&gt; Apple updated its Creator Studio with deep Pixelmator Pro integration and AI-powered features like automatic captioning and intelligent masking in Final Cut Pro. The update also introduces on-device generative AI for shapes and images across the iWork suite.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Driven App Development:&lt;/strong&gt; Glaze, developed by the Raycast team, enables users to build functional macOS applications using natural language descriptions and AI agents. It streamlines the development process from initial prompting to debugging and publishing in an integrated store.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Centric Terminal Design:&lt;/strong&gt; Otty is a Rust-based, GPU-accelerated terminal from the Typora team designed to handle multiple concurrent AI agents through a specialized sidebar and session management. It features native status tracking for tools like Claude Code and provides a clean, document-inspired interface.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Advanced Window Management:&lt;/strong&gt; BetterCmdTab is a free macOS utility that replaces the native app switcher with customizable grid, list, and preview modes. It includes advanced features like tab-level navigation for browsers, fuzzy search, and three-finger swipe gestures for rapid window switching.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Purist GTD Implementation:&lt;/strong&gt; Trayzero for Android offers a strict implementation of the Getting Things Done (GTD) methodology, emphasizing the &amp;#039;2-minute rule&amp;#039; and structured task processing. The app focuses on offline, local-only task management to minimize cognitive friction during the planning phase.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Enhanced Open-Source Management:&lt;/strong&gt; ObtainX is an improved version of the Obtainium app manager for Android, featuring bulk app importing and enhanced security via package construction verification. It modernizes the user experience with Material 3 design and integration with third-party permission managers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Emerging Technical Standards:&lt;/strong&gt; Recent industry updates include Safari Technology Preview&amp;#039;s introduction of Model Context Protocol (MCP) for AI agent browser interaction. Additionally, Notion has announced the upcoming retirement of its Notion Mail service in late 2026.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111113&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享 iPhone Air 极简体验引发的核心价值思考。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了作者将 iPhone Air 作为主力机使用三个月后的深度感悟。在行业盲目堆砌硬件的背景下，iPhone Air 凭借极简主义设计脱颖而出。尽管该机型在长焦镜头和续航表现上存在短板，但其独特的产品取舍促使作者重新思考移动设备的本质价值，展现了对极简产品哲学的认可与反思。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在旗舰机普遍堆砌影像系统的时代，Apple 通过 iPhone Air 打造了一种极简且纯粹的产品风格。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管 iPhone Air 在长焦和续航等方面做出了取舍，但这种设计促使作者重新思考真正核心的使用体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以视频形式分享了作为独立自媒体人的深度使用心得，并邀请读者关注其创作内容。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111702&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;自动给文章术语加百科链接，这个方案一分钟搞定&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Automate encyclopedia term linking using `remark/rehype` AST manipulation for optimized, build-time static HTML generation.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This build-time automation solution utilizes `remark` and `rehype` plugins to inject encyclopedia links into technical articles via AST manipulation, ensuring optimal performance by serving pre-processed static HTML. The implementation features sophisticated logic to prevent over-linking and maintain readability, including longest-match prioritization, single-instance linking per term, and the exclusion of code blocks, headers, and existing links. To ensure precision, the system incorporates word boundary checks for English acronyms and supports a hybrid source model of Wikipedia and custom documentation URLs. The workflow is further enhanced by an automated audit script that identifies high-frequency unlinked terms and maintains a centralized glossary index for improved site-wide discoverability.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Improving Reading Experience:&lt;/strong&gt; The author addresses the friction caused by technical jargon by automating term explanations to maintain reader immersion and focus.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Build-Time Automation:&lt;/strong&gt; Choosing a build-time approach over client-side scripts ensures better performance and provides readers with clean, pre-processed static HTML.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Plugin-Based Architecture:&lt;/strong&gt; The system utilizes two specialized plugins, remark-glossary and rehype-glossary, to handle language detection and HTML AST manipulation respectively.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Refined Matching Logic:&lt;/strong&gt; The implementation prioritizes longer terms, ensures each term is linked only once per article, and performs boundary checks for English acronyms to avoid false positives.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Context-Aware Filtering:&lt;/strong&gt; To maintain visual clarity, the script intelligently skips linking inside code blocks, headers, and existing links to avoid nested or redundant tags.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Data Sourcing Strategy:&lt;/strong&gt; Wikipedia serves as the primary stable knowledge base, supplemented by custom URLs for official documentation or niche software when necessary.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Maintenance and Auditing:&lt;/strong&gt; An automated audit script identifies high-frequency unlinked terms in new content, while a dedicated glossary page provides a comprehensive index for readers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - July 5, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1644,168 +1824,6 @@ The author presents a sharp critique of current technology trends, characterizin
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;本期还包含一句话消息（握力与死亡风险、Sandisk高价硬盘、帕特农神庙修缮）、多篇技术文章推荐、12款工具介绍、5个AI相关项目、4个资源推荐以及图片和文摘内容。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;文摘部分介绍了&amp;#039;米&amp;#039;的历史演变，从法国大革命时期基于地球子午线定义，到后来用光波长、最终用光速重新定义，展现了人类度量衡标准化的科学进程。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;言论板块收录了关于雇佣初级工程师的理念、欧洲宜居住宅标准、2022年前书籍的人工价值以及大公司工程师晋升困境等多方观点。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - June 25, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-06-25</id>
-    <updated>2026-06-25T20:43:38.788Z</updated>
-    <published>2026-06-25T20:43:38.788Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>7 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 25, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;192.87671232876713&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    48.2%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;176&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;189&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;25&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████░░░░░░░░░░░░░░░░ 48.2%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;7&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-25T11:10Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-25T11:10Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 atproto参考PDS新增账户管理功能，方便自托管用户&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;atproto参考PDS（个人数据服务器）新增了账户管理功能，这对自托管用户来说是一个重要改进。此前，用户必须借助Bluesky等应用或使用goat CLI（管理员工具）才能修改密码等账户设置。目前作者尚未发现任何第三方PDS实现，并表示自己有冲动开发一个，但考虑到所需时间成本过高而放弃了这一想法。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n03d3ce5cc944&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;クレジットカード、リボ払いの危険性&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 リボ払いの高金利は元金をほぼ減らさず借金地獄を招く&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツー副社長の宮崎氏が、新社会人に向けてクレジットカードのリボ払いの危険性を具体的な数字で解説した記事。リボ払いは月々の支払いが均一で便利に見えるが、15〜17.64％という高金利により、実際には大幅な余分な支払いが発生する。特に楽天カードの「楽Pay」などの自動リボ設定は、ポイント特典で魅力的に見せながら高金利を課す仕組みであり、毎月少額返済しながら買い物を続けると元金が永久に減らなくなる危険性がある。収入の範囲内での生活を心がけることの重要性を訴えている。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー副社長の宮崎氏が、新社会人に向けてクレジットカードのリボ払いの危険性について警鐘を鳴らす記事を執筆した。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;リボ払いは毎月の支払いが均一で便利に見えるが、消費者金融と同水準の約15％前後という高い金利が設定されており、事実上の借金と同じ状態になる。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;30万円の買い物を毎月1万円返済した場合、総返済額は38万2千円となり、8万2千円もの金利を支払うことになる具体例が示された。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;楽天カードの「楽Pay」や三井住友カードの「マイペイすリボ」などの自動リボ設定は、ポイント特典で魅力的に見えるが実際には罠である。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;楽天カードの金利17.64％で20万円の残高を毎月3,000円返済した場合、元金は月60円しか減らず、返済がほぼ不可能な状態になることが示された。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;毎月3万円の買い物を続けると残高と利息が雪だるま式に膨らみ、6か月目以降は利息すら返済できず元金が永久に減らなくなる危険性がある。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;自分の収入の範囲内で生活することの重要性を説き、社員には困った際に相談するよう呼びかけて記事を締めくくった。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111518&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 245｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派编辑分享四款新产品的真实使用体验&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部「新玩意」栏目第245期，四位编辑分享了近期体验的产品。克莱德以51元捡到Google Stadia手柄，盛赞其握持感和扳机反馈；张奕源试用荣耀600 Pro，意外于其干净系统和强劲续航；路中南体验Nothing Phone (4a) Pro，欣赏其Glyph灯阵设计和简洁NothingOS，但相机细节仍需打磨；PlatyHsu闲鱼450元入手安克智显充Pro 160W，认可其全C口设计但觉价格偏高。文章风格轻松，兼顾优缺点，适合消费者参考。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了少数派编辑部「新玩意」栏目的背景，编辑们分享各自近期购买或试用的新产品体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑克莱德以51元入手了停服的Google Stadia手柄，称赞其圆润握持感和细腻的霍尔线性扳机反馈，认为超出预期，已用其替换Xbox无线手柄，但指出缺少陀螺仪且需升级蓝牙固件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑张奕源试用了荣耀600 Pro，意外发现其系统干净、广告少，MagicOS 10动画流畅，8000mAh电池续航强劲，但震动马达质感较差，整体评价为适合学生党和想退烧的中端机用户。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑路中南试用了Nothing Phone (4a) Pro，肯定了其铝合金背板、Glyph点阵灯通知系统和简洁的NothingOS体验，长焦相机表现不错，但指出缺少无线充电、非整数变焦画质下滑等不足。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑PlatyHsu因出门遗失旧充电头，以450元闲鱼价入手安克Prime智显充Pro 160W，称赞其全C口设计和紧凑体积，但指出外壳质感一般、部分国产设备兼容性有限，且价格偏高。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章末尾介绍了读者参与「新玩意」栏目投稿的方式和奖励规则。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111421&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;给记忆一个归处：我为什么开始使用 Apple 手记&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple手记以智能建议降低门槛，助用户记录真实感受与生活记忆。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者ElijahLee详细介绍了Apple原生日记应用《手记》的使用体验与功能特色。作者因关注心理健康而开始使用手记，并持续记录40余天、70余篇日记。文章重点介绍了「手记建议」这一核心功能，它通过整合音乐、照片、地图、体能训练等原生应用数据，以活动卡片形式帮助用户回顾生活，避免面对空白页。文章还涵盖排版设计、多平台使用体验、日记管理功能及即将到来的OS 27新特性，最终得出结论：手记的最大价值在于帮助用户发现值得记录的时刻，引导用户关注感受而非流水账式的事实记录。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因关注心理健康而开始使用Apple手记，从记录心情出发，发现手记可与健康App的「心理状态」功能数据互通，逐渐发展为连续记录40多天、70多篇日记的习惯。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;手记最大特色是「手记建议」功能，通过调用音乐、照片、地图、体能训练、心理状态、人物等原生应用API，以活动卡片形式提供写作素材，避免用户面对空白页面，使日记成为多媒体生活记录工具。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;手记排版分为上半部多媒体区和下半部文字区，支持多种尺寸卡片自动排版和手动调整，心理状态和地点信息可选大小视图，文字区支持标题、正文、格式设置及语音录制等功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;手记通过智能建议将事件记录自动化，让用户专注于感受记录；小组件和反思提示功能提供随机写作话题引导，内置心理状态记录和正念计时功能，帮助用户深入记录内心感受。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;手记支持iPhone、iPad和Mac多平台，各平台功能有所差异；提供日记本分类、书签、多维度搜索、统计分析和地点足迹地图等管理功能，并支持Face ID锁定和iCloud同步，隐私处理在设备本地完成。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;即将到来的OS 27更新将为手记新增日记时刻功能，允许用户查看和编辑精确的创建时间，同时带来动态写作提示、更多附件格式和全屏照片等新功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为，手记通过降低记录门槛、引导感受记录，已从单纯日记工具演变为个人记忆档案馆，帮助用户在回顾时看到鲜活的生活片段和真实的自我。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111483&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 墨水屏手机壳让背面随心换装表达个性&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;XTREM INNO极稚墨水屏手机壳是一款嵌入彩色电子墨水屏的MagSafe手机壳，通过G Shell应用和NFC技术，用户可随时将图片投屏至手机背面，实现个性化展示。该壳无需充电，采用电容储能，显示静止画面时零耗电。配套应用内置AI生图功能和艺术家社区，还支持好友间远程投屏互动。壳体本身做工精良，重量轻薄，提供多种配色。文章还介绍了少数派联名版的专属权益与购买信息，定价399至429元。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;手机背面个性化长期被忽视，XTREM团队推出墨水屏手机壳，旨在让手机背面也能像正面一样随心更换外观，成为承载个人情绪和日常表达的窗口。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;XTREM INNO极稚墨水屏手机壳外观类似MagSafe壳，内嵌彩色电子墨水屏，通过G Shell应用和NFC配对，可轻松将图片投屏到手机背面，整个更换过程不到半分钟。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;该手机壳分辨率400×400像素，DPI为212，户外阳光下显示效果清晰；内部无电池，采用电容储能，利用NFC传输时充电，无需额外充电，也无电池老化隐患。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;受四色墨水屏限制，建议使用线条干净、色块分明的插画风格图片；G Shell应用内置AI生图功能，可将照片转换为适合墨水屏展示的风格，未来还将支持自定义文字和更多AI风格。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;G Shell不仅是换图工具，还是内容社区入口，汇聚多位艺术家作品；用户还可添加好友账号，远程将图片投送到对方手机壳，实现类似明信片的互动体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;XTREM手机壳本体采用亲肤哑光材质，重量与普通防摔壳接近，提供橙、黑、白三色，做工精细，兼顾美观与实用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章总结了XTREM INNO的适用人群，并介绍了少数派联名版的专属权益、定价（399-429元）及购买渠道，前314位用户可获赠贴纸套装、挂饰及G Shell无限点数。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111349&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;风暖鸟声碎，日高花影重：我的昆明与腾冲行记&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 从春城昆明到热海腾冲，一场寻找晴天与市井烟火的云南之旅。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者从恩施经昆明到腾冲的旅行经历。作者以细致的观察和生动的笔触，描绘了昆明春城的宜人气候、市井烟火气和文艺书店，体验了滇越铁路沿线的历史底蕴。在腾冲，作者享受了官房酒店的度假环境，探访了火山地热奇观、抗战遗迹和古镇风情，最后因天气变化体验了云南的空地联运系统。整个行程展现了云南多元的自然风景和人文特色，传达了旅行中发现自我、感受生活的主题。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从恩施出发，选择在昆明中转，被昆明宜必思酒店附近的夜市小吃街吸引，品尝了瓦罐米粉和木番茄拌粉等当地特色美食。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者游览了斗南花市、翠湖公园和滇池湿地公园，在翠湖与松鼠互动喂蓝莓，体验了独特的人与自然的互动，感受到了昆明的生活气息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者探访了昆明老城区，包括大观篆新农贸市场、过桥米线、纸布石书店和橡皮书店，漫步文林街感受文艺氛围，沿着滇越铁路从西南联大旧址往西走，体验百年前的市井风情。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者前往腾冲，入住官房大酒店享受度假体验，参观了叠水河瀑布和国殇墓园，在和顺古镇制作植物拓染包，欣赏白鹭群落和书局咖啡的夕阳景色。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者游览了热海温泉景区和北海湿地，体验了火山地热景观和沼泽湿地的独特自然风貌，最后因天气原因航班改至芒市起飞，体验了云南三地空地联运保障系统。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111476&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：豆包推出专业版、GTA VI 开启预售等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 豆包发专业版，OpenAI推AI芯片，GTA VI开预售&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派派早报，汇总了6月24日多条科技资讯：字节跳动发布豆包专业版及音频生成模型1.0，主打AI办公自动化；OpenAI联合博通推出首款定制AI推理芯片Jalapeño，成本低、研发周期短；小米上线NAS众筹产品；Goodram推出新款SD存储卡PRO S6B0；《GTA VI》正式开启预售并公布发售日期与定价。文章以简讯形式逐条呈现，涵盖AI、硬件、游戏等多个领域的最新动态。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;字节跳动正式推出豆包专业版，接入豆包2.1 Pro模型的办公任务模式支持操作本地电脑、调用Skills技能、内置Office套件等，能自主拆解任务并持续执行，实现从&amp;#039;回答问题&amp;#039;到&amp;#039;专业办公&amp;#039;的升级。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;豆包专业版分标准（68元/月）、加强（200元/月）、高级（500元/月）三档；同时发布豆包音频生成模型1.0，支持参考生成、多角色音色一致性及单条Prompt编排完整音频，已在火山方舟开启API邀测。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI与博通联合发布首款定制AI芯片Jalapeño，定位智能处理器，专为大语言模型推理设计，从设计到流片仅用9个月，成本较主流AI GPU节约约50%，预计2026年底开始首批部署。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米在众筹页面上线NAS产品&amp;#039;小米智能存储&amp;#039;，分4TB（2299元）、8TB（2899元）、16TB（4699元）三档，为双盘位设计，将于7月1日正式开售。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;波兰品牌Goodram推出PRO S6B0 SD存储卡，128GB容量，符合UHS-II规范，顺序读取265MB/s、写入120MB/s，获U3、V60认证，支持4K录制及RAW摄影，享终身保修。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Rockstar Games母公司Take-Two宣布《GTA VI》于6月25日开启预售，2026年11月19日正式发售，登陆PS5与Xbox Series X|S，标准版79.99美元，终极版99.99美元，预购可获多种特典，暂无PC版计划。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
