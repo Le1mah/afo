@@ -4,8 +4,283 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-07-09T21:52:56.584Z</updated>
+  <updated>2026-07-10T21:45:35.001Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - July 10, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-07-10</id>
+    <updated>2026-07-10T21:45:35.001Z</updated>
+    <published>2026-07-10T21:45:35.001Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>13 articles from 8 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 10, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;209.31506849315068&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    52.3%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;191&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;174&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;27&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████░░░░░░░░░░░░░░ 52.3%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;13&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Descent — What Happened to the Frontend While You Weren’t Watching&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Frontend development evolved from complex frameworks to high-performance tooling, eventually returning to streamlined, server-centric paradigms.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Frontend development has evolved from manual DOM manipulation to declarative frameworks like React and Vue to solve the &amp;quot;original sin&amp;quot; of state synchronization across UI elements. This architectural shift necessitated increasingly complex build pipelines, leading the industry to transition from heavy JavaScript-based bundlers to high-performance tools written in Go and Rust to mitigate build-time bottlenecks. Ultimately, the ecosystem is leveraging this advanced infrastructure to return to simpler, server-centric paradigms like HTML-over-the-wire, balancing modern developer experience with a more streamlined execution model.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Evolution of Complexity:&lt;/strong&gt; Modern web development has transitioned from simple FTP uploads to complex toolchains where every new tool acts as a solution to a specific historical technical limitation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The AJAX Era:&lt;/strong&gt; jQuery and AJAX solved the problem of full-page reloads, but created a new challenge: the &amp;#039;original sin&amp;#039; of manually synchronizing data across multiple UI elements.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Declarative UI Frameworks:&lt;/strong&gt; Frameworks like React and Vue introduced declarative components and reactivity, allowing the UI to update automatically based on state changes rather than manual DOM manipulation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Build Step:&lt;/strong&gt; To handle modern syntax and code splitting, the industry adopted transpilers like Babel and bundlers like Webpack, resulting in the massive dependency trees found in node_modules.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;High-Performance Tooling:&lt;/strong&gt; As build times became a bottleneck, developers shifted to tools written in compiled languages like Go and Rust, such as Vite and esbuild, to achieve near-instant development cycles.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Returning to Bedrock:&lt;/strong&gt; Despite the complexity, modern web development is converging toward a balance where advanced tools facilitate a return to simpler, server-centric paradigms like HTML-over-the-wire.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://zeldman.com/2026/07/06/memories-cant-wait-or-how-i-learned-to-keep-worrying-about-the-web/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Memories Can’t Wait—or, How I Learned to Keep Worrying About the Web - Jeffrey Zeldman Presents&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 数字记忆因平台中心化而脆弱，我们应通过自主掌控数据成为互联网园丁。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了数字记忆在现代互联网环境下的脆弱性。作者指出，由于关注度经济和平台中心化的影响，存储在云端的内容极易因企业决策而无声消失。他呼吁用户从单纯的“租户”转变为“园丁”，通过拥有独立域名、保存本地多重副本及采用开放格式等手段，主动掌握数字遗产的所有权。这种做法不仅是对个人记忆的保护，更是对互联网作为持久、共享记忆载体这一初衷的坚守。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;过去人们担心物理火灾摧毁记忆，而现代数字记忆面临的是平台停运或功能调整导致的冷漠式消失。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;数字链接的失效往往源于关注度经济驱动下的成本考量，如数据库维护、域名失效或CMS迁移。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;云服务并非真正的备份，而是将记忆移交给拥有拆除条款的租用空间，用户并不真正拥有存储权。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;数字记忆的消失是残酷且无声的，没有物理损坏的征兆，通常仅表现为链接失效或重定向至广告页。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;云端不是实体场所而是一种承诺，当前的互联网正从初衷的去中心化走向中心化的围墙花园。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;我们应当通过拥有独立域名、保存本地副本和使用开放格式，以主动的归档行为来对抗平台的临时性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;互联网仍是共享记忆的希望，但我们需要像园丁一样亲自打理和维护属于自己的数字领地。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Translate brand strategy into actionable visual specifications by aligning stakeholders and defining design goals before creative execution.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This process serves as a critical &amp;quot;requirements gathering&amp;quot; phase that translates abstract brand strategy into a concrete visual specification, preventing project failure caused by subjective interpretations of vague descriptors. By facilitating stakeholder alignment and defining brand adjectives within specific market constraints, teams can identify and resolve hidden tensions—such as balancing disruption with credibility—before any creative execution begins. Ultimately, this transition from verbal strategy to visual reality transforms high-level business goals into a clearly defined design problem, ensuring that the final visual system is both strategically aligned and technically coherent.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Pre-Concept Phase:&lt;/strong&gt; This phase bridges the gap between high-level business strategy and visual design by establishing a shared foundation before any creative work begins. It prevents project failure caused by misaligned interpretations of vague brand adjectives.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Contextualizing Abstract Terminology:&lt;/strong&gt; Broad descriptors like &amp;quot;modern&amp;quot; or &amp;quot;disruptive&amp;quot; are highly subjective and must be defined within the specific constraints of the industry and target audience. Understanding how these terms translate to a specific market prevents designers from creating visually impressive but strategically incorrect assets.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Researching Brand Context:&lt;/strong&gt; Effective discovery focuses on how a brand is perceived rather than just collecting business facts. It requires identifying what customers should believe and determining where the brand should adhere to or challenge category conventions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Probing Perception Questions:&lt;/strong&gt; Designers should use specific questions to uncover the &amp;quot;gut feeling&amp;quot; a brand should evoke, such as how the brand would speak if it were a person. This helps identify hidden tensions, such as balancing boldness with credibility in sensitive sectors like fintech or health tech.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Aligning Stakeholder Expectations:&lt;/strong&gt; Stakeholders often hold conflicting internal definitions for the same words, leading to fragmented design directions. Facilitating discussions to clarify these definitions ensures the entire team agrees on the intended visual system&amp;#039;s meaning and scope.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Visualizing Abstract Concepts:&lt;/strong&gt; Moving from verbal strategy to visual reality requires exercises that force stakeholders to think through images and relative perception. This transition makes abstract brand goals concrete, providing a clear design problem for the creative team to solve.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/502&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 502: TypeScript 7 is here&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 TypeScript 7’s 10x faster Go-based compiler headlines a shift toward high-performance tooling and resilient AI agents.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;TypeScript 7 introduces a Go-based compiler rewrite delivering 10x performance gains through parallelization, though the current lack of a programmatic API limits immediate adoption by major frameworks. The ecosystem is simultaneously evolving toward durable execution for resilient AI agents and high-tier reasoning models like Grok 4.5 and GPT 5.6, while Vercel’s new Zig-based toolkit signals a push for systems-level performance in native desktop applications. Additionally, advancements in package management via Bun 1.4 and research into phantom dependency elimination aim to further optimize development workflows alongside significant new funding for open-source sustainability.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;TypeScript 7 Go Port:&lt;/strong&gt; TypeScript 7 features a complete compiler rewrite in Go, delivering a 10x performance increase through parallelized parsing and type-checking. While editor stability and watch mode have improved, the lack of a programmatic API currently prevents adoption by frameworks like Svelte and Vue.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Durable Agentic Loops:&lt;/strong&gt; Orkes and Nick Lotz highlight the necessity of durable execution engines for building resilient AI agents capable of surviving crashes during long-running tasks. This architectural approach ensures complex agentic workflows maintain state and progress across distributed systems.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bun and Package Management:&lt;/strong&gt; The release of Bun 1.4 coincides with new research from the Nub team regarding the elimination of phantom dependencies in Node.js. These advancements aim to optimize dependency resolution and achieve a 5x increase in package manager performance.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;LLM Competitive Landscape:&lt;/strong&gt; The AI space sees rapid movement with SpaceXAI releasing Grok 4.5 to compete with OpenAI&amp;#039;s GPT 5.6, internally codenamed &amp;#039;Sol.&amp;#039; These releases represent the latest &amp;#039;Opus&amp;#039; level models aimed at high-tier reasoning and performance.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Vercel Native Desktop Toolkit:&lt;/strong&gt; Vercel Labs has introduced &amp;#039;native,&amp;#039; a toolkit designed for building native desktop applications using Zig. This move suggests a shift toward lower-level systems programming for performance-critical client-side software.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Frontend Ecosystem Updates:&lt;/strong&gt; Recent developments include updated React documentation for the Suspense component and the launch of a visual exploration tool for OpenCode. Additionally, the Open Source Pledge has successfully raised over $7 million to support maintainers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dynamic Object Key Pitfalls:&lt;/strong&gt; A common JavaScript error involves using dot notation for dynamic property assignment, which creates a literal key rather than evaluating the variable. Senior developers should ensure bracket notation is used when keys are determined at runtime.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Game Review: Lovers In A Dangerous Spacetime ★★★☆☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者体验合作游戏《Lovers In A Dangerous Spacetime》并给出三星评价。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文分享了作者为实现与妻子共同玩游戏的新年计划而尝试《Lovers In A Dangerous Spacetime》的体验。作者以轻松平实的笔触描述了这款合作游戏的机制，强调了团队沟通的重要性。尽管游戏画风可爱且协作感强，但作者指出其后期玩法重复且双人操作难度较大，更推荐四人游玩。最终作者给予三星评价，认为其价格合理，是一款值得一试的合作游戏。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者的新年计划是与妻子一起玩更多合作类游戏，因为他讨厌竞争性游戏并寻求性价比高的推荐。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者尝试了《Lovers In A Dangerous Spacetime》，这是一款需要玩家共同操控飞船、射击敌人并营救伙伴的协作游戏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;游戏在关卡后期略显乏味，且两人模式下由于难以同时兼顾移动、护盾和射击，操作体验略感沮丧，更适合四人游玩。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该游戏画风可爱且UI设计别出心裁，价格实惠，作者最终给出了三星的评价，认为其表现尚可。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/07/10/astro-is-fine/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Astro is fine I guess&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Astro 虽开发者体验有瑕疵，但仍是实用的静态网站生成器。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了作者使用 Astro 构建公司网站的实战体验。作者评价了 Astro 的安装流程、优秀的文档支持以及在 Zed 编辑器中遇到的 LSP 崩溃等开发者体验（DX）问题。尽管对现代 Web 开发工具链的复杂性和 Cloudflare 的收购感到无奈与担忧，作者依然认可 Astro 在处理静态 HTML 和博客构建方面的实用性。文章最终得出结论：Astro 虽然不完美，但足以胜任构建高性能网站的任务。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者决定为新公司网站选择一个现成的静态网站生成器（SSG），以替代自己开发的工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在 11ty 和 Astro 之间，作者因社区推荐选择了曾在 2022 年体验欠佳的 Astro。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;安装过程中，作者选择了最简模板，但对生成的 AI 相关配置文件感到反感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在 Zed 编辑器中使用 Astro 扩展时遇到了 HTML 元素被误认为 JSX 的类型错误。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于 Astro LSP 完全崩溃，作者不得不放弃现代编辑器的辅助功能，直接编写代码。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者感叹希望拥有原生的无框架 HTML 包含功能，以避免复杂的现代工具链痛苦。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Astro 的文档非常完善，帮助作者顺利解决了模板构建和博客功能的实现问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对 Astro 的空格处理机制感到困惑，但坚持在网站前端实现零 JavaScript。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对 Astro 新增的 compressHTML 选项，作者选择将其关闭以避免对空格的过度优化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管开发者体验（DX）存在缺陷且对 Cloudflare 的收购持保留意见，但作者认为 Astro 确实解决了核心问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;网站目前在本地运行良好，作者虽然对当前的开发生态感到疲惫，但仍专注于交付高质量的最终产品。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/nc4340a45e81a&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;5/47が終了！サイバーコネクトツー展やTGS説明会など、、、近況を報告&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2回顾近期巡回展活动并确认参展TGS 2026。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由CyberConnect2宣传统战课员工撰写，详细回顾了公司近期的多项品牌活动。重点介绍了正在日本全国巡回的“CyberConnect2展”东京站盛况，包括《.hack》等经典作品的互动展项。文章还涵盖了东京粉丝见面会的圆满落幕及TGS 2026的参展筹备情况。作者以活泼的笔触展现了公司与粉丝之间的紧密互动，并预告了未来在夏季和秋季将推出的更多精彩企划与展会动态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CyberConnect2宣传统战课的Beiri报告了九州梅雨季结束，并提到“CyberConnect2展”已完成5个县的巡回，还有42个县待办。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;除了巡回展览，近期还处理了洛杉矶Anime Expo 2026的准备工作、东京粉丝见面会以及TGS说明会等多个活动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在西武涩谷举办的东京站展览中，新增了《.hack//G.U.》、《ASURA’S WRATH》及《战场的赋格曲》等作品的拍照点与服装展示。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;社长松山洋（Piroshi）参与了现场扭蛋活动，工作人员还记录下了现场热心粉丝展示的凯特（Kite）主题装饰包。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;6月27日举办的东京粉丝见面会共有超过100名粉丝参加，现场气氛热烈，并邀请了特别嘉宾共同合影留念。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者参加了TGS 2026的参展商说明会，对宏大的会场规模表示震撼，并为接下来的正式参展做准备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;TGS 2026官方公布了参展名单，目前共有759家公司确认参展，规模超过去年，CyberConnect2也位列其中。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;公司后续将发布TGS 2026及各地粉丝见面会的详细信息，并积极筹划秋季活动，呼吁粉丝对公司未来的动向保持期待。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21656&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ドラマ『チェイサーゲームW』公式ノベライズ『小説 チェイサーゲームW』7/10より11巻配信！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Chaser Game W novel Volume 11 releases July 10, bridging the drama series and its 2026 theatrical sequel.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The official novelization of &amp;quot;Chaser Game W&amp;quot; is expanding its transmedia footprint with the digital release of Volume 11 on July 10, 2026, offering enhanced psychological depth and original narrative content supervised by CyberConnect2’s Hiroshi Matsuyama. This release bridges the gap between the live-action drama and the upcoming sequel film, *Suigyo no Majiwari*, slated for a May 2026 theatrical debut. The project exemplifies a robust multi-platform strategy, integrating the original industry-focused manga, digital novels, and theatrical performances to deepen the lore of the game development-centric franchise.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Novel Volume 11 Release:&lt;/strong&gt; The 11th volume of the official &amp;#039;Chaser Game W&amp;#039; novelization is scheduled for digital distribution on July 10, 2026, following a bi-weekly release schedule.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Enhanced Narrative Depth:&lt;/strong&gt; The novelization expands on the original drama&amp;#039;s storyline by adding original scenes, deeper psychological insights, and more descriptive character interactions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Volume 11 Synopsis:&lt;/strong&gt; Fuyu faces a confrontation with her mother regarding her secret plans, while Itsuki deals with mysterious and dangerous occurrences in her personal life.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Feature Film Sequel:&lt;/strong&gt; A sequel movie titled &amp;#039;Chaser Game W: Suigyo no Majiwari&amp;#039; is set for theatrical release on May 15, 2026, featuring the original lead cast.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Production and Distribution:&lt;/strong&gt; The project is supervised by CyberConnect2&amp;#039;s Hiroshi Matsuyama and is available across major digital platforms including Kindle, Apple Books, and Google Play.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cross-Media Franchise Context:&lt;/strong&gt; The article highlights the broader &amp;#039;Chaser Game&amp;#039; ecosystem, which includes the original industry-focused manga, live-action dramas, and theatrical reading performances.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112169&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 8 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Eight curated recommendations spanning sci-fi revivals, historical dramas, and significant shifts in the global media landscape.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This week’s curated selection highlights a fusion of modern production techniques and classic genre reimagining, notably featuring the return of *Ghost in the Shell* and *X-Men &amp;#039;97* to explore complex cyberpunk and temporal narratives. The recommendations span diverse storytelling architectures, ranging from medical dramas focused on pediatric psychology to steampunk adventures and historical reimaginings of the Mongol Empire. Significant industry shifts are also profiled, including the transition from internal combustion to the electric era in *The Grand-ish Tour* and a robust pipeline of high-budget sci-fi sequels like *Dune 3*. Finally, the overview covers strategic movements in the animation industry and a global array of genre-specific releases, signaling a high-velocity period for both international and domestic media markets.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pediatric Medical Documentaries:&lt;/strong&gt; The fourth season of &amp;#039;The Glorious Pediatricians&amp;#039; focuses on medical cases in Chongqing, highlighting the professional expertise and psychological insights required in pediatric care.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Character-Driven Redemption Dramas:&lt;/strong&gt; Works like &amp;#039;Proud&amp;#039; and &amp;#039;Life, Larry...&amp;#039; explore personal growth and historical reimagining through unconventional protagonists facing complex social and familial responsibilities.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Sci-Fi Animation Revivals:&lt;/strong&gt; New adaptations of &amp;#039;Ghost in the Shell&amp;#039; and &amp;#039;X-Men &amp;#039;97&amp;#039; leverage modern production techniques to revisit classic cyberpunk themes and complex temporal narratives.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Historical and Steampunk Anime:&lt;/strong&gt; &amp;#039;Jaadugar&amp;#039; and &amp;#039;Sparks of Tomorrow&amp;#039; offer unique visual styles to tell stories of historical revenge in the Mongol Empire and alternate-history steampunk adventures.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Automotive Culture Retrospectives:&lt;/strong&gt; The reality show &amp;#039;The Grand-ish Tour&amp;#039; provides a nostalgic look back at the careers of the iconic trio, reflecting on the transition from internal combustion to the electric era.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Diverse International Shorts:&lt;/strong&gt; A broad collection of quick recommendations covers global genres including South Korean legal thrillers, Thai supernatural horror, and Italian coming-of-age films.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Upcoming Blockbuster Trailers:&lt;/strong&gt; Major announcements for &amp;#039;Dune 3&amp;#039;, &amp;#039;Godzilla -0.0&amp;#039;, and &amp;#039;Mahoyo&amp;#039; signal a strong upcoming pipeline for high-budget sci-fi and visual novel adaptations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Industry News and Trends:&lt;/strong&gt; The AX2026 briefing and new theatrical announcements highlight significant movement in the animation industry and high-profile domestic releases for international films.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112097&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;安达卢西亚的日与夜：格拉纳达漫游指南&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A structural analysis of Granada’s architectural history and cultural heritage, integrated with optimized logistical travel strategies.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This guide provides a structural analysis of Granada’s architectural landscape, detailing the Alhambra&amp;#039;s functional zoning and the strict logistical synchronization required to navigate its high-demand access protocols. It maps the region’s historical transition from Moorish design to post-Reconquista Renaissance styles, while integrating the cultural legacy of Federico García Lorca and the strategic utility of Málaga as a regional transit node. Practical implementation is addressed through optimized itineraries that account for environmental variables—such as peak solar intensity and the traditional siesta—alongside specific guidance on navigating medieval infrastructure and regional transportation systems.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Alhambra Architectural Analysis:&lt;/strong&gt; The article details the Alhambra as a complex Islamic palace system, contrasting its intimate, water-centric Moorish design with the grander scale of Ottoman architecture. It highlights the functional zoning of the site, including administrative areas, royal residences, and defensive fortifications.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Temporal Visiting Strategies:&lt;/strong&gt; A dual-exposure strategy is recommended, utilizing early morning light for architectural photography and night tours for a quiet, high-contrast sensory experience. Strict synchronization with ticketed entry times for the Nasrid Palaces is emphasized as a critical operational requirement.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ecclesiastical Infrastructure Evolution:&lt;/strong&gt; The guide categorizes Granada’s religious landmarks, explaining the hierarchical differences between cathedrals, basilicas, and monasteries. These sites represent the post-Reconquista transition, showcasing opulent Spanish Renaissance and Baroque styles often built upon former Islamic foundations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Literary Cultural Heritage:&lt;/strong&gt; The narrative integrates the legacy of Federico García Lorca, whose poetry and tragic execution during the Spanish Civil War are deeply embedded in Granada&amp;#039;s identity. His former residence serves as a key cultural touchpoint for understanding the region&amp;#039;s modern history.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Regional Hub Integration:&lt;/strong&gt; Málaga is presented as a strategic transit hub that offers significant cultural value, including the Picasso Museum and the unique &amp;#039;one-armed&amp;#039; cathedral. This highlights the benefit of incorporating stopover cities into the broader Andalusian travel itinerary.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Operational Itinerary Design:&lt;/strong&gt; The author provides structured 1-day and 3-day itineraries optimized for local environmental factors like high temperatures and the traditional &amp;#039;siesta&amp;#039; schedule. Success depends on aligning activity windows with Spanish dining hours and peak solar intensity.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Logistics and Infrastructure:&lt;/strong&gt; An analysis of accommodation zones (City Center vs. Albaicín) and transportation systems provides practical guidance on navigating narrow medieval streets and managing regional transit cards. It also includes security protocols for intercity travel and essential physical protection against the Mediterranean climate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111975&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Vibe Coding 时代，为什么降本不一定增效？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Vibe coding requires human-led architectural discipline and user research to prevent AI speed from creating unsustainable technical debt.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The &amp;quot;Vibe Coding&amp;quot; era accelerates raw output but risks rapid architectural decay and technical debt unless governed by rigorous engineering discipline and high-level abstraction—areas where LLMs currently struggle. To prevent &amp;quot;cost reduction&amp;quot; from undermining long-term efficiency, teams must prioritize authentic human-centric research and structured product discovery (using Epics, Job Stories, and Journey Maps) to ensure development solves real user pain points rather than hallucinated ones. Ultimately, senior developers must transition into &amp;quot;AI managers,&amp;quot; establishing strict SOPs, multi-model verification strategies, and robust quality standards to ensure AI-generated code remains maintainable and architecturally sound.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;架构腐化与 Vibe Coding:&lt;/strong&gt; Vibe Coding 虽然极大地提升了代码产出速度，但也加速了软件架构的腐化。软件开发如同盖楼，若缺乏对底层架构的维护和清理，工程将迅速陷入不可维护的“屎山”困境。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;研发流程中的角色职责:&lt;/strong&gt; AI 时代并未削弱专业角色的重要性，产品、设计和工程各环节仍需各司其职。每个角色都有义务在交付前“把问题想清楚”，防止因思考缺失导致的补丁式开发。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;基于真实人性的用户画像:&lt;/strong&gt; LLM 无法替代真实的碳基用户调研，因为它缺乏真实生活的体验与情感。团队必须通过实地访谈和问卷构建用户画像，避免依赖模型幻觉捏造虚假需求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;需求抽象与边界定义:&lt;/strong&gt; 通过 Epic、User Story 和 Job Story 等工具，将抽象的用户目标转化为具体的开发单元。这有助于明确功能边界，确保产品设计始终围绕解决用户的真实痛点展开。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;体验地图与情绪曲线:&lt;/strong&gt; 利用 Journey Map 规划用户旅程，通过记录用户的动作、心态及情绪起伏寻找优化机会。这种可视化手段能有效桥接用户诉求与实际功能设计，精准捕捉产品成功的潜在切入点。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;原型驱动与架构抽象:&lt;/strong&gt; 在编码前应进行低保真原型设计以验证设想，并由工程师完成具备包容力的架构设计。架构思维的核心是对问题的理解与抽象，这是目前 LLM 难以完全替代的高阶能力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;多模型管理与开发道德:&lt;/strong&gt; 开发者应引入多厂商模型以获取多元视角，并像管理下属一样为 LLM 建立 SOP 和质量标准。通过制定开发道德规范，确保 AI 产出的代码符合完整性、健壮性和可维护性要求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112143&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：蔚来 ES8 大五座版正式上市等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 OpenAI, Google, and NIO drive industry progress with specialized AI models, updated web standards, and advanced hardware innovations.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;OpenAI has expanded its ecosystem with the GPT-5.6 model family and &amp;quot;ChatGPT Work&amp;quot; for complex professional workflows, while SpaceXAI and Cursor launched Grok 4.5, a model specifically optimized for large-scale codebase manipulation and software engineering. In the developer ecosystem, Google finalized the August 2026 deadline for the complete removal of Manifest V2 extensions, and Cloudflare introduced a zero-threshold tool for instant, account-free static site deployment. Hardware and infrastructure advancements include NIO’s 900V ES8 featuring the custom Shenji NX9031 chip, VESA’s new 1400-nit OLED certification for HDR production, and ByteDance’s multi-modal model tailored for high-density information graphics. These updates reflect an industry-wide push toward specialized AI agents for deep engineering tasks and stricter adherence to modern web and hardware standards.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;NIO ES8 5-Seater:&lt;/strong&gt; NIO launched the 5-seater ES8 built on a 900V high-voltage architecture, featuring the Shenji NX9031 chip and a 102kWh battery with a 655km CLTC range.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;OpenAI GPT-5.6 Series:&lt;/strong&gt; OpenAI released the GPT-5.6 model family (Sol, Terra, Luna) and introduced &amp;#039;ChatGPT Work,&amp;#039; a specialized agent product designed for long-duration, multi-step professional workflows.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Grok 4.5 Coding Agent:&lt;/strong&gt; SpaceXAI and Cursor co-trained Grok 4.5, a model optimized for complex software engineering tasks and large-scale codebase manipulation across multiple repositories.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Seedream 5.0 Pro:&lt;/strong&gt; ByteDance&amp;#039;s new multi-modal model enhances spatial understanding and professional typography, specifically designed for generating high-density information graphics and localized text.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;DisplayHDR True Black 1400:&lt;/strong&gt; VESA introduced a new OLED certification tier requiring 1400 nits peak and 700 nits full-screen brightness to meet the demands of professional HDR content creation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cloudflare Drop Tool:&lt;/strong&gt; Cloudflare launched a zero-threshold tool for instant static site deployment via drag-and-drop, offering temporary hosting and preview links without requiring initial account registration.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Chrome Manifest V2 Deprecation:&lt;/strong&gt; Google set a final deadline of August 31, 2026, to remove all Manifest V2 extensions from the Chrome Web Store, mandating the transition to the Manifest V3 framework.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pixel Watch &amp;amp; WPS AI:&lt;/strong&gt; Google&amp;#039;s Pixel Watch 5 sees a 15% price increase across all models, while Kingsoft Office details its &amp;#039;Three Connects&amp;#039; strategy to integrate enterprise tokens, data, and APIs into AI workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技周刊分享行业动态并探讨 Dropbox 发展受阻的原因。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本科技周刊每周分享行业动态与科技内容，涵盖招聘信息与投稿渠道。本期内容通过介绍特色封面景观，重点引出了对云存储巨头 Dropbox 的深度思考，探讨其自2007年成立以来的发展历程以及在当前竞争环境下未能达到预期成功高度的原因，旨在为读者提供行业洞察与商业分析。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍该科技周刊的发布规律、开源性质、招聘服务及合作联系方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明本期封面图为位于贵州修文县溶洞之中的“穹岛·天坑咖啡”。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;引出核心探讨话题，分析云存储服务商 Dropbox 成立至今为何未能取得更大成功。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - July 9, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1634,197 +1909,6 @@ This production blog entry reflects on the collaborative creative process behind
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者阮一峰对此提出反驳，认为开源模型与闭源模型存在本质区别，用户可自主运行开源模型保护数据隐私，而DeepSeek也公开了论文解释模型运作。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者透露其Anthropic账户因被识别为中国用户而遭封禁，尽管账户几乎处于闲置状态，仅使用过两次。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以历史上技术从未能保守秘密为例，批评Anthropic针对中国用户的封锁政策只会适得其反，反而加速开源模型的发展。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - June 29, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-06-29</id>
-    <updated>2026-06-29T20:43:20.892Z</updated>
-    <published>2026-06-29T20:43:20.892Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>9 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - June 29, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;197.26027397260273&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#34a853&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#333&quot;&gt;
-    49.3%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;180&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;185&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q2&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;25&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████░░░░░░░░░░░░░░░ 49.3%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;9&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-314/viewer?title_no=853933&amp;episode_no=329&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 314&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画《DOGHAUS》的章节目录与平台交互界面。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该内容为WEBTOON CANVAS平台上由Moowsie创作的漫画系列《DOGHAUS》的第314话页面。页面详细列出了从第1话至第314话的完整目录，包含特别公告、周日连载、书籍发布及Kickstarter众筹等里程碑信息。内容主要由导航元素、社交互动功能及惊悚类别作品排行榜组成，反映了该作品在平台上的连载生态与读者互动情况。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Technium &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kk.org/thetechnium/quiet-my-exoself/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Quiet, My Exoself&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 全天候AI外延自我将重塑人类身份与自我边界&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了即将到来的全天候AI外延自我（exoself）概念——一种介于自我与他者之间的新型实体，它将比任何人更了解我们。作者Kevin Kelly借鉴科幻与哲学概念，追溯了人机融合的历史脉络，从可穿戴设备到量化自我运动，指出这是机器不断靠近人类身体这一长期趋势的延续。文章提出了四种与外延自我可能形成的关系模式，并警示其带来的身份认同挑战与社会风险，认为学会与外延自我和谐共处将是未来生活的重要课题。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在不久的将来，大多数人将携带一个全天候运行的AI助手，它将了解我们的一切，帮助我们导航、学习、记忆，并比我们自己更了解我们，成为我们的&amp;#039;外延自我&amp;#039;（exoself）。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这个外延自我既不是我们自身，也不是外部他者，而是介于两者之间的新类别，就像眼镜或助听器一样，是人类与机器不断融合趋势的延续。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&amp;#039;exoself&amp;#039;这一术语借自科幻小说，理论家Anders Sandberg将其定义为以合作方式与自我相连、扩展身心边界的系统，AI技术正在扩展我们思维的边界。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;自我的概念本身是相对晚近的发明，一些哲学家认为自我甚至是一种幻觉，而外延自我的出现使我们面临一个重大问题：我们与这个比我们更了解自己的实体，究竟想要什么样的关系？&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;技术专家Thad Starner早在1990年代就体验了人机共生生活，Doug Engelbart等早期AI研究者也致力于增强人类智能，量化自我运动同样指向将机器智能融入自身的方向。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;我们正处于重新想象人类意义的过程中，借助基因工程、神经植入和AI，我们拥有了直接重塑大脑和思维的工具。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出了与外延自我可能形成的四种关系模式：双胞胎/克隆（平等的兄弟关系）、导师/监护人（依赖其判断的父母式关系）、顾问/助手（专业性的雇佣关系）、英雄/朋友（以其美德为榜样的最佳伙伴关系）。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;外延自我不同于主从关系、宠物关系或神灵崇拜关系，也不同于我们与其他AI可能形成的&amp;#039;外星人&amp;#039;式关系，因为外延自我需要真正的亲密感。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这个第二自我将带来巨大收益，同时也伴随着巨大问题，包括依赖性、身份认同改变、平台倒闭等风险，社会需要数年时间才能形成最佳实践，而&amp;#039;安静，我的外延自我&amp;#039;将成为未来生活的新课题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-06-29T06:17Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-06-29T06:17Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 **Tech hype cycles are speculative schemes; senior developers should prioritize human-centered value over trend-driven noise.**&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;## Summary
-
-The author presents a sharp critique of current technology trends, characterizing them as fundamentally speculative pyramid schemes disguised through sophisticated marketing and carefully engineered aesthetic choices — such as warm color palettes and classic typography — designed to manufacture artificial trust. Beneath this polished veneer, the author argues, genuine technical value is largely absent, and the aggressive promotion of trending technologies serves financial speculation rather than meaningful innovation. The piece advocates for a **&amp;quot;By Humans, For Humans&amp;quot;** development philosophy as a deliberate counterposition to automated, hype-driven, or deceptive industry practices. Endorsing Scott Riley&amp;#039;s perspective as an essential industry truth, the author suggests that authentic opportunities do exist but require senior professionals to deliberately look past mainstream noise and aggressive trend promotion. Ultimately, the article frames this as a **strategic career and philosophical pivot** — encouraging experienced developers to prioritize human-centered value creation over participation in speculative technical ecosystems.
-
----
-
-**Key Takeaway for Senior Developers:** The signal-to-noise ratio in current tech discourse is critically low; discernment and a human-first development ethos are presented as both a professional differentiator and an ethical imperative.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Skeptical Market Critique:&lt;/strong&gt; The author characterizes current technological trends as an elaborate pyramid scheme hidden behind sophisticated marketing. This critique suggests that the underlying value of certain hyped technologies is fundamentally missing.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Deceptive Visual Branding:&lt;/strong&gt; Specific design choices, such as warm color palettes and classic typography, are identified as tools used to manufacture trust. These aesthetic elements serve to soften the image of potentially predatory technical structures.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Noise vs. Opportunity:&lt;/strong&gt; The text posits that genuine technical and professional opportunities exist outside of the mainstream industry clamor. Identifying these requires looking past the aggressive promotion of trending technologies.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Human-Centric Philosophy:&lt;/strong&gt; The core argument advocates for a &amp;#039;By Humans, For Humans&amp;#039; approach to creation and development. This philosophy stands in direct opposition to the automated or deceptive trends criticized earlier.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Expert Perspective Alignment:&lt;/strong&gt; The author explicitly validates Scott Riley&amp;#039;s insights as a necessary truth for the modern industry. This endorsement emphasizes the importance of authenticity in a landscape of technical hype.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Strategic Value Identification:&lt;/strong&gt; By moving away from the &amp;#039;noise,&amp;#039; developers can find more meaningful work that prioritizes human value over financial speculation. This shift represents a strategic pivot for senior technical professionals.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202606/79598&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『チェイサーゲーム』シーズン2 外伝 おばあちゃんの弁当箱編&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 『チェイサーゲーム』外伝更新とゲーム業界本の紹介記事&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本記事はファミ通.comに掲載された連載漫画『チェイサーゲーム』シーズン2外伝の更新告知を中心に構成されている。主人公・西川さんの激烈な日常が描かれ、次回配信日も案内されている。また、原作者の松山洋氏がサイバーコネクトツー30周年を機に出版した書籍『ゲーム業界の攻略法』の紹介も含まれる。さらに、Amazonゲーム売上ランキングや関連漫画・ゲーム記事、各種セール情報など、ファミ通サイト全体のコンテンツ案内が付随している。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ファミ通.comの連載漫画『チェイサーゲーム』シーズン2外伝「おばあちゃんの弁当箱編」が2026年6月29日に更新され、西川さんが「殺意」と隣り合わせの日々を生き抜いてきた背景が描かれ、次回は7月20日に配信予定。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー30周年を記念し、『チェイサーゲーム』原作の松山社長がゲーム業界志望者向けに書籍『ゲーム業界の攻略法』を刊行し、就職面接の実態やポートフォリオ事例も掲載されている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Amazon売上ランキングや関連記事として『戦場のフーガ』『チェイサーゲーム』などのゲーム・漫画情報、および各種ゲームの最新ニュースやセール情報がまとめられている。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://game.kimetsu.com/hinokami2/switch2/news/?id=70701&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『鬼滅の刃 ヒノカミ血風譚2 Nintendo Switch™ 2 Edition +「無限城編 第一章」キャラクターパス』 2026年10月29日(木)発売決定！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《火神血风谭2》Switch 2版2026年10月发售&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《鬼灭之刃 火神血风谭2 Nintendo Switch™ 2 Edition + 「无限城篇 第一章」角色通行证》正式宣布将于2026年10月29日（周四）发售。同时公开了由竈門炭治郎配音演员花江夏树担任旁白的最新宣传影像。此版本为Nintendo Switch 2专属版本，并附带无限城篇第一章的角色通行证内容。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111697&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派派评推荐七款近期值得关注的优质App&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期少数派《派评》由多位作者联合撰写，集中介绍了近期值得关注的七款应用。涵盖macOS平台的Markdown预览工具Marked 3、电源管理应用Juicy 1.5、跨平台写作软件iA Writer 8.0、白板工具Allume、智能计算工具Soulver 4，以及Android习惯养成应用Grove。文章以简洁的评测风格，分别从功能亮点、适用场景和定价策略等角度进行介绍，帮助读者快速了解各款应用的核心价值与升级内容。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期《派评》介绍了多款近期值得关注的App，读者可通过目录快速跳转感兴趣的内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Marked 3是一款macOS平台的Markdown高级预览工具，定位为编辑器的伴侣应用，支持实时预览、多种Markdown语法、丰富导出格式及高度自定义，适合专业写作用户，提供买断和订阅两种购买方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Juicy 1.5是macOS电源管理应用，新增50%至80%充电上限区间设置、应用级耗电分析、iPhone/iPad电池信息读取及Power Flow实时充电功率展示等功能，售价68元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;iA Writer 8.0迎来大版本更新，带来Liquid Glass界面风格、搜索与文档大纲融合、命令面板替代命令键盘等改进，专注写作体验而非追求AI功能堆叠。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Allume是白板工具Muse的4.0全面升级版，采用Liquid Glass设计语言，并通过MCP和CLI命令行工具与AI协作，而非直接内嵌AI功能，可免费下载并按需订阅。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Soulver 4.0历时7年带来重大更新，新增时间点标记、标签工作流、自定义全局表单、高亮与分割线等功能，进一步拓宽了这款智能计算草稿工具的使用场景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Grove是一款Android习惯养成App，以分形几何算法生成的「习惯树」将打卡成就可视化，支持打卡模式和戒断模式，界面精致并适配Material You，可在GitHub和F-Droid免费下载。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111369&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;在格鲁吉亚的大地上：徒步篇&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 格鲁吉亚高加索山区的徒步冒险与文化发现之旅。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇关于格鲁吉亚高加索山区徒步旅行的详细游记。作者以第一人称叙述了在卡兹别克和梅斯蒂亚地区的徒步经历，包括圣三一教堂、朱塔-恰乌希山口等经典路线，以及梅斯蒂亚-乌什古利的四天穿越。文章采用了实地观察与个人反思相结合的写作风格，不仅记录了壮观的山景和徒步过程，还深入探讨了格鲁吉亚的饮食文化、当地人的生活方式，以及旅游发展对山区村庄的影响。作者通过与各国徒步者的互动、对当地美食的品评、对天气挑战的应对，呈现了一次既有冒险精神又充满人文关怀的山地旅行体验。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了格鲁吉亚徒步行程的整体规划，包括卡兹别克地区的两条经典一日往返路线和梅斯蒂亚到乌什古利的四天穿越，最终因暴雨提前返回。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;圣三一教堂徒步路线从卡兹别克镇中心出发，虽然技术难度不大但风景壮观，作者详细描述了沿途的村民互动、塔楼遗迹和教堂远眺的最佳拍摄角度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;朱塔到恰乌希山口的徒步线路因前期降雨和涉水困难而未完全完成，但雪山风景壮观，作者感受到了高加索山脉的震撼力，同时对欧洲优越的自然条件表示羡慕。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;梅斯蒂亚是进入斯瓦涅季山区的重要门户，作者通过品尝当地美食如Ostri炖菜和Kubdari牛肉馅饼，逐渐理解了格鲁吉亚饮食的逻辑即主食搭配浓郁炖菜的组合。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;梅斯蒂亚到扎贝什的徒步路线天气最佳，沿途遇见捷克老年徒步团，作者体验了高山草甸和村庄风景的交替，最终在民宿享受到了丰富的晚餐。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;扎贝什到阿迪什的路段经历了持续降雨，路线包括缆车设施和高山草甸，作者购买了多块蓝莓蛋糕作为补给，并在民宿发现了有趣的红色喜被。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阿迪什到伊普拉里的最后一段因持续暴雨和冰川融水导致涉水困难，作者借用西班牙登山者的登山杖成功过河，但因恶劣天气最终选择租车返回梅斯蒂亚。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;返回梅斯蒂亚后，作者发现了一家放映电影《Dede》的小影院，电影以当地为背景获得北京电影节奖项，为未能完成整个穿越的遗憾提供了独特的收尾体验。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111462&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;让音乐「更好听」的代价：可视化谈频响、动态与不可逆损失&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 数字音乐链路中的动态压缩与有损编码造成不可逆的音质损失&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文从频谱、动态范围与有损编码三个维度，系统分析了数字音乐在发行链路中经历的信息损失。作者以LUFS、LRA等可测量指标为核心，结合Sonic Visualizer图表与具体曲目案例，揭示了响度战争导致的动态压缩问题：LRA极低的音乐在响度归一化后会暴露母带缺陷。同时引用心理声学研究说明高频持续刺激与单调时间结构是听感疲劳的重要来源。通过FLAC与MP3的对比实验，直观展示有损压缩造成的瞬态损失。文章结论认为，音质本质是信息取舍的累加结果，被忽略的细节终将以疲劳感回归听觉体验。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章导论指出，音乐的听感在播放前就已被决定，数字音乐发行链路中的混音、母带处理、动态压缩、有损编码等环节均会影响最终听感，部分损失几乎无法恢复。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者声明将使用Apple Music和Mora的音乐案例进行分析，不针对任何音乐人，使用ffmpeg和Sonic Visualizer等工具进行频谱与动态范围的可视化分析。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过具体案例对比，文章展示了响度战争导致的动态范围压缩问题，LRA极低的音乐（如1.7 LU）会产生拥挤浑浊的听感，而响度归一化会&amp;#039;揭穿&amp;#039;这种制作问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;响度均衡（目标-16 LUFS）处理后，动态贫乏的音乐会暴露出母带阶段的缺陷，被限制器削去的波峰细节无法还原，响度归一化消除了响度大与第一耳优势的强关联。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;从频谱通量、频谱重心和时频图分析听感疲劳的成因，包括时间结构单调、频谱重心集中在人耳敏感区域、高频能量持续过高等，并引用研究支持6-10kHz区域更易导致听觉疲劳。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过将FLAC音频重新编码为MP3的实验，展示有损压缩带来的波形毛刺、振铃现象及频谱通量的瞬态损失，证明有损压缩在高频密集、瞬态丰富的音乐中会造成可测量的结构性失真。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结语指出，从混音母带到响度战争再到有损编码，每一步都在改变声音维度，&amp;#039;音质&amp;#039;本质上是信息保留与取舍的问题，那些被心理声学认为&amp;#039;不可感知&amp;#039;而丢弃的信息，会以疲劳、钝化或&amp;#039;发闷感&amp;#039;的形式累积显现。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;浏览器原生支持JSON模块导入与开发啦！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 浏览器已原生支持JSON模块导入，无需打包工具&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由张鑫旭撰写，介绍了浏览器原生JSON模块导入的新特性。文章指出，过去导入JSON文件需依赖Webpack等打包工具，而现在主流浏览器已支持通过`import ... with { type: &amp;#039;json&amp;#039; }`语法直接导入并解析JSON文件，同时支持动态import写法。文章还深入讲解了使用细节：导入的JSON对象是冻结状态不可修改，服务器需返回正确的Content-Type头，大体积文件建议用fetch替代，TypeScript项目需配置resolveJsonModule选项。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;过去导入JSON需依赖打包工具，现在浏览器已原生支持JSON模块导入，只需在import语句后添加`with { type: &amp;#039;json&amp;#039; }`即可，同时支持动态引入。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;导入JSON模块后可像普通ES模块一样访问其属性，无需手动fetch和JSON.parse，但服务器需返回正确的Content-Type: application/json头信息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于大体积JSON文件建议使用fetch动态请求以优化性能；原生导入的JSON对象是冻结的，不可直接修改；TypeScript中需在tsconfig.json配置resolveJsonModule为true。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结尾作者简短收尾，并分享了近期多个钓场的渔获记录，包括鲤鱼、鲫鱼、鳊鱼等不同鱼种的钓获情况。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
