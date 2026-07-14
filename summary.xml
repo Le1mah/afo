@@ -4,8 +4,272 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-07-13T21:14:23.991Z</updated>
+  <updated>2026-07-14T21:24:13.028Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - July 14, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-07-14</id>
+    <updated>2026-07-14T21:24:13.028Z</updated>
+    <published>2026-07-14T21:24:13.028Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>15 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 14, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;213.6986301369863&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    53.4%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;195&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;170&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;27&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████░░░░░░░░░░░░░░ 53.4%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;15&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Your ‘App’ Could Have Been a Webpage (so I fixed it for you…) – Dan Q&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The author replaced a bloated 124MB app with a 50KB webpage by reverse-engineering its hidden REST API.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author argues against the trend of wrapping static content in bloated mobile applications, demonstrating how a 124MB travel app was effectively replaced by a lightweight 50KB web page. To reverse-engineer the service, they utilized a rooted Android Virtual Device with Magisk and HTTP Toolkit to bypass certificate pinning and intercept the underlying REST API traffic. By identifying a simple JSON endpoint, the author developed a Ruby script to automate data retrieval, strip tracking and advertisements, and generate a streamlined, password-protected HTML interface. This optimized solution restores native browser functionality—including printing, searching, and cross-device accessibility—while drastically reducing the application&amp;#039;s resource footprint.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Critique of App Bloat:&lt;/strong&gt; The author argues that many mobile applications, such as Travelbound, are unnecessary wrappers for static content that should be delivered via more accessible and lightweight web pages.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reverse Engineering Environment:&lt;/strong&gt; To intercept traffic, the author configured a rooted Android Virtual Device using rootAVD and Magisk to bypass certificate pinning and allow system-level proxying.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Network Traffic Interception:&lt;/strong&gt; Using HTTP Toolkit as a proxy, the author successfully captured the application&amp;#039;s network requests to identify the underlying API communication and data flow.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;API and Schema Discovery:&lt;/strong&gt; The investigation revealed a simple REST endpoint that returns JSON data containing itinerary details, advertisements, and cross-referenced file links with expiring S3 URLs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Developing the Web Alternative:&lt;/strong&gt; A Ruby script was developed to periodically fetch the JSON data and generate a streamlined, password-protected HTML page devoid of tracking and advertisements.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Efficiency and Accessibility Comparison:&lt;/strong&gt; The final web solution reduced the data footprint from 124MB to 0.05MB while restoring standard browser features like printing, searching, and cross-device compatibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Your ‘App’ Could Have Been a Webpage (so I fixed it for you…) – Dan Q&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The author replaced a bloated 124MB app with a 50KB webpage by reverse-engineering its hidden REST API.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author argues against the trend of wrapping static content in bloated mobile applications, demonstrating how a 124MB travel app was effectively replaced by a lightweight 50KB web page. To reverse-engineer the service, they utilized a rooted Android Virtual Device with Magisk and HTTP Toolkit to bypass certificate pinning and intercept the underlying REST API traffic. By identifying a simple JSON endpoint, the author developed a Ruby script to automate data retrieval, strip tracking and advertisements, and generate a streamlined, password-protected HTML interface. This optimized solution restores native browser functionality—including printing, searching, and cross-device accessibility—while drastically reducing the application&amp;#039;s resource footprint.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Critique of App Bloat:&lt;/strong&gt; The author argues that many mobile applications, such as Travelbound, are unnecessary wrappers for static content that should be delivered via more accessible and lightweight web pages.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reverse Engineering Environment:&lt;/strong&gt; To intercept traffic, the author configured a rooted Android Virtual Device using rootAVD and Magisk to bypass certificate pinning and allow system-level proxying.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Network Traffic Interception:&lt;/strong&gt; Using HTTP Toolkit as a proxy, the author successfully captured the application&amp;#039;s network requests to identify the underlying API communication and data flow.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;API and Schema Discovery:&lt;/strong&gt; The investigation revealed a simple REST endpoint that returns JSON data containing itinerary details, advertisements, and cross-referenced file links with expiring S3 URLs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Developing the Web Alternative:&lt;/strong&gt; A Ruby script was developed to periodically fetch the JSON data and generate a streamlined, password-protected HTML page devoid of tracking and advertisements.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Efficiency and Accessibility Comparison:&lt;/strong&gt; The final web solution reduced the data footprint from 124MB to 0.05MB while restoring standard browser features like printing, searching, and cross-device compatibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Your ‘App’ Could Have Been a Webpage (so I fixed it for you…) – Dan Q&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The author replaced a bloated 124MB app with a 50KB webpage by reverse-engineering its hidden REST API.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author argues against the trend of wrapping static content in bloated mobile applications, demonstrating how a 124MB travel app was effectively replaced by a lightweight 50KB web page. To reverse-engineer the service, they utilized a rooted Android Virtual Device with Magisk and HTTP Toolkit to bypass certificate pinning and intercept the underlying REST API traffic. By identifying a simple JSON endpoint, the author developed a Ruby script to automate data retrieval, strip tracking and advertisements, and generate a streamlined, password-protected HTML interface. This optimized solution restores native browser functionality—including printing, searching, and cross-device accessibility—while drastically reducing the application&amp;#039;s resource footprint.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Critique of App Bloat:&lt;/strong&gt; The author argues that many mobile applications, such as Travelbound, are unnecessary wrappers for static content that should be delivered via more accessible and lightweight web pages.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reverse Engineering Environment:&lt;/strong&gt; To intercept traffic, the author configured a rooted Android Virtual Device using rootAVD and Magisk to bypass certificate pinning and allow system-level proxying.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Network Traffic Interception:&lt;/strong&gt; Using HTTP Toolkit as a proxy, the author successfully captured the application&amp;#039;s network requests to identify the underlying API communication and data flow.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;API and Schema Discovery:&lt;/strong&gt; The investigation revealed a simple REST endpoint that returns JSON data containing itinerary details, advertisements, and cross-referenced file links with expiring S3 URLs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Developing the Web Alternative:&lt;/strong&gt; A Ruby script was developed to periodically fetch the JSON data and generate a streamlined, password-protected HTML page devoid of tracking and advertisements.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Efficiency and Accessibility Comparison:&lt;/strong&gt; The final web solution reduced the data footprint from 124MB to 0.05MB while restoring standard browser features like printing, searching, and cross-device compatibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kore-nordmann.de/blog/htmx-and-web-components-instead-of-react.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;HTMX and Web Components Instead of React&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 HTMX and Web Components replace React with server-driven HTML and native browser standards to reduce architectural complexity.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author argues that modern SPA frameworks like React often introduce unnecessary overhead by duplicating state and logic across the client-server boundary, suggesting a shift toward HTMX and native Web Components. This architecture utilizes HTMX to swap server-rendered HTML fragments and manages application state via canonical URLs, effectively keeping the server as the single source of truth. By implementing interactive &amp;quot;islands&amp;quot; through standard `HTMLElement` subclasses, developers can leverage native browser behaviors and semantic HTML without the need for complex build steps or virtual DOMs. While this approach sacrifices React’s vast ecosystem and hiring pool, it offers superior architectural clarity and long-term maintainability by minimizing dependency churn and framework-specific abstractions.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Analyzing Application Shape:&lt;/strong&gt; The author argues that choosing a stack should follow an inventory of application needs, noting that request-response patterns often make SPA frameworks like React an unnecessary overhead.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Cost of Duplication:&lt;/strong&gt; Single Page Applications often duplicate state, rendering logic, and APIs across the client and server, which is inefficient for applications that aren&amp;#039;t genuinely client-state heavy.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;HTMX Hypermedia Pattern:&lt;/strong&gt; HTMX keeps the server as the source of truth by swapping HTML fragments into the page, utilizing canonical URLs and query strings to manage application state naturally.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Vanilla Web Components:&lt;/strong&gt; Interactive &amp;#039;islands&amp;#039; are implemented using standard HTMLElement subclasses without build steps or virtual DOMs, proving that native browser capabilities have a higher ceiling than often assumed.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Accessibility Dividend:&lt;/strong&gt; By prioritizing semantic HTML over framework-specific components, the team leverages native browser behaviors for focus management and screen reader support by default.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Evaluating Strategic Trade-offs:&lt;/strong&gt; Moving away from React involves sacrificing a massive ecosystem of ready-made libraries and a large hiring pool in exchange for reduced complexity and architectural clarity.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Operational Longevity:&lt;/strong&gt; For platforms with a ten-year operational horizon, avoiding framework churn and minimizing dependencies ensures the codebase remains maintainable long after the initial development phase ends.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22651&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;We’re well into the hype cycle and so far the only clearly-measurable changes we’ve seen are that laptops and gaming consoles now cost considerably more. Truly a transformative technology!&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者讽刺科技热潮仅推高硬件价格并引发无障碍讨论。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇短文以讽刺的笔触评价了 2026 年的科技热潮（hype cycle），指出所谓“变革性技术”目前仅带来了硬件成本的上升。作者通过引用 Léonie Watson 关于无障碍设计的不同视角，引发了社交媒体的广泛讨论。文章风格简练且具有批判性，反映了对技术实际价值的质疑，并展示了 Web 社区通过 Ping 和社交分享进行的深度互动。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对当前的科技炒作周期（hype cycle）表示讽刺，认为其目前唯一可衡量的影响是导致笔记本电脑和游戏机价格大幅上涨。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了文章发布的具体时间、地理坐标，以及在 Mastodon 和 Bluesky 等社交平台上的发布信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Léonie Watson 提出了不同的观点，并分享了一篇关于“无障碍即反抗”（accessibility is resistance）的文章链接。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示了该动态在社交媒体上的互动情况，包括多位用户的分享和点赞记录。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者邀请读者针对该话题发表回应，并提供 URL 以便进行 Ping 引用通知。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Human Who Codes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://humanwhocodes.com/blog/2026/07/introduction-git-worktrees/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A gentle introduction to Git worktrees&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Git worktrees 支持在多目录中并行开发分支，提升多任务效率。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Git worktrees 是一项被低估的强大功能，允许开发者在不同目录中并行操作多个分支。本文详细介绍了 worktree 的创建、目录管理、合并及清理流程，并探讨了其在 AI 编程环境下的优势。作者采用实用的技术指导风格，指出 worktree 能在不依赖云端的情况下实现高效并行开发。结论认为，掌握这一工具能显著提升处理复杂任务的效率。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Git worktrees 是一项被低估的强大功能，支持在本地并行处理多个开发任务，尤其适用于 AI 编程工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Worktree 本质上是存在于不同目录的分支，通过 git worktree add 命令可以创建并关联新分支。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用 worktree 时需注意依赖项不共享，且一个分支同时只能在一个工作树中签出。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;关于目录管理，常见的做法是将 worktree 放在主目录的同级或统一的子目录中。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;可以通过推送分支并提交 Pull Request 的方式将 worktree 的更改合并到主仓库。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;也可以选择本地合并，先在 worktree 中提交并 rebase，再回到主工作树进行 merge。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;完成工作后，需使用 git worktree remove 删除目录，并根据需要手动删除分支。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;git worktree list 命令可用于查看当前所有的工作树，方便管理由 AI 工具创建的目录。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过设置 Git 别名（如 wt），可以显著提高操作 worktree 的命令输入效率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Worktree 是现代开发流程中的优雅方案，简化了多任务处理并支持更高效的本地协作。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/llm-and-dsls.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;DSLs Enable Reliable Use of LLMs&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 DSLs enhance LLM reliability by constraining output spaces and enabling autonomous self-correction through deterministic validation loops.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Domain-Specific Languages (DSLs) enhance LLM reliability by constraining the output space, making code generation more predictable and effective even with limited in-context examples. By leveraging deterministic validators like parsers and schemas, DSLs enable autonomous &amp;quot;generate-and-check&amp;quot; loops where LLM agents self-correct using domain-level error messages rather than opaque stack traces. This approach treats the DSL as a &amp;quot;Ubiquitous Language&amp;quot; from Domain-Driven Design, bridging the gap between natural language intent and technical execution for complex system automation. While requiring an upfront investment in language design, a well-scoped DSL serves as a robust semantic model that allows LLMs to act as reliable interfaces for specialized tooling and workflows.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Iterative Design Discovery:&lt;/strong&gt; Software design is an iterative process where true constraints are discovered through implementation rather than upfront specification. LLMs serve as brainstorming partners during this phase, helping developers refine the design vocabulary and discover appropriate abstractions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;DSLs as Reliable Harnesses:&lt;/strong&gt; Domain-Specific Languages (DSLs) provide a constrained syntax that reduces the variation found in general-purpose languages, making LLM output more predictable. By limiting the scope of expression, a DSL ensures that a few in-context examples are sufficient for the LLM to generate correct code.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Deterministic Validation Loops:&lt;/strong&gt; DSLs allow for autonomous &amp;#039;generate-and-check&amp;#039; loops because they are backed by deterministic validators like parsers and schemas. This enables LLM agents to self-correct using domain-level error messages rather than opaque stack traces.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bridging Intent and Implementation:&lt;/strong&gt; Drawing from Domain-Driven Design, a DSL acts as a &amp;#039;Ubiquitous Language&amp;#039; that bridges human intent with technical execution. This shared conceptual model serves as a source of truth that allows LLMs to act as a natural language interface for complex systems.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Automating Domain-Specific Tools:&lt;/strong&gt; LLMs can effectively translate natural language into specialized formats like PlantUML or YAML to automate complex tasks, such as generating step-by-step technical presentations. This demonstrates how semantic models can be leveraged to build custom tooling with minimal manual coding.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Strategic Implementation Costs:&lt;/strong&gt; While DSLs significantly improve LLM reliability, they require an upfront investment in designing and maintaining the language and its semantic model. The approach is most effective when the DSL remains small and focused enough to be conveyed through limited context.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/07/14/visualizing-the-gilbreath-expectation-sequence/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Visualizing the Gilbreath expectation sequence&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 利用 coding agents 探索 Gilbreath 猜想中的序列衰减与分形模式。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了利用 coding agents 开发交互式数学应用的方法，并以 Gilbreath conjecture 及其相关的期望序列为例。作者通过 Monte Carlo 模拟和理论推导，揭示了该序列的非单调性与二进制位和 $s_2(n)$ 以及 Sierpinski gasket 分形模式之间的潜在联系。尽管数值模拟展示了复杂的分形演化，但其渐近概率模型依然成谜，作者期待相关领域的专家能提供进一步的理论见解。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了如何利用 coding agents 将论文中的静态图表转换为交互式小程序，并以 Gilbreath conjecture 研究中的图表为例。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章定义了 Gilbreath array 及其期望序列，该结构由顶层的独立指数随机变量及其下方各层差值的绝对值组成。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨了该序列与 Gilbreath conjecture 的联系，指出序列的衰减速度对于理解该猜想至关重要。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对比了理论计算值与 Monte Carlo 模拟结果，证明两者高度吻合，且后续研究进一步扩展了理论计算的范围。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;指出序列的渐近行为依然神秘且表现出非单调性，Ross 的研究提出了基于二进制位和 $s_2(n)$ 的经验预测。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提到利用 coding agents 在短短一小时内便生成了展示相关数据和预测的配套小程序。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了预测公式中 $s_2(n)$ 的来源，它与 Lucas 定理、Kummer 定理及 Sierpinski gasket 存在数学关联。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示了当 Gilbreath array 中仅存在单个“脉冲”时，会自发产生典型的 Sierpinski 模式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过更大规模的模拟图示，进一步展示了特定脉冲位置下产生的复杂分形结构。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明第 n 行中 1 的数量与 $s_2(n)$ 相关，这在形式上支持了之前关于序列波动的经验预测。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在数值观测中可以发现 Sierpinski 垫片的碎片及其在演化过程中因“碰撞”而衰减的现象。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结称目前的渐近概率模型尚不明确，并公开向概率论或统计物理领域的专家寻求启发和建议。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/07/14/call-for-long-programs-workshops-and-summer-schools-at-ipam/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Call for long programs, workshops, and summer schools at IPAM&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 IPAM 征集数学及科学领域各类学术项目提案。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;IPAM（纯粹与应用数学研究所）面向数学、统计和科学界征集长期项目、研讨会及暑期学校的提案。项目评审由科学顾问委员会于每年11月进行，主要依据科学影响力及对机构目标的贡献。IPAM 致力于构建包容性学术社区，鼓励有意向者联系其主任讨论提案构想，并可通过其官方网站获取详细信息。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/07/13/a-paper-diagram-visualizer/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A paper diagram visualizer&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者开发了一款利用JSON生成数学论文逻辑流图的交互工具。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了利用AI开发数学论文逻辑流可视化工具的经验。他指出，虽然AI降低了编程门槛，但审核已成为新瓶颈。该应用可将特定格式的JSON文件转化为可交互、可编辑且支持多种导出格式的依赖关系图。作者展示了包括费马大定理在内的多个经典证明案例，并强调虽然LLM生成的图表准确性需核实，但它们仍是理解复杂论文结构的有力辅助工具。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者探讨了利用AI进行“氛围编程”（vibe coding）的体验，指出目前的开发瓶颈已从代码生成转向了繁琐的审核与测试过程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者开发了一款将数学论文逻辑流可视化的应用，重点在于交互式图形的呈现，支持将定理依赖关系转化为可编辑并能导出为SVG、TikZ等格式的图表。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展示了由LLM生成的多个著名数学证明图例，并提醒用户这些图表虽具辅助阅读价值，但其准确性仅为近似参考，鼓励用户自行构建JSON数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202607/81272&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【『戦場のフーガ』開発記録】『インターミッション』第89回 公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 松山洋解析《战场的赋格》漫画第89话幕后设计与叙事转折。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由CyberConnect2社长松山洋撰写，深入解析了《战场的赋格》开发记录漫画第89话的创作幕后。作者详细说明了为单行本设计的叙事结构、角色版权规避方案以及缩短战争篇幅的战略意图。文章体现了松山洋直率且重视粉丝互动的写作风格，在宣布剧情重大转折的同时，也为全球读者提供了关于游戏行业职场的新书指南，展现了创作者对作品节奏与行业发展的深刻见解。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了第89话开头重复部分场景是为了兼顾单行本读者的阅读体验，这种细致的结构安排是系列的一贯传统。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论了酷似Yurulungul的少女登场，由于版权规避原因，在《战场的赋格》中该角色被正式称为“冷酷声音的少女”。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;宣布剧情中的战争正式终结，并向通过翻译关注本专栏的全球粉丝表达感谢，鼓励粉丝继续积极提供意见反馈。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;松山洋承认大幅缩减Kaiser剧情是其个人决策，旨在加快叙事节奏并为后续更高潮的剧情做铺垫，欢迎粉丝监督。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑部总结了故事的重要转折点，并预告第90话将于2026年7月28日发布，期待后续Maestro带来的新展开。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了松山洋为纪念CyberConnect2成立30周年出版的新书《游戏行业的攻略法》，为志向进入该行业的读者提供指导。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112320&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 149｜派友热议睡眠数据化、观穹 6×24 望远镜与 RG Rotate 旋转屏掌机&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Sspai Matrix 149 highlights niche hardware reviews, AI-assisted programming workflows, and community discussions on data-driven health tracking.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Sspai’s Matrix Weekly Report 149 highlights community-driven technical discourse, ranging from the &amp;quot;Vibe Coding&amp;quot; architecture and AI watermarking to debates over Xiaomi NAS file storage implementations. The issue features specialized hardware reviews, notably the RG Rotate handheld’s 1:1 display for pixel-perfect retro gaming and the Sightron 6x24 binoculars for compact outdoor observation. Developers and power users also provide a pragmatic critique of wearable sleep tracking, advocating for data-informed insights over metric-induced anxiety. Additionally, the report curates practical workflows involving AI-assisted programming and macOS clipboard management tools to enhance developer productivity.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Matrix 社区速递重启:&lt;/strong&gt; 少数派重启 Matrix 周报栏目，旨在通过周报形式增加社区优秀内容的曝光，涵盖全屋智能、硬件评测及作者投稿等多元内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;睡眠数据化争议:&lt;/strong&gt; 社区用户深入探讨了可穿戴设备睡眠监测的实际意义，普遍认为数据应作为辅助参考，不应因追求评分而产生额外焦虑。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;热门技术话题评论:&lt;/strong&gt; 汇总了社区对 AI 图像水印技术、SpaceX 卫星发射风险及 Vibe Coding 架构等前沿技术动态的深度见解与专业补充。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;社区摘要与技术实践:&lt;/strong&gt; 精选了 AI 编程记录、小米 NAS 文件存储争议以及 Mac 剪贴板管理工具等技术向内容，反映了社区近期的关注热点。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;观穹望远镜评测:&lt;/strong&gt; 作者分享了观穹 6×24 望远镜的轻便使用体验，认为其在保持小巧体积的同时提供了合格的中心清晰度，适合入门级观鸟与户外记录。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;RG Rotate 掌机体验:&lt;/strong&gt; 详细介绍了 RG Rotate 旋转屏掌机的工业设计与 1:1 屏幕特性，特别强调其在运行 GBA 像素游戏时点对点显示的视觉优势。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112287&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;具透 | iOS 27 首个公开测试版来了，这些是值得你关注的新功能&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iOS 27 beta introduces &amp;quot;Liquid Glass&amp;quot; design, integrated on-device AI, architectural refinements, and enhanced developer tools.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;iOS 27 introduces a refined &amp;quot;Liquid Glass&amp;quot; design language alongside significant architectural updates, including a unified search engine across system apps and a standalone device-side recovery mode. Developers will benefit from enhanced Shortcuts capabilities, which now support &amp;quot;Else if&amp;quot; logic and persistent iCloud data storage, as well as a new template-based AI plugin generator for Safari. The update heavily integrates on-device AI for tasks like generative photo expansion, system-wide translation, and a screen-aware Siri, though advanced LLM features are gated by high-memory hardware requirements. Additionally, the OS brings long-requested utility improvements such as Markdown support in Notes, independent volume controls, and optimized file transfer performance.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Visual Design Refinements:&lt;/strong&gt; iOS 27 introduces a transparency slider for the Liquid Glass design and restores frosted glass textures to UI elements. System icons gain depth through colored shadows, while notification animations now emerge from the top-left corner.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Performance and Search:&lt;/strong&gt; System performance is optimized with faster app launches and significantly improved file transfer speeds. A rebuilt, unified search engine now powers Spotlight, Mail, and Photos for a more consistent experience.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Intelligent Safari Enhancements:&lt;/strong&gt; Safari adds a &amp;#039;Notify Me&amp;#039; feature for tracking webpage changes and leverages AI for automatic tab grouping. It also introduces a template-based AI plugin generator, though availability is restricted by region.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Advanced Shortcuts Logic:&lt;/strong&gt; The Shortcuts app now supports &amp;#039;Else if&amp;#039; logic for complex workflows and persistent data storage via iCloud. New automation triggers include screenshots, keyboard connections, and notification events.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;System-wide Utility Updates:&lt;/strong&gt; Key updates include independent volume controls for alarms and ringtones, Markdown support in Notes, and improved AirPods management with custom EQ. A new device-side recovery mode allows for system restoration without external hardware.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apple Intelligence Integration:&lt;/strong&gt; New AI capabilities enable system-wide translation, natural language event creation in Calendar, and automated password security auditing. Photos also gains advanced AI-driven generative expansion and improved object removal tools.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Next-Generation Siri:&lt;/strong&gt; The redesigned Siri features full screen awareness and a standalone interface for natural language interactions. Advanced features like &amp;#039;Write with Siri&amp;#039; and adjustable speech expression require specific high-memory hardware.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112288&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;iOS / iPadOS 27 Public Beta 公测版来了：升降级指南 &amp;amp; 注意事项&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple发布iOS 27等系统首个公开测试版。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Apple于7月14日凌晨正式推送了包括iOS 27、iPadOS 27、watchOS 27、macOS Golden Gate、HomePod软件27以及AirPods固件在内的首个Public Beta公开测试版。此次更新标志着Apple年度系统更新进入了更广泛的用户测试阶段，涵盖了手机、平板、电脑及穿戴设备全线产品。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112286&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：全球智能手机出货量创 13 年来最低水平等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派近期动态：包含征文活动、键盘预售及精选文章。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了少数派的近期动态，重点介绍了与声擎合作的「角落新声」征文活动及其奖励，以及AKKO灵犀Linx68键盘的预售信息。此外，还推荐了关于AI生图防伪和自然景观描写等近期值得关注的深度文章。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - July 13, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1501,224 +1765,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;支持直接录制并编辑生成GIF动图，简化了从录屏到输出的整个工作流。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;预告了包括大光标、截图翻译、历史编辑及短链接分享在内的多项未来及近期更新功能。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;开发者通过送码活动鼓励用户在评论区留下反馈建议，以进一步优化产品体验。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - July 3, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-07-03</id>
-    <updated>2026-07-03T21:01:33.180Z</updated>
-    <published>2026-07-03T21:01:33.180Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>10 articles from 5 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 3, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;201.64383561643837&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    50.4%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;184&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;181&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;26&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████░░░░░░░░░░░░░░░ 50.4%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;10&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Users Don’t Need More Tools: They Need Seamless Integrations&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用户需要无缝AI集成而非更多新工具&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者Vitaly Friedman指出，用户真正需要的不是更多新工具，而是与现有心智模型无缝契合的功能集成。他提出&amp;#039;Quiet AI&amp;#039;概念，即在后台静默运行、不打扰用户工作流的AI助手，并以Claude在Microsoft Office套件中的集成为例。文章重点介绍了&amp;#039;文件夹指令&amp;#039;这一创新概念——用户可为文件夹定义行为规则，让系统自动处理文件重命名、摘要生成、通知发送等任务。作者认为，减少应用间切换带来的摩擦、让AI在工作实际发生的地方提供帮助，才是真正提升用户价值的方式。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;用户真正需要的不是更多工具，而是与现有心智模型无缝契合的功能集成，以解决高严重性、高频率、高挫败感的问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了&amp;#039;Quiet AI&amp;#039;概念——这类AI工具在后台静默运行，自动处理重复性任务，Claude在Excel、PowerPoint和Word中的集成是典型例子。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文件夹指令功能允许用户为文件夹定义行为规则，系统自动执行文件整理、摘要生成等任务，实现真正的无缝AI集成。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结指出，用户价值来自减少应用切换带来的摩擦和错误，无缝集成是快速交付价值而无需用户学习新工具的最有效方式。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/07/03/a-digestion-of-unit-distance-constructions/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A digestion of unit distance constructions&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 系统梳理Erdős单位距离问题三种构造的内在联系与放大策略&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文围绕Erdős单位距离问题展开，系统梳理了三种关键构造的内在联系。Erdős原始构造利用高斯整数环实现超线性增长；OpenAI团队借助Golod–Shafarevich域扩张塔取得突破性下界；Mythos AI给出了介于两者之间的中间结果。作者以统一视角分析三种构造，核心参数为素数个数k（水平放大）和数域次数d（垂直放大）。文章还介绍了用同余方程替代精确方程、结合鸽巢原理的初等化处理思路，并具体展示了二次扩张塔如何重现中间定理，为理解这一领域的进展提供了清晰的概念框架。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了Erdős单位距离问题：在平面上n个点的集合中，最多能有多少对点之间的距离恰好为1，记为f(n)。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Erdős构造了一个点集使f(n)增长超过线性，并猜测f(n)的上界约为n^(1+c/loglogn)；Spencer、Szemerédi和Trotter于1984年证明了f(n)=O(n^(4/3))的上界，但改进此上界极为困难。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI团队最近解决了Erdős问题，构造了使f(n)超越原有下界的点集，利用了Golod–Shafarevich域扩张塔等代数数论工具；Mythos AI则给出了一个中间结果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以此为练习，尝试用尽量少的代数数论知识统一理解这些构造，并说明了AI工具在理解过程中的辅助作用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;所有优秀构造的核心思路是：取某个代数整数环中高度不超过某阈值的所有元素作为点集，利用有理素数在数域中的分裂性质来产生大量单位距离对。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章给出了关键数值分析：设数域次数为d，选取k个大小约为p的素数，点集大小约为p^(kd)，单位距离对数约为p^(k(d+1))，由此可启发式地推导出各定理的增长指数。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在固定次数d的情形下可严格证明Theorem 1；若允许d随n增长，则可超越Theorem 1，乃至达到Theorem 2；但让素数完全分裂于高次数域会遇到广义黎曼假设等困难。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;为绕开唯一分解失效的问题，可将目标方程放宽为同余方程，再用鸽巢原理得出结论；具体实现时需要具有塔结构和复乘的数域，Golod–Shafarevich塔控制判别式最优，二次扩张塔则足以证明Theorem 3。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;三种构造形成连续谱：Erdős构造固定次数d、增大素数个数k（水平放大）；OpenAI构造固定k、增大d（垂直放大）；Mythos构造则让d与k同时增长（混合放大）。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后具体勾勒了二次扩张方法如何恢复Theorem 3：选取模4余1的大素数和中等大小的素数，构造由高斯整数和多个实平方根生成的数域，定义朴素高度并统计该高度下的环元素数目，进而估计单位距离对数。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/07/03/fixing-full-bleed-css/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fixing full-bleed CSS&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 逐步修复CSS全出血布局的滚动条与嵌套容器问题&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者是一位前端开发者，深入探讨了CSS full-bleed布局的实现与修复方案。文章从Andy Bell的经典utility class出发，指出其在Windows系统滚动条场景下存在元素被裁剪的问题，并逐步介绍了overflow-x: hidden、scrollbar-gutter: stable等修复手段。随后提出基于CSS containment和容器单位（cqi）的现代方案，并通过@property自定义属性解决了嵌套容器导致的单位计算错误问题。最后展望了未来CSS直接引用具名容器单位的语法提案，呼吁尽快标准化实现。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇介绍了full-bleed布局的概念，引用Josh Comeau和Andy Bell的方案，说明在无法对整个页面使用CSS grid时，可用Andy的utility class实现全出血布局。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Andy的方案存在滚动条问题：100vw可能比视口更宽，导致元素两侧被裁剪，在Windows系统上尤为明显，可通过添加box-shadow来观察该问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了两种修复滚动条问题的方法：在body上设置overflow-x: hidden，或使用scrollbar-gutter: stable预留滚动条空间，但后者在无需垂直滚动时显示效果不佳。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;现代解决方案是使用CSS containment，将body设为容器并用容器单位（cqi）替换视口单位，同时使用overflow-x: clip和逻辑属性以支持RTL文本方向。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;当存在嵌套容器时，直接使用cqi单位会导致full-bleed失效，作者通过@property自定义属性--body-size来解决这一问题，使值在设置时而非使用时计算，从而正确引用父级body容器。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者解释了@property魔法的原理：不使用at-rule时，--body-size在.full-bleed内计算，相对于内部容器；显式定义@property后，值在.inside中设置时计算，100cqi指向父级body容器，.full-bleed继承该值。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于更多层嵌套容器的情况，作者建议在body的直接子元素（如main）上设置--body-size值，并简要说明了乘以0.5而非除法的写法偏好。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者展望了CSS的下一代解决方案，提议增加在使用容器单位时直接引用特定容器的语法（如100cqi(body)），并呼吁浏览器厂商优先实现该特性。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n89c6c18229b3&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;東京スタジオリニューアルのお知らせ&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 東京スタジオが9Fへ移転しリニューアル完了&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーの総務課スタッフ「よしみつ」が、東京スタジオの業務部エリア・エントランス・応接室の引っ越し作業を報告している。福岡本社からのスタッフや出張中のメンバーも総動員し、短期間でリニューアルを完成させた。新しいエントランスは白を基調とした明るいデザインで、映画グッズの展示も行われている。応接室や多目的ルームも整備され、社員がボードゲームなどを自由に利用できる環境が整った。エントランスの場所が6Fから9Fに変更された点も案内されている。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;よしみつ氏は出張週間中で、東京スタジオと大阪スタジオに勤務しており、今回の出張の主な目的は東京スタジオの業務部エリア、エントランス、応接室の引っ越し作業であることを紹介している。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;引っ越し作業は備品や機材が多く大変だったが、東京スタジオ業務部メンバー全員と福岡からのスタッフ、出張中だったべーいり＆たっしーコンビも加わり、全員で無事にやり遂げた。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;リニューアルされた東京スタジオ9Fは白を基調とした明るいエントランスや応接室、ボードゲームなども揃えた多目的ルームが整備され、エントランスは6Fから9Fに変更されたことが告知されている。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/?page_id=6618&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;今年度のゲームクリエイター高卒採用情報公開！応募受付は9/5(土)より開始&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 高卒ゲームクリエイターの新卒採用を実施中&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;サイバーコネクトツーは2027年3月高校卒業見込みの学生を対象に、ゲームクリエイター（ゲームデザイナー・アーティスト・プログラマー等）の新卒採用を実施している。学歴不問で技術と情熱を重視し、福岡本社・東京・大阪の3拠点で正社員として採用。給与はジュニアクラス月給231,000円からスタートし、能力評価によりインターミディエイトへ昇格可能。応募は学校を通じて行い、選考期間は2026年9月〜2027年3月。YouTube説明会も配信中。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーは高校卒業予定者を対象にゲームクリエイター採用を実施しており、学歴不問で技術と情熱を持つ若者を求めている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;雇用形態は正社員で、福岡本社・東京スタジオ・大阪スタジオの3拠点に勤務可能。勤務時間は9:00〜18:30で、給与はジュニアクラス月給231,000円から始まり、能力に応じてインターミディエイトへ昇格できる体系となっている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;応募資格は2027年3月高校卒業見込みの学生で、国籍不問。ゲームデザイナー、アーティスト、各種プログラマーなど複数職種でハローワーク経由の求人番号が設定されている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;募集期間は2026年9月5日から2027年3月31日まで。選考は必ず学校を通じて行い、一次面接・最終面接の2段階で、遠方の場合はオンライン対応も可能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2027年卒向けのYouTube会社説明会が配信されており、代表の松山氏が新卒採用への想いや会社概要を紹介している。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/how-to-design-a-rental-living-room&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 租房客厅应以生活场景为核心规划功能分区&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇关于租房客厅改造的实用指南。作者认为客厅因承担功能过多容易变成&amp;#039;大杂烩&amp;#039;，因此改造前应先明确&amp;#039;生活剧本&amp;#039;——即客厅的核心使用场景。文章从社交与独处两个维度展开讨论：有社交需求时推荐沙发加地毯的灵活组合；以独处为主时应以沉浸感最高的需求为主线，并重点介绍了以个人工作区为主线的配置方案，强烈推荐升降桌、工学椅和外接显示器的组合，认为这是提升居家工作体验的高性价比投资。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章开篇指出客厅是家中功能最复杂的区域，往往需要承担吃饭、工作、休闲和储物等多种需求，规划难度较大。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者建议改造客厅前应先思考&amp;#039;生活剧本&amp;#039;，即客厅每天会发生什么，从场景需求出发而非从风格出发，并提出两个关键问题：客厅是否是社交场所，以及独处时是否有可停留的角落。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对有社交需求的客厅，作者建议沙发加地毯的组合，认为这比沙发加茶几更灵活，能兼顾多人聚会和个人独处两种场景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细讨论了沙发的选择策略，推荐在没有明确久坐需求时先用房东留下的沙发，并优先考虑购买轻便灵活的懒人沙发作为补充。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;关于房东留下的茶几等不实用大件，作者建议将其长边靠墙放置以减少对主区域的影响，并腾出空间铺地毯。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于没有社交需求、以独处为主的人，客厅应以&amp;#039;沉浸感&amp;#039;为核心，确定一条主线功能，其余副线功能围绕主线配合。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将个人工作作为客厅主线的重要选项，分享了自己从使用小桌子到购入一套桌椅和外接显示器的亲身经历，认为有效的工作区配置能显著提升居家体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后重点推荐升降桌作为租房工作区的核心家具，认为其高度可调、桌面可定制、使用场景多样，是一劳永逸的性价比之选。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111917&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 11 部作品&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 每周精选11部影视佳作推荐，涵盖电影、剧集和动画等多种类型。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派编辑部推荐的每周观影指南，精选11部近期值得观看的影视作品。推荐范围涵盖电影、美剧、韩剧、英剧、日剧和动画等多种类型，包括《小黄人与大怪兽》的创意致敬、《龙之家族》第三季的恢宏战争场景、《金特务：本色回归》的特工救女故事等。文章采用分类介绍和详细点评的方式，为每部作品提供关键词、片长、观看渠道等信息，并附加编辑的专业评价和观看建议。同时发布了多部新作预告和影视资讯，帮助观众了解最新动态。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周推荐11部值得观看的作品，包括电影《小黄人与大怪兽》、美剧《龙之家族》第三季、韩剧《金特务：本色回归》等多部影视作品，涵盖科幻、动作、剧情等多种类型。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影和剧集方面，《小黄人与大怪兽》以元叙事手法致敬早期好莱坞，《龙之家族》第三季以血腥海战开局，《金特务：本色回归》讲述退役特工为救女儿重出江湖的故事，各具特色。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;英剧、日剧和动画方面，《踮起脚尖》探讨性少数群体的困境，《气体人第一号》呈现精良制作但口碑分化，《机械之声的传奇》第四季关注英雄战后的生活，多部动画作品展现创意和艺术水准。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本周还发布了多部作品的新预告，包括诺兰新作《奥德赛》、动画《赛博朋克：边缘行者2》等，同时《杀死比尔：血色全传》定档8月7日，《哈姆雷特》定档7月18日等影视资讯。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111405&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;快捷指令｜让 iPhone 用上锤子的「大爆炸」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用iPhone快捷指令近似复刻锤子大爆炸的文字跳转功能&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者是一名快捷指令爱好者，受锤子手机「大爆炸」功能启发，在iPhone上开发了名为「文字任意门」的快捷指令工具。该工具通过控制中心小组件快速呼出，允许用户先选取文字再选择目标APP，实现跨应用直达搜索结果，极大减少分心操作步骤。文章详述了功能的使用场景、技术实现（URL scheme与网页视窗突破）及安装配置方式，同时坦诚指出与原版「大爆炸」相比在触发方式和URL scheme收集上的不足，并向锤子科技致敬。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍自己是一名爱折腾快捷指令的书法老师，展示了在iPhone上用快捷指令复刻锤子手机「大爆炸」功能的视频成果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将这个功能命名为「文字任意门」，旨在颠倒传统的「找APP→输文字」流程，并以搜索淘宝为例说明其解决分心问题的价值。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆了锤子手机「大爆炸」「一步」「闪念胶囊」等功能带来的独特体验，正是这种「旦用难回」的遗憾促使他持续在iPhone上探索快捷指令自动化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者说明了「文字任意门」的技术实现路径：利用快捷指令触发方式、URL scheme打通应用壁垒，以及「网页视窗」的突破让快捷指令能弹出类APP界面。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了「文字任意门」的操作流程：下拉控制中心→点击小组件→滑动选词→选择目标APP，并列举了多种使用场景如问AI、娱乐搜索、添加提醒等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了安装和触发方式的配置建议，包括控制中心小组件、操作按键、辅助触控等，并说明本地JavaScript不上传用户数据。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;坦诚指出两处遗憾：无法还原「大爆炸」大拇指按压炸开分词的触发方式，以及URL scheme收集不完整，欢迎社区共同完善。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;以致敬锤子科技和老罗团队作为结尾，表达对理想主义产品精神的深切缅怀。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111708&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;这四个工作习惯，或许也能帮你找到掌控感&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通过日记复盘、人脉维护、影响力散播和安全网建立四个习惯，将职业发展从被动应对转为主动掌控。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者分享了两年半职业生涯中升职两次的经验，核心观点是通过系统化的自我管理而非单纯努力实现职业进阶。作者提出四个关键习惯：工作日记与定期复盘、把人脉作为长期资产维护、散播自己的影响力以及建立多层次的安全网。这些习惯的共同特点是将职业发展中的不确定性转化为可记录、可分析、可迭代的数据，从而逐步掌控职业轨迹。作者强调这些方法并非高级技巧，而是在背景中默默运行的系统，帮助个人在面对职场变化时更有底气和选择权。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过工作日记和定期复盘，建立了一套系统化的记录方法，包括日常工作记录、周度总结和月度复盘，能够帮助积累素材、调整自我认知、理解组织结构和掌握个人状态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者把人脉维护视为长期资产，通过在通讯录中记录关键人物的背景和接触点，形成关系数据库，这样既能防止遗忘，又能在需要时有自然的切入点进行有效沟通。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者强调工作需要可见性，通过项目小结、向上沟通和外部分享等方式，把碎片化的工作转化为可复用、可量化、可传播的成果，从而提升在组织中的影响力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者建立了包含财务、身体、情绪和职业资本四层的安全网，通过数据化管理来降低对运气的依赖，使职场决策从被动应对转变为相对主动。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111898&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 大疆新麦克风发布，苹果隐私漏洞曝光等多条科技资讯速览&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派派早报，汇总了多条科技新闻。大疆发布DJI Mic Mini 2S无线麦克风，主打轻量化、长续航和多声道录音；Apple「隐藏邮件地址」功能被曝存在100%可还原真实邮箱的隐私漏洞且迟迟未修复；System76推出搭载Intel最新Panther Lake处理器的Linux轻薄本Lemur Pro；CHERRY上架新款磁轴开关MK魔晶磁轴Plus；索尼宣布逐步关闭PS3和PS Vita数字商店；此外还有Apple新品规划及Safari MCP server等消息。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;大疆于7月2日发布DJI Mic Mini 2S迷你无线麦克风，发射器重约12克，内置14.5GB存储，支持最长28小时循环内录及32-bit浮点内录，接收器最多可同时连接4个发射器，无线传输距离最远400米，搭载AI降噪模型，一拖二套装售价1199元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;安全研究员Tyler Murphy发现Apple「隐藏邮件地址」功能存在隐私漏洞，可100%推断出真实邮箱地址，该漏洞自去年6月报告至今仍未修复，Murphy决定公开漏洞存在但未披露技术细节。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Linux PC制造商System76于7月1日推出新款Lemur Pro轻薄本，搭载英特尔酷睿Ultra第3代Panther Lake处理器，提供14英寸和16英寸版本，标配32GB内存和1TB SSD，14英寸版本重约998g，起售价1923美元。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;CHERRY于7月2日上架MK魔晶磁轴Plus键盘开关，采用TMR隧道磁阻方案，分光效优化和声音优化两个版本，相较初代改用一体式双侧防尘壁轴芯设计，10颗装售价19.9元，折合单颗约1.54元起。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;索尼宣布将逐步关闭PS3和PS Vita的PlayStation Store数字商店，部分地区将从2026年8月起关闭，其余地区于2027年7月关闭，关闭后用户无法购买新内容但已购内容仍可下载。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;其他消息涵盖Apple正测试四款新iPad Pro预计2027年春季发布、计划推出入门级14英寸MacBook Pro及M7芯片，以及Apple WebKit团队在Safari Technology Preview 247中引入Safari MCP server以辅助Web开发调试。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派近期动态包括声擎联合征文活动、与AKKO共创带屏键盘计划、WWDC26专题页更新完成，以及推荐了关于Steam Machine、掌机和iOS剪贴板工具的优质文章。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
