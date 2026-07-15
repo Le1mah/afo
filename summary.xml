@@ -4,8 +4,201 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-07-14T21:24:13.028Z</updated>
+  <updated>2026-07-15T21:26:46.316Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - July 15, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-07-15</id>
+    <updated>2026-07-15T21:26:46.316Z</updated>
+    <published>2026-07-15T21:26:46.316Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>9 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 15, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;214.7945205479452&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    53.7%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;196&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;169&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;28&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████░░░░░░░░░░░░░░ 53.7%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;9&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22657&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Image to text&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 This hybrid system uses local open-source models for sustainable alt-text, prioritizing human-governed accuracy over proprietary AI.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author advocates for proactive accessibility by implementing a hybrid alt-text system that prioritizes human-governed accuracy over automated generation. To scale across a large library, they deployed a local Python-based pipeline utilizing Microsoft’s GIT model and the COCO dataset, intentionally bypassing energy-intensive and ethically opaque proprietary LLM APIs. The architecture employs a database-less approach, storing machine-generated descriptions as flat files that serve as functional placeholders until overridden by community-contributed metadata. This implementation demonstrates a preference for specialized, open-weight ML models and local compute to minimize environmental impact and corporate dependency while ensuring immediate site-wide accessibility.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Accessibility as Resistance:&lt;/strong&gt; Proactive accessibility design reduces the need for users to rely on extractive AI tools to compensate for developer failures. When creators fulfill their responsibility to provide alt text, they effectively bypass the ethical baggage of large-scale generative models.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Crowdsourced Metadata Strategy:&lt;/strong&gt; To address a lack of image descriptions, the author implemented a wiki-style system allowing community members to manually contribute alt text. While successful for high-traffic pages, the scale of the image library necessitated a secondary automated solution.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Local Machine Learning:&lt;/strong&gt; Dissatisfied with proprietary &amp;#039;vibe-coded&amp;#039; APIs, the author utilized the COCO dataset and Microsoft&amp;#039;s GIT model to generate alt text locally. This approach favors older, specialized machine learning over energy-intensive and ethically dubious frontier LLMs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Automated Filesystem Integration:&lt;/strong&gt; The implementation involved a Python script that iterates through a folder-based storage system to generate and save alt text as flat files. This architecture allows the site to serve machine-generated descriptions as placeholders without requiring a database.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Human-in-the-Loop Validation:&lt;/strong&gt; AI-generated descriptions are treated as functional placeholders that can be overridden by human users at any time. This hierarchy ensures that while the site is immediately more accessible, accuracy remains governed by community oversight.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ethical Model Future:&lt;/strong&gt; The project highlights a preference for ethically trained, open-weight models that run locally to avoid the environmental and corporate costs of API-driven AI. The author advocates for a future where local capabilities catch up to proprietary frontier models.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22656&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Remembering when England played Argentina 24 years ago and Channel 4 let the side down… https://adactio.com/journal/309&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 回顾24年前英阿大战及Channel 4的转播失误。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者在2026年撰写的简短回顾，回溯了24年前英格兰与阿根廷的足球对决。文中特别提到了Channel 4在当时的转播中表现欠佳，令观众感到失望。作者以个人博客的形式记录，并附带了原始链接及地理位置信息，同时邀请读者通过URL进行互动回应。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/07/people-dont-want-more-ai/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No, People Don’t Want More AI In Their Life&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Adopt &amp;quot;AI-second&amp;quot; design to automate mundane tasks without disrupting creative workflows or increasing user cognitive overhead.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article argues that organizations often miscalculate the demand for AI, resulting in features that disrupt established workflows and expose underlying technical debt or poor data quality to the end-user. Because users prioritize consistency over novelty, the cognitive overhead of auditing AI hallucinations often negates efficiency gains, shifting the user’s role from a creator to a tedious reviewer. To drive genuine value, developers should adopt an &amp;quot;AI-second&amp;quot; philosophy, implementing the technology as an ambient support layer that automates mundane, repetitive tasks while preserving the high-leverage creative work that requires human intuition.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Flawed AI Assumptions:&lt;/strong&gt; Many organizations mistakenly assume a universal demand for AI, resulting in low adoption and high delivery costs for features that often disrupt established workflows.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Organizational Debt Amplifier:&lt;/strong&gt; AI cannot fix systemic issues like technical debt or poor data quality; instead, it often exposes these internal inconsistencies directly to the end-user.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hidden Verification Costs:&lt;/strong&gt; The mental overhead required to identify and correct AI hallucinations often creates more work than it saves, shifting the user&amp;#039;s role from creator to tedious reviewer.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reliability Over Novelty:&lt;/strong&gt; Users do not compare AI to human performance but rather to other software features, prioritizing consistency and predictability over the novelty of the technology.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Augmentation vs. Replacement:&lt;/strong&gt; Effective AI should focus on automating mundane, repetitive tasks while preserving the rewarding, creative aspects of work that require human taste and intuition.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Second Design Philosophy:&lt;/strong&gt; Successful products adopt an &amp;#039;AI-second&amp;#039; approach, where technology acts as a subtle, ambient support layer deeply integrated into existing mental models and workflows.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Human-Centric Value Proposition:&lt;/strong&gt; The ultimate goal of AI should be to reduce mental labor and &amp;#039;boring&amp;#039; tasks, thereby freeing up human headspace for meaningful decision-making and social connection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/503&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 503: The Model Roundup&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Specialized LLM orchestration, agentic code stability, and major framework updates define the latest technical landscape developments.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The LLM landscape is shifting toward specialized orchestration, highlighted by OpenAI’s new tiered model strategy (Sol, Terra, and Luna) and SpaceXAI’s focus on token efficiency, though the latter carries notable CLI security risks. To address the inherent instability of agent-generated code, Convex has introduced transactional guarantees and TypeScript-native primitives to ensure data integrity during autonomous execution. Meanwhile, the ecosystem sees significant performance upgrades with NestJS 12’s adoption of ESM and Rspack, alongside the release of Pinia 4.0 for type-safe Vue state management. Finally, new tools like Google’s Interactions API and the Kassette engine are streamlining the integration of durable workflows and agentic subtasks.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fable 5 Volatility:&lt;/strong&gt; The Fable 5 model faces ongoing subscription uncertainty and shifting removal dates as the competitive landscape for LLMs continues to evolve.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Grok 4.5 Performance:&lt;/strong&gt; SpaceXAI&amp;#039;s new model prioritizes speed and token efficiency over Anthropic&amp;#039;s Opus, though developers are warned of security risks regarding environment variables in its CLI.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;GPT 5.6 Ecosystem:&lt;/strong&gt; OpenAI has introduced a tiered model strategy featuring Sol for autonomous orchestration, Terra for human-in-the-loop iteration, and Luna for fast subagent tasks.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Convex AI Development:&lt;/strong&gt; Convex addresses the challenges of agent-generated code by exposing platform primitives as TypeScript functions and providing transactional guarantees to prevent data corruption.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Modern Framework Updates:&lt;/strong&gt; NestJS 12 introduces ESM and Rspack support for improved performance, while Pinia 4.0 arrives as a lightweight, type-safe store for Vue.js applications.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Emerging Developer Tooling:&lt;/strong&gt; New releases including Google&amp;#039;s Interactions API and the Kassette workflow engine aim to simplify agent integration and the management of durable workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n93b91f8772b8&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『しごにんの侍』制作ぶろぐ 第五十一回『てせうすのふね』&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Blog 51 details Bansho’s photography-based combat, Ship of Theseus identity, and linguistic nuances before July’s manga release.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This production blog entry details the creative and philosophical foundations of the character Bansho, specifically how his combat techniques utilize photography-inspired metaphors like &amp;quot;Sankyaku Sappo&amp;quot; and &amp;quot;Nagadori&amp;quot; to simulate motion blur and the &amp;quot;Skyfish&amp;quot; visual phenomenon. Central to Bansho’s identity is the &amp;quot;Ship of Theseus&amp;quot; paradox, where his fragmented dialogue and mental instability serve as a narrative manifestation of his extensive surgical body replacements. The author emphasizes linguistic precision by avoiding common genre suffixes like &amp;quot;Shin&amp;quot; or &amp;quot;Kai&amp;quot; and repurposing terms such as &amp;quot;Jutsushiki&amp;quot; and &amp;quot;Tengantsu&amp;quot; to reflect their literal medical and Buddhist origins rather than contemporary manga tropes. The update concludes with a production roadmap, scheduling the next manga chapter for July 22nd and the subsequent blog post for July 29th.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Camera Terminology Etymology:&lt;/strong&gt; The &amp;#039;Sankyaku Sappo&amp;#039; and &amp;#039;Nagadori&amp;#039; techniques derive their names from photography concepts like tripods and panning to represent fluid, bird-like motion.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Skyfish Visual Homage:&lt;/strong&gt; The afterimage of the Nagadori slash is intentionally designed to resemble &amp;#039;Skyfish,&amp;#039; a visual phenomenon caused by motion blur in camera footage.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bansho&amp;#039;s Psychological Instability:&lt;/strong&gt; Bansho&amp;#039;s early pun-heavy dialogue reflects mental instability caused by frequent surgical replacements, mirroring the &amp;#039;Ship of Theseus&amp;#039; philosophical paradox.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Avoiding Media Tropes:&lt;/strong&gt; The author intentionally eschews common modifiers like &amp;#039;Shin&amp;#039; or &amp;#039;Kai&amp;#039; to maintain originality and prevent unintended associations with other popular franchises.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Contextual Terminology Selection:&lt;/strong&gt; While &amp;#039;Jutsushiki&amp;#039; is currently associated with popular manga, the author uses it here specifically for its literal medical meaning to reinforce Bansho&amp;#039;s background as a doctor.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Buddhist Supernatural Insight:&lt;/strong&gt; The ability &amp;#039;Tengantsu&amp;#039; is rooted in Buddhist terminology, representing a divine power to perceive all things, aligning with the character&amp;#039;s diagnostic capabilities.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Upcoming Publication Dates:&lt;/strong&gt; The next chapter of the manga is scheduled for release on July 22nd, followed by a production blog update on July 29th.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112077&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Leitra 诞生记：一次未完成的实践&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Leitra uses AI-assisted prototyping for photographic tools, emphasizing the vital role of human craftsmanship over total automation.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Leitra is a specialized tool for generating digital contact sheets and image sequences, utilizing layouts like &amp;quot;Breathing Cards&amp;quot; and &amp;quot;Classic Index&amp;quot; to bridge the gap between raw image data and curated photographic narratives. Developed via a &amp;quot;Vibe Coding&amp;quot; approach using Google AI Studio, the project serves as a case study in the transition from rapid AI-assisted prototyping to the intensive manual fine-tuning and error correction required for production-ready software. The author highlights the cognitive friction of high-frequency LLM interaction, distinguishing between &amp;quot;Discussion&amp;quot; and &amp;quot;Command&amp;quot; modes and the resulting mental fatigue inherent in AI-driven development. Ultimately, the narrative critiques the shift toward total automation, warning that over-reliance on AI risks eroding the &amp;quot;slow&amp;quot; creativity and fundamental human craftsmanship essential to both photography and software engineering.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Leitra: Digital Curation Tool:&lt;/strong&gt; Inspired by Saul Leiter, Leitra is a tool for generating digital contact sheets and image sequences, focusing on the creative connections and pauses between photographs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Core Layout Functionalities:&lt;/strong&gt; The tool provides specialized layouts like &amp;#039;Breathing Cards&amp;#039; for visual rhythm, &amp;#039;Classic Index&amp;#039; for 35mm-style previews, and parameter-inclusive sheets for technical review.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optimized Photographic Workflows:&lt;/strong&gt; Leitra facilitates the transition from raw image data to curated projects, enabling photographers to perform physical editing, archival indexing, and efficient collaboration.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Assisted Development Process:&lt;/strong&gt; The project was built using Google AI Studio, highlighting the &amp;#039;Vibe Coding&amp;#039; approach where rapid prototyping eventually meets the grueling reality of fine-tuning and error correction.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Contact Sheet Philosophy:&lt;/strong&gt; Drawing from photographic history, the tool emphasizes that the selection and editing process is a critical creative act that gives meaning to the &amp;#039;decisive moment.&amp;#039;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Human-AI Interaction Paradigms:&lt;/strong&gt; The author explores the friction between &amp;#039;Discussion&amp;#039; and &amp;#039;Command&amp;#039; modes in AI development, noting the mental fatigue caused by the high-frequency information exchange with LLMs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Skill Erosion Concerns:&lt;/strong&gt; The narrative concludes with a reflection on &amp;#039;slow&amp;#039; creativity, warning that over-reliance on AI-automated skills can lead to the loss of fundamental human craftsmanship and decision-making.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112338&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;具透 | iPadOS 27 首个公开测试版中你不容错过的 12 个新特性&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iPadOS 27公测版发布，升级UI设计并强化AI与协同功能。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细介绍了iPadOS 27首个公开测试版的12个核心新特性。文章指出，新系统在Liquid Glass设计语言上进行了深度微调，使UI视觉与macOS更加趋同。功能层面，Sidecar支持触控、文件传输提速及备忘录支持Markdown导出是亮点。此外，集成Google Gemini的Apple Intelligence显著增强了Siri的感知能力。作者认为，iPadOS 27在保持性能优化的同时，进一步强化了生产力与跨设备协同体验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple正式发布了iPadOS 27等系统的首个公开测试版，展示了预计于秋季推出的多项新特性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;系统界面改进了Liquid Glass设计，侧边栏回归“边到边”样式，视觉上与macOS更为统一。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;系统自带App图标经过重绘，且第三方应用图标的渲染也变得更加立体和锐利。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;按钮、通知及文本框等组件采用了新的光影渲染方式，提升了界面的灵动感与可读性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新增Liquid Glass透明度调节滑块，支持从乳白色毛玻璃到高透明度的无级调节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;菜单栏交互逻辑调整为点击显示，并移除了大部分不统一的图标，减少了误操作风险。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;主屏幕编辑功能新增撤销与重做支持，超大尺寸小组件现可添加至“今日”视图。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在iPad上运行iPhone App时，用户可以更加自由地调整窗口尺寸，不再受限于固定比例。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Sidecar随航功能新增对iPad屏幕触控的支持，允许通过多指手势操作Mac桌面内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Pencil更换了新的充电提示音，且其手写字符现在支持Spotlight全局索引搜索。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;备忘录App新增将内容直接拷贝为Markdown格式的功能，方便AI处理及跨平台协作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;系统动画与运行速度显著提升，外置SSD的文件传输带宽优化至接近10Gbps上限。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Intelligence在Gemini助力下升级，Siri获得了系统级上下文与屏幕感知能力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;iPadOS 27在打磨设计细节的同时，通过性能与交互改进进一步拉近了与macOS的距离。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112243&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;角落新声｜从桌面「长」出来的创业空间，我靠这些好物「偷」一点清闲&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A home startup workspace blending stable hardware and ergonomic design to balance productivity with mental well-being.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author details the evolution of a home-based startup workspace, focusing on reclaiming work-life boundaries through a blend of high-reliability hardware (M1 Pro MBP, CalDigit) and custom DIY ergonomic solutions. By integrating a whole-house audio system and exploring smart automation via an OC1 Pro ergonomic chair, the setup prioritizes environmental control and mental well-being to mitigate the high-pressure startup rhythm. The workflow is further humanized by physical artifacts—such as printed documents and greenery—providing a tactile counterpoint to an otherwise digital-heavy entrepreneurship journey. Ultimately, the space reflects a shift from pure utility to a balanced ecosystem that leverages stable tech and atmospheric design to sustain long-term productivity.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;创业空间的边界扩张:&lt;/strong&gt; 作者描述了从自由职业转入创业阶段后，工作空间如何从单一的桌面“生长”到整个起居室，导致生活与工作的边界彻底模糊。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;定制化桌面收纳方案:&lt;/strong&gt; 为了在凌乱的创业节奏中找回秩序，作者利用秸秆砖和不锈钢板DIY了增高架，在实用主义与个人审美之间取得了平衡。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;核心生产力硬件组合:&lt;/strong&gt; 沿用经过时间考验的M1 Pro MacBook Pro、CalDigit扩展坞及罗技外设，这些性能稳定的老伙伴保证了高强度工作下的设备可靠性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;起居室声音中心升级:&lt;/strong&gt; 通过引入声擎Cyber 5音箱并利用其多接口特性，作者构建了一个覆盖全屋的声音系统，将音乐融入洗漱、工作与休闲的间隙。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;数字化工作流的具象化:&lt;/strong&gt; 佳能TS3180打印机的加入不仅满足了线下活动的文件需求，更通过物理纸张的产出为数字化的创业流程增添了仪式感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;智能人体工学座椅:&lt;/strong&gt; 更换为支持电机调节和通风的清闲OC1 Pro座椅，作者不仅解决了长发夹持的痛点，还萌生了将其接入Home Assistant实现自动化的想法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;氛围营造与情感调节:&lt;/strong&gt; 通过屏幕挂灯、绿植与氛围灯光的组合，作者在冰冷的电子设备与温馨的家庭生活之间寻找平衡，利用音乐缓解创业带来的高压焦虑。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112334&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Meta 被诉借助 AI 违规裁员、Google 被诉使用版权内容训练 Gemini 模型等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Google更新图片搜索，Spotify内测语音交互。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Google推出了新版图片搜索功能，旨在优化用户的视觉搜索体验。与此同时，Spotify也启动了语音交互功能的内测，探索更加自然便捷的交互方式。这些动态展示了科技巨头在产品功能迭代和交互技术上的持续进步。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - July 14, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1680,91 +1873,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Targeted Review Modes:&lt;/strong&gt; The app features five distinct review modes—such as &amp;#039;unrecognized,&amp;#039; &amp;#039;unheard,&amp;#039; and &amp;#039;misspelled&amp;#039;—to address specific linguistic weaknesses with tailored training.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Automated Intensive Reading:&lt;/strong&gt; Inspired by structured self-study methods, the tool automates the tedious 6-step intensive reading process to improve efficiency and historical tracking.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Open Source Distribution:&lt;/strong&gt; Embracing the era of AI-driven personal tools, the developer has released FenyiDic as an open-source application for macOS and Windows on GitHub.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - July 4, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-07-04</id>
-    <updated>2026-07-04T20:44:07.307Z</updated>
-    <published>2026-07-04T20:44:07.307Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>1 articles from 1 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 4, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;202.73972602739727&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    50.7%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;185&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;180&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;26&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████░░░░░░░░░░░░░░░ 50.7%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;1&lt;/strong&gt; articles from &lt;strong&gt;1&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111645&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[送码] 聆听用户建议，1Capture 新增多项实用截图功能&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 1Capture新增AI擦除与动态标注等功能，优化Mac截图录屏体验。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;1Capture是一款专为开发团队设计的Mac截图与录屏工具，近期根据用户反馈新增了动态荧光笔、多彩马赛克、AI擦除、点击动画及GIF录制等实用功能。该工具注重工作流效率，旨在通过更自然的标注和可视化操作，提升问题反馈与文档制作的质量。作者采用功能导向的写作风格，清晰展示了工具在实际场景中的应用价值与进化方向。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;1Capture在过去一年根据用户反馈进行了多轮更新，旨在优化团队协作与产品展示的截图录屏工作流。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新增的动态荧光笔功能可根据文字大小自动调整高亮区域，并支持文字吸附，使标注更精准高效。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;多彩马赛克功能替代了传统的黑白遮罩，在保护隐私的同时提升了标注的视觉层级和区分度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;引入AI擦除功能，能自然移除画面中的指定内容，在保持原始风格的前提下实现局部清理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;录屏功能新增点击动画，通过强化操作轨迹的可视化表达来提升沟通效率。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;支持直接录制并编辑生成GIF动图，简化了从录屏到输出的整个工作流。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;预告了包括大光标、截图翻译、历史编辑及短链接分享在内的多项未来及近期更新功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发者通过送码活动鼓励用户在评论区留下反馈建议，以进一步优化产品体验。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
