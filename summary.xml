@@ -4,8 +4,263 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-07-16T21:27:30.859Z</updated>
+  <updated>2026-07-17T21:22:15.574Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - July 17, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-07-17</id>
+    <updated>2026-07-17T21:22:15.573Z</updated>
+    <published>2026-07-17T21:22:15.573Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>12 articles from 9 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 17, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;216.986301369863&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    54.2%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;198&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;167&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;28&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████░░░░░░░░░░░░░░ 54.2%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;9&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22661&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Going to the north of Ireland. brb&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者前往北爱尔兰的简短行程更新与社交互动。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇发布于2026年7月17日的简短状态更新，记录了作者前往北爱尔兰的行程。文中包含了地理坐标（51° N, 0° W）、社交媒体平台（Mastodon, Bluesky）链接以及读者的互动点赞情况，并邀请他人通过URL进行回复。全文呈现出一种典型的个人微型博客或社交动态风格。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;When It Makes Sense To “Block” The Main Thread&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Block the main thread if `postMessage` serialization overhead exceeds the local cost of task execution.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;While the &amp;quot;never block the main thread&amp;quot; heuristic is standard practice, the overhead of data serialization in shared-nothing architectures can sometimes introduce more latency than the offloaded task itself. Because `postMessage` relies on the Structured Clone Algorithm—a synchronous $O(n)$ operation—moving large payloads to a Web Worker can inadvertently block the main thread during the serialization and reconstruction phases. Although Transferable objects offer a zero-copy alternative, they are limited by specific data type requirements and are often unavailable in restricted environments like Chrome extension messaging. Ultimately, senior developers must weigh the computational cost of a task against its communication overhead, shifting the goal from absolute non-blocking to minimizing the total duration of main thread interruption.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Challenging Architectural Dogma:&lt;/strong&gt; While &amp;quot;never block the main thread&amp;quot; is a standard performance guideline, strict adherence can sometimes introduce more latency than it prevents due to data transfer overhead.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Context Isolation Mechanics:&lt;/strong&gt; Modern browsers use a &amp;quot;shared-nothing&amp;quot; architecture where the main thread and workers operate in isolated memory spaces, requiring explicit messaging for communication.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Cloning Bottleneck:&lt;/strong&gt; The Structured Clone Algorithm used by postMessage is a synchronous O(n) operation that can block the main thread when serializing and reconstructing large data payloads.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Transferable Objects Trade-offs:&lt;/strong&gt; Transferable objects offer a high-performance zero-copy alternative to cloning, but they are limited by specific data type requirements and the loss of access in the sending context.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Extension API Constraints:&lt;/strong&gt; Chrome extension environments often force data through internal messaging that relies on serialization, making high-performance Transferable objects unavailable for certain workflows.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Strategic Thread Management:&lt;/strong&gt; Developers must determine if a task is more expensive to process or more expensive to move, shifting the focus from &amp;quot;never block&amp;quot; to minimizing the duration of blocks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/504&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 504: Feminine Energy&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Thinking Machines debuts Inkling MoE alongside advancements in agentic workflows, production observability, and client-side computing.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Thinking Machines has introduced Inkling, a 975B parameter open-weights MoE model that prioritizes self-aware calibration and multimodality across a 1M token context window to minimize hallucinations. While agent-native workflows like Hyperagent are advancing multi-agent coordination, current benchmarks reveal that frontier models still struggle with complex React architectures despite improved build harnesses. Engineering leaders are increasingly adopting structured logging, durable execution patterns, and Rust-based database ports to enhance production observability and system resilience. Additionally, the web ecosystem is pushing boundaries with Astro 7.1’s memory optimizations and browser-based VMs capable of running full shells and local LLMs entirely client-side.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Inkling Model Debut:&lt;/strong&gt; Thinking Machines has released Inkling, a 975B parameter MoE model featuring a 1M token context window and a design focus on self-aware calibration. It prioritizes factuality and recognizing its own limitations over the confident hallucinations typical of many current frontier models.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Multimodal Open-Weights Innovation:&lt;/strong&gt; Inkling distinguishes itself as a fine-tunable, multimodal generalist supporting audio, text, and vision, potentially marking a first for open-weights models. Its &amp;#039;epistemics&amp;#039; training allows for high-level instruction-following and seamless integration with the Tinker fine-tuning infrastructure.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optimizing Production Logs:&lt;/strong&gt; A focus on structured logging highlights the need to move beyond simple string-based console logs to improve searchability and error tracing. By tuning the signal-to-noise ratio, teams can reduce data quotas while gaining precise insights into production failures.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Coding Benchmarks:&lt;/strong&gt; New benchmarks reveal that current AI models still perform poorly on React-specific tasks, despite the proliferation of new coding harnesses like SpaceXAI’s Rust-based Grok Build. This gap underscores the ongoing challenge of training models on complex, modern frontend architectures.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Multi-Agent Orchestration:&lt;/strong&gt; Emerging tools like Hyperagent allow for the deployment of specialist agent teams that share context and execute tasks across browsers and file systems. This shift toward agent-native workflows aims to automate complex hand-offs without constant human supervision.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Framework and Infrastructure Evolution:&lt;/strong&gt; Astro 7.1 introduces multi-dev server support and improved memory efficiency, while the ecosystem sees experimental shifts like porting Postgres to Rust. Simultaneously, browser-based VMs are now capable of running full shells, Git, and local LLMs entirely client-side.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Durable Execution and Efficiency:&lt;/strong&gt; Technical leaders are increasingly adopting durable execution patterns to handle application failures without adding architectural complexity. Additionally, new practical guides are emerging to help teams reduce LLM token spend through strategic product investments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Things That Caught My Attention &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://newsletter.danhon.com/archive/s21e11-somebody-else-s-cloud/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;s21e11: Somebody Else’s Cloud&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Cloud abstraction masks extractive AI infrastructure and subscription models, eroding user ownership and technical agency.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article critiques the &amp;quot;cloud&amp;quot; metaphor for obscuring the physical and environmental costs of AI infrastructure, arguing that this abstraction facilitates a shift toward extractive business models. By framing User-Centered Design as a &amp;quot;business interface&amp;quot; rather than a utility, the author highlights how hardware manufacturers are increasingly prioritizing recurring service revenue through trivial digital add-ons and &amp;quot;DLC&amp;quot; strategies. This trend is punctuated by a symbolic shift in OS terminology from &amp;quot;My Computer&amp;quot; to &amp;quot;This Computer,&amp;quot; signaling a systemic erosion of user ownership and agency. Ultimately, the text explores the tension between the necessary delegation of technical complexity to specialists and the resulting loss of control over the systems we rely on.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Design and Leadership Events:&lt;/strong&gt; The author promotes a series of upcoming live sessions featuring industry experts like Erika Hall and Pavel Samsonov to discuss team dynamics and design as a business model.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Physicality of Cloud:&lt;/strong&gt; This section explores the cognitive dissonance regarding datacenters, noting how the &amp;#039;cloud&amp;#039; metaphor obscures the physical infrastructure and environmental impact of AI and the internet.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Software-Defined Vehicle Monetization:&lt;/strong&gt; Using Kia&amp;#039;s infotainment system as a case study, the author critiques the trend of chasing services revenue through trivial digital DLC like branded themes in expensive hardware.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Business-Centered Design Realities:&lt;/strong&gt; The text argues that User-Centered Design is often a secondary concern to business needs, effectively acting as a &amp;#039;business interface&amp;#039; designed to maximize value extraction.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Erosion of Ownership:&lt;/strong&gt; A shift in OS terminology from &amp;#039;My Computer&amp;#039; to &amp;#039;This Computer&amp;#039; highlights a broader trend where users lose permanent control and ownership of their digital assets and software.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Complexity and Social Infrastructure:&lt;/strong&gt; The author reflects on the necessity of delegating technical understanding to specialists and infrastructure, acknowledging that modern systems are too complex for individuals to manage alone.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/07/16/two-more-apps-visualizing-the-zeta-process-and-the-motions-of-the-heavens/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Two more apps: visualizing the zeta process and the motions of the heavens&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者利用 AI 智能体开发了数学与天文科学可视化应用。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了利用 LLM 编码智能体开发数学与科学可视化应用的优势，强调其在非关键性、独立性和安全性方面的适配度。作者展示了两个案例：一是用于可视化数论中“zeta process”及其随机变量链的应用；二是受《块魂》启发、展示从人类到天文尺度天体运动的可视化工具。文章体现了作者通过 AI 辅助工具将复杂理论具象化的尝试，同时对 LLM 的使用边界提出了审慎建议。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为使用编码智能体开发数学或科学可视化应用是理想场景，因为此类应用风险低、独立性强且安全性高。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了第一个应用：可视化作者论文中提出的“zeta process”，这是一种由随机变量构成的无限可分链。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细说明了 zeta process 应用的技术实现，展示了如何在每个素数处通过指数随机变量生成底层过程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该应用还包括 zeta 分布和命中概率的分布展示，可用于快速解决 Erdős 问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了第二个应用：一个展示不同尺度下天体运动的趣味应用，灵感来源于游戏《块魂》。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;描述了该天体应用在人类尺度下的视觉表现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了当观察者视角离开大气层并放大体型时的视觉变化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示了在最大时空尺度下出现的经典太阳系仪图示。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过与智能体的深入交流，作者实现了月相、地球自转及恒星背景等多种天文现象。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-07-17T11:00Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-07-17T11:00Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 对比 Lumis 与 Shiki 语法高亮工具，作者因解析缺陷决定暂不切换。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深度对比了新兴语法高亮工具 Lumis 与成熟的 Shiki。作者通过性能实测发现 Lumis 虽在解析速度上略胜一筹，且采用 Tree-sitter 技术理论上更精准，但在 JavaScript 模板字符串等实际应用中存在解析错误。结合主题支持及项目维护质量的考量，作者认为 Lumis 目前尚不足以替代 Shiki，建议开发者暂持观望态度。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过博客发现了新兴的语法高亮工具 Lumis，并探讨其是否优于目前使用的 Shiki。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;性能测试显示 Lumis 处理速度比 Shiki 快约 400ms，但作者认为在有缓存机制的情况下，这种速度提升并不重要。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Lumis 的技术特点是使用 Tree-sitter 进行代码解析，理论上比基于正则表达式的 Shiki 更准确。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在实际测试中，Lumis 在处理 JavaScript 模板字符串插值时出现了明显的解析故障。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对比了两者在 Dracula 主题下的表现，并提到 Shiki 原生支持空白符高亮，而 Lumis 需要手动调整。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Lumis 能更细致地识别 CSS 十六进制颜色等标记，但作者质疑这种过度细化的高亮是否必要。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在 JSX 示例中，Lumis 未能为变量的大括号着色，暴露出其在主题应用或解析上的不足。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为主题差异可以后期调整，但 Lumis 在 JavaScript 代码中的解析错误更令人难以接受。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者还注意到 Lumis 的 GitHub 仓库存在一些提交记录不规范等质量管理问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总的来说，作者认为目前没有足够的理由将 Shiki 替换为 Lumis，但未来仍会保持关注。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112444&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 10 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 是枝裕和新片《蓦然回首》发预告，定档9月11日日本上映。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了电影《蓦然回首》发布正式预告的相关动态。该片由著名导演是枝裕和亲自操刀，担任导演、编剧及剪辑工作，并由出口夏希、莳田彩珠领衔主演，菅田将晖等多位实力派演员加盟。影片已定档9月11日在日本上映，展现了极高的制作规格与受期待程度。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;电影《蓦然回首》本周发布了正式预告片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该片于7月15日公开预告信息，并确定将于9月11日在日本上映。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;影片由是枝裕和执导、编剧并剪辑，汇集了出口夏希、莳田彩珠及菅田将晖等知名演员。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112430&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 watchOS 27 introduces Liquid Glass design, proactive Siri AI, gesture controls, and enhanced health and system performance optimizations.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;watchOS 27 introduces &amp;quot;Liquid Glass&amp;quot; design refinements, featuring enhanced depth textures and a proactive Smart Stack that leverages contextual data for automated, scenario-based widget surfacing. Interaction logic is expanded with a new single-finger pinch gesture for hands-free navigation and a revamped app launcher that integrates Siri-driven app suggestions. A core highlight is the dedicated Siri AI application, which supports natural dialogue, cross-device continuity, and the ability to query personal data across the app ecosystem. System-level optimizations include a unified map-centric tracking architecture, faster app execution speeds, and refined health algorithms for perimenopause and workout tracking.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Liquid Glass Refinement:&lt;/strong&gt; watchOS 27 evolves its design language with improved contrast, depth-enhanced button textures, and increased background blur to enhance interface legibility.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dynamic App Grid:&lt;/strong&gt; A new application launcher integrates Siri suggestions with larger, more accessible icons that prioritize frequently used apps for better small-screen navigation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Contextual Smart Stacks:&lt;/strong&gt; The Smart Stack system is now proactive, automatically surfacing relevant widgets based on time, location, and specific user scenarios like weather changes or calendar events.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Advanced Gesture Interaction:&lt;/strong&gt; A new single-finger pinch gesture allows users to select and open Smart Stack widgets, enabling a more complete hands-free navigation logic.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unified Find My App:&lt;/strong&gt; Apple has consolidated device, contact, and item tracking into a single map-centric application that supports precision finding for compatible hardware.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Siri AI Integration:&lt;/strong&gt; The update introduces a dedicated Siri AI app featuring natural dialogue capabilities, cross-device continuity, and the ability to query personal data across various apps.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Performance and Health:&lt;/strong&gt; System optimizations include faster app loading, improved battery management suggestions, and expanded health features like perimenopause tracking and refined workout algorithms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111128&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;UniGetUI：可能是 Windows 下最好用的应用商店&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 UniGetUI 是集成了多种包管理器的 Windows 软件管理利器。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;UniGetUI 是一款为 Windows 打造的包管理器图形界面工具，聚合了 winget、Scoop、Chocolatey 等多种来源。它不仅支持软件的搜索、安装与卸载，还提供便捷的统一更新管理和软件捆绑包功能。通过导出 PowerShell 脚本，用户可实现新机快速初始化。该工具以其高效的集成管理能力，显著提升了 Windows 平台的软件维护效率与使用体验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍 Windows 软件分发的现状及现有工具的局限性，引出接近完美的管理工具 UniGetUI。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;阐述 UniGetUI 作为多种包管理器 GUI 的本质，支持 winget、Scoop、Chocolaty 等主流来源。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供多种安装 UniGetUI 的途径，包括 Microsoft Store、命令行工具及直接下载安装包。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍软件搜索与安装流程，并强调搜索范围受限于系统已安装的包管理器。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明如何通过统一界面高效地进行软件版本查询、更新管理及任务队列配置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;重点介绍软件捆绑包功能，支持通过 Bundle 或 PowerShell 脚本实现软件批量部署。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结 UniGetUI 在统一更新、集中管理及环境构建等场景下的卓越表现与实用价值。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112414&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：OPPO 宣布调整旗下子品牌的全球产品策略等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 OPPO restructures brands while Moonshot, SpaceXAI, Xiaomi, and NVIDIA debut significant LLM, robotics, and edge AI advancements.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;OPPO has restructured its brand strategy, repositioning OnePlus to focus on the Chinese domestic market while tasking realme with global expansion and the gaming segment. In the LLM space, Moonshot AI launched Kimi K3, a 2.8T parameter model with a 1M token context window optimized for reasoning, alongside SpaceXAI’s open-sourcing of Grok Build, a CLI-based AI agent for autonomous shell execution and programming. The robotics sector also saw major updates with Xiaomi’s release of its Robotics-1 embodied AI base model and NVIDIA’s expansion of the Jetson Thor platform, which brings Blackwell-based GPU architecture to mid-range edge AI and vision applications.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;OPPO Brand Realignment&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;OPPO is pivoting OnePlus to focus on the Chinese market while moving realme to prioritize overseas performance and gaming segments.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Kimi K3 Model Release&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Moonshot AI launched Kimi K3, a flagship model with 2.8 trillion parameters and a 1-million token context window optimized for programming and reasoning.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Grok Build Open Source&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;SpaceXAI has open-sourced Grok Build, a CLI-based AI programming agent that integrates with terminal environments to handle file editing and shell execution.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Xiaomi Robotics-1 Model&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Xiaomi released a new embodied AI base model trained on over 100,000 hours of real-world data to perform complex physical tasks across diverse environments.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;NVIDIA Jetson Thor Expansion&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The Jetson Thor edge computing platform expanded with new T3000 and T2000 modules, bringing Blackwell GPU architecture to mid-range robotics and vision AI.&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;CSS新单位dvh、lvmin、vi、cqb等初解&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Modern CSS units like dvh and cqw optimize responsive design, while AI shifts traditional engineering knowledge-sharing models.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article explores modern CSS units designed to enhance responsive design, specifically focusing on dynamic viewport units (`dvh`, `svh`, `lvh`) that address layout stability issues caused by shifting mobile browser UI chrome. It introduces writing-mode-aware logical units (`vi`, `vb`) and Container Query units (`cqw`, `cqh`), the latter of which facilitate modular component architecture by scaling elements relative to their parent containers. While advocating for these specifications, the author emphasizes the importance of verifying browser support and reflects on how AI-driven development is potentially displacing traditional collaborative knowledge sharing within engineering teams.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dynamic Viewport Height:&lt;/strong&gt; The dvh unit addresses mobile browser UI fluctuations by dynamically calculating the viewport height as toolbars expand or collapse during scrolling.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fixed Viewport Variants:&lt;/strong&gt; svh (Small Viewport Height) and lvh (Large Viewport Height) provide constants for the minimum and maximum possible viewport areas based on browser toolbar visibility.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;CSS Logical Units:&lt;/strong&gt; Units ending in &amp;#039;i&amp;#039; and &amp;#039;b&amp;#039; adapt to the document&amp;#039;s writing mode, allowing layouts to remain consistent when switching between horizontal and vertical text directions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Container Query Units:&lt;/strong&gt; The cq family (e.g., cqw, cqh) enables elements to scale relative to their parent container&amp;#039;s dimensions rather than the global viewport, facilitating modular component design.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Implementation and Compatibility:&lt;/strong&gt; While these units offer modern layout solutions, developers should verify support across major browsers, noting that container query units have slightly more recent implementations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Learning in AI Era:&lt;/strong&gt; The author reflects on how the efficiency of AI-driven development is leading to the decline of traditional team-based learning and manual knowledge-sharing sessions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 虹线 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://1q43.blog/post/12539/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;善用“古法 AI”，能帮你省下很多 Token&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Reduce token costs by offloading reasoning to embeddings and classical algorithms, reserving LLMs for high-level synthesis.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To mitigate the $O(N \times M)$ cost explosion inherent in high-volume LLM processing, developers should move expensive reasoning out of the main execution loop by leveraging efficient &amp;quot;ancient AI&amp;quot; techniques like semantic embeddings and vector math. By using LLMs once to expand topics into &amp;quot;exemplars,&amp;quot; systems can perform thousands of classifications via local dot products at near-zero marginal cost while maintaining high semantic accuracy. For structural tasks like deduplication and clustering, deterministic algorithms such as n-grams and Overlap Coefficients provide superior speed and reliability compared to probabilistic LLM outputs. Ultimately, an optimized architecture utilizes a hybrid approach—combining embeddings with BM25 keyword search—to reserve LLMs strictly for final-stage summarization and high-level synthesis where their reasoning capabilities are indispensable.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;LLM Cost Bottleneck:&lt;/strong&gt; Using LLMs to filter every article against every topic creates a linear cost explosion of O(N×M) that is unsustainable for high-volume information systems.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Semantic Distance Filtering:&lt;/strong&gt; Most classification tasks can be treated as geometric problems using Embeddings to measure semantic distance rather than expensive LLM reasoning.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Vector Caching Efficiency:&lt;/strong&gt; By generating article embeddings once and caching topic &amp;#039;exemplars,&amp;#039; systems can perform thousands of comparisons via local dot products at near-zero marginal cost.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining Standards Sparingly:&lt;/strong&gt; LLMs should be used to expand vague user topics into detailed positive and negative exemplars once, rather than executing the matching process daily.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Traditional String Algorithms:&lt;/strong&gt; Efficient deduplication and clustering are better handled by n-gram and Overlap Coefficient algorithms, which outperform LLMs in speed and determinism for structural matching.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dynamic Interest Clusters:&lt;/strong&gt; Maintaining multiple evolving vector clusters based on user behavior allows systems to track diverse interests and handle temporal decay without a single &amp;#039;average&amp;#039; profile.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hybrid Retrieval Architectures:&lt;/strong&gt; Combining semantic embeddings with BM25 keyword search ensures that specific terms and new entities are captured alongside broader conceptual matches.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optimizing the Loop:&lt;/strong&gt; The most efficient AI architectures move LLMs out of the main high-volume processing loop, reserving them only for final-stage summarization and high-level reasoning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - July 16, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1846,186 +2101,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;E-Ink Visibility Optimization:&lt;/strong&gt; Strategic lighting from ScreenBars enhances the legibility of E-ink monitors, allowing users to accurately judge their suitability for long-form reading and writing tasks.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Home Reading Environments:&lt;/strong&gt; The inclusion of the WiT Floor lamp simulates non-office scenarios like sofa reading, offering adjustable color temperatures to replicate domestic relaxation environments.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Comprehensive Scenario Testing:&lt;/strong&gt; The collaboration creates four distinct zones—office, lighting, E-ink, and home—helping users make informed purchasing decisions based on actual utility and environmental fit.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - July 6, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-07-06</id>
-    <updated>2026-07-06T21:50:11.501Z</updated>
-    <published>2026-07-06T21:50:11.501Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>9 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 6, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;204.93150684931507&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    51.2%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;187&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;178&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;26&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████░░░░░░░░░░░░░░░ 51.2%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;9&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-07-06.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: July  6&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Modern engineering scales production AI through modular architecture and cost-effective models to manage rising token expenses and complexity.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Modern software engineering has transitioned from AI experimentation to production-scale agentic development, where rigorous architectural modularity and clean naming conventions are now essential for optimizing LLM token efficiency. To manage these systems, developers are adopting &amp;quot;harness engineering&amp;quot; and structured workflows—such as ADRs and automated task lists—while cultivating &amp;quot;mechanical sympathy&amp;quot; for model-specific limitations. Economically, the move toward smaller, cost-effective models is accelerating as enterprise LLM expenses balloon toward $100 million annually, making high-quality internal design a vital hedge against rising costs and platform volatility. Despite ethical concerns regarding AI training and the rise of fraudulent copyright takedowns targeting technical journalism, the industry consensus emphasizes active engagement to improve the ecosystem from within.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;From Aspiration to Production:&lt;/strong&gt; The focus of agentic development has shifted from theoretical possibilities to shipping real software in production environments. The industry debate over whether AI changes engineering is largely over, moving instead toward refining implementation patterns.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Architecture and Agent Experience:&lt;/strong&gt; Good software architecture remains vital because AI agents benefit from the same modularity and clear naming conventions that assist human developers. Design quality can now be measured by evaluating the token efficiency of required code changes.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Emerging Agentic Workflows:&lt;/strong&gt; New practices like harness engineering and structured workflows involving ADRs and automated task lists are becoming standard. Developers are encouraged to maintain mechanical sympathy for LLMs to better understand their specific capabilities and limitations.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hedging Against AI Dependency:&lt;/strong&gt; Maintaining high design standards serves as a critical hedge against risks such as rising token costs or restricted model access. Robust internal design ensures software remains maintainable even if AI tools become unavailable or prohibitively expensive.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pragmatic AI Ethics:&lt;/strong&gt; While acknowledging the harms of AI training and inference, the consensus favors active engagement over ethical renunciation. Improving the technology and its implementation from within is seen as more impactful than removing oneself from the system.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Exploiting DMCA Systems:&lt;/strong&gt; Fraudulent copyright claims are being used to erase legitimate technical journalism from search engine results. This highlights a significant vulnerability in how major platforms handle automated takedown requests without sufficient verification.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Escalating Token Costs:&lt;/strong&gt; Large enterprises are facing massive increases in AI operational expenses, leading to a shift toward smaller, more cost-effective models. Internal reports indicate some companies are on track to spend over $100 million annually on LLM tokens.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/07/06/behold-the-perfect-algorithm/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Behold the perfect algorithm!&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Replace manipulative engagement algorithms and state mandates with transparent, chronological SQL feeds based on explicit user follows.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The UK government’s proposed mandate to prioritize &amp;quot;public service news&amp;quot; on platforms like YouTube and TikTok has sparked a debate between state-driven visibility and corporate engagement-driven algorithms. The author critiques both approaches, arguing that modern recommendation engines weaponize engagement metrics and &amp;quot;doomscrolling&amp;quot; at the expense of user mental health. As a technical alternative, the author advocates for a &amp;quot;perfect algorithm&amp;quot; centered on a transparent, chronological SQL query based strictly on a user’s explicit follow list. By returning to deterministic feed curation, the author posits that platforms can eliminate the need for both complex algorithmic manipulation and government-mandated content prioritization.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;UK Government Consultation:&lt;/strong&gt; The UK government is exploring regulations to prioritize public service news and combat misinformation on major platforms like YouTube and TikTok.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Big Tech Resistance:&lt;/strong&gt; YouTube is actively urging creators to oppose these proposed algorithmic changes, which would mandate increased visibility for government-sanctioned news content.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Anti-Establishment Sentiment:&lt;/strong&gt; The author expresses a dual disdain for both government interventionism and the manipulative, engagement-driven practices of large technology corporations.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Minimalist Algorithm:&lt;/strong&gt; The author proposes a simple SQL query as the &amp;#039;perfect&amp;#039; alternative, advocating for a transparent, chronological feed based strictly on user follows.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Engagement vs. Health:&lt;/strong&gt; Modern recommendation engines are criticized for prioritizing engagement metrics and &amp;#039;doomscrolling&amp;#039; at the expense of user well-being and mental health.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;User-Centric Curation:&lt;/strong&gt; The core argument posits that a user&amp;#039;s explicit follow list provides all the necessary data for feed curation, rendering complex algorithmic manipulation unnecessary.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-07-06T07:30Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-07-06T07:30Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 浏览器 Hack 在 Safari 中复现并用于实现动态主题切换。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了浏览器 Hack 在 Safari 中的回潮。作者指出这种在 Internet Explorer 时代常见的手段正因 Safari 的特性而复兴，并分享了利用 @supports、Temporal 和 CSS color-mix 实现动态主题切换的案例。作者强调此类技术具有不确定性，仅建议在能够持续维护的网站上使用，以应对未来浏览器更新带来的潜在破坏。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-07-06T07:21Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-07-06T07:21Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 生成式 AI 取代专业经验，摧毁了作者的职业生涯。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;生成式 AI (Generative AI) 摧毁了作者的职业生涯。在职业后期，其深思熟虑的专业工作被要求替换为低质量的 AI 生成内容（slop）。作者强调，他在长期职业生涯中积累的模式识别能力和工具使用经验是独特且不可替代的，而 Generative AI 的介入使得这种非同质化的人类经验失去了生存空间。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://news.denfaminicogamer.jp/interview/260706c2&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【電ファミニコゲーマー】「誰でも合格できる」はずの試験で、なぜ合格率は1/200だったのか。サイバーコネクトツー「シナリオデザイナー養成所」の舞台裏&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2’s scenario training prioritizes technical discipline and specification adherence over raw creativity, resulting in a 0.5% acceptance rate.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2 established an internal training program to professionalize game scenario design, prioritizing fundamental &amp;quot;professional hygiene&amp;quot;—such as strict adherence to specifications and rigorous research—over raw creative talent. Despite a 0.5% acceptance rate, the selection process filters primarily for baseline discipline, as many applicants fail early rounds by neglecting technical instructions or failing to utilize available resources. The curriculum emphasizes the unique constraints of interactive media, focusing on how narrative must integrate with gameplay loops, state transitions (e.g., battle triggers), and real-time dialogue timing. Ultimately, the studio treats scenario design as a disciplined production workflow, seeking candidates with &amp;quot;untrainable&amp;quot; IP passion while viewing technical writing as a skill that can be standardized through consistent execution.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Scenario Training Initiative:&lt;/strong&gt; CyberConnect2 established an in-house training program to address the lack of clear career paths for game scenario designers in the industry.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fundamental Professionalism Required:&lt;/strong&gt; The initial selection phases prioritize basic professional competencies, such as following specifications and conducting research, over advanced creative talent.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;High Failure Rates:&lt;/strong&gt; Despite low technical barriers, many applicants fail early rounds by neglecting instructions or failing to utilize available resources like the internet.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Prioritizing IP Passion:&lt;/strong&gt; The program seeks individuals with deep love for specific intellectual properties, as technical writing skills are trainable while genuine passion is not.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Game-Specific Scripting Logic:&lt;/strong&gt; Game scenarios require unique considerations compared to traditional media, specifically regarding battle transitions and interactive dialogue timing within gameplay loops.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Evaluation of Collaboration:&lt;/strong&gt; Final selection criteria include communication skills and the ability to align with the team’s production workflow during standard working hours.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Transparency in Requirements:&lt;/strong&gt; CyberConnect2 has publicly released successful applicant assignments to demonstrate that consistent execution of specifications is prioritized over unconventional genius.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202607/80314&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【漫画の裏側を語る！】『チェイサーゲーム』原作コラム 『デバッグルーム』シーズン2 外伝 おばあちゃんの弁当箱編 公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 松山洋通过真实毒舌轶事回顾游戏开发中的严苛磨炼与团队成长。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是《Chaser Game》原作者松山洋的专栏，通过分享“奶奶的便当盒”等真实轶事，回顾了游戏开发过程中严苛的反馈与团队成长。作者坦诚了过去曾使用极具冲击力的言语激励员工，强调这种高压管理建立在深厚信任与对质量的极致追求上。如今，随着核心成员的成长，团队已能独立完成高质量产出。文章最后推荐了作者的新书，旨在为行业新人提供实用的职场攻略。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍外传章节“奶奶的便当盒”的真实背景，分享了因画面过于地味、色调单一而被要求重做的制作轶事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;记录了松山洋社长曾对员工石桥发表的“喝泥水”式毒舌评价，尽管社长本人已忘记，但员工对此记忆犹新。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;回顾过去游戏开发中严苛的沟通方式，解释这种高压环境仅针对抗压性强的成员，且源于对工作的极度投入。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阐述如今开发团队已高度成熟，西川和石桥等骨干能在社长检查前解决所有问题，实现了高效的“一发OK”。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑部评论指出这种严厉的教导建立在深厚的信任基础之上，是公司能产出完美工作成果的基石。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;宣传松山洋社长的新书《游戏行业的攻略法》，为志向进入游戏行业的人才提供职场指导和经验分享。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111999&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple’s AI expansion headlines recent app releases, featuring new developer utilities and significant industry shifts from Safari and Notion.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Apple has significantly expanded its creative and productivity suites with on-device generative AI and deep Pixelmator integration, while the developer landscape sees the arrival of AI-native tools like the Rust-based, GPU-accelerated Otty terminal and Glaze for natural-language macOS app construction. System-level utilities have evolved with BetterCmdTab&amp;#039;s advanced window management and ObtainX’s secure, Material 3-based Android app sourcing, alongside Trayzero’s strict GTD implementation for mobile task management. Finally, notable industry shifts include Safari’s adoption of the Model Context Protocol (MCP) for AI agent interaction and Notion’s announcement to sunset its mail service by late 2026.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apple Creative Ecosystem:&lt;/strong&gt; Apple updated its Creator Studio with deep Pixelmator Pro integration and AI-powered features like automatic captioning and intelligent masking in Final Cut Pro. The update also introduces on-device generative AI for shapes and images across the iWork suite.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Driven App Development:&lt;/strong&gt; Glaze, developed by the Raycast team, enables users to build functional macOS applications using natural language descriptions and AI agents. It streamlines the development process from initial prompting to debugging and publishing in an integrated store.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Centric Terminal Design:&lt;/strong&gt; Otty is a Rust-based, GPU-accelerated terminal from the Typora team designed to handle multiple concurrent AI agents through a specialized sidebar and session management. It features native status tracking for tools like Claude Code and provides a clean, document-inspired interface.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Advanced Window Management:&lt;/strong&gt; BetterCmdTab is a free macOS utility that replaces the native app switcher with customizable grid, list, and preview modes. It includes advanced features like tab-level navigation for browsers, fuzzy search, and three-finger swipe gestures for rapid window switching.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Purist GTD Implementation:&lt;/strong&gt; Trayzero for Android offers a strict implementation of the Getting Things Done (GTD) methodology, emphasizing the &amp;#039;2-minute rule&amp;#039; and structured task processing. The app focuses on offline, local-only task management to minimize cognitive friction during the planning phase.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Enhanced Open-Source Management:&lt;/strong&gt; ObtainX is an improved version of the Obtainium app manager for Android, featuring bulk app importing and enhanced security via package construction verification. It modernizes the user experience with Material 3 design and integration with third-party permission managers.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Emerging Technical Standards:&lt;/strong&gt; Recent industry updates include Safari Technology Preview&amp;#039;s introduction of Model Context Protocol (MCP) for AI agent browser interaction. Additionally, Notion has announced the upcoming retirement of its Notion Mail service in late 2026.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111113&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享 iPhone Air 极简体验引发的核心价值思考。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了作者将 iPhone Air 作为主力机使用三个月后的深度感悟。在行业盲目堆砌硬件的背景下，iPhone Air 凭借极简主义设计脱颖而出。尽管该机型在长焦镜头和续航表现上存在短板，但其独特的产品取舍促使作者重新思考移动设备的本质价值，展现了对极简产品哲学的认可与反思。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在旗舰机普遍堆砌影像系统的时代，Apple 通过 iPhone Air 打造了一种极简且纯粹的产品风格。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管 iPhone Air 在长焦和续航等方面做出了取舍，但这种设计促使作者重新思考真正核心的使用体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以视频形式分享了作为独立自媒体人的深度使用心得，并邀请读者关注其创作内容。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111702&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;自动给文章术语加百科链接，这个方案一分钟搞定&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Automate encyclopedia term linking using `remark/rehype` AST manipulation for optimized, build-time static HTML generation.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This build-time automation solution utilizes `remark` and `rehype` plugins to inject encyclopedia links into technical articles via AST manipulation, ensuring optimal performance by serving pre-processed static HTML. The implementation features sophisticated logic to prevent over-linking and maintain readability, including longest-match prioritization, single-instance linking per term, and the exclusion of code blocks, headers, and existing links. To ensure precision, the system incorporates word boundary checks for English acronyms and supports a hybrid source model of Wikipedia and custom documentation URLs. The workflow is further enhanced by an automated audit script that identifies high-frequency unlinked terms and maintains a centralized glossary index for improved site-wide discoverability.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Improving Reading Experience:&lt;/strong&gt; The author addresses the friction caused by technical jargon by automating term explanations to maintain reader immersion and focus.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Build-Time Automation:&lt;/strong&gt; Choosing a build-time approach over client-side scripts ensures better performance and provides readers with clean, pre-processed static HTML.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Plugin-Based Architecture:&lt;/strong&gt; The system utilizes two specialized plugins, remark-glossary and rehype-glossary, to handle language detection and HTML AST manipulation respectively.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Refined Matching Logic:&lt;/strong&gt; The implementation prioritizes longer terms, ensures each term is linked only once per article, and performs boundary checks for English acronyms to avoid false positives.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Context-Aware Filtering:&lt;/strong&gt; To maintain visual clarity, the script intelligently skips linking inside code blocks, headers, and existing links to avoid nested or redundant tags.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Data Sourcing Strategy:&lt;/strong&gt; Wikipedia serves as the primary stable knowledge base, supplemented by custom URLs for official documentation or niche software when necessary.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Maintenance and Auditing:&lt;/strong&gt; An automated audit script identifies high-frequency unlinked terms in new content, while a dedicated glossary page provides a comprehensive index for readers.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
