@@ -4,8 +4,104 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-07-18T20:48:15.591Z</updated>
+  <updated>2026-07-19T20:45:01.543Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - July 19, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-07-19</id>
+    <updated>2026-07-19T20:45:01.542Z</updated>
+    <published>2026-07-19T20:45:01.542Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>4 articles from 2 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 19, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;219.17808219178082&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    54.8%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;200&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;165&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;28&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████░░░░░░░░░░░░░░ 54.8%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;2&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22665&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;That they may face the rising sun. https://en.wikipedia.org/wiki/Cloghanmore&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 包含日期、地点链接及社交媒体信息的简短元数据说明。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这段文字主要包含2026年7月19日的日期、特定短语“That they may face the rising sun”、指向维基百科Cloghanmore页面的链接、地理坐标以及多个社交媒体平台的引用。其风格类似于博客页脚或社交媒体帖子的元数据，旨在提供背景信息并邀请读者互动反馈。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22664&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Walking from glen to glen.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年7月19日关于山谷漫步的简短社交日志。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇发布于2026年7月19日的简短日志，记录了作者在山谷间漫步的瞬间。文中提供了具体的时间、地理坐标（0° N, 0° E）以及在Mastodon、Bluesky和Instagram等社交媒体上的同步链接，并邀请读者通过URL提供反馈。写作风格极简，类似于社交媒体的状态更新或微型博客。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22663&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Ar ais arís in Oideas Gael.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者于2026年重返 Oideas Gael 的简短社交动态记录。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇简短的个人动态或博客记录，发布于2026年7月19日。作者描述了其再次回到 Oideas Gael 的情景，并提供了精确的地理坐标（北纬55度，西经9度）及发布时间。文中提到了该内容同步更新于 Mastodon、Bluesky 和 Instagram 等社交平台，并邀请读者通过 URL 提交反馈或回复。全文风格简约，侧重于地理位置和社交互动的记录。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112374&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Sony WH-1000XX features a durable structural redesign, dual-processor ANC, and refined neutral-warm audio with 32-hour battery life.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The Sony WH-1000XX marks a structural evolution for the series, replacing traditional rotating joints with an integrated metal headband and 30mm carbon fiber diaphragms for enhanced durability and acoustic precision. The system architecture utilizes dual QN3 and V3 processors to deliver industry-leading ANC and transparency modes, while supporting LDAC/LC3 codecs and dedicated hardware-level 360RA spatial upmixing. Moving away from the series&amp;#039; historically bass-heavy tuning, the 1000XX adopts a neutral-warm signature characterized by refined vocal clarity and improved high-frequency extension. Efficiency is managed through &amp;quot;Scene-based Listening&amp;quot; automation and multi-device connectivity, providing 32 hours of playback with PD fast-charging support.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Anniversary Positioning &amp;amp; Packaging:&lt;/strong&gt; The WH-1000XX celebrates the 10th anniversary of the 1000X series, featuring premium materials and an eco-friendly unboxing experience with a redesigned magnetic-clasp carrying case.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Structural Design &amp;amp; Ergonomics:&lt;/strong&gt; An integrated metal headband and faux-lambskin earcups replace older rotating joints, significantly improving long-term wearing comfort and structural durability.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Interaction &amp;amp; Smart Features:&lt;/strong&gt; The device integrates physical buttons with touch panels and introduces &amp;#039;Scene-based Listening&amp;#039; for automated playback tailored to specific user activities and environments.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;ANC &amp;amp; Ambient Performance:&lt;/strong&gt; Powered by QN3 and V3 chips, the system delivers industry-leading noise cancellation with enhanced air pressure balancing and a highly natural transparency mode.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Connectivity &amp;amp; Power Management:&lt;/strong&gt; Supporting LDAC and LC3 codecs, the headphones provide stable multi-device connectivity and up to 32 hours of battery life with PD fast-charging support.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Spatial Audio Integration:&lt;/strong&gt; A dedicated hardware button facilitates the new 360RA Upmix feature, which renders standard stereo sources into immersive spatial environments for music and cinema.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Acoustic Hardware &amp;amp; Driver:&lt;/strong&gt; A 30mm carbon fiber diaphragm with a flexible edge provides a high-resolution foundation that excels in both wireless and active-wired listening modes.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Sound Signature Analysis:&lt;/strong&gt; Moving away from traditional bass-heavy tuning, the 1000XX offers a balanced, neutral-warm signature with refined vocal clarity and improved high-frequency extension.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - July 18, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1972,250 +2068,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Simplified DOM Animations:&lt;/strong&gt; By wrapping DOM updates in a startViewTransition callback, elements transition smoothly between states without the need for manual CSS animation definitions.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Styling Transition Effects:&lt;/strong&gt; Element-level transitions can be further customized using view-transition pseudo-elements to control animation duration, easing, and specific transition types.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Compatibility and Adoption:&lt;/strong&gt; While these APIs offer significant utility for modern web development, they are currently limited to Chromium-based browsers and not yet production-ready.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - July 8, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-07-08</id>
-    <updated>2026-07-08T21:52:22.645Z</updated>
-    <published>2026-07-08T21:52:22.645Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>13 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 8, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;207.12328767123287&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    51.8%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;189&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;176&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;27&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████░░░░░░░░░░░░░░ 51.8%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;13&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://infrequently.org/2026/07/abject-praise/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Abject Praise - Infrequently Noted&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple intentionally handicaps Safari’s standards compliance to prioritize App Store dominance over web platform parity.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article critiques Apple’s Safari development, arguing that Web Platform Test (WPT) data reveals a release cycle that lags significantly behind Chromium and Firefox in both velocity and standards compliance. This stagnation results in WebKit maintaining the highest volume of unique test failures, which increases development costs and serves as the primary bottleneck for cross-browser feature parity. Ultimately, the author contends that this technical debt is a strategic choice to funnel developers toward the App Store, noting that WebKit&amp;#039;s performance trails even Mozilla’s despite Apple’s vastly superior financial resources.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Marketing vs. Release Cadence:&lt;/strong&gt; The author argues that Apple&amp;#039;s marketing for Safari 27 obscures an achingly slow release cycle that primarily delivers fixes for issues competitors solved long ago.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Stagnating Improvement Rates:&lt;/strong&gt; Time-weighted Web Platform Test (WPT) data reveals that Safari&amp;#039;s rate of progress lags behind both Firefox and Chromium, despite Apple&amp;#039;s claims of renewed focus.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unique Engine Incompatibilities:&lt;/strong&gt; WebKit consistently exhibits significantly more unique test failures than its competitors, acting as a primary source of cross-browser incompatibility and increased development costs.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Feature Availability Blockers:&lt;/strong&gt; Analysis shows WebKit is the leading reason modern web features remain unavailable to users, effectively pushing developers toward the App Store where Apple maintains financial control.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Resource Allocation Disparity:&lt;/strong&gt; Despite Apple generating over $20 billion annually from search deals, WebKit&amp;#039;s performance and conformance often trail behind Mozilla, which operates on a fraction of the budget.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Core Specification Lag:&lt;/strong&gt; Safari continues to trail in fundamental web standards such as HTML, CSS, and networking specifications, indicating a lack of deep architectural investment compared to Blink and Gecko.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22645&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Speak at UX London 2027&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 UX London 2027启动讲师招募，聚焦设计实务与多元背景。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;UX London 2027正式启动讲师招募，活动定于2027年7月举行。组织者诚邀各界专业人士针对探索、设计及交付三大主题提交提案。文章强调了对讲者多元背景的重视及付费原则，并明确建议提案应聚焦于使用工具达成的成就，而非单纯讨论AI或Figma等工具本身。申请截止日期为12月，鼓励有意者尽早提交。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;UX London 2027将于2027年7月6日至8日举行，目前已开启超值早鸟票发售并开始筹备演讲阵容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;活动邀请演讲者提交关于探索、设计或交付主题的提案，形式包括30分钟演讲或2.5小时工作坊。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;组织者承诺为演讲付费，并特别鼓励来自不同背景、拥有多元化经验的讲者参与，以提升包容性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提案应侧重于成果而非特定工具（如AI或Figma），提交截止日期为12月，建议尽早提交。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.joshtumath.uk/posts/2026-07-02-lets-fix-the-webs-text-size/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Talk: Let’s fix the web’s text size - Josh Tumath&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 New `text-scale` meta tags and CSS variables align web font sizes with user-defined OS accessibility preferences.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Despite standard adherence to relative units, mobile WebViews and browsers often ignore OS-level text size preferences, creating significant accessibility gaps for the 37% of users who customize their system settings. To resolve this, a new `&amp;lt;meta name=&amp;quot;text-scale&amp;quot; content=&amp;quot;scale&amp;quot;&amp;gt;` tag and `env(preferred-text-scale)` variable have been introduced as a standardized opt-in mechanism to access the user&amp;#039;s preferred scaling factor. This approach adjusts the browser’s base unit calculation, ensuring that `rem`/`em` units and media query breakpoints scale proportionally without breaking legacy layouts or requiring manual CSS rewrites. Currently supported in mobile Chromium with Windows support forthcoming, this mechanism finally aligns web content with system-level accessibility requirements by bridging the gap between root CSS declarations and browser initial font sizes.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Text Scaling Challenges:&lt;/strong&gt; Despite following WCAG guidelines and using relative units, web content in mobile WebViews often fails to respect OS-level text size preferences. This creates significant accessibility barriers for the approximately 37% of users who adjust their system font settings.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Browser Implementation Discrepancies:&lt;/strong&gt; Current mobile and desktop browsers handle OS text scaling inconsistently, often resorting to full-page zoom or ignoring settings entirely. This lack of standardization means that even &amp;#039;best practice&amp;#039; responsive designs frequently fail to scale text correctly.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Proposed CSS Solutions:&lt;/strong&gt; To address scaling issues without breaking legacy layouts, developers proposed the `env(preferred-text-scale)` variable and a new `text-scale` meta tag. These tools allow for a controlled opt-in mechanism that provides developers with the user&amp;#039;s preferred scaling factor.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Global Meta Tag Opt-in:&lt;/strong&gt; The `&amp;lt;meta name=&amp;quot;text-scale&amp;quot; content=&amp;quot;scale&amp;quot;&amp;gt;` tag allows developers to globally scale the default font size. When enabled, existing font-relative units like rem and em automatically adjust to the user&amp;#039;s preference without requiring code rewrites.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Media Query Behavior:&lt;/strong&gt; Because media queries rely on the browser&amp;#039;s initial font size rather than root CSS declarations, the meta tag approach is essential. It ensures that layout breakpoints respond correctly to text scaling by altering the browser&amp;#039;s base unit calculation.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Support and Testing:&lt;/strong&gt; The feature is currently supported in mobile Chromium browsers, with Windows support in development. Developers can simulate and test these behaviors by using &amp;#039;zoom text only&amp;#039; modes or adjusting default font settings in desktop browsers.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22643&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Gaeilge sa Ghréig&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者在希腊度假期间与多位爱尔兰音乐家用母语交流的奇妙经历。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记述了作者在希腊 Paxos 岛参加 Irish Wings 音乐节的温馨经历。作者在异国他乡偶遇了 Liam Ó Maonlaí 等多位知名爱尔兰音乐家，并惊喜地发现能用爱尔兰语（Gaeilge）与他们顺畅交流。文章通过轻松感性的叙述，展现了在希腊海边将度假休闲与母语文化联系在一起的独特喜悦，体现了作者对爱尔兰传统音乐与语言的深厚情感。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在希腊帕克索斯岛的洛戈斯湾偶遇音乐家 Liam Ó Maonlaí，并惊讶地发现能用爱尔兰语与其交流。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;此次旅行的目的是参加 Irish Wings 音乐节，在享受希腊海岛悠闲生活的同时欣赏爱尔兰与希腊音乐家的演出。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者与 Liam 及其伴侣愉快交谈，并提到自己非常喜爱 Liam 的音乐节目 Cuan an Cheoil 及其实况演出。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在岛上作者还遇到了 Muireann Nic Amhlaoibh 和 Dónal O’Connor 等音乐家，并再次通过爱尔兰语建立了亲切的联系。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者感慨能与来自爱尔兰不同地区的优秀音乐家进行母语交流是一次奇妙的体验，最后还提到了遇见 Neil Finn 的趣事。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Experiences with local models for coding&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Local LLMs on Apple Silicon struggle with memory constraints and stability during complex, multi-step agentic coding workflows.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author evaluates the viability of running local LLMs on high-end Apple Silicon for autonomous coding, moving beyond simple autocomplete to assess tool-calling reliability and long-term context stability. Testing variants of Qwen and Gemma models revealed that while high-parameter versions (e.g., Qwen 80B) are capable, they often exceed the stability thresholds of 64GB RAM configurations and struggle with complex, cumulative reasoning tasks. Furthermore, extended agentic workflows frequently suffer from state-maintenance failures and &amp;quot;text walls,&amp;quot; highlighting a significant gap between current local model performance and the requirements for reliable, multi-step engineering integration.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Local Agentic Coding Scope:&lt;/strong&gt; The author evaluates the feasibility of running small language models locally on high-end Apple Silicon for autonomous coding tasks beyond simple autocomplete.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Viability Funnel:&lt;/strong&gt; A structured evaluation framework is used to filter models based on hardware constraints, inference speed, tool-calling reliability, and long-term context stability.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Multi-Phase Evaluation Methodology:&lt;/strong&gt; The testing process evolved from manual UX assessments to automated &amp;#039;vibe coding&amp;#039; evaluations and finally into practical day-to-day workflow integration.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Model Comparison and Hardware:&lt;/strong&gt; Testing various Qwen and Gemma models revealed that while high-parameter models like Qwen 80B are capable, they often exceed the stability limits of 64GB RAM setups.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Logic and Reasoning Limits:&lt;/strong&gt; Local models frequently struggle with complex reasoning tasks, such as cumulative calculations in UI components, even when they successfully handle basic file modifications.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Context and Tool Challenges:&lt;/strong&gt; Extended conversations often lead to stability issues or &amp;#039;text walls,&amp;#039; highlighting the difficulty small models face in maintaining state during complex agentic workflows.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A bug which only affected left-handed users&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WordPress removed legacy code causing left-handed mobile users to accidentally trigger reply links while scrolling.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article details a long-standing WordPress core bug where left-handed users inadvertently triggered &amp;quot;reply&amp;quot; links while scrolling due to a `touchstart` event listener positioned on the left side of the screen. This listener was originally implemented in 2017 to bypass the now-obsolete 300ms mobile click delay, but it remained in the codebase long after modern browsers had natively resolved the latency issue. The author addressed this technical debt by submitting a patch to WordPress core that removes the redundant event listener, restoring standard scrolling behavior and reducing unnecessary JavaScript overhead.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Minimalist WordPress Optimization:&lt;/strong&gt; The author prioritizes performance by reducing JavaScript usage in their WordPress installation to the bare minimum while maintaining core functionality.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Left-Handed Scrolling Bug:&lt;/strong&gt; A user reported that scrolling with their left thumb inadvertently triggers &amp;quot;reply&amp;quot; links positioned on the left side of the page.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Seven-Year Bug History:&lt;/strong&gt; Despite being reported seven years ago, the WordPress core team had not addressed this specific interaction issue until recently.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Outdated Touch Listeners:&lt;/strong&gt; The bug stems from a `touchstart` listener on links, a technique historically used to bypass the obsolete 300ms mobile click delay.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Redundant Code Implementation:&lt;/strong&gt; The problematic code was added in 2017, long after modern browsers had already solved the click-delay issue natively.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Core Code Fix:&lt;/strong&gt; The author resolved the issue by submitting a fix to WordPress core that removes the redundant and intrusive event listener lines.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/07/08/select-your-starter-class/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Select your starter class&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Critiquing AI &amp;quot;slopageddon,&amp;quot; this article defines three cynical archetypes to champion human craftsmanship over dehumanizing automated content.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article presents a scathing critique of the current generative AI landscape, characterizing the proliferation of low-quality automated content as a &amp;quot;slopageddon&amp;quot; that threatens professional standards and individual autonomy. The author categorizes AI engagement into three cynical archetypes: the &amp;quot;Conscripted&amp;quot; who are forced into adoption by mandates, the &amp;quot;Resigned&amp;quot; who passively accept deskilling as an inevitability, and the &amp;quot;Grifter&amp;quot; who predatorily exploits the technology for power. Ultimately, the piece serves as a call to recognize the dehumanizing effects of current industry trends, while using its own high-effort technical design as a deliberate counter-manifesto against the low-quality output typical of AI.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Industry Critique:&lt;/strong&gt; The author expresses deep frustration with the current state of AI development, labeling it a &amp;quot;slopageddon&amp;quot; that threatens professional careers and industry standards.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Creative and Technical Context:&lt;/strong&gt; The post highlights the technical effort behind the page&amp;#039;s design and provides attribution for the specific visual assets used to depict the AI personas.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Victim Archetype:&lt;/strong&gt; This persona represents users who are forced to use AI through workplace mandates and social pressure without ever providing personal consent.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Zombie Archetype:&lt;/strong&gt; Characterized by a belief in technological inevitability, this user surrenders their autonomy and critical thinking to Big Tech&amp;#039;s narrative while ignoring self-inflicted deskilling.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Grifter Archetype:&lt;/strong&gt; This predatory persona aggressively promotes AI for profit and power, actively gaslighting others while disregarding the dehumanizing effects of the technology.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-07-08T10:57Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-07-08T10:57Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 开发者尝试 Astro 静态网站生成器的初步体验与挑战。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了从传统 WordPress 和 HTML 开发转向使用 Astro 静态网站生成器的初体验。文章记录了选择 Astro 的决策过程，以及在配置 Zed 编辑器和处理模板文件时遇到的技术挑战。尽管对初期配置和预设文件有所微词，作者最终认可了 Astro 的设计与文档质量，同时也做好了在必要时切换工具或回归原始开发方式的准备。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者决定为一个特定项目尝试静态网站生成器，在社交媒体的建议下最终选择了 Astro 而非 11ty。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在使用 Astro 过程中，作者遇到了编辑器配置问题，Zed 编辑器将 HTML 元素误认为 JSX 并产生类型报错。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对 Astro 的“空模板”选项中包含 CLAUDE.md 文件感到非常不满。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管初体验有波折，作者认为 Astro 设计良好且文档齐全，但仍保留了未来转向 11ty 或回归原生 HTML 的可能性。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://game.kimetsu.com/hinokami2/news/?id=70744&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『鬼滅の刃 ヒノカミ血風譚2』バトルバランス調整について（Ver1.81）&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《鬼灭之刃 火之神血风谭2》发布Ver.1.81战斗平衡更新。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是《鬼灭之刃 火之神血风谭2》Ver.1.81版本的官方更新公告。文章采用简洁直观的说明文风格，介绍了2026年7月8日上线的补丁要点，重点涵盖战斗平衡优化、系统稳定性提升及文本显示调整。通过针对性的角色平衡调整，官方旨在为玩家提供更加公平且流畅的游戏体验。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;官方宣布在2026年7月8日发布《鬼灭之刃 火之神血风谭2》Ver.1.81版本更新，并感谢玩家的支持。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本次补丁的核心内容包括战斗平衡性调整、提升游戏运行稳定性以及对文本显示进行优化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;公告提供了各角色的具体调整细节，并建议玩家在应用最新补丁后继续享受游戏对战。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://manga.line.me/product/periodic?id=S133094&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;しごにんの侍 第五十一話「やまい唄」公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Chapter 51 of *Shigonin no Samurai* is released, continuing its samurai allegory for software project management and team dynamics.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This announcement marks the release of the fifty-first chapter of the manga series *Shigonin no Samurai*, titled &amp;quot;Yamai Uta&amp;quot; (Song of Sickness). The series is widely recognized in the Japanese tech community for its allegorical exploration of team dynamics and organizational challenges, framed within a historical samurai setting. This latest installment continues the narrative progression, offering further insights into the group&amp;#039;s internal and external conflicts. For senior developers and managers who follow the series for its unique parallels to software project management, the chapter is now available on its primary distribution platform.&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111923&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;乌兰布统，草原观星&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Technical assessment of Keshiketeng Qi’s astrophotography conditions and infrastructure for a future long-distance cycling reconnaissance mission.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This travelogue details a four-day expedition to Keshiketeng Qi, focusing on the technical execution of Milky Way photography and the critical impact of environmental factors like light pollution and lunar cycles on stargazing. The author provides a comparative analysis of regional infrastructure, favoring the high-value experience of private pastures and scenic routes like the Dada and Re&amp;#039;a Lines over underdeveloped or overpriced official tourist zones. Practical observations include the trade-offs of modern yurt accommodations—specifically poor thermal and acoustic insulation—and the volatile weather patterns encountered during geomorphological exploration at Daqingshan. Ultimately, the journey serves as a reconnaissance mission, gathering logistical data on road conditions and hot spring locations for a future long-distance cycling project along the Grassland Sky Road.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Trip Motivation and Team:&lt;/strong&gt; The author embarked on a four-day journey to the Keshiketeng Qi grasslands with friends and a border collie to escape urban life before the summer peak.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Initial Astrophotography Success:&lt;/strong&gt; During a stopover at North Eight Road River Village, the author captured the Milky Way for the first time, noting the importance of low light pollution and long exposure settings.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ulan Butong Scenic Highlights:&lt;/strong&gt; The group explored Ulan Butong, visiting the sunset at General&amp;#039;s Pond and observing that private pastures often offer better value than official high-priced scenic areas.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Yurt Accommodation Realities:&lt;/strong&gt; While modern yurts provide clean amenities, they suffer from poor insulation and noise, and the author learned that bright moonlight is as significant a hindrance to stargazing as artificial light.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dada Line Driving Experience:&lt;/strong&gt; The Dada Line provided an authentic grassland driving experience with vast horizons and livestock interactions, contrasting with the underdeveloped infrastructure of Dali Lake.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Re&amp;#039;a Line and Forest Exploration:&lt;/strong&gt; The Re&amp;#039;a Line offered landscapes reminiscent of Northern Xinjiang, leading the team through the abandoned Huanggangliang park to scenic viewpoints overlooking deep valleys.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Daqingshan Trekking and Weather:&lt;/strong&gt; A steep hike at Daqingshan showcased unique granite geomorphology and the &amp;#039;Great Rift,&amp;#039; though the excursion was cut short by a sudden, intense local thunderstorm.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Thermal Springs and Conclusion:&lt;/strong&gt; The journey concluded with hot spring stays at Reshuitang and Rehegu, providing data points for the author&amp;#039;s future plans to cycle the Grassland Sky Road.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112044&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;我的出行好伙伴，用 iPhone 一站式解决旅途痛点&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Leverage the integrated iOS ecosystem to streamline travel planning, digital logistics, real-time navigation, and high-fidelity media capture.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article details how to leverage the integrated iOS ecosystem to streamline travel logistics, utilizing **Freeform** and **Apple Maps** for collaborative planning and offline spatial navigation. It highlights the use of **Apple Wallet** for digital credential management and the application of native NLP and conversion tools in the **Translate** and **Calculator** apps to handle real-time linguistic and financial data. Furthermore, the piece emphasizes optimizing the user experience through context-aware **Focus modes**, **Live Activities**, and high-fidelity media capture using advanced camera hardware and stabilization.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pre-trip Collaborative Planning:&lt;/strong&gt; Utilize Freeform for visual brainstorming and shared itineraries, while leveraging Apple Maps&amp;#039; Guides and offline features for navigation management.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Digital Credential Management:&lt;/strong&gt; Streamline logistics using Apple Wallet for contactless payments, transit passes, and digital tickets, including support for custom user-added credentials in newer iOS versions.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Communication and Conversion:&lt;/strong&gt; Overcome language barriers with real-time, offline translation and handle foreign logistics using the Calculator&amp;#039;s built-in currency and unit conversion tools.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;High-Fidelity Media Capture:&lt;/strong&gt; Leverage advanced camera hardware like 8x optical zoom and 4K 120fps video to record professional-grade travel memories with enhanced stabilization.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Personalized Travel Dashboard:&lt;/strong&gt; Optimize the Lock Screen with travel-specific widgets and use Focus modes to minimize distractions while maintaining essential connectivity.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Activity and Sports Tracking:&lt;/strong&gt; Track physical activity during trips via Apple Watch and monitor live global sporting events through dedicated apps and Live Activities.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/110993&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;好的桌面需要设备，更需要灯光：明基×少数派线下店体验空间升级&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 BenQ and sspai’s upgraded space features functional, light-optimized workstations for professional workflow simulation and ergonomic hardware evaluation.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The BenQ × sspai offline experience space has transitioned from static product displays to integrated, functional workstations designed to simulate real-world professional and domestic environments. Central to this upgrade are BenQ’s MA series monitors, which provide Mac-consistent color profiles and single-cable USB-C integration, alongside specialized E-ink zones optimized for long-form reading. Advanced lighting solutions, including the ScreenBar Halo series and WiT floor lamps, are strategically deployed to provide localized, ergonomic illumination and adjustable color temperatures that reduce eye strain during intensive tasks. By categorizing the space into four distinct zones—office, lighting, E-ink, and home—the collaboration enables developers and creators to rigorously evaluate hardware performance and environmental fit through actual professional workflows.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Contextual Offline Experience:&lt;/strong&gt; The sspai store moves beyond simple product displays by recreating realistic workstations where peripherals and monitors function together as a unified system.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mac-Optimized Display Solutions:&lt;/strong&gt; BenQ’s MA series monitors feature Mac-consistent color profiles and single-cable USB-C connectivity to provide a seamless visual extension for MacBook users.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Real-World Workflow Simulation:&lt;/strong&gt; The upgraded space allows users to perform actual professional tasks, such as document editing and image processing, to evaluate hardware performance in daily use.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Intelligent Desk Lighting:&lt;/strong&gt; ScreenBar Halo 2 and Pro models provide localized illumination and ambient backlighting to reduce eye strain and optimize workspace ergonomics without occupying desk space.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;E-Ink Visibility Optimization:&lt;/strong&gt; Strategic lighting from ScreenBars enhances the legibility of E-ink monitors, allowing users to accurately judge their suitability for long-form reading and writing tasks.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Home Reading Environments:&lt;/strong&gt; The inclusion of the WiT Floor lamp simulates non-office scenarios like sofa reading, offering adjustable color temperatures to replicate domestic relaxation environments.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Comprehensive Scenario Testing:&lt;/strong&gt; The collaboration creates four distinct zones—office, lighting, E-ink, and home—helping users make informed purchasing decisions based on actual utility and environmental fit.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
