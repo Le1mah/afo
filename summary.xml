@@ -4,8 +4,202 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-07-21T21:43:39.393Z</updated>
+  <updated>2026-07-22T21:28:43.157Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - July 22, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-07-22</id>
+    <updated>2026-07-22T21:28:43.157Z</updated>
+    <published>2026-07-22T21:28:43.157Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>9 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 22, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;222.46575342465755&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    55.6%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;203&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;162&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;29&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████░░░░░░░░░░░░░ 55.6%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;9&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/505&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 505: Turso does it again&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Turso’s unified database architecture headlines recent advancements in AI agents, developer tooling, and core engineering rigor.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Turso is pioneering a decoupled database architecture by leveraging Rust to abstract SQL dialects from storage, utilizing an extended VDBE bytecode engine to support both SQLite and Postgres on a unified backend. The developer ecosystem is seeing significant performance and utility gains through OXC’s new type-aware TypeScript linting, Sentry’s cost-optimized logging strategies, and SerpApi’s unified interface for structured search data. The AI landscape continues to shift with the release of Google’s Gemini Flash and Poolside’s Laguna 2.1, alongside a growing industry focus on deterministic agent cores and the evolving unit economics of agent swarms. Technical discussions also emphasize fundamental implementation rigor, highlighting common logic errors in basic data structures like incorrect stack-peek indexing.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Turso&amp;#039;s Postgres Rewrite:&lt;/strong&gt; Turso is leveraging its experience rewriting SQLite in Rust to develop a Postgres implementation that decouples the SQL dialect from the underlying database backend.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Database Architecture Evolution:&lt;/strong&gt; The implementation uses a common AST and an extended VDBE bytecode engine to allow a single storage engine to support multiple SQL dialects and indexing strategies.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unified Search APIs:&lt;/strong&gt; SerpApi offers a streamlined interface to access live, structured data from over 100 search engines via a single API, replacing manual scraping with JSON outputs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Advanced Tooling Updates:&lt;/strong&gt; Recent ecosystem improvements include OXC&amp;#039;s new type-aware linting for TypeScript and Sentry&amp;#039;s specialized strategies for cost-effective production logging.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Model Releases:&lt;/strong&gt; The industry saw new releases from Google with Gemini Flash variants and Poolside&amp;#039;s Laguna 2.1, which aims to strengthen the American open-source AI landscape.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Agentic System Design:&lt;/strong&gt; Developers are exploring the benefits of deterministic cores for AI agents and analyzing the shifting economics of agent swarms compared to traditional software costs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Debugging Data Structures:&lt;/strong&gt; A common logic error in a Stack implementation was identified where the peek method incorrectly returned the first array element instead of the most recently added item.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-7-21/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.7.21&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录周末跑山、拍摄视频及拍证件照的日常感悟。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者记录了周末与朋友跑山、在 Redwood City 拍摄创意短视频并进行剪辑的经历。随后其前往 Infinite Loop 拍摄签证照片，感叹拍摄设备从专业 DSLR 降级为手机，并对照片中呈现的发际线后移发出人生感慨。全文文风随性自然，通过生活化的琐事记录，流露出对技术变迁与时光流逝的细微观察。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Scattered thoughts on social geolocation&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 探讨去中心化社交协议中基于 GeoJSON 的开放地理位置共享方案。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了在 ActivityPub 和 AT Protocol 等去中心化协议中引入地理位置共享的必要性。作者指出当前方案缺乏用户研究，并反对使用易产生歧义的文本微语法。作者主张采用 WGS 84 经纬度标准与 GeoJSON 格式，以确保地理数据的开放性、互操作性与灵活性。文章强调在开发功能的同时需兼顾隐私保护，并呼吁开发者尽早集成地理元数据以推动标准完善。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者希望在 ActivityPub 和 AT Protocol 等协议中实现地理位置共享，并强调该功能应是可选的以保护隐私。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;地理位置共享能让用户展示个人动态，并帮助他人发现周边发生的演出、紧急情况或热门趋势。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;当前提议缺乏用户研究，尚未明确用户在使用地理标签时的具体需求，如搜索范围或获取警报。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者反对在正文中使用微语法或内联文本，认为这种方式容易导致格式不统一且地名存在歧义。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论了依赖封闭或中心化位置 ID 的风险，强调地理位置识别应基于完全开放且不受限的标准。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提议采用 WGS 84 经纬度标准，因其具备全球通用性、高精度且不会被任何机构撤销访问权限。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;建议使用 GeoJSON 作为地理信息标记方式，因为它与现有 JSON 协议契合且能灵活处理位置元数据。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;GeoJSON 可以在包含坐标的同时添加位置名称，方便在社交媒体客户端中进行展示。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过 Leicester Square 的示例展示了 GeoJSON 如何描述复杂区域并整合来自不同平台的 ID 信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;未来工作应侧重于用户研究、隐私保护探讨，并鼓励开发者在客户端中先行尝试添加地理元数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Things That Caught My Attention &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://newsletter.danhon.com/archive/s21e12-for-all-humanity-gordon-moore-folds-your/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;s21e12: For All Humanity?; Gordon Moore Folds Your Clothes&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI success requires human influence, as physical, legal, and economic realities challenge the myth of infinite computational scaling.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article argues that interpersonal influence is as critical to technical impact as engineering rigor, while simultaneously highlighting the legal paradoxes of LLM weights that threaten current industry valuations. It critiques the &amp;quot;Moore’s Law&amp;quot; fallacy in robotics, noting that while high-level logic is largely solved, the Moravec-style complexity of physical tasks like laundry folding remains a significant bottleneck for machine learning. Finally, the author rejects corporate &amp;quot;free tiers&amp;quot; in favor of taxing AI companies to fund societal redistribution, concluding that technological progress in the physical world is constrained by economic and material realities rather than pure computational scaling.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Professional Soft Skills:&lt;/strong&gt; The author emphasizes the necessity of interpersonal skills for technical roles, highlighting a workshop designed to navigate workplace relationships, influence, and communication.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;LLM Copyright Dilemma:&lt;/strong&gt; This section examines the legal paradox where LLM weights are either non-copyrightable or the result of mass infringement, challenging the current valuation of frontier model trainers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Taxing AI Benefits:&lt;/strong&gt; Rather than accepting free tiers as a societal good, the author proposes taxing AI companies to redistribute wealth through established political systems.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Robotic Physical Tasks:&lt;/strong&gt; The analysis of Xiaomi’s robot demo explores the transition of machine learning into physical manipulation, specifically focusing on the complexities of autonomous laundry folding.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Moore&amp;#039;s Law Extrapolation:&lt;/strong&gt; The text critiques the &amp;#039;Moore’s Law of Folding Laundry,&amp;#039; warning against the juvenile optimism that over-extrapolates laboratory successes into inevitable societal transformations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Navigating Moravec’s Paradox:&lt;/strong&gt; The discussion contrasts the ease of high-level computational tasks like chess with the profound difficulty of &amp;#039;easy&amp;#039; physical interactions and basic perceptual logic.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Jagged Tech Realities:&lt;/strong&gt; The author concludes with a tempered view of the future, noting that technological progress in robotics remains uneven, expensive, and constrained by economic factors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://manga.line.me/product/periodic?id=S133094&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;しごにんの侍 第五十二話「余命唄」公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Episode 52 explores the technical debt and strategic trade-offs involved in managing terminal legacy systems during software end-of-life.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Episode 52 of the engineering-focused manga series *Shigonin no Samurai*, titled &amp;quot;Yomei Uta&amp;quot; (Life Expectancy Song), provides a stark examination of the terminal stages of legacy system maintenance and the mounting pressure of technical debt. The narrative centers on the high-stakes decision-making process senior engineers face when a mission-critical project reaches its operational end-of-life, highlighting the friction between business-driven feature demands and systemic instability. For senior developers, the episode serves as a relatable case study on the &amp;quot;death march&amp;quot; phase of software, emphasizing the strategic trade-offs required to balance immediate service availability against the necessity of a total architectural rewrite. The story ultimately underscores the human and organizational costs of delaying modernization, offering a cautionary tale on long-term project sustainability.&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112545&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Parti：一个零门槛联机游戏平台，凭什么不需要服务器？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Parti leverages P2P WebRTC and AI to enable serverless, browser-based multiplayer game creation without centralized infrastructure.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Parti is a serverless, browser-based multiplayer platform that leverages WebRTC and PeerJS to facilitate peer-to-peer game state synchronization, effectively eliminating the need for centralized backend infrastructure. The architecture utilizes a host-authoritative model where game logic is offloaded to the host’s device via Web Workers, while Service Workers and Canvas handle asset management and high-performance rendering. Developed using AI-assisted &amp;quot;Vibe Coding,&amp;quot; the platform provides a modular framework and a simplified manifest-based scripting structure for rapid prototyping and custom game creation. While innovative, the P2P approach faces inherent technical trade-offs such as NAT traversal complexities and limited anti-cheat mechanisms, making it best suited for casual, social gaming environments.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Problem and Vision:&lt;/strong&gt; Parti addresses the high entry barriers of traditional multiplayer games, such as mandatory updates and server costs, by offering a zero-threshold, browser-based gaming experience.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Serverless P2P Architecture:&lt;/strong&gt; The platform utilizes WebRTC and PeerJS to establish peer-to-peer connections, effectively eliminating the need for centralized backend servers for game state synchronization.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Driven Development:&lt;/strong&gt; The project was built using &amp;#039;Vibe Coding&amp;#039; with AI models like Codex to handle complex networking protocols and maintain a modular architecture across the protocol, UI, and game layers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Host-Side Authority:&lt;/strong&gt; Authoritative game logic is offloaded to the host&amp;#039;s device via Web Workers, which manage the state and process data for all connected peers in the room.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Extensible Game Ecosystem:&lt;/strong&gt; Developers can create custom games using a simple manifest and script structure, supported by a marketplace protocol and AI-assisted documentation for rapid prototyping.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Web Technology Integration:&lt;/strong&gt; Parti maximizes modern browser capabilities by combining Service Workers for asset loading, Canvas for rendering, and device sensors for interactive gameplay.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Constraints:&lt;/strong&gt; The platform faces inherent WebRTC challenges like NAT traversal and lacks competitive anti-cheat, making it best suited for casual social gaming among trusted groups.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111550&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;滤镜背后的色彩科学：LUT 是什么？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 LUTs utilize pre-calculated mapping tables to optimize color grading speed and precision across diverse imaging standards.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;A Look-Up Table (LUT) is a computational optimization that replaces expensive per-pixel transformations with pre-calculated mapping tables, prioritizing processing speed over storage. While 1D LUTs are limited to channel-independent adjustments like gamma and white balance, 3D LUTs model RGB interdependencies to enable complex, high-precision color grading. To manage the $O(n^3)$ memory overhead of 3D LUTs, industry standards utilize sparse sampling grids (e.g., 33x33x33) combined with tetrahedral interpolation to minimize artifacts and maintain performance. Effective post-production workflows require standardizing input data into linear spaces before applying these LUTs to ensure consistency across disparate standards like Raw, Log, and Rec.709.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Color Science Context:&lt;/strong&gt; Modern photography relies on distinct brand color profiles, often implemented through digital filters that mimic specific camera aesthetics like the &amp;#039;Hasselblad look&amp;#039;.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;LUT Core Concept:&lt;/strong&gt; A Look-Up Table (LUT) is a computational optimization that replaces complex color transformations with pre-calculated mapping tables to prioritize processing speed over storage.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;1D LUT Limitations:&lt;/strong&gt; 1D LUTs map individual color channels independently, making them efficient for basic gamma and white balance adjustments but incapable of complex, interdependent color grading.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;3D LUT Capabilities:&lt;/strong&gt; 3D LUTs utilize a three-dimensional coordinate system to model RGB interdependencies, enabling precise manipulation of specific hues without affecting similar values in other channels.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Sampling and Complexity:&lt;/strong&gt; Due to the O(n³) storage growth of 3D LUTs, industry standards utilize sampling grids like 33x33x33 to balance color precision with memory efficiency.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Interpolation Algorithms:&lt;/strong&gt; Trilinear and Tetrahedral interpolation are used to calculate non-sampled colors, with the latter offering better performance and fewer artifacts by utilizing barycentric coordinates.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Color Space Workflow:&lt;/strong&gt; Understanding the differences between Raw data, Log curves, and Rec.709 standards is critical for maintaining color integrity and dynamic range throughout the post-production pipeline.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cross-Platform Application:&lt;/strong&gt; Tools like Raw Alchemy solve color space mismatches by standardizing Raw decoding into linear spaces before applying specific Log-based creative LUTs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112109&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;角落新声｜我的上帝模式，一名设计师创作环境的演变&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A designer’s 12-year evolution toward a stable, system-first workspace prioritizing cognitive flow and long-term operational reliability.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article chronicles a designer’s 12-year evolution from functional tool sets to a &amp;quot;system-first&amp;quot; workspace philosophy, viewing the physical environment as a critical extension of cognitive growth and workflow optimization. It highlights a transition from chasing raw hardware specs to prioritizing foundational infrastructure—such as ergonomics, high-fidelity audio, and ultra-wide displays—to sustain high-intensity, AI-assisted creative flows. The author advocates for long-term technical value, favoring reliable, wired hardware and stable workstations over the &amp;quot;upgrade treadmill&amp;quot; to mitigate tool fatigue and maintenance overhead. Ultimately, the workspace is framed as an iterative, flexible system that prioritizes consistent task delivery and operational stability over aesthetic perfectionism.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Evolution of Creative Cognition:&lt;/strong&gt; The author traces their 12-year professional journey through the evolution of their workspace, viewing the desk setup as a direct reflection of their cognitive growth and design philosophy.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Functional Survival Phase:&lt;/strong&gt; In the early career stage, equipment and audio were treated as purely functional tools for survival, where headphones served as the primary, high-intensity interface for media production.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Prioritizing Environmental Infrastructure:&lt;/strong&gt; During the growth phase, focus shifted from raw hardware specs to the foundational elements—lighting, ergonomics, and audio—that provide the highest impact on daily creative flow.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Managing Technical Complexity:&lt;/strong&gt; The bottleneck phase addresses the challenges of cable management and tool fatigue, emphasizing that hardware longevity and workflow reliability are more critical than constant incremental upgrades.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Long-term Value Strategy:&lt;/strong&gt; The author advocates for a &amp;#039;long-term value&amp;#039; philosophy, selecting durable, high-performance equipment like wired speakers and stable workstations that offer consistent utility over many years.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Establishing Systemic Order:&lt;/strong&gt; The current stage prioritizes a &amp;#039;system over tools&amp;#039; approach, integrating audio as environmental infrastructure and utilizing ultra-wide displays to optimize modern AI-assisted workflows.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Methodology for Workspace Design:&lt;/strong&gt; The final evolution focuses on identifying essential needs and prioritizing task completion over perfectionism, treating the creative environment as a flexible, iterative system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112597&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Google and Alibaba update AI models, Unity 7 launches, WordPress patches vulnerabilities, and the EU mandates AI watermarking.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Google and Alibaba have advanced their AI offerings with the release of Gemini 1.5 Flash, which optimizes coding and reasoning performance at lower token costs, and a new layout-aware image model supporting multi-language rendering. On the platform side, Unity 7 introduces CoreCLR for significantly faster iteration and shader compilation, while critical SQL injection and RCE vulnerabilities in WordPress necessitate immediate patching to secure millions of installations. Finally, the industry is pivoting toward greater accountability with NVIDIA’s new AI video detection NIM and the European Commission’s mandate for machine-readable watermarks and identity disclosure on all synthetic content.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Google Gemini 3.6 Flash:&lt;/strong&gt; Google released the Gemini 3.6 Flash model, which reduces token usage and costs while significantly improving performance in coding and multi-step reasoning tasks.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unity 7 Engine Launch:&lt;/strong&gt; The new Unity 7 engine focuses on non-breaking changes and performance, utilizing CoreCLR for instant play mode and faster shader compilation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Alibaba Qwen-Image-3.0 Release:&lt;/strong&gt; Alibaba&amp;#039;s updated image model supports complex layout generation and native 12-language rendering to lower costs for commercial design and documentation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;NVIDIA Synthetic Video Detection:&lt;/strong&gt; NVIDIA launched a NIM microservice that identifies AI-generated video content with up to 92% accuracy, optimized for high-speed analysis on RTX GPUs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Critical WordPress Vulnerabilities:&lt;/strong&gt; Security researchers identified high-risk SQL injection and RCE flaws affecting millions of WordPress sites, necessitating immediate updates to versions 7.0.2 or 6.9.5.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;EU AI Transparency Guidelines:&lt;/strong&gt; The European Commission issued new rules requiring AI systems to disclose their identity and implement machine-readable watermarks for all AI-generated content.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;New Consumer Hardware Releases:&lt;/strong&gt; Acer launched the Feifan GO Mini PC with Intel Core 3 processors, while Chuzhao released a Leica-inspired 4K toy camera for the enthusiast market.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - July 21, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1829,105 +2023,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Acid Brain&amp;#039;s Narrative Rock:&lt;/strong&gt; Acid Brain’s &amp;#039;Seven Tales&amp;#039; offers a complex heavy instrumental rock experience inspired by the Decameron, utilizing experimental time signatures and multi-layered narrative arrangements.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Innovative Flute Dimensions:&lt;/strong&gt; Flautist Cheng Yu-tai challenges classical stereotypes in &amp;#039;Stomata Dimensions,&amp;#039; incorporating beatbox techniques and circular breathing into a high-energy fusion of rock and metal.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Traditional Opera Transformation:&lt;/strong&gt; Yang Yi-hsiu’s &amp;#039;Wild Stage Language&amp;#039; reimagines traditional Gezaixi opera by integrating global instruments and modern composition to bridge ancient heritage with contemporary sound.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - July 11, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-07-11</id>
-    <updated>2026-07-11T20:47:38.455Z</updated>
-    <published>2026-07-11T20:47:38.455Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>2 articles from 2 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 11, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;210.41095890410958&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    52.6%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;192&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;173&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;27&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████░░░░░░░░░░░░░░ 52.6%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;2&lt;/strong&gt; articles from &lt;strong&gt;2&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/07/11/gilbreaths-conjecture-a-cramer-random-model-and-a-deterministic-analysis/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Gilbreath’s conjecture: a Cramér random model and a deterministic analysis&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Tao proves Gilbreath’s conjecture almost surely using a Cramér random model and discrete nonlinear wave analysis.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Terence Tao formalizes Gilbreath’s conjecture—the observation that successive absolute differences of primes always lead to a leading term of 1—by modeling the process as a discrete nonlinear wave equation within a spacetime-like pyramid. The authors prove that the conjecture holds &amp;quot;almost surely&amp;quot; for a Cramér-type random model, suggesting the property is a statistical necessity of prime gap distributions rather than a unique number-theoretic anomaly. By utilizing a &amp;quot;tower&amp;quot; analysis of value propagation and the Borel–Cantelli lemma, the proof demonstrates that large gaps effectively decay until parity constraints force the leading term to unity. While the paper establishes a rigorous probabilistic framework for the conjecture, the exact asymptotic decay rates and a definitive deterministic proof for actual primes remain open challenges.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Gilbreath&amp;#039;s Conjecture Defined:&lt;/strong&gt; The conjecture states that repeatedly taking absolute differences of consecutive primes always yields a first term of 1. Terence Tao frames this as a discrete nonlinear wave equation where primes act as initial data in a spacetime-like pyramid.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Heuristic Asymptotic Justification:&lt;/strong&gt; Based on the Prime Number Theorem and Cramér&amp;#039;s conjecture, gap sizes are expected to decrease monotonically until parity forces a value of 1. While numerically verified for many rows, a rigorous proof remains difficult because it depends on unproven prime gap bounds.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Probabilistic Model Success:&lt;/strong&gt; The authors prove that the conjecture holds almost surely for a Cramér-type random model where initial gaps are drawn from non-concentrated distributions. This suggests that the Gilbreath property is a natural consequence of the statistical distribution of primes rather than a specific number-theoretic fluke.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Entropy and Tower Proofs:&lt;/strong&gt; The proof utilizes a &amp;#039;tower&amp;#039; of upside-down triangles to track how large values propagate through the array. By showing the entropy of these towers is subexponential while their creation probability is exponentially small, the authors apply the Borel–Cantelli lemma to confirm the conjecture.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Continuous Random Model:&lt;/strong&gt; The paper introduces a model using independently random non-negative real numbers with exponential distributions to approximate normalized prime gaps. While they established a lower bound for row means, the exact asymptotic decay rate of these values remains an open question.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Deterministic Failure Analysis:&lt;/strong&gt; The authors analyze potential failure modes, such as the emergence of long strings of zeros that could halt the reduction of gap magnitudes. However, parity identities suggest that such constant-parity sequences are extremely unlikely to persist in large arrays.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/68024&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;暴雨和洪涝的季节，这些技巧助你从容自保&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Comprehensive flood safety guide detailing risk monitoring, proactive preparation, emergency response protocols, and protocol-based drowning resuscitation.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This guide outlines a multi-layered approach to flood safety, starting with identifying high-risk urban infrastructure and monitoring high-priority meteorological alerts to inform early evacuation. It emphasizes proactive risk mitigation through the assembly of modular emergency kits, physical conditioning, and specific flood insurance coverage to protect both life and assets. During active emergencies, individuals should execute immediate safety protocols, such as seeking high ground and performing emergency vehicle egress while strictly avoiding electrical hazards. Finally, for drowning incidents, the text advocates for a protocol-based resuscitation strategy (A-B-C sequence) that prioritizes oxygenation and rescue breaths over the medically debunked practice of manual water drainage.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Risk Assessment &amp;amp; Monitoring:&lt;/strong&gt; Identify flood-prone urban areas like low-lying subways and garages while monitoring multi-level meteorological alerts to prioritize safety during red and orange warnings.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Emergency Kit Essentials:&lt;/strong&gt; Assemble a modular emergency bag including communication tools, escape gear, medical supplies, and high-calorie food for sustained survival during infrastructure failure.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Physical Fitness &amp;amp; Insurance:&lt;/strong&gt; Enhance survival odds through physical conditioning and swimming skills, while mitigating financial risks via specific property and vehicle flood insurance.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Active Survival Strategies:&lt;/strong&gt; Execute immediate safety protocols during flooding, such as moving to high ground, avoiding electrical hazards, and performing emergency vehicle egress if trapped.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Drowning Rescue Principles:&lt;/strong&gt; Prioritize oxygenation and warmth over water drainage, debunking the dangerous myth of &amp;#039;draining water&amp;#039; to maximize the victim&amp;#039;s narrow survival window.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Specialized CPR Procedures:&lt;/strong&gt; Implement the A-B-C resuscitation sequence specifically for drowning, initiating rescue breaths before proceeding to high-frequency chest compressions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
