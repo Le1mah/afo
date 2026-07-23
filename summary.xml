@@ -4,8 +4,169 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-07-22T21:28:43.157Z</updated>
+  <updated>2026-07-23T21:08:09.066Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - July 23, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-07-23</id>
+    <updated>2026-07-23T21:08:09.066Z</updated>
+    <published>2026-07-23T21:08:09.066Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>10 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 23, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;223.56164383561645&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    55.9%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;204&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;161&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;29&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████░░░░░░░░░░░░░ 55.9%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;10&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22669&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Donegal sundown&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录2026年7月23日Donegal日落及社交互动的信息。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇记录2026年7月23日Donegal日落信息的简短社交媒体或博客发布。内容包含了日落的具体时间（12:09am）、地理坐标（55° N, 9° W）以及在Mastodon、Bluesky和Instagram等平台的同步情况，并记录了三位用户的点赞互动。整体风格简洁，属于典型的个人动态记录。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22668&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Wednesday session in Glencolmcille&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年7月23日Glencolmcille社交动态及点赞记录。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一条发布于2026年7月23日的社交动态记录，地点位于Glencolmcille。内容涵盖了详细的地理位置坐标、多社交平台同步情况以及具体的点赞互动名单。作者通过简洁的日志形式记录特定时刻的状态，并积极邀请读者通过提交URL的方式进行回应与互动。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;记录了2026年7月23日在Glencolmcille的活动信息，包含地理坐标及Mastodon、Bluesky等平台链接。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了页面导航信息及互动统计，显示该动态获得了4次点赞。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细列出了Prince Wilson、Adam Argyle等四位用户的点赞记录及具体时间。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者邀请读者针对此内容发布回应，并请求告知相关的URL地址。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-07-23T09:29Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-07-23T09:29Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 苹果停止 macOS 15 的 Safari 技术预览版支持。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;苹果已停止为 macOS 15 (Sequoia) 提供 Safari Technical Preview 更新，版本 245 为其最后支持版本。自版本 256 起，该程序需在 macOS 26 (Tahoe) 上运行。虽然目前用户仍能在 Sequoia 上安装 Safari 26 或 27 Beta，但作者提醒需警惕系统设置中诱导升级至新系统的交互陷阱。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-07-23T05:06Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-07-23T05:06Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Codeberg 采取措施保护开源生态免受 LLMs 侵害。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Codeberg 明确表示将保护开源软件 (FLOSS) 免受大语言模型 (LLMs) 的侵蚀。该项目主张将 AI 生成的低质量内容留在 GitHub，以此抵制“死亡互联网”现象。这种做法展示了 Codeberg 维护高质量、人类驱动的开源生态，反对自动化生成内容侵蚀的坚定立场。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Codeberg 宣布致力于保护开源 (FLOSS) 公共资源免受大语言模型 (LLMs) 的侵害。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文中通过 TL;DR 建议将 AI 生成的低质量内容 (slop) 保留在 GitHub 平台上。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对该项目积极反抗“死亡互联网”趋势、维护社区纯净的做法表示赞赏。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 卡片创作实验室 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://cnfeat.com/posts/2026/07/23/2026-07-10-%E5%A6%82%E4%BD%95%E4%BB%8E%E8%87%AA%E5%B7%B1%E5%8F%98%E5%BC%BA%E5%88%87%E6%8D%A2%E5%88%B0%E8%AE%A9%E5%88%AB%E4%BA%BA%E5%8F%98%E5%BC%BA/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://cnfeat.com/posts/2026/07/23/2026-07-10-%E5%A6%82%E4%BD%95%E4%BB%8E%E8%87%AA%E5%B7%B1%E5%8F%98%E5%BC%BA%E5%88%87%E6%8D%A2%E5%88%B0%E8%AE%A9%E5%88%AB%E4%BA%BA%E5%8F%98%E5%BC%BA/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 管理者需戒掉亲力亲为的爽感，通过赋能与机制实现从做事到育人的转型。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了管理者从“亲自解决问题”向“成就他人”转型的心理挑战与实践路径。作者指出，跨越胜负心、控制权及价值观这三层心理枷锁是转型核心，必须戒掉即时成就感的诱惑。通过事前赋能、事中引导、事后复盘的系统化辅导，管理者应将价值锚点从个人产出转向团队成长，通过建立辅导机制和重新衡量考核指标，实现从“做事”到“育人”的阶跃。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;许多领导者在转型初期难以平衡亲自上手与放手让下属成长之间的界限。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;领导者最难跨越的是戒掉亲力亲为带来的即时成就感，实现从个人产出到成就他人的逻辑转变。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;亲自动手的即时反馈优于培养他人的漫长过程，阻碍转型的核心是胜负心、控制权与价值观这三层心理枷锁。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;胜负心导致对下属低效的焦虑，而对失控的厌恶使领导者宁愿亲自兜底也不愿承担试错成本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;领导者需要更新价值观，将评价标准从“解决难题”提升到“培养能解决难题的人”。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;应对策略包括在动手前自省，通过事前赋能、明确目标和提供框架来代替包办。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;建立辅导机制，通过阶段性反馈和提问引导下属思考，在可控范围内允许试错而非代劳。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;重新定义价值衡量标准，将下属的成长和独立完成任务数作为核心指标，并共同承担结果与复盘。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112668&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 247｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派编辑部分享近期新奇好物的使用体验。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了少数派的「编辑部的新玩意」栏目，旨在向读者展示编辑部成员近期购买并使用的各种新奇产品。通过编辑们的亲身分享，读者可以了解到这些产品的真实使用体验。文中特别提及了编辑 @Lotta 推荐的海备思文件夹读卡器等相关内容。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112428&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 DJI Pocket 4P utilizes mechanical gimbals and 1-inch sensors to deliver professional-grade cinematography beyond smartphone hardware constraints.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The DJI Pocket 4P addresses the inherent hardware limitations of smartphones by prioritizing a specialized imaging stack, featuring 1-inch sensors and physical three-axis gimbals over the computational and thermal compromises of mobile devices. By embedding mechanical stabilization directly into the chassis, the device delivers superior low-light performance and lossless tracking while supporting professional 10-bit D-Log 2 workflows without the need for bulky external rigs. This architectural focus on dedicated imaging components rather than multi-purpose subsystems lowers the entry barrier for high-fidelity content production. Ultimately, the entry of serious competition signals the category&amp;#039;s evolution from a niche consumer gadget into a mature, professional-grade toolset for the creator economy.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Camera Market Resurgence:&lt;/strong&gt; Driven by the creator economy, the imaging market is rebounding as users outgrow smartphone limitations and seek advanced tools for high-quality content production.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining Pocket Cinematography:&lt;/strong&gt; The Pocket 4P bridges the gap between recording and creation by integrating professional-grade 10-bit D-Log 2 workflows and a versatile dual-lens system.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Smartphone Workflow Limitations:&lt;/strong&gt; While flagship phones are capable, achieving professional results often requires expensive, bulky external rigs that negate their inherent portability and thermal efficiency.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dedicated Hardware ROI:&lt;/strong&gt; Unlike smartphones that distribute costs across various subsystems, the Pocket 4P concentrates investment into specialized imaging components like 1-inch sensors and physical gimbals.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mechanical vs. Computational:&lt;/strong&gt; Physical three-axis gimbals provide a fundamental hardware advantage over computational stabilization, enabling superior low-light performance and intelligent, lossless subject tracking.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Integrated Design Evolution:&lt;/strong&gt; By embedding stabilization directly into the chassis, the Pocket series mirrors the mirrorless revolution by removing traditional structural compromises and lowering the barrier to entry.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Maturing Industry Ecosystem:&lt;/strong&gt; The arrival of serious competition from brands like Insta360 marks a pivotal moment for gimbal cameras, signaling the category&amp;#039;s transition into a mature professional segment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111300&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;让 Windows 顺眼又省心：我的新设备配置经验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Matrix是少数派分享真实产品体验与思考的写作社区。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Matrix是少数派旗下的写作社区，旨在分享真实的产品体验以及具有实用价值的经验与思考。平台通过不定期精选优质文章，展示用户最真实的观点和见解，且文章内容仅代表作者个人观点。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112647&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 OpenAI发布企业新工具，耐克重构大中华区市场生态。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;OpenAI 发布了专为企业用户设计的 OpenAI Presence，旨在增强企业级服务能力；与此同时，运动品牌耐克宣布重构大中华区市场生态，以优化区域业务布局。这些动态展示了科技与零售巨头在核心市场战略上的最新调整。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;纯CSS实现repeat(–n, anything)循环展示或相加功能&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Implement CSS loops and string concatenation via binary decomposition and @function for complex declarative styling without JavaScript.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article explores a novel implementation of loops and string concatenation in CSS using the emerging `@function` specification and a binary decomposition strategy. By converting decimal inputs into binary bits via `calc()` and `round()`, the method selectively assembles pre-generated token blocks of sizes $2^n$ (up to 128) using the new `if()` and `style()` queries. This approach enables complex visual accumulation for properties like `text-shadow`, `drop-shadow`, and `shape()` that were previously impossible without preprocessors or JavaScript. While it represents a significant milestone for declarative CSS logic, the technique is currently limited to 255 repetitions and is intended for architectural experimentation rather than production environments due to varying browser support.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;CSS Custom Functions:&lt;/strong&gt; The article introduces a custom CSS `--repeat` function that enables string concatenation and numerical accumulation using the emerging `@function` specification.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Binary Decomposition Logic:&lt;/strong&gt; The core logic involves converting a decimal input into binary bits using `calc()` and `round()` to determine which power-of-two components to include in the final output.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Power-of-Two Doubling:&lt;/strong&gt; To simulate loops in a declarative language, the function uses a doubling strategy to create token blocks of sizes 1, 2, 4, up to 128.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Conditional Result Assembly:&lt;/strong&gt; The final result is assembled using the new CSS `if()` and `style()` queries, which selectively concatenate pre-generated token blocks based on the calculated binary bits.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Versatile Application Scenarios:&lt;/strong&gt; The implementation demonstrates versatility by applying the repeat logic to text-shadows, drop-shadow filters, and complex layout functions like `shape()`.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Constraints:&lt;/strong&gt; The method is currently limited to 255 repetitions and relies on cutting-edge CSS features that have varying levels of browser support.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Production Readiness Considerations:&lt;/strong&gt; While a significant milestone for CSS logic, the author suggests this technique is currently best for experimentation and architectural insight rather than stable production environments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - July 22, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1905,124 +2066,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Adversarial Robustness Training:&lt;/strong&gt; SynthID uses adversarial training to ensure watermarks survive heavy compression, cropping, and filtering by pitting injection models against destructive &amp;#039;anti-watermark&amp;#039; algorithms.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware-Level Provenance:&lt;/strong&gt; Camera manufacturers like Leica and Sony are integrating C2PA signatures directly into hardware sensors to verify that images represent physical light captured in the real world.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Automated Verification Future:&lt;/strong&gt; The industry is evolving toward a future where operating systems and browsers automatically validate content authenticity, much like the universal adoption of HTTPS for web security.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - July 12, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-07-12</id>
-    <updated>2026-07-12T20:49:20.701Z</updated>
-    <published>2026-07-12T20:49:20.701Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>3 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 12, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;211.5068493150685&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    52.9%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;193&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;172&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;27&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████░░░░░░░░░░░░░░ 52.9%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;3&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 David Heinemeier Hansson &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/the-will-to-power-will-return-58ffb9dc&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The will to power will return&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Historical cycles suggest current Western stagnation will trigger a crisis-driven return to high-ambition industrial progress.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;France’s 1980s nuclear expansion exemplifies a historical peak of industrial execution and long-term planning, highlighting a stark contrast with the institutional stagnation and &amp;quot;rationalized pessimism&amp;quot; prevalent in contemporary Western governance. Utilizing the &amp;quot;Fourth Turning&amp;quot; cyclical model, the text posits that societies move through predictable phases of growth and decay, suggesting we are currently transitioning from a period of institutional unraveling into a volatile crisis phase. While this transition is historically volatile, the model indicates that such crises are the necessary precursors to a systemic reset and the eventual return of high-ambition, large-scale industrial progress.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Historic Nuclear Success:&lt;/strong&gt; France&amp;#039;s rapid 1980s nuclear expansion demonstrates a level of industrial ambition and efficiency that is currently absent in modern Western nations.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Generational Cycle:&lt;/strong&gt; A popular socio-cultural theory suggests that periods of prosperity inevitably lead to societal weakening and a subsequent loss of collective will.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Strauss-Howe Framework:&lt;/strong&gt; The Fourth Turning theory maps history into recurring cycles called saecula, consisting of four distinct phases: High, Awakening, Unraveling, and Crisis.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Heroic Infrastructure Planning:&lt;/strong&gt; The post-WWII &amp;#039;Hero Generation&amp;#039; executed long-term energy projects that still support the nation, contrasting sharply with the perceived ineffectuality of current political cohorts.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Unraveling Phase:&lt;/strong&gt; According to the saeculum model, the West has moved through an unraveling phase and is now entering a period of rationalized pessimism and institutional decline.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Anticipating the High:&lt;/strong&gt; Historical patterns suggest that the current crisis will eventually resolve into a new &amp;#039;High,&amp;#039; where a future generation will reject decline in favor of renewed ambition.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Navigating the Crisis:&lt;/strong&gt; While the transition out of a Crisis phase is historically volatile and potentially devastating, it remains the necessary precursor to societal rebirth and progress.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Another Ridiculous Interrail Holiday - 6,379Km and 13 Countries over 7 weeks&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A 13-country rail journey highlights European interoperability failures, requiring manual data monitoring to navigate systemic infrastructure technical debt.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This multi-modal travel post-mortem details a shift from rigid scheduling to a flexible 15-day itinerary across 13 countries, optimized for first-class service and data-driven navigation via tools like RealTimeTrains. The author highlights significant systemic failures in European rail interoperability, specifically the desynchronization between Interrail and DB APIs that necessitated manual state recovery for refunds during unannounced construction delays. Regional infrastructure analysis reveals a spectrum of technical debt, ranging from fragmented ticketing systems in the Baltics to inconsistent hardware reliability—specifically regarding air conditioning and WiFi—under peak load conditions. Ultimately, the journey underscores the necessity of manual overrides and external monitoring to mitigate the lack of real-time data synchronization between disparate national rail networks.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Interrail Strategy and Planning:&lt;/strong&gt; The author shifted from a high-intensity 30-day pass to a 15-day flexible itinerary over two months, prioritizing first-class tickets and multi-modal transport including ferries.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Eurostar Operational Insights:&lt;/strong&gt; Navigating St Pancras requires tools like RealTimeTrains to bypass crowds, while first-class service offers high quality despite strict lead times for dietary meal requests.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;DB Disruptions and Refunds:&lt;/strong&gt; Unannounced construction work led to significant delays and highlighted a lack of synchronization between Interrail and DB, necessitating a complex manual refund process.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Scandinavian Transit Logistics:&lt;/strong&gt; Travel through Denmark and Norway featured varied lounge experiences, mechanical failures requiring emergency transfers, and unique infrastructure like ceiling-mounted power sockets.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Baltic Ferry Integration:&lt;/strong&gt; Utilizing ferries between Stockholm, Helsinki, and Tallinn requires manual check-in to validate Interrail discounts and careful attention to timezone shifts during overnight crossings.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Eastern European Rail Nuances:&lt;/strong&gt; Routes through Latvia and Lithuania involved navigating fragmented ticketing systems and inconsistent first-class amenities, though onboard dog-friendly features and contactless machines were notable.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Infrastructure and Thermal Comfort:&lt;/strong&gt; The final legs toward Berlin exposed significant disparities in train infrastructure, specifically regarding the reliability of air conditioning and WiFi in extreme heat conditions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112035&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;6月音乐精选：不得不听的 17 张……没错 17 张专辑！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Seventeen June albums showcase a sophisticated fusion of traditional genres, modern experimentation, and technical mastery.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The rebooted FM3.14 column highlights a significant surge in high-quality June releases, emphasizing the intersection of traditional forms and modern experimental production. Key projects include Shallow Levée’s refined urban folk and Li Quanzhe’s deconstructed post-punk arrangements, alongside Acid Brain’s complex, narrative-heavy instrumental rock featuring experimental time signatures. The selection further explores sonic boundaries through Cheng Yu-tai’s rock-infused flute techniques and Yang Yi-hsiu’s modernization of Gezaixi opera using global instrumentation. Collectively, these albums represent a sophisticated blend of technical mastery and cross-genre innovation within the contemporary music landscape.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;FM3.14 Column Reboot:&lt;/strong&gt; The article introduces the rebooted FM3.14 music column for 2026, highlighting a significant surge in high-quality June releases across instrumental and traditional genres.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Shallow Levée&amp;#039;s Anniversary:&lt;/strong&gt; Taiwanese band Shallow Levée marks their tenth anniversary with &amp;#039;Silence is a Masterpiece,&amp;#039; an urban folk album that explores unspoken human emotions and refined live energy.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;GoodNight Daisy&amp;#039;s Nostalgia:&lt;/strong&gt; Malaysian band GoodNight Daisy blends 80s and 90s pop aesthetics with indie sensibilities in &amp;#039;Source of Love,&amp;#039; focusing on the primitive origins of human connection.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cloud Drive&amp;#039;s Genre Fusion:&lt;/strong&gt; Artist Li Quanzhe, under the moniker Cloud Drive, releases &amp;#039;1997,&amp;#039; a production-heavy project that deconstructs and reassembles influences from Prince to British post-punk.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Acid Brain&amp;#039;s Narrative Rock:&lt;/strong&gt; Acid Brain’s &amp;#039;Seven Tales&amp;#039; offers a complex heavy instrumental rock experience inspired by the Decameron, utilizing experimental time signatures and multi-layered narrative arrangements.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Innovative Flute Dimensions:&lt;/strong&gt; Flautist Cheng Yu-tai challenges classical stereotypes in &amp;#039;Stomata Dimensions,&amp;#039; incorporating beatbox techniques and circular breathing into a high-energy fusion of rock and metal.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Traditional Opera Transformation:&lt;/strong&gt; Yang Yi-hsiu’s &amp;#039;Wild Stage Language&amp;#039; reimagines traditional Gezaixi opera by integrating global instruments and modern composition to bridge ancient heritage with contemporary sound.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
