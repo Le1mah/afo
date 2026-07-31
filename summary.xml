@@ -4,8 +4,268 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-07-30T21:23:02.931Z</updated>
+  <updated>2026-07-31T21:45:10.852Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - July 31, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-07-31</id>
+    <updated>2026-07-31T21:45:10.852Z</updated>
+    <published>2026-07-31T21:45:10.852Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>12 articles from 7 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 31, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;232.32876712328766&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    58.1%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;212&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;153&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;30&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████░░░░░░░░░░░░░ 58.1%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-7-30/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.7.30&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录了体检、网站更新、职场压力及对理想工业风住宅的向往。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者近期的生活片段，包括体检结果带来的健康警示、个人主页的更新与未来 generative interface 的交互设想。作者还分享了工作中关于排期的压力、与朋友聚会的轻松时刻，以及对奥克兰一处工业风 loft 住宅的向往。全文笔触随性，展现了作者在职业发展、个人兴趣与生活规划之间的权衡与思考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者体检发现维生素 B 超标，医生建议多晒太阳并停止补充维 B，作者正边吃维 B 软糖边记录此事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者更新了个人主页的过时信息并加入职业成就，计划未来将主页打造为类似 Obsidian 节点图的生成式交互界面。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工作上面临排期拉扯的压力，周二晚上与朋友聚餐喝酒聊天，在忙碌的框架组工作中寻求放松。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者被奥克兰的一处厂房风格建筑吸引，其开放式设计符合其“前线基地”的幻想，并引发了对买房的思考。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/rachels-ramblings/conductor-developer.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Conductor Developer&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 软件开发瓶颈已转向注意力，开发者正转型为编排AI的指挥家。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Thoughtworks CTO Rachel Laycock 认为，随着 AI 代理的普及，软件开发模式正从“个人编写”转向“指挥编排”。人类注意力已取代技术环节成为新的瓶颈。开发者需要像指挥家一样，在多个 AI 代理间切换，负责提供上下文、决策和质量把控。这意味着开发者必须掌握以往高管才需要的能量管理和认知负荷控制能力，行业亟需重新定义工程职业路径以适应这一深刻变革。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (17 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍作者 Rachel Laycock 及其作为 Thoughtworks CTO 的背景和分享技术洞察的初衷。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;指出软件开发正发生深刻变革，不应仅将 AI 视为提升代码产出速度或降低成本的工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI 在编码上的进步使软件交付瓶颈从编写代码转移到了设计、架构和验证阶段。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者意识到软件开发真正的瓶颈并非交付流程的某个阶段，而是人类的注意力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;传统的软件开发模式依赖于开发者长时间、无干扰的深度工作和“心流”状态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;现在的优秀开发者不再整天沉浸在编码心流中，而是开始扮演编排 AI 代理的角色。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;借用 Jacob Collier 指挥乐队的例子，说明开发者正像指挥家一样塑造软件的整体表现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;指挥家通过理解全谱来协调乐手，开发者则需作为核心理解系统整体并指挥 AI 代理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发者现在的职责是选择代理、提供上下文、评估反馈并决定迭代，而非亲自执行细节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工程师同时运行多个 AI 代理的现状，证明了人类注意力已成为多任务并行中的瓶颈。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这种管理多条工作流并提供决策支持的模式，与 CTO 等高管的工作性质高度相似。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发者开始需要学习以往高管才需掌握的能量管理、应对上下文切换和保护注意力的能力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者与首席人才官的交流确认了软件开发模式正在发生根本性转变，且需要新的支持方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;行业在培养高管应对认知负荷方面有丰富经验，但在培养开发者时仍侧重于个人执行力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工程专业知识并未被取代，而是随着执行速度的加快，其应用场景发生了重心转移。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;当前最关键的问题是，当人类注意力成为稀缺资源时，应如何重新设计工程职业生涯。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;能量管理将成为未来开发者必备的核心能力，这一职业范式的转变影响极其深远。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Things That Caught My Attention &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://newsletter.danhon.com/archive/s21e15-adjust-your-register-the-curse-of-the-next/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;s21e15: Adjust Your Register; The Curse of The Next Generation; Some Sort Of Tinkerbell; Your AI Pharmacy&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The article explores digital linguistics, critiques failed software overhauls, and warns against deploying immature AI in critical infrastructure.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This edition explores the intersection of digital linguistics and system reliability, proposing the use of input macros to automate &amp;quot;low-register&amp;quot; formatting (such as disabling autocorrect) for casual social contexts. It critiques the recurring failure of ambitious &amp;quot;NextGen&amp;quot; software overhauls and the erosion of core product philosophies through aggressive gamification, noting that branding often takes precedence over technical stability. Finally, the author warns against the operational risks of replacing proven legacy infrastructure with immature conversational AI in high-stakes environments like the pharmacy sector, where reliability is a non-negotiable requirement.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Context and Events:&lt;/strong&gt; The author provides a brief update on the Portland-based series &amp;#039;How People Work, Live!&amp;#039; and its upcoming session featuring Russell Davies.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Software-Assisted Code-Switching:&lt;/strong&gt; This section explores digital linguistic registers and suggests the development of input macros that automate &amp;#039;low-register&amp;#039; formatting, such as disabling autocorrect and capitalization for casual social media.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Modernization Project Risks:&lt;/strong&gt; A critique of the failed &amp;#039;NextGen&amp;#039; Bar Exam software project, highlighting the recurring pattern of failure in large-scale system updates that prioritize ambitious branding over technical stability.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;UX Philosophy Degradation:&lt;/strong&gt; An examination of the Roost app illustrates how core product philosophies, such as &amp;#039;slow&amp;#039; social interaction, are often undermined by aggressive gamification and retention-focused dark patterns.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Implementation Realities:&lt;/strong&gt; A review of a failed conversational AI rollout in the pharmacy sector emphasizes the operational risks of replacing reliable legacy systems with immature &amp;#039;solutions&amp;#039; that prioritize hype over functional reliability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/07/31/contact-form-saga/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;End of the contact form saga&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者宣布停用联系表单，回归电子邮件以优化沟通与生活平衡。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者宣布永久停用网站联系表单，回归传统的电子邮件沟通。作者回顾了多年来在表单技术上的各种极客尝试，如自建 SMTP 服务器和端到端加密，以对抗垃圾邮件。作者认为电子邮件带来的适度“摩擦感”有助于过滤无效信息，并计划通过分离个人与业务域名来优化工作流。全文风格幽默且富有洞察力，反映了对现代网页交互、垃圾邮件治理及工作生活平衡的深刻反思。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者宣布无限期停用网站联系表单，转而要求通过电子邮件联系，并透露这是由于业务转型的需要。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者考虑在未来的公司网站上也省去联系表单，因为表单带来的垃圾邮件通常比公开邮箱地址更多。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了其联系表单经历的多个技术阶段，包括 SMTP 边缘计算、PGP 加密等多种尝试。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者曾尝试自写 TypeScript SMTP 服务器并实现端到端加密，虽成功消除了垃圾邮件，但也存在误杀风险。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;随着联系表单的停用，作者原本极其简单的隐私政策现在也变得毫无意义了。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者质疑联系表单是否已经过时，并表示更倾向于通过电子邮件的适度“门槛”来筛选掉不认真的沟通请求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者计划将业务邮件迁移至独立域名，以解决长期以来个人与业务邮件混杂带来的干扰和压力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者最后向陪伴已久的联系表单告别，并表示这段技术探索的过程充满了乐趣。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n735ffb216fd0&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;推しと過ごす夏祭り。&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2 hosts a hybrid Chaser Game W summer festival featuring cast interactions and exclusive global merchandise.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2 is hosting a &amp;quot;Chaser Game W&amp;quot; summer festival, a hybrid event featuring live commentary screenings and interactive sessions with the project’s original creators and lead cast. The studio is leveraging this IP celebration to launch exclusive merchandise via their international web store, targeting a global audience through a combination of in-person attendance and live-streaming options. The event prioritizes high-engagement fan experiences, utilizing physical interactive props and traditional aesthetics to commemorate the project’s rapid growth since its late 2024 debut.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Event Overview:&lt;/strong&gt; The &amp;#039;Chaser Game W&amp;#039; summer festival features two main sessions and a special commentary screening involving the original creators and lead actors.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Exclusive Attendee Benefits:&lt;/strong&gt; Visitors receive limited-edition non-sale fans (uchiwa) designed for interactive segments that complement the movie&amp;#039;s content.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ticketing and Streaming:&lt;/strong&gt; While the first session is sold out, limited tickets remain for the second session and screening, with live streaming options available for remote fans.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Merchandise Strategy:&lt;/strong&gt; CyberConnect2 is launching new event-specific goods and online-exclusive products through their official international web store.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Festival Atmosphere:&lt;/strong&gt; To enhance the summer theme, the lead cast and production leadership will appear in traditional yukatas during the live performances.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fan Appreciation:&lt;/strong&gt; The event serves as a gratitude-filled celebration for the fan base whose support has sustained the project since its social media launch in late 2024.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21687&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;サイバーコネクトツー暑中見舞いのごあいさつ2026&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2 marks its 30th anniversary by pivoting to independent multimedia production and self-publishing original IPs.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Celebrating its 30th anniversary in 2026, CyberConnect2 is transitioning into a multi-media entity with the establishment of &amp;quot;CyberConnect2 FILM&amp;quot; and the successful launch of its first major theatrical production. A critical strategic shift is underway with the development of *.hack//Z.E.R.O.*, an original IP where the studio is managing both development and self-publishing to ensure full creative and commercial autonomy. By leveraging its core game development expertise, the company is scaling globally through a transmedia approach encompassing manga, video, and a nationwide retrospective exhibition. The second half of 2026 will see a pipeline of new project announcements as the studio moves toward an independent, multi-platform content creation model.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;30th Anniversary Milestone:&lt;/strong&gt; CyberConnect2 celebrates its 30th anniversary since its founding in 1996, expressing gratitude to the fans and partners who supported their journey.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;New Film Business:&lt;/strong&gt; The company established &amp;#039;CyberConnect2 FILM&amp;#039; and successfully released its first major movie production, &amp;#039;Chaser Game W,&amp;#039; in May 2026.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Nationwide Exhibition Tour:&lt;/strong&gt; A 47-prefecture &amp;#039;CyberConnect2 Exhibition&amp;#039; launched in June to showcase three decades of creative work and the studio&amp;#039;s future vision.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Self-Published Game Project:&lt;/strong&gt; Development is underway for &amp;#039;.hack//Z.E.R.O.&amp;#039;, a 100% original title that the studio is both developing and publishing in-house.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Multi-Entertainment Strategy:&lt;/strong&gt; Leveraging its game development expertise, the company aims to expand globally through diverse media including manga and video productions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Future Growth Outlook:&lt;/strong&gt; The studio plans to roll out numerous new projects and announcements in the second half of 2026 as they embark on a new era of challenges.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112962&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Monthly roundup analyzing major franchise revivals, technical engine migrations, and strategic legacy IP modernizations.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This monthly industry roundup analyzes several high-profile releases and technical remakes, highlighting the evolution of established franchises through significant engine migrations and genre shifts. Key highlights include a standalone *Splatoon* TPS featuring deep RPG progression and a major *Rhythm Heaven* revival that introduces new RPG-style modes after an 11-year hiatus. From a technical standpoint, the article details Ubisoft’s strategic rebuild of *Assassin’s Creed: Black Flag* on the latest Anvil engine and a comprehensive Unreal Engine 5 overhaul of the original *Halo*, which notably expands the franchise to PlayStation hardware. Finally, it explores niche innovations like a psychological horror title utilizing a simulated legacy OS interface, alongside broader commentary on how major studios are leveraging legacy IP modernization to stabilize financial positions.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Monthly Game Column:&lt;/strong&gt; This column provides independent reviews and industry commentary on major game releases across PC, console, and mobile platforms. It emphasizes initial launch quality and includes community interactions regarding past titles like Disco Elysium.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Rhythm Heaven&amp;#039;s Return:&lt;/strong&gt; The fifth installment in the Rhythm Heaven series focuses on internal rhythm cultivation rather than visual cues, marking an 11-year gap since the previous entry. It introduces new RPG-style modes and features collaborations with popular Japanese artists like Ado.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Splatoon Raiders Spin-off:&lt;/strong&gt; This standalone single-player TPS integrates mechanics from &amp;#039;Salmon Run&amp;#039; and &amp;#039;Hero Mode&amp;#039; while introducing a robust RPG progression system. The development history reveals a shift from tower defense to a darker, action-oriented survival theme on a desolate island.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Assassin’s Creed Remake:&lt;/strong&gt; Rebuilt on the latest Anvil engine, this remake of Black Flag modernizes combat mechanics while removing modern-day narrative segments. It represents a strategic effort by Ubisoft to stabilize its financial position following years of internal project turbulence.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Desktop Explorer Horror:&lt;/strong&gt; This psychological horror title uses a simulated Windows 95/98 interface for point-and-click puzzle solving. It challenges players to uncover a missing relative&amp;#039;s secrets by navigating through archaic software, browser histories, and local files.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Halo UE5 Remake:&lt;/strong&gt; The original Halo campaign has been remade using Unreal Engine 5, notably expanding the franchise&amp;#039;s availability to PlayStation consoles for the first time. This technical overhaul aims to modernize the 2001 classic for current-generation hardware.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112961&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 10 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A weekly media digest featuring action, historical documentaries, international crime procedurals, and high-profile animations.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This week’s media digest offers a diverse mix of content, balancing high-production action with deep-dive social commentary and historical documentation. Highlights include *Spider-Man: Brand New Day*, noted for its stunt choreography by the Jackie Chan team, and *Century Radiation*, a 16-year documentary project providing a raw, multi-decade perspective on the Chernobyl disaster. Narrative depth is further explored through international crime procedurals from China and Japan, alongside the UK sci-fi comedy *I&amp;#039;m Not a Monster*, which examines the intersection of technology and elderly care. The selection is rounded out by high-stakes animation, featuring the *Bleach* series finale and a *Rick and Morty* spin-off, catering to fans of dark fantasy and satirical storytelling.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;重点介绍了《蜘蛛侠：崭新之日》，该片让英雄回归街头定位，在成家班操刀的动作设计与细腻的人物塑造中取得了极佳平衡。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;涵盖了硬核动作韩剧《杀人者的购物中心 2》、探讨老年照护的英式科幻喜剧《护工不是人》以及聚焦足球文化的《致英格兰》。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;推荐了还原真实重大积案的国产剧《悬案》与风格冷峻的日剧《犯罪者》，通过不同视角深入探讨社会阴暗面与人性挣扎。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;介绍了《死神 千年血战篇》的最终决战、《瑞克和莫蒂》衍生剧《柯蒂斯总统》以及黑暗奇幻题材的《克雷瓦提斯 Ⅱ》。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;聚焦食贫道团队历时十六年拍摄的纪录片《世纪辐射》，通过切尔诺贝利核事故亲历者的视角，展现宏大历史下的残酷与真实。&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112730&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI-driven prototyping of a *Classic of Poetry* map proves human judgment is vital for ensuring cultural and aesthetic quality.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author leveraged AI models like Codex to rapidly prototype an interactive map of the 305 *Classic of Poetry* poems in under an hour, demonstrating how AI-driven development can significantly compress the traditional software lifecycle. While AI handled the bulk of data processing and initial generation, the project required intensive human-in-the-loop refinement to ensure cultural accuracy, visual hierarchy, and intuitive user experience. The workflow expanded into multi-modal territory using MiniMax-Music to generate nearly 3,000 songs, revealing that manual auditing remains essential to correct subtle linguistic and emotional nuances that automated scoring systems overlook. Ultimately, the project illustrates that while AI lowers technical entry barriers, the final product&amp;#039;s quality remains tethered to the creator’s aesthetic judgment and domain expertise.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Driven Rapid Prototyping:&lt;/strong&gt; The author utilized AI models like Codex to transform a conceptual idea into a functional, interactive map prototype within an hour without writing any code.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Refining UX Standards:&lt;/strong&gt; Beyond initial generation, the project required iterative refinement where human judgment defined the standards for interactivity, visual hierarchy, and user experience.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Large-Scale Content Curation:&lt;/strong&gt; Integrating 305 poems involved balancing AI&amp;#039;s efficiency in data handling with manual oversight to ensure cultural accuracy and emotional resonance in translations and annotations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Generative Audio Integration:&lt;/strong&gt; The project evolved from a visual map to an auditory experience by using MiniMax-Music to transform ancient texts into modern generative songs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Iterative Quality Control:&lt;/strong&gt; Managing nearly 3,000 AI-generated music versions highlighted the necessity of human listening to correct nuances in pronunciation and emotional delivery that automated scoring missed.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Human-AI Synergy:&lt;/strong&gt; The final launch demonstrates that while AI lowers technical barriers, the ultimate quality of a product depends on the creator&amp;#039;s persistent aesthetic judgment and domain expertise.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112833&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Egoscue’s &amp;quot;E-cises&amp;quot; resolve chronic pain by restoring anatomical alignment through simple, consistent, and active postural corrective movements.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article outlines Pete Egoscue’s &amp;quot;Pain Free&amp;quot; method, which frames chronic musculoskeletal pain as a mechanical alarm signaling structural imbalances caused by modern sedentary lifestyles. To resolve these &amp;quot;S-to-C&amp;quot; spinal degradations, the approach utilizes &amp;quot;E-cises&amp;quot;—low-complexity, static, and isometric movements designed for high consistency and ease of execution. By specifically targeting Type I slow-twitch fibers and stabilizing muscles, the methodology eliminates the inefficient compensatory patterns that lead to long-term joint and tissue strain. Ultimately, the method advocates for a shift from passive, expert-reliant treatments to active self-maintenance, emphasizing that restoring anatomical alignment is a product of consistent lifestyle modification.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Egoscue Method Overview:&lt;/strong&gt; Introduces Pete Egoscue’s &amp;quot;Pain Free&amp;quot; method, which utilizes simple, non-invasive movements to resolve chronic physical pain and postural issues.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Evolutionary Design vs. Modernity:&lt;/strong&gt; Human anatomy is optimized for movement, but modern sedentary lifestyles create structural imbalances and &amp;quot;S-to-C&amp;quot; spinal degradation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pain as Functional Feedback:&lt;/strong&gt; Pain functions as a biological alarm system indicating underlying mechanical failures rather than isolated symptoms that should be silenced by passive treatments.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Empowerment and Subjective Agency:&lt;/strong&gt; Effective recovery requires the individual to take ownership of their health, moving beyond reliance on external experts to actively modify their own lifestyle habits.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;E-cise Training Principles:&lt;/strong&gt; The methodology focuses on static, isometric exercises called E-cises that are easy to memorize and perform, prioritizing consistency over complex athletic movements.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Muscle Fiber Recruitment Strategy:&lt;/strong&gt; The approach targets Type I slow-twitch fibers and stabilizing muscles to eliminate compensatory movement patterns that cause long-term joint and tissue strain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112930&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Xiaomi debuts automotive tech alongside AI hardware, software, and display innovations from Microsoft, Apple, xAI, and LG.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Xiaomi unveiled its Kunlun SUV architecture and high-range EREVs, alongside Kioxia’s PCIe Gen6 enterprise SSDs and Beelink’s 160 TOPS NPU-equipped mini PCs, signaling a significant push toward AI-optimized hardware and infrastructure. On the software front, Microsoft is refactoring legacy Windows 11 components with WinUI 3 and developing a unified &amp;quot;Copilot Super App,&amp;quot; while xAI’s Grok Voice Think Fast 2.0 targets ultra-low latency for real-time speech interactions. Apple continues to resist UK regulatory mandates on third-party payment &amp;quot;steering&amp;quot; while exploring premium AI tiers for iCloud+ to capitalize on recent services growth. Finally, LG has set a new display benchmark by announcing a 1000Hz IPS gaming monitor slated for a 2026 release.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Xiaomi SUV Architecture:&lt;/strong&gt; Xiaomi launched the Kunlun architecture for large SUVs along with the N90 Max and N70 Max EREVs, featuring flexible seating and a maximum CLTC range of 1705km.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Hardware Innovations:&lt;/strong&gt; Beelink introduced mini PCs with dedicated 160 TOPS NPU cards, while LG announced a 1000Hz IPS gaming monitor scheduled for a 2026 release.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;xAI Speech Model:&lt;/strong&gt; The new Grok Voice Think Fast 2.0 model offers improved speech-to-speech latency and transcription accuracy, designed for complex real-time AI interactions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;PCIe Gen6 Storage:&lt;/strong&gt; Kioxia unveiled the CM10 enterprise SSD, leveraging 332-layer TLC NAND and PCIe Gen6 to nearly double sequential read performance for AI data centers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;App Store Regulation:&lt;/strong&gt; Apple officially opposed the UK CMA&amp;#039;s proposed &amp;#039;steering&amp;#039; rules, arguing that forced third-party payment integration compromises platform security and business model autonomy.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Windows UI Modernization:&lt;/strong&gt; Microsoft is refactoring the Windows 11 File Explorer properties dialog using WinUI 3 to eliminate legacy Win32 visual styles and improve design consistency.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Enterprise AI Strategy:&lt;/strong&gt; Microsoft is developing a &amp;#039;Copilot Super App&amp;#039; to unify coding and collaboration, while Apple is exploring premium AI tiers within iCloud+ following record Q3 revenue.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;科技爱好者周刊（第 406 期）：道可，道非，常道&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Examines software engineering’s evolution under AI, highlighting security infrastructure, legendary developers, and specialized tools for modern workflows.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This issue explores the evolving role of software engineers in the AI era, arguing that developer value is shifting from manual coding toward mitigating risks and managing systemic ambiguity. It highlights critical security infrastructure like OpenConnector for AI Agent credential management and profiles the foundational contributions of the legendary programmer behind FFmpeg and QEMU. Finally, the newsletter provides a technical comparison of GPT and Claude’s programmatic art capabilities alongside a curated stack of specialized tools, including WebKit-based Orion and various MCP servers designed for AI-driven workflows.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Huawei&amp;#039;s Survival Philosophy:&lt;/strong&gt; Ren Zhengfei reinterprets the Tao Te Ching to describe Huawei&amp;#039;s unique path of self-reliance, emphasizing that iterative experimentation is the only way to survive external constraints.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Credential Management:&lt;/strong&gt; OpenConnector is introduced as an open-source gateway that prevents AI Agents from leaking sensitive passwords by acting as a secure intermediary for external application authorizations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Resilient Engineering Feats:&lt;/strong&gt; The newsletter highlights the Long March 3B rocket&amp;#039;s ability to withstand a lightning strike via Faraday cage design and explores Tesla&amp;#039;s minimalist approach to children&amp;#039;s bicycle engineering.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;LLM Visual Benchmarking:&lt;/strong&gt; A comparison of flagship models like GPT-5.6 and Claude Fable 5 reveals significant disparities in their ability to programmatically render complex art, with GPT leading in quality and Claude trailing in cost-efficiency.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Modern Developer Utilities:&lt;/strong&gt; The issue curates specialized tools including the WebKit-based Orion browser, FluxDown for multi-protocol downloads, and various MCP servers designed for AI-driven design and coding workflows.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fabrice Bellard&amp;#039;s Legacy:&lt;/strong&gt; A detailed profile honors the legendary programmer behind FFmpeg and QEMU, whose low-profile but foundational work continues to power the global internet infrastructure and modern virtualization.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Evolving Technical Roles:&lt;/strong&gt; Expert commentary suggests that in the AI era, a programmer&amp;#039;s primary value shifts from manual coding to mitigating risks and managing ambiguity in complex systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - July 30, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1753,119 +2013,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Romanian Database Breach:&lt;/strong&gt; The Romanian land registry database was wiped by hackers following a failed ransom attempt, highlighting critical vulnerabilities in national infrastructure security.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;High-Performance Hardware:&lt;/strong&gt; FiiO launched the DM15 portable CD player with AKM DACs, while SanDisk released CFexpress 4.0 cards featuring PCIe Gen 4 for 8K video workflows.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technology Industry Briefs:&lt;/strong&gt; Key updates include HMD&amp;#039;s bid for the Lumia brand, Google&amp;#039;s development of the &amp;#039;Frozen v2&amp;#039; Gemini-integrated chip, and leaks regarding Samsung&amp;#039;s next-gen foldables.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - July 20, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-07-20</id>
-    <updated>2026-07-20T21:12:15.389Z</updated>
-    <published>2026-07-20T21:12:15.389Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>3 articles from 1 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 20, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;220.27397260273972&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    55.1%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;201&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;164&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;28&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████░░░░░░░░░░░░░ 55.1%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;3&lt;/strong&gt; articles from &lt;strong&gt;1&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112543&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派近期 App 推荐：涵盖摄影、效率、AI 与文化学习。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派出品的近期优秀 App 推荐合集。文章详细介绍了七款涵盖摄影、通知管理、影展行程、数字健康、古典文学、本地 AI 及文件效率的应用。重点包括 Halide 3.1 的专业构图工具、LM Studio Bionic 的本地 AI Agent 转型，以及“赶场”对影迷观影流程的优化。作者通过功能解析与场景应用，展示了各应用在提升生产力、美学体验及系统功能补完方面的独特价值。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Halide 3.1 带来了全新的 Scarlet（绯红）影像风格，主打温暖浓郁的色调，并新增了内置的 Frame 构图与几何校正工具。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bubble Notice 旨在增强 Android 的气泡通知功能，支持将任意应用通知包装为悬浮气泡，并集成了应用快速启动器。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;“赶场”是一款专为影展观众设计的行程管理应用，支持排片筛选、日程冲突提醒以及纸质与电子票夹的数字化管理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;blockit 2.0 升级了 Android 端的数字健康管理体验，新增应用白名单与自动例程，并深度适配了 Nothing Phone 的背屏倒计时特性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;西窗烛 8.0 增强了全站诗词搜索与分类检索能力，引入了背诵与朗读的双语音评测功能，并优化了书法练字与 AI 创作模块。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;LM Studio Bionic 让本地开源模型具备了 AI Agent 能力，支持多语言语音转写、本地代码编辑以及在沙盒中处理 Office 文档。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;FilePipe 是一款 Android 文件自动化整理工具，允许用户通过自定义规则，将散落在各处的图片或文档分门别类地归档。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112453&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Optimize cramped workstations using desk mats, monitor arms, and compact peripherals to improve ergonomics, acoustics, and organizational efficiency.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Optimizing space-constrained workstations requires prioritizing ergonomic utility over aesthetics, primarily by using a large desk mat to define operational boundaries and provide critical acoustic and vibration dampening. To maximize reclaimed surface area, the author recommends integrating monitor arms and suspension brackets while transitioning to 65% keyboard layouts to improve shoulder alignment and mouse proximity. By combining these strategic peripheral placements with small-scale storage solutions, developers can significantly enhance productivity and tactile comfort even in sub-optimal or temporary environments.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Prioritizing Functional Space:&lt;/strong&gt; Desk setups should prioritize utility and ergonomics over pure aesthetics, especially in space-constrained environments like dorms or rentals.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Order via Partitioning:&lt;/strong&gt; Using a large desk mat creates a psychological and physical boundary that separates active operation zones from long-term storage areas.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ergonomic and Acoustic Benefits:&lt;/strong&gt; Beyond organization, desk mats provide wrist cushioning, thermal comfort, and significant dampening of keyboard vibration and noise.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Material and Size Selection:&lt;/strong&gt; Standard 90x40 cm cloth mats are ideal for most, while specialized materials like cork or leather offer better aesthetics at the cost of gaming performance.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Leveraging Vertical Space:&lt;/strong&gt; Utilizing monitor arms and suspension brackets for peripherals effectively reclaims desk surface area and improves ergonomic alignment.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Compact Peripheral Strategy:&lt;/strong&gt; Switching to smaller keyboard layouts, such as 65% models, optimizes the ergonomic relationship between the keyboard and mouse to prevent shoulder strain.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Granular Storage Management:&lt;/strong&gt; Implementing small-scale storage like screw trays and monitor risers helps manage high-frequency items without cluttering the primary workspace.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Incremental Workspace Improvement:&lt;/strong&gt; A simple desk mat can significantly enhance productivity and comfort in a sub-optimal workspace until a larger, dedicated space is available.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112425&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026 年再看 iPhone 8 Plus，它还够用吗？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 This 2026 review evaluates the iPhone 8 Plus’s viability by testing its aging hardware against modern software performance demands.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This review evaluates the practical viability of the iPhone 8 Plus in 2026, framing it as a case study for budget-conscious users weighing a decade-old flagship against modern mid-range alternatives. The assessment involved a week-long trial using the 2017 hardware as a primary daily driver to test its performance and stability within the contemporary software ecosystem. The analysis specifically explores whether the aging A11 Bionic architecture can still manage the increased computational overhead and memory demands of 2026-era applications. Ultimately, the findings provide a benchmark for hardware longevity, offering a technical perspective on the &amp;quot;flagship vs. mid-range&amp;quot; value proposition in the current market.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;2026 Retrospective Context:&lt;/strong&gt; The article evaluates the iPhone 8 Plus&amp;#039;s performance in 2026, specifically targeting students looking for budget-friendly smartphone options after their exams.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Flagship vs. Mid-range:&lt;/strong&gt; It addresses the common consumer dilemma of choosing between a brand-new mid-range device and an older, high-end flagship model from previous years.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Real-world Testing Methodology:&lt;/strong&gt; The author conducted a one-week experiment using the 2017 iPhone 8 Plus as their primary daily driver to test its current viability.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Performance Sustainability Assessment:&lt;/strong&gt; The review analyzes whether hardware from nearly a decade ago can still handle the software ecosystem and daily tasks required in 2026.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Multi-channel Video Distribution:&lt;/strong&gt; The detailed findings are presented in high-definition video format across major platforms including Bilibili, Weibo, Douyin, and WeChat.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
