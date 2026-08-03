@@ -4,8 +4,234 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-08-02T20:51:42.737Z</updated>
+  <updated>2026-08-03T21:37:21.116Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - August 3, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-08-03</id>
+    <updated>2026-08-03T21:37:21.116Z</updated>
+    <published>2026-08-03T21:37:21.116Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>12 articles from 7 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 3, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;235.6164383561644&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    58.9%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;215&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;150&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;30&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████░░░░░░░░░░░░ 58.9%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22695&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Monday afternoon session in Belfast&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年贝尔法斯特活动动态记录及互动邀请。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了2026年8月3日星期一下午在Belfast举行的一次活动或发布的动态，包含具体时间、地理坐标及版权说明。信息同步在Mastodon和Bluesky发布，作者邀请读者通过提供URL的方式对该内容进行回应。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22694&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Monday morning street session in Belfast&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年贝尔法斯特街头活动的社交媒体日志记录。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该文本记录了2026年8月3日周一上午在贝尔法斯特（Belfast）进行的一次街头活动。作者以简练的社交媒体日志风格，提供了活动的地理坐标、发布平台（Mastodon和Bluesky）以及来自其他用户的互动点赞记录。全文侧重于信息的时间戳与社交属性，而非叙事性内容。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22692&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;There are many food trucks here at the Fleadh in Belfast, many of them selling burgers, and yet not one of them is called Fleadh Feóil na hÉirinn.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 贝尔法斯特Fleadh节餐车缺乏创意命名。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;2026年8月3日，作者在贝尔法斯特的Fleadh节庆现场观察到众多售卖汉堡的餐车。尽管现场饮食摊位林立，作者却遗憾地发现没有一家餐车使用“Fleadh Feóil na hÉirinn”这一具有文化双关意味的名称。该文以简短的随笔形式记录了地理坐标及社交媒体互动信息，体现了作者对当地节庆命名文化的幽默观察。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-8-3/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.8.3&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录八月夏夜的生活琐事、职场矛盾及肇事逃逸案的法律进展。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以夏夜琐事为线索，记录了作者与 PG&amp;amp;E 维修工的互动、对停电的担忧，以及职场中与 Apple 设计师关于项目撤回的尖锐矛盾。同时，作者提及了拖延近十个月的肇事逃逸案最新进展。文章通过写实的笔触，展现了日常生活、职业挫折与法律维权相互交织的状态，流露出对不专业行为的愤慨及对生活停滞感的唏嘘。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在八月的夏夜处理生活琐事，并与门前修理电箱的 PG&amp;amp;E 工作人员进行了简单交流。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;描述了闷热的夏夜环境以及邻街朋友家停电的情况，作者因担心触发停电而不敢开启空调。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细记录了与 PG&amp;amp;E 维修人员关于井下检查和电力走线问题的互动过程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;表达了对工作中设计师在封版前夕要求撤回已开发三个月项目的强烈不满，质疑其专业性与沟通流程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提到去年十月的肇事逃逸案即将开庭且对方延期申请被驳回，感叹此事对生活的长期困扰。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/book-review-the-field-guide-to-understanding-human-error-by-sidney-dekker/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: The Field Guide to Understanding &amp;#039;Human Error&amp;#039; by Sidney Dekker ★★★★☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Sidney Dekker reframes human error as a systemic symptom, advocating for structural resilience over individual blame.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Sidney Dekker’s work challenges the &amp;quot;bad apple&amp;quot; theory of failure, positing that human error is a symptom of systemic deficiencies, misaligned incentives, and the gap between responsibility and actual authority. Central to this perspective is the concept of &amp;quot;local rationality,&amp;quot; which argues that actions viewed as mistakes in hindsight were actually logical responses to the specific pressures and information available to operators at the time. The book also highlights a technical paradox where new innovations often allow systems to operate closer to their margins, inadvertently eroding the safety buffers the technology was intended to provide. Ultimately, the review underscores that building resilient systems requires addressing these underlying structural dynamics and management deficits rather than focusing on individual blame.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Debunking Human Error:&lt;/strong&gt; The book argues that catastrophes are rarely the result of individual mistakes but are instead caused by systemic failures, misaligned incentives, and unrealistic processes.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Accountability and Authority:&lt;/strong&gt; True accountability is only valid when individuals are granted the actual authority to meet their responsibilities; otherwise, failures reflect a management deficit.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Erosion of Safety Margins:&lt;/strong&gt; New technology often allows systems to be operated closer to their margins, which can inadvertently erode the safety advantages originally gained by the innovation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Internal Rationality vs. Hindsight:&lt;/strong&gt; Actions that appear as errors in hindsight often seem reasonable to those inside the situation when considering the specific pressures and information available at the time.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Systems Thinking in Politics:&lt;/strong&gt; Applying a systems-based view to political discourse suggests that many perceived errors are actually rational responses to systemic incentives set by the electorate.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Formatting and Production Irony:&lt;/strong&gt; Despite its high-quality management insights, the eBook suffers from poor semantic HTML and formatting, ironically failing to apply its own systemic principles to its production.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Technium &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kk.org/thetechnium/88-prompts-for-long-term-thinking/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;88 Prompts for Long Term Thinking&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Prioritize infinite games and slow infrastructure to maximize long-term compounding and resilient value for future generations.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This framework characterizes civilization as a multi-layered system where &amp;quot;slow&amp;quot; infrastructure provides the stability necessary for &amp;quot;fast&amp;quot; innovation to compound over time. It promotes a strategic shift from finite, rigid planning toward &amp;quot;infinite games&amp;quot; that prioritize expanding the future&amp;#039;s possibility space and maintaining flexibility amidst exponential change. By adopting the role of &amp;quot;good ancestors,&amp;quot; decision-makers can leverage long-term compounding to ensure that current systems deliver their primary value to future generations while maintaining a resilient competitive advantage.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Compounding Change Management:&lt;/strong&gt; Civilization is defined as the primary system for managing and compounding change over time. By fostering tools that support this process, we create a stable environment for continuous, exponential progress.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Perspective Over Planning:&lt;/strong&gt; Long-term thinking favors open-ended questions and flexible perspectives over rigid, fixed plans. This approach ensures that decisions remain relevant during compounding change and allows for the discovery of unexpected future solutions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Maximizing Future Possibilities:&lt;/strong&gt; The ultimate goal of present-day decision-making is to expand the total number of choices and opportunities available to future generations. Progress is measured by how effectively we increase the &amp;#039;possibility space&amp;#039; for those yet to be born.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Infinite Game Dynamics:&lt;/strong&gt; The objective is to transition from finite games with fixed endings to infinite games focused on continuation and improvement. In these systems, success is found in keeping the game going and ensuring mutualistic benefits for all players.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Multi-Paced System Design:&lt;/strong&gt; Civilization functions as a multi-layered system where &amp;#039;fast&amp;#039; layers learn and &amp;#039;slow&amp;#039; layers remember. Effective long-term governance protects slow infrastructure to provide a stable foundation for rapid innovation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ancestral Responsibility Framework:&lt;/strong&gt; Acting as &amp;#039;good ancestors&amp;#039; requires prioritizing the interests of the unborn over the demands of the present. Systems should be designed so that the majority of benefits are delivered long after the current generation has passed.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optimistic Long-View Leverage:&lt;/strong&gt; A long-term perspective offers a competitive advantage by allowing compounding gains to offset temporary setbacks. Optimism is rooted in the belief that future capacities for improvement will far exceed current problem-solving limitations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/nf2f04d319ef6&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;サイバーコネクトツーお客様からの声 2026 Part 1&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CC2分享30周年粉丝感言，展示作品对玩家的深远影响。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了CyberConnect2（CC2）在成立30周年之际收到的粉丝来信。内容涵盖了玩家对《Dragon Ball Z KAKAROT》DLC的高度评价，以及对新作《.hack//Z.E.R.O.》的期待。多位粉丝分享了作品对其人生的深远影响，包括创作灵感与心理慰藉。CC2官方通过回应表达了对粉丝的诚挚感谢，并承诺将继续秉持作品爱与情热进行创作，回馈长期支持的玩家群体。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CyberConnect2广报白水介绍公司30周年及近期动态，并开始分享上半年收到的粉丝来信。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍“粉丝来信邮筒”活动，粉丝可通过投递感想获得松山洋签名的特制明信片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供投递链接及往期粉丝留言的回顾地址，鼓励更多用户参与互动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;粉丝Grind no Taiki表达了对《Dragon Ball Z KAKAROT》新DLC的高度赞赏，特别是对动画还原度的认可。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CC2回复感谢粉丝对《Dragon Ball Z》系列的热爱，并表示粉丝的认可将激励开发团队。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;粉丝月乃欅分享了因《.hack》系列而开始创作小说并取笔名的经历，表达对新作的期待。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CC2回应称粉丝的长期支持是公司迎来30周年的动力，特此发布新作《.hack//Z.E.R.O.》回馈粉丝。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;粉丝猫井廻人祝贺30周年，并希望新作能保留经典的“三词区域传送”系统及新角色的加入。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CC2感谢建议并表示会将关于系统和角色的期待反馈给开发团队，请粉丝继续支持。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;粉丝シロン分享了《.hack//G.U.》如何帮助其走出社交困境并改变人生的感人经历。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CC2对作品能为粉丝人生带来积极影响感到荣幸，表示将继续努力制作能留在人心中的作品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结全文，再次感谢所有来信者，并提醒参与者注意查收特制明信片奖励。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113040&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Recent updates feature deep AI integration, enhanced productivity automation, and reduced costs for developer AI implementation.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Recent application updates emphasize deep AI integration, with tools like Readwise and legacy clipboard managers adopting LLM-powered &amp;quot;Highlights&amp;quot; chatting and MCP/CLI-driven workflows. Productivity platforms are prioritizing automation and system-level hooks, featuring enhanced AppleScript/Siri Shortcuts support and sophisticated notification parsing for Android’s specialized &amp;quot;Live Window&amp;quot; features. Furthermore, the developer ecosystem benefits from Claude Code’s new Apple simulator support and a significant reduction in API pricing for OpenAI’s latest models, substantially lowering the barrier for high-scale AI implementation.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Readwise 2.0 Major Update:&lt;/strong&gt; Rebuilt from the ground up, this version introduces &amp;#039;Chat with Highlights&amp;#039; powered by AI, along with OCR scanning for physical books and voice-to-note capabilities.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;2Do Mac 3.0 Modernization:&lt;/strong&gt; The task manager receives a complete UI overhaul and enhanced automation via AppleScript and Siri Shortcuts, plus improved CalDAV and Todoist synchronization.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Livebridge Notification Enhancement:&lt;/strong&gt; This utility bridges standard Android notifications to system-specific &amp;#039;Live Window&amp;#039; features using custom parsing rules, with specialized support for Xiaomi and Samsung devices.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;MyWindowPip Universal PiP:&lt;/strong&gt; A macOS tool that enables Picture-in-Picture for any application window or specific screen region, featuring variable frame rates and power-saving static detection.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;PasteBot 3 Workflow Automation:&lt;/strong&gt; The veteran clipboard manager integrates MCP and CLI tools for AI-driven workflows and replaces sequential pasting with a more flexible &amp;#039;Stacks&amp;#039; feature.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Suishi Minimalist Countdown:&lt;/strong&gt; A lightweight Android application for tracking anniversaries and deadlines, featuring system calendar integration and highly customizable Material You style widgets.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Developer Tool News:&lt;/strong&gt; Claude Code adds support for Apple ecosystem simulators, while OpenAI significantly reduces API pricing for GPT-5.6 models to lower development costs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112685&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;把折叠屏外屏做成手机后：iKKO MindOne Pro 体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A premium square-format smartphone hindered by severe software scaling issues, weak hardware, and superficial AI features.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The iKKO MindOne Pro is a premium, square-format smartphone inspired by foldable outer screens, yet it suffers from severe UX degradation as standard Android applications fail to adapt to its extreme aspect ratio. Technically, the device is hampered by an unoptimized Android 12 stack running on a modest Helio G99 SoC, resulting in significant thermal issues, high standby battery drain, and inconsistent hardware behaviors like undocumented refresh rate scaling. Its marketed &amp;quot;Parallel OS&amp;quot; AI features are largely superficial, functioning as a restricted launcher for offline LLMs rather than a deep, system-integrated intelligence layer. Ultimately, while the device serves as an aesthetically pleasing novelty or digital detox tool, its lack of software-hardware synergy and poor sensor tuning make it functionally uncompetitive against modern small-format foldables.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware Design Philosophy:&lt;/strong&gt; The MindOne Pro features a unique, high-quality square form factor inspired by foldable phone outer screens, offering a premium tactile feel and compact build.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ergonomic &amp;amp; UX Bottlenecks:&lt;/strong&gt; The extreme aspect ratio severely compromises input efficiency and content consumption, as standard Android applications struggle to adapt to the limited vertical space.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fragmented Software Stack:&lt;/strong&gt; The system is a patchwork of modern security patches layered on an outdated Android 12 vendor base, resulting in a lack of optimization and inconsistent app behavior.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI OS Implementation:&lt;/strong&gt; Marketed as a parallel OS, the AI features function as a restricted launcher providing offline LLM access and basic educational tools rather than a true integrated intelligence layer.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Performance &amp;amp; Technical Quirks:&lt;/strong&gt; Powered by a modest Helio G99, the device suffers from counter-intuitive hardware choices like misplaced light sensors and undocumented screen refresh rate behaviors.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Power &amp;amp; Imaging Limitations:&lt;/strong&gt; Significant standby battery drain, thermal issues during charging, and a poorly tuned IMX766 sensor make the device functionally unreliable for standard mobile photography or daily use.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Final Market Positioning:&lt;/strong&gt; While visually striking as a novelty item or digital detox tool, the device&amp;#039;s functional failures make it difficult to recommend over modern small-format foldables.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112966&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;职人专访 #001：少数派背后的理想主义&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Sspai founder Lao Mai discusses balancing business logic with content idealism in this inaugural professional interview.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This inaugural interview features Lao Mai, the founder of sspai, detailing his 18-year transition from medicine to tech entrepreneurship and the operational philosophy behind the platform. The discussion examines the strategic balance between rigorous business logic and an idealistic commitment to &amp;quot;efficient work and quality life&amp;quot; through high-quality, independent content. By analyzing Lao Mai’s leadership and product-driven approach—exemplified by the BANG!CASE accessory—the article underscores the value of maintaining content integrity amidst modern digital noise. This piece marks the launch of a new video podcast series focused on the internal self-construction and professional evolution of industry leaders.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware-Driven Connection:&lt;/strong&gt; The author&amp;#039;s positive experience with the BANG!CASE smartphone accessory served as the catalyst for reaching out to sspai founder Lao Mai for a deep-dive interview.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Collaborative Interview Process:&lt;/strong&gt; Following a preliminary meeting in Shanghai, the author conducted a comprehensive 48-minute video interview at sspai&amp;#039;s Shenzhen headquarters covering entrepreneurship and product development.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Entrepreneurial Evolution:&lt;/strong&gt; The discussion traces Lao Mai’s 18-year journey from a medical background to tech entrepreneurship, highlighting his personal metamorphosis and leadership style.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pragmatic Idealism:&lt;/strong&gt; The interview explores how sspai balances rigorous business logic with a pure, idealistic commitment to the philosophy of &amp;#039;efficient work and quality life.&amp;#039;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Content Value Philosophy:&lt;/strong&gt; In an era of information explosion and digital noise, the article emphasizes that independent, high-quality content remains a rare and essential commodity.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Professional Interview Series:&lt;/strong&gt; This inaugural episode marks the launch of a new video podcast series designed to explore the internal self-construction and professional growth of diverse individuals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112551&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;角落新声｜两平米、两个角落，安放两个自己&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A 2m² dormitory workspace optimized for game development through high-performance hardware, Zigbee automation, and vertical spatial engineering.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author details the engineering of a highly optimized, two-square-meter workspace designed for professional game development and design within the strict physical and regulatory constraints of a dormitory. The technical stack features a high-performance Windows PC and 4K display integrated with a non-invasive Zigbee smart home ecosystem that leverages physical actuators and DIY lighting to automate legacy infrastructure without permanent modifications. Spatial efficiency is maximized through a frequency-based tiered storage strategy, utilizing vertical pegboards and custom 3D-printed mounts to expand the functional capacity of the limited footprint. Ultimately, the setup demonstrates a sophisticated blend of hardware scaling, IoT automation, and physical product design to create a seamless transition between professional productivity and personal comfort.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Tiered Storage Strategy:&lt;/strong&gt; The author categorizes items into three spatial tiers based on usage frequency to balance immediate accessibility with visual order in a small dorm environment.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dorm Lighting Automation:&lt;/strong&gt; By utilizing physical switch actuators and a DIY under-bed ceiling light, the author bypasses dorm modification restrictions to create a sophisticated smart lighting system.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;High-Performance Hardware Transition:&lt;/strong&gt; The setup evolved from a MacBook to a custom Windows PC and a high-accuracy 4K monitor to meet the specific demands of game development and professional design.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optimized Input Devices:&lt;/strong&gt; The author selected a low-profile mechanical keyboard for its portability and tactile feedback, along with MagSafe accessories to streamline charging and mobile integration.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Smart Ecosystem Control:&lt;/strong&gt; Integrating Zigbee gateways and physical wireless switches allows for seamless automation of legacy appliances like air conditioners without relying solely on mobile apps.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Vertical Space Maximization:&lt;/strong&gt; Strategic use of multi-sized trolleys and pegboards with custom 3D-printed mounts expands storage capacity by utilizing often-ignored vertical and hidden surfaces.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;来了来了，Flex/Grid布局的间隙装饰线它来了&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CSS 间隙装饰线在 Flex/Grid 布局中的新特性与应用解析&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细介绍了 CSS 间隙装饰线（Gap Decoration）在 Flex 和 Grid 布局中的最新演进。作者张鑫旭解析了 column-rule 和 row-rule 的新特性，包括多值平铺、repeat() 函数、交叉中断控制（rule-break）以及缩进扩张（rule-inset）等。这些特性显著简化了复杂布局的视觉装饰，虽目前仅 Chrome 149+ 支持，但为未来前端布局提供了更强大的原生工具。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍 column-rule 属性的历史背景及其在早期多栏布局中的应用局限性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;强调该属性在 Flex 和 Grid 布局中迎来新生，极大简化了分屏布局的装饰线实现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲解了装饰线支持多属性值设置，允许从起始到结束应用不同的样式循环。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细说明了多值属性的平铺规则以及如何利用 repeat() 函数简化繁琐的代码编写。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了 rule-break 属性及其 intersection 值，用于控制纵横装饰线在交叉点处的留白效果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨了 rule-inset 系列属性，通过正负值灵活控制装饰线的缩进、扩张及其对称性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了 rule-visibility-items 属性的用法，用于精准控制在没有子元素的间隙处是否显示装饰线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结了该特性的动画支持情况，并指出其目前仅在 Chrome 149+ 等极新版本浏览器中受支持。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - August 2, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1686,167 +1912,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Software Engineering Best Practices:&lt;/strong&gt; Curates technical insights on AI&amp;#039;s first principles, secure authentication token storage strategies, and efficient methods for synchronizing SQLite databases across servers.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Developer Tooling and AI:&lt;/strong&gt; Introduces high-performance utilities including Rust-based Markdown engines, open-source smartwatch OSs, and AI-powered platforms for secure testing and automated video editing.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Industry and Professional Reflections:&lt;/strong&gt; Analyzes the business pivot of OnePlus away from enthusiasts, the risks of AI-driven superficial productivity, and the systemic issues within modern &amp;#039;full-stack&amp;#039; hiring practices.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - July 23, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-07-23</id>
-    <updated>2026-07-23T21:08:09.066Z</updated>
-    <published>2026-07-23T21:08:09.066Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>10 articles from 5 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 23, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;223.56164383561645&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    55.9%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;204&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;161&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;29&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████░░░░░░░░░░░░░ 55.9%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;10&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22669&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Donegal sundown&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录2026年7月23日Donegal日落及社交互动的信息。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇记录2026年7月23日Donegal日落信息的简短社交媒体或博客发布。内容包含了日落的具体时间（12:09am）、地理坐标（55° N, 9° W）以及在Mastodon、Bluesky和Instagram等平台的同步情况，并记录了三位用户的点赞互动。整体风格简洁，属于典型的个人动态记录。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22668&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Wednesday session in Glencolmcille&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年7月23日Glencolmcille社交动态及点赞记录。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一条发布于2026年7月23日的社交动态记录，地点位于Glencolmcille。内容涵盖了详细的地理位置坐标、多社交平台同步情况以及具体的点赞互动名单。作者通过简洁的日志形式记录特定时刻的状态，并积极邀请读者通过提交URL的方式进行回应与互动。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;记录了2026年7月23日在Glencolmcille的活动信息，包含地理坐标及Mastodon、Bluesky等平台链接。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了页面导航信息及互动统计，显示该动态获得了4次点赞。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细列出了Prince Wilson、Adam Argyle等四位用户的点赞记录及具体时间。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者邀请读者针对此内容发布回应，并请求告知相关的URL地址。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-07-23T09:29Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-07-23T09:29Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 苹果停止 macOS 15 的 Safari 技术预览版支持。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;苹果已停止为 macOS 15 (Sequoia) 提供 Safari Technical Preview 更新，版本 245 为其最后支持版本。自版本 256 起，该程序需在 macOS 26 (Tahoe) 上运行。虽然目前用户仍能在 Sequoia 上安装 Safari 26 或 27 Beta，但作者提醒需警惕系统设置中诱导升级至新系统的交互陷阱。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-07-23T05:06Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-07-23T05:06Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Codeberg 采取措施保护开源生态免受 LLMs 侵害。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Codeberg 明确表示将保护开源软件 (FLOSS) 免受大语言模型 (LLMs) 的侵蚀。该项目主张将 AI 生成的低质量内容留在 GitHub，以此抵制“死亡互联网”现象。这种做法展示了 Codeberg 维护高质量、人类驱动的开源生态，反对自动化生成内容侵蚀的坚定立场。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Codeberg 宣布致力于保护开源 (FLOSS) 公共资源免受大语言模型 (LLMs) 的侵害。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文中通过 TL;DR 建议将 AI 生成的低质量内容 (slop) 保留在 GitHub 平台上。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对该项目积极反抗“死亡互联网”趋势、维护社区纯净的做法表示赞赏。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 卡片创作实验室 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://cnfeat.com/posts/2026/07/23/2026-07-10-%E5%A6%82%E4%BD%95%E4%BB%8E%E8%87%AA%E5%B7%B1%E5%8F%98%E5%BC%BA%E5%88%87%E6%8D%A2%E5%88%B0%E8%AE%A9%E5%88%AB%E4%BA%BA%E5%8F%98%E5%BC%BA/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://cnfeat.com/posts/2026/07/23/2026-07-10-%E5%A6%82%E4%BD%95%E4%BB%8E%E8%87%AA%E5%B7%B1%E5%8F%98%E5%BC%BA%E5%88%87%E6%8D%A2%E5%88%B0%E8%AE%A9%E5%88%AB%E4%BA%BA%E5%8F%98%E5%BC%BA/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 管理者需戒掉亲力亲为的爽感，通过赋能与机制实现从做事到育人的转型。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了管理者从“亲自解决问题”向“成就他人”转型的心理挑战与实践路径。作者指出，跨越胜负心、控制权及价值观这三层心理枷锁是转型核心，必须戒掉即时成就感的诱惑。通过事前赋能、事中引导、事后复盘的系统化辅导，管理者应将价值锚点从个人产出转向团队成长，通过建立辅导机制和重新衡量考核指标，实现从“做事”到“育人”的阶跃。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;许多领导者在转型初期难以平衡亲自上手与放手让下属成长之间的界限。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;领导者最难跨越的是戒掉亲力亲为带来的即时成就感，实现从个人产出到成就他人的逻辑转变。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;亲自动手的即时反馈优于培养他人的漫长过程，阻碍转型的核心是胜负心、控制权与价值观这三层心理枷锁。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;胜负心导致对下属低效的焦虑，而对失控的厌恶使领导者宁愿亲自兜底也不愿承担试错成本。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;领导者需要更新价值观，将评价标准从“解决难题”提升到“培养能解决难题的人”。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;应对策略包括在动手前自省，通过事前赋能、明确目标和提供框架来代替包办。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;建立辅导机制，通过阶段性反馈和提问引导下属思考，在可控范围内允许试错而非代劳。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;重新定义价值衡量标准，将下属的成长和独立完成任务数作为核心指标，并共同承担结果与复盘。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112668&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 247｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派编辑部分享近期新奇好物的使用体验。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了少数派的「编辑部的新玩意」栏目，旨在向读者展示编辑部成员近期购买并使用的各种新奇产品。通过编辑们的亲身分享，读者可以了解到这些产品的真实使用体验。文中特别提及了编辑 @Lotta 推荐的海备思文件夹读卡器等相关内容。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112428&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 DJI Pocket 4P utilizes mechanical gimbals and 1-inch sensors to deliver professional-grade cinematography beyond smartphone hardware constraints.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The DJI Pocket 4P addresses the inherent hardware limitations of smartphones by prioritizing a specialized imaging stack, featuring 1-inch sensors and physical three-axis gimbals over the computational and thermal compromises of mobile devices. By embedding mechanical stabilization directly into the chassis, the device delivers superior low-light performance and lossless tracking while supporting professional 10-bit D-Log 2 workflows without the need for bulky external rigs. This architectural focus on dedicated imaging components rather than multi-purpose subsystems lowers the entry barrier for high-fidelity content production. Ultimately, the entry of serious competition signals the category&amp;#039;s evolution from a niche consumer gadget into a mature, professional-grade toolset for the creator economy.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Camera Market Resurgence:&lt;/strong&gt; Driven by the creator economy, the imaging market is rebounding as users outgrow smartphone limitations and seek advanced tools for high-quality content production.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining Pocket Cinematography:&lt;/strong&gt; The Pocket 4P bridges the gap between recording and creation by integrating professional-grade 10-bit D-Log 2 workflows and a versatile dual-lens system.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Smartphone Workflow Limitations:&lt;/strong&gt; While flagship phones are capable, achieving professional results often requires expensive, bulky external rigs that negate their inherent portability and thermal efficiency.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dedicated Hardware ROI:&lt;/strong&gt; Unlike smartphones that distribute costs across various subsystems, the Pocket 4P concentrates investment into specialized imaging components like 1-inch sensors and physical gimbals.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mechanical vs. Computational:&lt;/strong&gt; Physical three-axis gimbals provide a fundamental hardware advantage over computational stabilization, enabling superior low-light performance and intelligent, lossless subject tracking.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Integrated Design Evolution:&lt;/strong&gt; By embedding stabilization directly into the chassis, the Pocket series mirrors the mirrorless revolution by removing traditional structural compromises and lowering the barrier to entry.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Maturing Industry Ecosystem:&lt;/strong&gt; The arrival of serious competition from brands like Insta360 marks a pivotal moment for gimbal cameras, signaling the category&amp;#039;s transition into a mature professional segment.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111300&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;让 Windows 顺眼又省心：我的新设备配置经验&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Matrix是少数派分享真实产品体验与思考的写作社区。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Matrix是少数派旗下的写作社区，旨在分享真实的产品体验以及具有实用价值的经验与思考。平台通过不定期精选优质文章，展示用户最真实的观点和见解，且文章内容仅代表作者个人观点。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112647&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 OpenAI发布企业新工具，耐克重构大中华区市场生态。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;OpenAI 发布了专为企业用户设计的 OpenAI Presence，旨在增强企业级服务能力；与此同时，运动品牌耐克宣布重构大中华区市场生态，以优化区域业务布局。这些动态展示了科技与零售巨头在核心市场战略上的最新调整。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;纯CSS实现repeat(–n, anything)循环展示或相加功能&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Implement CSS loops and string concatenation via binary decomposition and @function for complex declarative styling without JavaScript.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article explores a novel implementation of loops and string concatenation in CSS using the emerging `@function` specification and a binary decomposition strategy. By converting decimal inputs into binary bits via `calc()` and `round()`, the method selectively assembles pre-generated token blocks of sizes $2^n$ (up to 128) using the new `if()` and `style()` queries. This approach enables complex visual accumulation for properties like `text-shadow`, `drop-shadow`, and `shape()` that were previously impossible without preprocessors or JavaScript. While it represents a significant milestone for declarative CSS logic, the technique is currently limited to 255 repetitions and is intended for architectural experimentation rather than production environments due to varying browser support.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;CSS Custom Functions:&lt;/strong&gt; The article introduces a custom CSS `--repeat` function that enables string concatenation and numerical accumulation using the emerging `@function` specification.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Binary Decomposition Logic:&lt;/strong&gt; The core logic involves converting a decimal input into binary bits using `calc()` and `round()` to determine which power-of-two components to include in the final output.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Power-of-Two Doubling:&lt;/strong&gt; To simulate loops in a declarative language, the function uses a doubling strategy to create token blocks of sizes 1, 2, 4, up to 128.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Conditional Result Assembly:&lt;/strong&gt; The final result is assembled using the new CSS `if()` and `style()` queries, which selectively concatenate pre-generated token blocks based on the calculated binary bits.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Versatile Application Scenarios:&lt;/strong&gt; The implementation demonstrates versatility by applying the repeat logic to text-shadows, drop-shadow filters, and complex layout functions like `shape()`.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Constraints:&lt;/strong&gt; The method is currently limited to 255 repetitions and relies on cutting-edge CSS features that have varying levels of browser support.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Production Readiness Considerations:&lt;/strong&gt; While a significant milestone for CSS logic, the author suggests this technique is currently best for experimentation and architectural insight rather than stable production environments.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
