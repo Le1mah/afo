@@ -4,8 +4,163 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-08-04T21:34:45.473Z</updated>
+  <updated>2026-08-05T21:20:35.003Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - August 5, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-08-05</id>
+    <updated>2026-08-05T21:20:35.003Z</updated>
+    <published>2026-08-05T21:20:35.003Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>7 articles from 3 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 5, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;237.8082191780822&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    59.5%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;217&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;148&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;31&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████░░░░░░░░░░░░ 59.5%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;7&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22699&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Wednesday afternoon session in Belfast&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年贝尔法斯特会议元数据及社交媒体互动信息。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这段文本记录了2026年8月5日周三下午在贝尔法斯特（Belfast）举行的一次会议或活动的元数据。内容涵盖了时间、地理坐标（55° N, 6° W）、CC署名协议，并提及在Mastodon和Bluesky等社交平台的发布动态，最后邀请读者通过URL反馈相关回复。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22698&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Wednesday morning session in Belfast&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年8月5日贝尔法斯特发布的社交动态简讯。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该文本是2026年8月5日在贝尔法斯特发布的一则简短动态。内容涵盖了时间戳、地理坐标、社交媒体链接（Mastodon和Bluesky）以及来自Ms. Jen的点赞互动，并附带了回复邀请。其写作风格具有典型的微型博客特征，侧重于元数据记录与社交互动。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Gadget Review: T2 Max plug-in Thermal Camera ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A high-quality thermal monocular for wildlife observation marred by buggy software and limited platform support.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The T2 Max is a portable USB-C thermal monocular featuring an adjustable lens and &amp;quot;X3 enhanced mode&amp;quot; that delivers upscaled 1008x1344 imagery, optimized specifically for long-range wildlife observation. While the hardware provides high-quality thermal data and unique features like picture-in-picture overlays, the experience is severely bottlenecked by a buggy companion app and software-level performance issues that cause significant frame rate drops during video recording. Technically, the device is strictly limited to mobile platforms; it lacks Linux support due to missing internal resistors and USB enumeration errors that prevent standard desktop recognition. Despite its premium £320 price point and unpolished UX, it remains a capable specialized tool for outdoor enthusiasts who prioritize portability and raw imaging performance over software stability.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware and Form Factor:&lt;/strong&gt; The T2 Max is a compact USB-C thermal monocular featuring a manually adjustable lens and a design that accommodates phone cases. The package includes essential accessories like a padded carry case, extension leads, and a Lightning adapter for legacy iOS devices.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Imaging and Enhancement:&lt;/strong&gt; The device captures upscaled 1008x1344 images with an &amp;#039;X3 enhanced mode&amp;#039; that extracts significant detail for wildlife observation. It offers various thermal palettes, including a green-highlight mode, and a picture-in-picture overlay combining thermal and optical views.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Video and Audio Recording:&lt;/strong&gt; Video is recorded at 672x504 resolution with support for external audio via the smartphone&amp;#039;s microphone. However, the frame rate frequently degrades during recording, which appears to be a software-level performance issue rather than a hardware limitation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;App UI and Stability:&lt;/strong&gt; The companion Android app provides necessary configuration options but suffers from a cumbersome interface and frequent crashes. Basic tasks like taking photos are buried in menus, and the software lacks the polish seen in competing thermal imaging tools.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Platform Compatibility:&lt;/strong&gt; While the device functions on Android and iOS, it lacks Linux support due to USB enumeration errors and missing internal resistors required for standard desktop recognition. It is strictly marketed as a mobile-only peripheral.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pricing and Market Position:&lt;/strong&gt; Retailing at approximately £320, the T2 Max is a premium-priced tool optimized for portability and outdoor use. It is positioned as a specialized monocular for wildlife spotting rather than a tool for domestic inspections like leak detection.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Final Verdict:&lt;/strong&gt; The T2 Max delivers impressive image quality and excellent portability but is significantly held back by its unstable mobile application. It is a solid choice for outdoor enthusiasts willing to tolerate software friction for high-quality thermal data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112831&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;196 张盗版碟，和我的游戏启蒙史&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 How China’s early 2000s piracy scene and Warez groups catalyzed technical literacy and PC gaming culture.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article chronicles the early 2000s gaming subculture in China, where the **Warez scene** and **0day releases** from legendary cracking groups like Razor1911 served as the primary pipeline for software distribution. It details the technical transition from floppy disks to optical media, highlighting how publications like *PopSoft* acted as essential documentation for &amp;quot;disc hunting&amp;quot; and mastering the **PC DIY** skills necessary to meet escalating 3D hardware requirements. The narrative also examines the industry-wide impact of legal crackdowns, such as the FBI’s **Operation Buccaneer**, which dismantled major groups like Myth and signaled the decline of the traditional piracy ecosystem. Ultimately, the author reflects on how these resource-constrained environments catalyzed a generation’s technical literacy in hardware optimization and software architecture.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;盗版时代的起点:&lt;/strong&gt; 作者回忆了 2000 年代初在三四线城市资源匮乏的环境下，盗版游戏成为其接触电子游戏的唯一途径。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;破解组织的兴起:&lt;/strong&gt; 文章介绍了 Warez 组织与 0day 资源的背景，以及 Razor1911 等传奇破解小组在技术竞赛中留下的文化痕迹。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;早期光碟记忆:&lt;/strong&gt; 描述了从软盘到光盘的介质变迁，以及盗版碟因其高性价比和便捷性在早期玩家群体中的普及。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;游戏杂志的指引:&lt;/strong&gt; 《大众软件》等刊物不仅是游戏资讯的来源，更成为了作者在电脑城“淘碟”和了解硬件知识的百科全书。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;法律制裁与变迁:&lt;/strong&gt; 随着《数字千年版权法》的实施和 FBI 的“灭绝行动”，Myth 等知名破解组织遭到重创，行业格局发生巨变。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;硬件追求与 DIY:&lt;/strong&gt; 随着游戏对配置要求的提升，作者从网吧转战个人电脑 DIY，通过自主研究硬件配置来满足运行大型 3D 游戏的需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112953&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Bookology：从藏书到笔记，打造你的私人阅读档案&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Bookology：一站式数字阅读管理与私人档案工具&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细介绍了阅读管理应用 Bookology。作者 ElijahLee 分享了该应用如何通过整合藏书管理、阅读进度追踪、多维度数据统计及跨平台笔记导入，解决阅读工具碎片化的问题。文章强调了拟真“书脊”书架和多轮阅读管理等特色功能。Bookology 凭借精美的 UI 设计和全流程的功能覆盖，为用户提供了打造私人数字阅读档案的一站式解决方案，适合追求长期阅读积累的用户。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了过去使用分散工具管理阅读的痛点，并引出集多种功能于一身的 Bookology 应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该应用提供丰富的图书数据库，支持通过搜索、ISBN 扫码或链接等多种方式建立私人数字藏书库。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;特色的“书脊”功能和装饰摆件让虚拟书架更具真实感和个性化，提升了数字收藏的审美体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;内置阅读计时器包含正/倒计时及“文学时钟”功能，帮助用户在更有氛围的环境中培养阅读习惯。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;支持按页数或百分比追踪进度，并通过“会话”和“轮次”功能精细化管理单次或多次重复阅读。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;用户可以自定义书籍的五种阅读状态及起止日期，方便对历史阅读数据进行追加和管理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;应用基于追踪数据生成多维度的精美统计图表，直观呈现用户的阅读轨迹、节奏和成果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解决了多平台笔记分散的问题，支持从 Kindle 等导入标注，并提供 OCR 扫描录入功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供书库导入导出功能，兼容 Goodreads 数据并支持 CSV 格式导出以保证数据迁移性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bookology 是一款集成化的阅读档案工具，通过美观的设计和全方位功能帮助用户积累阅读记录。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112891&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Optimize desktop audio through precise 2.1 speaker alignment and empirical measurement-based tuning for accurate near-field performance.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article details an iterative approach to optimizing desktop near-field listening, emphasizing that traditional Hi-Fi principles must be adapted for close-range environments where direct sound and high resolution are paramount. Through a progression of four setups, the author illustrates how large bookshelf speakers create resonance issues and compact units lack soundstage, ultimately concluding that a 2.1 system provides the best balance of spatial imaging and low-frequency impact. Achieving the &amp;quot;sweet spot&amp;quot; requires precise geometric alignment—specifically an equilateral triangle configuration with high-frequency drivers at ear level—to ensure phase coherence and soundstage accuracy. Finally, the author advocates for an empirical tuning methodology, utilizing mobile measurement tools like HouseCurve to analyze frequency response and correct acoustic anomalies through informed placement and EQ adjustments.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Near-field Audio Fundamentals:&lt;/strong&gt; The author distinguishes traditional HiFi from desktop near-field listening, emphasizing direct sound, high resolution, and minimal room interference for close-range setups.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Oversized Speaker Pitfalls:&lt;/strong&gt; Attempting to use 6.5-inch bookshelf speakers on a desk leads to severe resonance issues and poor sound integration due to inadequate listening distance.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Portable Speaker Trade-offs:&lt;/strong&gt; While ultra-compact Bluetooth speakers save space and offer portability, they suffer from a narrow soundstage and lack the low-frequency quality needed for immersive media.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Omnidirectional Sound Challenges:&lt;/strong&gt; 360-degree speakers provide rich bass and fill the room, but they are sensitive to wall reflections and struggle to create a precise stereo image for movies.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optimizing 2.1 Configurations:&lt;/strong&gt; A 2.1 system balances spatial imaging and low-frequency impact, providing a clear soundstage through satellites while offloading heavy bass to a dedicated subwoofer.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Geometric Speaker Placement:&lt;/strong&gt; Achieving the &amp;#039;Sweet Spot&amp;#039; requires an equilateral triangle arrangement between the listener and speakers, with high-frequency drivers aligned precisely at ear level.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Digital Acoustic Optimization:&lt;/strong&gt; Using mobile tools like HouseCurve allows developers to measure frequency response and empirically adjust placement to smooth out peaks and dips in the audio curve.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113087&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：OPPO A7 Pro Max 发布、CMF 推出开放式耳机 Clip Pro 等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Tech news highlights OPPO’s 10,000mAh battery, a critical Google security flaw, and intensifying Apple-OpenAI legal disputes.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;OPPO and Sony have pushed hardware boundaries with the A7 Pro Max&amp;#039;s 10,000mAh silicon-carbon anode battery and an ultra-lightweight 654g telephoto lens, while CMF introduced LDAC-supported open-ear headphones. On the security front, researchers disclosed &amp;quot;Pass-ta-key,&amp;quot; a critical vulnerability targeting Google Password Manager on Windows that bypasses passkey verification by extracting identity and SDS encryption keys from system memory and logs. Meanwhile, the legal conflict between Apple and OpenAI over trade secrets has escalated, coinciding with significant industry shifts such as Microsoft testing its MAI Realtime voice model and major PC vendors HP and Acer integrating CXMT DRAM chips.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;OPPO A7 Pro Max:&lt;/strong&gt; OPPO launched a new rugged smartphone featuring a massive 10,000mAh silicon-carbon anode battery and IP69K-rated durability. The device is designed for extreme environments, supporting stable operation from -30°C to 55°C and offering a seven-year battery lifespan.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;CMF Clip Pro Earbuds:&lt;/strong&gt; Nothing&amp;#039;s sub-brand CMF introduced its first open-ear clip-on headphones featuring 10.8mm dual-magnet drivers and LDAC support. The product emphasizes a lightweight 5.9g design and includes a unique &amp;#039;Smart Dial&amp;#039; control on the charging case.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Sony Lightweight Telephoto Lens:&lt;/strong&gt; Sony announced the FE 100-400mm F5.6-8 OSS, a remarkably light 654g full-frame telephoto zoom lens. It supports 120fps high-speed continuous shooting and features an optical design optimized for portability without sacrificing autofocus performance.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apple OpenAI IP Dispute:&lt;/strong&gt; Apple has expanded its legal action against OpenAI and former employees, alleging the theft of trade secrets related to unreleased products. OpenAI countered by citing Apple&amp;#039;s own system permission mismanagement and procedural errors in the investigation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Passkey Security Vulnerability:&lt;/strong&gt; Security researchers identified the &amp;#039;Pass-ta-key&amp;#039; attack targeting Google Password Manager, which allows attackers to bypass passkey verification on compromised Windows devices. The vulnerability involves extracting identity keys or SDS encryption keys from memory and logs to gain unauthorized account access.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI and Hardware Briefs:&lt;/strong&gt; Key updates include Microsoft testing its MAI Realtime voice model and major PC vendors like HP and Acer beginning to integrate CXMT DRAM chips. Additionally, Anthropic&amp;#039;s CEO expressed internal concerns regarding employee motivations versus the company&amp;#039;s AI mission.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - August 4, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1824,118 +1979,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;参数微调逻辑:&lt;/strong&gt; 面对风味不佳时应遵循变量控制原则，区分稀释过度与萃取不足，通过调整研磨度或接触时间进行单项优化。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;选豆与风味偏好:&lt;/strong&gt; 建议选择具有柑橘或核果调性的浅烘水洗豆，以追求干净、清爽且具有明亮酸质的夏季口感。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;冰块管理建议:&lt;/strong&gt; 相比美观的球形冰，易于脱模且单格重量稳定的方形硅胶冰格更便于精确控制配方中的冰水比例。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - July 25, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-07-25</id>
-    <updated>2026-07-25T20:43:30.993Z</updated>
-    <published>2026-07-25T20:43:30.993Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>3 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 25, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;225.75342465753425&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    56.4%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;206&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;159&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;29&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████░░░░░░░░░░░░░ 56.4%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;3&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22671&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Friday session in Glencolmcille&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年7月Glencolmcille活动记录与社交平台互动。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了2026年7月25日星期五在Glencolmcille（北纬55°，西经9°）举行的一次活动。内容包含了地理位置坐标、知识共享许可协议，并提及该信息同步发布于Mastodon和Bluesky等社交平台。文中还记录了Shaun Rashid的点赞互动，并邀请读者提供回复链接。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/07/some-quick-thoughts-on-emf-camp-2026/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Some Quick Thoughts on EMF Camp 2026&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者以游客身份重返 EMF 节，记录了露营生活的苦乐与反思。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了以游客身份参加 EMF (Electromagnetic Field) 节的亲身体验。通过放弃演讲和志愿服务，作者得以更轻松地享受讲座与艺术，但也详细记录了露营生活中的挑战，如水压不足、标识缺失和高温下的体力消耗。文中肯定了 Walkie Talkies 等工具的成功应用，同时对未来是否继续参会表达了纠结：既留恋节日的奇思妙想，又难以忍受艰苦的露营环境，并强调了节日引入新面孔的重要性。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者决定以游客身份而非演讲者或志愿者参加 EMF 节，体验到了前所未有的放松与舒适。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;虽然作者建议他人积极参与贡献，但由于长途旅行后的疲惫，他此次选择了更慢的参与节奏。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者主要参与了讲座和艺术欣赏，感叹 EMF 节内容极其丰富，像是七个节日的集合体。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在成功的尝试中，作者提到了 Walkie Talkies 的便利、热成像拍摄的受欢迎以及电动货车的实用性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;充气帐篷和淋浴设施的体验毁誉参半，炎热天气下的露营和物资搬运依然是体力考验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出了一些不足之处，包括糟糕的食物、不稳定的水压、导向标识缺失以及环境噪音。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于 2028 年是否参加作者持观望态度，主要受限于对露营环境的厌恶以及对新参与者的期待。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;最后作者分享了一系列现场照片和社交媒体动态，幽默地记录了节日的点滴瞬间。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112093&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;看不见、摸得着的家居要素：聊聊湿度管理的方法与实践&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 涵盖原理、计算与设备选择的家居湿度管理全指南。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文系统地探讨了家居湿度管理的方法与实践。作者首先科普了相对湿度与露点等基础概念，并分析了中国不同地域的气候差异。文章详细列举了各类家居物品的理想湿度区间，并针对密封箱、柜子及房间等不同场景，提供了从干燥剂到除湿机、空调的针对性选择建议。全文风格务实，结合科学计算与生活经验，旨在帮助读者在潮湿季节营造舒适且健康的居家环境。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍江浙沪黄梅天的潮湿背景及分享家居湿度管理的初衷。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细解释了绝对湿度、饱和湿度和相对湿度三个核心物理概念及其测量方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阐述了温度与湿度的动态关系，并引入“露点温度”解释水分凝结现象。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;推荐使用 Weather Spark 等工具查询不同城市的季节性温湿度特征。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;引用国家标准指出人体最舒适的温湿度范围是 22–26 摄氏度及 RH 40–60%。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分类列举了食品、衣物、电子设备及乐器等不同家居物品对湿度的特定要求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了计算不同空间（密封箱、柜子、室内）所需除湿量的基本逻辑与公式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对完全密封的小型存储空间，推荐使用硅胶或氯化钙干燥剂进行湿度控制。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分析了衣柜等半密封空间的除湿成本，对比了干燥剂与环境除湿的优劣。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;比较了空调与除湿机的工作原理、除湿效率及在不同温度环境下的适用性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结了一套结合城市气候、物品特性和空间条件的综合性家庭除湿策略。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分享了利用除湿机在封闭阳台高效晾干衣物的生活实践经验。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
