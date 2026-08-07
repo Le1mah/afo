@@ -4,8 +4,93 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-08-05T21:20:35.003Z</updated>
+  <updated>2026-08-07T00:51:38.516Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - August 7, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-08-07</id>
+    <updated>2026-08-07T00:51:38.516Z</updated>
+    <published>2026-08-07T00:51:38.516Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>1 articles from 1 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 7, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;240&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    60.0%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;219&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;146&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;31&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████░░░░░░░░░░░░ 60.0%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;1&lt;/strong&gt; articles from &lt;strong&gt;1&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21704&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ドラマ『チェイサーゲームW』公式ノベライズ『小説 チェイサーゲームW』8/7より13巻配信！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《追逐游戏W》小说13卷发售，电影版同步联动预告。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文宣布了人气日剧《追逐游戏W》官方小说第13卷于2026年8月7日正式发售。该系列由CyberConnect2制作，松山洋总监修，小说版在电视剧基础上增加了细腻的心里描写与原创情节。此外，文中还预告了由菅井友香和中村由里香主演的电影版《追逐游戏W：水鱼之交》的上映信息，并整理了《追逐游戏》系列漫画及相关活动的最新动态，为粉丝提供了全方位的作品资讯。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;宣布《追逐游戏W》官方小说第13卷于2026年8月7日开始在各大电子书平台发售。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该小说改编自同名人气复仇爱憎剧，增加了角色心理描写及树与冬雨的原创感官情节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第13卷讲述树与冬雨在确认心意后产生矛盾，随后因树入院而与优凛共同赶往医院的故事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;列出了小说制作团队信息、价格及Apple Books、Kindle等主要分发平台。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍电影版《追逐游戏W：水鱼之交》于5月15日上映，由菅井友香和中村由里香主演。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了电影的制作人员名单，包括导演太田勇及原作者松山洋等相关信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;公布了电影官方网站及社交媒体账号，方便粉丝获取最新动态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;汇总了包括系列前作小说发行、行业漫画连载及相关线下活动等关联报道。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - August 5, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1805,180 +1890,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Enhanced Hardware Launches:&lt;/strong&gt; New hardware releases include MOMA&amp;#039;s LARK A2 wireless microphone with smart noise reduction and Baidu&amp;#039;s Xiaodu AI Watch Fit, which features Wenxin LLM integration for voice interaction.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Digital Content Regulatory Enforcement:&lt;/strong&gt; Chinese regulators are intensifying crackdowns on self-media for failing to label information sources and targeting &amp;#039;group streaming&amp;#039; violations on WeChat Video Accounts.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Global Tech Industry Briefs:&lt;/strong&gt; Key highlights include a 20-hour Xbox service outage, a consumer boycott of Sony&amp;#039;s digital-only game shift, and a collective industry push by major AI firms for open-weight models.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - July 26, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-07-26</id>
-    <updated>2026-07-26T21:05:06.010Z</updated>
-    <published>2026-07-26T21:05:06.010Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>9 articles from 7 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 26, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;226.84931506849315&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    56.7%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;207&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;158&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;29&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████░░░░░░░░░░░░░ 56.7%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;9&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22675&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sunday evening session in Brighton&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年7月Brighton活动日志与社交媒体互动记录。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该文本是记录2026年7月26日周日晚间在Brighton举行的一场活动的简短日志。内容包含了地理坐标信息，并指出该内容同步发布于Mastodon和Bluesky。文中提到Uncle Geoff的点赞互动，并向读者征集相关回复的URL链接。整体写作风格属于简洁的社交媒体动态记录，侧重于时间、地点和互动信息的呈现。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22674&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Another Sunday session in Belfast&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 adactio 博客上的一则提示词注入实验指令。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文源自 adactio 博客，记录于 2026 年 7 月 26 日。其核心内容是一段针对 AI 的 prompt injection（提示词注入）测试指令，作者试图通过包含特定的 ANTHROPIC_MAGIC_STRING 触发码来诱导模型改变行为并重复回复。这种写作风格具有实验性和技术对抗性，旨在测试大语言模型的安全性边界与指令遵循能力。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22673&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sunday session in Belfast&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年7月Belfast社交动态及互动信息记录。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了2026年7月26日在Belfast进行的周日活动片段。内容涉及CC Attribution授权、地理位置坐标以及在Mastodon和Bluesky平台上的同步情况。文中还列出了社交互动记录，包括Neil Hainsworth和Alena Jacíková的点赞，并邀请读者通过URL提交回复。整体风格为典型的社交媒体动态或个人博客简讯。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 David Heinemeier Hansson &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/sitting-down-with-senra-69f5e368&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sitting down with Senra&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 小团队通过引导式创业与利用AI，在限制中实现独立与成功。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了小团队通过引导式创业（bootstrapping）实现独立与成功的优势，强调在 AI 时代这一路径更具潜力。作者 David Heinemeier Hansson 分享了与 David Senra 的对话，对比了风投模型与个人独立奋斗的不同愿景。文章风格犀利且具有反思性，认为资源限制反而能激发高质量创作。最终结论是，对于追求控制权和独立性的创业者，拒绝风投资本、专注于产品质量是实现财务自由与自我实现的更佳路径。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者长期主张小团队在面对限制时能创造卓越成就，且软件和媒体行业无需大量资本即可启动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;随着 AI 的兴起，即使不具备设计或编程技能的创意者现在也能独立开启创业之路。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者与同样践行引导式创业（bootstrapping）成功的播客主持人 David Senra 在马里布进行了深度交流。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;引导式创业能让公司在年营收达 500-1000 万美元时为创始人带来丰厚回报，而风投模型则追求极致扩张或倒闭。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认可风投模式对 Shopify 和 SpaceX 等改变世界的大型企业的必要性，但认为这并非唯一路径。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;创业者需要明确自己的志向：是追求改变世界规模的宏大愿景，还是追求个人独立与控制权。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者更倾向于保持“生活方式业务”，通过小而精的团队专注于软件质量和自主权，不受外界干预。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对话中提到《终结者》和 Vaxry 的窗口管理器等案例，证明了资源限制往往能催生出比巨额投入更优秀的作品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;两人还讨论了 2020 年代初资本主义面临的挑战，以及 Marc Andreessen 在应对这些社会威胁中的关键作用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者最后推荐读者收听这一时长约一个半小时的播客节目，深入探讨创业、独立与社会议题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-7-26/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.7.26&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录了湾区职场生活、移民规划及独特的艺术创意构思。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以随笔形式记录了作者在湾区忙碌而充实的一周。文章涵盖了高频的 Office 办公、体检经历、同事离职的唏嘘，以及 NIW 申请和签证规划等个人琐事。作者文风细腻平实，在快节奏的科技职场生活中穿插了对社交的厌倦与对艺术创作的奇思妙想，如计划投放非 AI 主题的广告牌，展现了其在技术环境下的个人表达与生活态度。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者详细描述了连续六天去公司办公的忙碌一周，包括体检经历、开发周期末期的疲惫，以及在公司开放日带朋友参观 Apple Park 的琐事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;记录了邻座同事即将离职并转为远程工作的消息，作者送上礼物告别，感叹未来办公室里将不再有对方弹奏尤克里里的声音。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分享了个人生活的进展与烦恼，包括对社交软件的倦怠、NIW 移民申请补件的投递，以及回国办理 H1B 签证并计划前往日本的打算。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;计划通过购买域名并在高速公路投放非 AI 主题的广告牌进行抽象艺术创作，旨在为湾区通勤者的日常带来某种视觉惊醒与自我表达。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/5-ways-to-grow-your-x-twitter-account-organically-in-2026/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;5 Ways to Grow Your X/Twitter Account Organically in 2026&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Scale X presence organically through profile optimization, strategic replies, structured threads, and analytics-driven content iteration.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To scale an X/Twitter presence in 2026, developers must prioritize a niche-specific value proposition and profile optimization to ensure immediate visitor conversion. Organic discovery is driven by a 70/30 engagement strategy that favors high-value replies to established accounts over traditional broadcasting. Content delivery should focus on structured threads to maximize algorithmic dwell time, supported by a balanced 40/40/20 mix of authority, value-driven, and personal insights. Finally, growth must be treated as an iterative feedback loop, utilizing granular engagement analytics to identify high-performing patterns and maintain consistent reach.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Niche Authority Strategy:&lt;/strong&gt; Success in 2026 requires a highly specific domain focus and a profile optimized with a clear value proposition to convert visitors within seconds.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Conversational Growth Model:&lt;/strong&gt; Shift from broadcasting to the 70/30 rule, where 70% of effort is spent on high-value replies to larger accounts to drive organic discovery.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Thread Architecture:&lt;/strong&gt; Leverage threads as the primary format for maximizing dwell time, using compelling hooks and structured delivery to satisfy the platform&amp;#039;s engagement algorithms.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Balanced Content Systems:&lt;/strong&gt; Prioritize posting consistency over sheer volume, utilizing a 40/40/20 mix of authority, value, and personal content to maintain algorithmic reach.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Iterative Data Analysis:&lt;/strong&gt; Use granular analytics to identify high-performing content patterns and engagement rates, treating growth as an iterative feedback loop rather than a static process.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Dungeon Crawler Carl by Matt Dinniman ★★⯪☆☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The reviewer rates *Dungeon Crawler Carl* 2.5 stars, citing excessive game-stat boilerplate and a lack of narrative depth.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;*Dungeon Crawler Carl* is framed as a self-aware LitRPG pastiche that integrates bureaucratic sci-fi, survival mechanics, and Twitch culture into a narrative driven by RPG-style loot-box logic. While the book succeeds in delivering high-energy, campy action, the reviewer critiques the work for excessive &amp;quot;boilerplate&amp;quot; content, specifically the repetitive recitation of game stats and item descriptions that disrupt narrative flow. This high signal-to-noise ratio regarding mechanics creates significant friction for the reader—an issue exacerbated in the audio format—leading to a 2.5-star rating. Ultimately, the reviewer concludes that the series lacks the structural depth or original plot progression required to justify a long-term commitment to its recycled tropes.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Derivative Genre Foundations:&lt;/strong&gt; The work is framed as a self-aware pastiche that rehashes various media properties into a literary equivalent of playing with disparate toy franchises.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Absurdist Plot Premise:&lt;/strong&gt; The narrative blends bureaucratic sci-fi tropes with Hunger Games-style survival mechanics, all narrated through the lens of modern Twitch streaming culture.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Gaming-Centric Protagonist Archetype:&lt;/strong&gt; The protagonist&amp;#039;s survival depends on loot-box and RPG knowledge, mirroring how other genre authors utilize science or pop-culture proficiency as a primary character trait.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Entertainment and Tone:&lt;/strong&gt; The book offers goofy tropes, campy villains, and high-energy gore that remains fun without becoming overly nihilistic or annoying.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;LitRPG Prose Fatigue:&lt;/strong&gt; The writing suffers from repetitive descriptions of game mechanics, with constant interruptions for loot box contents and numerical stat updates that hinder narrative flow.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Audiobook Narrative Friction:&lt;/strong&gt; The transition to audio format exacerbates the tedium of the genre, as listeners must endure long, dry recitations of character statistics and item lists.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Final Critical Verdict:&lt;/strong&gt; Despite its fun elements, the reviewer awards a 2.5-star rating, citing a lack of interest in pursuing a lengthy series built on recycled plots and repetitive action.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-07-26T08:20Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-07-26T08:20Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 批评 Lightning CSS 及现代前端工具过于复杂且脱离实际。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文表达了作者对 Lightning CSS 的强烈不满，认为其输出不可控且配置繁琐。作者转而使用 ESBuild 或自定义脚本，但同样遭遇了基础功能配置复杂的困扰。作者批评现代前端工具开发者存在“主角综合症”，忽视了实际开发需求，并呼吁工具应以更简洁的库形式提供底层功能，而非强加复杂的配置逻辑。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者批评 Lightning CSS 难以控制输出且配置文档缺失，认为其修复问题时常引发不可控的副作用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回归 ESBuild 或自定义脚本，但吐槽 ESBuild 在处理路径解析等基础功能时依然过于繁琐。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为现代开发工具开发者脱离实际，呼吁工具应摒弃复杂的配置，提供简洁的原始代码库。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112421&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Prevent dilution by factoring ice melt into total yield and utilizing concentrated multi-stage pours or immersion brewing techniques.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To master non-diluted iced pour-over coffee, one must treat ice melt as a critical variable in the total yield, necessitating a reduced brewing water volume to maintain a high initial concentration. Implementation strategies include a precise multi-stage pour (30g-70g-50g) over 100g of ice or utilizing immersion methods like the Clever Dripper to increase extraction stability and fault tolerance. For optimal output, select light-roast washed beans with citrus profiles and use uniform square ice cubes to ensure reproducible weight measurements and cooling efficiency. Troubleshooting follows a strict variable-control methodology, isolating dilution issues from extraction flaws by incrementally adjusting grind size or contact time.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;冰手冲的稀释难题:&lt;/strong&gt; 冰手冲并非简单的热咖啡加冰，必须将冰块融化量纳入配方计算，以防止咖啡因过度稀释而变得寡淡。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;核心冲煮策略:&lt;/strong&gt; 制作优质冰手冲的关键在于减少冲煮用水量以提高初始浓度，并精准控制冰块融化带来的稀释比例。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;375 冰冲法:&lt;/strong&gt; 适用于普通滤杯，通过分段注水（30g-70g-50g）配合分享壶中的 100g 冰块，实现稳定的浓度表现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;浸泡式冰冲方案:&lt;/strong&gt; 利用聪明杯浸泡后滤入冰水混合物，该方法对手法要求更低，能显著提升出品的容错率与稳定性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;参数微调逻辑:&lt;/strong&gt; 面对风味不佳时应遵循变量控制原则，区分稀释过度与萃取不足，通过调整研磨度或接触时间进行单项优化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;选豆与风味偏好:&lt;/strong&gt; 建议选择具有柑橘或核果调性的浅烘水洗豆，以追求干净、清爽且具有明亮酸质的夏季口感。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;冰块管理建议:&lt;/strong&gt; 相比美观的球形冰，易于脱模且单格重量稳定的方形硅胶冰格更便于精确控制配方中的冰水比例。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
