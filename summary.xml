@@ -4,8 +4,142 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-08-08T20:20:01.684Z</updated>
+  <updated>2026-08-09T20:30:56.324Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - August 9, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-08-09</id>
+    <updated>2026-08-09T20:30:56.324Z</updated>
+    <published>2026-08-09T20:30:56.324Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>5 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 9, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;242.1917808219178&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    60.5%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;221&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;144&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;31&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████░░░░░░░░░░░░ 60.5%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;5&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22708&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Girls In Their Married Bliss by Edna O’Brien&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 简评 Edna O’Brien 笔下阴郁而真实的女性生活现状。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文对 Edna O’Brien 的小说《Girls In Their Married Bliss》进行了简评。该书作为三部曲的终篇，将舞台移向伦敦，通过双重视角描绘了极为阴郁、琐碎且现实的生活状态。作者赞赏了 O’Brien 精准细腻的写作风格，认为她以伟大的文学力量为那些鲜为人知的故事赋予了声音，尽管书中的压抑氛围令人感到沉重。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因喜爱 Edna O’Brien 的前作而购买了《Girls In Their Married Bliss》，并提到这是《The Country Girls》三部曲的最后一部。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;故事背景移至伦敦，通过 Kate 和 Baba 的第一人称视角，展现了比前作更加阴郁且沉重的基调。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;O’Brien 以精准的文笔刻画了生活的枯燥与琐碎，尽管氛围压抑，却为不常被关注的人物提供了有力的文学发声。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/edinburgh-fringe-4-aussies-for-aussies-the-raging-bull/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Edinburgh Fringe: 4 Aussies For Aussies - The Raging Bull ★★⯪☆☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 爱丁堡艺术节一场表现平庸但体验尚可的免费脱口秀评论。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇评论回顾了作者在Fringe艺术节因雨偶然观看的一场免费脱口秀。四位澳大利亚演员表演了关于孩子姓名、Tesco调查等生活化段子。虽然内容中规中矩、缺乏前卫性，但在阴雨的周日显得十分轻松得体。作者认为这对于喜欢直白Stand-up的人来说是不错的选择，最终给出两星半的平庸评价。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/against-doomerism/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Against Doomerism&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 批判盲目悲观的末日论，呼吁关注现实中的渐进进步与证据。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文批判了现代舆论中盛行的“末日论”（Doomerism），即盲目认为世界不会变好且政府无所作为的倾向。作者通过英国青少年服务投资、减排成果及政策成效等实例，指出虽然变革缓慢且不完美，但进步确实在发生。文章风格犀利且具有说服力，旨在呼吁读者摆脱被刻意营造的悲观情绪，以理性和证据看待现实中的渐进式改变，而非陷入无意义的愤怒。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者批判了那些认为现状永远不会改善的评论家，特别是针对英国拟议的社交媒体禁令与青少年空间投资关系的误解。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;英国政府实际上正投入巨资支持青少年，包括建立180个Youth Hubs和8800万英镑的转型支持包。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;伦敦市长和国家战略都承诺了数千万英镑的资金，用于资助青少年俱乐部和Young Futures Hubs的发展。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;面对证据，“末日论者”（Doomers）往往以“做得不够”为由拒绝承认进步，他们更倾向于展示“无所作为”的假象。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这种悲观主义也出现在气候变化领域，尽管英国的温室气体排放量自1990年以来已大幅下降了54%。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出进步无处不在，末日论本质上是反动的，它无视政治家和政策在现实中取得的实际成效。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;伦敦减排措施和Panama Papers的调查结果都证明了变革的存在，但末日论者却将其贬低为毫无意义。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;末日论剥夺了人们的权利感，使人丧失信心，而现实中微小但重要的改进正通过证据不断显现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;许多人为了社交媒体的参与度而选择愤怒而非理性的现状分析，作者强调应关注现实中的权衡与尝试。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-08-09T08:32Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-08-09T08:32Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 TanStack 弃用 RSC 回归浏览器渲染引发对重复渲染的质疑。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章讨论了 TanStack.com 弃用 React Server Components (RSC) 的技术往复。网站最初因浏览器端渲染负担过重尝试转向 RSC，但因开发体验极差而放弃，最终选择自研解析器并回归浏览器渲染。作者以批判性视角指出，该团队在复杂的技术选型中忽略了最核心的效率问题：为何要对静态的 Markdown 内容进行重复渲染。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提到阅读了关于 TanStack.com 停止使用 RSC 的文章，觉得其内容令人难以置信。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;网站最初在浏览器端加载 1.1 MiB 的 JavaScript 来处理 Markdown 和代码高亮，导致负担过重。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;团队尝试使用 React Server Components (RSC) 将这些工作移至服务端，但发现 RSC 的体验非常糟糕。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于 RSC 难以使用，他们自研了解析器并回到浏览器端渲染 Markdown，尽管仍保留了初始页面的 SSR。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对整个过程提出质疑，认为团队忽略了为何要为每个请求重复渲染相同 Markdown 的根本问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113158&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A native macOS app streams real-time F1 schedules and standings to a Quote/0 e-paper display via the Canvas API.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This project implements an ambient F1 dashboard for the Quote/0 e-paper display, utilizing a native macOS application to synchronize real-time race data via the Dot API without a centralized server. By leveraging the Quote/0 Canvas API, the developer pushes structured layout definitions and data rather than static bitmaps, optimizing the 152x296 monochrome interface through strategic typography and information hierarchy. The system aggregates data from ESPN, Jolpica F1, and OpenF1 to power 11 specialized views, including localized schedules, driver standings, and live race results. Architecturally, the solution relies on local execution and unofficial endpoints, requiring the host Mac to remain active to maintain data freshness on the peripheral device.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Project Motivation:&lt;/strong&gt; The project aims to transform F1 race schedules and results into ambient information displayed on a dedicated e-paper device, reducing the need to check mobile apps.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Quote/0 Canvas Integration:&lt;/strong&gt; Leveraging the Quote/0 Canvas API, the developer pushes structured data and layout definitions to the e-paper display rather than simply sending pre-rendered static images.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dashboard Content Strategy:&lt;/strong&gt; The system features 11 specialized boards covering real-time race results, localized schedules, driver standings, and team-specific performance metrics.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;E-Paper UI Design:&lt;/strong&gt; Given the constraints of a 152x296 monochrome screen, the design prioritizes information hierarchy through typography, spacing, and data subtraction rather than visual complexity.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Data Sourcing Pipeline:&lt;/strong&gt; The application aggregates data from multiple sources including ESPN for live rankings, Jolpica F1 for driver mapping, and OpenF1 for race status updates.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;macOS Native Implementation:&lt;/strong&gt; Built as a native macOS application, the tool manages data fetching, layout rendering, and automated device synchronization via the Dot API without requiring a server.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Constraints:&lt;/strong&gt; The solution relies on local execution and unofficial API endpoints, requiring the host Mac to remain active and connected for real-time updates on the e-paper display.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - August 8, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1650,280 +1784,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Intelligent Driving Standards:&lt;/strong&gt; China&amp;#039;s automotive standards body is drafting regulations to standardize the use of &amp;#039;blue lights&amp;#039; that indicate autonomous driving status. The initiative addresses safety risks such as glare and inconsistent signaling across different vehicle manufacturers.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Qualcomm-BMW Strategic Alliance:&lt;/strong&gt; Qualcomm and BMW have entered a 10-year agreement to integrate Snapdragon Automotive platforms into future digital cockpits and ADAS systems. The partnership focuses on high-performance computing and dedicated AI accelerators for next-gen vehicle architectures.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Sony-Tamron Acquisition Rumors:&lt;/strong&gt; Reports suggest Sony is planning a 200 billion yen acquisition of lens manufacturer Tamron to consolidate its position in the imaging market. This move could significantly shift the manufacturing landscape for E-mount optics and third-party lens availability.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - July 29, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-07-29</id>
-    <updated>2026-07-29T21:35:05.867Z</updated>
-    <published>2026-07-29T21:35:05.867Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>15 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 29, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;230.13698630136986&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    57.5%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;210&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;155&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;30&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████░░░░░░░░░░░░░ 57.5%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;15&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22682&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Wednesday afternoon session in Belfast&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年7月29日Belfast会议社交动态记录。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这段文字记录了2026年7月29日周三下午在Belfast举行的一场活动或会议信息。内容包含地理坐标（55° N, 6° W）、社交媒体平台（Mastodon和Bluesky）的提及，以及Jakob E的点赞互动记录。作者以简洁的微型博客风格呈现了活动的时间戳与反馈链接，属于典型的社交媒体元数据记录。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22681&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Mohoooosive session in Belfast—over a thousand people playing a tune together!&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年贝尔法斯特千人同奏音乐盛况纪实。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;2026年7月29日，在Belfast举行了一场规模宏大的音乐集会，超过一千名参与者共同演奏了同一首乐曲。这段内容以社交媒体动态的形式记录了这一震撼的群体艺术时刻，并列举了多位用户的互动与点赞，展现了活动极高的社区参与度与社交媒体影响力。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Bull And Bear Case For Digital Design In The Age Of AI&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI grants designers strategic execution autonomy while threatening specialized roles through the democratization of basic design functions.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;AI is transforming the designer&amp;#039;s role from one of organizational persuasion to direct technical execution, enabling them to prototype and ship solutions independently of traditional engineering roadmaps. In this high-leverage &amp;quot;bull case,&amp;quot; designers evolve into strategic leaders who blend craft with commercial awareness, likely resulting in smaller but significantly more influential design cohorts. This newfound autonomy removes historical excuses regarding resource constraints, forcing designers to validate their value through measurable product outcomes rather than just critiques. However, a significant &amp;quot;bear case&amp;quot; remains: AI-driven democratization may empower product managers and engineers to handle basic design tasks themselves, potentially marginalizing specialized design roles.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Historically Constrained Design:&lt;/strong&gt; Designers have traditionally occupied an awkward middle ground, possessing the insight to identify product flaws but lacking the engineering resources or authority to implement fixes.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reducing Permission Dependencies:&lt;/strong&gt; AI shifts the design paradigm from persuasion to execution, allowing designers to prototype and ship solutions directly without waiting for roadmap approval.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Hybrid Design Leader:&lt;/strong&gt; In the optimistic &amp;#039;bull case,&amp;#039; designers evolve into high-leverage leaders who blend craft with commercial awareness and technical prototyping capabilities.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Impact on Team Scarcity:&lt;/strong&gt; AI-driven productivity gains may lead to smaller design headcounts, but the remaining designers will exert significantly more direct influence over the final product.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Autonomy Exposes Skill Gaps:&lt;/strong&gt; Increased autonomy removes the excuses provided by organizational constraints, forcing designers to prove their strategic value through concrete outcomes rather than just critiques.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Design Bypass Risk:&lt;/strong&gt; A secondary risk is that AI tools may empower product managers and engineers to handle basic design tasks themselves, potentially marginalizing specialized design roles.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Things That Caught My Attention &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://newsletter.danhon.com/archive/s21e14-just-the-links/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;s21e14: Just the Links&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A multidisciplinary exploration of how technical precision and analytical rigor influence human impact and business success.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This edition explores the intersection of technical precision and human impact, highlighted by a case study where a single missing character in a legal subpoena resulted in eighteen months of wrongful imprisonment. It balances this cautionary tale with data-driven insights into media franchise revenue modeling and the &amp;quot;scrappy&amp;quot; engineering solutions used by film crews to solve complex hardware placement problems. Furthermore, the collection provides frameworks for improving analytical rigor through structured inquiry and examines high-speed typing as a cognitive tool for enhancing thought organization. Ultimately, the content emphasizes the critical link between interpersonal dynamics, rigorous methodology, and successful technical delivery.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Soft Skills Workshops:&lt;/strong&gt; The &amp;#039;How People Work, Live!&amp;#039; series explores the intersection of interpersonal skills and technical delivery through live shows and guest interviews.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fatal Syntax Errors:&lt;/strong&gt; A case study from Ars Technica highlights how a single missing underscore in a technical subpoena resulted in eighteen months of wrongful imprisonment.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Critical Inquiry Frameworks:&lt;/strong&gt; A Harvard guide on historical inquiry outlines several &amp;#039;problematic&amp;#039; question types that challenge assumptions and improve analytical rigor in research.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Streaming Performance Analytics:&lt;/strong&gt; Financial analysis of the Star Trek franchise demonstrates how specific titles drive global revenue and subscriber retention for streaming platforms using data-driven modeling.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Creative Production Rigging:&lt;/strong&gt; The &amp;#039;ShittyRigs&amp;#039; project showcases the scrappy, inventive engineering solutions film crews use to position equipment and capture difficult shots.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Typing and Cognition:&lt;/strong&gt; High-speed typing serves as a cognitive bridge that allows writers to visualize and organize thoughts more effectively than slower, more traditional methods.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(6 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/fuga/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『戦場のフーガ』スマートフォン版が配信開始！リリース記念セール（20%OFF）実施中（8/3まで）&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《战场的赋格曲》多平台产品信息、系统介绍及创作规范指南。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《战场的赋格曲》（戦場のフーガ）是CyberConnect2开发的一款策略RPG。游戏讲述孩子们驾驶巨大战车Taranis反抗贝尔曼帝国、拯救家人的故事，核心玩法为基于时间轴的战术战斗。本文详尽汇总了该作的多平台购买渠道、版本特典、角色系统介绍及创作者素材使用规范。此外，还包含了系列销量突破里程碑、智能手机版上线计划及服务器维护等官方运营公告。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲述了在浮游大陆上，一群孩子为了从贝尔曼帝国手中救回家人，驾驶古代战车“塔拉尼斯”展开冒险的故事背景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了游戏核心的时间轴战斗系统，强调通过切换武器攻击敌人弱点来延迟对方行动的战术性玩法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;列举了游戏在多平台发布的版本信息，包括普通版、豪华版及包含多种DLC的终极版，并详细说明了特典内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阐述了针对玩家进行二次创作、视频直播及素材使用的版权许可条件，明确了禁止商用及需标注权利信息的规定。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了关于智能手机版发布、服务器维护公告以及游戏内隐藏要素“齿轮”点亮条件的最新资讯。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/fuga3/index.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『戦場のフーガ』5周年記念！特別ムービー公開＆記念セール実施&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2 celebrates *Fuga’s* fifth anniversary and 550,000 sales with technical updates, promotions, and strategic cross-media expansions.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2’s *Fuga: Melodies of Steel* franchise reached a 550,000-unit milestone by July 2026, marking its fifth anniversary following the 2025 conclusion of its core trilogy across multiple digital platforms. To optimize user experience and accessibility, the developers implemented a &amp;quot;Fast Mode&amp;quot; battle-skip feature alongside iterative stability patches and expanded multi-language support. The studio successfully extended the IP&amp;#039;s lifecycle through a robust cross-media strategy, integrating manga and soundtracks as digital DLC while hosting international community events and a unique &amp;quot;Cinematic Reading&amp;quot; stage adaptation.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Series Milestones &amp;amp; Anniversary:&lt;/strong&gt; The Fuga series reached 550,000 total shipments and downloads by July 2026, coinciding with its fifth-anniversary celebration featuring special movies and commemorative sales.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fuga 3 Release:&lt;/strong&gt; The trilogy concluded with the launch of Fuga: Melodies of Steel 3 in May 2025, offering Standard, Deluxe, and Ultimate editions across multiple digital platforms.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Updates &amp;amp; Features:&lt;/strong&gt; Developers implemented a &amp;#039;Fast Mode&amp;#039; to allow players to bypass battles for a story-focused experience, alongside multiple stability patches and language support updates.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Multimedia &amp;amp; Digital Expansion:&lt;/strong&gt; The franchise expanded its reach through official soundtracks and manga volumes, which were integrated into digital storefronts like Steam and Epic Games Store as DLC.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Global Events &amp;amp; Exhibitions:&lt;/strong&gt; CyberConnect2 promoted the series through a dedicated traveling exhibition and major international appearances at gamescom 2025 and Japan Expo Paris in Osaka.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cinematic Reading Performances:&lt;/strong&gt; A unique stage adaptation titled &amp;#039;Cinematic Reading&amp;#039; was launched, featuring live voice acting synchronized with motion-comic projections of the official manga.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Merchandise &amp;amp; Fan Engagement:&lt;/strong&gt; The studio maintained community engagement by releasing anniversary art books, LINE stickers, and hosting signing sessions with series director Hiroshi Matsuyama.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/fuga3/index.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『戦場のフーガ』5周年記念描き下ろしイラストを使用したアクリルスタンドが新発売！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2 reached 550,000 Fuga trilogy sales via iterative software updates and a comprehensive transmedia engagement strategy.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2 has finalized the *Fuga: Melodies of Steel* trilogy with the launch of the third installment, achieving a milestone of 550,000 global units across multi-platform environments including Steam and the Epic Games Store. The development team maintained a rigorous post-launch roadmap, delivering iterative patches up to version 1.21 that introduced significant quality-of-life features like &amp;quot;Fast Mode&amp;quot; and broadened localization support. This software lifecycle was further sustained by a robust transmedia strategy, integrating three major DLC packs, cross-over content, and an extensive 12-volume manga series to maximize IP longevity and community engagement.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Series Milestones and Anniversary:&lt;/strong&gt; The Fuga: Melodies of Steel series reached 550,000 global units shipped and downloaded, celebrating its fifth anniversary with special movies, sales, and commemorative merchandise.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Trilogy Conclusion Launch:&lt;/strong&gt; Fuga: Melodies of Steel 3 officially released on May 29, 2025, marking the completion of the series across multiple platforms including Steam, Epic Games Store, and DMM GAMES.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;UX and Gameplay Innovations:&lt;/strong&gt; A new &amp;#039;Fast Mode&amp;#039; was introduced to allow players to bypass battles for a story-focused experience, alongside significant patches reaching version 1.21 and expanded language support.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Multimedia and Transmedia Expansion:&lt;/strong&gt; The franchise expanded into cinematic reading plays, a 12-volume manga series, and official soundtracks available across major digital storefronts.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Global Event Strategy:&lt;/strong&gt; CyberConnect2 maintained a strong presence at international events like gamescom 2025 and Japan Expo Paris in Osaka to promote the series&amp;#039; finale and engage with the community.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Post-Launch Support and DLC:&lt;/strong&gt; Continuous post-launch support included three major DLC packs, cross-over content with Solatorobo, and secret end-game events for dedicated players.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/fuga3/index.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『戦場のフーガ』シリーズ全世界累計DL数＆出荷本数55万本突破!&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The *Fuga: Melodies of Steel* franchise surpassed 550,000 units through technical optimizations, strategic DLC, and sustained community engagement.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2’s *Fuga: Melodies of Steel* franchise has surpassed 550,000 global units as of its fifth anniversary, following the May 2025 launch of the trilogy&amp;#039;s final installment. The development cycle emphasized post-launch stability and UX, delivering iterative technical patches (v1.02–1.21) that introduced a &amp;quot;Fast Mode&amp;quot; for narrative-focused play, expanded localization, and critical cross-platform bug fixes. To extend the IP&amp;#039;s lifecycle, the studio implemented a robust content strategy including major DLC packs, cross-media digital distribution on Steam/EGS, and high-visibility industry presence at events like gamescom 2025. Furthermore, Director Niizato maintained developer transparency through public design letters, fostering a sustained community ecosystem through fan-driven content initiatives and multimedia physical exhibitions.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Series Sales Milestones:&lt;/strong&gt; The Fuga: Melodies of Steel series reached a cumulative total of 550,000 units shipped and downloaded globally by July 2026. This milestone coincided with the franchise&amp;#039;s 5th anniversary, marked by special commemorative movies and sales.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fuga 3 Launch:&lt;/strong&gt; Fuga: Melodies of Steel 3, the trilogy&amp;#039;s concluding chapter, officially launched on May 29, 2025. The release featured various editions including a Digital Deluxe and Ultimate version with pre-order bonuses.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Quality of Life Updates:&lt;/strong&gt; Developers introduced a &amp;#039;Fast Mode&amp;#039; to allow players to bypass battles and focus on the narrative, alongside multiple technical patches ranging from version 1.02 to 1.21. These updates also expanded language support and fixed critical bugs across platforms.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;DLC and Soundtracks:&lt;/strong&gt; The third title received three major DLC packs and a collaboration with Solatorobo: Red to CODA. Additionally, the Fuga 3 original soundtrack was released alongside digital distribution of the official manga on Steam and Epic Games Store.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Global Event Presence:&lt;/strong&gt; CyberConnect2 maintained a heavy promotional schedule at major industry events including gamescom 2025, Japan Expo Paris in Osaka, and the Happinet Game Festival. These events featured playable demos and stage presentations by leadership.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Transmedia and Merchandising:&lt;/strong&gt; The franchise expanded through cinematic reading performances of the &amp;#039;Steel Melody&amp;#039; manga and the &amp;#039;Fuga Exhibition&amp;#039; tour in Japan. Commemorative goods such as acrylic stands, staff artbooks, and LINE stamps were also produced for fans.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Developer Communication:&lt;/strong&gt; Director Niizato published a series of letters to provide transparency regarding game design choices and recommended play orders. The studio also actively engaged the community by soliciting fan art and messages for the series&amp;#039; commemorative staff book.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/nda2b48afe680&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『しごにんの侍』制作ぶろぐ 第五十二回『せっていのちょうじり』&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 揭秘《しごにんの侍》设定细节：从神话改编到创作修正&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深入揭秘了漫画《しごにんの侍》的创作细节与设定逻辑。作者松山洋详细介绍了如何将《古事记》中的神话元素与欧洲中世纪放血疗法融入角色与招式设计。文中重点阐述了为完善“不死之身”逻辑而进行的设定推演，并分享了在漫画制作过程中，针对词汇使用与历史背景准确性所做的修正考量，展现了CyberConnect2在漫画创作中严谨的逻辑构建与细节追求。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了漫画《しごにんの侍》在设定和描写方面的细节与坚持。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨了虚构神明“七键明神”与《古事记》中“建御名方神”的关联，以及对断臂传说的改编与应用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了“渴望死亡的超不死者”这一设定的诞生背景，旨在创造一个即便跳入火山口也无法死去的绝对不死角色。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了名为“肆·血抜き”的术式灵感源自中世纪放血疗法，并说明了使用“大字”为招式命名的考量。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分享了对“捞金鱼”一词在脚本与漫画表现中的修正过程，并对江户时代背景下的历史考据进行了说明。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;预告了《しごにんの侍》第五十三话的公开时间以及下一篇制作博客的更新计划。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21673&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;お仕事マンガ『チェイサーゲーム』15巻発売！お得な電子書籍フェア開催中！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Game industry manga *Chaser Game* releases Volume 15 with a promotional sale on earlier volumes through August 13.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The 15th volume of *Chaser Game*, a manga renowned for its &amp;quot;painfully realistic&amp;quot; portrayal of the game development industry by CyberConnect2 CEO Hiroshi Matsuyama, was released on July 29, 2026. This volume concludes the &amp;quot;Anime Industry Arc,&amp;quot; focusing on high-stakes corporate acquisitions and international intrigue, while adding a prequel side story regarding the creative foundations of President Nishikawa. To mark the release, a promotional campaign is offering volumes 1–5 for free and discounts on volumes 6–12 through August 13, 2026. For developers and industry professionals, the series remains a notable dramatization of studio management and the professional challenges inherent in large-scale creative productions.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Vol. 15 Release Launch:&lt;/strong&gt; The 15th volume of the &amp;#039;Chaser Game&amp;#039; manga was released on July 29, 2026, in both physical and digital formats across major retailers.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Anime Industry Climax:&lt;/strong&gt; The latest volume enters the final chapter of the intense &amp;#039;Anime Industry Arc,&amp;#039; featuring a life-or-death struggle involving corporate acquisitions and international intrigue.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Origin Story Included:&lt;/strong&gt; The volume includes a special side story titled &amp;#039;The Law of Plus and Minus,&amp;#039; detailing President Nishikawa&amp;#039;s childhood and his creative foundations.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Limited-Time Digital Sale:&lt;/strong&gt; To celebrate the new release, a promotional campaign offers volumes 1-5 for free and discounts on volumes 6-12 until August 13, 2026.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Industry Realism Appeal:&lt;/strong&gt; Known for its painfully realistic portrayal of the game industry, the series is written by CyberConnect2 CEO Hiroshi Matsuyama and has been adapted into a TV drama.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Author Expertise Background:&lt;/strong&gt; The work leverages the professional experience of Matsuyama and illustrator Matsushima, both veterans of CyberConnect2 with extensive portfolios in gaming and manga.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112787&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iA Writer 8.0 发布：通过大纲级搜索深度优化写作流。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;iA Writer 8.0 在 AI 盛行的背景下保持极简初衷，核心更新为“大纲级搜索”功能。该功能将全局搜索与文档大纲深度整合，允许作者在不中断创作的前提下，跨文档精准调用过往素材。此外，新版升级了快速命令面板并翻新了 UI 设计，通过减少操作摩擦和优化视觉体验，进一步提升了人类原生写作的效率。该版本体现了开发者对写作流程与文本关系的深度思考。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;iA Writer 8.0 版本正式发布，在 AI 浪潮中保持克制，重点通过革新“搜索”功能来优化人类写作体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新版引入大纲级搜索，将全局搜索与单篇文章大纲功能深度整合，旨在重新思考写作流程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;写作过程中常需回溯过往内容，但传统工具的搜索流程往往会打断作者当前的创作思路。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对比 Typora 等工具，传统搜索功能通常局限于当前文档，或者无法直接定位到具体的段落内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;iA Writer 8.0 支持通过快捷键直接调出大纲搜索界面，实现跨文档的高亮精准查找与定位。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;该功能使过往创作成为可随时调用的资源，有效减少了写作摩擦并降低了文档整理成本。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;快速命令面板整合了编辑操作与应用设置，支持通过搜索快速调用功能，提升了操作效率。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;移动端命令面板具备比桌面端更强的自定义能力，允许用户针对功能外观进行个性化设置。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;应用外观采用液态玻璃设计进行翻新，并提供了更紧凑的文档列表样式以优化视觉空间。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后介绍了各平台的下载渠道、免费试用政策以及具体的买断制价格信息。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112761&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;陕北看海，黄土难寻&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Data-driven exploration of Northern Shaanxi architecture critiques commercialized heritage while analyzing logistical friction and technical preservation systems.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author employs a data-driven approach to explore Northern Shaanxi, utilizing travel-tracking apps to identify geographical gaps and investigate historical architecture as a series of complex, self-sustaining systems. Through field observations of 10th-century wooden structures and Jin Dynasty temples, the narrative highlights the interplay between biological pest control, technical preservation, and the meticulous documentation required to maintain legacy assets. The journey also functions as a stress test for navigation and logistics, exposing the friction between inefficient transportation infrastructure and the volatile economics of ride-sharing platforms in remote environments. Ultimately, the piece critiques the &amp;quot;boilerplate&amp;quot; nature of commercialized heritage sites, advocating for authentic cultural data over standardized, processed experiences.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Digital-Driven Travel Planning:&lt;/strong&gt; The author utilizes personal travel-tracking apps to identify geographical gaps in Northern Shaanxi, planning a route focused on traditional cave dwellings and historic architecture.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Yingxian Pagoda&amp;#039;s Ecological Symbiosis:&lt;/strong&gt; The 970-year-old wooden structure is analyzed not just as an architectural marvel, but as a balanced ecosystem where nesting swifts provide natural pest control for the ancient timber.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Documenting Shuozhou&amp;#039;s Architectural Heritage:&lt;/strong&gt; At Chongfu Temple, the author observes the technical preservation of Jin Dynasty structures, noting the detailed measurement and artistic transcription work performed by modern students.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Great Wall Hiking Logistics:&lt;/strong&gt; A 15km trek from Guangwu to Yanmen Pass serves as a field test for navigation apps, highlighting the physical challenges of resource management and heat exposure in remote terrain.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Regional Transport Friction:&lt;/strong&gt; The narrative details the logistical hurdles of inter-provincial travel in China, contrasting inefficient railway detours with the unpredictable pricing and negotiations of the ride-sharing economy.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reflections on Urban Homogenization:&lt;/strong&gt; The author critiques the declining appeal of standardized &amp;#039;ancient cities&amp;#039; and commercialized heritage sites, seeking more authentic and less processed cultural experiences.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112715&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Optimizing compact vinyl setups through technical calibration and maintenance for high-fidelity sound in limited spaces.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article documents a transition from digital streaming to a ritualistic vinyl setup, prioritizing a compact audio path using integrated pre-amps and active speakers to optimize fidelity within space constraints. The author emphasizes that mechanical stability and precise leveling are more critical than luxury furniture, complemented by rigorous physical maintenance—such as ultrasonic cleaning—to mitigate surface noise and hardware wear. It provides a technical overview of cartridge alignment, tracking force adjustment, and anti-skating parameters, alongside strobe-disc RPM calibration and electromagnetic interference (EMI) management. Ultimately, the piece advocates for a pragmatically integrated listening environment that favors accessibility and functional calibration over high-end audiophile aesthetics.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Intentional Listening via Vinyl:&lt;/strong&gt; The author transitions from passive digital streaming back to physical media to rediscover a focused and ritualistic music experience.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optimizing the Signal Chain:&lt;/strong&gt; A practical breakdown of the vinyl audio path, utilizing integrated pre-amps and active speakers to balance fidelity with space constraints.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mechanical Stability Essentials:&lt;/strong&gt; Emphasizes that structural stability and precise leveling are more critical for turntable performance than expensive, high-end furniture.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Record Maintenance Protocols:&lt;/strong&gt; Covers the necessity of physical cleaning—via ultrasonic or manual methods—to mitigate surface noise and preserve both records and hardware.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware Calibration Techniques:&lt;/strong&gt; Details the technical process of cartridge replacement along with the precision adjustment of tracking force and anti-skating parameters.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Speed Accuracy &amp;amp; EMI:&lt;/strong&gt; Explains how to calibrate platter RPM using strobe discs and manage electromagnetic interference in high-density device environments.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Space-Efficient Integration:&lt;/strong&gt; Demonstrates integrating vinyl and radio equipment into a multi-functional living space, prioritizing accessibility over audiophile perfectionism.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112837&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Microsoft launched the MAI-Cyber-1-Flash cybersecurity model, and Meituan introduced the CatPaw AI Agent platform.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Microsoft has launched MAI-Cyber-1-Flash, a specialized model tailored for cybersecurity operations. Simultaneously, Meituan introduced CatPaw, an all-scenario AI Agent platform featuring 24/7 cloud execution, cross-device synchronization, and built-in local life domain knowledge. The CatPaw platform is supported by a dedicated security architecture designed to protect agent workflows. Together, these developments highlight a growing industry focus on domain-specific LLM applications and secure, persistent agent execution.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Meituan CatPaw Launch&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Meituan has launched CatPaw, an all-scenario AI Agent platform that offers cross-device synchronization, 24/7 cloud execution, and built-in local life domain knowledge.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;CatPaw Security Architecture&amp;quot;,&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Screen.isExtended、getScreenDetails与多显示器开发&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The Window Management API uses `screen.isExtended` and `getScreenDetails` to precisely position windows across multiple displays.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The Window Management API overcomes the primary-screen limitations of traditional methods like `window.open()` and `window.moveTo()` by allowing developers to target auxiliary displays using coordinates retrieved via `screen.isExtended` and the permission-gated `window.getScreenDetails()` method. Using these precise coordinates, developers can programmatically position, size, and span windows across multiple monitors to build complex multi-screen layouts. Additionally, the API provides the `ScreenDetails` and `ScreenDetailed` interfaces, exposing read-only display metrics—such as device pixel ratio, coordinates, and primary status—alongside event listeners to dynamically handle screen connections and window transitions.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Detecting Multiple Monitors&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Developers can use the `screen.isExtended` property for basic multi-monitor detection, or the `window.getScreenDetails()` method for detailed screen counts. The latter requires user permission and returns a promise containing detailed screen configuration data.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Window Management Limitations&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Traditional window positioning methods like `window.open()` and `window.moveTo()` are limited because they only reference the primary screen. The Window Management API overcomes this by allowing developers to target auxiliary displays with precise coordinates.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Multi-Screen Window Control&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Using coordinates retrieved from the API, developers can programmatically open, size, and position multiple windows across different monitors. This enables complex multi-screen layouts, such as stretching a window to full screen on an external monitor while tiling others on the main display.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;ScreenDetails Object Interface&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The `ScreenDetails` object exposes properties to access individual screen details and events to monitor changes. Developers can listen to screen connection changes and active window screen transitions dynamically.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;ScreenDetailed Metric Properties&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Each monitor is represented by a `ScreenDetailed` object, which provides read-only properties like coordinates, device pixel ratio, and primary status. These properties allow for precise calculations of screen boundaries and display characteristics.&amp;quot;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
