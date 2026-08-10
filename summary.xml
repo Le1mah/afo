@@ -4,8 +4,241 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-08-09T20:30:56.324Z</updated>
+  <updated>2026-08-10T21:06:38.367Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - August 10, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-08-10</id>
+    <updated>2026-08-10T21:06:38.367Z</updated>
+    <published>2026-08-10T21:06:38.367Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>14 articles from 7 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 10, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;243.28767123287673&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    60.8%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;222&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;143&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;31&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████░░░░░░░░░░░░ 60.8%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;14&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22709&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;An tuath ’s ceart&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录北爱尔兰语言学习与传统音乐节的文化沉浸之旅。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者在北爱尔兰和多尼戈尔为期三周的文化之旅。作者在 Glencolmcille 参加了 Oideas Gael 的爱尔兰语沉浸式课程，随后在贝尔法斯特参与了 Tradfest 和首次在该市举办的 Fleadh 传统音乐节。文章以写实且充满热情的笔触展现了爱尔兰传统音乐与语言的魅力，赞扬了贝尔法斯特的城市活力与社区精神，并穿插了返回布莱顿观看 Nick Cave 演唱会的趣闻。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者与 Jessica 开启了北爱尔兰之旅，经贝尔法斯特、德里和多尼戈尔镇，最终抵达 Glencolmcille。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;他们再次参加 Oideas Gael 举办的爱尔兰语学习周，沉浸在 Glencolmcille 美丽的自然风光和浓厚的音乐氛围中。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在 6 级班进修，而 Jessica 进步神速升至 3 级，两人在优秀的师生陪伴下完成了语言学习任务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;随后他们返回贝尔法斯特参加 Tradfest，作者参与了传统音乐工作坊，并在 Cultúrlann 练习爱尔兰语。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;爱尔兰音乐盛会 Fleadh 首次在贝尔法斯特举办并获得巨大成功，志愿者们的努力让活动井然有序且氛围热烈。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Fleadh 的成功超出了预期，不仅让作者享受了高水平的音乐聚会，也向外界证明了贝尔法斯特作为文化之都的魅力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在两个音乐节之间，作者还短暂返回布莱顿观看 Nick Cave 的演唱会，尽管旅途奔波但演出体验非常出色。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/go-to-court-one/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;上庭（一）&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 工程师J凭借严谨的准备冷静应对车祸后的法庭诉讼与职场挑战。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文讲述了主人公J在车祸后独自应对小额法庭诉讼的过程。作者通过细腻的叙事，展现了J作为工程师的严谨与冷静：他不仅准备了详尽的证据，还在职场争议与法庭博弈间游刃有余。面对被告临阵脱逃的延期申请，法院的驳回让J更加从容。文章通过生活化的细节描写，刻画了一个在琐碎现实中依靠流程与证据保持生活掌控感的现代职场人形象。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;J在开庭前夜整理了多达339页的详细证据文件，记录了车祸后的所有沟通记录、报价单及发票细节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管面临开庭，J在等待期间依然维持着忙碌的工作与驾车生活，展现出极强的心理素质与掌控力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;周五时J在公司处理代码质量争议，通过严谨的流程准备与技术实力，冷静地应对职场中的博弈。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;J发现被告在开庭前夕试图申请延期但被法院果断拒绝，意识到对方正采取典型的拖延策略。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;确认庭审将如期举行后，J淡定地度过周末并回归日常工作节奏，准备迎接次日的法律较量。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/edinburgh-fringe-kat-ronson-millennial-girl/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Edinburgh Fringe - Kat Ronson: Millennial Girl ★★★★☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 这部四星舞台剧精准还原了千禧一代尴尬又怀旧的青春记忆。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章评价了一场名为《Katie (15/F/UK)》的舞台剧，该剧通过Nokia 3310、MSN和MySpace等元素勾起了千禧一代的集体回忆。作者以幽默且略带尴尬的笔触，生动刻画了一个处于青春期、痴迷于特定时代流行文化的女孩形象。尽管作品被指形式略显单一，但其对千禧年社会特征的精准讽刺与高度还原，赢得了四星好评，是一部令人产生强烈共鸣的怀旧喜剧。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/edinburgh-fringe-michael-brunstrom-william-tell-vs-the-algorithm/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Edinburgh Fringe - Michael Brunström: William Tell vs the Algorithm ★★★☆☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一场解构“AI”概念的超现实主义三星喜剧评论。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章评论了一场将“AI”解构为“Austrian Imperialism”（奥地利帝国主义）的超现实主义喜剧表演。作者指出，虽然演出充满了如对魔法帽唱歌和无手穿裤等古怪桥段，但在杂乱的叙事中显得有些失焦。尽管演出环境欠佳，但其独特的幽默感和关于“联觉”的笑话仍带来了持续的欢笑。作者最终给出了三星评价，认为这是一部质量尚可的非典型作品。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/edinburgh-fringe-rachel-creeger-ultimate-jewish-mother-2026/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Edinburgh Fringe - Rachel Creeger: Ultimate Jewish Mother 2026 ★★★★★&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Rachel 在 Fringe 艺术节的五星好评互动喜剧秀。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文评价了 Rachel 在 Fringe 艺术节上的单人秀。作为英国喜剧界少有的正统犹太人，她通过互动问答、幽默轶事与歌曲，成功塑造了一个极具感染力的“犹太母亲”形象。作者称赞其表演风格老练自然，内容丰富有趣。该剧获得了五星好评，被评价为不容错过的杰作。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/edinburgh-fringe-smut-slam/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Edinburgh Fringe: Smut Slam ★★★☆☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Smut Slam：一场形式新颖但节奏稍显平淡的成人故事分享会。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇评论探讨了在苏格兰闹鬼酒吧举行的 Smut Slam 互动表演。该活动以演讲者分享露骨故事为特色，并结合观众匿名提问。作者认为虽然活动形式有趣且注重安全与包容性，但现场审核卡片的过程严重拖慢了整体节奏，导致故事表现力受限。尽管作者评价此次体验较为平淡并给出三星评分，但仍建议感兴趣的观众可以尝试这一全球巡回的独特演出。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Technium &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kk.org/thetechnium/worldbuilding-with-spatial-intelligence/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Worldbuilding with Spatial Intelligence&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI leverages robotic and AR telemetry to develop spatial intelligence for physical reasoning and 3D environmental navigation.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To bridge the gap between textual knowledge and physical agency, the next frontier for AI involves developing **spatial intelligence**—an embodied intuition for physics, gravity, and 3D perception. The primary bottleneck is a scarcity of high-quality digitized physical data, forcing a shift from passive sources like YouTube and dashcam footage toward active environmental scanning. Future foundational world models will likely rely on high-fidelity 3D telemetry generated by early-stage robotic deployments and AR-enabled smart glasses. Ultimately, this evolution aims to provide AI with the common-sense reasoning required to navigate and manipulate complex human environments effectively.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Beyond Book Smart AI:&lt;/strong&gt; Current LLMs possess vast textual knowledge but lack the embodied intelligence and common sense required to interact effectively with the physical world.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining Spatial Intelligence:&lt;/strong&gt; Developing an intuition for physics, gravity, and 3D perception is the next frontier, enabling robots to perform complex physical tasks in human environments.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reality Data Bottleneck:&lt;/strong&gt; While the internet provided ample text for LLMs, there is a significant shortage of high-quality digitized data describing physical interactions and real-world dynamics.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Leveraging Video Repositories:&lt;/strong&gt; Platforms like YouTube and TikTok, along with CCTV and dashcam footage, serve as the primary initial datasets for training foundational world models.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Robotic Data Collection:&lt;/strong&gt; The most valuable spatial intelligence data will come from robots themselves, creating an economic incentive to deploy early models primarily for their environmental scanning capabilities.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AR and XR Integration:&lt;/strong&gt; Smart glasses will act as a massive source of 3D environmental data, where constant scanning for augmented reality simultaneously feeds and refines AI world models.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-08-10T08:33Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-08-10T08:33Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 开发者虚构 App Store 拒绝理由并涉嫌 AI 抄袭开源项目的闹剧。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了开发者 Terry Godier 虚假声称其应用被 App Store 错误拒绝，导致博主 John Gruber 误发批评文章的闹剧。随后揭露 Godier 的应用不仅包含占星内容，还涉嫌利用 Claude 等 AI 工具抄袭同名开源项目 DarkHours。作者通过这一事件展现了误导性言论、AI 滥用及开源协议合规性等问题，对当前开源生态的信任现状表达了深切忧虑。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;John Gruber 引用 Terry Godier 的文章批评 Apple 错误拒绝了天文应用 Dark Hours，称其被误判为占星术应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Gruber 随后撤回文章，因为被拒应用实为包含占星内容的 Asterly，且 Godier 承认在审阅草案时未纠正错误。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;故事并未就此结束，随后出现了关于应用所有权和抄袭的进一步争议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;原版 DarkHours 开发者指责 Godier 抄袭，Godier 随后致歉并将其归咎于使用 Claude 等 AI 工具生成代码。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;原版项目采用 MIT 许可，社交媒体评论认为这一系列事件是彻头彻尾的乱象。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为，无论事实真相如何，这都是开源界的一段黑暗时刻。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n3f0b136306b6&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;サイバーコネクトツー「30thウィッシュリスト」の御礼 pt.14&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2对30周年愿望清单收到的各类赠礼表达诚挚感谢。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是CyberConnect2（CC2）对其设立30周年纪念愿望清单收到礼物的第14部分致谢。作者以亲切的博客风格，详细列举了来自Creek &amp;amp; River、广濑爱、3rd le及水户数字专门学校的捐赠，包括绿茶、签名色纸、数位板及USB耳机等物资。文章强调了这些来自粉丝与合作伙伴的支持对改善开发环境及提升跨工作室沟通效率的实际价值，展现了公司与各界深厚的互动关系。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CyberConnect2福冈总部的白水かんてぃ介绍了设立30周年纪念愿望清单礼物的后续收悉情况，并附带了特设网站链接。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Creek &amp;amp; River社赠送了一箱“おーいお茶”绿茶，这对于频繁接待客人的福冈、东京和大阪工作室提供了很大帮助。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;広瀬愛女士赠送了绿茶、吸尘器滤网和签名色纸，并附上温馨留言，公司表示色纸在签名会等活动中非常实用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;株式会社3rd le赠送了数位板和USB耳机，这些设备将作为创作者开发环境的重要补充，助力高品质游戏开发。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;水戸デジタル専門カレッジ赠送了10个USB耳机，这对于跨工作室协作和日常在线会议沟通起到了关键作用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后对所有捐赠者表达了诚挚的感谢，并表示未来将继续通过此类博文介绍收到的礼物并致谢。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202608/83912&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『チェイサーゲーム』シーズン2 第71話 運命の引力（6）公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《チェイサーゲーム》漫画更新及松山洋行业指南书发售。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了漫画《チェイサーゲーム》第二季第71话的剧情进展，标志着《天女世界》项目风波的圆满解决。同时，文章宣布了松山洋社长为纪念CyberConnect2成立30周年而创作的新书《游戏行业的攻略法》正式发售，该书为游戏行业求职者提供了宝贵的实战经验与面试指导，是极具参考价值的行业“新圣经”。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《チェイサーゲーム》第二季第71话《命运的引力(6)》正式在Famitsu.com连载更新。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;剧情中本田告知陈麦克《天女世界》游戏项目已移交给林冬雨，陈麦克随后决定从该项目中收手。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑部确认《天女世界》项目风波已平息，并预告下一话漫画将于8月24日发布。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;松山洋社长为庆祝CyberConnect2成立30周年，推出了名为《游戏行业的攻略法》的行业指南书。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该书深入分享了游戏创作者的经验，包含面试实况及入职成功者的作品集等实用内容。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/direct-power-supply-mod&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;不再拆机飞线：借助 ACC 实现旧手机直供电「改造」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Implement software-defined battery bypass on Android using ACC for direct power without invasive hardware modifications.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article outlines a software-defined method for implementing battery bypass on Android devices using the Advanced Charging Controller (ACC) as a safer alternative to invasive hardware modifications. By utilizing root access and the Magisk framework, developers can leverage ACC’s CLI via Termux to manipulate low-level system parameters and identify charging switches compatible with `battIdleMode`. Through automated testing (`acc -t`) and manual path overrides (`acc -s`), the system is forced into an &amp;quot;Idle&amp;quot; state where power bypasses the battery based on user-defined percentage thresholds. This approach effectively transforms legacy hardware into stable, direct-powered nodes for stationary applications while preserving battery longevity through granular charging logic control.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware-free Direct Power:&lt;/strong&gt; The author transitions from risky hardware modifications to using the Advanced Charging Controller (ACC) for software-based bypass power. ACC acts as a programmable charging switch by manipulating low-level system parameters.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Root and Magisk Setup:&lt;/strong&gt; Implementing ACC requires root access and the Magisk framework to manage functional modules. The ACC module is installed via Magisk, while Termux serves as the command-line interface for configuration.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Termux Environment Optimization:&lt;/strong&gt; After installing Termux, developers should update packages and consider switching to domestic mirrors to ensure reliable dependency management. This preparation ensures the command-line tools function correctly for ACC operations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Automated Switch Testing:&lt;/strong&gt; The `acc -t` command automates the validation of device-specific charging control parameters from ACC’s internal database. This process identifies which low-level switches support the critical `battIdleMode` for bypass power.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Interpreting Test Results:&lt;/strong&gt; Effective configuration requires analyzing current flow and battery status changes across different switch states. The goal is to find a switch that successfully triggers &amp;#039;Idle&amp;#039; mode, indicating power is bypassing the battery.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Applying Configuration:&lt;/strong&gt; Users must manually specify the chosen charging switch using the `acc -s` command to override default system behavior. Verification via the settings list ensures the module targets the correct hardware path.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Logic Threshold Configuration:&lt;/strong&gt; The final step involves setting specific battery percentage thresholds to trigger the bypass mode. By defining upper and lower limits, the device maintains a stable charge while predominantly running on direct power.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113283&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Recent app updates emphasize native performance, AI integration, and open-source tools for efficient, bloat-free cross-platform experiences.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This collection of recent app updates highlights a shift toward high-performance, native implementations, featuring a SwiftUI-based YouTube Music client and a Raycast-compatible macOS launcher that supports local AI integration. Productivity enhancements include a modernized three-pane web interface for a classic read-it-later tool and a lightweight, open-source menu bar utility designed for real-time system monitoring with minimal overhead. On the Android side, the focus remains on workflow automation through a Material 3-styled app installer with granular configuration profiles and a streamlined utility for specialized PDF manipulation. Collectively, these updates emphasize the adoption of Apple Intelligence, system-level API integration, and open-source architectures to deliver extensible, bloat-free user experiences.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Instapaper Modern Refinement:&lt;/strong&gt; The classic read-it-later tool introduces a three-pane web interface, iOS widgets, and selective AI voice features while maintaining its signature functional restraint.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;SuperCmd Efficiency Launcher:&lt;/strong&gt; This open-source macOS launcher balances power and simplicity, offering Raycast extension compatibility, enhanced Chinese search, and flexible local AI integration.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mectrics System Monitoring:&lt;/strong&gt; A lightweight, open-source macOS menu bar utility providing focused real-time system metrics and customizable threshold alerts without unnecessary bloat.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Kaset Native Music:&lt;/strong&gt; Built with SwiftUI, this open-source client brings a native macOS experience to YouTube Music, integrating system media controls and Apple Intelligence capabilities.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;InstallerX Revived Android:&lt;/strong&gt; A modern Android application installer featuring Material 3 design, dynamic notification styling, and granular configuration profiles for automated installation workflows.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;PDF Toolkit Utilities:&lt;/strong&gt; A streamlined Android utility focused on high-frequency PDF tasks like merging and granular page splitting with customizable storage options.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113115&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;写给「跑两步就喘」的你：调整跑步姿势，舒适开跑&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Optimize running efficiency through forward-leaning posture, high cadence, and rhythmic breathing to sustain aerobic endurance.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To optimize running efficiency and minimize impact stress, runners should leverage gravitational propulsion via a slight forward lean from the ankles while increasing step cadence to reduce energy-wasting vertical oscillation. Implementing rhythmic diaphragmatic breathing synchronized with footfalls enhances core stability and oxygen throughput, preventing the premature fatigue associated with shallow respiration. Finally, by managing initial velocity to stay within sustainable aerobic zones and monitoring heart rate telemetry, runners can bypass physiological &amp;quot;dead points&amp;quot; and maintain long-term operational health.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Leveraging Gravitational Momentum:&lt;/strong&gt; Instead of relying solely on muscle power, lean forward slightly from the ankles to utilize gravity as a natural propulsion force. This shift in center of mass triggers innate balance mechanisms, making forward movement more energy-efficient.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optimizing Running Cadence:&lt;/strong&gt; Increasing step frequency helps prevent overstriding and reduces vertical oscillation, which minimizes impact stress and energy waste. Higher cadence results in shorter ground contact times and a more fluid, light-footed running style.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Incremental Cadence Adjustments:&lt;/strong&gt; Rather than strictly adhering to the 180 bpm standard, runners should aim for a gradual 5-10% increase over their current rate. Using arm swing as a rhythmic pacer can effectively drive leg frequency without overtaxing the brain.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Rhythmic Diaphragmatic Breathing:&lt;/strong&gt; Employing diaphragmatic breathing helps maintain core stability while ensuring efficient gas exchange. Coordinating breath with footfalls, such as a two-step inhale-exhale rhythm, prevents shallow breathing and premature fatigue.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Managing Initial Intensity:&lt;/strong&gt; Controlling early-run speed is crucial to allow the cardiovascular system to overcome internal inertia and bypass the &amp;#039;dead point.&amp;#039; Maintaining an intensity where conversation is possible ensures the runner stays within a sustainable aerobic zone.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dynamic Physiological Monitoring:&lt;/strong&gt; Runners should actively monitor heart rate zones and bodily feedback to adjust their pace or posture. If physiological markers remain too high despite adjustments, transitioning to power walking is a valid strategy to maintain long-term health.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113202&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Pixel 10 Pro pairs refined hardware and natural imaging with Gemini AI, despite display constraints and software-hardware synergy gaps.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The Pixel 10 Pro represents an incremental refinement of Google’s hardware strategy, pairing a premium &amp;quot;small steel cannon&amp;quot; build with a high-efficiency Samsung M14 LTPO display that unfortunately suffers from conservative brightness mapping and regressive bezel ratios. While the device deepens Gemini integration for personalized AI insights, the software still lacks the seamless, system-level hardware synergy found in more mature competitor ecosystems. The imaging pipeline maintains a competitive edge by prioritizing natural color accuracy and algorithmic optimization over aggressive post-processing, particularly in macro and detail retention. Modern quality-of-life updates include a transition to ultrasonic fingerprint sensors and the new &amp;quot;Pixel Snap&amp;quot; magnetic ecosystem, though the shift to an eSIM-only model in the US may impact regional flexibility.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Iterative Hardware Strategy:&lt;/strong&gt; The Pixel 10 Pro represents an incremental evolution in Google&amp;#039;s hardware lineup, focusing on refined aesthetics and shifted release cycles rather than radical specification leaps.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Design and Ergonomics:&lt;/strong&gt; The device features a premium &amp;#039;small steel cannon&amp;#039; build with matte glass and glossy metal, offering a dense, high-quality feel despite its compact 6.3-inch footprint.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Display Performance Metrics:&lt;/strong&gt; Utilizing Samsung’s M14 substrate, the screen delivers excellent peak brightness and LTPO efficiency, though it faces criticism for conservative brightness mapping and regressive bezel-to-body ratios.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Centric Ecosystem Integration:&lt;/strong&gt; Deep Gemini integration provides personalized health insights and proactive assistance, but the software still lacks seamless voice-controlled hardware synergy compared to mature competitors.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Real-World Imaging Evaluation:&lt;/strong&gt; The camera system prioritizes natural color accuracy and algorithmic optimization over aggressive post-processing, maintaining a competitive edge in detail retention and macro-style photography.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Connectivity and Biometrics:&lt;/strong&gt; The transition to ultrasonic fingerprint sensors and the introduction of the &amp;#039;Pixel Snap&amp;#039; magnetic ecosystem modernize the user experience, while the eSIM-only US model affects regional accessibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - August 9, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1611,179 +1844,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Modern Developer Utilities:&lt;/strong&gt; The issue curates specialized tools including the WebKit-based Orion browser, FluxDown for multi-protocol downloads, and various MCP servers designed for AI-driven design and coding workflows.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fabrice Bellard&amp;#039;s Legacy:&lt;/strong&gt; A detailed profile honors the legendary programmer behind FFmpeg and QEMU, whose low-profile but foundational work continues to power the global internet infrastructure and modern virtualization.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Evolving Technical Roles:&lt;/strong&gt; Expert commentary suggests that in the AI era, a programmer&amp;#039;s primary value shifts from manual coding to mitigating risks and managing ambiguity in complex systems.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - July 30, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-07-30</id>
-    <updated>2026-07-30T21:23:02.931Z</updated>
-    <published>2026-07-30T21:23:02.931Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>7 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - July 30, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;231.23287671232876&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    57.8%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;211&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;154&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;30&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████░░░░░░░░░░░░░ 57.8%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;7&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22683&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Thursday afternoon session in Belfast&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录贝尔法斯特会议的社交媒体元数据与互动信息。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了2026年7月30日在贝尔法斯特举行的一场会议的详细元数据，包括精确的地理位置和社交媒体发布渠道。文章展示了两位用户的点赞互动记录，并以征集读者反馈的互动请求结尾。全文采用典型的社交媒体日志风格，简洁明了地汇总了发布信息与社区反馈。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;记录了2026年7月30日周四下午在贝尔法斯特的会议时间、地理坐标及Mastodon和Bluesky等社交媒体同步信息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;显示Ms. Jen在2026年7月30日下午3:32点赞了该内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;显示Paul Gould在2026年7月30日晚上7:02点赞了该内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者询问读者是否已发布相关回应，并请求告知回复的URL链接。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Economic Benefit of Refactoring&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Refactoring AI-generated code cuts token costs by 83% and yields recurring ROI by eliminating architectural bloat.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;An experiment involving a 150,000-line application developed entirely by AI agents revealed that unsupervised generation leads to significant architectural bloat, exemplified by a redundant 17,000-line data access layer. By benchmarking change costs across various stages of modularization, the author demonstrated that disciplined refactoring resulted in an 83% reduction in input tokens per task. This efficiency gain stems from the agents&amp;#039; improved ability to isolate relevant context rather than processing massive, monolithic files, proving that refactoring agent-generated code delivers a recurring ROI by minimizing the operational costs of every subsequent feature implementation.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Agentic Engineering Experiment:&lt;/strong&gt; The author developed a sophisticated 150,000-line application entirely through AI agents, specifically Claude Code and Cursor, without performing manual code reviews.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Monolithic Code Bloat:&lt;/strong&gt; Without human intervention, the AI-generated data access layer ballooned into a single 17,155-line Rust file filled with duplicated logic and poor abstractions.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Controlled Refactoring Experiment:&lt;/strong&gt; To measure economic benefits, the author established a baseline change cost and used fresh agents to attempt the same task after various stages of disciplined refactoring.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Token Cost Reduction:&lt;/strong&gt; The experiment revealed that modularizing the codebase led to an 83% reduction in input tokens, as agents no longer needed to process massive, redundant files.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Strategic Code Discovery:&lt;/strong&gt; The significant drop in token consumption occurred because better code structure allowed agents to efficiently identify and read only the relevant subsets of files for a given task.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Economic Benefits of Refactoring:&lt;/strong&gt; Refactoring agentic codebases provides a recurring return on investment by lowering the operational cost of every subsequent feature implementation and maintenance task.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Are political journalists always wrong?&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 呼吁利用AI审计并建立政治传闻报道准确率排行榜。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文批评了英国政治新闻报道中传闻泛滥且准确性极低的现状。作者通过观察发现，政治记者为追求流量常发布误导性消息。借鉴《经济学人》利用Large Language Model进行自我审计的经验，作者提议利用AI技术对主流媒体的政治传闻进行系统性核查，并建立一个公开的准确率排行榜，以揭示政治新闻行业中追求流量而非真相的弊端，推动媒体问责。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者观察到英国首相更迭期间，政治记者为了博取点击量而大量报道未经证实的传闻和八卦。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者发现多数“消息人士称”的报道准确率极低，并引用《经济学人》利用Large Language Model对其历史预测进行准确性审计的案例。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者质疑政治记者的消息来源及其动机，怀疑行业激励机制更倾向于发布耸人听闻而非准确的消息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;呼吁利用媒体存档和AI模型建立英国政治传闻准确率排行榜，以揭露并打击低质量的传闻报道。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112405&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1 | 免费、多功能的远程控制新选择：网易 UU 远程&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 NetEase UU Remote provides free 4K/144Hz remote access with intranet penetration, CLI tools, and GPU-accelerated cloud PCs.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;NetEase UU Remote provides a free, high-performance remote desktop solution featuring low-latency 4K/144Hz HDR streaming and GPU-accelerated &amp;quot;Super Screen&amp;quot; virtual displays. For technical workflows, it integrates a built-in terminal, a CLI tool for headless connection management, and robust intranet penetration capabilities for port mapping without requiring a public IP. Productivity is further enhanced by a dedicated FTP-style batch file transfer tool, multi-monitor split-screen management, and a &amp;quot;Privacy Mode&amp;quot; to secure remote sessions. Additionally, the platform leverages NetEase’s infrastructure to offer on-demand high-spec cloud PCs with RTX 40-series GPUs and persistent storage for resource-intensive tasks.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Free Remote Control Alternative:&lt;/strong&gt; NetEase UU Remote offers a free, low-latency cross-platform solution for remote desktop access, addressing the bandwidth limitations and costs associated with traditional third-party tools.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;High-Performance Visual Features:&lt;/strong&gt; The tool supports up to 144Hz refresh rates, 4K virtual displays via GPU-accelerated &amp;quot;Super Screen,&amp;quot; and HDR, providing granular control over bitrate and resolution.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Efficient Transfer and Privacy:&lt;/strong&gt; It includes a dedicated FTP-like file transfer tool with batch support and a &amp;quot;Privacy Mode&amp;quot; that blacks out the remote screen to protect sensitive data during operations.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Multi-Monitor and Sub-screen Support:&lt;/strong&gt; Users can manage multi-monitor setups through split-screen views and utilize mobile devices as wireless extended displays with touch support for Windows environments.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;CLI and Terminal Integration:&lt;/strong&gt; For technical workflows, the software provides built-in terminal access and a CLI tool for managing connections and executing remote commands without requiring a full GUI.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Intranet Penetration Features:&lt;/strong&gt; The application facilitates port mapping and intranet penetration without requiring a public IP, allowing local access to services hosted on remote Windows machines.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;High-Performance Cloud Computing:&lt;/strong&gt; Leveraging NetEase&amp;#039;s infrastructure, the platform offers on-demand high-spec cloud PCs with up to RTX 40-series GPUs and persistent cloud storage for gaming and heavy tasks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112656&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;在流媒体时代，搭建一个专属于自己的「音乐探索系统」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Build a structured music exploration system using knowledge management to bypass algorithmic limits and restore artistic context.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article critiques the &amp;quot;paradox of choice&amp;quot; and algorithmic stagnation in modern streaming, proposing a structured, four-layer framework—discovery, screening, deep exploration, and mapping—to transition from passive consumption to active curation. To counter the loss of artistic context in the &amp;quot;singles era,&amp;quot; the author advocates for treating music discovery as a knowledge management problem, tracing technical metadata such as producer lineages, recording techniques, and historical influences. By leveraging community-driven data sources like Rate Your Music (RYM) and Discogs, listeners can bypass algorithmic filter bubbles and build a high-context personal music map. This systematic approach effectively transforms a fragmented library into a navigable, interconnected knowledge base that restores the depth and historical continuity of the musical experience.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Streaming Discovery Dilemma:&lt;/strong&gt; While streaming provides infinite access, it creates a paradox where users struggle to find meaningful music amidst information overload and the loss of physical exploration.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Algorithmic Recommendation Limitations:&lt;/strong&gt; Current algorithms reinforce existing habits and filter bubbles, successfully identifying sonic similarities but failing to facilitate genuine genre expansion or emotional connection.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Shift to Single-Centricity:&lt;/strong&gt; The transition from cohesive albums to isolated singles has led to &amp;#039;cultural acceleration,&amp;#039; where music consumption is faster but lacks historical and artistic context.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Structured Exploration Systems:&lt;/strong&gt; To counter fragmentation, the author proposes a four-layer framework consisting of discovery, screening, extended exploration, and the creation of a personal music map.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Relational and Historical Context:&lt;/strong&gt; Deep discovery involves tracing musical lineages by following specific producers, recording techniques like the &amp;#039;Wall of Sound,&amp;#039; and historical influences across different eras.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Metadata-Driven Mapping:&lt;/strong&gt; Organizing music through structured metadata such as labels and production credits transforms passive listening into a comprehensive, navigable personal knowledge base.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Human-Curated Discovery Tools:&lt;/strong&gt; Platforms like Rate Your Music (RYM) and Discogs offer community-driven data and qualitative filtering that provide essential context beyond what automated algorithms can offer.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112858&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;少数派会员年度更新：把共同的热爱随身携带&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Sspai’s membership update integrates NFC automation cards and developer software access to bolster its human-centric, co-creation ecosystem.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Marking its 14th year, Sspai’s latest membership update reinforces a human-centric content philosophy against the rise of AI, emphasizing a &amp;quot;co-creation&amp;quot; model between creators and users. The update introduces a physical transparent NFC membership card designed for programmable automation shortcuts alongside deep OS integrations like Apple Wallet support and custom UI assets. Crucially, Sspai is launching a developer-member pipeline to foster a sustainable ecosystem by providing members with low-cost access to independent software trials. The refresh is rounded out by a multi-tiered loyalty pricing model aimed at rewarding long-term community contributors while preserving high-quality, experience-driven technical discourse.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;14-Year Anniversary Reflection:&lt;/strong&gt; Founder Lao Mai reflects on Sspai&amp;#039;s 14-year journey, emphasizing a &amp;quot;co-creation and win-win&amp;quot; philosophy that bridges content, software, and hardware.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Redefining Membership Identity:&lt;/strong&gt; In the age of AI-generated content, Sspai positions its membership as a badge of curiosity and a commitment to authentic, human-driven digital experiences.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Transparent NFC Hardware:&lt;/strong&gt; A new physical membership card features a transparent design with visible circuitry and customizable NFC functionality for digital shortcuts and automation.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;iOS Ecosystem Enhancements:&lt;/strong&gt; New digital updates include Apple Wallet integration for membership cards and an expanded set of custom iOS app icons with matching wallpapers.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Software Experience Initiative:&lt;/strong&gt; Sspai is launching a program to connect members with independent developers, offering low-cost trials of premium software to foster a sustainable creator ecosystem.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Tiered Renewal Strategy:&lt;/strong&gt; The annual update introduces a multi-tiered pricing model that rewards long-term users and founding members with significant loyalty discounts.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Human-Centric Content Vision:&lt;/strong&gt; Despite the rise of AI, Sspai remains committed to preserving high-quality, experience-based content and supporting creators through a collaborative community model.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112881&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 China Telecom restricts channel sales alongside updates from OpenAI, BMW, Qualcomm, and new Chinese tech regulations.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;China Telecom is transitioning exclusively to first-party digital channels for mobile subscriptions by 2026 to enhance identity security, while OpenAI has open-sourced the Codex Security CLI and TypeScript SDK to streamline vulnerability scanning within CI/CD pipelines. The automotive and hardware sectors are seeing significant shifts, highlighted by a 10-year Qualcomm-BMW partnership for Snapdragon-driven ADAS architectures and Bigme’s launch of an AI-integrated color E-ink display. Additionally, new regulatory drafts in China target platform accountability for cyber violence and standardized signaling for autonomous vehicles, as Sony reportedly moves to consolidate the imaging market through a potential acquisition of Tamron.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Telecom Sales Regulation:&lt;/strong&gt; China Telecom will cease card sales through third-party internet channels starting August 2026 to combat identity theft and fraud. Users will be required to use official apps and websites for all new mobile subscriptions.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bigme AI Photo Frame:&lt;/strong&gt; Bigme has launched the F13, a 13.3-inch color E-ink digital photo frame featuring AI-driven image generation and voice interaction. The device offers an 18,000mAh battery for extended standby and integrates remote management via a dedicated mobile app.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;OpenAI Security Tooling:&lt;/strong&gt; OpenAI open-sourced the Codex Security CLI, a tool designed to help developers scan repositories for vulnerabilities and integrate security checks into CI/CD pipelines. It utilizes Node.js and Python to provide both a command-line interface and a TypeScript SDK.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Anti-Cyber Violence Legislation:&lt;/strong&gt; The Cyberspace Administration of China is seeking public feedback on a draft law targeting cyber violence and platform accountability. The regulation aims to mandate monitoring, shielding, and evidence collection mechanisms for online platforms.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Intelligent Driving Standards:&lt;/strong&gt; China&amp;#039;s automotive standards body is drafting regulations to standardize the use of &amp;#039;blue lights&amp;#039; that indicate autonomous driving status. The initiative addresses safety risks such as glare and inconsistent signaling across different vehicle manufacturers.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Qualcomm-BMW Strategic Alliance:&lt;/strong&gt; Qualcomm and BMW have entered a 10-year agreement to integrate Snapdragon Automotive platforms into future digital cockpits and ADAS systems. The partnership focuses on high-performance computing and dedicated AI accelerators for next-gen vehicle architectures.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Sony-Tamron Acquisition Rumors:&lt;/strong&gt; Reports suggest Sony is planning a 200 billion yen acquisition of lens manufacturer Tamron to consolidate its position in the imaging market. This move could significantly shift the manufacturing landscape for E-mount optics and third-party lens availability.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
