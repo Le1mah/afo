@@ -4,8 +4,197 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-08-11T21:12:00.437Z</updated>
+  <updated>2026-08-12T21:04:34.034Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - August 12, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-08-12</id>
+    <updated>2026-08-12T21:04:34.033Z</updated>
+    <published>2026-08-12T21:04:34.033Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>11 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 12, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;245.47945205479454&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    61.4%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;224&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;141&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;32&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████░░░░░░░░░░░░ 61.4%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22712&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;&amp;gt; By the side of the train tracks the stinging nettles are suffering from the drought. They look sad — like they never knew what they are but have just been told. — Denise Wilton&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者感悟铁轨旁因干旱而显得悲伤的荨麻。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者 Denise Wilton 在 2026 年 8 月 12 日的一段生活观察。她描述了铁轨旁因干旱而枯萎的荨麻，并赋予其拟人化的情感，形容它们看起来十分悲伤，仿佛刚意识到自己的处境。文字风格简约且富有诗意，精准捕捉了自然界在极端天气下的脆弱瞬间。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22711&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Blink and you’ll miss it, but apparently I was in a BBC news report from Belfast last week: https://www.youtube.com/watch?v=Hyg3Gu1f-p4&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享在 BBC 新闻报道中偶然出镜的经历及社交互动。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇博文记录了作者偶然出现在 BBC 贝尔法斯特新闻报道中的经历。文章风格随性且具有互动性，通过简短的文字和社交媒体链接展示了作者的日常动态。主要内容包括读者的互动评论、对特定文化术语 Fleadh 的补充解释，以及社交圈内的反馈，体现了典型的个人博客社区互动模式。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提到自己偶然出现在上周 BBC 关于贝尔法斯特的新闻报道中，并分享了视频链接和地理坐标。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bramus 在评论中为不了解“Fleadh”节庆的读者提供了维基百科的解释链接。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Andy Budd 留言确认在报道中看到了作者和 Jessica，并对此表示赞赏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文中记录了多位用户的点赞动态，并邀请读者通过 URL 提交对该内容的响应。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Edinburgh Fringe - James Rowland: Team Viking ★★⯪☆☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 演出技术精湛但叙事乏味，最终获平庸评价。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇评论分析了一场技术精湛且充满活力的演出。尽管表演者极具天赋且表现力强，但作者认为叙事节奏过于单一且套路化，导致整体感受乏味。演出融合了黑色幽默与情感宣泄，虽然在技术层面无可挑剔，但因缺乏独特性未能打动作者，最终被评为2.5星的平庸之作。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 这是一篇对 Garrett Millerick 极度负面的脱口秀演出评论。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇评论对 Garrett Millerick 在 Edinburgh Fringe 的脱口秀演出给出了极差的评价，称其为该艺术节最糟糕的节目。作者批评 Millerick 使用 AI 辅助创作不仅枯燥，且其本人的表演风格粗鲁、充满负能量。文中指出，无论是对宗教政治的抨击还是关于约会的桥段都令人不适，整场演出被描述为一场充满尴尬、基调单一的愤怒咆哮，缺乏真正的幽默感。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/edinburgh-fringe-when-vincent-met-john/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Edinburgh Fringe: When Vincent Met John ★★★★★&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 This five-star drama explores artistic genius through a sophisticated, poetic dialogue between Vincent van Gogh and John Lennon.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;&amp;quot;When Vincent Met John&amp;quot; is a highly-rated 90-minute drama that departs from standard festival formats to explore the psychological architecture of artistic genius through a hypothetical dialogue between Van Gogh and John Lennon. The script utilizes a complex structure of poetic, rhyming couplets dense with historical and literary references, requiring high cognitive engagement to unpack its arguments on the nature of creativity. The production is characterized by technical precision, featuring synchronized lead performances, bespoke set design, and meticulous direction that elevates the narrative beyond typical Fringe offerings. This five-star play is recommended for its deep thematic exploration and superior execution of non-musical, long-form drama.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Format and Duration:&lt;/strong&gt; The play distinguishes itself from typical Fringe offerings as a 90-minute non-musical drama rather than a standard one-hour musical.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Core Conceptual Premise:&lt;/strong&gt; The narrative explores a hypothetical conversation between Vincent van Gogh and John Lennon, two iconic artists whose global influence peaked after their deaths.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Creative Philosophical Inquiry:&lt;/strong&gt; Similar to the play &amp;#039;Art,&amp;#039; the script presents a meticulous argument regarding the nature of creativity and the psychological burdens of artistic genius.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Script and Dialogue:&lt;/strong&gt; The dialogue is characterized by poetic, rhyming couplets and is densely packed with deep-cut references to Lennon’s musical and literary canon.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Performance and Chemistry:&lt;/strong&gt; The lead actors fully inhabit their historical personas, delivering a perfectly synchronized performance that brings the characters to life.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Production Elements:&lt;/strong&gt; The play features precise direction and a custom-built set design that is specifically tailored to the unique needs of the performance.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Overall Critical Verdict:&lt;/strong&gt; Receiving a five-star rating, the production is hailed as an outstanding and astounding piece of theatre that is strongly recommended for audiences.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Things That Caught My Attention &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://newsletter.danhon.com/archive/s21e19-artificially-intelligent-pragmatism-your/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;s21e19: Artificially intelligent pragmatism; Your subjective experience is generative; The Profane Town Crier&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The author advocates for auditable AI and unified policy logic to eliminate governance fragmentation and implementation drift.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Advocating for &amp;quot;artificially intelligent pragmatism,&amp;quot; the author argues that AI’s inevitability requires developers to prioritize responsible, open, and auditable implementations while addressing systemic data ethics through political channels. A primary technical failure identified in modern governance is the lack of a unified &amp;quot;source of truth&amp;quot; for policy, which forces vendors to redundantly re-encode complex legislation into siloed, inconsistent business rules engines. This architectural fragmentation results in significant implementation drift, where public service delivery fluctuates between over-engineered automated systems and inefficient manual processes. To address these systemic challenges, the author also introduces new sessions focused on the intersection of crisis engineering and organizational strategy.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Community Events and Updates:&lt;/strong&gt; The author announces a newsletter migration and details upcoming &amp;quot;How People Work&amp;quot; live sessions featuring experts in crisis engineering and organizational strategy.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pragmatic AI Harm Reduction:&lt;/strong&gt; Viewing AI as an unstoppable &amp;quot;tidal wave,&amp;quot; the author advocates for a pragmatic approach focused on making implementations responsible, open, and auditable.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Navigating Ethical AI Challenges:&lt;/strong&gt; The text acknowledges systemic issues like data theft and biased infrastructure, suggesting that these should be fought politically while working to improve local implementation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Complexity of Legislative Implementation:&lt;/strong&gt; Modern governance relies on a complex hierarchy of primary and secondary legislation that must be interpreted across federal, state, and local jurisdictions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Policy Encoding Inefficiency:&lt;/strong&gt; A significant failure in governance exists where vendors repeatedly re-encode policy into business rules engines from scratch, lacking a unified source of truth.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Disparities in Service Delivery:&lt;/strong&gt; Government program implementation ranges from massive, vendor-driven automated systems to manual paper-based processes in smaller communities, creating inconsistent outcomes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-08-12T08:21Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-08-12T08:21Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI risks devaluing design engineering by replacing deep technical mastery with superficial &amp;quot;taste&amp;quot; and tool-dependent mediocrity.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article critiques the emerging shift toward &amp;quot;taste&amp;quot; and AI proficiency as primary qualifications for design engineers, arguing that LLMs devalue deep domain expertise and the rigorous research essential to professional development. By acting as a &amp;quot;great leveler,&amp;quot; AI-driven development imposes a common skill ceiling that fosters mediocrity and detaches practitioners from the foundational reasoning required for high-level problem-solving. Furthermore, the author contends that &amp;quot;taste&amp;quot; is often used as a coping mechanism for a lack of technical knowledge, leading to overconfidence and a disregard for the collaborative, multidisciplinary skills that top-tier organizations still prioritize. Ultimately, the piece warns that over-reliance on generative tools risks replacing specialized mastery with a superficial, tool-dependent proxy for talent.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Redefining Design Engineering:&lt;/strong&gt; The article critiques the emerging trend where &amp;#039;taste&amp;#039; and AI proficiency are seen as the primary qualifications for modern design engineers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Expertise vs. AI Shortcuts:&lt;/strong&gt; The author argues that using LLMs to bypass specialized roles like copywriting devalues professional research, training, and deep domain expertise.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Collaboration Over Tools:&lt;/strong&gt; Contradicting the &amp;#039;solo expert&amp;#039; narrative, the author highlights that organizations like Vercel prioritize collaborative skills and unique backgrounds over mere tool usage.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Skill Ceiling:&lt;/strong&gt; LLM-driven development acts as a &amp;#039;great leveller&amp;#039; that imposes a common skill ceiling, potentially encouraging mediocrity and a detachment from the development process.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Vibe-Based Fallacy:&lt;/strong&gt; The concept of &amp;#039;taste&amp;#039; in AI generation is dismissed as a coping mechanism for those who lack the foundational knowledge required to reason about good design.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Dunning-Kruger Effect:&lt;/strong&gt; Reliance on AI leads to overconfidence, where developers remain unaware of their limitations due to a lack of exposure to real-world expertise.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113219&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;把「闪念胶囊」（Almost）放到 iPhone 锁屏&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 An iOS Shortcut for rapid, AI-enhanced thought capture using the iPhone Action button and lock-screen gestures.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article details an iOS Shortcut-based implementation of a &amp;quot;rapid capture&amp;quot; system designed to minimize the latency between cognitive spark and digital entry by leveraging the iPhone Action button and lock-screen gestures. To combat information decay, the tool organizes fleeting thoughts into thematic containers and utilizes an &amp;quot;echo&amp;quot; mechanism that appends new fragments to recent notes, maintaining contextual continuity without requiring app-switching. Architecturally, the system prioritizes muscle memory and cognitive flow through haptic feedback and AI-driven text segmentation while intentionally omitting distracting metadata like timestamps. The implementation is highly extensible, offering configurable voice input toggles and adjustable history tracking to optimize the transition from raw thought to structured data.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Replicating Idea Pills:&lt;/strong&gt; The author utilizes iOS Shortcuts to recreate the &amp;#039;Idea Pills&amp;#039; experience, focusing on rapid capture to prevent fleeting thoughts from being lost.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Managing Idea Buckets:&lt;/strong&gt; Inspired by the concept of &amp;#039;Dunbar&amp;#039;s number&amp;#039; for thoughts, the tool organizes fragments into a limited set of thematic containers to solve the problem of information decay.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optimized Trigger Workflow:&lt;/strong&gt; The system leverages physical buttons or notification center gestures for lock-screen access, enabling rapid input without disrupting the user&amp;#039;s current application context.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Contextual Note Appending:&lt;/strong&gt; New thoughts can be instantly appended to recent notes, providing a &amp;#039;echo&amp;#039; effect that helps users immediately connect new ideas with existing thinking.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI and Text Processing:&lt;/strong&gt; The shortcut integrates with AI models and text segmentation tools to process captured information and distribute it across different applications.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Minimalist Design Philosophy:&lt;/strong&gt; The implementation prioritizes muscle memory and cognitive flow, intentionally omitting timestamps to reduce distraction and focusing on haptic feedback for triggers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Customization and Installation:&lt;/strong&gt; The tool supports extensive configuration, including voice input toggles and adjustments to the number of tracked recent notes, and is optimized for the iPhone Action button.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113352&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Lao Mai pivots Sspai toward specialized AI wearables, prioritizing human-centric community insights over post-iPhone hardware homogeneity.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Tracing his roots from the enthusiast-driven Palm and WebOS era, Lao Mai has evolved Sspai from a software review site into a creator-centric ecosystem that integrates hardware co-creation through Shenzhen’s supply chain. He argues that the hardware homogeneity of the post-iPhone era is ripe for disruption by specialized AI wearables, such as glasses and rings, which shift the interaction paradigm toward voice and first-person perspectives. Ultimately, Lao Mai posits that as AI-generated content proliferates, the primary value for tech platforms lies in fostering deep, human-driven insights and high-quality community relationships that cannot be replicated by algorithms.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Early Geek Culture:&lt;/strong&gt; Lao Mai&amp;#039;s journey began in the pre-iPhone era, building communities around Palm and WebOS during the peak of ROM flashing and mobile experimentation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Content-Product Business Loop:&lt;/strong&gt; Sspai evolved from a simple app recommendation site into a digital lifestyle guide by integrating paid content, creator ecosystems, and hardware co-creation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware Homogenization:&lt;/strong&gt; The transition from the diverse feature phone era to the uniform iPhone era highlights a decline in hardware innovation and aesthetic variety.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Media Business Limitations:&lt;/strong&gt; A pivotal interaction with Luo Yonghao led Lao Mai to recognize the limitations of traditional tech media, sparking a move toward Shenzhen&amp;#039;s hardware supply chain.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Hardware Unbundling:&lt;/strong&gt; The next decade may see specialized AI devices like glasses and rings take over specific smartphone functions, shifting interaction toward voice and first-person perspectives.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Human-Centric Content Value:&lt;/strong&gt; As AI-generated content proliferates, Sspai emphasizes that deep, human-driven experiences and high-quality user relationships are becoming increasingly rare and valuable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112880&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;我，与「唯一」的 iPhone Air&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iPhone Air 帮助用户认清自身真实需求。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了 iPhone Air 等产品在功能之外的深层价值。作者认为，这些产品的存在意义在于作为一种参照物，帮助用户在实际体验中反思并最终确认自己真正的核心需求。文章风格具有思辨性，强调了产品在引导用户自我认知方面的独特作用。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113343&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 微软上调系统授权费，小米发布 K100 Pro 及多项科技动态。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了多项科技行业动态：硬件方面，微软上调 Windows 11 OEM 授权费，小米发布 REDMI K100 Pro 系列，雷蛇与铭凡分别推出新款外设与迷你主机。软件与 AI 领域，Claude 引入内容隐水印技术，Google 收紧了 Pixel 内核源码获取权限。简讯部分则覆盖了 TGA 颁奖礼计划、Linux 版 ChatGPT 以及 DeepMind 的人事变动。全文风格精炼，准确报道了各品牌的最新产品参数与政策调整。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软上调了针对电脑制造商的 Windows 11 OEM 许可授权费用，平均涨幅达 7% 至 10%，部分成本已转嫁至消费端。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Claude 宣布将为生成内容附加隐水印以符合欧盟 AI 法案，并分享了在黎曼猜想研究方面的重大突破。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米发布 REDMI K100 Pro 系列手机，搭载骁龙 8 至尊版处理器及高能效屏幕技术，起售价为 3999 元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;雷蛇推出那伽梵蛇 V3 专业版无线鼠标，配备 50K DPI 传感器并支持多场景磁吸侧面板更换。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;铭凡上架 Elite Mini M2 Air-304 迷你主机，搭载英特尔酷睿 3 处理器，主打静音与紧凑设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Minimal Phone 2 全键盘手机开启众筹，由前代的墨水屏改为 OLED 面板，并搭载天玑 8300 处理器。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google 增加了 Pixel 手机驱动程序的获取难度，改为人工审理模式，对第三方 ROM 开发造成阻碍。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯汇总了 TGA 2026 举办时间、Linux 版 ChatGPT 预览发布、DeepMind 领导层改组等多项动态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - August 11, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1721,137 +1910,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Nyingchi Ecological Respite:&lt;/strong&gt; Transitioning to Nyingchi provides relief from altitude sickness through its lush vegetation and lower elevation, featuring scenic spots like Basum Tso and vibrant local culture.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Infrastructure and Modernization:&lt;/strong&gt; Observations of hydropower projects and the future Sichuan-Tibet railway highlight the massive state investment driving economic development and connectivity in the region.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Final Reflections and Departure:&lt;/strong&gt; The journey concludes at Namcha Barwa, leaving the author to reflect on Tibet&amp;#039;s uniquely slow pace of life and the physiological phenomenon of oxygen intoxication upon returning home.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - August 1, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-08-01</id>
-    <updated>2026-08-01T20:53:00.876Z</updated>
-    <published>2026-08-01T20:53:00.876Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>5 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 1, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;233.4246575342466&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    58.4%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;213&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;152&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;30&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████░░░░░░░░░░░░ 58.4%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;5&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22687&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Saturday afternoon outdoor session in Belfast&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年8月1日贝尔法斯特户外活动日志及社交记录。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文简要记录了2026年8月1日周六下午在贝尔法斯特（Belfast）举行的一次户外活动。作者提供了精确的地理坐标，并标注了该内容在Mastodon和Bluesky等社交平台的同步情况。文中还列出了来自多位用户的点赞互动，呈现出简洁的日志式写作风格，核心在于记录特定时空的活动摘要与社交反馈。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.bram.us/2026/07/30/styling-the-navigation-declarative-route-and-navigation-matching-in-css/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Styling the Navigation: Declarative Route and Navigation Matching in CSS – Bram.us&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CSS声明式路由匹配规范将简化Web导航转场动画实现。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了Chrome团队提出的CSS Route and Navigation Matching规范建议。该规范旨在通过声明式CSS替代复杂的JavaScript逻辑，实现对View Transitions和导航样式的精准控制。文章详细阐述了`@route`、`@navigation`、`:nav-source`及`:link-to()`等核心功能，展示了如何更简洁地处理多页面应用间的转场动画。作者以专业且开放的风格，邀请开发者参与CSSWG的讨论并提供反馈，共同构建更强大的Web导航体验。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (13 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Chrome团队正致力于在CSS中实现声明式路由和导航匹配，并将在CSS工作组会议上展示当前思路。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前为不同导航路径设置View Transitions需要复杂的JavaScript拦截逻辑，这增加了开发难度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新提出的CSS Route and Navigation Matching规范旨在通过CSS声明式地控制导航体验和链接样式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过`@route`规则，开发者可以使用`url-pattern()`定义命名路由，避免重复书写URL字符串。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;`@navigation`规则允许查询导航的起点和终点状态，从而根据路径应用特定的View Transitions。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;`:nav-source`伪类能够定位触发导航的具体源元素，实现如点击缩略图转场至详情图的精细效果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;`:link-to()`选择器允许根据链接的目标路由进行样式定制，增强了UI编排的灵活性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发团队正寻求社区对语法设计和使用场景的反馈，以确保规范的完善和实用性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;该功能目前已在Chrome Canary中以实验性功能标志的形式开放试用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者鼓励读者在社交媒体上分享此消息，以帮助传播这一新的CSS提案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了关注作者Bramus及其获取后续更新的多种渠道，如Bluesky和RSS。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍作者Bramus是Google的Chrome开发关系工程师，长期热爱并钻研Web技术。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;声明文章观点仅代表个人，并说明了内容与代码示例所遵循的开源许可协议。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22685&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Going to Belfast. brb&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录2026年8月前往Belfast的简短行程状态。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者记录了2026年8月1日前往Belfast的行程，并提供了具体的地理坐标（51° N, 0° W）。文中还提到了作者在Mastodon和Bluesky等社交平台的活动，并展示了来自Ms. Jen的互动点赞，整体呈现出一种简练的社交媒体状态更新风格。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/gadget-review-hikmicro-d02-thermal-camera/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Gadget Review: HIKMICRO D02 Thermal Camera ★★★★★&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A rugged, budget-friendly thermal camera featuring Linux compatibility and UVC streaming for high-value technical and domestic diagnostics.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The HIKMICRO D02 is a rugged, budget-friendly thermal imager that fuses a 96x96 thermal sensor with a 480x640 optical camera, offering technical features like adjustable emissivity, scheduled captures, and temperature-triggered alarms. For developers and power users, the device functions as a standard Linux-compatible USB storage gadget and provides a UVC-compliant MJPG stream at 30fps, enabling integration with tools like `qv4l2`. While it lacks high-end UI components like touchscreens, it compensates with a minimalist physical interface, rapid boot times, and a diagnostic logging mode for troubleshooting. Despite limited EXIF metadata and minor parallax issues at close range, its competitive pricing and open-source transparency make it a high-value tool for domestic and electrical diagnostics.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dual-Sensor Image Fusion:&lt;/strong&gt; The D02 combines a 96x96 thermal sensor with a 480x640 optical camera to create fused images that overlay heat data onto visual outlines. While effective for identifying hotspots, parallax issues can occur when imaging subjects at very close range.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Storage and Media:&lt;/strong&gt; The device includes 2.5GB of internal storage capable of holding thousands of upscaled 240x240 images or several hours of silent MP4 video. Files are stored in a standard DCIM structure, though EXIF metadata is limited to basic timestamps and serial numbers.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Configurable Thermal Features:&lt;/strong&gt; Technical users can adjust emissivity profiles, distance settings, and thermal palettes to suit different materials and environments. It also supports scheduled periodic captures and temperature-based alarms for automated monitoring.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware and Interface:&lt;/strong&gt; The physical interface is minimalist, featuring a dual-action trigger for photos and video alongside basic navigation buttons. It eschews expensive components like touchscreens or haptic feedback in favor of a rugged, &amp;#039;idiot-proof&amp;#039; design.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Linux and OSS Compliance:&lt;/strong&gt; The camera is fully compatible with Linux as a standard USB storage gadget and provides a transparent on-device menu for open-source license credits. It even includes a diagnostic logging mode that outputs system errors to the internal disk for troubleshooting.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;UVC Webcam Functionality:&lt;/strong&gt; By selecting &amp;#039;USB Cast Screen&amp;#039; mode, the device acts as a UVC-compliant camera capable of streaming MJPG video at 30fps. While browser support is inconsistent, it works effectively with technical tools like qv4l2 when set to the correct resolution.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Economic Value Proposition:&lt;/strong&gt; Priced competitively for the &amp;#039;Eco&amp;#039; series, the D02 is positioned as a high-value tool for domestic diagnostics such as insulation checks and electrical safety. Its quick boot times and dual-sensor accuracy make it a recommended investment for home maintenance.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112701&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Race strategy optimizes track position by balancing pit stop latency against tire performance gains through tactical, data-driven timing.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Race strategy is a multi-variable optimization problem where pit stops function as a high-latency trade-off, sacrificing immediate time (~20s+) for increased future throughput via improved tire grip. Tactics like the undercut and overcut leverage differential performance states between fresh and degraded compounds to gain track position, while asynchronous events like Safety Cars offer &amp;quot;low-cost&amp;quot; windows to minimize the relative overhead of a stop. To accurately assess a race&amp;#039;s true state, developers must look beyond the current ranking array and evaluate a complex metadata set including tire age, compound type, and remaining pit requirements.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pit Stop Fundamentals:&lt;/strong&gt; Live race rankings are often deceptive because they do not account for the varying pit stop statuses and tire ages of different drivers. A pit stop is a strategic trade-off where immediate time loss is exchanged for future performance gains.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Regulations and Degradation:&lt;/strong&gt; Pit stops are necessitated by FIA rules requiring the use of at least two different dry tire compounds and the physical degradation of rubber which reduces grip and increases safety risks. Drivers must balance the timing of these stops to optimize overall race pace.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Quantifying Pit Loss:&lt;/strong&gt; The total time lost during a pit stop, known as &amp;#039;pit loss,&amp;#039; includes deceleration, navigating the speed-limited pit lane, and re-acceleration, typically totaling over 20 seconds. Teams use precise models to calculate if fresh tire speed can compensate for this significant time investment.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Undercut Maneuver:&lt;/strong&gt; An undercut involves pitting earlier than a rival to utilize fresh tire grip for a faster out-lap, effectively leapfrogging the opponent when they eventually stop. This tactic relies on clean air and immediate tire warm-up to be successful.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Overcut Strategy Mechanics:&lt;/strong&gt; The overcut is the reverse of the undercut, where a driver stays out longer to exploit clean air or an opponent&amp;#039;s slow tire warm-up. It is highly situational and depends on the old tires maintaining competitive lap times relative to the opponent&amp;#039;s new set.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Total Race Optimization:&lt;/strong&gt; Choosing between a one-stop or two-stop strategy is a mathematical optimization problem aimed at minimizing the total race duration. Factors like track temperature, tire wear rates, and overtaking difficulty dictate which strategic model is superior.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Safety Car Dynamics:&lt;/strong&gt; Safety Cars and Virtual Safety Cars drastically reduce the relative time cost of a pit stop because the field is moving at a reduced speed. This creates a &amp;#039;cheap&amp;#039; pit window that can instantly invalidate pre-planned race strategies and favor those who haven&amp;#039;t stopped.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Predictive Race Analysis:&lt;/strong&gt; Technical analysis of a race requires looking beyond current positions to evaluate tire compounds, ages, and remaining stop requirements. Understanding these variables allows viewers to distinguish between current ranking and actual strategic standing.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
