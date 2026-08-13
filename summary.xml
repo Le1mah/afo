@@ -4,8 +4,228 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-08-12T21:04:34.034Z</updated>
+  <updated>2026-08-13T21:05:02.166Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - August 13, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-08-13</id>
+    <updated>2026-08-13T21:05:02.166Z</updated>
+    <published>2026-08-13T21:05:02.166Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>11 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 13, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;246.57534246575344&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    61.6%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;225&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;140&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;32&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████░░░░░░░░░░░░ 61.6%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://spectrum.ieee.org/colossus-computer-ieee-milestone&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Computer That Helped Win World War II - IEEE Spectrum&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Colossus：二战中破解德国加密通信的首台电子计算机。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了二战期间在布莱切利园（Bletchley Park）发挥关键作用的 Colossus 计算机。作为世界上第一台大型可编程电子数字计算机，它成功破解了德国的加密通信。作者 B. Jack Copeland 通过回顾操作员的工作场景，展现了这一计算机科学史上的重大技术突破对赢得战争的决定性贡献。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;概述 Colossus 计算机在二战中通过破解德国加密通信所发挥的关键作用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍作者 B. Jack Copeland 作为新西兰坎特伯雷大学哲学教授的学术背景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;描述了操作员在布莱切利园使用 Colossus 这一首台大型可编程电子数字计算机的历史场景。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://ohhelloana.blog/mkdn/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Oh Hello Ana - Towards a personal online third-space&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Reclaim the digital &amp;quot;third space&amp;quot; through personal websites that prioritize creative self-expression over technical over-engineering.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author advocates for reclaiming the &amp;quot;third space&amp;quot; online by shifting from corporate-owned, algorithmic silos toward personal websites that prioritize data sovereignty and user agency. While the IndieWeb movement provides a framework for decentralized content ownership, the author cautions senior developers against the technical burnout caused by over-engineering these platforms with complex protocols and rigid APIs. Ultimately, the piece argues for a sustainable architectural approach that favors creative self-expression and community building over the pursuit of technical perfection.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Digital Third Spaces:&lt;/strong&gt; The author adapts the sociological concept of a &amp;quot;third space&amp;quot; to describe personal websites as social environments distinct from both home and the corporate workplace. These spaces prioritize community, interaction, and a sense of belonging outside of traditional social media silos.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Corporate Web Critique:&lt;/strong&gt; Modern online presence is largely confined to corporate-owned &amp;quot;walled gardens&amp;quot; that offer users no transparency, data ownership, or privacy. These platforms act as internet landlords, trapping users in addictive cycles of notifications and algorithmic feeds.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;IndieWeb Philosophy:&lt;/strong&gt; The IndieWeb movement advocates for personal content ownership by hosting articles, status updates, and interactions on one&amp;#039;s own domain before sharing them elsewhere. This approach ensures a permanent record of digital life that remains accessible even if third-party platforms disappear.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Over-engineering Trap:&lt;/strong&gt; The author reflects on the technical burnout caused by trying to implement every available IndieWeb protocol and API. This pursuit of &amp;quot;IndieWeb perfection&amp;quot; turned personal blogging into a chore and created unnecessary pressure to maintain a complex social architecture.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Embracing Imperfect Websites:&lt;/strong&gt; A personal website serves best as a safe space for creativity and self-expression when it moves away from over-engineered requirements. The focus shifts from technical rigidness to building a sustainable, personal environment for sharing and community building.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/against-doomerism/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Against Doomerism – Terence Eden’s Blog&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 请求正在验证中，请稍候。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该文本是一条典型的系统提示信息，告知用户其请求正在验证过程中，并要求用户耐心等待。这种信息通常出现在网页加载或安全检查环节，用于同步后台处理状态。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;New EU Guidelines For AI Labelling&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The EU AI Act mandates persistent, plain-language labeling for AI-generated content globally, effective August 2026.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Effective August 2, 2026, the EU AI Act mandates transparent labeling for AI-generated content—including deepfakes, chatbots, and public interest text—for any provider serving EU citizens regardless of physical location. Technical compliance requires specific, persistent UI indicators and metadata that remain visible even when content is shared, explicitly moving away from ambiguous symbols like &amp;quot;sparkle&amp;quot; icons in favor of plain-language labels. While substantive human editorial review can exempt content from disclosure, developers should note that automated generation and superficial &amp;quot;skimming&amp;quot; still trigger mandatory labeling requirements. This regulation aligns with a growing global trend (including California and China), signaling that AI transparency is now a critical non-functional requirement for international software architecture and deployment.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;EU AI Disclosure Mandate:&lt;/strong&gt; Starting August 2, 2026, any company providing AI-generated content to EU citizens must comply with transparency rules, regardless of the company&amp;#039;s physical location. The regulations focus on making AI involvement obvious in specific contexts to prevent user deception.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mandatory Labeling Categories:&lt;/strong&gt; Disclosure is legally required for deepfakes, chatbots, AI-generated text on public interest matters, and biometric categorization tools. These rules apply to both the original AI providers and the companies that deploy them.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Human Editorial Exemptions:&lt;/strong&gt; Content does not require an AI label if it has undergone substantive human review and editing where a named person takes responsibility. Small assistive edits like spellcheck or color correction are not considered AI generation under these rules.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining Substantive Editing:&lt;/strong&gt; The line between &amp;#039;edited&amp;#039; and &amp;#039;generated&amp;#039; depends on manual intervention; automated generation always requires disclosure while fine-tuning human-written text does not. A simple &amp;#039;skim&amp;#039; before publishing does not qualify as a valid human editorial review.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Standardized UI Requirements:&lt;/strong&gt; Ambiguous &amp;#039;sparkle&amp;#039; icons are insufficient for compliance; the EU mandates specific AI icons paired with plain-language labels. These indicators must be accessible, clearly visible, and persist even when content is downloaded or shared.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Global Regulatory Convergence:&lt;/strong&gt; The EU&amp;#039;s move reflects a global trend, with similar AI labeling laws already active or pending in California, China, India, and South Korea. This shift suggests that AI transparency is becoming a standard international compliance requirement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-08-13T10:14Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-08-13T10:14Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者对 Brad Frost 在 AI 成本讨论中的矛盾立场感到困惑。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者观看了 Miriam Suzanne 与 Brad Frost 关于 AI 真实成本的对话。作者高度赞赏 Miriam 的见解，但对 Brad 的立场表示质疑，认为他虽然表面认同 Miriam，却因实际使用和销售 AI 而成为问题的一部分。作者原本希望理解 Brad 的视角，但最终对其言行不一的矛盾表现感到更加困惑。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n0b77cc2adb7d&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【30周年】お祝いの色紙が届いています​　ご報告と御礼 Part 2&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2 reveals its second collection of 30th-anniversary tributes from prominent gaming and manga industry collaborators.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2 continues its 30th-anniversary celebration by showcasing a second collection of commemorative illustrations and messages from high-profile industry partners, including Final Fantasy XIV/XVI producer Naoki Yoshida. The update highlights cross-media synergy with custom artwork from manga publishers Number Nine and Mangatari Inc., alongside contributions from regional partners like Alfa System that underscore the studio&amp;#039;s deep roots in the GFF creator network. These industry acknowledgments reflect CyberConnect2’s long-standing influence across the Japanese gaming and manga ecosystems. All received artwork will be permanently displayed at the studio’s headquarters as they continue to release subsequent installments of anniversary tributes.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;30th Anniversary Celebration:&lt;/strong&gt; CyberConnect2 continues its 30th-anniversary milestone by showcasing the second installment of congratulatory messages and custom illustrations from industry partners.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Square Enix Collaboration:&lt;/strong&gt; Naoki Yoshida, producer of Final Fantasy XIV and XVI, provided a commemorative message following his recent appearance with President Piroshi at a local industry event.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Manga IP Partnerships:&lt;/strong&gt; Manga publisher Number Nine contributed two distinct illustrations from artists behind popular series like &amp;#039;The Savior from Divine Blood&amp;#039; and &amp;#039;The Only Strongest Transcendent&amp;#039;.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Artist Illustration Highlights:&lt;/strong&gt; Artists Shunji Eto and fuwai submitted high-impact character art of their respective protagonists to celebrate the studio&amp;#039;s long-standing creative contributions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Humorous Creative Tribute:&lt;/strong&gt; Mangatari Inc. provided a playful illustration featuring CyberConnect2&amp;#039;s president in a scene inspired by their manga &amp;#039;Fukushu-san,&amp;#039; highlighting a long-term business relationship.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Regional Industry Ties:&lt;/strong&gt; Kumamoto-based Alfa System sent a vibrant illustration featuring &amp;#039;Sisters Royale&amp;#039; characters, reinforcing the strong bonds within the GFF game creator network.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Future Commemorative Plans:&lt;/strong&gt; The studio plans to display all received artwork within their headquarters and will continue to share subsequent anniversary messages in future updates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113225&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;不用改签名，给 Mac 微信聊天记录「搬个家」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通过 APFS 宗卷挂载将 Mac 微信数据搬至外置硬盘的免签名方案。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了一种在不修改 Mac App Store 微信官方签名的情况下，利用 APFS 宗卷挂载技术将聊天记录迁移至外置硬盘的进阶方案。作者通过将外置宗卷直接挂载到微信沙盒内的特定数据目录，绕过了系统对符号链接的权限限制。文章详细阐述了从创建宗卷、数据迁移到配置 /etc/fstab 自动挂载的完整流程，并提供了防止误写的权限保护技巧。该方法在保留软件原生安全性的同时，有效解决了 Mac 内置存储空间不足的问题。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mac mini 存储空间有限且微信数据增长迅速，但沙盒机制导致传统的符号链接方案无法直接访问外置硬盘。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出通过创建独立的 APFS 宗卷并将其挂载到微信容器内部目录的方案，以在保留官方签名的前提下实现扩容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;分析了挂载与符号链接的区别，强调必须将宗卷挂载到深层目录以避免触发沙盒检查导致微信崩溃。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一步是利用磁盘工具在外置硬盘中创建 APFS 宗卷，并记录其设备标识符和 UUID 信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二步是使用 Finder 或终端命令将原有的微信聊天数据完整迁移至新宗卷，并对原始目录进行备份。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三步涉及创建新的挂载点目录，并将外置宗卷手动挂载到该路径，同时需验证挂载点的准确性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第四步是启动微信进行功能验证，包括检查聊天记录完整性、文件读取及新消息的写入情况。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;第五步通过编辑 /etc/fstab 文件并使用 UUID 标识符，实现外置宗卷的持久化自动挂载和图标隐藏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为了防止外置硬盘未连接时微信在本地创建空数据，建议在卸载状态下将底层挂载目录设为不可写。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该挂载思路理论上可推广至其他大型 App 或游戏，但不同软件的沙盒规则和检查机制可能存在差异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结该方案在不破坏官方签名的前提下解决了存储压力，特别适合外置硬盘长期连接的 Mac 用户。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/summer-cold-meal-guide&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从原理出发，高效搞定夏日营养冷食&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Optimize summer nutrition using low-retrogradation starches, high-intensity aromatics, and rapid cooling protocols for safe, flavorful cold meals.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To optimize summer nutrition, prioritize low-fat proteins and low-retrogradation starches (such as buckwheat or vinegar-treated rice) to maintain texture and prevent fat solidification at refrigerated temperatures. Compensate for reduced sensory perception at low temperatures by utilizing high-intensity, separately stored aromatics and acids to preserve ingredient integrity and flavor profile. Minimize kitchen thermal output by leveraging high-efficiency appliances like microwaves and air fryers, while strictly adhering to food safety protocols through rapid cooling cycles and small-portion storage to mitigate bacterial growth.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Protein and Cold-Palatability:&lt;/strong&gt; Focus on low-fat, high-moisture proteins like poultry, seafood, and soy to avoid the waxy texture of solidified animal fats at room or refrigerated temperatures.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Starch Stability and Texture:&lt;/strong&gt; Select starches less prone to retrogradation, such as buckwheat or vinegar-treated rice, to maintain a soft texture and leverage the metabolic benefits of resistant starch.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Flavor Enhancement Strategies:&lt;/strong&gt; Compensate for reduced sensory perception at low temperatures by using high-intensity seasonings like citrus, vinegar, and aromatics, ideally stored separately to maintain ingredient crispness.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Heat-Efficient Cooking Logic:&lt;/strong&gt; Minimize ambient kitchen temperature by prioritizing microwaves and air fryers over long-duration boiling or oven roasting to reduce thermal output and humidity.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Safe Preservation Protocols:&lt;/strong&gt; Ensure food safety by cooling prepared meals within two hours and utilizing small-portion storage to facilitate rapid temperature reduction and prevent bacterial growth.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113338&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 铁三角 SQ1TW2NC：设计出众、佩戴舒适的入门级降噪耳机。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文评测了铁三角 ATH-SQ1TW2NC 降噪真无线耳机。该产品以小巧精致的豆式设计、丰富的甜品系配色和出色的佩戴舒适度为核心卖点。虽然在降噪深度、音质解析及编码协议上相较同价位主流竞品优势并不明显，但其 64 级音量调节、实用的 App 功能及优秀的工业设计体现了品牌独特底蕴。作者认为这是一款在细节审美与佩戴体验上表现突出的入门级产品，适合追求个性化与舒适度的用户。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍铁三角 ATH-SQ1TW2NC 耳机，作为 SQ1 系列首款加入主动降噪功能的入门级产品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;包装设计小巧且色彩鲜艳，配件包括不同尺寸的耳套、充电线及具有保护贴纸的耳机。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;产品提供多种以甜品命名的撞色配色，充电盒外形酷似小型电饭煲，体积非常小巧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;充电盒采用透明盖板设计，虽有创意但抗刮擦性一般，内部耳机磁吸力度适中。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;耳机本体采用极小的豆式形态，单侧仅重 4g，佩戴舒适且支持 IPX5 级防泼溅。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;支持触控操作及 Connect app 调节，提供包括私人计时器和声景功能在内的丰富设置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;降噪表现处于通勤可用水平，通透模式还原自然，通话清晰度高且具备侧音功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;连接稳定，支持低延迟模式，开启降噪下耳机单次续航约 4.5 小时，并支持无线充电。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;搭载 5.8mm 微动圈单元，支持 64 级细微音量调节，编码格式仅支持 SBC 和 AAC。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;音质表现以低频质感和中频人声为主，高频平顺但延伸一般，声场规模较小。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结指出该耳机在参数和降噪上虽无明显优势，但在工业设计、佩戴舒适度和细节功能上表现出色。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;结合其市场售价，给出 III 级（推荐）的综合评价，认为其在特定细节上值得国内品牌学习。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112873&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;6 天时间丈量独库公路：我的平安骑行指南&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Technical six-day Duku Highway cycling manual covering physiological optimization, logistics, and safety protocols for extreme mountain environments.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This guide outlines a six-day cycling expedition across the Duku Highway, providing a technical framework for navigating extreme environmental transitions from high-altitude mountain passes to high-heat desert terrain. It emphasizes physiological optimization through a sustained cadence of 80-90 RPM and targeted hydration strategies to manage lactic acid buildup during significant elevation gains. Logistics are streamlined via specialized bike rentals and China Railway Express for heavy gear, while safety protocols address critical failure points like mechanical issues, altitude sickness, and sudden weather shifts. Ultimately, the article serves as a comprehensive operational manual for managing the high-intensity endurance and logistical demands of this challenging route.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Essential Gear Preparation:&lt;/strong&gt; Focuses on sun protection, multi-layered clothing for extreme temperature shifts, and renting bikes from specialized stations to avoid long-distance transport logistics.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Northern Route Logistics:&lt;/strong&gt; Covers the first three days from Dushanzi to Nalati, characterized by significant elevation gains, high-altitude passes, and the necessity of lights for unlit tunnels.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Southern Route Logistics:&lt;/strong&gt; Details the final leg through Bayanbulak to Kuqa, highlighting the transition from lush grasslands to high-heat desert environments with challenging crosswinds.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Safety Protocols:&lt;/strong&gt; Provides practical solutions for handling mechanical failures like flat tires, managing altitude sickness, and navigating emergency weather conditions such as sudden hail or heatstroke.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Performance and Recovery:&lt;/strong&gt; Recommends maintaining a steady cadence of 80-90 RPM and utilizing specific hydration strategies and recovery techniques to manage lactic acid during consecutive high-intensity days.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Baggage and Transport:&lt;/strong&gt; Outlines a cost-effective strategy for shipping heavy luggage via China Railway Express and provides return trip logistics for cyclists finishing at Kuqa.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113385&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Tech leaders launch AI-optimized hardware and models, signaling a pivot toward agentic workflows and high-efficiency edge computing.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Honor has introduced the &amp;quot;Robot Phone&amp;quot; featuring a 4-DOF titanium gimbal and an Agentic OS for multi-step task execution, while Google’s Pixel 11 series debuts the Tensor G6 with a 50% TPU performance boost for on-device AI. In the imaging sector, Insta360’s X6 camera leverages 4nm AI silicon and Gaussian Splatting to transform 8K panoramic footage into navigable 3D models. On the software side, SpaceXAI’s Grok 4.6 focuses on long-running autonomous agents, complemented by enterprise-grade releases including NVIDIA’s 30B MoE for edge deployment and DeepSeek-V4-Pro’s 1.6-trillion parameter architecture with a 1M token context window. Together, these updates highlight a significant industry pivot toward hardware-software co-design optimized for agentic workflows and high-efficiency edge computing.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Honor Robot Phone&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Honor launched the world&amp;#039;s first robot phone featuring a built-in 4-degree-of-freedom titanium gimbal and an Agentic OS designed for multi-step task execution. The device integrates professional ARRI imaging curves and is powered by the Snapdragon 8 Elite platform.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Google Pixel 11 Ecosystem&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Google unveiled the Pixel 11 series featuring the Tensor G6 chip, which offers a 50% boost in TPU performance and significantly improved energy efficiency for on-device AI. The launch also included the Pixel Watch 5 and the UWB-enabled Pixel Tag tracker.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Insta360 X6 Camera&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The Insta360 X6 flagship panoramic camera features dual 1/1.1-inch sensors and a 4nm AI chip capable of 8K50fps recording. It introduces a &amp;#039;3D Time Capsule&amp;#039; feature that utilizes Gaussian Splatting to render navigable 3D models from panoramic footage.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;SpaceXAI Grok Advancements&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;SpaceXAI released Grok 4.6, emphasizing long-running agent capabilities for complex engineering and research tasks. Alongside the model, &amp;#039;Grok Bot&amp;#039; was introduced to automate cross-application workflows like lead generation and financial data extraction.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Enterprise AI Models&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;NVIDIA launched the 30B MoE Nemotron 3.5 Lightning for high-speed edge AI deployment, while DeepSeek released the production version of V4-Pro. DeepSeek-V4-Pro features a 1.6-trillion parameter architecture and supports up to 1-million token context windows.&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - August 12, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1783,133 +2003,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨了 rule-inset 系列属性，通过正负值灵活控制装饰线的缩进、扩张及其对称性。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了 rule-visibility-items 属性的用法，用于精准控制在没有子元素的间隙处是否显示装饰线。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;总结了该特性的动画支持情况，并指出其目前仅在 Chrome 149+ 等极新版本浏览器中受支持。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - August 2, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-08-02</id>
-    <updated>2026-08-02T20:51:42.737Z</updated>
-    <published>2026-08-02T20:51:42.737Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>5 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 2, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;234.5205479452055&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    58.6%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;214&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;151&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;30&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████░░░░░░░░░░░░ 58.6%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;5&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22689&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sunday afternoon session in Belfast&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年贝尔法斯特活动记录及社交互动请求。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这段文字是2026年8月2日在贝尔法斯特举行的一场活动的简短记录。内容涵盖了具体的地理坐标、版权授权方式以及在 Mastodon 和 Bluesky 等社交平台的同步情况。文中展示了读者的互动记录，并明确表达了希望获取读者反馈或回应链接的意图，展现了典型的去中心化社交互动模式。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;记录了2026年8月2日周日下午在贝尔法斯特的一次活动，包含地理坐标信息及 CC 授权声明。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提及内容同步发布于 Mastodon 和 Bluesky 平台，并记录了 Paul Gould 的点赞互动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者向读者征集对此内容的回应，并请求通过提供 URL 或 Ping 信号的方式进行反馈。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-08-02T11:09Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-08-02T11:09Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者因 Homebrew 安装 Rust 出现故障而对其易用性产生质疑。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者在使用 Homebrew 安装 Rust 环境时遇到的技术困境。在开发 Tauri 应用时，作者发现 Homebrew 管理的 Rust 工具链因路径冲突和 keg-only 限制而失效。作者批评了 Homebrew 晦涩的隐喻术语以及频繁的包损坏问题，认为其已失去作为包管理器的便利性。最终，作者选择绕过 Homebrew 使用官方脚本，并对该开源项目的实际用途提出了质疑。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在重建 Tauri 应用时发现系统无法识别 rustc 和 Cargo，尽管 rustup 已显示安装。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;经检查确认 rustup 位于 Homebrew 的路径 /opt/homebrew/bin/rustup 下。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者发现 ~/.cargo/bin 中的 Rust 工具链接到了一个不存在的 rustup-init 文件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尝试重新安装时，Homebrew 提示 rustup 为 keg-only 且与 rust 冲突，导致安装失败。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者批评 Homebrew 的术语晦涩且包管理频繁出错，违背了包管理器应有的便利性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者最终放弃 Homebrew 并改用官方脚本安装，表达了对 Homebrew 现状的困惑。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-08-02T09:12Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-08-02T09:12Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 播客 cold opens 趋势因体验不佳正导致听众流失。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文表达了对播客中 cold opens 趋势的强烈不满。作者以直白且批判性的风格，指出这种缺乏上下文的开场方式不仅无法像 TikTok 短视频那样吸引受众，反而因其内容空洞和重复性降低了听众的体验。作者强调，这种设计增加了用户寻找核心内容的成本，最终会导致听众流失，甚至直接取消订阅。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者批评播客中的 cold opens 是最糟糕的新趋势，认为这种缺乏背景的随机闲聊让听众感到困惑且毫无意义。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出播客不同于 TikTok，编辑精心挑选的片段往往并不深刻，无法起到吸引听众的作用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;频繁快进寻找正片的过程让作者感到厌倦，并表示与其忍受这种体验，不如直接取消订阅。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-08-02T05:41Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-08-02T05:41Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享对《The Licanius Trilogy》的初步评价与阅读计划。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者正在收听 James Islington 的《The Licanius Trilogy》有声书，该系列由 Michael Kramer 朗读。作者指出作品受《The Wheel of Time》影响明显，虽然在读到第一部书一半时仍未完全信服，但仍决定坚持读完。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112843&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A Tibet travelogue exploring high-altitude physiological challenges, modern infrastructure, and the region’s spiritual and socio-technical evolution.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This travelogue documents a high-altitude expedition across Tibet, contrasting the physiological challenges of the 5,400m plateau with the robust engineering of the Qinghai-Tibet Railway and emerging state-funded hydropower projects. The narrative explores the region’s socio-technical evolution, balancing the spiritual depth of Tibetan Buddhism with the modern scaling of connectivity via the future Sichuan-Tibet railway. By transitioning from the harsh Kekexili wilderness to the lush, lower-elevation Nyingchi, the author captures the biological impact of extreme environments, concluding with reflections on the &amp;quot;oxygen intoxication&amp;quot; experienced upon returning to sea level.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Railway Journey Logistics:&lt;/strong&gt; The author travels from Ningbo to Lhasa via the Qinghai-Tibet Railway, highlighting the train&amp;#039;s amenities and the initial challenges of high-altitude adaptation.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cross-Cultural Train Encounters:&lt;/strong&gt; A chance meeting with a retired UN worker on the train provides a global perspective on travel while passing through the scenic, wildlife-rich Kekexili wilderness.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Lhasa Religious Landmarks:&lt;/strong&gt; Exploration of the Jokhang Temple and Potala Palace showcases Tibetan Buddhism&amp;#039;s spiritual depth and the historical transition from the old serfdom system to modern liberation.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Challenging High-Altitude Landscapes:&lt;/strong&gt; Visits to Yamdrok Lake and Karola Glacier offer breathtaking natural beauty but present significant physical challenges due to extreme altitudes reaching 5,400 meters.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Nyingchi Ecological Respite:&lt;/strong&gt; Transitioning to Nyingchi provides relief from altitude sickness through its lush vegetation and lower elevation, featuring scenic spots like Basum Tso and vibrant local culture.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Infrastructure and Modernization:&lt;/strong&gt; Observations of hydropower projects and the future Sichuan-Tibet railway highlight the massive state investment driving economic development and connectivity in the region.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Final Reflections and Departure:&lt;/strong&gt; The journey concludes at Namcha Barwa, leaving the author to reflect on Tibet&amp;#039;s uniquely slow pace of life and the physiological phenomenon of oxygen intoxication upon returning home.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
