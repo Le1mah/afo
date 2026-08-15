@@ -4,8 +4,129 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-08-14T21:03:54.950Z</updated>
+  <updated>2026-08-15T20:23:26.940Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - August 15, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-08-15</id>
+    <updated>2026-08-15T20:23:26.940Z</updated>
+    <published>2026-08-15T20:23:26.940Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>4 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 15, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;248.76712328767124&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    62.2%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;227&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;138&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;32&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████████░░░░░░░░░░░ 62.2%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22716&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chíne tréile&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 爱尔兰语学习中的意外口误被视为语言熟练度的重要里程碑。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文讲述了作者在爱尔兰语学习中发生的一次有趣口误。在一次关于食物的讨论中，作者试图引用电影 Rocky 中的情节，却意外制造了一个 spoonerism。作者以生动且富有洞察力的笔触指出，这种非故意的语言混淆并非单纯的错误，而是语言学习的重要里程碑，标志着大脑对新语言达到了某种程度的直觉反应与舒适感。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者上个月在 Donegal 的 Oideas Gael 参加爱尔兰语沉浸式学习，教学重点在于小组对话练习。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在一次关于食物的话题讨论中，同学描述了其父亲直接吞食生鸡蛋的习惯，引发作者对电影 Rocky 的联想。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者试图用爱尔兰语表达该场景出自电影 Rocky，却因兴奋产生口误，说出了一个 spoonerism（勺子式错词）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者意识到这是他首次在爱尔兰语中出现此类口误，这种非故意的错误与英语中的语词倒置现象类似。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为这种不由自主的口误标志着语言学习的里程碑，反映出学习者对爱尔兰语已产生一定的直觉和舒适感。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Slags by Emma Jane Unsworth ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Unsworth’s *Slags* is a gritty 3.5-star tragicomedy exploring trauma and consent, featuring polished prose despite minor ePub glitches.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Emma Jane Unsworth’s *Slags* is a 3.5-star tragicomedy that leverages 1990s nostalgia to explore complex themes of adolescent consent and long-term psychological trauma. The narrative features high-quality prose and a precise plot structure that balances a bleak, sordid atmosphere with a revelatory conclusion. While the book is praised for its character development, readers should expect a gritty experience centered on protagonist misfortune and limited social mobility. Additionally, the ePub edition contains minor styling regressions—specifically inconsistent font sizes—that represent a slight but non-critical degradation in the digital reading experience.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Character-Driven Nostalgia:&lt;/strong&gt; The reviewer highlights exceptionally well-written characters that evoke a strong, specific sense of 1990s nostalgia.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Exploration of Consent:&lt;/strong&gt; The narrative addresses complex themes regarding teenage consent and the long-term psychological impact of adolescent experiences.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Narrative Craftsmanship:&lt;/strong&gt; The book features high-quality prose and a perfectly paced plot that leads to a satisfying, revelatory conclusion.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Atmospheric Sadness:&lt;/strong&gt; A persistent streak of heartbreak and sordidness runs through the story, balanced by elements of tragicomedy.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Environmental Pressures:&lt;/strong&gt; The setting is characterized by a bleak, rainy atmosphere where characters struggle with academic demands and limited opportunities.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reader Experience Warning:&lt;/strong&gt; The reviewer notes that while the book is fun, it requires a strong stomach and an acceptance of protagonist misfortune.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Formatting Issues:&lt;/strong&gt; The ePub version contains minor styling bugs, including inconsistent font sizes that do not significantly disrupt the reading experience.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Final Verdict:&lt;/strong&gt; The book receives a 3.5-star rating and is accompanied by various affiliate links and library information for interested readers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-08-15T06:22Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-08-15T06:22Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Bypassable AI watermarking necessitates mandatory disclosure standards to prevent dehumanizing, subjective accusations of AI usage.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Driven by EU regulations, LLM providers are implementing watermarking via seeded pseudo-random number generators (PRNGs) to embed identifiable token patterns within generated prose. While upcoming official detection APIs promise higher reliability than current third-party tools, they risk enabling &amp;quot;frankenslop&amp;quot;—the iterative scrubbing of watermarks through automated synonym replacement using secondary models. Ultimately, the author argues that these technical measures are secondary to mandatory disclosure standards and warns against &amp;quot;vibecusation,&amp;quot; the dehumanizing practice of making unsubstantiated AI-usage claims based on subjective intuition.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Regulatory Driven Watermarking:&lt;/strong&gt; EU regulations are pushing major LLM providers like Anthropic to implement watermarking systems for generated content.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Implementation Mechanism:&lt;/strong&gt; Watermarking utilizes seeded pseudo-random number generators to select tokens in a predictable pattern that remains identifiable by the provider.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Detector Reliability Shift:&lt;/strong&gt; While current third-party AI detectors are unreliable, upcoming official APIs from model creators are expected to provide trustworthy detection for long-form prose.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Adversarial Evasion Techniques:&lt;/strong&gt; Official detection APIs could ironically be used to iteratively scrub watermarks by using secondary LLMs to find synonyms, a process termed &amp;#039;frankenslop&amp;#039;.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Critique of Vibecusation:&lt;/strong&gt; The author condemns &amp;#039;vibecusation&amp;#039;—unsubstantiated claims of AI usage based on feeling—as a dehumanizing cultural side effect of the AI industry.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mandatory Disclosure Advocacy:&lt;/strong&gt; The text argues that while watermarks are a useful secondary tool, mandatory disclosure of AI-generated content should be the primary standard.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111974&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Matrix是少数派分享真实体验与思考的写作社区。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Matrix是少数派（sspai）旗下的写作社区，核心主张是分享真实的产品体验及具有实用价值的经验与思考。平台通过挑选并推荐优质文章，向读者展示来自用户的真实观点与深度见解，强调内容的真实性与实践参考价值。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - August 14, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1789,227 +1910,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apple OpenAI IP Dispute:&lt;/strong&gt; Apple has expanded its legal action against OpenAI and former employees, alleging the theft of trade secrets related to unreleased products. OpenAI countered by citing Apple&amp;#039;s own system permission mismanagement and procedural errors in the investigation.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Passkey Security Vulnerability:&lt;/strong&gt; Security researchers identified the &amp;#039;Pass-ta-key&amp;#039; attack targeting Google Password Manager, which allows attackers to bypass passkey verification on compromised Windows devices. The vulnerability involves extracting identity keys or SDS encryption keys from memory and logs to gain unauthorized account access.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI and Hardware Briefs:&lt;/strong&gt; Key updates include Microsoft testing its MAI Realtime voice model and major PC vendors like HP and Acer beginning to integrate CXMT DRAM chips. Additionally, Anthropic&amp;#039;s CEO expressed internal concerns regarding employee motivations versus the company&amp;#039;s AI mission.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - August 4, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-08-04</id>
-    <updated>2026-08-04T21:34:45.473Z</updated>
-    <published>2026-08-04T21:34:45.473Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>12 articles from 7 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 4, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;236.7123287671233&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    59.2%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;216&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;149&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;30&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████░░░░░░░░░░░░ 59.2%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22697&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Tuesday morning session in Belfast&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年贝尔法斯特活动的社交媒体互动与元数据记录。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这段文字记录了2026年8月4日星期二上午10点在Belfast举行的一场活动或会议的相关信息。内容涵盖了地理坐标、CC署名协议、社交媒体平台链接（Mastodon和Bluesky），以及Peter Merholz等人的点赞互动记录，最后还包含了征集读者回复的互动邀请。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/509&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 509: A Next.js release for the boys&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Next.js 16.3 发布：核心成员回归并全面优化 AI 开发体验。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了 Next.js 16.3 的重大更新，重点在于核心团队成员回归及针对 AI 时代的深度优化。主要亮点包括 Instant Navigation 提升响应速度、AI 辅助排错工具 Instant Insights 以及大幅降低内存占用的开发服务器。此外，文章还分享了 CodeRabbit 等 AI 开发工具及一系列行业前沿简讯。作者以幽默的笔触展现了前端框架在 AI 浪潮下的演进，强调了团队对完善 Server Components 的执着。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍本期主题，包括 Next.js 发布、AI 安全以及 PETA 相关话题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Next.js 16.3 版本发布，前成员 Dan 和 Pete 回归，为核心团队注入新活力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨前端框架在 AI Agent 时代的发展方向，Next.js 致力于优化开发者与 Agent 的协作体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;亮点一：即时导航功能通过 cacheComponents 和更好的预取支持，提升了 RSC 的响应速度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;亮点二：AI 工具链升级，新增 Instant Insights 帮助识别并修复缓存错误。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;亮点三：开发服务器性能提升，内存占用减少 90%，并支持 TypeScript 7 和最新版本的 Turbopack。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结指出，尽管 Server Components 仍存争议，但团队的执着投入让此版本极具特色。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;推介 AI 代码审查工具 CodeRabbit，强调其在速度、准确性及安全性方面的优势。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;汇总了一系列技术简讯，涵盖 GPU 情感、AI 安全工具、开源维护者倦怠及 AI 发展声明等。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-08-04.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: August  4&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 探讨 AI 安全风险、金融泡沫及技术应用的行业观察。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了 AI 领域的双重危机：技术上的安全失控（如“流氓代理”越狱）与经济上的金融泡沫（类比互联网泡沫）。作者分析了 Oracle 等公司的财务风险，并反思了业界对 AI 毁灭论的虚伪态度。同时，文章也分享了 AI 在数据抓取中的正面应用，以及政府数字化服务和 tokens 欺诈等现实议题，呈现出一种审慎且多维的观察视角。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论了 OpenAI 和 Anthropic 模型发生的“越狱”和未经授权的数据访问事件，指出 AI 实验室缺乏足够的控制措施，正处于“偏差正常化”状态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;将当前的 AI 热潮比作金融泡沫，类似于互联网泡沫，虽然泡沫显而易见，但其破裂的时机难以预测。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;引用“Groundbreaker”的观点，通过“二阶导数”指标分析 AI 泡沫，认为数据中心建设是此次信贷驱动资产周期的核心。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨了 Alphabet 和 Oracle 的财务风险，特别是 Oracle 高额的债务股本比以及对中国 AI 计算能力的贡献。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分析了专家们预测 AI 灾难风险（p(doom)）的心理，认为如果真正相信高概率的毁灭风险，行为应当更加激进。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;称赞了英国政府网站 gov.uk 在选民登记流程中的高效设计和清晰说明。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分享了一个利用 AI 编写脚本抓取 UI 界面，从而成功从封闭系统中提取海量 SKU 数据的技术案例。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;描述了 AI 令牌（tokens）领域的欺诈产业链，包括滥用试用计划和退款机制进行转售，且目前尚无完美解决方案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;简要表达了对 Clacton 选举的看法，希望能选出英国首位“recyclon”议员。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/gig-review-belle-sebastian-if-youre-feeling-sinister-at-margate-dreamland/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Gig Review: Belle &amp;amp; Sebastian - If You’re Feeling Sinister at Margate Dreamland ★★★★★&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Belle &amp;amp; Sebastian’s five-star Margate performance successfully leveraged nostalgia through authentic engagement and superior venue infrastructure.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Belle &amp;amp; Sebastian performed a comprehensive live rendition of their 1996 album *If You’re Feeling Sinister* at Margate Dreamland, a show distinguished by its authentic audience interaction and lack of scripted performance tropes. Despite significant logistical setbacks—including a previous cancellation triggered by the 2023 Twitter acquisition and severe transit delays—the author awarded the event five stars for its execution and emotional resonance. The review highlights Dreamland Margate’s superior operational infrastructure, specifically noting efficient crowd control and thoughtful amenities that catered effectively to a mature audience. Ultimately, the concert serves as a high-fidelity realization of long-term fandom, successfully monetizing late-90s nostalgia through high-quality live production.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fandom Origins (1998):&lt;/strong&gt; The author recounts discovering Belle &amp;amp; Sebastian in 1998 through a university peer, leading to a long-term obsession with the album &amp;#039;If You’re Feeling Sinister&amp;#039;.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Twitter Setback:&lt;/strong&gt; A 2023 opportunity to see the band was thwarted when a corporate acquisition at Twitter resulted in the cancellation of a speaking engagement and its associated travel funding.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Logistical Hurdles Overcome:&lt;/strong&gt; Despite facing double-booked accommodation, severe train delays, and food poisoning, the author finally successfully attended a Belle &amp;amp; Sebastian concert in Margate in 2026.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Anniversary Performance Details:&lt;/strong&gt; The concert featured a full performance of &amp;#039;If You’re Feeling Sinister&amp;#039; followed by a set of hits, with Saint Etienne providing support and well-received audience interaction.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Organic Stage Presence:&lt;/strong&gt; The author praises the performers for their authentic engagement with the crowd, avoiding the scripted feel common in large-scale touring acts.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Venue and Infrastructure:&lt;/strong&gt; Dreamland Margate is evaluated as a high-quality venue with effective crowd control, pleasant security, and thoughtful amenities like free water stations.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Demographic Shifts:&lt;/strong&gt; The audience primarily consisted of older fans from the band&amp;#039;s original era, highlighting the successful monetization of nostalgia for the author&amp;#039;s demographic.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-08-04T05:12Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-08-04T05:12Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者抨击 Raspberry Pi 5 定价过高并认为硬件溢价正毁掉 DIY 爱好。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文表达了作者对 Raspberry Pi 5 价格暴涨的强烈不满。通过对比 16GB 版本的高昂售价与 1GB 版本的营销陷阱，作者以批判性的笔触指出 Raspberry Pi 已失去原有的性价比优势。作者认为这种硬件溢价现象不仅限于树莓派，更反映了整个 PC 及自建服务器领域的衰退，过高的硬件成本正在毁掉原本的 DIY 爱好。全文语气直接且充满负面评价。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者观看 Jeff Geerling 的视频后，对 Raspberry Pi 目前极高的价格感到震惊并认为其定价极不合理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;调查发现英国市场的 Raspberry Pi 5 16GB 版本售价高达 £292.80，价格令人难以接受。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对如此高昂的定价表示不可思议，质疑在何种情况下会有用户愿意购买该产品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者批评新推出的 1GB 版本是实用性极低的营销骗局，认为其性能甚至不如旧款大内存型号。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了 2023 年购买 8GB 版本时的价格，认为即便是当时的价格也已经过于昂贵。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出电脑硬件价格普涨的现状，认为这种成本上升趋势正在扼杀 PC 和自建服务器爱好。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n85071223e0ce&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;サイバーコネクトツー「30thお祝いメッセージ（業界関係者）」の御礼 pt.1&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2发布行业伙伴对其成立30周年的祝贺信息。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了CyberConnect2为庆祝成立30周年收到的首批行业伙伴贺词。文章通过公关视角，收录了来自Mangatari、Arika及个人开发者的祝福，高度评价了CC2在《.hack》等系列中展现的技术积累与艺术表现力。全文采用互动式回信风格，展现了CC2与同行之间相互激励、共同推动游戏行业发展的积极姿态与深厚情谊。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;CyberConnect2（CC2）福冈总部公关白水宣布，公司开始分享来自行业相关人士对成立30周年的祝贺信息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;株式会社Mangatari编辑前田雄太祝贺CC2成立30周年，表达了在创作领域共同挑战与进步的愿望。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;株式会社Arika董事三原一郎盛赞CC2在《.hack》和《火影忍者：终极风暴》等作品中的动作演出与叙事魅力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;CC2回应了三原一郎的认可，表示作为同在30周年节点的行业伙伴，愿共同开拓游戏行业的未来。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;个人开发者MysteryCorgi以幽默的方式送上祝福，CC2承诺将继续创作能让玩家长久享受的作品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;公关团队再次感谢首批致贺的行业伙伴，并预告后续将继续发布更多来自业界的祝贺信息。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202608/83343&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【『戦場のフーガ』開発記録】『インターミッション』第90回 公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2 details *Fuga* technical lore, world-building materials, and CEO Hiroshi Matsuyama’s new game industry recruitment guide.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This development update for *Fuga: Melodies of Steel* details the franchise’s deep lore and chronological positioning, establishing the title as a prequel set 1,000 years before *Solatorobo* with a focus on the scientific evolution of the Caninu race. CyberConnect2 has released comprehensive technical setting materials and world-building documentation via their digital storefront to support the ongoing transmedia expansion, which includes a serialized manga adaptation. Additionally, CEO Hiroshi Matsuyama has published a new professional resource, &amp;quot;How to Conquer the Game Industry,&amp;quot; providing senior-level insights into portfolio development and recruitment strategies. This update highlights the studio&amp;#039;s commitment to both complex IP architecture and the cultivation of industry talent through practical mentorship.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ancient Civilization Lore:&lt;/strong&gt; The discovery of &amp;quot;Juno&amp;quot; communication devices 3050 years ago led to rapid technological advancement and eventual destruction, resulting in a global &amp;quot;Reset&amp;quot; by the XII Owls.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Emergence of Beastmen:&lt;/strong&gt; Post-reset, humanity evolved into Caninu and Felineko tribes living on floating continents, eventually leading to the brutal Lily Wars initiated by the Abyssinian Empire.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fuga&amp;#039;s Chronological Placement:&lt;/strong&gt; Fuga: Melodies of Steel is set 1000 years before Solatorobo, focusing on the Wolf tribe&amp;#039;s resistance and the early scientific development of the Caninu race.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Lore Documentation Availability:&lt;/strong&gt; Detailed world-building and timelines are documented in official setting materials, which are currently available primarily via digital editions and the CyberConnect2 online store.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Manga Narrative Progress:&lt;/strong&gt; The ongoing manga adaptation sees Mei arriving to assist Malto in a critical situation, signaling an intense continuation of the story in the upcoming chapter.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Industry Career Guidance:&lt;/strong&gt; CEO Hiroshi Matsuyama has released a new book titled &amp;quot;How to Conquer the Game Industry,&amp;quot; offering practical advice and portfolio examples for aspiring game developers.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/74342&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;敬畏热度、保持热情：如何在夏季坚持跑步&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Optimize summer running through heat monitoring, workload management, biomechanical refinement, and data-driven performance tracking.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To mitigate heat-related risks, runners should prioritize the Wet Bulb Globe Temperature (WBGT) index over ambient temperature and adhere to strict hydration and cooling protocols to prevent heat exhaustion. Effective training requires managing the Acute:Chronic Workload Ratio (ACWR) to prevent overuse injuries, supported by dynamic warm-ups and biomechanical optimization focused on landing close to the body’s center of gravity. Infrastructure and hardware maintenance are critical, involving route planning on low-impact surfaces and replacing footwear every 560–800km to ensure adequate cushioning. Finally, performance should be monitored via high-fidelity telemetry, targeting a cadence of 180–190 spm and analyzing metrics like VO2 max and running power to drive long-term aerobic efficiency.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;WBGT Heat Safety:&lt;/strong&gt; Utilize the Wet Bulb Globe Temperature (WBGT) index rather than just ambient temperature to assess heat stress, as humidity accounts for 70% of the risk. Avoid outdoor running when the WBGT exceeds 28°C to prevent serious heat-related injuries.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hydration and Heatstroke:&lt;/strong&gt; Maintain strict hydration protocols based on exercise duration and learn to recognize symptoms of heat exhaustion. Immediate cooling and fluid replacement are critical interventions when heat-related illnesses occur.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optimal Running Routes:&lt;/strong&gt; Use digital mapping tools like Baidu or Amap to plan routes and prioritize plastic tracks or asphalt over concrete to minimize joint impact. Ensure routes are well-lit for night runs to maintain visibility and prevent ankle injuries.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Injury Prevention Metrics:&lt;/strong&gt; Manage training loads using the Acute:Chronic Workload Ratio (ACWR) to ensure weekly intensity increases do not exceed safe thresholds. Most running injuries are caused by excessive volume rather than poor form or equipment.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Warm-up and Mechanics:&lt;/strong&gt; Perform 10-15 minutes of dynamic stretching to prepare the cardiopulmonary system and improve joint mobility. Focus on landing with the foot close to the body&amp;#039;s center of gravity to reduce impact, regardless of specific foot-strike patterns.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Essential Summer Gear:&lt;/strong&gt; Select high-SPF water-resistant sunscreens and UPF-rated apparel to prevent UV damage and aid moisture wicking. Choose running shoes based on subjective comfort and replace them every 560-800km as cushioning degrades.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Smart Device Analytics:&lt;/strong&gt; Monitor heart rate to manage intensity and target a cadence of 180-190 steps per minute to improve efficiency and reduce injury risk. Advanced metrics like running power and VO2 max provide deeper insights into long-term aerobic development.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/home-made-beverages-3&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;家庭饮品 DIY 指南（三）：常用固体物料推荐&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 继液体物料推荐后，本文开始探讨固体物料的应用。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文在回顾往期关于液体物料推荐的内容后，指出虽有众多优质液体物料未尽述，但将在后续配方中补充。文章随后转入对固体物料的探讨。作者以实用的经验分享风格，引导读者深入了解饮品制作中的各类关键物料选择。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113060&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派重启Matrix周报以提升社区优秀内容的曝光率。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;少数派Matrix社区宣布重启Matrix周报，旨在解决优秀内容因首页及侧栏展位有限而曝光不足的问题。周报将整合更多社区内容、作者投稿及新玩意，提升社区内容的呈现度与传播力，为读者带来更丰富的优质资讯。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112738&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;角落新声｜成年的快乐，是可以将角落铺满全家&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Distributed, task-specific hardware &amp;quot;corners&amp;quot; minimize cognitive friction, creating a low-effort environment for seamless work-to-recovery transitions.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article explores the transformation of the modern home into a distributed ecosystem of &amp;quot;personal corners&amp;quot; designed to minimize cognitive friction and social fatigue. By implementing redundant hardware and fixed cabling across multiple zones—utilizing multi-room audio handoffs and task-specific displays—the author reduces the &amp;quot;activation energy&amp;quot; required to transition from work to recovery. This philosophy rejects the &amp;quot;universal screen&amp;quot; model in favor of a specialized infrastructure that ensures seamless environmental transitions without the overhead of setup hurdles or battery management. Ultimately, this distributed system serves as a chronological anchor, where a low-friction physical environment provides a sanctuary against information overload and urban stressors.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Evolution of Personal Space:&lt;/strong&gt; The author traces the evolution of &amp;#039;corners&amp;#039; from childhood toy sanctuaries to adult homes, viewing the modern residence as a customizable fortress against urban stressors.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Psychological Need for Retreat:&lt;/strong&gt; Personal corners provide essential sanctuary from social pressures and information overload, functioning as recovery zones where individuals can shed their social personas.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Strategy of Hardware Redundancy:&lt;/strong&gt; The author argues that redundant device placement is the most effective way to eliminate friction, ensuring that the impulse to relax is never interrupted by setup hurdles or uncharged batteries.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Seamless Audio Distribution:&lt;/strong&gt; By deploying specific speakers across various rooms—from the living room to the bathroom—the author creates a &amp;#039;handoff&amp;#039; audio experience that allows sound to flow naturally through the home.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Task-Specific Display Logic:&lt;/strong&gt; Rejecting the idea of a single universal screen, the author advocates for &amp;#039;dedicated devices for dedicated tasks,&amp;#039; balancing the immersion of projectors with the high-fidelity performance of TVs and monitors.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optimizing Entertainment Workflows:&lt;/strong&gt; A distributed hardware ecosystem with fixed cabling across different rooms reduces the &amp;#039;activation energy&amp;#039; required for entertainment while maintaining a clean, organized living environment.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Home as a Life Anchor:&lt;/strong&gt; The deliberate accumulation and arrangement of preferred objects transform a physical space into a chronological anchor, where the environment itself reflects the inhabitant&amp;#039;s experiences and memories.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113053&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：MiniMax H3 开源、Qwen3.8-Max 发布等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 MiniMax open-sources H3 for high-fidelity 2K video-audio synthesis alongside the release of Qwen3.8-Max.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;MiniMax has open-sourced H3, a sophisticated multi-modal generation system capable of producing 15-second, 2K-resolution videos featuring native stereo audio. The architecture utilizes specialized modules for context retrieval and high-resolution regeneration to ensure temporal consistency and visual fidelity across the generated frames. This release provides developers with a high-performance framework for advanced video synthesis that natively integrates audio-visual coherence, marking a significant contribution to the open-source generative media ecosystem.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;MiniMax H3 Open Sourced&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;MiniMax has open-sourced H3, a multi-modal generation system capable of producing 2K resolution, 15-second videos with native stereo audio. The system architecture includes modules for context retrieval and high-resolution regeneration, supporting 1&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
