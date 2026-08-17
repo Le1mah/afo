@@ -4,8 +4,236 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-08-16T20:25:58.393Z</updated>
+  <updated>2026-08-17T20:47:36.084Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - August 17, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-08-17</id>
+    <updated>2026-08-17T20:47:36.084Z</updated>
+    <published>2026-08-17T20:47:36.084Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>11 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 17, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;250.95890410958904&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    62.7%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;229&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;136&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;32&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████████░░░░░░░░░░░ 62.7%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22719&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Monday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 包含日期、坐标及社交平台链接的会议元数据信息。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这段文字主要记录了2026年8月17日的会议元数据，包括时间、地理坐标（51° N, 0° W）以及在Mastodon和Bluesky等社交平台的链接。作者以简明扼要的风格提供了CC版权说明，并邀请读者通过Ping操作反馈回复链接，体现了互动互联的特性。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22718&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reading Paddy on the Hardwood by Rus Bradburd&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 关于 Rus Bradburd 书作的简短阅读记录与资源链接。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇关于 Rus Bradburd 所著书籍《Paddy on the Hardwood》的极简记录。内容包含阅读的具体时间、地理坐标以及在 Bookshop 和 Open Library 等平台的资源获取链接，并附带了与读者互动的反馈邀请。全文风格简洁，属于典型的阅读笔记或元数据记录。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-316/viewer?title_no=853933&amp;episode_no=331&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 316&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画《DOGHAUS》章节目录与平台导航页面。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文档为WEBTOON平台作品《DOGHAUS》第316话的页面信息。主要内容包括该漫画的完整章节索引、创作者Moowsie的特别公告（如Kickstarter众筹）以及社交分享功能。页面还展示了CANVAS平台的动作类漫画排行榜和新锐作品推荐。整体呈现出漫画目录与平台互动的界面结构，旨在为读者提供便捷的章节跳转与作品支持渠道。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;页面顶部包含网络漫画《DOGHAUS》第316话的导航功能，提供前后章节跳转及详细的页码选择索引。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;主体部分详尽列出了从第1话至第316话的完整章节目录，记录了特别公告、周日连载及Kickstarter众筹等里程碑信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;功能区包含订阅、社交平台分享（如Facebook、X等）及作品举报选项，并标注作品为CANVAS平台自发布。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;页面底部提供了动作类漫画排行榜及“新锐作品”推荐，展示了Lucky Star等其他热门网络漫画作品。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;And then the men with guns tell you to do it anyway&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 State coercion inevitably overrides technical safeguards, requiring engineers to proactively refuse building features that facilitate government control.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article examines the &amp;quot;men with guns&amp;quot; scenario, where physical state coercion overrides technical safeguards and engineering ethics, as evidenced by the Egyptian government’s seizure of Vodafone’s network for propaganda in 2011. It highlights a fundamental engineering paradox: designing communication systems like the Common Alerting Protocol (CAP) to be rapid and authoritative while remaining immune to political abuse is a fundamentally unsolvable challenge. Consequently, architects are urged to practice &amp;quot;civic hygiene&amp;quot; by proactively refusing to build features or backdoors that could facilitate a police state, regardless of their current benign intent. Ultimately, the text warns that legal frameworks, such as the UK’s Wireless Telegraphy Act, often remain dangerously vague, leaving engineers and operators vulnerable to state mandates during emergencies.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;State Infrastructure Co-option:&lt;/strong&gt; During the 2011 Egyptian revolution, the government leveraged Vodafone&amp;#039;s network to broadcast pro-regime propaganda, highlighting how state authorities can seize control of private telecommunications.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Physical vs. Technical Security:&lt;/strong&gt; Even the most robust cryptographic fail-safes are vulnerable to the &amp;#039;men with guns&amp;#039; scenario, where physical coercion overrides technical safeguards and engineering ethics.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Principles of Civic Hygiene:&lt;/strong&gt; Architects should practice &amp;#039;civic hygiene&amp;#039; by refusing to build technologies or backdoors that could eventually facilitate a police state, even if they serve a current benign purpose.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Emergency Alert Implementation:&lt;/strong&gt; The adoption of the Common Alerting Protocol (CAP) involves a delicate balance between providing rapid public safety notifications and preventing catastrophic false alarms or spam.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Legal Compulsion Ambiguity:&lt;/strong&gt; UK statutes like the Wireless Telegraphy Act focus on permitting operators to bypass data restrictions during emergencies but remain vague on whether networks can legally refuse a government&amp;#039;s broadcast request.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Alerting System Paradox:&lt;/strong&gt; Designing a system that is simultaneously resilient, rapid, and authoritative while being immune to political abuse is a fundamentally unsolvable engineering and ethical challenge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Technium &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kk.org/thetechnium/without-a-theory-of-intelligence/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Without a theory of intelligence&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 人工智能将作为探索工具，推动建立揭示智能本质的科学理论。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了建立“智能理论”的紧迫性与深远意义。作者凯文·凯利将AI比作观察心灵的“显微镜”，认为虽然AI技术飞速发展，但人类对智能的本质、能耗及量化标准仍处于无知状态。通过跨学科协作建立智能理论，不仅能优化AI工程设计、解决对齐难题，还将深化对人类大脑与精神疾病的理解。这种理论将开启对“心灵大陆”的探索，成为比以往任何科学工具都更重要的认知手段。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (15 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;科学进步史表明，显微镜和望远镜等新工具的发明直接推动了理论突破和技术革新。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;人工智能将成为一种新型的“回旋加速器”，让我们能够剖析人类认知并探索各种可能的智能形式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管AI技术取得了巨大进步，但我们目前仍然缺乏一套能够解释智能运作原理的基础理论。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;我们目前无法量化智能，也不了解其构成要素，这导致我们无法准确预测AI的行为。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;人类大脑的低能耗暗示了智能所需的能量可能很小，当前的巨型计算中心或许只是暂时的过渡。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;建立智能理论需要工程师与理论家协作，类似于热力学理论对蒸汽机研发的指导作用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;智能理论将揭示认知的极限与效率，帮助我们为特定任务精确设计各种人工智能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;实现真正的AI对齐需要理解思维的内部表征，而不仅仅是依靠目前的试错法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过构建AI模型，我们可以比传统神经科学更有效地隔离和研究人类大脑的计算功能及病理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;智能理论有望将作为计算属性的“智能”与作为现象属性的“意识”进行科学脱钩。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;即使最终发现不存在统一的智能公式，这种探索过程对于理解复杂的智能现象也至关重要。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前科学家们正尝试利用随机热力学和几何工具等跨学科方法来建立“智能科学”。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;正如信息论变革了电子学，智能理论将彻底改变科研方式并加速人类文明的进步。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI将成为揭示“心灵大陆”的关键工具，其长远重要性将超过显微镜、望远镜和回旋加速器的总和。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;未来世代将视AI为不可或缺的观察工具，无法想象一个没有多维智能视角辅助的世界。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n9a2bc23b562f&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ありがとう樫野さん&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2董事发文致敬并感谢即将定年退休的创始成员樫野先生。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由CyberConnect2董事西川裕贵撰写，深情回顾了即将退休的创始成员樫野先生的职业生涯。通过记述2006年SIGGRAPH海外考察等往事，展现了樫野先生对技术的纯粹热忱及对后辈的深远影响。作者表达了对这位大前辈在开发支援与人才培养方面贡献的由衷感谢，并承诺将传承其意志，继续推动公司发展。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (13 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CyberConnect2董事西川裕贵向读者致以夏日问候，并提醒大家注意防暑降温与健康管理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文旨在回顾即将于2026年8月底定年退休的创始成员及开发支援课经理樫野先生的往事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆起2000年与樫野先生初识时，对方作为核心程序员展现出的专业气场令新人敬畏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过《NARUTO-火影忍者-》系列开发及2006年SIGGRAPH海外出差，两人关系迅速拉近。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在PS2向PS3转型的技术变革期，公司派遣樫野与作者前往波士顿考察最先进的CG技术。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;初次参加海外技术活动的作者因自身知识匮乏而感到沮丧，难以融入现场氛围。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;看到樫野先生对新技术充满好奇与探求心的眼神，作者深受触动并开始自我反思。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者决定放下艺术家的自尊心，坦诚面对不足，主动向樫野先生请教专业知识。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过积极提问与学习，作者顺利完成考察任务，并大幅拓宽了技术视野。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;此次出差不仅建立了深厚的信任关系，也为后续更顺畅的开发协作奠定了基础。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;樫野先生随后在开发支援与人才培养岗位上发光发热，为公司提供了长期的重要支撑。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在樫野先生退休之际，作者表达了深切的寂寞与感激，并承诺将传承其意志继续前进。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者最后再次向樫野先生多年的辛勤付出表示诚挚的感谢与祝福。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202608/84093&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【漫画の裏側を語る！】『チェイサーゲーム』原作コラム 『デバッグルーム』シーズン2 第71話 運命の引力（6）公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 松山洋分享《Chaser Game》创作幕后及对游戏行业的现实洞察。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是漫画《Chaser Game》原作者松山洋的专栏，分享了第二季第71话的幕后故事。作者回顾了早期编辑部对中国企业收购日本公司情节的顾虑，坚持以现实行业趋势为创作基础，并精准预测了中国资本的撤退动向。文章还赞扬了助手的作画技巧，并推荐了松山洋为游戏行业志望者撰写的指南书。全文体现了作者对游戏行业深刻的洞察力与现实主义的创作风格。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了连载初期编辑部对他描写中国企业投资日本游戏公司情节所表达的担忧与忠告。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者向编辑部解释，作为以游戏行业为背景的作品，避开中国企业投资与收购的行业现实是毫无意义的。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者透露在构思初期就预见到了中国企业会逐渐从日本市场撤出的趋势，并以此作为剧情发展的预测。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者高度评价了资深助手绘制的横滨夜景跨页，认为其表现力出色，并预告了下一话的剧情。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑部在评论中认可了陈麦克（Chen Mike）这一角色的独特魅力，并对后续西川的命运表示期待。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了《Chaser Game》单行本第15卷的发售信息，以及松山洋为行业志望者撰写的新书。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113544&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Recent apps leverage AI integration, high-performance utilities, and skeuomorphic design to enhance cross-platform workflows and productivity.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The latest app roundup highlights a trend toward augmenting native ecosystems and workflows through AI integration and specialized utility. Key developments include AI-driven Markdown and slash command enhancements for Apple Notes, alongside Framer’s introduction of AI design agents and Git-inspired branching for collaborative version control. On the technical and UX front, the list features a high-performance 200KB browser with a built-in script engine, and tools leveraging Android accessibility services and AI-generated quizzes to facilitate active recall and habit formation. Finally, Himekuri demonstrates a commitment to high-fidelity skeuomorphism, using physics-based simulations to bring traditional ritual to the macOS desktop.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Notomo: Apple Notes Enhancer:&lt;/strong&gt; A macOS utility that adds Markdown rendering, slash commands, and AI integration to the native Apple Notes app. It bridges the gap between simple system notes and professional productivity tools through templates and global search.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Powered Reading Review:&lt;/strong&gt; The &amp;#039;Reading Record&amp;#039; app introduces a gamified &amp;#039;Imperial Examination&amp;#039; feature that uses AI to generate quizzes from a user&amp;#039;s saved excerpts. This encourages active recall and helps users rediscover insights from their past reading history.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Digital Ritualistic Calendar:&lt;/strong&gt; Himekuri is a macOS desktop calendar that prioritizes ritual over efficiency by simulating the physical act of tearing off daily paper pages. It features realistic physics, sound effects, and traditional Japanese and Chinese calendar themes.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ultra-Lightweight Android Browser:&lt;/strong&gt; Median Browser offers a full suite of features including a script engine and media sniffing within a tiny 200KB package. It is designed for power users and older hardware seeking a clean, tracker-free browsing experience.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Learning-Gated App Blocker:&lt;/strong&gt; ProcrastiLearn forces users to complete a customized set of vocabulary or flashcards before allowing access to distracting entertainment apps. It utilizes Android&amp;#039;s accessibility services to turn digital procrastination into a learning opportunity.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Framer 3.0: AI-Driven Design:&lt;/strong&gt; The latest Framer update introduces AI Agents that can build and modify web designs directly on the canvas using natural language. It also adds Git-like branching to improve version control and collaboration for design teams.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113368&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;分享我知识管理 12 年来最重要的经验：INL 结构&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The INL framework minimizes cognitive load by decoupling active focus from static archives using Inbox, Now, and Library layers.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The INL (Inbox, Now, Library) framework is a knowledge management architecture designed to mitigate cognitive load by strictly decoupling active focus from static archives. By utilizing a low-friction &amp;quot;Inbox&amp;quot; for capture and a high-visibility &amp;quot;Now&amp;quot; section for immediate priorities, the system allows for recursive nesting and content distillation, ensuring that complex data in the &amp;quot;Library&amp;quot; remains accessible but psychologically invisible until needed. This structure resolves the tension between deep organizational complexity and daily usability, providing the necessary elasticity to prevent system collapse during high-pressure or low-energy periods. Ultimately, INL formalizes information flow across various mediums—from digital notes to browser bookmarks—by maintaining a shallow, distraction-free interface for current work while supporting high-density long-term storage.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Core INL Framework:&lt;/strong&gt; The INL structure consists of an Inbox for temporary storage, a Now section for current focus, and a Library for long-term archives. It aims to solve the problem of overwhelming note clutter by isolating active content from static reference material.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Selective Focus Strategy:&lt;/strong&gt; By separating &amp;#039;Now&amp;#039; from &amp;#039;Library,&amp;#039; users can ignore the bulk of their notes and focus only on immediate priorities. This structure can be nested recursively to manage complex sub-categories while maintaining visibility of key items at every level.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Internal Note Distillation:&lt;/strong&gt; The NL principle applies within individual notes by extracting a concise summary as the &amp;#039;Now&amp;#039; component while archiving details in the &amp;#039;Library.&amp;#039; This distillation allows users to grasp core concepts immediately without re-reading entire documents.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Resilience via Inbox:&lt;/strong&gt; The Inbox acts as a buffer that accommodates low-energy periods, allowing for quick captures without the friction of immediate categorization. This provides the system with the necessary elasticity to survive real-world usage and prevent organizational collapse.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Solving Hierarchy Dilemmas:&lt;/strong&gt; INL resolves the conflict between deep organization and ease of use by keeping the active layer shallow and accessible. It allows for high complexity within the Library while maintaining a simple, distraction-free interface for current work.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cognitive Load Reduction:&lt;/strong&gt; The method leverages human attention mechanisms to make non-essential notes psychologically invisible, significantly reducing mental burden. By focusing only on what is currently relevant, the user avoids the &amp;#039;heavy&amp;#039; feeling associated with managing large knowledge bases.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Universal Design Pattern:&lt;/strong&gt; Beyond digital notes, the INL structure mirrors real-world systems like library book carts and can be applied to browser bookmarks. It formalizes subconscious human behaviors into a deliberate, repeatable framework for managing information complexity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113448&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;当陶瓷水杯遇上像素屏：PixelMug 体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 PixelMug combines a traditional ceramic vessel with a hidden pixel display, AI-driven art, and interactive IoT functionality.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;PixelMug is an IoT-enabled ceramic vessel that embeds a hidden pixel matrix display behind traditional materials, utilizing gravity sensors and touch gestures for an unobtrusive, tactile user interface. The ecosystem features a dedicated mobile app for deploying &amp;quot;Agents&amp;quot; that manage real-time environmental telemetry, custom animations, and AI-assisted pixel art generation via text prompts. It supports remote messaging and multi-device synchronization for distributed visual content, powered by a contact-charging coaster that integrates seamlessly into existing desktop workflows. By prioritizing its primary function as a drinking vessel while offering extensible digital features, the product effectively avoids the &amp;quot;shelf-ware&amp;quot; obsolescence common in niche smart gadgets.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Innovative Product Concept:&lt;/strong&gt; PixelMug integrates a pixel matrix screen into a traditional ceramic cup, aiming to blend daily utility with creative technology.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware and Interaction:&lt;/strong&gt; The device features a hidden display behind ceramic material, utilizing touch gestures and gravity sensors for an intuitive user experience.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Software Ecosystem:&lt;/strong&gt; A dedicated mobile app allows users to deploy &amp;#039;Agents&amp;#039; for displaying custom text, pixel animations, and real-time environmental data.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Power and Charging:&lt;/strong&gt; The mug uses a specialized contact-charging base that functions as a coaster, maintaining power through habitual desk placement.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Social Interaction Features:&lt;/strong&gt; Remote messaging and multi-device synchronization enable users to send alerts or split visual content across multiple mugs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Generative AI Integration:&lt;/strong&gt; An integrated AI assistant helps users generate complex pixel art from text prompts, simplifying the creation of custom visual content.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Practicality and Longevity:&lt;/strong&gt; By maintaining its core function as a drinking vessel, the product avoids becoming a &amp;#039;dust-gathering&amp;#039; gadget while offering extensible features.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113445&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;成年人包里的唯一一支笔：模块笔入门导购&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Modular pens consolidate multiple writing functions into one chassis using interchangeable refill standards for professional versatility and portability.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Modular pens consolidate multiple writing functions into a single chassis, trading high ink capacity for the versatility and portability required in professional environments. The market ecosystem spans from Pilot’s highly customizable top-loading systems to European designs like LAMY that utilize gravity-based mechanics for elegant color selection. Performance leaders like Uni-ball and Pentel offer high-quality hybrid inks (Jetstream) and niche professional modules, such as lead holders for technical drawing. Mastery of the category requires understanding the interoperability between ISO D1 and Japanese 3mm refill standards to optimize cost and cross-brand hardware compatibility.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Modular Pen Fundamentals:&lt;/strong&gt; Modular pens integrate multiple refills or functions into a single chassis, prioritizing portability and quick switching over high ink capacity for professional use.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Usage Context Shift:&lt;/strong&gt; While inefficient for high-volume student writing, modular pens excel in adult working environments where versatility and the ability to organize information with color are more valuable than longevity.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;European Design Mechanisms:&lt;/strong&gt; European brands like LAMY emphasize aesthetic design and unique mechanical interfaces, such as gravity-based color selection, which favors elegance over rapid-fire switching.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pilot Coleto Ecosystem:&lt;/strong&gt; The Pilot Coleto series offers industry-leading customization via a top-loading mechanism and an extensive range of over 30 colors, including specialized modules like erasers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pentel Specialized Modules:&lt;/strong&gt; Pentel focuses on high-quality hybrid inks and unique tools like the Multi 8 lead holder, which serves niche professional needs such as engineering and technical drawing.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Uni-ball Performance Standards:&lt;/strong&gt; Uni-ball provides the market benchmark with its Jetstream hybrid ink and the highly customizable Style Fit line, balancing smooth writing with diverse shell options.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Refill Standardization Guide:&lt;/strong&gt; Understanding technical specifications like ISO D1 and Japanese 3mm standards allows users to navigate brand-specific ecosystems and find cost-effective third-party refill alternatives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - August 16, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
