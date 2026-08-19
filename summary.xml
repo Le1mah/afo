@@ -4,8 +4,228 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-08-18T20:59:22.883Z</updated>
+  <updated>2026-08-19T20:58:47.930Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - August 19, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-08-19</id>
+    <updated>2026-08-19T20:58:47.930Z</updated>
+    <published>2026-08-19T20:58:47.930Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>12 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 19, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;253.15068493150682&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    63.3%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;231&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;134&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;33&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████████░░░░░░░░░░░ 63.3%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22724&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Wednesday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 包含时间、坐标和社交媒体链接的互动请求。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这段文字记录了2026年8月19日的一次会话信息，包含地理坐标（51° N, 0° W）以及Mastodon和Bluesky的社交平台链接。作者以简洁的风格询问读者是否已发布相关回复，并请求通过URL进行反馈。全文呈现出一种典型的社交动态或博客页脚互动的形式。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thehistoryoftheweb.com/a-website-for-everyone/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A website for everyone - The History of the Web&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 系统正在验证请求，请耐心等待加载。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该文本是一条典型的系统加载与验证提示信息，告知用户其请求目前正处于验证阶段，并要求用户在加载过程中保持耐心等待。这种表述通常见于网页跳转或安全校验环节，旨在提供即时的系统状态反馈。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DatoCMS Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.datocms.com/blog/when-to-use-skills-vs-the-datocms-mcp&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;When to use Skills vs. the DatoCMS MCP&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Skills manage local schema development, while the DatoCMS MCP provides secure, multi-project content management and analysis.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Skills serve as markdown-based DatoCMS CLI wrappers designed for deep local development tasks like schema modeling and plugin creation, while the Model Context Protocol (MCP) provides a sandboxed, OAuth-driven environment optimized for secure content management. While Skills excel in terminal-heavy workflows, the MCP offers superior safety for production data exploration through read-only defaults and the ability to access multiple projects simultaneously without local token management. Senior developers can leverage a hybrid workflow by using the MCP’s broad visibility to analyze live environments and migrate assets, then handing off execution to Skills for precise, local schema migrations and deployments.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Agent Skills Overview:&lt;/strong&gt; Skills are markdown-based playbooks that wrap the DatoCMS CLI, granting agents full local permissions to perform deep technical tasks like schema modeling and plugin development.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;MCP Guarded Access:&lt;/strong&gt; The Model Context Protocol (MCP) provides a sandboxed, OAuth-driven environment for content management, prioritizing security through read-only defaults and tokenless operation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Capability vs. Applicability:&lt;/strong&gt; While both tools share capabilities, Skills are recommended for terminal-based development workflows, whereas the MCP is optimized for editor-focused tasks and browser-based content operations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Hybrid Workflow:&lt;/strong&gt; Developers can bypass the &amp;quot;choose one&amp;quot; rule by combining Skills and the MCP within a single session to leverage both local CLI power and broad OAuth access.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cross-Project Operations:&lt;/strong&gt; Unlike Skills which are repo-specific, the MCP can access multiple projects simultaneously via OAuth, making it ideal for migrating assets or schema references across different environments.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Production Safety Protocols:&lt;/strong&gt; The MCP offers a safer way to handle production data through read-only exploration and explicit write confirmations, which can then be handed off to Skills for deployment tasks.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Data-Driven Refactoring:&lt;/strong&gt; A sophisticated refactoring workflow involves using the MCP to analyze live production data before utilizing Skills to generate and execute precise schema migrations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Citizens Build, Agents Execute, Experts Govern&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Experts transition from manual coding to governing the architectural guardrails and security of AI-driven, citizen-led development.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;As AI commoditizes syntax production, the engineering bottleneck is shifting from manual code generation to the expert judgment required for production-grade reliability, security, and maintainability. The emerging &amp;quot;Citizens Build, Agents Execute, Experts Govern&amp;quot; paradigm redefines the senior developer’s role as a high-leverage architect who designs the platforms and guardrails that allow AI-driven development to scale safely. In this model, while non-technical users and AI agents handle ideation and implementation, experts focus on the critical trade-offs and governance necessary to ensure systems are enterprise-ready.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Engineering Perception Gap:&lt;/strong&gt; Executives often mistake the rapid creation of AI-assisted demos for total engineering productivity, failing to recognize the difference between a working app and enterprise-grade software.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Enterprise-Grade Production Reality:&lt;/strong&gt; Software becomes truly complex when it must meet production requirements like data protection, scalability, auditability, and long-term maintainability—concerns often absent in simple demos.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Scarcity of Engineering Judgement:&lt;/strong&gt; As AI commoditizes code writing, the primary scarcity shifts from syntax production to the expert judgement required to determine if a system is safe to trust in production.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Agents as Execution Engines:&lt;/strong&gt; The engineering workflow is evolving into a model where humans define specifications and make trade-offs, while AI agents handle the high-speed execution of coding and refactoring.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;A New Governance Framework:&lt;/strong&gt; The &amp;#039;Citizens Build, Agents Execute, Experts Govern&amp;#039; model describes a shift where non-engineers ideate and agents code, but experts provide the critical architectural oversight.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Scaling Safe Innovation:&lt;/strong&gt; Experienced engineers are becoming highly leveraged force multipliers who design the guardrails and platforms that allow rapid, AI-driven development to scale safely across the enterprise.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/practitioner-voice.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Practitioner Voice: The Writing Category Nobody has Named Yet&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Practitioner Voice leverages lived experience and accountability to offer nuanced professional insights, distinguishing human expertise from AI-generated content.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Jim Highsmith defines &amp;quot;Practitioner Voice&amp;quot; as a distinct writing style rooted in the authority of lived experience and personal accountability for real-world outcomes, rather than academic rigor or marketing-driven engagement. Unlike generic &amp;quot;thought leadership&amp;quot; or AI-generated content, this style prioritizes human judgment and &amp;quot;skin in the game,&amp;quot; leading with direct claims that rely on the reader&amp;#039;s professional pattern recognition to bridge gaps. Rather than offering oversimplified takeaways, it identifies complex professional tensions and leaves them unresolved, acknowledging that peers must navigate these specific challenges within their own high-consequence environments. Ultimately, the Practitioner Voice serves as a critical differentiator in an era of LLM-generated prose by offering the nuanced insight and accountability that only a veteran practitioner can provide.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining Practitioner Voice:&lt;/strong&gt; Jim Highsmith introduces Practitioner Voice as a distinct writing style that prioritizes authority derived from lived experience rather than academic credentials or marketing-driven thought leadership.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Shortcomings of Traditional Styles:&lt;/strong&gt; Academic writing often hides the author behind excessive rigor, while modern thought leadership frequently prioritizes brand engagement over substantive, truthful arguments.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The AI Writing Challenge:&lt;/strong&gt; The rise of &amp;#039;LLM Voice&amp;#039; creates a new urgency for practitioner-led content, as AI can mimic professional structures but lacks the human judgment and stakes found in real-world experience.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Judgment-First Narrative Structure:&lt;/strong&gt; Practitioner Voice differs from other styles by leading with a claim and trusting the reader to close the gap based on their own professional pattern recognition.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Authority Through Experience:&lt;/strong&gt; The authority in this style comes from having been responsible for outcomes in high-consequence situations, allowing for a level of insight that researchers and influencers cannot replicate.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Embracing Unresolved Tensions:&lt;/strong&gt; Instead of offering simplified takeaways, Practitioner Voice identifies complex professional tensions and leaves them live, acknowledging that readers must navigate these challenges themselves.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Targeted Readership Contract:&lt;/strong&gt; This category of writing eschews universal appeal in favor of specificity, speaking directly to peers who recognize the described patterns from their own careers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Accountability as a Differentiator:&lt;/strong&gt; The defining characteristic of Practitioner Voice is accountability, where the author owns the consequences of their judgment—a factor that AI and generic content cannot mimic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Palomar – a registry of Lean verified mathematics&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Palomar 注册库上线，提供 Lean 形式化数学证明的验证与登记。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了由 Lean FRO 和 ICARM 孵化的 Palomar 注册库，旨在为 Lean 形式化数学证明提供验证与登记平台。Palomar 类似 Lean 证明的预印本服务器，采用机械检查与大语言模型（LLM）相结合的审核流程，确保代码可编译且与非形式化描述一致。作者强调该平台并非同行评审期刊，但为 AI 或人工生成的证明提供了标准化的验证流程。目前注册库已正式开放提交。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍 Palomar 注册库的背景，旨在为日益增多的 AI 生成 Lean 证明提供验证平台，并公布了科学顾问委员会名单。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细说明了 Palomar 的结构，包括类似预印本服务器的定位，以及提交时所需的挑战文件、解决方案模块和元数据文件等技术要求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了 Palomar 的双重审核机制，包括使用 Lean Comparator 进行机械验证，以及利用大语言模型（LLM）核对非形式化描述的准确性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;宣布注册库现已开放接受人类或 AI 生成的各类证明提交，并提供了相关的提交指南、个人实践案例以及讨论反馈渠道。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://cedec-kyushu.jp/2026/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【11/14(土)】CEDEC+KYUSHU 2026 受講受付開始！基調講演・特別招待講演の登壇者が決定！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CEDEC+KYUSHU 2026定档11月，日野晃博等名家加盟。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CEDEC+KYUSHU 2026将于2026年11月14日举行，现已开启受讲申请。本次大会邀请了Level-5社长日野晃博探讨AI时代的开发极意，以及藤泽仁分享《第四境界》等创新的叙事表现。文章以公告形式详细列出了日程安排、嘉宾背景及联系方式，旨在为游戏开发者提供技术交流平台并展示行业前沿洞察。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了CEDEC+KYUSHU 2026的官方菜单导航以及近期重要活动的更新动态汇总。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;宣布大会将于2026年11月14日举办，并已启动基调演讲确定、受讲申请及独立游戏展位招募等流程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Level-5代表取締役日野晃博将担任基调演讲嘉宾，分享在AI时代构建虚幻世界的开发极意与经验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Story Note代表藤泽仁作为特别招待嘉宾，将探讨其在《第四境界》等作品中追求的全新物语表现形式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;列出了大会从举办决定到演讲嘉宾确定的相关新闻稿发布记录，展示了筹备进度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了CEDEC+KYUSHU 2026事务局的各类咨询联系方式及社交媒体相关链接。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21712&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;サイバーコネクトツーマンガプロジェクト第2弾『しごにんの侍』最新13巻 8/19(水)発売！お得な電子書籍フェア開催中！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2 released *Shigonin no Samurai* Volume 13 digitally, offering free volumes and discounts through August 28.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2 has released Volume 13 of its original &amp;quot;limbs-action&amp;quot; manga series *Shigonin no Samurai* (Chapters 49-52), a key installment in the studio&amp;#039;s dedicated manga production initiative led by Hiroshi Matsuyama. The narrative advances its post-Sengoku supernatural plot, focusing on the evolution of the &amp;#039;Nihonjin Ningen Mandala Project&amp;#039; and a critical revelation regarding the protagonist&amp;#039;s ultimate fate. Distributed exclusively as a digital e-book, the release includes supplemental production blogs and concept art detailing the series&amp;#039; creative development and world-building process. To support the launch, a promotional &amp;quot;Summer Fair&amp;quot; is running through August 28, offering the first five volumes for free and substantial discounts on subsequent issues across major digital platforms.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;New Volume Launch:&lt;/strong&gt; CyberConnect2 has released the 13th volume of its original manga project &amp;quot;Shigonin no Samurai&amp;quot; on August 19, 2026. The series continues its serialization on various digital platforms, reaching up to the 52nd chapter.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Creative Project Team:&lt;/strong&gt; The manga is a collaborative effort produced by Hiroshi Matsuyama, written by Sawamura, and illustrated by Kakuji Fujita. It represents the second major installment in CyberConnect2&amp;#039;s dedicated manga production initiative.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Core Narrative Premise:&lt;/strong&gt; Set in the post-Sengoku era, the story follows four elite swordsmen who wake up after a brutal battle to find their limbs have been severed and swapped with one another. This unique &amp;quot;limbs-action&amp;quot; setup drives the series&amp;#039; distinct physical combat and supernatural themes.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Volume 13 Synopsis:&lt;/strong&gt; This volume covers chapters 49 through 52, focusing on the evolution of the &amp;#039;Nihonjin Ningen Mandala Project&amp;#039; and the appearance of the complete entity &amp;#039;Nanahagi Myojin.&amp;#039; The protagonist, Musashi Shiro, faces a pivotal revelation regarding his ultimate fate.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Exclusive Supplemental Content:&lt;/strong&gt; The release includes bonus materials such as a production blog by the original author and exclusive, previously unreleased cover art concepts. These additions are designed to provide deeper insight into the world-building and creative process.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Digital Distribution Model:&lt;/strong&gt; The series is distributed exclusively as an e-book across major storefronts including Kindle, LINE Manga, and eBookJapan for 440 yen. There is currently no physical print edition available for this volume.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Promotional Sales Campaign:&lt;/strong&gt; A limited-time &amp;#039;Summer Fair&amp;#039; offers volumes 1-5 for free and provides significant discounts of up to 50% on volumes 6-10. This promotional period runs from August 14 to August 28 across participating digital bookstores.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113618&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;iOS 27 测试版近期动向，还有 Apple 产品新消息&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iOS 27 Beta updates UI/media features while leaks reveal homeOS, AI-integrated AirPods, and future foldable hardware developments.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;iOS 27 Beta 4 and 5 introduce significant UI/UX refinements, including &amp;quot;Liquid Glass&amp;quot; transparency effects, Apple Log 2 support for iPhone 17 Pro, and granular Siri speech controls. Beyond mobile OS updates, code leaks suggest a new &amp;quot;homeOS&amp;quot; ecosystem featuring a 7-inch smart hub and camera-integrated AirPods (B790) designed for AI-driven visual processing. The future hardware roadmap reveals active development on a foldable iPhone Ultra, M6-powered MacBook Pros, and an OLED iPad mini utilizing A-series Pro chips. Additionally, Apple is engineering localized server processing and content safety protocols to adapt Apple Intelligence features for the Chinese market.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;iOS 27 Media Enhancements:&lt;/strong&gt; Beta 4 introduces automatic TV episode downloads for offline viewing and a new &amp;quot;Zoom to Fill&amp;quot; photo display option to eliminate letterboxing on iPhone screens.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Siri and Accessibility Updates:&lt;/strong&gt; Apple unified Siri&amp;#039;s interface across devices, adding granular speech rate controls and a persistent text transcription mode for user requests.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Professional Video and Connectivity:&lt;/strong&gt; The update adds Apple Log 2 support for iPhone 17 Pro to improve post-production flexibility and allows per-network toggling of the Wi-Fi Assist feature.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;System UI Refinements:&lt;/strong&gt; Beta 5 brings redesigned system icons for core apps and optimized &amp;quot;Liquid Glass&amp;quot; transparency effects for a more modern visual experience.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Smart Home Ecosystem Leaks:&lt;/strong&gt; Code discoveries point to a new &amp;#039;homeOS&amp;#039; platform, a 7-inch smart home hub with face recognition, and an updated HomePod mini.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AirPods with Visual Intelligence:&lt;/strong&gt; References to &amp;#039;camera-equipped&amp;#039; AirPods (B790) suggest upcoming wearable hardware capable of image capture and visual processing for AI tasks.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Future Hardware Roadmap:&lt;/strong&gt; Leaked identifiers reveal development of a foldable iPhone Ultra, M6-powered MacBook Pros, and an OLED iPad mini utilizing A-series Pro chips.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Localization and Compliance:&lt;/strong&gt; New strings indicate Apple is developing content safety and local server processing mechanisms to bring Apple Intelligence features to the Chinese market.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113588&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Control 2 transitions to a Manhattan-based ARPG featuring Dylan Faden, Path Tracing, and revamped dual-progression mechanics.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The *Control* sequel transitions the franchise&amp;#039;s New Weird aesthetic to a semi-open Manhattan setting, leveraging Path Tracing and DLSS 4.5 to render hyper-realistic environments and complex resonance-based anomalies. Shifting toward a full Action RPG framework, the title introduces a dual-progression system that decouples weapon evolution from supernatural ability trees, supported by a &amp;quot;Dream Rift&amp;quot; mechanic for flexible build experimentation. Playing as Dylan Faden, players utilize enhanced mobility—including early-access air dashes and double jumps—to engage in a synergistic combat loop that blends aggressive melee with projectile-based tactics. The narrative is structured to be accessible to newcomers, utilizing the protagonist&amp;#039;s journey of self-discovery to contextualize the series&amp;#039; complex lore while maintaining its signature Metroidvania-inspired exploration and environmental storytelling.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Surreal Urban Atmosphere:&lt;/strong&gt; The game transitions from the Oldest House to Manhattan, utilizing surreal geometric patterns and resonance phenomena to create a unique sense of supernatural tension in an open setting.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Advanced Technical Rendering:&lt;/strong&gt; Leveraging Path Tracing and DLSS 4.5, the engine delivers high-fidelity reflections and lighting to ground the supernatural anomalies in a believable, hyper-realistic environment.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;ARPG Combat Evolution:&lt;/strong&gt; Shifting toward a full Action RPG, the title introduces deep weapon evolution systems, customizable skill trees, and a &amp;#039;Dream Rift&amp;#039; mechanic for flexible build experimentation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Enhanced Character Mobility:&lt;/strong&gt; Playing as Dylan Faden, players gain access to high-mobility mechanics like double jumps and air dashes early on, reflecting the protagonist&amp;#039;s background as a supernatural test subject.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Accessible Narrative Structure:&lt;/strong&gt; The story is designed for both veterans and newcomers, utilizing the protagonist&amp;#039;s journey of self-discovery to explain the complex world-building without requiring prior knowledge of the first game.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Open-Ended Map Design:&lt;/strong&gt; While not a traditional open world, the game features large, interconnected zones that maintain the series&amp;#039; signature environmental storytelling and metroidvania-inspired exploration.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Strategic Build Diversity:&lt;/strong&gt; The dual-system approach separates weapon upgrades from supernatural abilities, allowing players to synergize diverse combat styles ranging from aggressive melee to projectile-based tactics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111936&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1 | Inkive：把纸质书上划好的线存进 Obsidian&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 实现纸质书划线向数字笔记的同步与回归。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文简要介绍了将纸质书上的划线和标注同步至数字笔记系统的方法或愿景。这一功能旨在打破传统阅读与数字记录之间的界限，帮助读者更高效地整理和回顾在物理书籍上记录的知识与感悟，实现跨媒介的笔记管理。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113607&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Tech highlights include iQOO smartphones, Sharge AI glasses, Zhitai SSDs, Huawei’s smart SUV, and Windows Server roadmap updates.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The tech landscape sees significant hardware advancements with iQOO’s 10,000 mAh battery smartphones and Zhitai’s Ti600s SSD, which leverages Xtacking 4.0 QLC technology to achieve 7,400 MB/s read speeds. In the AI and automotive sectors, Sharge debuted Loomos AI recording glasses, while the Huawei-Dongfeng Yijing X9 SUV showcases the integration of an 800V high-voltage platform with HarmonySpace 6 and ADS 5. On the infrastructure side, Microsoft established an October 2026 mainstream EOL for Windows Server 2022, pushing administrators toward Windows Server 2025 for its enhanced AI management capabilities. Complementing these updates are Spotify’s metadata-driven &amp;quot;Playlist Notes&amp;quot; for discovery and Cuktech’s modular magnetic cooling accessories for mobile hardware.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;iQOO Mobile Launches:&lt;/strong&gt; iQOO released the Neo11 Ultimate and Z11S, featuring high-performance gaming chips and large battery capacities up to 10,000 mAh. Both models run OriginOS 6 and target the mid-to-high-end performance and long-endurance markets.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Loomos AI Glasses:&lt;/strong&gt; Sharge&amp;#039;s Loomos brand introduced the L1 AI recording glasses and teased the S1 dual-display AI model. These devices leverage AI for task management and information display, with a focus on lightweight design and privacy.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Yijing X9 SUV:&lt;/strong&gt; A collaboration between Dongfeng and Huawei, the Yijing X9 is a flagship 6-seater SUV featuring Huawei&amp;#039;s Kunqian ADS 5 and HarmonySpace 6. It utilizes an 800V high-voltage platform for rapid charging and offers a combined range exceeding 1,500 km.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Spotify Playlist Notes:&lt;/strong&gt; Spotify has introduced &amp;#039;Playlist Notes,&amp;#039; allowing users and editors to add textual descriptions to podcast episodes and audiobooks. The platform also plans to launch &amp;#039;Editor Profiles&amp;#039; to provide background on curated content.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Windows Server Lifecycle:&lt;/strong&gt; Microsoft announced that Windows Server 2022 will end mainstream support in October 2026, transitioning to extended security-only updates. Administrators are encouraged to evaluate migration to Windows Server 2025 for new AI management capabilities.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Zhitai Ti600s SSD:&lt;/strong&gt; Zhitai launched the Ti600s, a PCIe Gen4 SSD based on Xtacking 4.0 QLC technology with read speeds up to 7,400 MB/s. The drive is available in capacities up to 4TB and uses a DRAM-less architecture for cost-efficiency.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cuktech Modular Accessories:&lt;/strong&gt; Cuktech released a clip-on extension cable set for its CP Modular Fan Plus, featuring a magnetic Power-Pin interface. The accessory offers flexible mounting options and a durable 1-meter braided cable for mobile cooling setups.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - August 18, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2032,110 +2252,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Data Sourcing Pipeline:&lt;/strong&gt; The application aggregates data from multiple sources including ESPN for live rankings, Jolpica F1 for driver mapping, and OpenF1 for race status updates.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;macOS Native Implementation:&lt;/strong&gt; Built as a native macOS application, the tool manages data fetching, layout rendering, and automated device synchronization via the Dot API without requiring a server.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Constraints:&lt;/strong&gt; The solution relies on local execution and unofficial API endpoints, requiring the host Mac to remain active and connected for real-time updates on the e-paper display.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - August 8, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-08-08</id>
-    <updated>2026-08-08T20:20:01.684Z</updated>
-    <published>2026-08-08T20:20:01.684Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>3 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 8, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;241.0958904109589&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    60.3%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;220&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;145&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;31&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████░░░░░░░░░░░░ 60.3%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;3&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22707&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reading When The Boys Came Out To Play by John Mackel.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录阅读John Mackel作品的简短互动日志。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇记录于2026年8月8日的简短阅读日志，作者分享了正在阅读John Mackel的作品《When The Boys Came Out To Play》。文中包含了精确的阅读时间与地理坐标，并提供了该书在Bookshop和Open Library的获取渠道。作者以简洁的记录风格邀请读者分享反馈，体现了数字化阅读记录的互动性。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/rss-club-i-got-an-nlnet-grant/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[RSS Club] I got an NLnet grant!&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 为 RSS 订阅者提供的独家简讯与博文预告。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一条专门面向 RSS/Atom 订阅者的独家简讯。作者以此回馈“RSS Club”成员，提供内容预览并预告即将发布的详细博文。文章语气轻松且具有互动性，旨在通过差异化内容吸引用户订阅 RSS，同时提及了数月前看到的相关启发。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112901&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;就内容创作而言，说话还是替代不了打字&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 语音输入剥夺思考流程，打字才是创作的核心思考方式。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了以Typeless为代表的新型AI语音输入工具对创作的影响。作者通过个人体验指出，虽然这些工具利用LLM优化了口水词和逻辑，在快速回复场景下效率极高，但在深度内容创作领域，“说话比打字快”的逻辑并不成立。作者认为写作是包含推敲与回溯的非线性思考过程，而语音输入剥夺了这种思考流程。文章最终强调，打字不仅是输入，更是创作思考的内核，不应被简单的线性语音表达所取代。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (17 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍Typeless等新型语音输入工具及其“语音是人类原生输入方式”的核心宣言。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释新型语音工具利用大语言模型（LLM）移除口水词并优化转写逻辑，提升输出质量。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者描述首次观看Typeless演示时，对其处理自然语言提示词的干净结果印象深刻。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提到社交群组中许多用户对Typeless的革命性体验给出了极高评价。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出在公共或社交场合使用语音输入会带来干扰他人和“不会读空气”的尴尬。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;认为社交干扰属于用户可自适应的缺陷，并非语音输入工具的根本性问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提出核心观点：Typeless这类工具正在剥夺作者在输入过程中的思考流程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;承认语音输入在律师快速回复客户等特定高效率需求场景下具有合理性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;强调在内容输出领域应坚持人主导创作，LLM仅应作为辅助工具而非主导。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;质疑“说话比打字快”的营销逻辑，认为这忽略了文本创作需要反复推敲的本质。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细描述写作是一个包含思考、输入、回溯与不断修改的复杂非线性过程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;强调创作并非速度优先的行为，打字过程本身就是一种不可或缺的思考方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分享一次因软件故障被迫使用Typeless导致语言混乱、效率低下的挫败经历。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结认为语音输入尝试将思考过程外包，与深度脑力劳动的创作本质背道而驰。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;批评语音工具的营销活动是忽略了创作实际内核的“空中楼阁”。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;引用《美国讲稿》片段，表达通过手写反复修改文字以达到精准表达的必要性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;认为只有在文学创作中，语言才能摆脱随心所欲的漫不经心，展现本来面貌。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
