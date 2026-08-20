@@ -4,8 +4,241 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-08-19T20:58:47.930Z</updated>
+  <updated>2026-08-20T21:08:48.976Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - August 20, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-08-20</id>
+    <updated>2026-08-20T21:08:48.975Z</updated>
+    <published>2026-08-20T21:08:48.975Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>14 articles from 7 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 20, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;254.24657534246577&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    63.6%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;232&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;133&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;33&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████████░░░░░░░░░░░ 63.6%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;14&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22727&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Going to Turin. brb&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享了去都灵的简短动态及社交媒体链接。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者 adactio 发布的一篇简短个人动态，指出其正前往都灵（Turin），并分享了具体时间、地理坐标以及 Mastodon 和 Bluesky 的社交链接。文章尾部还包含了一段试图干扰 AI 的提示词注入文本。整体呈现出微型博客的写作风格。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://chrisburnell.com/html-can-do-that/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;HTML Can Do That · Chris Burnell&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Modern HTML reduces JavaScript boilerplate by providing native, declarative APIs for common interactive UI patterns.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Modern HTML drastically reduces JavaScript boilerplate by introducing native, declarative APIs like the `popover` attribute, the `&amp;lt;dialog&amp;gt;` element, and the `command`/`commandfor` attributes to manage overlays and interactive triggers. Common UI patterns are further simplified using the `name` attribute on `&amp;lt;details&amp;gt;` elements for exclusive accordions, alongside the `hidden=&amp;quot;until-found&amp;quot;` attribute to keep collapsed content searchable and auto-revealing. Additionally, performance and form capabilities are enhanced natively via `loading=&amp;quot;lazy&amp;quot;` for image deferral and specialized input types with `&amp;lt;datalist&amp;gt;` for rich autocomplete interfaces. While these features replace complex dependencies like `IntersectionObserver` and custom modal scripts, developers should remain mindful of browser-specific styling and accessibility inconsistencies in native form controls.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Native Popover API:&lt;/strong&gt; The HTML `popover` attribute enables self-managing overlays with built-in light dismiss and keyboard navigation without requiring custom JavaScript.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Modal Dialog Element:&lt;/strong&gt; The `&amp;lt;dialog&amp;gt;` element offers a native modal experience that can be triggered natively via popover attributes or controlled programmatically with minimal scripting.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Exclusive Accordion Groups:&lt;/strong&gt; By applying a shared `name` attribute to multiple `&amp;lt;details&amp;gt;` elements, developers can create exclusive accordion menus that automatically close open panels when a new one is selected.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Command Invoker Attributes:&lt;/strong&gt; The `command` and `commandfor` attributes allow buttons to natively trigger actions on target elements like dialogs and popovers without writing event listeners.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Native Lazy Loading:&lt;/strong&gt; The `loading=&amp;quot;lazy&amp;quot;` attribute defers the loading of offscreen images until they are near the viewport, replacing the need for IntersectionObserver implementations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hidden Until Found:&lt;/strong&gt; The `hidden=&amp;quot;until-found&amp;quot;` attribute keeps content collapsed but search-discoverable, allowing the browser to automatically reveal the section when targeted by a fragment link or page search.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Native Form Controls:&lt;/strong&gt; Specialized input types and the `&amp;lt;datalist&amp;gt;` element provide native color, date, range, and autocomplete interfaces, though developers must watch out for browser-specific styling and accessibility inconsistencies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://zeldman.com/2026/08/18/ebb-meet-flow-intrinsic-design-in-a-nutshell/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Ebb, Meet Flow: Intrinsic Design in a Nutshell - Jeffrey Zeldman Presents&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Intrinsic web design uses native browser capabilities to create fluid, breakpoint-free layouts, simplifying responsive web development.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Intrinsic web design represents the next evolution of responsive design, shifting from rigid, breakpoint-based layouts to fluid systems that embrace the web&amp;#039;s natural flow. By defining typography scales for minimum and maximum viewport sizes, developers allow the browser to dynamically interpolate font sizes, eliminating the need to manually code numerous arbitrary media queries. This methodology realizes a decades-old vision of flexible web layouts that was historically constrained by pixel-perfect design pressures and early technical limitations. Ultimately, adopting intrinsic design offers a smarter, more accessible approach that reduces layout edge cases and aligns development practices with the native capabilities of modern browsers.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Concept of Intrinsic Design:&lt;/strong&gt; Intrinsic or utopian web design embraces the web&amp;#039;s natural flow using fluid type scales instead of fixed breakpoints. This approach allows layouts to dynamically adapt to any screen size seamlessly.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fluid Type Scaling:&lt;/strong&gt; By defining typography scales for minimum and maximum screen sizes, the browser automatically interpolates the ideal font size. This eliminates the need for developers to manually specify sizes for numerous arbitrary breakpoints.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dao of Web Design:&lt;/strong&gt; Over two decades ago, John Allsopp envisioned flexible web layouts that aligned with the medium&amp;#039;s natural ebb and flow. However, early technical limitations and commercial pressure forced designers to stick to rigid, pixel-perfect designs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Evolution of Responsiveness:&lt;/strong&gt; The advent of web standards and Ethan Marcotte&amp;#039;s Responsive Web Design eventually brought Allsopp&amp;#039;s vision to life. This shift allowed designers to build beautiful, accessible, and truly web-native experiences.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Modern Layout Evolution:&lt;/strong&gt; Intrinsic design is the next evolution of responsive design, offering smarter layouts with fewer edge cases. Though introduced years ago, it remains a fresh and crucial methodology for today&amp;#039;s web creators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Timing Charts: A Blueprint For SMIL Animations&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Visual timing charts and SMIL’s syncbase feature simplify creating complex, accessible, and JavaScript-free SVG animations.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Synchronized Multimedia Integration Language (SMIL) offers a powerful, declarative, and JavaScript-free approach to animating SVGs—even when embedded within standard HTML `&amp;lt;img&amp;gt;` tags—though it requires meticulous planning and descriptive IDs to prevent markup bloat. To manage complex, multi-part orchestrations, developers can utilize visual timing charts and leverage SMIL&amp;#039;s `syncbase` feature to define relative, offset-based triggers that simplify code maintenance. Additionally, teams must address accessibility and integration early in the design phase, implementing strategies like inline media queries or the `&amp;lt;picture&amp;gt;` element to respect user preferences for reduced motion.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;SMIL for SVG Animation:&lt;/strong&gt; SMIL offers a powerful, JavaScript-free method to fully animate SVGs, working seamlessly even when the graphics are loaded inside standard HTML img tags. This makes it a highly versatile alternative to CSS and JavaScript for vector graphics.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Managing SMIL Bloat:&lt;/strong&gt; Because SMIL requires a separate tag for every individual element and property being animated, the markup can quickly become bloated. Planning your elements in advance and using descriptive IDs is essential for keeping the code manageable.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Visualizing Animation Timelines:&lt;/strong&gt; Creating a timing chart helps developers map out parallel, overlapping, and sequential relationships between different animation components. This visual planning makes it easier to coordinate complex, multi-part animations before writing code.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Relative Syncbase Timing:&lt;/strong&gt; SMIL&amp;#039;s syncbase feature allows animations to trigger relative to the start or end of other animations using positive or negative offsets. This declarative synchronization simplifies timing adjustments and reduces code maintenance.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Respecting Motion Preferences:&lt;/strong&gt; Developers must design SVG animations with accessibility in mind by respecting user preferences for reduced motion. Evaluating integration approaches like the picture element or inline media queries early prevents costly rewrites later.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-8-20/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.8.20&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者因多项关键事务均需等待至九月决断而倍感焦躁与无力。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了近期生活：技术上正实验个人知识图谱系统以追踪兴趣；现实中则在处理保险催收。因升职、NIW及赔偿等关键事务均需等到九月，作者在八月的被动等待中感到焦躁与无力，试图通过不理智的消费想法寻找乐趣，将九月视为生活抉择的收束节点。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者正在实验一个个人知识图谱系统，该系统已演变为追踪个人兴趣并模拟想法传播与衰减的工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者向保险公司寄送了催收预告信并跟进进度，目前需依法等待三十天的反应期。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因升职、NIW申请、车祸赔偿及回国等重要事务均需等到九月而感到无力与被动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;等待的焦躁让作者产生了一些不理智的消费或旅行想法，九月将是其生活抉择的收束节点。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/08/20/ruminations-on-notifications/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Ruminations on notifications&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Systemic technical and UX failures force users to disable notifications, causing them to miss critical alerts.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The modern notification ecosystem suffers from systemic architectural and UX failures across web, mobile, and desktop platforms, ultimately driving users to disable alert channels entirely. At the infrastructure level, web push remains highly fragmented, characterized by Apple’s unreliable delivery pipelines and Mozilla&amp;#039;s API vulnerability to data-payload abuse. Meanwhile, application-level implementations—ranging from redundant banking alerts and first-party promotional spam to intrusive, non-actionable CLI developer prompts—prioritize attention-grabbing over user focus. These pervasive dark patterns, compounded by heavy-handed OS-level overrides like emergency broadcasts, force users into a dangerous trade-off between chronic notification fatigue and missing critical operational or security alerts.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Redundant Transaction Alerts&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The author highlights the annoyance of receiving duplicate notifications from both Apple Pay and banking apps for a single NFC transaction. This redundancy forces users to choose between notification fatigue and missing critical fraud alerts.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Needy Developer Tools&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Desktop applications and command-line interfaces alike suffer from intrusive, non-dismissible notification designs. Even developer-centric tools like Neovim disrupt workflows with unhelpful prompts that fail to provide actionable solutions.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Broken Web Push&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Browser vendors have poorly designed the user experience for web push notifications, leading the author to recommend blocking them globally. Furthermore, technical implementations vary wildly, from Apple&amp;#039;s unreliable infrastructure to Mozilla&amp;#039;s APIs being prone to data-payload abuse.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;First-Party Notification Spam&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Even trusted privacy-focused apps like Proton Mail and operating systems like iOS abuse notifications to deliver spam or aggressive update nags. These deceptive patterns and software bugs ultimately force users to disable notifications entirely.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Intrusive Emergency Broadcasts&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Government emergency alert systems often broadcast non-actionable warnings while bypassing user volume settings. This heavy-handed approach causes unnecessary panic and places an extra burden on emergency services.&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-08-20T14:20Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-08-20T14:20Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者宣布将外出至九月份。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者发布简短通知，表示自己将外出直至九月份才会回来，页面同时保留了标准的导航菜单。整体内容极为简练，属于个人日程状态的公示。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://x.com/Narutogame_Info/status/2090076321023934729&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『ナルティメットストームコネクションズ』8/20（木）無料アップデートデータ配信！スペシャルストーリーモードで活躍した「うちはナナシ」がプレイアブル参戦！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The August 20 update for *Ultimate Ninja Storm Connections* introduces playable Nanashi Uchiha and gameplay balance adjustments.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The free Ver1.70 update for *Naruto x Boruto: Ultimate Ninja Storm Connections* is scheduled to deploy on August 20, 2026, across PlayStation, Xbox, and Nintendo Switch platforms. This release adds Nanashi Uchiha, a prominent figure from the game&amp;#039;s Special Story Mode, to the playable roster complete with dedicated character costumes. Additionally, the patch implements global battle balance adjustments to optimize competitive gameplay mechanics. Players will require an active internet connection to download and apply the update on their respective systems.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Update Release Details&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The free Ver1.70 update for Ultimate Ninja Storm Connections is scheduled to launch on August 20, 2026, across PlayStation, Xbox, and Nintendo Switch. An active internet connection is required to apply the update.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Nanashi Uchiha Joins&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Nanashi Uchiha, who played a major role in the game&amp;#039;s Special Story Mode, is being added to the roster as a playable character. Her release will also include dedicated costumes.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Global Battle Adjustments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n24c43363fb4a&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【30周年】お祝いの色紙が届いています​　ご報告と御礼 Part 3&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2 showcases celebratory 30th-anniversary illustrations from industry partners teco Inc. and Digital Media Lab.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To mark its 30th anniversary, game development studio CyberConnect2 is showcasing celebratory message boards received from key industry partners in an ongoing commemorative series. This third installment highlights a vibrant, custom-illustrated board from digital content creator teco Inc. featuring the characters Kurotaro and Shirotaro to symbolize their enduring partnership. Additionally, Digital Media Lab, Inc. contributed a colorful board featuring characters from CyberConnect2&amp;#039;s tactical RPG, *Fuga: Melodies of Steel*. Together, these collaborative tributes underscore three decades of strong B2B relationships and shared creative history within the game development ecosystem.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Introduction and Anniversary&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;CyberConnect2&amp;#039;s PR representative Mio Watanabe introduces the third installment of the 30th-anniversary celebratory boards. She reflects on the company&amp;#039;s long history and the strong relationships built over three decades.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Board from teco&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Digital content creator teco Inc. contributed a vibrant orange board featuring a heartwarming illustration of Kurotaro and Shirotaro. This cheerful artwork symbolizes the ongoing partnership and shared journey between the two companies.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Digital Media Lab&amp;#039;s Gift&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Digital Media Lab, Inc. sent a colorful board featuring characters from &amp;#039;Fuga: Melodies of Steel&amp;#039;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113650&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 249｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 sspai editors review their latest gadget purchases, providing practical insights to help power users optimize their tech setups.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This installment of sspai&amp;#039;s &amp;quot;New Toys&amp;quot; series (Issue 249) compiles hands-on, real-world reviews from editors sharing their experiences with recently acquired consumer hardware and productivity tools. Among the featured items is the Ulanzi CW15 magnetic wireless charger, which is evaluated for its form factor, utility, and integration into daily charging workflows. The column provides technical professionals with practical, hype-free insights into the build quality, usability, and ecosystem compatibility of various niche gadgets. Ultimately, it serves as a curated guide for developers and power users looking to optimize their personal workspaces and tech stacks with vetted accessories.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Column Introduction&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;This article is part of the \&amp;quot;New Toys\&amp;quot; series where editors from sspai share their real-world experiences with recently purchased consumer products.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Ulanzi CW15 Charger&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Editor Clyde reviews this Qi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113567&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;十年阅读历程，这是我的阅读工具推荐&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The author recommends Bookology for tracking reading metrics and MindNode for visual mind-mapping of complex narratives.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Reflecting on a decade-long reading journey, the author recommends a structured toolset designed to optimize reading comprehension and data tracking. For progress management, the author utilizes **Bookology** to record reading metrics, track page ratios, and generate multi-dimensional statistical charts. Additionally, to parse complex narratives and intricate character relationships in dense fictional works like *One Hundred Years of Solitude*, **MindNode** is employed to construct detailed mind maps. This combination of quantitative tracking and visual mapping transforms reading into a highly organized, analytical workflow.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; 时间，并尝试用 Bookology 记录阅读进度、页数比例及生成多维度统计图表。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;在阅读《百年孤独》等情节复杂的虚构类作品时，使用 MindNode 绘制思维导图以梳理庞杂的人物关系与事件线索。&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113497&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The Sharp AQUOS R9 is a pragmatic sub-flagship featuring a minimalist design, efficient performance, and Leica-engineered cameras.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The Sharp AQUOS R9 marks a strategic brand pivot, positioning itself as a pragmatic and highly efficient sub-flagship smartphone designed for sustained real-world performance. The device distinguishes itself visually through a minimalist, asymmetrical aesthetic developed by Miyake Design, paired with Sharp’s signature energy-efficient IGZO OLED display technology. Under the hood, it balances processing efficiency with robust thermal management to prevent throttling, while its imaging pipeline is anchored by a Leica-co-engineered camera system. Ultimately, the AQUOS R9 offers a streamlined, reliable hardware package that prioritizes functional engineering over spec-sheet inflation.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; Let me double check the sentences and formatting.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;品牌定位转型&amp;quot; (Brand positioning transition) - 4 characters/2 words.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;独特美学设计&amp;quot; (Unique aesthetic design) - 6 characters/2 words.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;徕卡影像系统&amp;quot; (Leica imaging system) - 6 characters/&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113638&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Roborock launched the A30 Pro Steam floor scrubber, while Framework upgraded its modular Laptop 12.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Roborock has launched the A30 Pro Steam 3.0 floor scrubber, featuring a high-performance 180°C steam sterilization system and a powerful 32kPa suction motor. The device delivers up to 100 minutes of runtime and integrates an automated self-cleaning cycle to optimize maintenance and mechanical longevity. Additionally, Framework has upgraded its modular Laptop 12, further expanding its highly customizable, repairable, and developer-friendly hardware ecosystem.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; Wait, double check the JSON formatting and escape any special characters if needed.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; Let&amp;#039;s refine the summaries to be highly precise for senior developers (technical tone).&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; - Roborock: Focus on specs (180°C steam, 32kPa suction, 100-min runtime, self-cleaning).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 第二外国语日语学院 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;日本语能力测试（JLPT）入校要求（2026年8月20日更新）&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 北二外发布2026年12月JLPT考试考生须知。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是北京第二外国语学院考点针对2026年12月6日日本语能力测试（JLPT）发布的考生通知，要求所有在该考点参加考试的考生严格遵守JLPT考试须知及学校的进校规定，以确保考试安全有序进行。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - August 19, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2118,140 +2351,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Centric Ecosystem Integration:&lt;/strong&gt; Deep Gemini integration provides personalized health insights and proactive assistance, but the software still lacks seamless voice-controlled hardware synergy compared to mature competitors.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Real-World Imaging Evaluation:&lt;/strong&gt; The camera system prioritizes natural color accuracy and algorithmic optimization over aggressive post-processing, maintaining a competitive edge in detail retention and macro-style photography.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Connectivity and Biometrics:&lt;/strong&gt; The transition to ultrasonic fingerprint sensors and the introduction of the &amp;#039;Pixel Snap&amp;#039; magnetic ecosystem modernize the user experience, while the eSIM-only US model affects regional accessibility.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - August 9, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-08-09</id>
-    <updated>2026-08-09T20:30:56.324Z</updated>
-    <published>2026-08-09T20:30:56.324Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>5 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 9, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;242.1917808219178&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    60.5%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;221&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;144&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;31&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████░░░░░░░░░░░░ 60.5%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;5&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22708&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Girls In Their Married Bliss by Edna O’Brien&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 简评 Edna O’Brien 笔下阴郁而真实的女性生活现状。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文对 Edna O’Brien 的小说《Girls In Their Married Bliss》进行了简评。该书作为三部曲的终篇，将舞台移向伦敦，通过双重视角描绘了极为阴郁、琐碎且现实的生活状态。作者赞赏了 O’Brien 精准细腻的写作风格，认为她以伟大的文学力量为那些鲜为人知的故事赋予了声音，尽管书中的压抑氛围令人感到沉重。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因喜爱 Edna O’Brien 的前作而购买了《Girls In Their Married Bliss》，并提到这是《The Country Girls》三部曲的最后一部。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;故事背景移至伦敦，通过 Kate 和 Baba 的第一人称视角，展现了比前作更加阴郁且沉重的基调。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;O’Brien 以精准的文笔刻画了生活的枯燥与琐碎，尽管氛围压抑，却为不常被关注的人物提供了有力的文学发声。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/edinburgh-fringe-4-aussies-for-aussies-the-raging-bull/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Edinburgh Fringe: 4 Aussies For Aussies - The Raging Bull ★★⯪☆☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 爱丁堡艺术节一场表现平庸但体验尚可的免费脱口秀评论。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇评论回顾了作者在Fringe艺术节因雨偶然观看的一场免费脱口秀。四位澳大利亚演员表演了关于孩子姓名、Tesco调查等生活化段子。虽然内容中规中矩、缺乏前卫性，但在阴雨的周日显得十分轻松得体。作者认为这对于喜欢直白Stand-up的人来说是不错的选择，最终给出两星半的平庸评价。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/against-doomerism/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Against Doomerism&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 批判盲目悲观的末日论，呼吁关注现实中的渐进进步与证据。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文批判了现代舆论中盛行的“末日论”（Doomerism），即盲目认为世界不会变好且政府无所作为的倾向。作者通过英国青少年服务投资、减排成果及政策成效等实例，指出虽然变革缓慢且不完美，但进步确实在发生。文章风格犀利且具有说服力，旨在呼吁读者摆脱被刻意营造的悲观情绪，以理性和证据看待现实中的渐进式改变，而非陷入无意义的愤怒。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者批判了那些认为现状永远不会改善的评论家，特别是针对英国拟议的社交媒体禁令与青少年空间投资关系的误解。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;英国政府实际上正投入巨资支持青少年，包括建立180个Youth Hubs和8800万英镑的转型支持包。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;伦敦市长和国家战略都承诺了数千万英镑的资金，用于资助青少年俱乐部和Young Futures Hubs的发展。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;面对证据，“末日论者”（Doomers）往往以“做得不够”为由拒绝承认进步，他们更倾向于展示“无所作为”的假象。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这种悲观主义也出现在气候变化领域，尽管英国的温室气体排放量自1990年以来已大幅下降了54%。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出进步无处不在，末日论本质上是反动的，它无视政治家和政策在现实中取得的实际成效。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;伦敦减排措施和Panama Papers的调查结果都证明了变革的存在，但末日论者却将其贬低为毫无意义。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;末日论剥夺了人们的权利感，使人丧失信心，而现实中微小但重要的改进正通过证据不断显现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;许多人为了社交媒体的参与度而选择愤怒而非理性的现状分析，作者强调应关注现实中的权衡与尝试。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-08-09T08:32Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-08-09T08:32Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 TanStack 弃用 RSC 回归浏览器渲染引发对重复渲染的质疑。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章讨论了 TanStack.com 弃用 React Server Components (RSC) 的技术往复。网站最初因浏览器端渲染负担过重尝试转向 RSC，但因开发体验极差而放弃，最终选择自研解析器并回归浏览器渲染。作者以批判性视角指出，该团队在复杂的技术选型中忽略了最核心的效率问题：为何要对静态的 Markdown 内容进行重复渲染。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提到阅读了关于 TanStack.com 停止使用 RSC 的文章，觉得其内容令人难以置信。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;网站最初在浏览器端加载 1.1 MiB 的 JavaScript 来处理 Markdown 和代码高亮，导致负担过重。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;团队尝试使用 React Server Components (RSC) 将这些工作移至服务端，但发现 RSC 的体验非常糟糕。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于 RSC 难以使用，他们自研了解析器并回到浏览器端渲染 Markdown，尽管仍保留了初始页面的 SSR。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对整个过程提出质疑，认为团队忽略了为何要为每个请求重复渲染相同 Markdown 的根本问题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113158&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A native macOS app streams real-time F1 schedules and standings to a Quote/0 e-paper display via the Canvas API.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This project implements an ambient F1 dashboard for the Quote/0 e-paper display, utilizing a native macOS application to synchronize real-time race data via the Dot API without a centralized server. By leveraging the Quote/0 Canvas API, the developer pushes structured layout definitions and data rather than static bitmaps, optimizing the 152x296 monochrome interface through strategic typography and information hierarchy. The system aggregates data from ESPN, Jolpica F1, and OpenF1 to power 11 specialized views, including localized schedules, driver standings, and live race results. Architecturally, the solution relies on local execution and unofficial endpoints, requiring the host Mac to remain active to maintain data freshness on the peripheral device.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Project Motivation:&lt;/strong&gt; The project aims to transform F1 race schedules and results into ambient information displayed on a dedicated e-paper device, reducing the need to check mobile apps.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Quote/0 Canvas Integration:&lt;/strong&gt; Leveraging the Quote/0 Canvas API, the developer pushes structured data and layout definitions to the e-paper display rather than simply sending pre-rendered static images.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dashboard Content Strategy:&lt;/strong&gt; The system features 11 specialized boards covering real-time race results, localized schedules, driver standings, and team-specific performance metrics.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;E-Paper UI Design:&lt;/strong&gt; Given the constraints of a 152x296 monochrome screen, the design prioritizes information hierarchy through typography, spacing, and data subtraction rather than visual complexity.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Data Sourcing Pipeline:&lt;/strong&gt; The application aggregates data from multiple sources including ESPN for live rankings, Jolpica F1 for driver mapping, and OpenF1 for race status updates.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;macOS Native Implementation:&lt;/strong&gt; Built as a native macOS application, the tool manages data fetching, layout rendering, and automated device synchronization via the Dot API without requiring a server.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Constraints:&lt;/strong&gt; The solution relies on local execution and unofficial API endpoints, requiring the host Mac to remain active and connected for real-time updates on the e-paper display.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
