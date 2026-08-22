@@ -4,8 +4,149 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-08-21T20:42:34.583Z</updated>
+  <updated>2026-08-22T20:33:30.063Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - August 22, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-08-22</id>
+    <updated>2026-08-22T20:33:30.063Z</updated>
+    <published>2026-08-22T20:33:30.063Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>7 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 22, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;256.43835616438355&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    64.1%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;234&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;131&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;33&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████████░░░░░░░░░░░ 64.1%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;7&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22729&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Eavesdropping on the mandolinists preparing for this evening’s performance.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录旁听曼陀林演奏者排练的简短随笔。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇简短的纪实随笔，记录了作者在2026年8月22日下午旁听曼陀林演奏者为当晚演出进行排练的场景。文中还附带了地理坐标、社交媒体链接以及与读者互动的反馈提示，整体风格简约、即时。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22728&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Acqui Terme&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文是包含发布时间、社交链接及互动提示的博客元数据。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一段简短的网页元数据或博客页脚内容，记录了2026年8月22日的发布时间、地点Acqui Terme及地理坐标，提供了Mastodon和Bluesky的社交链接，并包含一个邀请读者反馈互动链接的提示。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/08/22/mathematical-discourse/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Mathematical Discourse&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 新数学期刊《Mathematical Discourse》创刊并征集演讲视频。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《Mathematical Discourse》是一本全新的在线同行评审数学期刊，旨在通过发布高质量的数学研究演讲视频，促进将交流视为研究核心的学术文化。该期刊目前正为创刊号征集约1小时的纯数学领域学术报告视频，并公布了顶尖的编委名单。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113675&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 SSPAI&amp;#039;s &amp;quot;Echoes Remain&amp;quot; Michael Jackson tribute record exhibition runs in Guangzhou from August 21 to September 20, 2026.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;SSPAI is hosting &amp;quot;Echoes Remain,&amp;quot; a Michael Jackson tribute record exhibition, at its Guangzhou offline store and Heim Craft Beer Bar from August 21 to September 20, 2026. The month-long event showcases physical music formats spanning MJ&amp;#039;s 50-year career with detailed historical annotations, complemented by screenings of classic concert footage and documentaries. Serving as a collaborative community hub connecting tech and music enthusiasts, the venue also hosts interactive record exchanges, trivia challenges, and exclusive craft beer discounts for SSPAI and Prime members.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Event Overview:&lt;/strong&gt; SSPAI is hosting a Michael Jackson tribute record exhibition at its Guangzhou offline store to celebrate his 68th birthday.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Exhibition Schedule:&lt;/strong&gt; The exhibition runs from August 21 to September 20, 2026, at the SSPAI Guangzhou store and Heim Craft Beer Bar.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Physical Record Display:&lt;/strong&gt; The event showcases physical music formats spanning MJ&amp;#039;s 50-year career, featuring detailed annotations that explain the history behind each record.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Concert Video Screenings:&lt;/strong&gt; Visitors can watch classic Michael Jackson concert footage and documentaries, including the Dangerous Tour and &amp;#039;This Is It,&amp;#039; throughout the exhibition.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Interactive Fan Activities:&lt;/strong&gt; Attendees are encouraged to bring their own MJ records for playback and exchange, and they can participate in an online trivia challenge to win prizes.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Exclusive Member Benefits:&lt;/strong&gt; SSPAI members and Prime members can enjoy special discounts on craft beer at the venue during the event.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Venue Introduction:&lt;/strong&gt; The SSPAI Guangzhou offline store is a community space blending digital culture, music, and craft beer to connect tech and music enthusiasts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 木匣子 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blog.mutoo.im/2022/06/covid-experience/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;我的 Covid 经历&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A Melbourne family navigates the challenges of lockdowns, remote work, daycare decisions, and their eventual COVID-19 infection.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This personal account details a family&amp;#039;s experience navigating Melbourne&amp;#039;s strict 2020-2021 lockdowns while balancing the transition to remote work and toddler care. Following the city&amp;#039;s 2022 reopening, the parents faced the high-stakes decision of returning their unvaccinated child to daycare, managing health risks through routine rapid antigen testing. The narrative culminates with the family&amp;#039;s first direct encounter with COVID-19 infection, illustrating the practical challenges of maintaining operational and domestic continuity during the pandemic.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Early Pandemic Challenges&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The author describes living through Melbourne&amp;#039;s strict 2020-2021 lockdowns while transitioning to remote work and caring for a toddler. As the virus hit closer to home, the reality of the pandemic became undeniable.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Reopening and Childcare Decisions&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;As Melbourne reopened in early 2022 with high vaccination rates, the parents hesitantly decided to send their unvaccinated toddler back to childcare. They successfully navigated the routine using rapid antigen tests for minor symptoms.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;First Family Infection&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Following the&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blog.mutoo.im/2024/backup-with-maildir/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;以 Maildir 方式备份邮件&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The author built an AI-assisted local Maildir email backup system using Getmail6, NeoMutt, and custom deduplication scripts.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author implemented a local email backup system utilizing the lightweight Maildir directory structure to store emails retrieved via Getmail6 configured with POP3. To handle duplicate emails resulting from network timeouts during retrieval, a custom Bash script was generated by ChatGPT and manually reviewed for deduplication. For efficient local mail browsing and attachment extraction, the author deployed NeoMutt, a zero-configuration command-line mail reader. This implementation highlights a modern, AI-assisted workflow where ChatGPT accelerated tool selection, scripting, and configuration in an unfamiliar domain.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Shifts Paradigms:&lt;/strong&gt; The rise of AIGC in 2023 lowered learning barriers and reduced the author&amp;#039;s reliance on search engines, while also decreasing their desire to document thoughts.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Selecting MailDir Format:&lt;/strong&gt; Instead of searching Google, the author consulted ChatGPT to find a local email backup solution, choosing the simple and elegant MailDir directory structure.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Backing Up Emails:&lt;/strong&gt; Guided by ChatGPT, the author configured Getmail6 using a simple POP3 setup to safely download emails locally without modifying the mail server.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Deduplicating with Scripting:&lt;/strong&gt; To resolve duplicate emails caused by connection timeouts, the author used a ChatGPT-generated Bash script, which was successfully corrected after a manual code review.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Browsing with NeoMutt:&lt;/strong&gt; The author utilized NeoMutt, a zero-configuration command-line tool recommended by ChatGPT, to easily browse the backed-up MailDir emails and extract attachments.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Future of AIGC:&lt;/strong&gt; Reflecting on the experience, the author highlights how ChatGPT transformed their workflow in unfamiliar domains and looks forward to more powerful AI capabilities in 2024.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blog.mutoo.im/2023/07/trip-to-china/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;后疫情之中国行&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A developer&amp;#039;s trip to China reveals a striking contrast between declining rural traditions and rapid generative AI adoption.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This post-pandemic travelogue chronicles an Australian-based developer&amp;#039;s family trip to China, navigating emotional reunions, traditional rural customs, and the stressful realities of the local healthcare system during a pediatric emergency. Amidst these personal events, the author observes a striking technological phenomenon: the enthusiastic, widespread adoption of generative AI tools by diverse professionals and aging family members, despite strict regional access restrictions. Ultimately, the narrative juxtaposes the decline of historic Tulou villages with the rapid, resilient tech-adaptability of the local population before the family returns to the quiet routines of Melbourne.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Journey to Xiamen:&lt;/strong&gt; The family travels from Melbourne to Xiamen, navigating a long flight with their toddler and reuniting with grandparents after five years.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Family Loss and Funeral:&lt;/strong&gt; The author&amp;#039;s wife&amp;#039;s grandmother passes away, leading the family to attend a traditional rural funeral while navigating chaotic local traffic.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Visiting the Ancestral Home:&lt;/strong&gt; The family visits the author&amp;#039;s birthplace in a quiet, declining Tulou village, contrasting it with nearby commercialized tourist sites.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Medical Trials in China:&lt;/strong&gt; The author&amp;#039;s son suffers a head injury requiring stitches, followed by a Covid infection, exposing the family to stressful local healthcare practices.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Observations on Local AI:&lt;/strong&gt; Despite access restrictions, the author finds diverse professionals and his aging father actively embracing and adapting to generative AI tools.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Return to Melbourne:&lt;/strong&gt; After a chaotic but fulfilling month, the family returns home to the quiet routine of Melbourne, assisting a young student along the way.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - August 21, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2011,274 +2152,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Minimal Phone 2 全键盘手机开启众筹，由前代的墨水屏改为 OLED 面板，并搭载天玑 8300 处理器。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Google 增加了 Pixel 手机驱动程序的获取难度，改为人工审理模式，对第三方 ROM 开发造成阻碍。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯汇总了 TGA 2026 举办时间、Linux 版 ChatGPT 预览发布、DeepMind 领导层改组等多项动态。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - August 11, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-08-11</id>
-    <updated>2026-08-11T21:12:00.437Z</updated>
-    <published>2026-08-11T21:12:00.437Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>16 articles from 7 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 11, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;244.38356164383563&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    61.1%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;223&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;142&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;31&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████░░░░░░░░░░░░ 61.1%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;16&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://xkcd.com/3266/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;xkcd: Holes&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 xkcd漫画《Holes》页面的导航信息与极客风格说明。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文档是xkcd漫画网站第3266期《Holes》页面的元数据与页脚信息。内容涵盖了漫画导航、更新计划、推荐读物及版权许可。文风体现了Randall Munroe标志性的极客幽默，如故意给出荒谬的技术浏览建议。该页面不仅是漫画的展示窗口，也集成了丰富的外部科普资源与网络漫画社区链接，反映了其独特的学术性与讽刺并存的创作风格。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍xkcd是一个涵盖浪漫、讽刺、数学和语言的网络漫画网站，包含多个衍生板块。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明xkcd漫画的固定更新频率为每周一、周三和周五。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示了标题为“Holes”的漫画页面导航功能，包括前后翻页和随机跳转。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了当前漫画的永久访问链接及用于热链或嵌入的图片URL。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;列出了订阅方式及作者推荐的一系列其他知名网络漫画作品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了关于技术、政府建议和气候变化常见问题等其他相关资源链接。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;以典型的xkcd式幽默给出了一系列荒诞的网页浏览建议，如使用Netscape浏览器和开启“船只模式”。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明该作品采用知识共享署名-非商业性使用2.5许可协议，允许非商业用途的复制与分享。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Building Tactile UX: Honoring Intentional Design With Lottie&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Lottie’s API and state machines enable deterministic tactile UX through animator-defined motion rather than algorithmic physics engines.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;By prioritizing &amp;quot;intentional motion&amp;quot; over traditional physics engines, the architecture utilizes Lottie’s native API to ensure deterministic, animator-defined keyframe execution rather than algorithmic approximations. The system achieves tactile responsiveness through radial math and DOM-based coordinate mapping, allowing for precise hit detection and reaction intensity without the overhead of complex collision engines. Interaction logic is governed by a state machine that manages discrete frame ranges and input locking, ensuring seamless transitions between reactive sequences and idle loops while maintaining high-fidelity visual feedback.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Intentional vs. Plausible Motion:&lt;/strong&gt; The development team bypassed traditional physics engines like Matter.js in favor of &amp;#039;intentional motion,&amp;#039; ensuring that animator-crafted keyframes remained deterministic rather than algorithmically approximated.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Deterministic Frame Control:&lt;/strong&gt; By leveraging Lottie&amp;#039;s native API instead of WebGL, the architecture maintains absolute control over frame-by-frame sequencing, allowing for precise execution of complex, multi-frame animation builds.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Radial Input Mapping:&lt;/strong&gt; Tactile feedback is driven by radial math using the Pythagorean theorem to calculate the distance between click coordinates and the character&amp;#039;s center, which determines scoring and reaction intensity.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Spatial Feedback Synchronization:&lt;/strong&gt; The system uses DOM-based coordinate mapping to reposition secondary Lottie animations at the exact vector of interaction, creating a high-fidelity &amp;#039;hit&amp;#039; sensation without the need for complex collision detection.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Programmatic State Sequencing:&lt;/strong&gt; Animation segments are managed as discrete frame ranges, utilizing a state machine to cycle through reaction sequences and return to idle loops while preventing interaction overlaps through input locking.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/511&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 511: A love letter to Durable Objects&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Issue 511 highlights Ryan Dahl’s `celld`, Mojo 1.0, and the industry pivot toward robust, developer-centric AI infrastructure.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Ryan Dahl’s new project, **celld**, introduces a self-hosted alternative to Cloudflare’s Durable Objects by pairing worker processes with SQLite and leveraging WAL replication to S3/R2 for distributed fault tolerance. The backend-as-a-service (BaaS) landscape remains high-growth, highlighted by Convex’s $57M funding round aimed at enterprise-ready AI agent infrastructure. Technical updates include the 1.0 release of the hardware-optimized Mojo language, new mobile performance monitoring via Expo Observe, and a critical analysis of state-management pitfalls in &amp;quot;once&amp;quot; function wrappers. The issue also notes a broader industry retreat from no-code stacks in favor of more robust, developer-centric tooling and specialized CSS capabilities.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Understanding Durable Objects:&lt;/strong&gt; Ryan Dahl&amp;#039;s new open-source project, celld, provides a self-hosted implementation of Cloudflare&amp;#039;s Durable Objects, combining worker processes with SQLite for stateful compute.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Celld Technical Architecture:&lt;/strong&gt; The system achieves fault tolerance by hosting stateful &amp;#039;cells&amp;#039; on virtual machines and replicating write-ahead logs to external object storage like S3 or R2.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Convex Series B Funding:&lt;/strong&gt; Convex raised $57M to support its backend-as-a-service platform, emphasizing enterprise readiness and its suitability for building AI agents.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;JavaScript Closure Pitfalls:&lt;/strong&gt; A technical breakdown of a &amp;#039;once&amp;#039; function wrapper illustrates how premature state updates during error-prone executions can lead to silent failures in subsequent calls.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Modern Web Trends:&lt;/strong&gt; Recent industry shifts include the decline of &amp;#039;no-code&amp;#039; stacks, new CSS text-stroke capabilities, and specialized performance monitoring for mobile environments via Expo Observe.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Language Progress:&lt;/strong&gt; Developments in AI hardware-optimized software include the version 1.0 release of Mojo and research into which programming languages yield the best LLM performance.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;TDD inside the agent loop - theater or actual value?&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Direct code generation yields better architecture and tests for AI agents than iterative Test-Driven Development.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This study evaluates the efficacy of Test-Driven Development (TDD) within autonomous AI agent loops, concluding that non-TDD workflows consistently produce superior architectural designs and higher-quality test suites. The research highlights that while direct code generation benefits from holistic upfront planning, TDD-constrained agents often become trapped in &amp;quot;local minima,&amp;quot; failing to revisit suboptimal design decisions made during early iterations. The authors hypothesize that LLMs excel at direct requirement-to-code translation due to training data biases, whereas the iterative TDD process often results in tautological tests that merely validate implementation logic against itself.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Driven TDD Exploration:&lt;/strong&gt; The article investigates whether autonomous AI agents derive real value from following a strict Test-Driven Development workflow compared to traditional code generation.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Comparative Experimental Setup:&lt;/strong&gt; The author used Sonnet 4.6 to generate code and Opus 4.8 to blindly evaluate solutions across varying task complexities and workflow styles.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Counterintuitive Quality Findings:&lt;/strong&gt; Results indicated that non-TDD workflows frequently produced superior designs and test quality, with TDD-led solutions often ranking lower in blind comparisons.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Upfront vs. Emergent Design:&lt;/strong&gt; Non-TDD agents naturally favored holistic upfront architectural planning, whereas TDD agents often failed to revisit initial design decisions, leading to suboptimal local minima.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Training Data Disparity:&lt;/strong&gt; A key hypothesis suggests LLMs excel at direct requirement-to-code translation because their training data lacks sufficient step-by-step TDD process examples.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Persistent Tautology Risks:&lt;/strong&gt; Despite following a test-first approach, AI agents remained prone to creating tautological tests that verified implementation logic against itself rather than external requirements.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Edinburgh Fringe: Handel Nine German Arias ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者在边缘艺术节体验了一场专业且治愈的古典音乐演出。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在爱丁堡边缘艺术节（The Fringe）期间，选择跳出常规的喜剧表演，在教堂欣赏了一场包含大键琴、管风琴与弦乐伴奏的 Handel 音乐会。尽管作者自谦为外行，但对专业音乐家精湛的技艺深感愉悦。这场高水平的演出在忙碌的艺术节行程中为作者带来了宁静与治愈，是一次令人印象深刻的艺术探索。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Edinburgh Fringe: Hamlet The Musical ★★☆☆☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 哈姆雷特流行模仿剧因制作廉价且节奏松散而令人失望。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇评论分析了音乐剧 &amp;quot;Hamlet&amp;#039;s Mum Has Got It Going On&amp;quot;，该剧将《哈姆雷特》改编为一小时的流行模仿秀。作者认为虽然 KT Ihnatyszyn 的表演亮眼且歌词巧妙，但整体节奏松散，廉价的道具和粗糙的制作使其表现平平。作者最终给出两星评价，认为该剧若能进一步精简改进，或许能成为佳作。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/edinburgh-fringe-afronauts/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Edinburgh Fringe: Afronauts ★★★★☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 杂技马戏欢乐演绎赞比亚航天梦，展现 Afrofuturism 独特魅力。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这篇文章介绍了一场以 Afrofuturism 为主题的马戏表演，通过杂技艺术生动重现了 Zambia Space Academy 尝试登月的真实历史故事。作者赞赏了演出中精彩的人体金字塔与空中技巧，认为演员们以幽默活力的表演风格为传统杂技吸引了新观众。该剧目配乐欢快且寓意深刻，是一部适合全年龄段观看的四星佳作。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Edinburgh Fringe: Noted ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一部结合真人漫画与创意纸质设计的互动儿童剧评测。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一部充满创意且大胆的儿童节目，风格类似于真人版的 XKCD 漫画。演员们身着手绘肖像，融合了 Sesame Street 动画与复古 Flash 动作风格。其纸质服装设计的技术表现令人印象深刻，通过不断撕掉纸张层来展现新内容。尽管作者认为其作为早场节目表现尚可，但现场的孩子们反响极其热烈，最终获得了三星半的好评。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Gadget Review: Soundpeats POP Clip2 Earphones ★★★★⯪&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Soundpeats Clip2 provides high-fidelity open-ear audio and physical controls, marred by mandatory app-based EQ and missing sensors.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The Soundpeats Clip2 is an open-ear cuff headset designed for stability and long-term comfort, supporting high-fidelity LDAC and AAC codecs with robust Bluetooth connectivity across Android and Linux. To improve UX over the previous generation, the hardware integrates physical buttons alongside touch controls to prevent accidental triggers, though it regresses by removing wear-detection sensors and maintaining a complex multi-tap interface. A significant pain point for developers and privacy-conscious users is the mandatory PeatsAudio app, which requires an internet connection and login for local EQ adjustments, leading the reviewer to recommend a &amp;quot;setup then uninstall&amp;quot; approach. Ultimately, at the £48–£60 price point, it offers a high-value, non-intrusive audio solution for those prioritizing situational awareness over passive isolation.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cuff Design Ergonomics:&lt;/strong&gt; The Soundpeats Clip2 utilizes a non-intrusive cuff design that clips around the ear, providing exceptional long-term comfort and stability during physical activity. This open-ear approach allows for ambient sound awareness while remaining more comfortable than traditional bone-conducting headsets.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Improved Control Interface:&lt;/strong&gt; To address accidental triggers found in the previous model, the Clip2 integrates physical buttons alongside touch controls for playback and volume management. While the multi-tap sequences remain somewhat complex, the physical feedback significantly improves the user experience.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Audio and Connectivity:&lt;/strong&gt; The device supports high-fidelity codecs like LDAC and AAC, delivering excellent sound quality across Android and Linux platforms. Bluetooth range is robust, allowing for consistent connectivity throughout a standard home environment.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Software and Firmware:&lt;/strong&gt; The mandatory PeatsAudio app is criticized for requiring a login and active internet connection to adjust local EQ settings or update firmware. The reviewer recommends performing an initial setup and then uninstalling the software due to its poor UX design.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware Limitations:&lt;/strong&gt; The Clip2 lacks the wear-detection sensors found in the Clip1, meaning audio no longer automatically pauses when the units are removed. Furthermore, the new units are incompatible with the original charging case and include unnecessary USB-A to C cables.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Market Value Proposition:&lt;/strong&gt; Priced competitively around £48-£60, the Clip2 is positioned as a high-value alternative for users who dislike the pressure of in-ear buds. It offers a balanced mix of audio quality and situational awareness for long-duration wearers.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/08/11/valley-fold-logo-brand-design/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Valley Fold Ltd&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Valley Fold Ltd rebrands a veteran developer’s practice, pairing origami-inspired design with meticulous, human-centric web implementation.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Valley Fold Ltd is the newly unveiled professional services brand for an established developer, marking a formal rebrand of a twenty-year career focused on functional, human-centric web development. The identity draws inspiration from origami techniques and features a custom, grid-aligned logotype with specific geometric modifications to ensure visual rhythm and consistency. From a technical standpoint, the author emphasizes a meticulous approach to implementation, specifically focusing on pixel-perfect alignment and anti-aliasing optimization for small-scale web assets. A soft launch is scheduled for early September, prioritizing active client work while the brand’s digital presence undergoes further iterative refinement.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Company Brand Reveal:&lt;/strong&gt; The author officially introduces Valley Fold Ltd as the new home for their professional services, unveiling the company name and logo.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Origami Inspired Identity:&lt;/strong&gt; The name Valley Fold stems from an origami technique, reflecting a personal aesthetic that has influenced the author&amp;#039;s work since college.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Logo Development:&lt;/strong&gt; The brand identity features a custom grid-aligned logotype with specific geometric modifications to characters like &amp;#039;V&amp;#039;, &amp;#039;Y&amp;#039;, and &amp;#039;L&amp;#039; for visual consistency.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Precision Web Implementation:&lt;/strong&gt; Meticulous attention was paid to pixel alignment and anti-aliasing for the logo&amp;#039;s web button implementation, ensuring clarity at small scales.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Iterative Launch Strategy:&lt;/strong&gt; The author plans a soft launch in early September, prioritizing client work while acknowledging that the website will evolve through future iterations.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Professional Service Continuity:&lt;/strong&gt; Valley Fold represents a rebranding of existing services, maintaining the author&amp;#039;s two-decade commitment to building functional websites for real people.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-08-11T05:54Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-08-11T05:54Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WordPress 的 CSS 策略混乱，作者建议考虑替代方案。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文严厉批评了 WordPress 在 Gutenberg 时代混乱的 CSS 管理策略。作者指出，由于官方无视样式污染问题，开发者不得不通过禁用块编辑器或采用替代方案来维持主题的可维护性。文章风格直率且具有批判性，作者根据其实践经验，最终建议用户根据项目需求考虑静态网站或 headless CMS 等更高效的替代方案。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;WordPress 虽然以向后兼容著称，但在 CSS 策略上表现糟糕，Gutenberg 编辑器引入了难以管理的样式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者多年来一直批评 WordPress 破坏了 CSS 且主题开发变得异常艰难，但反馈的问题始终未得到解决。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前构建定制 WordPress 主题唯一可行的方法是彻底禁用块编辑器，转而采用类似 ACF Flexible Content 的模块化方案。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;虽然可以尝试使用级联层等技术手段来控制样式污染，但由于 WordPress 变化太快，维护成本极高。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者建议客户重新评估 WordPress 的投资价值，对于更新不频繁的网站，建议使用静态网站或 headless CMS。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113304&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派社区速递：派友聊吃灰工作流与复古美学好物分享。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为少数派 Matrix 社区速递，汇总了派友关于“吃灰工作流”的深度讨论，涵盖笔记软件折腾与效率反思。文章还精选了社区优秀博文，并详细评测了两款“新玩意”：一款营造复古未来主义氛围的太空美学落地灯，以及一款实用的 Herschel 帆布硬币钱包。内容兼具实用经验与生活美学，展现了社区活跃的创作与分享氛围。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派 Matrix 社区重启周报栏目，旨在曝光更多优秀内容，涵盖社区讨论、作者投稿及新玩意分享。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;派友们分享了各自“吃灰”的工作流，涉及 AI 辅助、个人博客搭建、笔记系统（如 Obsidian、Notion）的折腾与反思。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;预告下期讨论话题为手机 AI 通话功能的使用情况。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;汇总了一周热评，讨论了酒店评级乱象、AI 广告投毒、浏览器内核更新及跑步心得等话题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;社区摘要部分推荐了关于旧 CPU 利用、Mac 应用开发、理财计算器及游戏记录 App 等多篇优质文章。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者 Cleo阿直分享了一款具有太空美学风格的复古落地灯，通过柔和暖光成功改造了家居氛围。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者 Tp 介绍了 Herschel Roy Wallet Coin 钱包，其独立的硬币收纳功能解决了旅行中零钱翻找的痛点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;结尾提供了“新玩意”栏目的投稿渠道与奖励说明，鼓励读者参与创作分享。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112887&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派发布免费《鸿蒙应用上架指南》，助力开发者高效上架。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了少数派发布的《鸿蒙应用上架指南》。针对 HarmonyOS NEXT 生态中复杂的证书签名、资质备案及隐私合规等上架难题，该指南通过五个专业章节提供从设计规范到 AI 辅助开发的完整实操路径。其内容注重实战性，将官方规则转化为可执行步骤，旨在帮助独立开发者和跨平台团队快速掌握鸿蒙特有规则，降低适配成本，助力应用顺利通过 App Gallery Connect 审核并成功发布。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;随着 HarmonyOS NEXT 生态的成熟，开发者虽能轻松编写代码，但在应用上架时面临证书签名、合规备案等全新挑战。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派编辑部结合一线开发者经验策划了《鸿蒙应用上架指南》，旨在为开发者提供一套连续且可执行的实操流程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;该指南将复杂的官方规则转化为易于理解的步骤，利用开发者熟悉的既有概念作为桥梁，帮助其理清上架脉络。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;指南分为五大部分，系统涵盖了设计规范、签名打包、资质备案、审核发布以及利用 AI 助力开发的全流程指导。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;此免费教程适用于鸿蒙开发新手及有其他平台经验的开发者，旨在降低迁移成本并期待更多优秀作品出现在鸿蒙市场。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113288&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Quote/0 墨水屏开放 AI 自定义功能并探索双机互动新场景。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了墨水屏设备 Quote/0 的功能演进与未来规划。产品从静默的信息展示板，逐步开放了 API 与 Dot Skill AI 功能，允许用户通过自然语言或编程自定义屏幕内容。文章重点探讨了“双人套装”在共享任务与情感连接中的新用法，并诚邀用户参与问卷调查以优化产品及共创下一代硬件。全文体现了作者通过技术赋能用户，让屏幕回归个人掌控的理念。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Quote/0 是一款旨在提供安静、低打扰信息展示的墨水屏设备，已在多种场景中得到应用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;用户现在可以通过 APP、NFC 和开放 API 自主编排和投送文本、图像及 RSS 等多样化内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;借助 Dot Skill，用户能通过自然语言命令 AI 生成并排版适合墨水屏显示的各种信息卡片。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发者认为将内容控制权交给用户，比增加固定卡片更能体现 Quote/0 的核心价值。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;探索两块屏幕的协作可能，如在两个用户间共享待办事项或互相投送图片。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;双人套装可用于区分办公与生活场景，或作为伴侣间非即时、低压力的互动工具。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;双人模式让 Quote/0 从个人的信息入口转变为两人之间全新的信息流动方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;团队反思了产品在配网和内容更新等方面的不足，强调摘录功能融入日常的重要性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;发起用户体验问卷调查，收集反馈以改进现有服务并指导下一代产品的设计与验证。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;参与问卷有机会获得奖励，且官方将于 8 月 13 日进行直播分享开发者玩法及优惠。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113263&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Ovid 是一款支持段落切换、由 LLM 驱动的拟真双语阅读器。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了一款名为 Ovid 的创新双语阅读器。作者针对传统双语排版易导致阅读失焦的痛点，开发了这款支持段落级中英切换的应用。Ovid 采用 LLM 技术确保翻译的上下文一致性，界面借鉴 Apple 图书的沉浸式设计，并提供拟真书架与自动封面生成功能。该工具旨在优化外文阅读流程，提升理解效率，目前已在 GitHub 开源并提供试用额度。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了名为 Ovid 的双语阅读器，其名称灵感源自变色油墨，旨在提供多视角的阅读体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发动机源于对传统双语书籍排版的不满，作者希望解决阅读原版书时容易分心的问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过分析个人阅读习惯，强调了在原文与译文之间快速切换对于提升阅读效率的重要性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Ovid 允许用户点击段落切换双语，界面设计参考 Apple 图书，追求优雅、简洁且沉浸的体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;应用利用 LLM 进行翻译，并优化了上下文衔接以及人名、地名的一致性处理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Ovid 配备拟真书架，能为上传的 epub 文件自动生成书籍封面与侧面图，支持个性化整理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前应用支持 Google 登录并提供免费额度，同时在 GitHub 开源并设有公共书架供体验。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113301&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Meta发布端侧模型，阿里千问平台上线，及多项科技行业动态。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期早报汇总了科技领域的关键动态。Meta发布了专为端侧设计的开源大模型Muse Glimmer，阿里千问开放平台上线以构建AI智能体生态。同时，文章预警了新型「Sorry」勒索病毒，报道了拜雅新品耳机发布及零一万物业务转型。简讯部分涉及索尼、OpenAI、微软等巨头的最新投资与产品进展。全文资讯丰富，客观呈现了AI技术落地、网络安全及硬件市场的最新趋势。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Meta开源了拥有300亿参数的Muse Glimmer模型，专为端侧智能体设计，支持本地部署且推理速度显著提升。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阿里千问开放平台正式上线，支持多种终端接入并允许第三方创建AI智能体，覆盖物流、理财等多个领域。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;国家计算机病毒应急处理中心发布「Sorry」勒索病毒预警，该病毒针对Linux服务器且目前尚无可靠恢复方法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;拜雅推出定价1199元的DT 275 PRO监听耳机，采用轻量化设计与封闭式声学架构，主打均衡音质。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;零一万物宣布调整业务重心至企业级解决方案，将逐步停止面向个人用户的模型体验及API调用服务。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯涵盖了索尼与台积电合资建厂、115网盘暂停API服务、OpenAI收购NextSlide以及微软AI芯片计划等多条行业动态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派公布了新一季会员权益及摘录墨水屏活动，并推荐了Pixel系列手机评价和跑步姿势调整等近期文章。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
