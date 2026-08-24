@@ -4,8 +4,265 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-08-23T20:21:55.511Z</updated>
+  <updated>2026-08-24T21:13:42.145Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - August 24, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-08-24</id>
+    <updated>2026-08-24T21:13:42.145Z</updated>
+    <published>2026-08-24T21:13:42.145Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>15 articles from 9 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 24, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;258.63013698630135&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    64.7%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;236&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;129&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;33&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████████░░░░░░░░░░░ 64.7%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;15&lt;/strong&gt; articles from &lt;strong&gt;9&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22731&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;People of Brighton (and beyond)—come to the Prince Albert on Saturday, September 5th to see the most excellent Salter Cane in action! Tickets will be £10 on the door, but they’re £8 in advance: https://saltercane.com/tickets&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Salter Cane乐队将于9月5日在Brighton举办演出。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一则音乐演出宣传，邀请Brighton及周边观众于2026年9月5日前往Prince Albert观看Salter Cane乐队的演出。现场购票需10英镑，预售票为8英镑。文中还附带了购票链接及社交媒体互动信息。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22730&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reading What We Can Know by Ian McEwan.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录了在伦敦阅读Ian McEwan作品的简短随笔。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者在2026年8月24日早上7点16分于北纬51度、西经0度（伦敦附近）记录的一篇简短随笔，提到其正在阅读Ian McEwan的作品《What We Can Know》，并分享了Bookshop和Open Library等链接，最后邀请读者分享相关回应。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-318/viewer?title_no=853933&amp;episode_no=333&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 318&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画《DOGHAUS》第318话的章节目录与互动页面。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文展示了网络漫画平台 WEBTOON CANVAS 上由 Moowsie 创作的漫画《DOGHAUS》（第318话）的页面信息。内容主要包含该漫画从第1话到第318话的完整章节目录，记录了 Kickstarter 众筹及图书发布等活动，并提供了订阅、分享和恐怖类漫画推荐等互动板块。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/go-to-court-two/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;上庭（二）&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 An insurance lawyer initiates out-of-court settlement negotiations with plaintiff J to resolve a pending small claims lawsuit.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;In this segment of the litigation narrative, the plaintiff (J) receives an unexpected phone call from legal counsel representing the defendant&amp;#039;s insurance provider regarding a pending small claims lawsuit. Although attorneys are legally barred from representing clients directly during small claims court proceedings, the lawyer leverages this outreach to initiate out-of-court settlement negotiations. This strategic communication shifts the dispute resolution process from a formal judicial hearing toward a direct, negotiated compromise between the parties.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Unexpected Call&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;J receives an unexpected phone call from a lawyer representing the defendant&amp;#039;s insurance company regarding his pending small claims lawsuit.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Settlement Proposal&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The lawyer clarifies that although attorneys are barred from small claims court&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Mozilla Hacks – the Web developer blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Intent to Ship: JPEG XL&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Firefox is implementing a secure Rust-based JPEG XL decoder, offering superior lossless compression and progressive rendering.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;As cross-browser adoption grows for next-generation image formats, Firefox is implementing a highly secure, Rust-based JPEG XL decoder developed in collaboration with Google to mitigate traditional C++ security vulnerabilities. While AVIF offers superior compression for standard lossy web photography, JPEG XL significantly outperforms both AVIF and WebP in lossless scenarios, progressive rendering, and the seamless re-compression of legacy JPEGs. Ultimately, developers should benchmark both formats against their specific image suites to optimize the balance between payload size, rendering performance, and visual quality.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Modern Image Formats:&lt;/strong&gt; The 2020s have introduced AVIF and JPEG XL, two major advancements in web image formats that are rapidly gaining cross-browser support.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Secure Rust Decoder:&lt;/strong&gt; To mitigate the security risks of a massive C++ codebase, Firefox challenged Google to build a safe and performant JPEG XL decoder using Rust.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Progressive Rendering Benefits:&lt;/strong&gt; Firefox&amp;#039;s implementation prioritizes progressive rendering, enabling images to display recognizable previews to users while they are still downloading.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AVIF Versus JPEG XL:&lt;/strong&gt; While AVIF excels at web-quality photographic images, JPEG XL is superior for lossless imagery, progressive rendering, and re-compressing existing JPEGs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Compression Performance Metrics:&lt;/strong&gt; Testing shows AVIF produces smaller files at standard web qualities, but JPEG XL significantly outperforms both AVIF and WebP in lossless scenarios.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optimization Recommendations:&lt;/strong&gt; Developers are advised to test both formats using their own representative image sets to find the optimal balance of quality and file size.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Why do audience members choose specific shows at the Edinburgh Fringe?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Edinburgh Fringe audiences choose shows based on venue proximity, word-of-mouth, and high-quality personal marketing.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Edinburgh Fringe performers face a critical marketing attribution deficit, spending heavily on promotional activities without tracking the conversion metrics of their campaigns. Instead, audience acquisition is heavily driven by physical proximity and venue optimization, with attendees selecting shows based on geographical convenience and clustering near major hubs. Organic network effects—such as direct word-of-mouth recommendations and personal connections—also account for a significant portion of ticket sales. Ultimately, high-signal marketing channels like professional poster design and direct, personal pitches yield far better results than low-effort flyering or low-quality promotional shortcuts.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;The Data Deficit&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Despite spending thousands of pounds on promotional activities, Edinburgh Fringe performers fail to track how audiences actually find their shows. This lack of data makes it impossible to know which marketing efforts are actually driving ticket sales.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Power of Proximity&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Physical location and venue proximity are major drivers for audience attendance, with many choosing shows simply because they are nearby or close to other booked events. Performers can benefit greatly by securing venues near larger, more established acts.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Word of Mouth&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Personal connections and social obligations play a massive role in filling seats, as a quarter of the author&amp;#039;s shows were selected because of friends or direct recommendations. Traditional word-of-mouth remains a highly effective, albeit cliché, method of driving attendance.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Marketing and Design&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;While generic flyer distribution is largely ineffective, personal pitches from the performers themselves and high-quality, professional poster designs successfully capture audience attention. Conversely, lazy promotional tactics like AI-generated art can&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Technium &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kk.org/thetechnium/a-billion-dollars/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A Billion Dollars&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Achieving ambitious goals requires discipline, ingenuity, and low-cost validation rather than massive financial capital.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article argues that financial capital is rarely the primary bottleneck to achieving ambitious goals, as the true obstacles are typically a lack of discipline, confidence, and courage. Operating under tight resource constraints actually fosters ingenuity, making it highly effective to validate a vision through low-cost, scaled-down prototypes before committing significant capital. Ultimately, leveraging modern technology to lower entry barriers and prioritizing deep social connections over financial accumulation provides a more sustainable and accessible path to success.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Billion-Dollar Illusion:&lt;/strong&gt; A thought experiment reveals that most people&amp;#039;s ultimate life goals require far less money than they assume. Often, the dreams we delay for financial reasons can actually be achieved with very modest, immediate resources.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Real Bottlenecks:&lt;/strong&gt; Capital is rarely the actual blocker to achieving your goals; instead, the true obstacles are a lack of discipline, confidence, and courage. Money acts as fuel for the journey, but it cannot substitute for the personal drive needed to start.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Embracing Creative Constraints:&lt;/strong&gt; Starting small and operating with limited budgets forces startups and individuals to use ingenuity rather than capital to solve problems. True breakthroughs are born from the necessity of having to think outside the box when money is scarce.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Prototyping Your Dreams:&lt;/strong&gt; Testing a scaled-down, low-cost version of your vision helps uncover actual bottlenecks and refine your goals before making major commitments. This practical step prevents financial waste and reveals the true resources required for success.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Relationships Beat Capital:&lt;/strong&gt; Investing in social connections is far more valuable than accumulating financial capital, as the most meaningful achievements cannot be bought. Cultivating direct relationships with a small, dedicated audience is enough to sustain a viable creative career.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Lowering Modern Barriers:&lt;/strong&gt; Modern technology has dramatically lowered the entry barrier and minimum capital required to create, publish, or manufacture. For highly capital-intensive projects, leveraging relationships to secure external funding is far more effective than trying to self-fund.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202608/85265&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『チェイサーゲーム』シーズン2 第72話 運命の引力（7）公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《Chaser Game》更新及松山洋游戏求职新书发售。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文报道了漫画《Chaser Game》第二季第72话的最新剧情进展与更新计划，并重点推介了原作者松山洋为纪念CyberConnect2成立30周年而创作的新书《游戏行业的攻略法》。该书旨在为游戏行业求职者提供实用的行业指南、面试实态及优秀作品集参考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;《Chaser Game》第二季第72话更新，讲述陈麦克因项目交接给林冬雨而选择退出，西川社长则前往了新的目的地。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑评语表示一连串事件似乎在名为Darshe的男子掌控中收尾，并预告下一话将于9月7日更新。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;CyberConnect2社长松山洋为纪念公司成立30周年，专门为游戏行业求职者出版了新书《游戏行业的攻略法》。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该书深入探讨了游戏创作者的心路历程，并收录了面试实态及实际合格者的作品集，是求职者的推荐读物。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113795&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Open-source downloader Motrix 2.0 features a decoupled architecture for headless deployment, a redesigned UI, and breakpoint resumption.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Following a three-year hiatus, the open-source downloader Motrix has released version 2.0, featuring a complete architectural refactoring that decouples the download core from the frontend user interface. This new decoupled design enables headless server deployments, allowing developers to run the core engine independently on remote or headless environments. Additionally, the release introduces a fully redesigned UI and robust support for breakpoint resumption to ensure reliable, high-performance file transfers.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Motrix 2.0 下载器&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;停更三年的开源下载器 Motrix 迎来 2.0 重构更新，采用全新架构实现下载核心与界面的分离。它不仅重塑了 UI，还支持断点续传和 Headless 服务器部署。&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/create-your-own-windows-apps&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Windows On ARM 原生应用少？你可以试试这些改造方法&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Package web apps into native Windows on ARM clients using Pake to bypass inefficient software emulation.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To overcome the performance and power inefficiencies of running emulated x86/x64 applications on Windows on ARM (WoA), executing applications natively remains the optimal approach. A highly effective workaround for the current shortage of native WoA software is packaging frequently used single-page web applications (SPAs) into dedicated, lightweight desktop clients. By utilizing Pake, an open-source tool, developers can locally compile these web services into native binaries, drastically reducing memory and CPU overhead compared to heavy emulation or traditional Electron-based frameworks.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Windows on ARM 虽能通过仿真转译运行传统应用，但原生运行仍是降低功耗和提升性能的最佳选择。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;将高频使用的单页 Web 端服务封装为独立的桌面应用，能有效减少资源占用并提升多任务处理体验。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Pake 本地编译&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;借助开源工具 Pake，用户可以在本地将&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113563&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 An ESP32-S3 retrofits a standard standing desk into a smart IoT device via I2C protocol reverse-engineering.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This project details upgrading a standard dual-motor standing desk into an IoT-enabled smart gateway using an ESP32-S3 to support web, voice, and physical dial controls. By reverse-engineering the desk&amp;#039;s proprietary I²C protocol on the TM1650 display controller via a logic analyzer, the author successfully mapped keycodes and segment-display height data. The ESP32-S3 mimics the original panel as an I²C slave to inject movement commands, a setup stabilized by adding external 2 kΩ pull-up resistors to resolve signal degradation on the communication bus. Finally, a dual-port RJ45 module and software-simulated I²C were implemented to allow the ESP32-S3 to intercept commands while keeping the original physical control panel fully operational.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Project Background:&lt;/strong&gt; The author aims to upgrade a standard dual-motor standing desk into a smart desk to improve ergonomics and usability. Leveraging AI assistance, the project transitions from a simple hardware modification idea to a fully realized smart gateway.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Goals and Architecture:&lt;/strong&gt; The primary objective is to enable multi-terminal control—including web, voice, and physical dials—while introducing safety features like a child lock. The architecture uses an ESP32-S3 as a central hub that translates user commands into the desk&amp;#039;s native protocol.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Protocol Reverse Engineering:&lt;/strong&gt; By analyzing the original panel&amp;#039;s TM1650 chip and using a logic analyzer, the author mapped the proprietary I²C communication. This process successfully identified the master-slave relationship, specific button keycodes, and segment-display height data structures.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;ESP32-S3 Control Emulation:&lt;/strong&gt; The ESP32-S3 was configured as an I²C slave to mimic the original control panel&amp;#039;s responses to the desk&amp;#039;s control box. This setup allows the microcontroller to inject movement commands directly into the communication bus.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Resolving Hardware Issues:&lt;/strong&gt; Initial testing failed because removing the original panel disconnected the bus&amp;#039;s pull-up resistors, leaving the I²C signals unstable. Adding external 2 kΩ pull-up resistors to the CLK and DAT lines successfully restored stable communication.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dual-Port Panel Integration:&lt;/strong&gt; A dual-port RJ45 module was implemented to keep the original physical panel functional alongside the smart features. The ESP32-S3 acts as a slave to the main control box while using software-simulated I²C to read inputs from the original panel.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112983&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Achieve per-app volume control on iOS by using Shortcuts to automatically cache and restore system volume levels.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To address the lack of native per-app volume control in iOS, developers can leverage iOS Shortcuts to automate volume adjustments triggered by application launch and termination events. By utilizing automation triggers paired with the native storage capabilities in Shortcuts, the system can dynamically persist and restore the global volume state. Specifically, the workflow caches the user&amp;#039;s original volume level upon opening a target app, applies a quieter preset, and restores the cached volume once the application is closed. This event-driven workaround effectively mimics granular, application-level audio management on iOS without requiring system jailbreaking or third-party background daemons.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Background and Demand&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;iOS lacks native per-app volume control, creating a need for automated workarounds. Using iOS Shortcuts, users can automatically adjust volumes when opening or closing specific applications.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;iOS 27 Storage&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;iOS 27 introduces a native storage feature in Shortcuts for&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 木匣子 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blog.mutoo.im/2024/backup-with-maildir/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;以 Maildir 方式备份邮件&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The author built a local Maildir email archive using Getmail6 and NeoMutt, streamlined by LLM-assisted scripting.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Prompted by a year-end digital cleanup, the author implemented a local, file-based email archiving system using the highly simple `Maildir` format (structured into `cur`, `new`, and `tmp` subdirectories). The retrieval pipeline leverages `Getmail6` via POP3 to safely fetch emails without deleting them from the server, relying on built-in ID tracking to prevent duplicate downloads. To resolve duplicate files caused by connection timeouts, the author debugged and executed an LLM-generated Shell script, ultimately utilizing `NeoMutt` as a zero-configuration CLI client for reading the Maildir archive and exporting attachments. This implementation highlights how generative AI can significantly accelerate developer workflows in unfamiliar domains by instantly bootstrapping configurations, scripting solutions, and tool selection.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Impact of AIGC:&lt;/strong&gt; The rise of generative AI in 2023 lowered learning thresholds but reduced the author&amp;#039;s desire to write. This shift prompted a year-end digital cleanup and backup of old accounts instead of a traditional annual summary.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Selecting MailDir Format:&lt;/strong&gt; The author consulted ChatGPT for email backup formats and selected MailDir due to its extreme simplicity. MailDir requires only a single directory containing three specific subdirectories: cur, new, and tmp.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Configuring Getmail6 Backup:&lt;/strong&gt; ChatGPT recommended Getmail6 and provided a POP3 configuration to safely backup emails without deleting them from the server. The tool tracks downloaded email IDs to prevent duplicates under normal conditions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Handling Duplicate Emails:&lt;/strong&gt; To resolve duplicate downloads caused by connection timeouts, the author used a ChatGPT-generated Shell script. The author had to correct an initial logic error in the script to prevent it from deleting all copies of the duplicates.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Viewing with NeoMutt:&lt;/strong&gt; For browsing the backed-up local emails, the author adopted NeoMutt, a command-line tool suggested by ChatGPT. NeoMutt allows zero-configuration reading of MailDir folders and easily exports email attachments.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Workflow Transformation:&lt;/strong&gt; ChatGPT dramatically altered the author&amp;#039;s workflow by providing instant solutions in unfamiliar technical domains. The experiment highlights the power of AIGC tools, paving the way for further adoption in 2024.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blog.mutoo.im/2023/07/trip-to-china/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;后疫情之中国行&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A post-pandemic trip to China combines emotional family reunions and medical emergencies with insights into its rapid technological evolution.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Following a post-pandemic return from Melbourne to Xiamen, the author&amp;#039;s family experienced a poignant reunion marked by a traditional rural funeral and a reflective visit to their ancestral Tulou village. The trip&amp;#039;s itinerary was subsequently disrupted by a series of pediatric medical emergencies—including a head injury and a COVID-19 infection—forcing a split in travel plans that ultimately fostered deep bonding between their son and his paternal grandparents. Amidst these personal events, the author observed rapid local AI adoption among professionals and engaged in pragmatic discussions regarding cross-strait geopolitical tensions. The journey concluded with a weary but emotionally fulfilling return to Melbourne, highlighting a profound reconnection with family roots and the shifting socio-technological landscape of modern China.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Journey to China:&lt;/strong&gt; After the pandemic, the author&amp;#039;s family travels from Melbourne to Xiamen for a long-awaited family reunion. Despite a long flight and minor customs delays, they safely arrive and reunite with the grandparents.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Loss and Farewell:&lt;/strong&gt; Shortly after arriving, the family receives news of the grandmother&amp;#039;s passing and travels to her rural funeral. The author navigates chaotic local traffic and witnesses traditional mourning rituals.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Nostalgic Village Visit:&lt;/strong&gt; The family visits the author&amp;#039;s ancestral Tulou village, noting the contrast between the quiet, aging birthplace and nearby commercialized tourist spots. Xizai happily explores the historic structures where his father once played.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pediatric Medical Ordeals:&lt;/strong&gt; A series of health crises strike when Xizai suffers a head injury requiring stitches, followed by a painful mouth ulcer and a COVID-19 infection. The family navigates stressful, crowded hospital visits and frustrating local clinic care.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Disrupted Travel Plans:&lt;/strong&gt; The medical emergencies force the family to cancel their joint travel plans, leading the author&amp;#039;s wife to visit her parents alone while the author stays behind. This unexpected turn grants Xizai valuable bonding time with his paternal grandparents.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Observations on Society:&lt;/strong&gt; The author discusses the rapid adoption of AI tools among local professionals and shares diverse perspectives on potential cross-strait political tensions. These conversations reveal a mix of optimism among the youth and pragmatism among the older generation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Return to Melbourne:&lt;/strong&gt; The family concludes their eventful trip and flies back to a rainy, quiet Melbourne, helping a young solo student navigate the airport along the way. They return home tired but deeply satisfied with their emotional journey.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blog.mutoo.im/2022/06/covid-experience/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;我的 Covid 经历&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A Melbourne family navigates pandemic lockdowns, remote work, and isolation logistics after the wife contracts COVID-19.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This narrative outlines a family&amp;#039;s progression through Melbourne&amp;#039;s strict pandemic lockdowns, balancing remote work with toddler care before transitioning back to childcare as restrictions eased. Following a post-lockdown social outing, the author&amp;#039;s wife contracted COVID-19, initiating a shift to active infection and isolation management. The author successfully navigated local health guidelines, managing household logistics and the complex challenge of isolating an infected parent from a young child.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Early Lockdown Life&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The author describes navigating strict lockdowns and remote work in Melbourne with a toddler, initially feeling detached from the virus until close contacts began catching it.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Return to Childcare&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;As Melbourne began reopening with high vaccination rates, the family cautiously decided to send their child back to childcare despite high daily case numbers.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Easing of Restrictions&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;After mask mandates were lifted, the family enjoyed social outings again, which eventually led to a close-contact exposure during a trip to Lego World.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;The First Infection&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The author&amp;#039;s wife tested positive for COVID-19 after the outing, while the author remained negative and managed childcare logistics based on government guidelines.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Care and Isolation&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The wife experienced mild symptoms and recovered quickly at home, though isolating from their young child proved to be a significant challenge.&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - August 23, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1859,226 +2116,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;展示该新方法如何完美解决小数精度不准和超大整数计算的问题。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论浏览器兼容性，并提供兼容旧环境的 Polyfill 实现代码及测试用例。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;文章结语，提醒读者关注原创出处并祝愿周末愉快。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - August 13, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-08-13</id>
-    <updated>2026-08-13T21:05:02.166Z</updated>
-    <published>2026-08-13T21:05:02.166Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>11 articles from 5 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 13, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;246.57534246575344&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    61.6%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;225&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;140&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;32&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████░░░░░░░░░░░░ 61.6%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://spectrum.ieee.org/colossus-computer-ieee-milestone&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Computer That Helped Win World War II - IEEE Spectrum&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Colossus：二战中破解德国加密通信的首台电子计算机。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了二战期间在布莱切利园（Bletchley Park）发挥关键作用的 Colossus 计算机。作为世界上第一台大型可编程电子数字计算机，它成功破解了德国的加密通信。作者 B. Jack Copeland 通过回顾操作员的工作场景，展现了这一计算机科学史上的重大技术突破对赢得战争的决定性贡献。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;概述 Colossus 计算机在二战中通过破解德国加密通信所发挥的关键作用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍作者 B. Jack Copeland 作为新西兰坎特伯雷大学哲学教授的学术背景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;描述了操作员在布莱切利园使用 Colossus 这一首台大型可编程电子数字计算机的历史场景。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://ohhelloana.blog/mkdn/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Oh Hello Ana - Towards a personal online third-space&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Reclaim the digital &amp;quot;third space&amp;quot; through personal websites that prioritize creative self-expression over technical over-engineering.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author advocates for reclaiming the &amp;quot;third space&amp;quot; online by shifting from corporate-owned, algorithmic silos toward personal websites that prioritize data sovereignty and user agency. While the IndieWeb movement provides a framework for decentralized content ownership, the author cautions senior developers against the technical burnout caused by over-engineering these platforms with complex protocols and rigid APIs. Ultimately, the piece argues for a sustainable architectural approach that favors creative self-expression and community building over the pursuit of technical perfection.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Digital Third Spaces:&lt;/strong&gt; The author adapts the sociological concept of a &amp;quot;third space&amp;quot; to describe personal websites as social environments distinct from both home and the corporate workplace. These spaces prioritize community, interaction, and a sense of belonging outside of traditional social media silos.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Corporate Web Critique:&lt;/strong&gt; Modern online presence is largely confined to corporate-owned &amp;quot;walled gardens&amp;quot; that offer users no transparency, data ownership, or privacy. These platforms act as internet landlords, trapping users in addictive cycles of notifications and algorithmic feeds.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;IndieWeb Philosophy:&lt;/strong&gt; The IndieWeb movement advocates for personal content ownership by hosting articles, status updates, and interactions on one&amp;#039;s own domain before sharing them elsewhere. This approach ensures a permanent record of digital life that remains accessible even if third-party platforms disappear.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Over-engineering Trap:&lt;/strong&gt; The author reflects on the technical burnout caused by trying to implement every available IndieWeb protocol and API. This pursuit of &amp;quot;IndieWeb perfection&amp;quot; turned personal blogging into a chore and created unnecessary pressure to maintain a complex social architecture.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Embracing Imperfect Websites:&lt;/strong&gt; A personal website serves best as a safe space for creativity and self-expression when it moves away from over-engineered requirements. The focus shifts from technical rigidness to building a sustainable, personal environment for sharing and community building.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/against-doomerism/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Against Doomerism – Terence Eden’s Blog&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 请求正在验证中，请稍候。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该文本是一条典型的系统提示信息，告知用户其请求正在验证过程中，并要求用户耐心等待。这种信息通常出现在网页加载或安全检查环节，用于同步后台处理状态。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;New EU Guidelines For AI Labelling&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The EU AI Act mandates persistent, plain-language labeling for AI-generated content globally, effective August 2026.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Effective August 2, 2026, the EU AI Act mandates transparent labeling for AI-generated content—including deepfakes, chatbots, and public interest text—for any provider serving EU citizens regardless of physical location. Technical compliance requires specific, persistent UI indicators and metadata that remain visible even when content is shared, explicitly moving away from ambiguous symbols like &amp;quot;sparkle&amp;quot; icons in favor of plain-language labels. While substantive human editorial review can exempt content from disclosure, developers should note that automated generation and superficial &amp;quot;skimming&amp;quot; still trigger mandatory labeling requirements. This regulation aligns with a growing global trend (including California and China), signaling that AI transparency is now a critical non-functional requirement for international software architecture and deployment.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;EU AI Disclosure Mandate:&lt;/strong&gt; Starting August 2, 2026, any company providing AI-generated content to EU citizens must comply with transparency rules, regardless of the company&amp;#039;s physical location. The regulations focus on making AI involvement obvious in specific contexts to prevent user deception.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mandatory Labeling Categories:&lt;/strong&gt; Disclosure is legally required for deepfakes, chatbots, AI-generated text on public interest matters, and biometric categorization tools. These rules apply to both the original AI providers and the companies that deploy them.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Human Editorial Exemptions:&lt;/strong&gt; Content does not require an AI label if it has undergone substantive human review and editing where a named person takes responsibility. Small assistive edits like spellcheck or color correction are not considered AI generation under these rules.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining Substantive Editing:&lt;/strong&gt; The line between &amp;#039;edited&amp;#039; and &amp;#039;generated&amp;#039; depends on manual intervention; automated generation always requires disclosure while fine-tuning human-written text does not. A simple &amp;#039;skim&amp;#039; before publishing does not qualify as a valid human editorial review.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Standardized UI Requirements:&lt;/strong&gt; Ambiguous &amp;#039;sparkle&amp;#039; icons are insufficient for compliance; the EU mandates specific AI icons paired with plain-language labels. These indicators must be accessible, clearly visible, and persist even when content is downloaded or shared.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Global Regulatory Convergence:&lt;/strong&gt; The EU&amp;#039;s move reflects a global trend, with similar AI labeling laws already active or pending in California, China, India, and South Korea. This shift suggests that AI transparency is becoming a standard international compliance requirement.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-08-13T10:14Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-08-13T10:14Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者对 Brad Frost 在 AI 成本讨论中的矛盾立场感到困惑。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者观看了 Miriam Suzanne 与 Brad Frost 关于 AI 真实成本的对话。作者高度赞赏 Miriam 的见解，但对 Brad 的立场表示质疑，认为他虽然表面认同 Miriam，却因实际使用和销售 AI 而成为问题的一部分。作者原本希望理解 Brad 的视角，但最终对其言行不一的矛盾表现感到更加困惑。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n0b77cc2adb7d&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【30周年】お祝いの色紙が届いています​　ご報告と御礼 Part 2&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2 reveals its second collection of 30th-anniversary tributes from prominent gaming and manga industry collaborators.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;CyberConnect2 continues its 30th-anniversary celebration by showcasing a second collection of commemorative illustrations and messages from high-profile industry partners, including Final Fantasy XIV/XVI producer Naoki Yoshida. The update highlights cross-media synergy with custom artwork from manga publishers Number Nine and Mangatari Inc., alongside contributions from regional partners like Alfa System that underscore the studio&amp;#039;s deep roots in the GFF creator network. These industry acknowledgments reflect CyberConnect2’s long-standing influence across the Japanese gaming and manga ecosystems. All received artwork will be permanently displayed at the studio’s headquarters as they continue to release subsequent installments of anniversary tributes.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;30th Anniversary Celebration:&lt;/strong&gt; CyberConnect2 continues its 30th-anniversary milestone by showcasing the second installment of congratulatory messages and custom illustrations from industry partners.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Square Enix Collaboration:&lt;/strong&gt; Naoki Yoshida, producer of Final Fantasy XIV and XVI, provided a commemorative message following his recent appearance with President Piroshi at a local industry event.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Manga IP Partnerships:&lt;/strong&gt; Manga publisher Number Nine contributed two distinct illustrations from artists behind popular series like &amp;#039;The Savior from Divine Blood&amp;#039; and &amp;#039;The Only Strongest Transcendent&amp;#039;.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Artist Illustration Highlights:&lt;/strong&gt; Artists Shunji Eto and fuwai submitted high-impact character art of their respective protagonists to celebrate the studio&amp;#039;s long-standing creative contributions.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Humorous Creative Tribute:&lt;/strong&gt; Mangatari Inc. provided a playful illustration featuring CyberConnect2&amp;#039;s president in a scene inspired by their manga &amp;#039;Fukushu-san,&amp;#039; highlighting a long-term business relationship.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Regional Industry Ties:&lt;/strong&gt; Kumamoto-based Alfa System sent a vibrant illustration featuring &amp;#039;Sisters Royale&amp;#039; characters, reinforcing the strong bonds within the GFF game creator network.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Future Commemorative Plans:&lt;/strong&gt; The studio plans to display all received artwork within their headquarters and will continue to share subsequent anniversary messages in future updates.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113225&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;不用改签名，给 Mac 微信聊天记录「搬个家」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通过 APFS 宗卷挂载将 Mac 微信数据搬至外置硬盘的免签名方案。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了一种在不修改 Mac App Store 微信官方签名的情况下，利用 APFS 宗卷挂载技术将聊天记录迁移至外置硬盘的进阶方案。作者通过将外置宗卷直接挂载到微信沙盒内的特定数据目录，绕过了系统对符号链接的权限限制。文章详细阐述了从创建宗卷、数据迁移到配置 /etc/fstab 自动挂载的完整流程，并提供了防止误写的权限保护技巧。该方法在保留软件原生安全性的同时，有效解决了 Mac 内置存储空间不足的问题。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mac mini 存储空间有限且微信数据增长迅速，但沙盒机制导致传统的符号链接方案无法直接访问外置硬盘。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出通过创建独立的 APFS 宗卷并将其挂载到微信容器内部目录的方案，以在保留官方签名的前提下实现扩容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分析了挂载与符号链接的区别，强调必须将宗卷挂载到深层目录以避免触发沙盒检查导致微信崩溃。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一步是利用磁盘工具在外置硬盘中创建 APFS 宗卷，并记录其设备标识符和 UUID 信息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二步是使用 Finder 或终端命令将原有的微信聊天数据完整迁移至新宗卷，并对原始目录进行备份。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三步涉及创建新的挂载点目录，并将外置宗卷手动挂载到该路径，同时需验证挂载点的准确性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第四步是启动微信进行功能验证，包括检查聊天记录完整性、文件读取及新消息的写入情况。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第五步通过编辑 /etc/fstab 文件并使用 UUID 标识符，实现外置宗卷的持久化自动挂载和图标隐藏。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;为了防止外置硬盘未连接时微信在本地创建空数据，建议在卸载状态下将底层挂载目录设为不可写。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;该挂载思路理论上可推广至其他大型 App 或游戏，但不同软件的沙盒规则和检查机制可能存在差异。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结该方案在不破坏官方签名的前提下解决了存储压力，特别适合外置硬盘长期连接的 Mac 用户。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/summer-cold-meal-guide&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从原理出发，高效搞定夏日营养冷食&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Optimize summer nutrition using low-retrogradation starches, high-intensity aromatics, and rapid cooling protocols for safe, flavorful cold meals.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To optimize summer nutrition, prioritize low-fat proteins and low-retrogradation starches (such as buckwheat or vinegar-treated rice) to maintain texture and prevent fat solidification at refrigerated temperatures. Compensate for reduced sensory perception at low temperatures by utilizing high-intensity, separately stored aromatics and acids to preserve ingredient integrity and flavor profile. Minimize kitchen thermal output by leveraging high-efficiency appliances like microwaves and air fryers, while strictly adhering to food safety protocols through rapid cooling cycles and small-portion storage to mitigate bacterial growth.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Protein and Cold-Palatability:&lt;/strong&gt; Focus on low-fat, high-moisture proteins like poultry, seafood, and soy to avoid the waxy texture of solidified animal fats at room or refrigerated temperatures.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Starch Stability and Texture:&lt;/strong&gt; Select starches less prone to retrogradation, such as buckwheat or vinegar-treated rice, to maintain a soft texture and leverage the metabolic benefits of resistant starch.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Flavor Enhancement Strategies:&lt;/strong&gt; Compensate for reduced sensory perception at low temperatures by using high-intensity seasonings like citrus, vinegar, and aromatics, ideally stored separately to maintain ingredient crispness.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Heat-Efficient Cooking Logic:&lt;/strong&gt; Minimize ambient kitchen temperature by prioritizing microwaves and air fryers over long-duration boiling or oven roasting to reduce thermal output and humidity.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Safe Preservation Protocols:&lt;/strong&gt; Ensure food safety by cooling prepared meals within two hours and utilizing small-portion storage to facilitate rapid temperature reduction and prevent bacterial growth.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113338&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 铁三角 SQ1TW2NC：设计出众、佩戴舒适的入门级降噪耳机。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文评测了铁三角 ATH-SQ1TW2NC 降噪真无线耳机。该产品以小巧精致的豆式设计、丰富的甜品系配色和出色的佩戴舒适度为核心卖点。虽然在降噪深度、音质解析及编码协议上相较同价位主流竞品优势并不明显，但其 64 级音量调节、实用的 App 功能及优秀的工业设计体现了品牌独特底蕴。作者认为这是一款在细节审美与佩戴体验上表现突出的入门级产品，适合追求个性化与舒适度的用户。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍铁三角 ATH-SQ1TW2NC 耳机，作为 SQ1 系列首款加入主动降噪功能的入门级产品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;包装设计小巧且色彩鲜艳，配件包括不同尺寸的耳套、充电线及具有保护贴纸的耳机。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;产品提供多种以甜品命名的撞色配色，充电盒外形酷似小型电饭煲，体积非常小巧。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;充电盒采用透明盖板设计，虽有创意但抗刮擦性一般，内部耳机磁吸力度适中。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;耳机本体采用极小的豆式形态，单侧仅重 4g，佩戴舒适且支持 IPX5 级防泼溅。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;支持触控操作及 Connect app 调节，提供包括私人计时器和声景功能在内的丰富设置。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;降噪表现处于通勤可用水平，通透模式还原自然，通话清晰度高且具备侧音功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;连接稳定，支持低延迟模式，开启降噪下耳机单次续航约 4.5 小时，并支持无线充电。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;搭载 5.8mm 微动圈单元，支持 64 级细微音量调节，编码格式仅支持 SBC 和 AAC。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;音质表现以低频质感和中频人声为主，高频平顺但延伸一般，声场规模较小。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结指出该耳机在参数和降噪上虽无明显优势，但在工业设计、佩戴舒适度和细节功能上表现出色。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;结合其市场售价，给出 III 级（推荐）的综合评价，认为其在特定细节上值得国内品牌学习。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/112873&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;6 天时间丈量独库公路：我的平安骑行指南&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Technical six-day Duku Highway cycling manual covering physiological optimization, logistics, and safety protocols for extreme mountain environments.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This guide outlines a six-day cycling expedition across the Duku Highway, providing a technical framework for navigating extreme environmental transitions from high-altitude mountain passes to high-heat desert terrain. It emphasizes physiological optimization through a sustained cadence of 80-90 RPM and targeted hydration strategies to manage lactic acid buildup during significant elevation gains. Logistics are streamlined via specialized bike rentals and China Railway Express for heavy gear, while safety protocols address critical failure points like mechanical issues, altitude sickness, and sudden weather shifts. Ultimately, the article serves as a comprehensive operational manual for managing the high-intensity endurance and logistical demands of this challenging route.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Essential Gear Preparation:&lt;/strong&gt; Focuses on sun protection, multi-layered clothing for extreme temperature shifts, and renting bikes from specialized stations to avoid long-distance transport logistics.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Northern Route Logistics:&lt;/strong&gt; Covers the first three days from Dushanzi to Nalati, characterized by significant elevation gains, high-altitude passes, and the necessity of lights for unlit tunnels.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Southern Route Logistics:&lt;/strong&gt; Details the final leg through Bayanbulak to Kuqa, highlighting the transition from lush grasslands to high-heat desert environments with challenging crosswinds.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Safety Protocols:&lt;/strong&gt; Provides practical solutions for handling mechanical failures like flat tires, managing altitude sickness, and navigating emergency weather conditions such as sudden hail or heatstroke.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Performance and Recovery:&lt;/strong&gt; Recommends maintaining a steady cadence of 80-90 RPM and utilizing specific hydration strategies and recovery techniques to manage lactic acid during consecutive high-intensity days.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Baggage and Transport:&lt;/strong&gt; Outlines a cost-effective strategy for shipping heavy luggage via China Railway Express and provides return trip logistics for cyclists finishing at Kuqa.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113385&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Tech leaders launch AI-optimized hardware and models, signaling a pivot toward agentic workflows and high-efficiency edge computing.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Honor has introduced the &amp;quot;Robot Phone&amp;quot; featuring a 4-DOF titanium gimbal and an Agentic OS for multi-step task execution, while Google’s Pixel 11 series debuts the Tensor G6 with a 50% TPU performance boost for on-device AI. In the imaging sector, Insta360’s X6 camera leverages 4nm AI silicon and Gaussian Splatting to transform 8K panoramic footage into navigable 3D models. On the software side, SpaceXAI’s Grok 4.6 focuses on long-running autonomous agents, complemented by enterprise-grade releases including NVIDIA’s 30B MoE for edge deployment and DeepSeek-V4-Pro’s 1.6-trillion parameter architecture with a 1M token context window. Together, these updates highlight a significant industry pivot toward hardware-software co-design optimized for agentic workflows and high-efficiency edge computing.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Honor Robot Phone&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Honor launched the world&amp;#039;s first robot phone featuring a built-in 4-degree-of-freedom titanium gimbal and an Agentic OS designed for multi-step task execution. The device integrates professional ARRI imaging curves and is powered by the Snapdragon 8 Elite platform.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Google Pixel 11 Ecosystem&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Google unveiled the Pixel 11 series featuring the Tensor G6 chip, which offers a 50% boost in TPU performance and significantly improved energy efficiency for on-device AI. The launch also included the Pixel Watch 5 and the UWB-enabled Pixel Tag tracker.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Insta360 X6 Camera&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The Insta360 X6 flagship panoramic camera features dual 1/1.1-inch sensors and a 4nm AI chip capable of 8K50fps recording. It introduces a &amp;#039;3D Time Capsule&amp;#039; feature that utilizes Gaussian Splatting to render navigable 3D models from panoramic footage.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;SpaceXAI Grok Advancements&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;SpaceXAI released Grok 4.6, emphasizing long-running agent capabilities for complex engineering and research tasks. Alongside the model, &amp;#039;Grok Bot&amp;#039; was introduced to automate cross-application workflows like lead generation and financial data extraction.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Enterprise AI Models&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;NVIDIA launched the 30B MoE Nemotron 3.5 Lightning for high-speed edge AI deployment, while DeepSeek released the production version of V4-Pro. DeepSeek-V4-Pro features a 1.6-trillion parameter architecture and supports up to 1-million token context windows.&amp;quot;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
