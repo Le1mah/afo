@@ -4,8 +4,211 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-08-25T21:00:24.733Z</updated>
+  <updated>2026-08-26T23:18:47.094Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - August 26, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-08-26</id>
+    <updated>2026-08-26T23:18:47.094Z</updated>
+    <published>2026-08-26T23:18:47.094Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>12 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 26, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;260.82191780821915&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    65.2%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;238&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;127&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;34&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████████░░░░░░░░░░ 65.2%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22736&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Wednesday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 包含社交媒体链接、点赞及互动提示的网页元数据。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该文本是发布于2026年8月26日的网页元数据与社交互动信息。其中包含地理坐标、Mastodon和Bluesky平台链接、用户点赞记录，以及一个邀请读者通过Ping提交回复链接的互动提示。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://tosbourn.com/an-fuireachas-le-fleadh-cheoil/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;An fuireachas le Fleadh Cheoil na hÉireann&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 爱尔兰传统音乐节即将开幕，令人期待。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文表达了对即将到来的爱尔兰传统音乐节（Fleadh Cheoil na hÉireann）的热切期待。作者以简短激昂的笔触指出，漫长的等待即将结束，盛会开幕在即，旨在唤起读者的兴奋感与关注。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22734&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Dolly sa Daingean: https://www.youtube.com/watch?v=2qXFoNrqi3Y Fuair sí fáilte mhór (as Gaeilge) agus ansin chann sí le Steve Cooney ar an ngiotár.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 分享Dolly Parton在爱尔兰与吉他手合作演出的简短视频。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这是一篇简短的社交媒体分享，记录了Dolly Parton在爱尔兰丁格尔（Daingean）受到热烈欢迎，并与吉他手Steve Cooney同台献唱的视频。作者以简练的语言分享了YouTube视频链接及相关社交媒体的互动信息。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Applying UX principles transforms dashboards from passive data displays into action-oriented tools that drive strategic decision-making.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To drive meaningful organizational decisions, dashboards must transition from passive metric displays to action-oriented communication tools built on structured UX principles. Success is determined during the pre-development phase by identifying specific operational questions, target audiences, and intended impacts rather than simply visualizing readily available data. Finally, while choosing the right visual format is critical to revealing hidden patterns, designers must balance simplicity with appropriate complexity to preserve the exact context decision-makers require.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bridging Data and Design:&lt;/strong&gt; Traditional dashboards often present accurate numbers but fail to drive organizational decisions because they lack user experience design principles. Applying structured UX thinking transforms passive collections of charts into functional, action-oriented communication tools.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Visualizing the Truth:&lt;/strong&gt; As demonstrated by Anscombe&amp;#039;s Quartet, visualization reveals critical patterns and operational truths that raw numbers conceal. Selecting the right visual format ensures the audience instantly grasps the scale and core story of the data.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Balancing Clarity and Context:&lt;/strong&gt; While minimizing non-essential elements is important, oversimplifying a chart can strip away the exact context decision-makers need. Designers must aim for appropriate complexity, tailoring the visual signal to the specific needs of the receiver.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Upstream Design Preparation:&lt;/strong&gt; The vast majority of dashboard success is determined before building any charts by answering key questions about context, audience, and intended impact. Skipping this strategic preparation leads to aimless visualizations that fail to prompt action.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Starting with Questions:&lt;/strong&gt; Designing dashboards around readily available metrics results in cluttered interfaces that answer no particular question. Instead, starting with highly specific operational questions ensures that every visual element serves a clear strategic purpose.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/515&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 515: Bun’s all in (one)&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Bun 1.4 expands its native toolchain to reduce third-party npm dependencies and optimize application performance.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Bun 1.4 reinforces its position as an all-in-one JavaScript runtime and toolchain by significantly expanding its native capabilities to reduce reliance on third-party npm packages.** This release introduces out-of-the-box support for complex tasks, including image manipulation, headless browser control, Markdown parsing, and cron job scheduling. By embedding these core utilities directly into the runtime engine, Bun aims to minimize dependency bloat, streamline development workflows, and optimize application startup performance.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Bun&amp;#039;s All-in-One Toolchain&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Bun 1.4 doubles down on its all-in-one vision by introducing built-in features like image manipulation, headless browser control, Markdown parsing, and cron scheduling. This release aims to eliminate the need for external npm packages by integrating core utilities directly into&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Gadget Review: Thermal Master P3 Macro Lens ★★★★⯪&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The Thermal Master P3 delivers excellent close-up thermal imaging for PCB diagnostics despite unstable companion software.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The Thermal Master P3 is a rugged, metal-cased thermal camera priced at £260–£280, specifically engineered for close-up PCB diagnostics with a macro focus capability down to two centimeters. On the imaging front, it captures detailed upscaled photos and 504x672 video at 25fps, though it outputs bloated uncompressed JPEGs, relies on the host phone for GPS, and currently lacks functional Linux software support. Despite a highly unstable, crash-prone Android companion app, the P3&amp;#039;s excellent thermal imaging hardware makes it a highly recommended diagnostic tool for hobbyists and hardware hackspaces.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware and Unboxing:&lt;/strong&gt; The Thermal Master P3 is a well-built thermal camera featuring a premium metal casing and a stiff focus wheel. It is specifically designed for close-up electronics inspection and comes packaged with a carrying case and connection cables.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Macro Imaging Performance:&lt;/strong&gt; The camera captures detailed upscaled images and excels at macro photography, allowing users to focus on circuits from as close as two centimeters. However, the resulting uncompressed JPEG files are unnecessarily large.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Colors and Metadata:&lt;/strong&gt; While the device offers various useful color palettes for thermal rendering, it lacks built-in GPS, relying instead on the host phone for geolocation and basic EXIF data.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Video Recording Capabilities:&lt;/strong&gt; Videos are recorded at a non-upsampled resolution of 504x672 at 25fps, with audio captured through the connected smartphone&amp;#039;s microphone.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;App Usability Issues:&lt;/strong&gt; The companion Android app provides necessary customization and settings but is hampered by a janky interface, slow navigation, and frequent crashes.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Limited Linux Compatibility:&lt;/strong&gt; When connected to a Linux laptop, the camera is recognized as a USB device, but there is currently no way to access or view the thermal images on this platform.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Value and Verdict:&lt;/strong&gt; Priced between £260 and £280, the P3 is highly recommended for hobbyists and hackspaces needing to diagnose circuit board issues. Despite a frustrating app experience, the hardware delivers excellent thermal imaging quality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/08/25/rotating-needles-in-space-the-road-to-the-kakeya-conjecture-and-why-it-matters/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Rotating needles in space: the road to the Kakeya conjecture, and why it matters&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者为菲尔兹奖得主撰写的通俗介绍文章已上传。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者受邀为菲尔兹奖（Fields Medal）得主Hong Wang撰写了一篇通俗性介绍文章，题为“Rotating needles in space: the road to the Kakeya conjecture, and why it matters”。该文目前已上传至arXiv，未来将与Chris Sogge撰写的赞词一同发表于ICM会刊。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/68227&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 This back-to-school guide highlights student discounts on developer tools, cloud services, and software to save money.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This curated back-to-school guide outlines essential educational discounts on software, hardware, and cloud services tailored for students. It highlights free, industry-standard developer toolkits and IDE licenses from major providers like GitHub, JetBrains, and Autodesk. Furthermore, students can leverage heavily subsidized or free cloud infrastructure and databases from Alibaba, Tencent, and Baidu, alongside premium AI services like Google&amp;#039;s Gemini Pro. Finally, the guide covers accessible productivity and office suites, offering a cost-effective pathway for students to deploy personal projects and build technical skills.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Back-to-School Overview&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The article introduces a curated collection of educational discounts and benefits updated for the back-to-school season. It aims to help students save money while acquiring essential hardware, software, and cloud services for their academic journey.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Developer Student Packs&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Major technology companies like GitHub, JetBrains, and Autodesk offer comprehensive, free developer toolkits and software licenses to eligible students. These packages provide access to industry-standard IDEs, design software, and cloud credits to support technical learning.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;AI Service Benefits&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Google offers free access to its premium AI services, including Google One and Gemini Pro/Plus, for verified university students. These benefits provide advanced AI assistance and expanded cloud storage to enhance student productivity.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Cloud Infrastructure Discounts&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Leading cloud providers, including Alibaba Cloud, Tencent Cloud, and Baidu Cloud, offer heavily discounted or free cloud servers and databases for students. These resources allow students to deploy personal projects, host websites, and practice cloud development affordably.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Productivity &amp;amp; Office Suites&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Students can access essential office tools for free&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/zhuanglesha-260826&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;装了啥特别篇：少数派编辑部最近都 vibe 了啥？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI-driven &amp;quot;vibe coding&amp;quot; enables rapid development of customized software, browser extensions, and local automation scripts.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article highlights how &amp;quot;vibe coding&amp;quot;—leveraging LLMs for rapid, AI-assisted development—empowers individuals to build highly customized solutions for niche workflows ignored by commercial software. Practical applications include a unified weather dashboard deployed in under an hour using Cloudflare Workers, and custom Chrome extensions designed to locally archive social media content to Evernote. Additionally, creators are using AI to generate system-level automation, such as persistent startup scripts to block intrusive Windows updates. Ultimately, these examples demonstrate the efficiency of using LLMs to bypass traditional development friction for serverless deployments, browser extensions, and local system scripting.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Empowering Niche Needs&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Beyond grand startup achievements, vibe coding helps non-technical users solve highly personalized, niche problems that commercial software ignores.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Custom Weather Dashboard&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;To bypass outdated government website designs, the author created a unified dashboard aggregating weather data from both Hong Kong and Shenzhen.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Serverless Dashboard Deployment&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;By identifying raw data sources and leveraging Cloudflare Workers with minimalist styling prompts, the author successfully built and deployed the dashboard in under an hour.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Local Social Archiver&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;To combat bookmark fragmentation, the author used AI to build Chrome extensions that locally cache social media posts and export them directly to Evernote.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Windows Update Blocker&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The author leveraged ChatGPT to create a persistent startup script that automatically detects and disables Windows automatic updates to prevent unwanted restarts.&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113851&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Gamescom 2026 kicked off with the official announcement of *The Witcher 3 Remake* and other major upcoming titles.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Gamescom 2026 Opening Night Live kicked off with a major lineup of upcoming releases, headlined by the official announcement of *The Witcher 3 Remake*. The event highlighted key industry trends, featuring a diverse mix of highly anticipated sequels, classic IP modernizations, and innovative indie titles. This comprehensive showcase underscores the market&amp;#039;s dual focus on leveraging advanced gaming technology to upgrade legendary RPGs while simultaneously fostering creative independent projects.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Gamescom 2026 Highlights&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Gamescom 2026 Opening Night Live showcased a massive lineup of new game announcements, classic IP remakes, and highly anticipated sequels. The event featured major reveals ranging from legendary RPG upgrades to innovative indie titles.&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113714&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;在正镶白旗，用五天共同生活理解现代牧场&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Engineers conduct a five-day field study in Zhengxiangbai Banner to design AI and digital tools for modern ranching.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article chronicles a five-day field study in Zhengxiangbai Banner, designed to bridge the gap between traditional pastoral operations and modern technology. By immersing in local ranching life and livestock trading, the study aims to identify viable integration points for artificial intelligence and software solutions within the agricultural supply chain. Ultimately, this hands-on domain research provides the critical contextual insights necessary for engineers to design effective, real-world digital tools for sales channel alignment and modern ranch management.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Field Study Motivation&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The author embarks on a field study in Zhengxiangbai Banner to deeply understand pastoral life, livestock trading, and potential AI integration.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Sales Channel Alignment&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Before heading to the&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113847&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Apple 发布新款 Mac mini 和 Mac Studio 等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple updates Mac desktops, Sony launches Xperia 10 VIII, and ByteDance releases the Doubao Work AI agent.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Apple has refreshed its desktop ecosystem with new Mac mini and Mac Studio models powered by next-generation M6 and M5 Ultra chips, introducing Wi-Fi 7 and upgraded port configurations. Meanwhile, Sony launched the Xperia 10 VIII smartphone, featuring a Snapdragon 6 Gen 3 processor and an extended six-year security update commitment. On the software and AI front, Apple Wallet integrated the Zhengzhou transit card for regional commuters, and ByteDance rolled out &amp;quot;Doubao Work,&amp;quot; a new AI agent aimed at automating complex computer tasks.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;New Mac Releases&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Apple announced new Mac mini and Mac Studio models powered by the next-generation M6 and M5 Ultra chips. These devices offer substantial performance upgrades, Wi-Fi 7 support, and upgraded port configurations.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Sony Xperia Launch&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Sony officially launched the Xperia 10 VIII smartphone, featuring a 6.1-inch 120Hz display with improved brightness. The phone is powered by a Snapdragon 6 Gen 3 processor and promises up to six years of security updates.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Apple Wallet Update&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Apple Wallet has integrated the Zhengzhou Green City Transit Card, offering local commuters a free card activation option. Users can benefit from local transit discounts directly through Apple Pay.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;ByteDance AI Agent&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;ByteDance released &amp;#039;Doubao Work,&amp;#039; an advanced AI Agent designed to automate complex computer tasks and&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - August 25, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1970,127 +2173,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;OnlyTranslate Bilingual Reader:&lt;/strong&gt; An evolved translation extension that handles web text, video subtitles, and local EPUB files, offering flexible switching between specific text recognition and full-page translation.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - August 15, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-08-15</id>
-    <updated>2026-08-15T20:23:26.940Z</updated>
-    <published>2026-08-15T20:23:26.940Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>4 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 15, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;248.76712328767124&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    62.2%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;227&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;138&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;32&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████████░░░░░░░░░░░ 62.2%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22716&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chíne tréile&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 爱尔兰语学习中的意外口误被视为语言熟练度的重要里程碑。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文讲述了作者在爱尔兰语学习中发生的一次有趣口误。在一次关于食物的讨论中，作者试图引用电影 Rocky 中的情节，却意外制造了一个 spoonerism。作者以生动且富有洞察力的笔触指出，这种非故意的语言混淆并非单纯的错误，而是语言学习的重要里程碑，标志着大脑对新语言达到了某种程度的直觉反应与舒适感。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者上个月在 Donegal 的 Oideas Gael 参加爱尔兰语沉浸式学习，教学重点在于小组对话练习。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在一次关于食物的话题讨论中，同学描述了其父亲直接吞食生鸡蛋的习惯，引发作者对电影 Rocky 的联想。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者试图用爱尔兰语表达该场景出自电影 Rocky，却因兴奋产生口误，说出了一个 spoonerism（勺子式错词）。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者意识到这是他首次在爱尔兰语中出现此类口误，这种非故意的错误与英语中的语词倒置现象类似。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为这种不由自主的口误标志着语言学习的里程碑，反映出学习者对爱尔兰语已产生一定的直觉和舒适感。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Slags by Emma Jane Unsworth ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Unsworth’s *Slags* is a gritty 3.5-star tragicomedy exploring trauma and consent, featuring polished prose despite minor ePub glitches.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Emma Jane Unsworth’s *Slags* is a 3.5-star tragicomedy that leverages 1990s nostalgia to explore complex themes of adolescent consent and long-term psychological trauma. The narrative features high-quality prose and a precise plot structure that balances a bleak, sordid atmosphere with a revelatory conclusion. While the book is praised for its character development, readers should expect a gritty experience centered on protagonist misfortune and limited social mobility. Additionally, the ePub edition contains minor styling regressions—specifically inconsistent font sizes—that represent a slight but non-critical degradation in the digital reading experience.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Character-Driven Nostalgia:&lt;/strong&gt; The reviewer highlights exceptionally well-written characters that evoke a strong, specific sense of 1990s nostalgia.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Exploration of Consent:&lt;/strong&gt; The narrative addresses complex themes regarding teenage consent and the long-term psychological impact of adolescent experiences.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Narrative Craftsmanship:&lt;/strong&gt; The book features high-quality prose and a perfectly paced plot that leads to a satisfying, revelatory conclusion.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Atmospheric Sadness:&lt;/strong&gt; A persistent streak of heartbreak and sordidness runs through the story, balanced by elements of tragicomedy.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Environmental Pressures:&lt;/strong&gt; The setting is characterized by a bleak, rainy atmosphere where characters struggle with academic demands and limited opportunities.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reader Experience Warning:&lt;/strong&gt; The reviewer notes that while the book is fun, it requires a strong stomach and an acceptance of protagonist misfortune.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Formatting Issues:&lt;/strong&gt; The ePub version contains minor styling bugs, including inconsistent font sizes that do not significantly disrupt the reading experience.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Final Verdict:&lt;/strong&gt; The book receives a 3.5-star rating and is accompanied by various affiliate links and library information for interested readers.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-08-15T06:22Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-08-15T06:22Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Bypassable AI watermarking necessitates mandatory disclosure standards to prevent dehumanizing, subjective accusations of AI usage.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Driven by EU regulations, LLM providers are implementing watermarking via seeded pseudo-random number generators (PRNGs) to embed identifiable token patterns within generated prose. While upcoming official detection APIs promise higher reliability than current third-party tools, they risk enabling &amp;quot;frankenslop&amp;quot;—the iterative scrubbing of watermarks through automated synonym replacement using secondary models. Ultimately, the author argues that these technical measures are secondary to mandatory disclosure standards and warns against &amp;quot;vibecusation,&amp;quot; the dehumanizing practice of making unsubstantiated AI-usage claims based on subjective intuition.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Regulatory Driven Watermarking:&lt;/strong&gt; EU regulations are pushing major LLM providers like Anthropic to implement watermarking systems for generated content.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical Implementation Mechanism:&lt;/strong&gt; Watermarking utilizes seeded pseudo-random number generators to select tokens in a predictable pattern that remains identifiable by the provider.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Detector Reliability Shift:&lt;/strong&gt; While current third-party AI detectors are unreliable, upcoming official APIs from model creators are expected to provide trustworthy detection for long-form prose.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Adversarial Evasion Techniques:&lt;/strong&gt; Official detection APIs could ironically be used to iteratively scrub watermarks by using secondary LLMs to find synonyms, a process termed &amp;#039;frankenslop&amp;#039;.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Critique of Vibecusation:&lt;/strong&gt; The author condemns &amp;#039;vibecusation&amp;#039;—unsubstantiated claims of AI usage based on feeling—as a dehumanizing cultural side effect of the AI industry.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mandatory Disclosure Advocacy:&lt;/strong&gt; The text argues that while watermarks are a useful secondary tool, mandatory disclosure of AI-generated content should be the primary standard.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/111974&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Matrix是少数派分享真实体验与思考的写作社区。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Matrix是少数派（sspai）旗下的写作社区，核心主张是分享真实的产品体验及具有实用价值的经验与思考。平台通过挑选并推荐优质文章，向读者展示来自用户的真实观点与深度见解，强调内容的真实性与实践参考价值。&lt;/p&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
 &lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
 &lt;/div&gt;</content>
