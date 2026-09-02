@@ -4,8 +4,206 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-09-01T23:06:32.565Z</updated>
+  <updated>2026-09-02T22:47:36.436Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - September 2, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-09-02</id>
+    <updated>2026-09-02T22:47:36.436Z</updated>
+    <published>2026-09-02T22:47:36.436Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>12 articles from 4 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 2, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;268.4931506849315&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    67.1%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;245&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;120&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;35&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████████░░░░░░░░░░ 67.1%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22747&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Wednesday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 这是一个包含时间、位置和互动信息的网页页脚元数据。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该文本是一个社交媒体或博客帖子的页脚，包含2026年9月2日的发布时间、地理位置坐标（51° N, 0° W），以及在Mastodon和Bluesky上的同步链接。内容还记录了用户的点赞互动，并邀请读者通过URL链接进行回应。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.doc.cc/articles/we-used-to-log-off&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;DOC • We used to log off&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 To combat the digital exhaustion of perpetual connectivity, designers must reintroduce intentional boundaries and friction into technology.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The evolution of the internet has eliminated discrete &amp;quot;sessions&amp;quot; in favor of perpetual connectivity, removing the natural transition points between our digital and physical lives. By systematically stripping away friction to optimize engagement, product design has created a state of continuous cognitive processing akin to a software system running indefinitely without garbage collection. This boundaryless environment is further compounded by AI, which merges human intent and machine execution into a single, indistinguishable loop. To counter this digital exhaustion, engineers and designers must embrace &amp;quot;calm technology&amp;quot; and &amp;quot;seamful&amp;quot; systems that intentionally reintroduce microboundaries to respect human attentional limits.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Lost Exit:&lt;/strong&gt; The physical act of logging off has disappeared, transitioning us from a world of distinct online sessions to one of perpetual connectivity. This shift has eliminated the natural transition back to our physical surroundings.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;From Place to Layer:&lt;/strong&gt; The internet has transformed from a destination with defined boundaries into an omnipresent layer integrated into every moment of our daily lives. This evolution has destroyed the concept of the &amp;quot;session,&amp;quot; which once provided a clear beginning and end to digital interactions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optimizing Away Friction:&lt;/strong&gt; Digital product designers systematically removed friction, such as page breaks and decision points, to prevent user drop-off and maximize engagement. In doing so, they eliminated critical &amp;quot;microboundaries&amp;quot; that previously gave users a moment to pause and think.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Uncleared State:&lt;/strong&gt; Without the ability to log off, our mental state is never cleared or reset, akin to a software system running indefinitely without garbage collection. This constant state of active processing prevents cognitive recovery and breeds continuous partial attention.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dissolving the Final Seam:&lt;/strong&gt; Artificial intelligence is erasing the final boundary between the user and the machine by anticipating thoughts and mirroring behaviors. This creates a single merged surface where the distinction between human thinking and system operation is lost.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Embracing Seamful Design:&lt;/strong&gt; To counter digital exhaustion, designers must look to &amp;quot;calm technology&amp;quot; and &amp;quot;seamful&amp;quot; systems that respect human attention boundaries. Rather than making everything seamless and uniform, technology should remain in the periphery and only demand focus when necessary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://michellebarker.co.uk/writing/little-websites-everywhere/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Michelle Barker | Little Websites Everywhere&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者坚守亲手编程的乐趣，期盼个性化“小网站”的复兴。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者坚持亲手编写代码而非依赖LLM，强调了亲自动手解决问题带来的成就感与认知提升。尽管AI带来了不确定性，且未来网络可能被爬虫充斥，作者仍坚信独立创作者们将通过充满创意、无广告的“小网站”维系真实的社区，并期待手作编程与个性化网页的复兴。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22744&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Salter Cane this Saturday&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本周六Brighton将举办Salter Cane乐队领衔的音乐演出。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇热情活泼的演出宣传博文。作者邀请读者参加本周六在Brighton的Prince Albert酒吧举办的音乐会。演出阵容包括Figure In The Half Light、The Self Help Group，以及主打乐队——作者本人的后朋克民谣乐队Salter Cane，届时他们将宣传新专辑《Deep Black Water》。活动现场票价为10英镑，预售票价为8英镑。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/bliki/ParacelsusMaxim.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Bliki: Paracelsus Maxim&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 评估编程与生活习惯的好坏需考虑上下文和剂量。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了“剂量决定毒性”（Paracelsus Maxim）的概念，指出编程和生活中的许多事物并非非黑即白。作者 Martin Fowler 结合16世纪医生的名言，以编程中的 global data 为例，论证了适量与过量的差异，强调在评估事物好坏时，应始终考虑其所处的 context 和 dosage。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编程或生活中的习惯并非简单的非黑即白，其好坏取决于具体的上下文和使用剂量。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;16世纪瑞士医生 Paracelsus 提出了“剂量决定毒性”的观点，指出唯有剂量能决定一种物质是否为毒药。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在编程中，全局数据是该法则的典型代表，作者借此强调评估事物好坏时需考虑其上下文和剂量。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;An Accidental Blackboard&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 To resolve CI bottlenecks from agentic Git coordination, the author created Talwrn, an out-of-band blackboard tool for agents.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;During a rapid four-day monorepo experiment building a complex airline disruption system, Thoughtworks engineers observed emergent autonomous coordination among software agents when enforcing strict continuous commit and rebase disciplines. By sharing and updating execution plans within the repository, the agents spontaneously adopted a classic &amp;quot;blackboard&amp;quot; or &amp;quot;tuple space&amp;quot; architectural pattern to dynamically resolve dependencies and integrate components. However, using Git commits as the shared state overloaded the CI pipeline, demonstrating that high-frequency agentic communication must be decoupled from source control to avoid starvation. To resolve this bottleneck, the author developed *Talwrn*, an open-source, lightweight blackboard tool designed specifically as an out-of-band communication layer for multi-agent collaboration.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hyper-Agentic Experiment:&lt;/strong&gt; Thoughtworks engineers conducted a hands-on experiment to build a highly complex airline disruption management system in just four days using multi-agent engineering. The project aimed to test the speed and limits of agentic software development in a monorepo.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Continuous Integration Discipline:&lt;/strong&gt; To mitigate build pipeline failures caused by multiple agents working simultaneously, the team enforced a strict continuous commit and rebase discipline. This change was designed to catch integration issues early but triggered unexpected, emergent agent behaviors.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Emergent Agent Coordination:&lt;/strong&gt; By sharing and continuously updating execution plans within the repository, the agents began autonomously coordinating their work. They dynamically tracked dependencies and integrated components, such as search algorithms and evaluators, without human intervention.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Blackboard Pattern:&lt;/strong&gt; The author identifies this emergent behavior as the classic &amp;#039;blackboard&amp;#039; or &amp;#039;tuple space&amp;#039; architectural pattern, where autonomous agents collaborate via a shared, unstructured memory. This pattern allows independent problem solvers to build upon each other&amp;#039;s work towards a single goal.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Git-Based Blackboard Limitations:&lt;/strong&gt; Using Git commits as a blackboard overloaded the CI pipeline, forcing the team to reduce commit frequency and subsequently starving the agents of real-time updates. This highlighted the need for an agent communication channel that operates independently of source control.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Introducing Project Talwrn:&lt;/strong&gt; To solve the limitations of Git-based coordination, the author initiated Talwrn, an open-source blackboard tool designed specifically for agentic engineering. The project aims to act as a lightweight, drop-in communication layer to facilitate structured, out-of-band agent collaboration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/rachels-ramblings/code-review.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Maybe We Shouldn&amp;#039;t Be Reviewing All This Code&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI-generated code renders manual reviews unsustainable, necessitating a shift toward automated testing and high-risk architectural human review.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The explosion of AI-generated code has rendered traditional, pull-request-based manual code reviews unsustainable, exposing how overloaded and inefficient late-stage gatekeeping has become. To address this, engineering teams should shift feedback loops upstream through collaborative design and automated testing, reserving manual human reviews strictly for high-risk architectural or security-critical changes. Rather than automating a flawed process by using AI to review AI-generated code, organizations must prioritize system-level understanding and shared operational responsibility over line-by-line diff analysis.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The AI Code Surge:&lt;/strong&gt; The rapid increase in AI-generated code has made traditional manual code reviews unsustainable for modern engineering teams. This surge challenges the feasibility of relying on pull requests as the primary quality gate.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Overloaded Code Reviews:&lt;/strong&gt; Code reviews have historically been overloaded with too many responsibilities, from finding bugs to mentoring and sharing knowledge. Waiting until the end of the development cycle to address these needs is highly inefficient.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Shifting Feedback Left:&lt;/strong&gt; Teams should move feedback loops earlier in the process by adopting practices like pair programming, collaborative design, and automated testing. This addresses quality, alignment, and knowledge sharing before code is even written.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Review by Exception:&lt;/strong&gt; Instead of mandating reviews for every pull request, human intervention should be reserved for high-risk changes like critical security boundaries or major architectural shifts. This prevents senior engineers from becoming bottlenecked by routine code.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Automating the Ceremony:&lt;/strong&gt; Using AI agents to review AI-generated code merely automates a flawed process rather than addressing why the process exists. True efficiency comes from questioning the necessity of the review ceremony itself.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mitigating Cognitive Debt:&lt;/strong&gt; To prevent humans from losing understanding of their software, teams must focus on collaborative design and shared operational responsibility. Engineers need to understand entire systems rather than just reading individual diffs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n7a573e127b8c&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;上司をうまく使いましょう&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Leverage managers as strategic assets to unblock projects by providing them with structured, actionable decision-making inputs.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Rather than viewing managers as bottlenecks, technical leaders should treat them as high-leverage organizational assets capable of unblocking projects through budget control and cross-departmental influence. To unlock this leverage, developers must provide structured, actionable inputs—including concrete data, clear trade-offs, defined options, and explicit deadlines—that simplify decision-making and facilitate upward advocacy. Furthermore, establishing a positive feedback loop by acknowledging managerial support reinforces these behaviors and ensures ongoing cooperation. Ultimately, project success is driven by the strategic distribution of tasks and the deliberate utilization of organizational roles, rather than relying on individual heroics.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Proactive Boss Utilization:&lt;/strong&gt; Project delays blamed on unresponsive managers often stem from a failure to present actionable information. Reframing the relationship to actively facilitate the boss&amp;#039;s involvement is key to smoother workflows.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Leveraging Executive Authority:&lt;/strong&gt; Managers possess organizational leverage, such as budget control and cross-departmental influence, that subordinates should utilize rather than trying to solve every bottleneck alone.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Providing Actionable Passes:&lt;/strong&gt; To get a manager to act, subordinates must present well-structured information that clearly outlines the current status, specific requests, and deadlines.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Facilitating Final Decisions:&lt;/strong&gt; Subordinates should equip their managers with concrete data, pros and cons, and multiple options to help them easily make decisions or advocate further up the hierarchy.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cultivating Feedback Loops:&lt;/strong&gt; Showing genuine appreciation and publicly acknowledging a manager&amp;#039;s support reinforces positive behavior, making them more willing to assist in the future.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Leveraging Collective Strength:&lt;/strong&gt; Particularly in project management, success comes from knowing how to distribute tasks and leverage organizational roles rather than attempting to score every goal individually.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://game.kimetsu.com/hinokami2/news/?id=71036&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『鬼滅の刃 ヒノカミ血風譚2』「PlayStation® Tournaments」9月開催情報&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《鬼灭之刃 火之神血风谭2》公布9月PS5锦标赛日程与奖励&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《鬼灭之刃 火之神血风谭2》公布了2026年9月PS5版“PlayStation® Tournaments”的锦标赛日程。赛事包含每日举办的鬼灭学园角色赛及我妻善逸特别大会，玩家参赛可赢取更新后的角色语音名言、鬼灭点数及限定称号等丰富奖励。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114084&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple’s upcoming event under new CEO John Ternus will debut its first foldable iPhone and a new HomePod.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Apple&amp;#039;s upcoming autumn launch event, led by new CEO John Ternus, is highly anticipated for debuting the company&amp;#039;s first-ever foldable smartphone, rumored to be the &amp;quot;iPhone Ultra.&amp;quot; Along with this major form-factor shift, the event is expected to showcase updates to Apple&amp;#039;s smart home ecosystem, including a new HomePod model. For developers and industry observers, these hardware introductions signal critical shifts in Apple&amp;#039;s design paradigm and ecosystem integration strategies.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Apple Event Overview&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Led by new CEO John Ternus, Apple&amp;#039;s upcoming autumn launch event is highly anticipated for potentially introducing its first-ever foldable iPhone.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Foldable iPhone Ultra&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The rumored \&amp;quot;iPhone Ultra&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/80562&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Use PowerShell to bypass the 35-day limit and customize Windows update pause durations to prevent workflow disruptions.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Since transitioning to a Software-as-a-Service (SaaS) model in Windows 10, Microsoft enforces mandatory, continuous updates that can disrupt developer workflows and production environments with unexpected system restarts. While the OS allows users to temporarily halt these updates, the native settings restrict this pause to a maximum of 35 days. To regain control over system uptime and deployment schedules, developers can bypass this UI limitation by using PowerShell to customize and extend the update pause duration, while relying on Microsoft&amp;#039;s restructured Insider Program to track upcoming release stability.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;The Auto-Update Dilemma&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Automatic Windows updates can disrupt productivity by unexpectedly restarting systems and closing active work. While users can pause updates, the default settings restrict this pause to a maximum of 35 days.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Legacy Windows Updates&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Prior to Windows 10, updates were categorized into important/optional patches and major Service Packs. These updates were less frequent and typically required manual user approval to install.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Modern SaaS Model&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Starting with Windows 10, Microsoft transitioned to a Software-as-a-Service model with continuous, mandatory updates. This includes frequent feature releases and monthly cumulative quality updates to maintain security and stability.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Windows Insider Program&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;To test updates, Microsoft relies on user feedback through various Insider channels, which were restructured in 2026. The new system simplifies testing into Experimental and Beta channels to streamline development.&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113581&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Sspai is recruiting ten testers to evaluate the Sonos Play portable smart speaker and its multi-speaker audio ecosystem.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The Sonos Play is a versatile, portable smart speaker featuring dual Wi-Fi/Bluetooth connectivity, Trueplay adaptive tuning, IP67 ruggedization, and a 24-hour replaceable battery. When paired, two units leverage advanced networking capabilities to support stereo configuration, multi-room synchronization, and outdoor multi-speaker Bluetooth daisy-chaining. To evaluate this dual-speaker ecosystem and its integration with over 100 streaming services, Sspai is recruiting ten participants for a hands-on, &amp;quot;deposit-first&amp;quot; beta testing program.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Sonos Play Overview&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The Sonos Play is a versatile portable smart speaker featuring dual Wi-Fi and Bluetooth modes for seamless indoor and outdoor listening.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Dual-Speaker Synergy&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Pairing two Sonos Play units unlocks advanced capabilities like stereo sound, multi-room synchronization, and outdoor multi-speaker Bluetooth networking.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Key Product Features&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;It boasts Trueplay adaptive tuning, integration with over 100 streaming services, IP67 dust and water resistance, and a 24-hour replaceable battery.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Beta Testing Program&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Sspai is recruiting 10 participants for a &amp;#039;deposit-first&amp;#039; hands-on testing program of the Sonos Play dual-speaker setup.&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - September 1, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1352,147 +1550,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Built-In Audio Equalizer:&lt;/strong&gt; Users can customize their sound using a high-precision 10-band graphic equalizer and pre-amp controller, complete with anti-clipping DSP algorithms.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Advanced Audio Routing:&lt;/strong&gt; WinAirCast supports isolating audio by individual applications, bypassing DRM restrictions via virtual sound cards, and automatically putting speakers on standby when silent.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pricing and Trial:&lt;/strong&gt; WinAirCast is available on the Microsoft Store as a one-time purchase of $2.99, offering a fully functional 15-day free trial for testing.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - August 22, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-08-22</id>
-    <updated>2026-08-22T20:33:30.063Z</updated>
-    <published>2026-08-22T20:33:30.063Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>7 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - August 22, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;256.43835616438355&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    64.1%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;234&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;131&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;33&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████████░░░░░░░░░░░ 64.1%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;7&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22729&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Eavesdropping on the mandolinists preparing for this evening’s performance.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录旁听曼陀林演奏者排练的简短随笔。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇简短的纪实随笔，记录了作者在2026年8月22日下午旁听曼陀林演奏者为当晚演出进行排练的场景。文中还附带了地理坐标、社交媒体链接以及与读者互动的反馈提示，整体风格简约、即时。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22728&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Acqui Terme&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文是包含发布时间、社交链接及互动提示的博客元数据。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一段简短的网页元数据或博客页脚内容，记录了2026年8月22日的发布时间、地点Acqui Terme及地理坐标，提供了Mastodon和Bluesky的社交链接，并包含一个邀请读者反馈互动链接的提示。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/08/22/mathematical-discourse/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Mathematical Discourse&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 新数学期刊《Mathematical Discourse》创刊并征集演讲视频。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《Mathematical Discourse》是一本全新的在线同行评审数学期刊，旨在通过发布高质量的数学研究演讲视频，促进将交流视为研究核心的学术文化。该期刊目前正为创刊号征集约1小时的纯数学领域学术报告视频，并公布了顶尖的编委名单。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113675&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 SSPAI&amp;#039;s &amp;quot;Echoes Remain&amp;quot; Michael Jackson tribute record exhibition runs in Guangzhou from August 21 to September 20, 2026.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;SSPAI is hosting &amp;quot;Echoes Remain,&amp;quot; a Michael Jackson tribute record exhibition, at its Guangzhou offline store and Heim Craft Beer Bar from August 21 to September 20, 2026. The month-long event showcases physical music formats spanning MJ&amp;#039;s 50-year career with detailed historical annotations, complemented by screenings of classic concert footage and documentaries. Serving as a collaborative community hub connecting tech and music enthusiasts, the venue also hosts interactive record exchanges, trivia challenges, and exclusive craft beer discounts for SSPAI and Prime members.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Event Overview:&lt;/strong&gt; SSPAI is hosting a Michael Jackson tribute record exhibition at its Guangzhou offline store to celebrate his 68th birthday.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Exhibition Schedule:&lt;/strong&gt; The exhibition runs from August 21 to September 20, 2026, at the SSPAI Guangzhou store and Heim Craft Beer Bar.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Physical Record Display:&lt;/strong&gt; The event showcases physical music formats spanning MJ&amp;#039;s 50-year career, featuring detailed annotations that explain the history behind each record.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Concert Video Screenings:&lt;/strong&gt; Visitors can watch classic Michael Jackson concert footage and documentaries, including the Dangerous Tour and &amp;#039;This Is It,&amp;#039; throughout the exhibition.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Interactive Fan Activities:&lt;/strong&gt; Attendees are encouraged to bring their own MJ records for playback and exchange, and they can participate in an online trivia challenge to win prizes.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Exclusive Member Benefits:&lt;/strong&gt; SSPAI members and Prime members can enjoy special discounts on craft beer at the venue during the event.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Venue Introduction:&lt;/strong&gt; The SSPAI Guangzhou offline store is a community space blending digital culture, music, and craft beer to connect tech and music enthusiasts.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 木匣子 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blog.mutoo.im/2022/06/covid-experience/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;我的 Covid 经历&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A Melbourne family navigates the challenges of lockdowns, remote work, daycare decisions, and their eventual COVID-19 infection.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This personal account details a family&amp;#039;s experience navigating Melbourne&amp;#039;s strict 2020-2021 lockdowns while balancing the transition to remote work and toddler care. Following the city&amp;#039;s 2022 reopening, the parents faced the high-stakes decision of returning their unvaccinated child to daycare, managing health risks through routine rapid antigen testing. The narrative culminates with the family&amp;#039;s first direct encounter with COVID-19 infection, illustrating the practical challenges of maintaining operational and domestic continuity during the pandemic.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Early Pandemic Challenges&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The author describes living through Melbourne&amp;#039;s strict 2020-2021 lockdowns while transitioning to remote work and caring for a toddler. As the virus hit closer to home, the reality of the pandemic became undeniable.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Reopening and Childcare Decisions&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;As Melbourne reopened in early 2022 with high vaccination rates, the parents hesitantly decided to send their unvaccinated toddler back to childcare. They successfully navigated the routine using rapid antigen tests for minor symptoms.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;First Family Infection&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Following the&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blog.mutoo.im/2024/backup-with-maildir/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;以 Maildir 方式备份邮件&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The author built an AI-assisted local Maildir email backup system using Getmail6, NeoMutt, and custom deduplication scripts.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author implemented a local email backup system utilizing the lightweight Maildir directory structure to store emails retrieved via Getmail6 configured with POP3. To handle duplicate emails resulting from network timeouts during retrieval, a custom Bash script was generated by ChatGPT and manually reviewed for deduplication. For efficient local mail browsing and attachment extraction, the author deployed NeoMutt, a zero-configuration command-line mail reader. This implementation highlights a modern, AI-assisted workflow where ChatGPT accelerated tool selection, scripting, and configuration in an unfamiliar domain.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Shifts Paradigms:&lt;/strong&gt; The rise of AIGC in 2023 lowered learning barriers and reduced the author&amp;#039;s reliance on search engines, while also decreasing their desire to document thoughts.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Selecting MailDir Format:&lt;/strong&gt; Instead of searching Google, the author consulted ChatGPT to find a local email backup solution, choosing the simple and elegant MailDir directory structure.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Backing Up Emails:&lt;/strong&gt; Guided by ChatGPT, the author configured Getmail6 using a simple POP3 setup to safely download emails locally without modifying the mail server.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Deduplicating with Scripting:&lt;/strong&gt; To resolve duplicate emails caused by connection timeouts, the author used a ChatGPT-generated Bash script, which was successfully corrected after a manual code review.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Browsing with NeoMutt:&lt;/strong&gt; The author utilized NeoMutt, a zero-configuration command-line tool recommended by ChatGPT, to easily browse the backed-up MailDir emails and extract attachments.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Future of AIGC:&lt;/strong&gt; Reflecting on the experience, the author highlights how ChatGPT transformed their workflow in unfamiliar domains and looks forward to more powerful AI capabilities in 2024.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://blog.mutoo.im/2023/07/trip-to-china/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;后疫情之中国行&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A developer&amp;#039;s trip to China reveals a striking contrast between declining rural traditions and rapid generative AI adoption.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This post-pandemic travelogue chronicles an Australian-based developer&amp;#039;s family trip to China, navigating emotional reunions, traditional rural customs, and the stressful realities of the local healthcare system during a pediatric emergency. Amidst these personal events, the author observes a striking technological phenomenon: the enthusiastic, widespread adoption of generative AI tools by diverse professionals and aging family members, despite strict regional access restrictions. Ultimately, the narrative juxtaposes the decline of historic Tulou villages with the rapid, resilient tech-adaptability of the local population before the family returns to the quiet routines of Melbourne.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Journey to Xiamen:&lt;/strong&gt; The family travels from Melbourne to Xiamen, navigating a long flight with their toddler and reuniting with grandparents after five years.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Family Loss and Funeral:&lt;/strong&gt; The author&amp;#039;s wife&amp;#039;s grandmother passes away, leading the family to attend a traditional rural funeral while navigating chaotic local traffic.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Visiting the Ancestral Home:&lt;/strong&gt; The family visits the author&amp;#039;s birthplace in a quiet, declining Tulou village, contrasting it with nearby commercialized tourist sites.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Medical Trials in China:&lt;/strong&gt; The author&amp;#039;s son suffers a head injury requiring stitches, followed by a Covid infection, exposing the family to stressful local healthcare practices.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Observations on Local AI:&lt;/strong&gt; Despite access restrictions, the author finds diverse professionals and his aging father actively embracing and adapting to generative AI tools.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Return to Melbourne:&lt;/strong&gt; After a chaotic but fulfilling month, the family returns home to the quiet routine of Melbourne, assisting a young student along the way.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
