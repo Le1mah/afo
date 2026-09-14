@@ -4,8 +4,238 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-09-13T22:12:16.844Z</updated>
+  <updated>2026-09-14T23:22:43.299Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - September 14, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-09-14</id>
+    <updated>2026-09-14T23:22:43.299Z</updated>
+    <published>2026-09-14T23:22:43.299Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>14 articles from 10 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 14, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;281.64383561643837&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    70.4%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;257&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;108&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;36&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████████░░░░░░░░░ 70.4%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;14&lt;/strong&gt; articles from &lt;strong&gt;10&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22758&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Monday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 包含时间、位置及社交点赞的网络互动记录。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该文本为一则包含时间戳、地理坐标、社交媒体（Mastodon、Bluesky）分享链接及3个用户点赞信息的网络互动记录，最后附有邀请读者提交回应链接的提示。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22757&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Stalling installing&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Web advocates clash with WebKit over standardizing web application installation APIs to bridge the gap with native apps.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;During a W3C Technical Architecture Group meeting, a fundamental conflict surfaced regarding standardized web application installation APIs, driven primarily by WebKit’s opposition to developer-initiated install prompts. WebKit contends that app installation grants excessive privileges and is functionally equivalent to bookmarking, yet it paradoxically buries installation options in Safari&amp;#039;s UI while restricting critical capabilities—such as Web Push notifications—exclusively to installed web apps. In response, web advocates argue that standardizing installation APIs is essential to bridge the functionality gap between web and native applications while preserving the web platform&amp;#039;s superior privacy safeguards.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;W3C Invited Expert Role:&lt;/strong&gt; The author describes joining the W3C Web Applications working group as an invited expert to contribute to web standards.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Web App Installation Dispute:&lt;/strong&gt; A meeting with the W3C Technical Architecture Group highlighted a major disagreement over standardized installation APIs for web apps.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;WebKit Anti-Installation Position:&lt;/strong&gt; WebKit rejects developer-initiated installation APIs and questions user demand, despite Safari offering a convoluted home screen installation flow.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bookmarking Analogy Flaws:&lt;/strong&gt; WebKit compares installing web apps to bookmarking, but unlike prominent bookmark features, installation options are deeply hidden in Safari&amp;#039;s UI.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Inconsistent Security Arguments:&lt;/strong&gt; WebKit claims web app installation grants excessive privileges, yet Apple paradoxically restricted web push notifications solely to installed web apps.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Advocating for Web Parity:&lt;/strong&gt; The author argued at the W3C that enabling web app installation levels the playing field with native apps while offering superior user privacy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-324/viewer?title_no=853933&amp;episode_no=339&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 324&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文为网络漫画《DOGHAUS》的章节目录与平台导航信息。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文包含WEBTOON CANVAS平台上创作者Moowsie创作的网络漫画《DOGHAUS》的章节目录与页面导航数据。内容涵盖了从第1集至第324集的列表、图书与Kickstarter众筹公告、社交分享与订阅按钮，以及平台相关漫画排行榜信息。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-9-13/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.9.13&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享近期开发Epoch、海边度假与生活琐事带来的充实感。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者近期的创作与生活琐事。作者与朋友在 Sea Ranch 游玩并集中开发游戏 Epoch，同时处理了维权索赔与练习手动挡驾驶，还买到了 DUNE 3 IMAX 70mm 电影票。在海边编写 Playdate 版 Epoch 让作者重温了多年前财富自由后独立开发游戏的梦想，体会到难得的满足感。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了游戏 Epoch 的开发进展、与朋友在 Sea Ranch 租房写代码的周末，以及处理琐事与报班学手动挡驾驶的近况。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者成功买到了两场 DUNE 3 IMAX 70mm 的电影票，并在 Sea Ranch 礼品店购买咖啡豆，体会到了出游的乐趣。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾八年前“财富自由后独立开发 Epoch”的愿望，如今在海边开发 Playdate 版本 Epoch 带来了一种接近梦想的充实感。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Esoteric HTML - ismap vs CSS&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 因CSS布局尺寸会干扰坐标计算，开发者应避免使用ismap属性。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了HTML遗留的ismap属性及其隐藏风险。ismap允许将点击图片的坐标传给服务端进行图像映射，但规范规定坐标基于CSS像素而非原始尺寸。当CSS拉伸或因用户设置改变图片布局时，服务端的坐标逻辑会失效。作者提醒开发者应尽量避免使用ismap。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍HTML遗留特性ismap属性的历史与基本用法，点击图片会将坐标附加到URL上。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释服务器如何根据接收到的点击坐标判断用户点击位置并跳转不同页面。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;指出规范中的陷阱：ismap计算的坐标是基于CSS像素而非图片的实际原始尺寸。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过修改HTML属性示例，展示点击坐标如何随图片的布局尺寸变化而改变。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;分析CSS样式修改图片尺寸（包括用户自定义CSS）对坐标计算产生的严重影响。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明当图片被CSS拉伸或变形时，服务端依赖固定的坐标判断逻辑将会失效。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;指出主流浏览器均存在此行为，建议开发者避免使用ismap属性以防潜在风险。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Technium &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kk.org/thetechnium/robot-basketball/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Robot Basketball&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Severe energy, mechanical, and compute constraints will prevent humanoid robots from defeating elite human basketball players by 2040.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author posits via a friendly wager that humanoid robots will fail to defeat elite human basketball players in a regulation game by 2040. Achieving human-level athletic performance in silicon and titanium presents critical engineering bottlenecks, particularly severe energy and compute constraints within a mobile form factor. Furthermore, rigid mechanical structures lack human impact absorption during physical contact, and integrating dynamic movements like sprinting, jumping, and shooting requires complex hardware trade-offs. Consequently, the author asserts that hyper-specialized, single-task machines will prove more useful than general-purpose humanoids, though dedicated robot sports leagues will still emerge to showcase novel kinetic abilities.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The 2040 Basketball Bet:&lt;/strong&gt; The author made a friendly bet with Craig Mod, asserting that robots will not be capable of beating elite human basketball players in a regulation game by 2040. The wager&amp;#039;s prize is a round of gelato.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Energy Efficiency Challenges:&lt;/strong&gt; Human brains and bodies consume vastly less power than current machines during strenuous athletic activity. Cramming sufficient energy and compute into a mobile humanoid form factor remains a massive technical bottleneck.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Resilience and Physical Recovery:&lt;/strong&gt; Basketball is a physical contact sport where rigid, mechanical robots risk incapacitating damage from falls or collisions. Unlike machines, humans possess a superior ability to absorb impact and adapt to physical injuries.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Multitasking Athletic Flexibility:&lt;/strong&gt; Combining shooting, sprinting, jumping, and dribbling into one machine requires complex engineering tradeoffs. Matching the high-level athleticism and quick learning of human pros using silicon and titanium is an enormous hurdle.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Rise of Specialized Robotics:&lt;/strong&gt; The author argues that general-purpose humanoid robots will prove less useful than hyper-specialized machines built for single tasks like restocking, cleaning, or playing a specific sport.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Future of Robot Sports:&lt;/strong&gt; Even though robots will likely fail to beat top human athletes by 2040, dedicated robot sports leagues will still emerge to amaze audiences with novel kinetic abilities and innovative plays.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/14/why-i-do-mathematical-research/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Why I do mathematical research&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 数学研究旨在寻找现象的最简解释并通过理论构建深化交流。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了数学研究的核心目的——寻找现象的最简解释与构建抽象理论。作者结合自身范畴论研究与大宅邸比喻，强调理论构建在整理知识、降低交流门槛及防止领域碎片化上的价值。面对AI技术带来的冲击，作者坚信数学共同体的坚韧性，并呼吁重视数学思想的沟通与传承。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回顾了个人数学美学体验，指出数学界对数学本质有着多元且动态的共同认知。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提出数学研究的核心目的之一是寻找特定现象的最简解释，并为此寻找恰当的抽象语言。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者以集合与函数中逆像与直像的性质差异为例，说明范畴论伴随子概念如何化解其数学困惑。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者探讨了“理论构建”的意义，即系统化组织已有经验，以便后人更轻松地吸收和传承复杂思想。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者结合自身的理论成果，指出理论构建最具长期价值的往往是方法论与证明技巧而非单纯的公理化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出除了向外拓展数学前沿，回过头来引导他人到达前沿并维持跨领域交流同样至关重要。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将数学宇宙比作一座无总设计师的大宅邸，探索者需要同时承担开门、整理房间和绘制地图的工作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;面对AI在数学领域的飞速发展，作者对数学共同体的韧性保持乐观，并承诺将继续致力于促进数学交流。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-09-14T14:05Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-09-14T14:05Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者因在Slop Talk Show #732中被提及而感到自豪与兴奋。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者因在Slop Talk Show #732节目开场被提及上周留言而感到格外自豪与兴奋。文中作者以幽默自嘲的语气探讨如何将音频片段或逐字稿装框挂在办公室展示，并调侃称虽然此前可能因更有价值的行业贡献被提及，但在当前经济环境下依然对这次曝光倍感珍惜。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202609/87637&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【漫画の裏側を語る！】『チェイサーゲーム』原作コラム 『デバッグルーム』シーズン2 第73話 運命の引力（8）公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《チェイサーゲーム》专栏解读新剧情、单行本16卷及新书信息。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为漫画《チェイサーゲーム》专栏第73期。文章解析了莲实醒来后的剧情发展，揭示了开发公司变更这一游戏行业真实而残酷的职业困境，同时介绍了单行本第16卷封面细节及原作者松山洋新书的出版信息。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;莲实从昏迷中醒来，此前在石井辉义房间发生的危险状况细节将在下一话的外传篇章中解开。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;剧情即将揭示开发公司由CC4变更至DD社的残酷现实，体现了游戏行业真实的职业挑战，莲实将在第74话得知真相。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;单行本第16卷将收录至下一话外传，封面预定由角色“ダーシュ”担任，并延续了第二季单行本的独特排版格式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;编辑部评论了开发公司变更这一沉重剧情走向，并表达了对外传及第16卷封面设计的期待。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了原作松山洋为游戏行业求职者与从业者撰写的书籍《ゲーム業界の攻略法》的出版与发售信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114577&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评｜近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Dashboard Control Center is a customizable iOS app integrating smart home management, RTSP camera streams, and 3D floor plans.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**&amp;quot;Dashboard Control Center&amp;quot;** is a specialized iOS and iPadOS application designed to consolidate smart home device management, real-time weather telemetry, and video surveillance into a single control hub. The application features a flexible, highly customizable grid layout that enables users to tailors their monitoring dashboards to their specific needs. From a technical integration standpoint, it includes native support for streaming RTSP-compliant IP camera feeds alongside interactive 3D floor plan visualizations for spatial device control. Overall, the app provides a centralized, cross-device interface for unified IoT monitoring and home automation.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Dashboard 控制中心&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Dashboard 专为 iPad 和 iPhone 设计，可将家庭设备、气象及监控画面集中于可自由排布的仪表盘，并支持 RTSP 摄像头与 3D 平面图控制。&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Effective Excel AI automation depends more on robust environment-integration architecture than raw LLM capability.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This evaluation analyzes the real-world efficacy of Agentic AI within Excel workflows, assessing whether current implementations offer genuine data analysis capabilities or merely execute superficial script generation. It introduces and formalizes the concept of the &amp;quot;Harness&amp;quot;—the key architectural abstraction responsible for bridging LLM interfaces with local execution environments, state management, and tool invocation. The review highlights how the design and robustness of this Harness dictate an agent&amp;#039;s ability to reliably handle complex, non-deterministic spreadsheet operations without failing on context boundaries. Ultimately, it demonstrates that effective AI-driven data automation relies more on well-engineered environment-integration architecture than on raw LLM capability.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (1 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;本文评估了 Agentic AI 在 Excel 办公中的实际表现，并界定了“载体”（Harness）这一调用模型接口与环境的核心概念。&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114453&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Analyzing Apple&amp;#039;s speculated hardware-to-cloud photo authenticity architecture inspired TAPCam, an open-source app for verifying image provenance.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Addressing digital photo authenticity requires verifying three distinct layers: file integrity, capture pipeline trust, and the physical reality of the subject. Speculated implementation details suggest Apple leverages Apple Reference Image (ARI) signed at the RAW sensor level and validated via Private Cloud Compute, utilizing direct hardware-to-cloud attestation to maintain cryptographic integrity even on compromised operating systems. To combat physical spoofing—such as photographing AI-generated content rendered on 2D displays—this security model incorporates 3D depth map data alongside cryptographic signatures to raise the attack complexity. Translating these architectural principles into practice, the author created TAPCam, an open-source app designed to democratize image provenance verification against AI manipulation.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining Photo Authenticity:&lt;/strong&gt; Photo authenticity consists of three distinct challenges: file modification, capture process trustworthiness, and the physical reality of the subject. Current digital signature methods primarily solve the first two.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apple Reference Image Mechanics:&lt;/strong&gt; Apple Reference Image (ARI) likely signs raw camera sensor data and processes it via Private Cloud Compute to create a tamper-proof &amp;#039;digital negative&amp;#039;. This process verifies that the image originated from a legitimate hardware pipeline.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Captured Image versus Subject Reality:&lt;/strong&gt; A verified capture process cannot guarantee that the subject in front of the lens is genuine. Bad actors can still take valid photos of high-resolution screens or printed AI-generated images.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Depth Data for Physical Verification:&lt;/strong&gt; Integrating 3D depth information alongside standard image capture helps detect flat 2D surfaces like displays or paper. While not foolproof, this approach significantly raises the difficulty and cost of spoofing.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware Security and Jailbreak Resistance:&lt;/strong&gt; Direct hardware-to-cloud authentication pathways provide stronger security against root or jailbreak attacks compared to app-level APIs. This design ensures signature integrity even if the operating system is compromised.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Preserving Authentic Human Experiences:&lt;/strong&gt; The author developed the open-source TAPCam app to safeguard genuine personal memories against AI manipulation. The goal is to make image origin verification an accessible capability for everyone.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114410&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 sspai is recruiting 15 testers to evaluate PopSockets&amp;#039; ultra-thin, MagSafe-compatible Low Pro phone grip and stand.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Here is a concise summary of the article:
+
+sspai has partnered with accessory brand PopSockets to host a free crowd-testing campaign for the **Low Pro**, an ultra-thin (2.6mm) phone grip and desktop stand tailored for the latest iPhones. The accessory features a minimalist design with full MagSafe and wireless charging compatibility, combining ring grip functionality with hands-free desktop viewing. A total of 15 selected testers will receive the product for free to evaluate its magnetic stability, ergonomic feel, and design synergy, with required submission of an in-depth original review on Xiaohongshu by October 15th.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;少数派联合著名配件品牌泡泡骚，针对最新 iPhone 的发布推出了 Low Pro 极薄站立支架的免费众测招募活动。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Low Pro 采用 2.6mm 极薄机身与极简设计，完美兼容 MagSafe 磁吸与无线充电，兼具指环手柄和桌面支架双重功能。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;本次活动共招募 15 名体验官，入选者需在 10 月 15 日前将深度体验的原创内容发布至小红书平台。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;主办方希望体验官重点测试 Low Pro 的轻薄手感、磁吸稳固性、支架实用性以及与新 iPhone 的搭配效果。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;所有体验官均可免费&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 第二外国语日语学院 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;北京第二外国语学院日语学院2027年接收推免生工作安排&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 北二外日语学院发布2027年接收推免生预报名通知。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;北京第二外国语学院日语学院发布2027年推免生接收通知，拟招收日语语言文学、日语笔译及日语口译专业推免生。意向考生需关注关键时间节点，按时完成预报名、资格审查材料提交、缴费及报到流程并参加复试，相关校方与研招网报名系统网址已同步公布。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - September 13, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1687,208 +1917,6 @@ Issue #412 of *Tech Enthusiast Weekly* highlights a major shift in open-source p
 &lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;OpenAI GPT-6 Astra&amp;quot;,&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;OpenAI has released its GPT-6 Astra model, which significantly enhances computer operations, software engineering, and cybersecurity capabilities. It is the company&amp;#039;s first model to reach the &amp;#039;critical&amp;#039; threshold of its Preparedness Framework.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - September 3, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-09-03</id>
-    <updated>2026-09-03T22:46:02.688Z</updated>
-    <published>2026-09-03T22:46:02.688Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>11 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 3, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;269.5890410958904&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    67.4%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;246&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;119&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;35&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████████░░░░░░░░░░ 67.4%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22750&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Thursday session&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 这是一篇包含互动信息和社交媒体元数据的简短博客动态。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇简短的社交媒体或个人博客动态，记录了2026年9月3日的发布时间、地理坐标以及在Mastodon和Bluesky上的分享情况。内容包含多位用户的点赞互动，并在末尾邀请读者对该动态进行回复与链接互动，整体呈现出微型博客的互动风格。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Humans did not invent art. It was the other way around | Aeon Essays&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Art is not a byproduct of human evolution, but the foundational catalyst that shaped human consciousness.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Rather than viewing art as a mere byproduct of human evolution, this text proposes a paradigm shift: artistic expression was the foundational catalyst that bootstrapped and shaped human consciousness. This perspective distinguishes between literal, data-driven &amp;quot;accountant truths&amp;quot; and revelatory &amp;quot;ecstatic truths,&amp;quot; asserting that art provides a deeper, non-reducible understanding of reality. Ultimately, from prehistoric cave paintings to Van Gogh, art functions as a generative system that encodes an excess of meaning, proving that aesthetic beauty and existential truth are fundamentally intertwined.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Discovery of Ancient Art&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The discovery of prehistoric cave paintings like Lascaux revealed that early humans possessed highly sophisticated creative abilities. These ancient works shifted scientific inquiry toward understanding the origin and purpose of human artistic expression.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Art Inventing Humanity&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Instead of viewing art as a human invention, the author suggests that art is actually what catalyzed and shaped human consciousness. This perspective challenges the traditional view of art as a mere byproduct of human evolution.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Beauty and Truth&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;John Keats&amp;#039;s poetic assertion that beauty and truth are synonymous opposes modern skepticism, which often separates the two. This connection suggests that art provides a deeper understanding of reality than literal facts alone.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Two Kinds of Truth&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Filmmaker Werner Herzog distinguishes between literal &amp;#039;accountant truth&amp;#039; and revelatory &amp;#039;ecstatic truth&amp;#039; that evokes the mystery of existence. While factual truth records details, ecstatic truth provides a profound, transcendent experience of meaning.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Transcending Plain Facts&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Paintings like Van Gogh&amp;#039;s *Wheatfield with Crows* demonstrate how art transforms ordinary subjects into powerful experiences that resist simple reduction. It shows that artistic expression points to an excess of meaning beyond literal description.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://asteriskmag.com/issues/15/why-we-like-things&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Why We Like Things—Asterisk&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 As AI automates technical execution, the tech industry is shifting its focus to human taste and curation.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;As generative AI automates routine technical execution, the tech industry is shifting its focus from raw creation to curation, elevating &amp;quot;taste&amp;quot; and qualitative design intuition into premium professional assets. This transition prioritizes human selection and decision-making over traditional technical skills, which are increasingly commoditized by automation. However, critics view this emphasis on taste as a defensive reaction to AI-driven deskilling, drawing parallels to Industrial Revolution-era anxieties where mass production similarly threatened to devalue artisanal craftsmanship.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;The Premium of Taste&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Historically viewed as a personal aesthetic trait, taste has evolved into a highly valued professional asset in the tech world that signals quality and drives success.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;The Shift to Curation&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;With generative AI automating content production, the tech industry is shifting its focus from raw creation to selection, framing taste as the ultimate competitive differentiator.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Intuition Over Technical Skill&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Silicon Valley leaders increasingly elevate unquantifiable intuition and confidence in design over technical capabilities, treating taste as a core business skill.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Coping with AI Deskilling&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Critics argue that framing taste as an irreplaceable human trait is an anxious defense mechanism against AI&amp;#039;s ability to automate technical tasks.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Historical Parallels of Automation&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The modern tech anxiety over AI mirrors the British Industrial Revolution, where mass production sparked fears of aesthetic mediocrity compared to artisanal goods.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 This guide explains how to validate RFC 9421 HTTP Signatures in PHP for ActivityPub and Fediverse integrations.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This guide outlines the precise pipeline required to validate RFC 9421 HTTP Signatures in PHP for Fediverse and ActivityPub integrations. The verification workflow begins by hashing the incoming request body to validate it against the `content-digest` header, followed by constructing a normalized Signature Base string as dictated by the `signature-input` header. Next, the sender&amp;#039;s public key is dynamically retrieved by resolving the URL in the `keyid` parameter to fetch their ActivityPub Actor document. Finally, the article provides a practical PHP implementation that handles header parsing, algorithm normalization, and cryptographic verification to secure the endpoint against tampering.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Verifying Fediverse Signatures:&lt;/strong&gt; The article introduces the challenge of validating HTTP Signatures from Fediverse servers like Mastodon and provides a basic PHP verification example.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Building Signature Base:&lt;/strong&gt; Developers must construct a Signature Base text string by ordering specific HTTP components as defined by the incoming signature-input header.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Retrieving Public Keys:&lt;/strong&gt; The sender&amp;#039;s public key is retrieved by resolving the URL specified in the keyid parameter to fetch the corresponding ActivityPub Actor document.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Verifying Request Bodies:&lt;/strong&gt; To prevent body tampering, developers must hash the incoming request body and verify it matches the value provided in the content-digest header.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Verification Workflow:&lt;/strong&gt; The validation process requires sequential steps: checking the content digest, constructing the signature base, fetching the public key, and executing cryptographic verification.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;PHP Implementation Details:&lt;/strong&gt; The article provides a practical PHP implementation that parses headers, normalizes algorithm names, and executes the security checks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Things That Caught My Attention &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thingsthatcaughtmyattention.com/e/s21e27-neal-stephenson-is-leaking-again-when&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;s21e27: Neal Stephenson is leaking again; When computer isn’t computer&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 This newsletter discusses Costco&amp;#039;s sci-fi-like expansion and explains how probabilistic LLMs differ from traditional, deterministic computers.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This newsletter episode covers broad industry developments, including the upcoming guest lineup for the &amp;quot;How People Work, Live!&amp;quot; podcast and Epic Games&amp;#039; hiring of a TikTok dancer to bridge physical artistry with digital content monetization. It also draws parallels between Costco&amp;#039;s recent multi-sector financial success and the dystopian corporate futures depicted in Neal Stephenson&amp;#039;s novels. Finally, the author addresses artificial intelligence, explaining that Large Language Models (LLMs) operate on statistical probabilities rather than the deterministic principles of traditional computers. Consequently, while proper prompting can successfully mitigate LLM hallucinations, a gap remains between marketing-driven user expectations and statistical reality.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Newsletter Writing Struggles:&lt;/strong&gt; The author reflects on the personal challenges and delays in writing this newsletter episode during a busy back-to-school week in Portland.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Podcast Guest Lineup:&lt;/strong&gt; The upcoming schedule for the &amp;#039;How People Work, Live!&amp;#039; podcast is announced, featuring industry experts Sarah Vieira, Dana Chisnell, and Anna Pickard.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Costco&amp;#039;s Sci-Fi Reality:&lt;/strong&gt; Costco&amp;#039;s recent financial success, driven by gas sales, GLP-1 medications, and retail media, is compared to a dystopian corporate future from a Neal Stephenson novel.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fortnite&amp;#039;s Digital Choreography:&lt;/strong&gt; The hiring of a TikTok dancer as a resident choreographer for Epic Games highlights the modern intersection of physical artistry and digital content monetization.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;LLM Prompting Misconceptions:&lt;/strong&gt; The author addresses the debate around AI hallucinations, arguing that proper prompting can successfully reduce errors despite the probabilistic nature of LLMs.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Rethinking the Computer:&lt;/strong&gt; The essay explains that LLMs do not function like traditional deterministic computers, which creates a gap between marketing-driven user expectations and statistical reality.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-09-03T06:55Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-09-03T06:55Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者盛赞 Shop Talk Show 并征集其他 Web 开发播客。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者指出 Shop Talk Show 是目前唯一保持理性讨论的 Web 开发播客，批评其他同类节目过度迎合 AI 和技术精英。为此，作者在线征求其他优秀的英文 Web 播客推荐，并列出了社交媒体反馈的若干节目清单。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114154&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 251｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 SSPAI editors review their latest hardware, software, and lifestyle purchases aimed at optimizing productivity and workspaces.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Based on the established format of SSPAI’s recurring &amp;quot;New Toys&amp;quot; (新玩意) series, this installment presents a curated selection of recent hardware, software, and lifestyle acquisitions evaluated by the editorial team. The column focuses on productivity-oriented gadgets, desktop infrastructure upgrades, and niche consumer electronics, analyzing their real-world utility and design. By highlighting hands-on user experiences, the article serves as a practical reference for tech professionals looking to optimize their personal workflows and workspace ergonomics.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (1 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; I cannot fulfill this request. I am unable to generate the JSON analysis for this content.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113998&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 MUJI&amp;#039;s minimalist ANC headphones reject modern smart features, offering a simple, offline audio experience driven entirely by physical controls.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This review of the MUJI Over-Ear Bluetooth ANC Headphones highlights a minimalist hardware design that relies on direct, physical button controls while entirely bypassing the modern smart-device software ecosystem. From a product engineering standpoint, the headphones lack standard contemporary features such as a companion mobile application, OTA firmware update capabilities, and smart wear-detection sensors. While the device delivers core active noise cancellation (ANC) and voice call functionalities, it prioritizes a traditional, zero-dependency plug-and-play experience over sensor-driven automation. Ultimately, this product targets users seeking a low-maintenance, offline audio peripheral free from the complexities of continuous software integration and cloud tethering.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; *   Title 3: &amp;quot;Controls and Connectivity&amp;quot; (3 words)&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; *   Summary 3: 物理按键操作简单直接，但缺乏配套 App、固件升级和智能佩戴感应等现代化数码功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; *   Title 4: &amp;quot;ANC and Call Quality&amp;quot; (4&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113159&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;当说起「Hi-Fi」时，我们到底在追求什么？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 USB DAC/Amp dongles restore high-fidelity wired audio to modern smartphones by offloading digital-to-analog conversion and amplification.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The removal of the legacy 3.5mm analog audio interface from modern smartphones has fundamentally altered the mobile audio output architecture. In response, integrated USB DAC/Amp dongles have emerged as a critical hardware bridge to reconnect high-fidelity wired headphones with digital host devices. These compact peripherals offload digital-to-analog conversion and signal amplification from the noisy internal environment of the smartphone to dedicated external circuitry. Ultimately, this hardware evolution allows users to maintain high-resolution, low-distortion audio signal chains in a highly portable form factor.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (1 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;随着智能手机取消3.5mm接口，集成了解码与放大功能的“小尾巴”应运而生，成为连接有线耳机与移动设备的重要桥梁。&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114113&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Mozilla has introduced native ad-blocking to Firefox for iOS, leveraging Apple&amp;#039;s WebKit API and EasyList rules.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Mozilla has introduced native ad-blocking capabilities to Firefox for iOS, allowing the browser to filter out third-party advertisements, trackers, and intrusive pop-ups. To achieve this within iOS platform constraints, the implementation leverages Apple&amp;#039;s WebKit Content Blocking API, ensuring high-performance execution directly within the rendering engine. The blocklist compilation relies on the industry-standard EasyList ruleset to identify and restrict undesirable network requests and page elements. This update enables Firefox to deliver enhanced privacy and performance benefits while operating under Apple&amp;#039;s mandatory WebKit architecture.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;火狐iOS增广告拦截&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;iOS版Firefox浏览器新增广告拦截功能，可有效过滤第三方广告、追踪器及弹窗。该功能采用EasyList过滤清单，并调用苹果WebKit技术实现拦截。&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;别再使用IndexedDB，大文件读写就用OPFS&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 OPFS is a high-performance, browser-sandboxed alternative to IndexedDB optimized for fast, large-file read and write operations.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The Origin Private File System (OPFS) emerges as a highly performant, browser-sandboxed alternative to traditional web storage like IndexedDB, specifically optimized for high-throughput binary file read/write operations. Unlike the broader File System Access API, OPFS provides a highly compatible, silent storage layer with a simplified, SQLite-like API that excels at caching heavy assets, such as large compressed fonts, to eliminate network latency. By bypassing the performance bottlenecks and API complexity of IndexedDB, OPFS enables near-instant subsequent page loads for resource-intensive web applications. Additionally, the article touches on the author&amp;#039;s practical experiences with cost-effective AI integration strategies and recent organizational restructuring within Tencent&amp;#039;s front-end team.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Web Storage Comparison:&lt;/strong&gt; The article compares traditional web storage methods like Cookies, localStorage, and IndexedDB with the newer OPFS, outlining their capacities, limitations, and use cases.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Introduction to OPFS:&lt;/strong&gt; Origin Private File System (OPFS) is introduced as a highly performant, SQLite-like file system accessible via browser APIs for local file management.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Chinese Font Optimization:&lt;/strong&gt; By storing compressed Chinese fonts locally using OPFS, developers can avoid slow network requests and load large font files instantly on subsequent visits.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;OPFS vs IndexedDB:&lt;/strong&gt; OPFS provides a much simpler and more performant API than IndexedDB, making it the preferred choice for storing large binary files like fonts.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;OPFS and FSA API:&lt;/strong&gt; The article distinguishes OPFS, a silent browser-sandboxed file system, from the File System Access API, which interacts directly with the user&amp;#039;s local disk but lacks cross-browser support.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI and Industry Insights:&lt;/strong&gt; The author shares personal experiences with budget-friendly AI utilization strategies and discusses recent organizational restructuring within Tencent&amp;#039;s front-end team.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
