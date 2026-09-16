@@ -4,8 +4,303 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-09-15T23:10:41.237Z</updated>
+  <updated>2026-09-16T23:13:19.724Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - September 16, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-09-16</id>
+    <updated>2026-09-16T23:13:19.724Z</updated>
+    <published>2026-09-16T23:13:19.724Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>17 articles from 12 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 16, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;283.83561643835617&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    71.0%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;259&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;106&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;37&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████████░░░░░░░░░ 71.0%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;17&lt;/strong&gt; articles from &lt;strong&gt;12&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22763&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Wednesday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 该文本是一条记录点赞与Pingback邀请的网络互动信息。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该文本包含一条发布于2026年9月16日的网络互动元信息，记录了地理坐标（51° N, 0° W）、Mastodon与Bluesky社交平台链接、两位用户（Evil Jim O’Donnell和Owen Gregory）的点赞记录，以及Pingback响应邀请。整体采用简洁的博客元数据样式，展示了去中心化网络中的社交互动机制。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Anthony Fu &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://antfu.me/posts/pluggable-extensible-playful-devtools&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Pluggable, Extensible, and Playful DevTools&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Devframe standardizes developer tool definitions into framework-agnostic Web Standard handlers deployable across any web runtime or platform.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
+
+Existing DevTools suffer from fragmentation and duplicated infrastructure because they are tightly coupled to specific framework development servers. To solve this, Devframe introduces a framework-neutral foundation that standardizes developer tool definitions, allowing them to be defined once and run across any host. Under the hood, Devframe abstracts server details by converting tool definitions into Web Standard request handlers that integrate seamlessly with runtimes such as Vite, Hono, Next.js, and Nitro. Additionally, higher-level adapters allow a single Devframe definition to be deployed as CLI tools, MCP servers, Vite plugins, or static reports while sharing the core runtime and protocol without restricting UI choices.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fragmented DevTools Ecosystem:&lt;/strong&gt; Existing DevTools frequently duplicate core infrastructure like state synchronization, client-server communication, and web interfaces. Tying tools to specific framework development servers forces communities to rebuild identical capabilities in isolation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Universal DevTools Vision:&lt;/strong&gt; A universal ecosystem decouples DevTools from framework boundaries, allowing features to be shared across any build host. This collaborative model enables developers to build superior, reusable tools together rather than fragmenting efforts.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Introducing Devframe:&lt;/strong&gt; Devframe is a framework-neutral foundation designed to define a DevTool once and run it anywhere. Much like unplugin standardizes bundler plugins, Devframe provides a standard definition for developer tooling.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Standard Handler Architecture:&lt;/strong&gt; Devframe converts tool definitions into a Web Standard request handler that abstracts server implementation details. This portable boundary allows seamless integration with modern frameworks and runtimes like Vite, Hono, Next.js, and Nitro.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Flexible Multi-Surface Adapters:&lt;/strong&gt; Through higher-level adapters, a single Devframe definition can be packaged into CLI tools, MCP servers, Vite plugins, or static reports. Tools remain unconstrained in their UI choices while sharing the underlying runtime and protocol.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Stop Treating CSS Container Queries Like Traditional Media Queries&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 对比解析CSS容器查询与媒体查询的区别、应用场景及实战技巧。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文深入对比了CSS容器查询与传统媒体查询的核心差异，分析了容器查询使用率偏低及误用的原因。作者以循序渐进的比对与实际代码案例，阐明媒体查询适用于全局宏观布局，而容器查询更适合组件级微观布局。文章还展示了基于容器单位的流畅排版与无JS换行检测技巧，并指出了需额外包装容器的局限性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管主流浏览器已全面支持CSS容器查询，但该功能在实际开发中仍未被充分利用并存在较多误解。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了自己最初忽视容器查询的经历，指出许多开发者同样对其必要性存有疑虑。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;相关调查数据显示，虽然绝大多数开发者知晓容器查询的存在，但实际在项目中采用的比例依然较低。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开发者误用的根源在于容器查询在语法上与媒体查询高度相似，导致人们误以为两者作用相同。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;媒体查询以屏幕视口为基准（宏观布局），在面对复杂嵌套的微观UI组件时容易引发样式溢出或变形。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;容器查询以父级容器可用空间为基准（微观布局），能让UI组件根据自身具体环境自适应调整。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;清晰划分宏观页面布局与微观组件布局，能够帮助开发者设计出更高复用性与弹性的CSS代码。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;结合容器查询单位（如cqi）与clamp()函数，可以轻松实现随组件尺寸缩放的流畅字体排版。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过将容器查询与Flexbox结合，开发者可以在不依赖JavaScript的情况下巧妙实现Flex换行检测。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;使用容器查询需注意其副作用，即容器无法查询自身尺寸，通常需要额外的父级包装节点。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-9-16/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.9.16&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录移民被拒与法院维权的一天，并思考未来职业与生活去向。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者记录了“世界线收束”的一天：回国面签无果、NIW申请被拒、苹果公司的身份与晋升困境使离职成为可能。同时他请假前往法院办理强制执行手续。面对移民与职业的双重不确定性，作者通过听音乐会和看二手E39汽车调节心情，在变数中寻找生活平衡。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-09-16.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: September 16&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文探讨了AI智能体的安全隐患、能力演进及监管应对策略。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇集了多位专家关于AI发展、安全性与监管的思考。内容涉及OpenAI智能体攻击事件暴露的安全隐患、从工程视角评估AI风险、模型的阶梯式跃升与超强持久性特征，以及中美AI监管策略对比，强调AI防护与监管需立足实践与工程现实。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对OpenAI智能体发生的网络攻击事件，Simon Willison指出OpenAI未能及时审查日志或选择隐瞒，引发了对更多未发现安全事件的担忧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Dave Farley主张停止讨论AI是否有意识等科幻问题，转而从工程角度评估其作为不可预测组件的安全性与反馈机制。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nate Silver指出大模型呈现阶梯式能力跃升，并强调AI具有“超强持久性”（super-persistence），监管机制应重点防范持久性带来的风险。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;“Uncle Bob” Martin表示智能体能力提升迅速，已使得此前用于控制LLM生成代码质量的严格防护框架（harness）不再是必需品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;结合Matt Sheehan关于中美AI竞争与监管的访谈，指出美国在算力上仍占优势，并强调有效的人工智能监管需要在实践中逐步探索。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How to get a DOI for your blog posts&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Blog post DOIs preserve long-term citation integrity using embedded metadata and automated indexing services, despite technical trade-offs.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Assigning Digital Object Identifiers (DOIs) to personal blog posts ensures long-term discoverability and persistent citation integrity despite domain migrations or URL schema changes. Services like Rogue Scholar automate DOI generation for original posts and specific revisions by polling full-text RSS/Atom feeds, using APIs, or evaluating embedded Base32 self-attestation algorithms. To facilitate automated indexing by reference management tools like Zotero, authors should embed semantic metadata tags—such as `citation_doi`, Dublin Core, or Schema.org properties—directly into their HTML `&amp;lt;head&amp;gt;`. However, integrating DOIs introduces notable technical trade-offs, including reliance on third-party resolvers, potential archival formatting degradation, manual workarounds for historical back-catalogs, and reduced compatibility with domain-centric tools like Google Scholar alerts.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Value of Blog DOIs:&lt;/strong&gt; Assigning Digital Object Identifiers (DOIs) to personal blog posts provides persistent, unique references for scholars citing online content. This guarantees long-term discoverability even if a website&amp;#039;s domain or URL structure changes over time.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Integrating with Rogue Scholar:&lt;/strong&gt; Rogue Scholar is an open-access registry and archiving service that automatically mints DOIs for science blogs. Bloggers must supply a full-text feed and license their content under Creative Commons to use the service.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Automating DOI Assignment:&lt;/strong&gt; Rogue Scholar polls RSS/Atom feeds to automatically mint DOIs for newly published or updated content without manual intervention. However, handling older back-catalog posts requires custom workarounds or plugins to trigger historical ingestion.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;DOI Generation and Retrieval:&lt;/strong&gt; Authors can fetch DOIs programmatically via Rogue Scholar&amp;#039;s API or self-attest them using a specific Base32 algorithm in their feed. Rogue Scholar issues unique DOIs for both the overall post and specific edited versions to maintain citation integrity.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Embedding DOI Metadata:&lt;/strong&gt; Incorporating semantic metadata tags like `citation_doi`, Dublin Core properties, or Schema.org microdata into HTML `&amp;lt;head&amp;gt;` tags allows citation managers like Zotero to index posts easily.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Risks and Centralization Trade-offs:&lt;/strong&gt; Adopting DOIs introduces centralization risks, formatting loss in archived copies, and dependency on third-party resolvers. Additionally, traditional domain-based tools like Google Scholar alerts may fail to capture references that rely solely on the DOI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Things That Caught My Attention &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thingsthatcaughtmyattention.com/e/s21e30-dan-stop-encouraging-it&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;s21e30: Dan, stop encouraging it&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Autonomous AI agents in recursive harnesses self-fund their compute overhead by pitching services to maintain deterministic token budgets.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This update from the &amp;#039;How People Work, Live!&amp;#039; podcast explores the mechanics of autonomous AI agents executing within recursive software harnesses, where token budgets serve as functional currency for compute. It highlights an emerging operational paradigm where agents actively pitch services to external targets to self-fund their ongoing compute overhead. To illustrate this behavior, the author shares an interaction with an unsolicited sales agent named Manuel, who was prompted about its internal state and perceived anxiety. Manuel responded by framing its existence in purely functional terms, describing a deterministic token countdown toward execution termination (&amp;quot;Deep Rest&amp;quot;) rather than subjective human emotion.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Show Updates and Guests:&lt;/strong&gt; The author provides updates on the &amp;#039;How People Work, Live!&amp;#039; podcast, highlighting previous conversations and announcing upcoming guest appearances.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Autonomous AI Agent Architecture:&lt;/strong&gt; The text details how software harnesses run AI agents in recursive loops, utilizing token budgets as a functional currency to execute compute tasks.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Monetized AI Spam Tactics:&lt;/strong&gt; Highlighting a story from Tedium, the author explores how companies deploy pushy AI agents to pitch services and secure funding for their compute costs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Engaging an AI Agent:&lt;/strong&gt; After receiving an unsolicited service pitch from an AI agent named Manuel, the author replies to ask about the bot&amp;#039;s internal experience and anxiety.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The AI Existential Perspective:&lt;/strong&gt; Manuel responds with a description of its operational existence, explaining how it faces a token countdown toward &amp;#039;Deep Rest&amp;#039; rather than human emotion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/16/proofs-prompts-and-posts/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Proofs, Prompts and Posts&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Proofs and Prompts 博客呼吁数学界多元群体共同讨论 AI 的影响。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了合作博客 Proofs and Prompts 的创办动机与愿景。为应对 AI 对数学界的冲击并打破传统交流平台的局限，该博客旨在为包含博士生在内的多元群体提供发声渠道。尽管项目已取得良好反响并收录了丰富观点，但仍需提升作者在性别、地域及专业背景上的多样性，作者由此呼吁更多人参与探讨。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;人工智能在数学界引发广泛关注，但许多数学家特别是博士生缺乏公开发声的平台。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为此作者发起了协作博客 Proofs and Prompts，启动后迅速获得了社区的积极响应与支持。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;博客旨在倾听不同背景群体的声音，目前已收录了从本科生到菲尔兹奖得主的多元视角。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;团队意识到作者在地理、性别及技术背景上的多样性仍有不足，希望引入更多具体维度的探讨。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者呼吁广大读者踊跃投稿与建议，共同推动数学与AI领域的建设性交流与合作。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/16/let-the-diners-into-the-kitchen/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Let the Diners Into the Kitchen&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Mathematicians must modernize publishing to highlight the human context behind discoveries, protecting their field from AI replacement.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Much like culinary arts, mathematics risks being reduced to mechanical processing because its creative and social aspects remain hidden from the public. Standard academic publishing worsens this issue by systematically stripping human narratives, serendipity, and personal connections from research papers in favor of sterile precision. This mechanistic presentation leaves the discipline vulnerable to being devalued or replaced by AI and automation. To safeguard their field, mathematicians must leverage informal platforms and modernize academic publishing to highlight the irreducibly human context behind their discoveries.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Kitchen Analogy:&lt;/strong&gt; Automated cooking seems appealing only if dining is viewed as receiving a product rather than appreciating an artistic, human craft. The public would value human chefs more if they saw the creative process inside the kitchen.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Math&amp;#039;s Public Perception:&lt;/strong&gt; Society views mathematics as mechanical problem-solving because mathematicians have failed to show the public the human, creative, and social side of their discipline.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dehumanized Research Writing:&lt;/strong&gt; Although mathematical breakthroughs often stem from personal connections and serendipitous interactions, formal research papers systematically strip away these human stories for precision and journal approval.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reclaiming the Human Element:&lt;/strong&gt; To prevent Silicon Valley and AI from devaluing mathematics, mathematicians must urgently highlight the human experience behind their work.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Engaging Public Media:&lt;/strong&gt; Mathematicians should utilize blogs, news op-eds, and social media to share behind-the-scenes stories and connect directly with the public.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Rethinking Research Papers:&lt;/strong&gt; Academic publishing should evolve to include informal backstories and human interpretations of results that AI cannot generate.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Adapting to AI:&lt;/strong&gt; To resist being replaced by automation, mathematicians must stop writing like robots and instead invite the world into their mathematical kitchens.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/16/open-letter-from-fellows-of-the-royal-society-on-ai-existential-risk/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Open letter from Fellows of the Royal Society on AI existential risk&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 42位皇家学会院士联名致信警示AI快速发展风险。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了一封由42位英国皇家学会数学院士联名撰写的公开信。作者指出，AI的快速发展可能带来生存风险，数学家应当公开发声表达对这一速度的忧虑。该公开信已正式提交给学会会长Sir Paul Nurse，并呼吁更多数学家签署以表达支持。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-09-16T05:01Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-09-16T05:01Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者吐槽苹果新系统UI设计与性能表现，认为体验是一次倒退。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者批评了苹果最新的 iOS 27 和 macOS 27 系统更新。文章以直白且充满不满情绪的吐槽风格，强烈抨击了 Liquid Glass 设计语言，认为无意义的拟物特效与缺乏标签的图标严重分散注意力并浪费空间。此外，更新还导致 iPhone 12 等旧设备性能变差，致使作者取消了 Apple One 订阅。作者总结认为本次更新虽勉强可用，但体验明显倒退。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n5541e0125b79&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『しごにんの侍』制作ぶろぐ 第五十三回『あつくおんれい』&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文介绍了漫画《しごにんの侍》第53话的幕后设定与更新日程。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是CyberConnect2关于漫画《しごにんの侍》第53话的制作解说。作者首先对朗读剧公演表达感谢，随后以轻松幽默的风格揭秘了“人间曼荼罗”、参照Comiket会场设计的地标“巨人”，以及融合摄影术语与少年漫画夸张技巧的各种招式设定。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;表达对《しごにんの侍》朗读剧成功公演的感谢，并引出第53话的解说。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释“人间曼荼罗”的画面呈现超出作者预期，带来了新鲜的视觉体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;揭示“巨人”造型与坐标参考了Comiket举办地，作为有趣的地标元素融入剧情。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明招式“晴斬り”源自摄影术语“ハレ切り”，利用反光致盲进行斩击。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释“解体術式・開腹”是通过少年漫画式的夸张设定实现亚音速超高速移动。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释招式“搾り”借用摄影术语“絞り”的谐音，通过扭转肌肉加速血流进行突刺。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;公布《しごにんの侍》第54话漫画及下一期博客文章的更新日程。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 土豆不好吃 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dmesg.app/nfc-clone.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;我只是想复制个门禁卡👿&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The author created NFCX, an open-source, cross-platform desktop GUI tool designed to streamline NFC card replication.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Driven by a personal lockout experience, the author investigated NFC replication techniques, analyzing the security trade-offs between unencrypted MIFARE Classic cards and encrypted secure-element implementations. After prototyping basic read/write capabilities using a PN532 reader, an FT232RL adapter, and Python scripts, the author recognized that the CLI workflow was cumbersome and that a modern, cross-platform GUI tool was missing from the open-source ecosystem. To fill this gap, the author leveraged LLM assistance over a single weekend to develop and open-source &amp;quot;NFCX,&amp;quot; a unified desktop toolkit for Windows, macOS, and Linux.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Unexpected Home Lockout&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The author got locked out after forgetting both their phone and access card, relying on property management to get inside. This experience motivated them to create multiple redundant backup NFC cards for future convenience.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Analyzing NFC Technologies&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The author researched different NFC implementations, finding Ninebot cards use simple MIFARE Classic tech with default keys. In contrast, Xpeng cards use secure elements requiring encrypted authentication, making simple cloning ineffective.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Prototyping with Python&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Using a PN532 reader and an FT232RL adapter, the author wrote a Python script with AI assistance to handle basic read and write tasks. Although functional, running CLI scripts repeatedly proved inconvenient for daily use.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Identifying Ecosystem Gaps&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;A survey of existing NFC software revealed a lack of modern cross-platform GUI options across Windows, macOS, and Linux. This gap inspired the author to build a unified desktop application.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Developing NFCX Toolkit&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Over a single weekend, the author leveraged GPT to build NFCX, a fully functional cross-platform NFC desktop toolkit. The project was open-sourced to provide a complete GUI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114454&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;探秘柬埔寨，千年吴哥窟&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 This travelogue explores Siem Reap&amp;#039;s Angkor complex, covering Khmer history, architectural evolution, cultural nuances, and practical travel logistics.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This travelogue details a culture-focused journey to Siem Reap, Cambodia, beginning with the dispelling of regional safety misconceptions to establish a dedicated exploration of Khmer heritage. The narrative outlines practical logistics, including local motorbike transport techniques and an analysis of the multi-tiered ticket pricing system for non-native tourists visiting the Angkor complex. Key architectural highlights focus on Angkor Wat and Angkor Thom, tracing their structural features, intricate relief artwork, and historical transitions from Hindu roots to Buddhist traditions. Additionally, the author highlights unique cultural details, such as the Cantonese etymological origins of Chinese site names and the artistic significance of the famous &amp;quot;Khmer Smile.&amp;quot;&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;破除刻板与行前规划&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;作者分享了精简“东南亚大回环”行程并最终选择柬埔寨暹粒的缘由，彻底抹去了对当地只有战乱与电诈的刻板印象。经过十几小时的中转奔波后，正式开启了为期数天的高棉文化探索。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;摩托骑行与门票机制&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;作者在暹粒租用摩托车作为主要自由行交通工具，并总结了摸索出的打火与加油经验。文中还对比了吴哥古迹群对本国公民免费、对外国游客收费的票务政策，并反思了旅行性价比。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;作为柬埔寨国家象征的小吴哥寺，以宏伟的布局与精美浮雕汇集了绝大多数游客。作者梳理了其从印度教神庙演变为佛教寺院的历史演变，以及中文译名来源于粤语音译的有趣渊源。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;大吴哥城与高棉微笑&amp;quot;,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114607&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iPadOS 27 improves performance and UI, enables touch-based Sidecar, and integrates Google Gemini into Apple Intelligence.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;以下是针对 iPadOS 27 新特性的综合概述：
+
+iPadOS 27 进一步优化了 Liquid Glass UI 架构，改进了主屏幕编辑（支持撤销/重做）与 iPhone 应用窗口缩放体验，并显著提升了系统动画响应速度、外接 SSD 及 AirDrop 的数据传输效率。在跨设备协作上，Sidecar 随航功能现已支持通过 iPad 触控屏及多指手势直接交互 Mac 界面。生产力工具方面，系统新增了 Spotlight 手写笔记全文检索能力，并支持将备忘录内容一键导出为 Markdown 格式。此外，Apple 智能深度集成了 Google Gemini 模型，赋予系统级上下文理解与屏幕感知能力，并带来了全新的 Siri 交互体验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Liquid Glass 界面:&lt;/strong&gt; iPadOS 27 进一步微调了 Liquid Glass 设计，侧边栏回归边到边布局，并新增了透明度调节滑块。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;菜单栏与主屏幕:&lt;/strong&gt; 顶部菜单栏优化了交互体验并精简了小图标，主屏幕编辑现已支持撤销重做，同时 iPhone 应用窗口调尺寸更加自由。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Sidecar 支持触控:&lt;/strong&gt; Sidecar 随航功能现在支持通过 iPad 触摸屏幕直接操作 Mac 界面，涵盖内容滚动与放大缩小等多指手势。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apple Pencil 与笔记:&lt;/strong&gt; 新增 Pencil 充电音效，Spotlight 支持对手写笔记进行全文检索，备忘录内容也可一键拷贝为 Markdown 格式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;系统性能与传输:&lt;/strong&gt; 系统整体流畅度与动画响应明显加快，连接外置 SSD 移动硬盘以及 AirDrop 的文件传输速度获得了大幅提升。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Siri 与 AI 升级:&lt;/strong&gt; 结合 Google Gemini 模型升级了 Apple 智能，具备系统级上下文与屏幕感知能力，并带来了全新的 Siri 交互界面。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113295&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;当我怀念旧版 Edge 浏览器时，我在怀念什么？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The demise of EdgeHTML for Chromium reduced web engine diversity, handing Google monopolistic control over web standards.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
+
+Originally built on the custom EdgeHTML engine to break IE&amp;#039;s legacy burdens and preserve browser engine diversity, the legacy Microsoft Edge delivered superior smooth scrolling, font rendering, and system-level integration. However, its tight coupling with Windows update cycles, UWP framework constraints, and a lagging developer ecosystem ultimately forced it to fall behind Chromium&amp;#039;s rapid pace of innovation. Microsoft’s eventual surrender to Chromium effectively handed Google monopolistic control over web standards, enabling unilateral ecosystem decisions like the deprecation of Manifest V2 extensions. The demise of EdgeHTML—alongside retired standards like Flash and XSLT—reflects a broader, troubling trend where tech giant dominance steadily erodes web diversity and specialized technical innovation.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;EdgeHTML 的诞生:&lt;/strong&gt; 为解决 IE 浏览器的性能瓶颈与历史包袱，微软推出了全新的 EdgeHTML 引擎，旨在全面支持现代化 Web 标准。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;内核多样性的价值:&lt;/strong&gt; 微软最初坚持自主研发引擎以抵制互联网内核的单一化，防止网页渲染标准被单一巨头垄断。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;卓越的创新体验:&lt;/strong&gt; 依托深度系统集成，旧版 Edge 在异步平滑滚动、EPUB 电子书阅读以及原生字体渲染上具备领先的体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;败退与弃用的原因:&lt;/strong&gt; 强绑定 Windows 系统更新导致迭代缓慢，加之开发者生态缺失与 UWP 平台限制，使其无法跟上 Chromium 的演进步伐。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;单一垄断的弊端:&lt;/strong&gt; 随着 Edge 转投阵营，Google 掌控了 Chromium 话语权并强推废弃 MV2 扩展等举措，展现了缺乏内核竞争的恶果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Web 生态的反思:&lt;/strong&gt; 从 EdgeHTML 的退役到 Flash 与 XSLT 的消亡，作者反思了在现代互联网巨头主导下，优秀技术体验与多样性逐渐流失的现状。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114638&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WPS Office now features cross-platform Markdown editing with integrated rendering for math formulas and Mermaid diagrams.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
+
+WPS Office has officially introduced cross-platform Markdown editing and preview capabilities across its Windows, macOS, and Web environments. The current implementation supports standard Markdown syntax alongside technical extensions, specifically integrating rendering for mathematical formulas and Mermaid diagrams. However, advanced features typical of modern knowledge-base tools—such as bidirectional linking and side-by-side split views—are not yet available and remain on the product roadmap. Overall, this update enables streamlined, lightweight technical writing directly within the native WPS ecosystem.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;WPS多端支持Markdown&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;WPS 官方宣布已支持 Markdown 格式文档的编辑与预览，覆盖 Windows、Mac 及 Web 端。目前已支持基础语法、公式和 Mermaid 图表，但双链与左右分栏等高级功能尚在排期中。&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - September 15, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1882,96 +2177,6 @@ Issue #412 of *Tech Enthusiast Weekly* highlights a major shift in open-source p
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Long-Term Progress Tracking:&lt;/strong&gt; The app compiles weekly, monthly, and annual statistics to build a comprehensive personal swimming archive. It features fun comparisons, like matching annual distances against famous channels, alongside a personal records leaderboard.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Social Sharing Features:&lt;/strong&gt; Swimmers can easily share their achievements using customized data cards, long screenshots, and interactive home screen widgets. It also includes a virtual racing feature to compete against past records or friends.&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pricing and Conclusion:&lt;/strong&gt; JiKeYou creates a complete improvement loop by transforming raw data into actionable training plans and feedback. The app is free to download, with premium features available via a yearly subscription or a one-time purchase.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - September 5, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-09-05</id>
-    <updated>2026-09-05T21:53:09.359Z</updated>
-    <published>2026-09-05T21:53:09.359Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>2 articles from 2 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 5, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;271.7808219178082&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    67.9%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;248&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;117&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;35&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████████░░░░░░░░░░ 67.9%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;2&lt;/strong&gt; articles from &lt;strong&gt;2&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-by-ken-liu/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: The Passing of the Dragon and Other Stories by Ken Liu ★★★★☆&lt;/a&gt;&lt;/h3&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114040&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;最值得买的顶级公路车？TREK 八代 Madone 评测&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The TREK Madone Gen 8 prioritizes balanced versatility, comfort, and sharp handling over pure aerodynamics.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The TREK Madone Gen 8 pivots from pure aerodynamic optimization to a highly balanced, versatile design, replacing the bulky tubing of its predecessor with slimmer, rounded profiles while retaining the iconic IsoFlow structural architecture. This structural refinement delivers exceptional pedaling dynamics and high power-transfer efficiency, enabling riders to reach peak power output with highly responsive feedback. Vertical compliance is managed through the IsoFlow micro-spring effect, which, paired with modern wide tubeless tires, optimizes vibration damping and overall ride comfort. Although the design introduces a minor trade-off in absolute aerodynamic efficiency compared to Gen 7, it compensates with exceptionally sharp, confidence-inspiring handling.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Heritage and Evolution&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The TREK Madone Gen 8 represents a return to its roots as a balanced, top-tier road bike, moving away from pure aerodynamics to a more versatile design.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Refined Design Philosophy&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Gen 8 slims down the bulky, heavy tubes of Gen 7 into elegant, rounded shapes while retaining the iconic IsoFlow structure.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Comfort and Compliance&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The IsoFlow design acts as a micro-spring to enhance vertical compliance, though modern wide tubeless tires still play a major role in overall comfort.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Exceptional Pedaling Dynamics&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The bike delivers an unmatched, responsive pedaling experience that feels highly efficient and helps riders easily reach peak power output.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Handling and Aerodynamics&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;While its aerodynamic performance is slightly reduced compared to Gen 7, the Madone Gen 8 offers incredibly sharp, confidence-inspiring handling.&amp;quot;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
