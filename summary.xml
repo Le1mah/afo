@@ -4,8 +4,217 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-09-16T23:13:19.724Z</updated>
+  <updated>2026-09-17T23:06:26.836Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - September 17, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-09-17</id>
+    <updated>2026-09-17T23:06:26.836Z</updated>
+    <published>2026-09-17T23:06:26.836Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>12 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 17, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;284.93150684931504&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    71.2%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;260&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;105&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;37&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████████░░░░░░░░░ 71.2%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;12&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22765&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Enjoying a nice tapas crawl through Madrid.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享在马德里品尝西班牙小吃的惬意时光。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了2026年9月17日傍晚在西班牙马德里体验小吃之旅（tapas crawl）的日常生活片段。文末附带地理坐标及社交媒体平台互动信息，展现了简短随意的微博客日志风格。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22764&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Going to Madrid. brb&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者发布动态宣布将于2026年9月17日前往Madrid。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者于2026年9月17日发布简短个人动态，宣布将前往Madrid（马德里）。文中附带了地理坐标以及在Mastodon和Bluesky上的社交账号信息，并记录了该动态获得了Andy Bell和zeldman等人的点赞与互动。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/2026-dont-like-llms.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;I don&amp;#039;t like LLMs&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者虽承认LLM高效有用，但因其假装人类且自信胡诌而深感厌恶。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者以自省而批判的视角表达了对LLM的矛盾态度。尽管承认AI高效实用且不可避免，但他对与LLM的直接交互深感厌恶。他指出LLM自信捏造事实且带有硅谷文化的偏见，本质上反映了其创造者的价值观，提醒人们不应将AI拟人化。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对AI和LLM技术抱有复杂的矛盾心理，既期待其提升生产力的潜力，又担忧其引发的潜在破坏，但认为人类只能顺应这一技术趋势。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表示在与LLM直接交互中最强烈的感受是不喜欢它们，因为它们用令人不适的语气讲话，且会极其自信地编造虚假信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;即便如此，作者承认LLM的高效与实用性让人无法回避，民调也反映出人们既觉得模型有用又担心其危害社会的矛盾心理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为LLM目前表现出的特质源于孕育它们的硅谷“兄弟程序员”（brogrammer）亚文化，使其自然偏向创造者的世界观。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者强调不应将AI智能体拟人化，它们本质上是受公司开发者价值观滋养和塑造的软件机器。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结其个人生活哲学是远离不信任的人，因此极为排斥与假装成人类且展现出自己所厌恶人格特质的LLM互动。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/17/a-cern-for-ai-assisted-science/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A CERN for AI-assisted science?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A publicly funded &amp;quot;CERN for AI&amp;quot; is needed to counter corporate dominance and ensure equitable, transparent scientific discovery.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
+
+The concentration of frontier AI development within private corporations poses severe risks to scientific rigor, research confidentiality, and equitable resource distribution across academia. This corporate dominance threatens to create an asymmetrical, two-tier scientific ecosystem that prioritizes rapid capability claims over verification, proper attribution, and true human understanding. To counter this imbalance, the academic community must proactively establish a publicly funded, centralized initiative—a &amp;quot;CERN for AI&amp;quot;—backed by large-scale public compute infrastructure. Such an institution would provide open, agentic AI tools to level the playing field for researchers, ensuring that AI-assisted scientific discovery remains transparent, verifiable, and aligned with the public good.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;A Call to Action&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Passivity toward private AI breakthroughs risks harming the future of scientific discovery. The academic community must proactively establish an institutional response rather than giving in to defeatism.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Publicly Funded Frontier AI&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;To serve the public good, academic research urgently requires publicly funded frontier AI systems. These tools should provide conversational and agentic interfaces supported by large-scale public compute infrastructure.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Risks of Corporate Dominance&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Concentrating advanced AI within private companies threatens research confidentiality and compromises scientific rigor. Corporate incentives prioritize rapid displays of capability over verification, proper attribution, and human understanding.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Leveling the Scientific Field&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Exclusive access to unreleased corporate models creates an unfair two-tier scientific system. Public AI access is essential to reduce resource asymmetry and protect early-career researchers from being eclipsed.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;A CERN for AI&amp;quot;,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Why I didn’t sign the Fields medallists’ letter&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The author declines a Fields medallists&amp;#039; letter, arguing that AI and hands-on problem-solving are essential to modern mathematics.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;In this article, the author explains his decision to abstain from signing a Fields medallists&amp;#039; open letter regarding AI&amp;#039;s impact on mathematics, aiming instead to offer a less divisive perspective on the domain&amp;#039;s ongoing crisis. Drawing from his leadership of an automated theorem-proving group at Cambridge, he highlights how rapid LLM advancements forced his team to accept the &amp;quot;bitter lesson&amp;quot; of modern AI over hand-crafted approaches. He challenges the medallists&amp;#039; view that problem-solving is secondary to conceptual understanding, arguing that problem-driven and concept-driven mathematical methodologies are equally valid. Ultimately, the author emphasizes that hands-on problem-solving remains a vital engine for developing both individual intuition and the broader community&amp;#039;s collective insight as AI transforms the field.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Early Learning Experience:&lt;/strong&gt; The author reflects on his childhood attempt to solve Fermat&amp;#039;s Last Theorem using difference sequences. This experience illustrates how tackling difficult problems builds deep mathematical intuition regardless of whether the original problem is solved.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Refusal to Sign:&lt;/strong&gt; The author explains why he declined to sign a prominent letter by 25 Fields medallists regarding AI&amp;#039;s impact on mathematics. While acknowledging a real crisis, he aims to present a distinct and less divisive perspective.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Disclosures and Bias:&lt;/strong&gt; To maintain transparency, the author clarifies his non-financial relationship with OpenAI and discusses his automated theorem-proving group in Cambridge. He notes how rapid advancements in LLMs have forced his group to accept the bitter lesson of modern AI.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Two Mathematical Cultures:&lt;/strong&gt; The author challenges the medallists&amp;#039; view that problem-solving is merely a tool for conceptual understanding. He argues that mathematicians exist across a spectrum of priorities—some driven by problems, others by concepts—and both approaches are equally valid.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Collective Mathematical Knowledge:&lt;/strong&gt; The discussion expands from individual learning to the broader mathematical community&amp;#039;s shared insight. The author highlights that individual problem-solving remains a fundamental driver of collective mathematical progress.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/17/becoming-a-benchmark/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Becoming a benchmark&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The mathematics community must actively reframe math as a dynamic human process rather than a static AI benchmark.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Early AI code generation sparked initial concerns in the programming languages (PL) community regarding code quality and secretive research, but the field successfully adapted by integrating AI with formal verification while preserving its open research culture. In contrast, mathematics is now aggressively targeted by AI companies as the ultimate benchmark for general intelligence, leaving mathematicians&amp;#039; valid technical critiques vulnerable to being dismissed by the public as defensive gatekeeping. To withstand this wave of hype, the mathematics community must actively engage the public to reframe math as a dynamic human intellectual process rather than a static benchmark for machine capability.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Early Codex Experience:&lt;/strong&gt; The author&amp;#039;s early exposure to OpenAI&amp;#039;s Codex revealed both the potential for making programming universally accessible and immediate concerns regarding code quality, bugs, and edge cases.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Research Existential Dread:&lt;/strong&gt; The emergence of AI code generation triggered fears that AI hype would falsely claim to solve formal verification while contaminating collaborative research cultures with secrecy and competition.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Navigating AI Integration:&lt;/strong&gt; By actively learning AI terminology and engaging with the community, the programming languages field successfully highlighted complementary techniques while preserving its open research culture.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;PL Versus Mathematics Hype:&lt;/strong&gt; Unlike the obscure domain of programming languages, mathematics carries deep cultural weight and is aggressively targeted by AI companies as the ultimate benchmark for intelligence.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Perceived Gatekeeping in Math:&lt;/strong&gt; Because math is highly visible and culturally loaded, legitimate critiques from mathematicians are frequently misinterpreted by the public and AI proponents as defensive gatekeeping.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defending Math as Process:&lt;/strong&gt; To survive AI hype cycles, the mathematics community must actively engage the public to advocate for math as a human intellectual process rather than a static AI benchmark.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/16/sair-competition-lean-kernel-challenge/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;SAIR competition – Lean Kernel Challenge&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Lean Kernel Challenge第一阶段启动，旨在优化Lean 4验证计算性能。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Lean FRO与SAIR Foundation联合推出Lean Kernel Challenge第一阶段竞赛，旨在通过改进算法与数据表示提升Lean 4内核在验证计算中的性能。作为系列赛事的开端，本阶段包含斐波那契数列、SHA-256等八项基础计算任务，要求参赛者开发高效算法并在Lean中证明其正确性。组委会由陶哲轩等学者组成，提交截止日期为2026年11月20日。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114557&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;城市漫步指南｜威海初秋，看海玩沙&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 This early autumn guide outlines a Weihai itinerary featuring city strolls, fresh seafood experiences, and scenic beach relaxation.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This early autumn travel guide outlines a comprehensive itinerary for exploring Weihai&amp;#039;s coastal highlights and vibrant local culture. The journey features urban strolls through unique neighborhoods like Xinwei Annex Road alongside authentic fishing port experiences, such as purchasing fresh seafood at Haiyuan Park Pier for local preparation. The trip culminates with a dedicated day at Weihai International Bathing Beach, offering visitors an opportunity to relax by its remarkably clear, crystal-like waters. Overall, the guide effectively balances immersive city walking, local culinary experiences, and scenic beachside relaxation.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; 新威附路等特色街区。在海源公园码头采购新鲜海产代加工，感受浓郁的渔港生活气息。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;第三天全天在威海国际海水浴场度过，享受果冻般清澈&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114643&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;具透 | macOS 27 正式版来了，这些是你值得了解新细节&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 macOS 27 drops Intel support, introducing contextual Siri AI, upgraded cross-device integration, and customizable visual transparency controls.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
+
+macOS 27 officially completes the platform transition by dropping all support for Intel-based processors and initiating the sunset phase for Rosetta 2. Deeply integrated Siri AI capabilities now power Spotlight and system applications, leveraging context from personal data to offer real-time screen recognition, file summarization, and text generation. Cross-device workflows receive key usability upgrades, including adjustable aspect ratios for iPhone Mirroring and native iPad touch/gesture controls when using Sidecar. Finally, the release refines the &amp;quot;Liquid Glass&amp;quot; design language with user-adjustable UI transparency controls and optimized rendering for sidebars, window corners, and menu bar icons.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;放弃 Intel 架构&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;macOS 27 彻底终止对 Intel 处理器的支持，硬件支持完全收缩至 Apple Silicon Mac，且 Rosetta 2 正式进入完整支持的倒计时。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;系统对 Liquid Glass 视觉语言进行了全面修正，新增透明度调节滑块，并优化了侧边栏着色、窗口圆角和菜单栏图标。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;iPhone 镜像功能现已支持调节窗口宽高比，而随航功能则允许 iPad 作为外接屏时直接进行轻点和滑动等触控操作。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;深度集成 Siri AI&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Siri AI 融入聚焦搜索与独立应用中，能够调取并理解系统内的个人数据，提供文件总结、文本创作和屏幕视觉识别等功能。&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114451&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一个小创意的诞生：BeatBox 雪漫天外壳定制指南&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 详细讲解 BeatBox CD 机外壳从设计、虚拟装配到实体定制的全流程。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇 BeatBox CD 机外壳定制指南。作者分享了从实机扫描制作装配底图、利用 AI 生成设计灵感，到使用修图软件修正细节，最终通过淘宝 PVC 定制印刷完成实体贴纸制作的全流程，为数码爱好者提供了可落地的 DIY 经验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍 BeatBox 外壳定制指南的背景，旨在帮助设计者将 CD 机盖板设计方案转化为实体成果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通过扫描 BeatBox 实机与刻录盘，制作出用于“虚拟装配”的精确底图参考。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲解利用 AI 生成设计灵感后，如何使用修图软件调整图像比例、开窗及红外接收孔等细节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍将处理后的设计图叠加至底图进行虚拟装配预览，以提前评估实际使用效果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明向淘宝商家提交图纸制作 PVC 定制贴纸，并将其粘贴至透明面盖完成制作的最终步骤。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114658&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 派早报报道佳能相机、惠普工作站新品及 GPT-5.5 下线动态。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期派早报汇总了多项科技新品与行业动态：佳能发布具备五轴防抖与丰富视频功能的 EOS R8 Mark II 相机；惠普推出支持本地运行大模型的高性能工作站；影石带来集成 AI 转写功能的领夹麦；OpenAI 宣布 GPT-5.5 将于 10 月下线；此外还介绍了少数派社区最新动态与文章。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;佳能发布 EOS R8 Mark II 全画幅相机，配备机身五轴协同防抖、40张/秒高速连拍、增强对焦算法及多样色彩滤镜，支持 6K 超采样 4K 60P 视频录制，售价 9999 元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;惠普发布 ZBook Ultra G3a 16 移动工作站，搭载 AMD 锐龙 AI Max PRO 处理器并支持 192GB 统一内存，可本地运行 300B 大模型，预计 2026 年上市。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦，售价 698 元，集成腾讯会议 AI 转写与纪要生成功能，重 19g 并配备自定义墨水屏。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI 宣布 GPT-5.5 模型将于 10 月 14 日从 ChatGPT 等服务中全线下线，提醒用户及时切换至 GPT-5.6 或 GPT-6 模型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派发布口袋先知 1.3.3 版本更新、Dot Skill 上线及 iPhone 共创配件等近期动态，并推荐了近期优质文章。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;CSS rex、rlh、ric等根家族单位简介&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 介绍各类新兴CSS根元素单位的特性、兼容性与实用价值。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了除了rem之外的现代CSS新兴根元素单位（如rcap、rch、rex、ric、rlh）的概念、兼容性与对应场景。尽管可以通过AI探索其应用案例，但由于现有CSS单位已满足大部分需求，这些新单位并非不可替代，开发者了解其含义即可。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了由rem引申出的各类新兴CSS根元素单位（如rcap、rch、rex、ric、rlh）的概念、表示含义及浏览器兼容性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;分享了AI生成的新根元素单位实战应用案例，并对此类场景的必要性进行了讨论。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结指出新CSS根单位虽然丰富但非不可替代，目前大多无人问津，开发者对其保持了解即可。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - September 16, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2039,144 +2248,6 @@ Issue #412 of *Tech Enthusiast Weekly* highlights a major shift in open-source p
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;微软公布 Project Zenith 计划，针对高性能开发者打造预装开发工具与本地 AI 环境的 Windows 11 配置方案。该方案硬件要求至少 64GB 统一内存，以支持本地运行 300 亿参数以上的大语言模型。&amp;quot;&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;F-Droid AI 政策&amp;quot;,&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;F-Droid 拟效仿 Debian 制定生成式 AI 临时使用政策，允许贡献者使用 AI 辅助开发与文档撰写。但政策明确规定，提交内容的质量、正确性及法律合规责任仍由人类贡献者承担。&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - September 6, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-09-06</id>
-    <updated>2026-09-06T22:06:24.306Z</updated>
-    <published>2026-09-06T22:06:24.306Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>5 articles from 5 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 6, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;272.8767123287671&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    68.2%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;249&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;116&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;35&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████████░░░░░░░░░░ 68.2%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;5&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22752&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Sunday session&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录发布时间、社交链接及互动信息的网页元数据。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一段社交媒体或博客文章的元数据和互动页脚，记录了2026年9月6日的发布时间、地理位置（51° N , 0° W）、Mastodon和Bluesky的分享链接，以及用户的点赞互动信息，并邀请读者通过URL进行回复。整体风格简明、功能性强，体现了去中心化社交网络的互动特征。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-9-6/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.9.6&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A developer is transitioning a 1-bit Playdate 3D renderer into a narrative game using a dual-platform workflow.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To transition a custom, software-based 3D renderer on the resource-constrained, 1-bit Playdate console from a 10-fps technical demo into a full game, the author is developing a dual-platform (Playdate/Unity) project supported by a newly drafted 4-to-5-hour narrative. The storyline follows a retired empire soldier who survives a catastrophic black hole anomaly triggered by a warp-drive malfunction and the sudden arrival of a colossal ancient monolith. Hunted as a witness to the event, the protagonist infiltrates the monolith and discovers that these world-threatening structures are actually automated &amp;quot;vacuum cleaners&amp;quot; built by an ancient civilization to clear spatial warp emissions. Armed with control over this technology, the protagonist establishes galactic peace through deterrence before self-exiling back to a quiet, open-world life.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Playdate Rendering Challenges:&lt;/strong&gt; The author details the struggle of optimizing a custom software-based 3D renderer for the low-spec, 1-bit Playdate console, which currently runs at a sluggish 10 fps.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Narrative System Bootstrap:&lt;/strong&gt; To transition the game from a mere technical demo into a fully-fledged game, the author drafts a 4-to-5-hour storyline suitable for both Playdate and Unity versions.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Monolith Catastrophe:&lt;/strong&gt; The story begins with a retired empire soldier witnessing an allied fleet&amp;#039;s new warp technology trigger the sudden, destructive appearance of a colossal ancient monolith.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Survival and Escalation:&lt;/strong&gt; After surviving the resulting black hole, the protagonist is thrust into a galaxy-wide conflict where he is hunted as a key witness, eventually forcing him to flee back into the anomaly.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Cosmic Vacuum Cleaners:&lt;/strong&gt; Infiltrating the monolith, the protagonist discovers these massive structures are merely automated &amp;quot;vacuum cleaners&amp;quot; designed by an ancient civilization to clean up spatial warp emissions.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Deterrence and Return:&lt;/strong&gt; Armed with the knowledge to control these world-ending machines, the protagonist enforces peace through deterrence before self-exiling back to a quiet life of open-world tasks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The purpose of DNS is to spread scams&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Rapid DNS registration and complicit registrars fuel phishing, while stronger security measures threaten user anonymity.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The rapid, near-instantaneous nature of DNS registration enables highly effective phishing campaigns, resulting in up to 20% of newly registered generic Top-Level Domains (gTLDs) being malicious. This security crisis is exacerbated by a small group of registrars that facilitate the majority of these scam domains while maintaining critically low suspension rates for blocklisted assets. While implementing strict KYC checks or financial escrows could deter bad actors, these measures threaten user anonymity, leaving technical solutions like domain filtering to struggle against subdomain bypasses and high operational overhead.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;The Phishing Vector&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Scammers exploit the near-instantaneous speed of DNS registration to launch highly effective phishing campaigns before security systems can react.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Alarmingly High Statistics&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Recent reports indicate that up to 20% of newly registered generic Top-Level Domains (gTLDs) are malicious, highlighting a severe crisis in the domain ecosystem.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Registrar Policy Shortfalls&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;A small handful of domain registrars facilitate the majority of these scam domains, and current suspension rates for blocklisted domains remain critically low.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Identity and Financial Barriers&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Implementing strict KYC checks or high financial escrows could deter scammers, but these measures would also destroy user anonymity and discourage legitimate registrations.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Limits of Domain Filtering&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Banning specific words is easily bypassed by scammers using subdomains, while complex filtering rules place an unfair operational burden on smaller registrars.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-09-06T06:05Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-09-06T06:05Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享并对比了阅读多部新本格推理小说的个人心得。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者阅读多部“shin honkaku”（新本格）推理小说后的简短读后感。作者分享了对岛田庄司和绫辻行人作品的真实看法，直率地指出部分作品的不足，同时赞赏了《The Mill House Murders》的叙事与线索设计，并表达了未来继续探索该流派的计划。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在接触新本格推理小说和《占星术杀人魔法》后，阅读了岛田庄司和绫辻行人的三部作品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为岛田庄司的第二部英文译作较第一部不够严肃且有些不切实际，怀疑翻译对故事基调产生了影响。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者觉得《十角馆事件》平淡无奇且线索较少，而《水车馆事件》在叙事结构和谜题设置上则优秀得多。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者计划在读完两本绫辻行人的书后，去发掘和研究更多其他推理小说作家的作品。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114076&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 JiKeYou transforms Apple Watch swimming data into structured training plans, AI technique diagnostics, and actionable athletic insights.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**JiKeYou** is an iOS and watchOS application designed to transform raw Apple Watch swimming telemetry—such as SWOLF, heart rate zones, and split times—into actionable athletic insights. The platform enables users to build and sync structured training plans directly to the wearable, while leveraging an integrated AI engine to diagnose technique inefficiencies and potential injury risks. Beyond real-time workout guidance, the app aggregates historical performance data into comprehensive archives featuring gamified milestones, virtual racing, and highly shareable data visualization widgets. Ultimately, the freemium app establishes a closed-loop feedback system that bridges the gap between raw biometric data collection and goal-oriented athletic improvement.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Comprehensive Data Analysis:&lt;/strong&gt; The app analyzes Apple Watch swimming data to provide professional metrics like SWOLF, split times, and heart rate zones. This helps swimmers understand how their pace, endurance, and efficiency change throughout a session.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Custom Training Plans:&lt;/strong&gt; Users can design structured training plans on their iPhone and sync them to their Apple Watch to guide their workouts. This shifts the focus from simply recording distance to executing goal-oriented training sessions.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI Coach Feedback:&lt;/strong&gt; An integrated AI analyzes performance metrics to offer personalized critiques on technique, potential injuries, and areas for improvement. This lowers the barrier to understanding complex swimming data and provides actionable guidance.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Long-Term Progress Tracking:&lt;/strong&gt; The app compiles weekly, monthly, and annual statistics to build a comprehensive personal swimming archive. It features fun comparisons, like matching annual distances against famous channels, alongside a personal records leaderboard.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Social Sharing Features:&lt;/strong&gt; Swimmers can easily share their achievements using customized data cards, long screenshots, and interactive home screen widgets. It also includes a virtual racing feature to compete against past records or friends.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pricing and Conclusion:&lt;/strong&gt; JiKeYou creates a complete improvement loop by transforming raw data into actionable training plans and feedback. The app is free to download, with premium features available via a yearly subscription or a one-time purchase.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
