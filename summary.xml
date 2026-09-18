@@ -4,8 +4,269 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-09-17T23:06:26.836Z</updated>
+  <updated>2026-09-18T22:47:29.521Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - September 18, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-09-18</id>
+    <updated>2026-09-18T22:47:29.521Z</updated>
+    <published>2026-09-18T22:47:29.521Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>17 articles from 9 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 18, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;286.027397260274&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    71.5%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;261&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;104&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;37&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████████░░░░░░░░░ 71.5%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;17&lt;/strong&gt; articles from &lt;strong&gt;9&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22767&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Rooftop apartment.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一篇包含时间坐标与社交点赞回应的个人微日志。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;该内容是一篇发布于2026年9月18日的简短微日志，记录了作者在屋顶公寓的具体时间与地理坐标（39° N, 6° W）。文章同步发布于Mastodon和Bluesky平台，展示了来自Álvaro Montoro和Andy Budd的点赞互动，并附有征集读者回应链接的Webmention互动提示。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22766&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Street session in Cáceres.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录2026年9月18日卡塞雷斯的街拍动态与社交互动。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了2026年9月18日于西班牙Cáceres进行的一场街边拍摄活动，包含了具体时间、地理坐标及Mastodon和Bluesky等社交平台的分享信息。该动态获得了Paul Gould、Mike Janssen和Andy Bell三位用户的点赞，作者同时征集读者的互动回复链接。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-325/viewer?title_no=853933&amp;episode_no=340&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 325&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文为漫画《DOGHAUS》在 WEBTOON 平台的目录与界面数据。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为网络漫画平台 WEBTOON CANVAS 上作者 Moowsie 所创作的连载漫画《DOGHAUS》（第 325 话页面）的网页导航与菜单界面数据。页面包含了全系列 325 话及特别公告、Kickstarter 众筹等的章节目录列表、社交分享链接、平台订阅功能以及相关热门喜剧漫画推荐与排行榜信息。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/09/theatre-review-the-school-for-wives/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Theatre Review: The School for Wives - at Riverside Studios ★★★★★&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Flywheel剧团精彩演绎莫里哀经典剧目，赢得五星观剧盛赞。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇五星高分剧评。作者盛赞Flywheel剧团在Riverside Studio改编演绎莫里哀经典作品《School for Wives》，称其演技精湛、笑点密集且节奏紧凑。同时，作者还表扬了剧场优良的设施以及贴心的前后场互动体验，是一次卓越的观剧之旅。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/18/sairs-open-math-model-initiative/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;SAIR’s Open Math Model initiative&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 SAIR基金会发起社区主导的开源数学AI模型倡议。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文宣布了科学与AI研究基金会（SAIR）加速发起的开源数学AI模型倡议。作者以呼吁与倡议书结合的形式，阐述了通过社区主导、数据控制与开放治理打造“Math 2.0”的愿景。项目致力于提供开源权重模型与协助日常研究的工具，强调知识产权透明与学术独立性，旨在为全球数学界构建可信任且可持续的开源AI基础设施。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了自己联合创办的科学与AI研究基金会（SAIR），并宣布因需求迫切而加速推出面向科学与数学的开源模型倡议，目前正在公开征集合作伙伴。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;倡议强调数学发展依赖于开放共享的原则，SAIR及其合作伙伴致力于开发推动“Math 2.0”发展的开源AI工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;SAIR Open Models邀请数学界共同打造由社区决定训练与评估方向、可独立审查和运行的开源模型。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;项目的首个阶段将专注于日常数学工作，协助进行理解复杂论证、核查引用、编写代码及形式化证明等具体任务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;项目承诺开放模型权重与代码，公开训练方法与数据来源，并确保评估结果的可重复性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;明确声明数据所有权属于数学界，仅在获得用户明确同意的情况下才将其数据用于模型改善。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;研发的模型与工具将采用Apache 2.0、MIT或CC BY 4.0等开源许可共享，同时保留研究者的个人知识产权。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;项目建立公开透明的社区治理机制，在利用战略产业合作伙伴资源的同时保证学术界的研究独立性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;呼吁数学社区及支持者加入倡议，共同构建开放模型与可负担算力共享的基础设施。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/09/18/benq-rd280ug-review/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;“Programming” monitor&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The BenQ RD280UG monitor optimizes programming workflows with its 3:2 aspect ratio, glare reduction, and built-in KVM switching.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The author upgraded to a 120Hz BenQ RD280UG as a long-term programming monitor, leveraging its 3:2 aspect ratio for expanded vertical screen real estate and a matte panel to reduce glare and eye strain. Connectivity is a key highlight, as an integrated KVM switch and single-cable USB-C setup streamlined the workspace by replacing a bulky Thunderbolt dock to seamlessly share peripherals between a MacBook and a Linux Mac Mini. Additionally, features like an internal power supply simplify cable management on a standing desk, while out-of-the-box performance renders proprietary display software and marketed &amp;quot;programming&amp;quot; color presets largely unnecessary.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Monitor Upgrade Context:&lt;/strong&gt; The author replaced an eight-year-old LG monitor showing severe burn-in with a 120Hz BenQ RD280UG. The purchase is viewed as a long-term investment intended to last another decade of daily programming work.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;3:2 Aspect Ratio Benefits:&lt;/strong&gt; The 3:2 aspect ratio provides valuable extra vertical screen real estate that excels for reading and writing code. Additionally, the matte panel effectively eliminates glare and reduces eye strain, though dedicated &amp;#039;programming&amp;#039; dark mode presets are largely marketing gimmicks.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pragmatic Color Philosophy:&lt;/strong&gt; While color accuracy is comparable to a MacBook screen, the author argues that designing web interfaces on hyper-accurate displays is unnecessary. Middle-tier screens better reflect actual user environments, preventing design decisions that break on consumer hardware.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Connectivity and KVM Switching:&lt;/strong&gt; Built-in KVM switching allows seamless peripheral sharing between a MacBook and a Linux Mac Mini. Using a single USB-C cable simplified the workspace by allowing the removal of a bulky Thunderbolt dock.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware Ergonomics and Software:&lt;/strong&gt; An internal power brick simplifies cable management on an adjustable standing desk, while the stock stand offers flexible height positioning. The author opted out of installing proprietary display management software, favoring out-of-the-box performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-09-18T09:32Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-09-18T09:32Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 经验分享缺失与技术出版物衰落正导致Web开发行业面临停滞。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者批判了当前Web开发行业盲目追逐LLM而忽视新人培养与经验分享的现状。随着CSS-Tricks等权威技术出版物相继衰落，开发者缺乏提升平台，导致行业面临停滞危机。作者强调去中心化网络虽好，但专业技术出版物对行业繁荣仍不可或缺。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 overreacted — A blog by Dan Abramov &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How I Vibed a Proof of Conway’s Conjecture&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Using Claude and Lean, a non-mathematician formally proved John Conway’s 1976 conjecture on omnific integer factorization.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Leveraging Claude alongside the Lean interactive theorem prover, a non-mathematician constructed a mechanically verified proof for a 1976 open conjecture posed by John Conway. The proof targets omnific integers—the integer-like subset of surreal numbers generated along an infinite binary tree—and demonstrates that they preserve the classical integer factorization refinement property. Specifically, the conjecture posits that if two products of omnific integers are equal ($ab = cd$), both sides can be decomposed into four common constituent factor components. While the implementation successfully passed Lean’s automated formal logic checks, the proof is currently awaiting academic peer review.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI-Assisted Proof Discovery:&lt;/strong&gt; A self-described math novice used frontier AI models and the Lean theorem prover to attempt a proof for a 50-year-old conjecture by John Conway. The resulting proof passed automated mechanical verification checks in Lean and awaits formal peer review.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Exploring Surreal Numbers:&lt;/strong&gt; The author chose to work within surreal numbers, a unique mathematical system discovered by John Conway that generates reals, ordinals, and infinities from a single fundamental rule. New numbers repeatedly spawn within the gaps between previously created numbers across an infinite binary tree.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Selecting Conway&amp;#039;s Conjecture:&lt;/strong&gt; Using Claude, the author identified Conway&amp;#039;s 1976 refinement conjecture regarding omnific integers as an appealing open problem. The project proceeded after confirming the statement could be formalized concisely in Lean code.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Understanding Omnific Integers:&lt;/strong&gt; Omnific integers represent the integer-like subset of surreal numbers, incorporating standard integers alongside infinite and infinitesimal quantities. They occur at specific structural paths within the infinite surreal number tree.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Refinement Property Explained:&lt;/strong&gt; Conway&amp;#039;s conjecture posits that omnific integers preserve the classic factorization refinement property of ordinary integers. Specifically, if two products of omnific integers equal each other (ab = cd), both sides can be decomposed into four common constituent factor components.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21780&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;週刊ファミ通　2026年10月1・8日合併号 『ペルソナ』シリーズ30周年記念特集「ゲームクリエイター&amp;amp;著名人からのお祝いメッセージ」にCC2松山洋のメッセージ掲載！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 松山洋在《週刊ファミ通》的《Persona》30周年特集中发表贺词。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为CyberConnect2发布的媒体掲載通告，主要宣传《週刊ファミ通》2026年10月1・8日合并号中的《Persona》系列30周年纪念专题。通告指出CC2代表松山洋在特集中发表了祝贺感言，并简要介绍了特辑包含的历代作品回顾、读者问卷及开发者座谈等精彩内容。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;告知《週刊ファミ通》2026年10月1・8日合并号的《Persona》系列30周年纪念特集中刊登了CyberConnect2松山洋的祝贺留言。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍《Persona》30周年纪念特集的丰富内容，包括历代作品回顾、读者问卷调查结果、创作者贺词插画及开发者座谈会等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供该期《週刊ファミ通》杂志的具体发售日期、售价及发行商等相关出版信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n84165dabb23f&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;「想定外」の、その先へ&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Hama aims to transform CyberConnect2’s Development Support Department into a proactive, resilient, and self-sustaining team.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Hama has stepped into the role of Manager for CyberConnect2&amp;#039;s Development Support Department, shifting focus from hands-on execution to overseeing network infrastructure, PC support, and internal tool development. To navigate the unforeseen challenges of leadership, he emphasizes transitioning from reactive troubleshooting to proactive problem-solving backed by continuous learning and deep operational readiness. His primary goal is to establish a resilient, self-sustaining department that decouples operational success from single-person dependencies to facilitate seamless knowledge transfers in the future. To support this vision of scalable team execution, the department is actively emphasizing collaborative workflows and recruiting new technical talent.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Author Introduction and Role:&lt;/strong&gt; Hama introduces himself as the new Manager of CyberConnect2&amp;#039;s Development Support Department, which oversees network infrastructure, PC support, and tool development.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Broadening Management Perspective:&lt;/strong&gt; In preparation for leadership handover, Hama shifted from hands-on technical support to overseeing departmental workflows and nurturing successor talent.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Facing Unexpected Challenges:&lt;/strong&gt; Stepping into the managerial role revealed unexpected obstacles, reinforcing the importance of continuous learning and deep operational preparation.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Shifting to Proactive Support:&lt;/strong&gt; Moving beyond reactive problem-solving, Hama aims to cultivate foresight by anticipating future technical issues and proposing solutions beforehand.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Building Sustainable Operations:&lt;/strong&gt; A core objective is creating a self-sustaining department that functions smoothly without relying on specific individuals, facilitating future handovers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Collaboration and Recruitment:&lt;/strong&gt; The author highlights the necessity of team collaboration while inviting new candidates to apply for open positions within the Development Support Department.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21769&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;ドラマ『チェイサーゲームW』公式ノベライズ『小説 チェイサーゲームW』9/18より16巻配信！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文发布了小说《Chaser Game W》第16卷及电影影碟的发售资讯。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文主要介绍了电视剧改编小说《Chaser Game W》第16卷于2026年9月18日发售的资讯及剧情梗概，标志着第二部的完结。同时公布了电影《Chaser Game W 水鱼之交》影碟发售信息，并汇总了该IP相关的漫画与媒体动态。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;宣布改编小说《Chaser Game W》第16卷于2026年9月18日发售，该作品以新视角描绘女性间的爱憎故事。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍第16卷的剧情梗概，讲述树与冬雨面对家庭与社会现实的抉择，宣告小说第二部完结。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供第16卷小说的制作团队、发售价格及各大电子书平台的上线信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;宣布电影《Chaser Game W 水鱼之交》Blu-ray与DVD将于2027年1月27日发售并开启预购。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;汇总了《Chaser Game》IP相关的其他新闻资讯、漫画连载及媒体报道列表。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114716&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 9 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 This weekly roundup highlights nine acclaimed Western TV series, focusing on high-tension thrillers, historical drama, and crime mysteries.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This weekly media recommendation round-up highlights nine outstanding recent visual works, focusing heavily on acclaimed Western television series. Key features include highly anticipated installments of prominent shows such as *Slow Horses* (Season 6), *Babylon Berlin* (Season 5), and *Magpie Murders*. The curated selection spans a diverse range of narrative styles, including spy thrillers, historical crime, and classic dual-timeline mysteries. Overall, the article targets viewers seeking high-tension storytelling, intricate plotting, and compelling character dynamics across top-tier releases.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (1 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;本期重点推荐了《流人》第六季、《翠鸟谋杀案》以及《巴比伦柏林》第五季等多部欧美剧集。这些作品涵盖间谍清算、古典双线推理与历史犯罪等题材，剧情张力十足&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114555&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;8月音乐精选：有限的生命里，要听得再任性一点！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 August&amp;#039;s music curation features bold, eclectic tracks designed to inspire vibrant and liberated listening.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This August music curation features an eclectic selection of tracks aimed at inspiring listeners to explore bold and expressive sounds. A key highlight from the list is Wang Di&amp;#039;s retro garage rock, which combines nostalgic elements with energetic, guitar-driven instrumentation. Overall, the recommendation list encourages a liberated and deliberate approach to music consumption, providing a vibrant soundtrack suitable for creative focus and daily inspiration.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; 8. &amp;quot;王帝复古车库摇滚&amp;quot; (Wang Di Garage Rock)&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; Summaries must be concise 1-2 sentences. Format strictly valid JSON array.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; 5. **JSON Construction**:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114670&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文盘点了watchOS 27在设计、交互、AI及实用功能上的主要更新。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了watchOS 27系统的主要更新。新版对Liquid Glass设计进行了精修，推出了动态应用网格、场景化智能叠放及单指捏合手势交互，重构了查找App并前瞻了Siri AI功能。此外还改善了经期追踪、运动计算精度与续航性能。整体更新侧重于提升手表实用性与单手交互体验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple正式发布watchOS 27系统，本文梳理了该版本的新功能、设计改进及设备兼容性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;系统对Liquid Glass设计语言进行了细节精修，提高了控件的对比度、深度感与模糊度以提升可读性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新增动态应用网格功能，可按使用习惯突出显示常用应用与推荐内容，改善小屏点选体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;智能叠放变得更加主动，能够根据时间、地点和场景自动置顶所需的小组件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;引入全新的单指捏合手势，让用户无需触控屏幕即可选择并进入智能叠放小组件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;查找App将设备、联系人与物品查找整合至单张地图界面，并支持精准查找功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;前瞻介绍了watchOS 27中Siri AI带来的自然来回对话、调取个人数据及Workout Buddy实时激励等新特性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;列举了经期追踪、室内运动距离计算、启动速度与续航改善等多项其他细节优化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结评价watchOS 27虽然整体改动不大但实用性强，并说明了受支持的Apple Watch设备范围。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;让 Agent 读懂你的身体：数据获取篇&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Chinese hardware vendors severely restrict AI Agents from accessing personal health data through native APIs.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Here is a technical summary of the provided text:
+
+Developing or integrating native APIs/SDKs represents the most reliable path for AI Agents to achieve comprehensive, automated health data ingestion. However, domestic hardware ecosystems present strict access barriers, as health open platforms from major vendors—including Huawei, Xiaomi, OPPO, and vivo—primarily cater to enterprise and institutional partners. Currently, Huawei is the sole manufacturer among these major OEMs providing a limited API authorization pathway for individual developers. Consequently, engineering teams face significant platform permission constraints when attempting to programmatically extract personal biometric telemetry for custom Agent workflows.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; 开发或调用 API/SDK，是直接获取全面数据且支持自动化更新的最靠谱路径。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;华为、小米、OPPO 和 vivo 等国内手机厂商的健康开放平台大多面向机构，仅华为向个人开发者提供有限的 API 申请许可。&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114699&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本期早报关注欧盟儿童法案、金融与法律AI方案及科技硬件新品。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期派早报汇总了近期科技动态：欧盟拟立法限制未成年人社交媒体使用；月之暗面与OpenAI分别推出金融和法律AI解决方案；Mistral与Mozilla展开合作；松下和Bose发布硬件新品；此外还涵盖网安标准指南及多条行业简讯。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;欧盟委员会通过《欧盟儿童法案》提案，拟禁止13岁以下儿童使用社交媒体，并对未成年人网络服务实施限时、防沉迷及隐私保护措施。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;月之暗面推出Kimi金融行业AI解决方案，整合权威数据源与专业工具，大幅提升金融机构资料处理与研究分析效率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mistral与Mozilla达成合作，为Firefox的Smart Window AI助手提供模型支持，并承诺严格保护用户隐私。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;松下发布专为街拍设计的LUMIX S 20mm F2.5超广角镜头，主打轻便体积与强劲光学性能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bose发布Sport Open Earbuds与Ultra Open Earbuds二代两款开放式无线耳机，分别面向运动与影音听音场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI推出面向法律领域的Astra for Law，结合专业法律检索与写作指令，提升律所和法律科技公司的研究效率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;全国网安标委秘书处编制并发布三项网络安全标准实践指南，规范电子产品回收过程中的数据清除与管理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;简讯涵盖苹果筹划AI服务器、Windows 11累积更新故障、抖音上线声音侵权举报入口、Denuvo起诉破解者及广电总局推进极简电视终端等动态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派公布了口袋先知版本更新、Dot Skill上线、共创配件上新等社区动态及近期优质文章推荐。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;科技爱好者周刊（第 413 期）：再见了，React Native&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Tech Weekly Issue 413 highlights Shopify&amp;#039;s pivot to native development alongside emerging global tech and open-source updates.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Tech Weekly Issue 413 highlights Shopify&amp;#039;s strategic pivot from React Native back to native Swift and Kotlin, signaling an industry shift where AI-driven code translation enables developers to prioritize native performance over cross-platform abstraction layers. Internationally, the UN has voted to replace the visually distorted Mercator map projection with the geographically accurate Equal Earth Projection. The issue also explores novel hardware and policy trends, including solid-state fanless laptop cooling technologies, optical hidden camera detectors, and municipal AI Token consumption subsidies in Chengdu. Finally, key open-source highlights include the WASM-based web terminal emulator `ghostty-web`, Python&amp;#039;s `Great Tables` formatting library, and the end-to-end encrypted productivity suite `CryptPad`.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Shopify 弃用 React Native&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Shopify 宣布放弃 React Native 重新回归 Swift 和 Kotlin 原生开发。在 AI 具备高效代码翻译能力的当下，性能更优的原生开发正逐渐替代传统的跨平台中间层。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;联合国废除墨卡托投影&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;联合国投票建议淘汰高纬度地区面积严重失真的墨卡托地图投影，推荐采用能精准还原陆地实际面积比例的“平等地球投影法”。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;本期涵盖了基于光反射原理的隐藏摄像头检测装置、无风扇固态散热笔记本，以及成都市拟推行的 AI Token 消费补贴政策。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;周刊推荐了 WASM 网页终端模拟器 ghostty-web、Python 表格生成库 Great Tables 以及端到端加密的线上办公套件 CryptPad 等优秀开源项目。&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - September 17, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2044,210 +2305,6 @@ Issue #412 of *Tech Enthusiast Weekly* highlights a major shift in open-source p
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;小米发布了搭载玄戒 O3 芯片的 18 Fold 折叠屏手机、平板 9 Pro Max 以及四款澎程增程 SUV 车型。&amp;quot;&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;iRobot子母机器人&amp;quot;,&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;iRobot 推出子母式清洁机器人 Roomba Duo，利用主副机 AI 协同与组合机构完成全面地面清洁。&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - September 7, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-09-07</id>
-    <updated>2026-09-07T22:56:25.196Z</updated>
-    <published>2026-09-07T22:56:25.196Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>13 articles from 7 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 7, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;273.972602739726&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    68.5%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;250&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;115&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;35&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████████░░░░░░░░░ 68.5%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;13&lt;/strong&gt; articles from &lt;strong&gt;7&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-322/viewer?title_no=853933&amp;episode_no=337&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 322&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画《DOGHAUS》的章节目录及页面导航信息。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文呈现了创作者 Moowsie 在 WEBTOON CANVAS 平台连载的网络漫画《DOGHAUS》的页面目录与导航信息。内容包含第1至322集的章节列表、周日特辑、图书出版及 Kickstarter 众筹活动公告，同时集成了社交分享、订阅互动功能与平台热门作品推荐。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 TJ&amp;#039;s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thaddeusjiang.com/20260907-postgresql-geng-xin-huan-jing-bian-liang-bu-hui-zi-dong-geng-xin-database-password&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;20260907 PostgreSQL 更新环境变量不会自动更新 database password&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Updating PostgreSQL container password environment variables does not update existing database credentials, requiring manual `ALTER USER` execution.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Updating PostgreSQL password environment variables in containerized environments (such as Zeabur) causes a silent desynchronization because the official PostgreSQL Docker image only evaluates `POSTGRES_PASSWORD` during initial volume initialization. Consequently, updating dashboard environment variables on an existing database leaves the engine enforcing the legacy password while management interfaces display the new one. Proper credential rotation requires manually executing `ALTER USER` inside the database terminal, updating application connection strings, and aligning dashboard UI variables. Furthermore, verification must be performed via TCP connections from application services rather than local container `psql` sessions, which can yield false positives due to socket-based trust authentication.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;PaaS Password Rotation Trap:&lt;/strong&gt; Updating PostgreSQL environment variables and restarting the service in Zeabur does not automatically update the actual database password. This creates a silent failure where applications fail to connect despite the dashboard showing updated credentials.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Docker Volume Initialization Limits:&lt;/strong&gt; The official PostgreSQL Docker image only evaluates POSTGRES_PASSWORD when initializing an empty persistent volume. Once data exists, changing environment variables and restarting the container has no effect on existing database roles.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Dashboard and Engine Mismatch:&lt;/strong&gt; Failing to alter the password directly inside PostgreSQL leads to state desynchronization between the management UI and the database server. Zeabur displays the new password while the database engine strictly accepts the old one.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Correct Manual Rotation Workflow:&lt;/strong&gt; Password rotation requires manually running ALTER USER inside the database terminal, followed by updating application connection strings and restarting the app. Finally, dashboard environment variables should be updated to align UI state with the database.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Local Socket Authentication Pitfall:&lt;/strong&gt; Testing credentials locally inside the Postgres container using psql can be misleading due to trust-based socket authentication. Developers must test TCP connections from application services to ensure the password update actually succeeded.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thaddeusjiang.com/tech-blog-ying-gai-you-ai-bian-xie&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Tech Blog 应该由 AI 编写&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI时代技术文章应由AI撰写，人类只需做决策与校阅。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者认为在AI时代，代码与调研均由AI完成，人类仅做产品级决策，因此技术文章也应交由AI撰写与整理，人类只需充当编辑或读者。作者主张大家使用AI撰写博客，并思考为何还要用人脑读取技术内容。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Technium &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kk.org/thetechnium/arguments-in-favor-of-ai-fair-use/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Arguments in Favor of AI Fair Use&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI training constitutes fair use by transformatively converting copyrighted content into abstract mathematical parameters for novel functional applications.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;LLM training relies on a fundamental, one-way mathematical transformation that converts copyrighted human expression into abstract latent space vectors and model parameters rather than storing explicit reproductions of source content. The brief, intermediate digital copying required during this training phase mirrors established technical fair-use precedents for temporary data processing. Furthermore, the primary value of these systems stems from emergent intelligence that powers novel functional applications, fundamentally altering the form, purpose, and utility of the underlying information compared to the original source text.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Latent Space Transformation&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;LLMs convert copyrighted human expressions into an abstract, non-reversible mathematical syntax called latent space. This fundamental, one-way transformation replaces the original expressed form entirely.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Novel Functional Applications&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;How users interact with LLM outputs—such as troubleshooting devices or generating strategies—is fundamentally distinct from reading source texts. These unique usages transform both the form and utility of the underlying information.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Emergent System Intelligence&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The primary value of an LLM stems from emergent capabilities created during model training rather than the source material itself. The system generates novel insights that extend beyond what individual training texts contain.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Transitional Digital Copying&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;LLMs store parameters and non-copy mathematical entities rather than actual reproductions of content. Training relies on brief, intermediate copies that mirror established fair-use patterns in standard&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Theresa O’Connor &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://tess.oconnor.cx/2026/09/07-links&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Labor Day linkblogging&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文为劳动节博客链接汇总，涵盖跨性别权益、政治及技术等议题。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇“劳动节博客链接汇总”，作者通过推荐多篇文章与名言，重点探讨了 Gloria Steinem 的遗产、LGBTQ+ 及跨性别权益受到的威胁与政治争论，同时也涵盖了宪法、全球时事、手表收藏及 CSS 等技术随笔。整体采用链接策展的形式，体现了对社会正义与多元技术的持续关注。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-09-07T11:49Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-09-07T11:49Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 智能电视侵犯隐私严重，作者因老电视烧屏面临换机困境。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文讨论了LG智能电视严重的隐私侵犯问题，指出即使断开网络，电视也可能秘密连接邻居的开放Mesh WiFi。作者的旧LG OLED电视因烧屏急需更换，但担忧其他品牌同样存在间谍软件，因而陷入换机困境。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/n1bfc3c62fd39&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;全国巡る『チェイサーゲームW 水魚の交わり』公式グッズ&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 *Chaser Game W* features a revival screening and nationwide exhibition offering exclusive official merchandise and fan events.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The long-running project *Chaser Game W: Suigyo no Majiwari* is hosting a fan-requested revival screening at Akihabara UDX Theater on September 13, featuring stage greetings by the director and production staff. Concurrently, an ongoing nationwide CyberConnect2 exhibition is showcasing filming scripts, props, photo spots, and talk events. Exhibition venues are offering the complete official merchandise lineup—including both event exclusives and mail-order items—for in-person purchase. Additionally, direct fan requests have led to the creation of new workplace-friendly sticky notes decorated with character and animal illustrations.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;プロジェクトの歩み&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;2025年12月に始動した『チェイサーゲームW 水魚の交わり』は、イベントや劇場公開を経て長期にわたり多くのファンに愛されています。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;リバイバル上映決定&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;ファンのリクエストに応え、9月13日に秋葉原UDXシアターにて監督や製作担当の舞台挨拶付きドリパス上映が開催されます。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;サイバーコネクトツー展開催&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;現在全国巡回中の特別展では、撮影で使用した台本や小道具の展示、フォトスポットやトークイベントなどを実施しています。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;公式グッズ全国展開&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;遠方のファンや現物を見て購入したい方向けに、イベント限定品から通販専用品まで全ラインナップを会場で販売しています。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;ファン要望の新作グッズ&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;ファンのリクエストを元に商品化された、キャラクターや犬猫イラストが入った職場でも使えるかわいい付箋が登場しました。&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.ibaraki-esports.com/ibaraki_game_creative_2026/index.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;「iBAe茨城ゲームクリエイターズコンテスト」にサイバーコネクトツー松山洋が審査員として登壇決定！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iBAe茨城游戏创作者大赛面向日本学生开放报名与作品提交。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了iBAe茨城游戏创作者大赛的最新动态、大赛概要、作品提交规范及初学者培训。该赛事面向日本全境学生，要求提交可在Windows运行的游戏及PR资料，同时提供免费的Roblox Studio线上讲座支持。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章公布了比赛的最新动态，包括由CyberConnect2代表董事松山洋担任首批评审、更新提交物要求、开设初学者讲座以及开放报名等信息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了iBAe茨城游戏创作者大赛的参赛资格（日本在校学生）、参赛形式（个人或2-4人团队）、平台要求（Windows环境）及赛程节点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细说明了作品提交的具体规范，包括需提交Windows运行文件或链接（10GB以内）、PR演示文件或视频以及作品概要资料。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;公布了将于8月23日通过Discord举行的免费线上初学者讲座，主要围绕Roblox Studio的使用进行教学。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202609/86757&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『チェイサーゲーム』シーズン2 第73話 運命の引力（8）公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《チェイサーゲーム》第73话更新及松山洋新书发售信息。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文报道了Famitsu.com连载漫画《チェイサーゲーム》Season 2第73话的更新动态，简述了剧情进展与编辑点评，并预告下次更新时间。同时介绍了原作者松山洋撰写的新书《ゲーム業界の攻略法》，为游戏行业求职与从业人员提供指导。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114288&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评｜近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A curated collection of specialized productivity and utility applications recently released for macOS, iOS, and Android.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This curation of notable software releases highlights specialized productivity and utility tools across macOS, iOS, and Android platforms. On macOS, **CleanShot 5.0** introduces a dedicated video editing studio with precise track cutting and cursor controls, while **小窗译** enhances desktop translation workflows by integrating AI models like DeepSeek for floating-window, screenshot, and selection translation. For iOS, **Readmate** streamlines WeChat Reading note reviews via desktop widgets, and **Velastar** offers advanced stargazing features including offline light pollution maps and extraterrestrial star chart perspectives. Rounding out the updates, Android&amp;#039;s **Pixel Budget Tracker** delivers financial planning through a Material 3 interface focused on upfront budgeting and net worth targets.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Readmate 微信书摘:&lt;/strong&gt; Readmate 是一款专注于回顾微信读书划线与笔记的 iOS 应用，提供每日桌面小组件提醒及排版精美的卡片分享功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;CleanShot 视频编辑:&lt;/strong&gt; CleanShot 5.0 为 macOS 引入全新的视频编辑工作室模式，支持自定义缩放焦点、光标轨迹控制与精准轨道切割。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pixel 预算管理:&lt;/strong&gt; Pixel Budget Tracker 采用 Material 3 风格设计，帮助 Android 用户通过灵活的前置预算设置与净资产目标进行财务规划。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;小窗译 AI 翻译:&lt;/strong&gt; 小窗译是 macOS 平台专注于翻译效率的工具，支持划词、截图及实时翻译窗，并预置 DeepSeek 等多种 AI 模型。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Velastar 天文观星:&lt;/strong&gt; Velastar 是一款 iOS 天文观星应用，提供离线光污染地图、天气与摄影规划，并支持在月球与火星等异星视角观测星图。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113877&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Formula 1 safety protocols (Safety Car, VSC, Red Flag) control on-track hazards while dynamically shaping team race strategies.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Unlike individual-timing events such as rally racing, circuit racing relies on centralized pacing mechanisms to safely manage high-risk, multi-car competition. Modern Formula 1 addresses on-track hazards through three primary intervention protocols: the physical Safety Car (SC), the Virtual Safety Car (VSC), and the Red Flag. These mechanisms differ significantly in their operational impact, specifically regarding field compression, lap count calculations, and pit lane availability. Consequently, these safety protocols serve not only as critical hazard controls, but also as pivotal variables that dynamically dictate team race strategies.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;区别于拉力赛（WRC）采用名义时间独立计时的模式，场地赛因多车同场竞技且极具意外风险，必须引入统一带队的降速机制以确保人员安全。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;现代 F1 比赛主要通过实体安全车（SC）、虚拟安全车（VSC）和红旗三种机制干预赛程，三者在车阵压缩程度、圈数计算及维修区限制上各有不同。&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114103&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 回顾与实测定义苹果十年白色美学的经典iBook G3小白。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇怀旧数码测评，详细回顾了2001年发布的苹果iBook G3 Snow（小白）。文章介绍了其硬件配置、纯白聚碳酸酯设计细节，并实测了系统运行流畅度与经典软件。作者语气怀旧且客观，指出该机型的设计奠定了苹果后续十年的白色笔记本美学，具有极高经典价值。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;回顾 1999 年首款 iBook G3 贝壳机及革命性 AirPort 无线网卡和基站的发布背景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍 2001 年发布的 iBook G3 Snow（小白）在外观设计与硬件配置上的重要升级。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细描述 iBook G3 小白的外观材质、丰富接口、发光 Logo 及键盘电池等设计细节。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分享开机及运行 Mac OS X 10.4 的实际流畅度体验与硬件运行状况。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;测试 AppleWorks 办公软件使用体验以及通过 Classic 环境兼容运行 Mac OS 9 老游戏的方法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结 iBook G3 小白的白色聚碳酸酯设计对苹果后续十年笔记本外观的深远影响与经典意义。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114250&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Microsoft announced Project Zenith for local AI development, while F-Droid proposed a policy governing contributor use of generative AI.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Microsoft has announced Project Zenith, a specialized Windows 11 configuration targeting high-performance developers that integrates pre-installed development tooling with a localized AI ecosystem. The setup mandates hardware equipped with at least 64GB of unified memory to support running on-device large language models exceeding 30 billion parameters. Concurrently, open-source app repository F-Droid plans to adopt a temporary generative AI usage policy inspired by Debian, permitting contributors to leverage AI for code generation and documentation. Under F-Droid&amp;#039;s proposed guidelines, human contributors remain strictly accountable for the quality, technical accuracy, and legal compliance of any AI-assisted submissions.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;微软 Project Zenith&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;微软公布 Project Zenith 计划，针对高性能开发者打造预装开发工具与本地 AI 环境的 Windows 11 配置方案。该方案硬件要求至少 64GB 统一内存，以支持本地运行 300 亿参数以上的大语言模型。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;F-Droid AI 政策&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;F-Droid 拟效仿 Debian 制定生成式 AI 临时使用政策，允许贡献者使用 AI 辅助开发与文档撰写。但政策明确规定，提交内容的质量、正确性及法律合规责任仍由人类贡献者承担。&amp;quot;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
