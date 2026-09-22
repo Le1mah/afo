@@ -4,8 +4,208 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-09-20T22:32:37.532Z</updated>
+  <updated>2026-09-22T23:01:47.960Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - September 22, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-09-22</id>
+    <updated>2026-09-22T23:01:47.960Z</updated>
+    <published>2026-09-22T23:01:47.960Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>10 articles from 5 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 22, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;290.4109589041096&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    72.6%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;265&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;100&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;37&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████████░░░░░░░░ 72.6%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;10&lt;/strong&gt; articles from &lt;strong&gt;5&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22773&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Back from Spain with a good haul…&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享从西班牙满载而归的简短动态及社交互动。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇简短的社交媒体动态更新。作者记录了自己于2026年9月22日从西班牙返回且收获颇丰的近况。文末附带了地理位置坐标、版权信息、Bluesky社交平台链接以及多位用户的点赞互动记录与回应邀请。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/09/are-llms-still-surprisingly-bad-at-some-simple-tasks/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Are LLMs still surprisingly bad at some simple tasks?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A follow-up benchmark shows LLMs still fail simple deterministic tasks by hallucinating answers, requiring constant manual verification.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;A one-year follow-up benchmark evaluating leading LLMs on a deterministic set-intersection task—matching top-level domains (TLDs) to valid HTML5 elements—showed that most models still fail despite recent technical advancements. Models exhibited superficial reasoning by hallucinating tags, missing standard elements like `&amp;lt;data&amp;gt;`, padding outputs with irrelevant &amp;quot;near misses,&amp;quot; and ignoring technical edge cases such as Punycode TLDs and embedded MathML. In contrast, Siri successfully provided the correct answer only by bypassing generative modeling to directly retrieve data from an existing web page via traditional search. Ultimately, the test demonstrates that LLMs frequently produce confident, plausible-sounding filler for simple factual lookups, reinforcing that they require constant manual verification unlike deterministic tools.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Retesting LLM Performance:&lt;/strong&gt; The author re-evaluated leading AI models one year after an initial benchmark to test if they improved on a straightforward set-intersection question. Despite technical advancements, most models still failed to provide accurate results.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Benchmark Query:&lt;/strong&gt; The experiment asked models to identify top-level domains (TLDs) that share exact names with valid HTML5 elements. This deterministic task requires comparing two finite, publicly available lists without factual errors.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hallucinations and Inaccuracies:&lt;/strong&gt; Models like Gemini Flash hallucinated non-existent TLDs and HTML tags, while reasoning models missed standard tags like `&amp;lt;data&amp;gt;` and `search`. Other models padded responses with irrelevant &amp;#039;near misses&amp;#039; to appear thorough.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Siri&amp;#039;s Surprising Win:&lt;/strong&gt; Siri successfully provided the correct answer, but only because it directly retrieved data from an existing web page. This highlights how traditional web search can beat generative LLMs on factual lookup tasks.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unhandled Technical Nuances:&lt;/strong&gt; Models completely overlooked edge cases like Punycode TLDs matching valid HTML custom elements and allowed embedded MathML tags. These technical omissions demonstrate the superficial nature of LLM reasoning.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Risks of AI Sycophancy:&lt;/strong&gt; LLMs often generate confident, plausible-sounding filler that misleads uncritical users into accepting incorrect data. Unlike deterministic tools like spreadsheets, LLMs require constant manual verification.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/22/open-problems-open-mathematics/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Open problems, open mathematics&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 As AI automates mathematical proofs, the community must update credit standards to protect open collaboration and human understanding.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Mathematics’ traditional culture of open, informal idea-sharing is increasingly threatened by AI-driven proof generation, which raises the risk of researchers being quickly scooped on uncompleted work. To safeguard open collaboration, the mathematical community must modernize its credit and ethical standards, drawing inspiration from historical data-sharing frameworks in biology like the Bermuda Principles. This policy evolution coincides with a growing synergy between the fields, where complex biological data actively stimulates novel pure mathematical abstractions. Ultimately, even as AI automates mechanical proof generation, the fundamental purpose of human mathematics remains centered on framing meaningful questions and deepening conceptual understanding.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bridging Mathematics and Biology:&lt;/strong&gt; Despite significant cultural and linguistic barriers, mathematicians and biologists share a fundamental drive for discovery and face similar challenges in advancing their fields.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Value of Open Collaboration:&lt;/strong&gt; Unlike technology-driven biology which often incentivizes secrecy, mathematics has historically thrived on a culture of openly sharing ideas, proof outlines, and informal feedback.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Emerging Threats to Sharing:&lt;/strong&gt; Rapid AI-driven proof generation threatens math&amp;#039;s open culture, causing researchers to withhold uncompleted work out of fear of being quickly scooped.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Reshaping Academic Credit Incentives:&lt;/strong&gt; Inspired by historical biology policy shifts like the Bermuda Principles, the mathematical community must update its credit and ethical standards to protect open sharing.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Applied Sciences Need Math:&lt;/strong&gt; Modern biological data demands novel mathematical abstractions, creating a reciprocal relationship where applied fields spark new pure mathematical discoveries.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Enduring Purpose of Mathematics:&lt;/strong&gt; Even as machines increasingly automate proof generation, the fundamental purpose of mathematics remains asking meaningful questions and deepening human understanding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-09-22T18:36Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-09-22T18:36Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者因AI产业去人性化且无前景，考虑全面禁止使用AI。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者考虑将其AI使用政策简化为“绝不使用”。作者指出追踪AI行业的混乱与乱象令人疲惫，并批判AI驱动的开发毫无价值与前景。他认为整个AI产业正在去人性化并将劳动力商品化，因此决定至少在政策中加入“绝不”。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/09/22/apple-intelligence/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;I said no and Apple said yes&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 macOS 27 overrides user consent by automatically re-enabling resource-heavy Apple Intelligence, exemplifying an unethical tech industry trend.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Following an upgrade to macOS 27, Apple removed the explicit setting to disable Apple Intelligence, overriding prior user opt-outs and automatically re-enabling AI features. Disabling Siri fails to terminate these unkillable background processes, which continuously consume system memory, perform disk writes, and forcibly lock up 22.28 GB of local storage. Consequently, users are forced to rely on workaround hacks like Screen Time restrictions just to suppress intrusive UI elements. The author argues that this behavior exemplifies a broader, unethical trend across the tech industry where vendors override user consent to aggressively push AI features.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Initial Telemetry Opt-Out:&lt;/strong&gt; The author initially discovered and disabled a macOS 15.3 feature that sent personal data back to Apple every 15 minutes.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Removed Opt-Out Controls:&lt;/strong&gt; After upgrading to macOS 27, the author found that Apple had removed the explicit setting allowing users to disable Apple Intelligence.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Persistent Background Processes:&lt;/strong&gt; Disabling Siri in macOS 27 fails to stop unkillable background processes from consuming system memory and writing data.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Bypassing User Consent:&lt;/strong&gt; Despite explicit prior opt-outs, Apple re-enabled AI features during the update, forcing the author to rely on Screen Time restrictions to hide interface clutter.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Excessive Storage Footprint:&lt;/strong&gt; Unwanted Apple Intelligence features occupy 22.28 GB of disk space, imposing a monetary cost on users forced to host unused data.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Industry Consent Crisis:&lt;/strong&gt; The author argues that Apple&amp;#039;s actions reflect a broader AI industry pattern of ignoring user consent, leading to widespread ethical and legal issues.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114878&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Beats 360 评测：支持高度定制与长续航的头戴耳机新选择。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了 Beats 360 头戴耳机首发体验。该耳机主打高自由度个性化搭配，配备可更换耳罩与头梁软垫，支持 IPX4 防水及 32 小时长续航，兼容 Apple 和 Android 双生态。虽然降噪和音质略逊于 AirPods Max 2 且缺少佩戴检测功能，但凭借出彩的设计与运动适应性，仍是兼具性价比与个性化的优质选择。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Beats 发布全新旗舰头戴式耳机 Beats 360，延续品牌经典设计并借鉴了 AirPods Max 的部分特性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;外观采用圆润简洁风格，提供多种配色以及机能编织和 UltraPlush 等可自选更换的耳罩套件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过将电子组件移至两侧耳罩，实现了纤细轻巧的头梁设计与可自由拆卸替换的头梁软垫。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;采用无级调节伸缩套杆，佩戴承托性好，且挂脖时 Logo 朝外使重新佩戴更加顺手。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在被动隔音上与 AirPods Max 2 相当，但在复杂环境下的主动降噪效果略逊于后者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;音质在声场宽度和低频下潜上不及 AirPods Max 2，但考虑到定价差异，其自身听感依然较为扎实。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;产品最明显的短板是缺失佩戴检测功能，摘下耳机后无法自动暂停音乐或休眠。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;生态体验优秀，深度整合 Apple 生态功能，同时也通过 Fast Pair 兼容 Android 设备。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;支持 IPX4 级抗汗抗水，拥有 32 小时续航及快充功能，针对运动与日常通勤场景进行了优化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Beats 360 是一款具有高辨识度、丰富个性化搭配及出色的续航与运动特性的综合型头戴耳机。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114551&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The 2001 Sony VAIO PCG-SRX pioneered modern ultrabook engineering by balancing extreme portability, performance, and aesthetics in a compact chassis.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Here is a comprehensive summary tailored for a technical audience:
+
+Released in 2001, the Sony VAIO PCG-SRX series represented a major milestone in early sub-notebook engineering by balancing performance, aesthetics, and extreme mobility. Weighing just 1.26 kg with a compact B5-paper footprint, it dramatically outperformed contemporary mainstream office laptops in form factor and portability. The design established an early blueprint for what would eventually become the modern ultrabook segment, demonstrating how hardware trade-offs could be managed in a highly constrained chassis. Today, the series serves as a compelling historical case study in legacy mobile hardware optimization and thermal-spatial engineering.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (1 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;2001年发布的索尼 VAIO PCG-SRX 系列以 1.26kg 的重量和 B5 纸张尺寸打入便携市场，在轻薄度与便携性上超越了同期的主流办公本。&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114479&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1 | Coast：用十年经验，给记账这件事一个「终点」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Coast is a FIRE-focused budgeting app that projects financial independence timelines, built using modular AI-assisted &amp;quot;Vibe Coding.&amp;quot;&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Coast** is a personal finance application built around the FIRE (Financial Independence, Retire Early) framework, transforming categorized expense data into real-time projections of a user&amp;#039;s timeline to financial independence. The product features automated median-based budgeting, price tracking, and instant feedback loops that calculate the explicit &amp;quot;time-cost&amp;quot; of individual purchases. From an engineering perspective, the application was built using AI-assisted &amp;quot;Vibe Coding,&amp;quot; relying on strict Git version control, pre-defined design systems, and precise visual annotation workflows. To maximize development velocity and reduce LLM token overhead, the author modularized AI chat contexts per feature, utilized cropped visual inputs, and executed task prompts in batches.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;十年记账反思:&lt;/strong&gt; 单纯的信息记录无法改变消费行为，没有后续分析与明确目标的数据难以产生实际价值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;极简记账方法:&lt;/strong&gt; 主张精简账户与合并消费，按支出的“固定、必要、弹性”性质分类，从而直观找出可优化的开支。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;引入 FIRE 理念:&lt;/strong&gt; 以“财务独立、提前退休”为记账终点，将账户资产与消费数据转化为距离自由的具体时间。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Coast 产品设计:&lt;/strong&gt; 围绕 FIRE 计算模型打造产品，通过消费场景模拟与即时反馈回路，让每笔支出展现出直观的时间成本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;智能预算与实用功能:&lt;/strong&gt; 利用历史数据中位数自动生成预算，并设计同类商品价格追踪与灵活配置小费等附属消费功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI 编程踩坑总结:&lt;/strong&gt; 在 Vibe Coding 过程中，需明确标注截图修改点、提前建立统一设计规范，并学会使用 Git 管理代码版本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;上下文与 Token 优化:&lt;/strong&gt; 按功能模块及时开启新对话，并采用精简截图与批量派发任务的方式，可显著降低 Token 消耗并提高开发效率。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114823&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派独家发售泡泡骚 Low Pro 碳纹黑款极薄站立支架。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了少数派独家上架的 PopSockets 泡泡骚 Low Pro 碳纹黑款极薄站立支架。该产品厚度仅 2.6mm、重 20g，采用碳纤维纹理设计。它兼具辅助握持与横竖屏桌面支撑功能，可大幅减轻持握负担，并具备超过 10 万次开合的耐用度，文中还预告了 10 月初的第二波众测活动。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍 PopSockets 泡泡骚 Low Pro 碳纹黑款极薄站立支架在少数派独家上架。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;描述其 PC 材质与碳纤维纹理设计，能自然融入深色手机壳或凸显浅色机身轮廓。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;阐述其 2.6mm 极薄轻量设计与辅助握持功能，可有效减轻大屏及折叠屏手机持握负担。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明其作为桌面支架支持横竖屏多角度站立，满足看视频、办公与拍照等场景需求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍产品高耐用度的测试表现，并说明下单即赠少数派专属贴纸。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;预告 10 月初将开启 Low Pro 手机壳发售与第二波众测招募活动。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114840&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Google introduced Googlebooks, vivo launched the X500 series, and tech companies announced major new AI model updates.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Google has unveiled its first fleet of &amp;quot;Googlebooks&amp;quot; featuring a hybrid Android/ChromeOS operating system with native hardware-level pKVM virtualization support and deep Gemini integration. These flagship laptops are powered by MediaTek&amp;#039;s newly announced 3nm Dimensity CX C10 Max PC silicon, which delivers 55 TOPS of NPU compute via an all-big-core architecture. In mobile hardware, vivo launched its X500 flagship smartphone series powered by the Dimensity 9600 platform alongside new wearable accessories. Additionally, the AI ecosystem saw significant developments, highlighted by SpaceXAI&amp;#039;s Grok 4.7 optimized for code generation and long-context management, alongside major open-source releases from Alibaba (Qwen-Image-2.1) and Xiaomi (MiMo-V2.6 omni-modal model).&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;vivo 新品发布&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;vivo 正式发布 X500 系列旗舰手机，搭载天玑 9600 系列芯片与蔡司影像系统，同步推出了首款耳夹耳机 vivo Buds Clip 及 WATCH 6 智能手表。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;首批 Googlebook 亮相&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Google 联合宏碁、戴尔等多家厂商推出首批 Googlebook，搭载融合 Android 与 ChromeOS 优势的新系统，内置 Gemini 深度定制功能并支持硬件级 pKVM 虚拟机。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;联发科天玑 CX 发布&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;联发科发布面向 PC 设备的新款旗舰芯片天玑 CX C10 Max，采用台积电 3nm 工艺与全大核架构，提供高达 55 TOPS 的 NPU 算力并首发于高端 Googlebook。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;AI 大模型集体更新&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;SpaceXAI 发布提升编程与长上下文管理能力的 Grok 4.7；阿里开源支持透明图层编辑的 Qwen-Image-2.1；小米开源 Xiaomi MiMo-V2.6 全模态模型。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;智谱 ZCode 开源整改&amp;quot;,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - September 20, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1834,493 +2034,6 @@ sspai has partnered with accessory brand PopSockets to host a free crowd-testing
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; 6. &amp;quot;AI备战面试&amp;quot; (AI Interview Prep)&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; 7. &amp;quot;冗长凑数面试&amp;quot; (Flawed Interview Loops)&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; Let&amp;#039;s review title lengths:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - September 11, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-09-11</id>
-    <updated>2026-09-11T22:53:15.832Z</updated>
-    <published>2026-09-11T22:53:15.832Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>17 articles from 9 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 11, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;278.35616438356163&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    69.6%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;254&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;111&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;36&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████████░░░░░░░░░ 69.6%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;17&lt;/strong&gt; articles from &lt;strong&gt;9&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Building A UX ROI Case That Survives The Boardroom&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 UX initiatives gain executive approval through revenue-linked, fully costed business cases validated by rigorous testing.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To secure executive approval, UX teams must replace abstract promises of user delight with credible, revenue-linked business cases aligned directly with existing leadership goals. By interviewing cross-departmental stakeholders and co-creating success metrics integrated into established operational dashboards, design initiatives gain immediate boardroom credibility. Furthermore, defensible ROI calculations must account for all fully loaded costs—including engineering labor, software tooling, and stakeholder meeting overhead—to withstand finance team scrutiny. Ultimately, establishing definitive causation between UX initiatives and business outcomes requires rigorous validation methodologies, such as A/B testing or phased rollouts against control groups.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Aligning UX with Business:&lt;/strong&gt; Modern finance teams require concrete proof of revenue impact rather than vague promises of user delight to approve UX budgets. Design initiatives must establish a direct, credible line to outcomes leadership already cares about.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining Latent Business Goals:&lt;/strong&gt; When explicit business metrics are missing, UX teams should interview cross-departmental stakeholders to surface recurring organizational pain points. Frameworks like OKRs can then be used to translate broad ambitions into precise, actionable targets.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Co-Creating Validated Design KPIs:&lt;/strong&gt; Design metrics gain instant executive credibility when co-created with stakeholders who own the underlying business outcomes. Aligning success metrics with existing operational dashboards ensures leadership trusts the evaluated results.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Calculating Total Project Costs:&lt;/strong&gt; A credible ROI calculation must account for all direct and indirect expenses, including engineering labor, software tooling, and senior stakeholder meeting time. Factoring in these hidden costs prevents finance teams from discounting the financial case later.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Establishing Causation Through Testing:&lt;/strong&gt; Demonstrating that design changes directly caused business metrics to improve requires rigorous A/B testing or phased rollouts. Comparing variant results against a control group rules out external variables like seasonal traffic or marketing campaigns.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-323/viewer?title_no=853933&amp;episode_no=338&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 323&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画《DOGHAUS》的页面导航与章节目录数据。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文本为创作者Moowsie在WEBTOON CANVAS平台上发布的网络漫画《DOGHAUS》的页面导航与界面数据。内容主要涵盖第1话至第323话的章节列表、特别公告、Kickstarter众筹通知，以及平台的订阅分享按钮与日常生活类漫画排行榜等UI元素，展现了该作品的更新历史与社交互动功能。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/520&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 520: Tailwind joins Shopify&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Shopify acquired Tailwind Labs and returned to native mobile, alongside React 19.3&amp;#039;s launch and rising AI productivity skepticism.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Shopify has acquired Tailwind Labs to bolster its template ecosystem, while simultaneously announcing a strategic pivot away from React Native after seven years to return to fully native mobile development. On the web platform, React 19.3 reached stable release, introducing native support for `ViewTransition` and Fragment `ref` assignments to streamline complex animations and component reference management. Meanwhile, AI developer tooling continues to mature with multi-file benchmarks like CursorBench 4.0 and standardization SDKs like `openeval`. Despite these AI advancements, industry leaders are increasingly questioning actual productivity returns, citing architectural friction and over-engineered multi-agent deployments.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Shopify Acquires Tailwind Labs:&lt;/strong&gt; Tailwind Labs has been acquired by Shopify following recent financial challenges and team downsizing. The deal provides Tailwind&amp;#039;s team with long-term stability while strengthening Shopify&amp;#039;s internal design expertise and template ecosystem.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;React 19.3 Introduced:&lt;/strong&gt; The React team released version 19.3, marking the first stable release to feature native support for ViewTransition and Fragment ref assignments. These features streamline complex animation flows and reference handling.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Shopify Abandons React Native:&lt;/strong&gt; After seven years of using React Native as its primary mobile framework, Shopify is officially migrating back to fully native mobile development. CEO Tobi Lütke noted that dropping the React abstraction layer leads to cleaner code.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;New AI Developer Benchmarks:&lt;/strong&gt; Developer tooling around AI continues to evolve with releases like CursorBench 4.0, which evaluates LLM capabilities on complex, multi-file codebases. Other emerging SDKs like openeval aim to standardize LLM-as-a-judge evaluation workflows.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Evaluating AI System Complexity:&lt;/strong&gt; Industry leaders are raising questions about whether highly capable AI models are actually delivering proportional developer productivity. Overly complex multi-agent architectures, such as ten-service cloud setups for simple form uploads, highlight growing integration friction.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/09/rss-club-sneak-peek-at-new-doi-functionality/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[RSS Club] Sneak peek at new DOI functionality&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者向RSS订阅者分享使用开放出版平台Rogue Scholar的体验。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是针对RSS Club订阅者的专属限定内容。作者在文中向订阅粉丝表达问候，并分享了自己近期探索与试用开放获取出版平台Rogue Scholar的经历和体会。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/11/on-the-hodge-conjecture/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;On the Hodge conjecture&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The Hodge conjecture drives human-led mathematical theory, recently yielding a major milestone for four- and five-dimensional abelian varieties.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The Hodge conjecture bridges topology and algebraic geometry by predicting how flexible real submanifolds correspond to rigid complex submanifolds using rational cohomology classes and integrals of algebraic functions. Although progress on the general conjecture remains limited, the effort to solve it has driven significant mathematical theory-building, inspiring essential frameworks like Griffiths&amp;#039; variations of Hodge structure and Deligne&amp;#039;s absolute Hodge cycles. Building on historical foundations from Lefschetz and Kodaira, researcher Eyal Markman recently achieved a major milestone by proving the conjecture for abelian varieties in dimensions 4 and 5 through innovations in semi-regularity. Ultimately, the text highlights that the true value of such conjectures lies in this collaborative, human-driven accumulation of knowledge, which cannot be replaced by context-free, brute-force AI output.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining the Hodge Conjecture:&lt;/strong&gt; The Hodge conjecture bridges topology and algebraic geometry by predicting which flexible real submanifolds correspond to rigid complex submanifolds. It formalizes this relationship through integrals of algebraic functions and rational cohomology classes.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Value of Unsolved Problems:&lt;/strong&gt; A great mathematical conjecture is valuable because it drives broader discoveries and theory-building over time. An instant solution from an oracle would deprive the mathematical community of essential knowledge developed along the path to a proof.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Early Foundations and Gaps:&lt;/strong&gt; Lefschetz proved the conjecture for codimension-1 cycles before its general formulation, though early proofs contained gaps. Later mathematicians, notably Kodaira, provided the rigorous analytic foundation required to solidify these early insights.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Inspiring New Mathematical Theories:&lt;/strong&gt; Despite limited progress on the general conjecture, the problem inspired fundamental frameworks like Griffiths&amp;#039; variations of Hodge structure and Deligne&amp;#039;s absolute Hodge cycles. These tools have provided deep insights into algebraic cycles and disproved long-standing assumptions.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Breakthrough on Abelian Varieties:&lt;/strong&gt; Eyal Markman recently proved the Hodge conjecture for abelian varieties in dimensions 4 and 5 by innovating on the concept of semi-regularity. This milestone builds upon decades of work by Weil, Bloch, Buchweitz-Flenner, and Pridham.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Human Context Versus AI:&lt;/strong&gt; While AI might eventually generate proofs for specific mathematical facts, brute-force output lacks the collaborative context essential to the field. True progress relies on meaningful ideas that contribute to an ongoing human conversation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A Severe Misalignment of AI in Mathematics&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 菲尔兹奖得主联合声明：警惕AI对数学研究与智力劳动本质的破坏。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由25位菲尔兹奖得主联合签署，以严谨且忧虑的视角探讨了AI对数学研究的深远影响。文章指出，AI企业追求解题基准的目标与数学界注重“深度概念理解”的核心诉求严重错位，这种急功近利的趋势威胁着数学社群的思想传承与人才培养。作者警示这一现象对所有智力劳动构成普遍威胁，呼吁社会各界紧急应对，确保技术变革服务于人类理解的核心价值。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;25位菲尔兹奖得主联合发表声明，呼吁关注大语言模型等AI技术快速发展对数学界及科研领域的潜在负面影响。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;近期LLM在解决数学难题上取得显著进展，但AI公司将解题作为测试基准的目标与数学界追求概念理解的核心目标严重错位。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;研究性数学的核心在于理解基本结构与启发新方法，解决经典难题旨在推动人类思维与现代科技的长期进步。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;数学社群通过人类互动、时间积累来培养人才和传播思想，这是数学事业健康发展的根本所在。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;过分强调AI快速解题可能破坏概念理解与归因机制，若缺乏人类数学家的消化与传承，AI产生的想法将失去生命力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI直接生成智力成果的现象对所有知识性职业构成普遍威胁，导致工具成果与培养深层理解的初始目标发生脱节。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI既有加速科学研究的潜力也存在破坏风险，数学界、AI企业及全社会需紧急应对，确保技术变革不偏离智力劳动的初衷。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/11/on-the-existence-of-non-sofic-groups/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;On the existence of non-sofic groups&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 OpenAI sparked controversy by publishing an uncredited math proof allegedly derived from a researcher&amp;#039;s private ChatGPT prompts.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;OpenAI recently published a proof solving a long-standing open problem regarding non-sofic groups, but faced pushback from mathematician Andreas Thom for initially downplaying prior progress and omitting credit for his foundational 2019 research. Because the AI&amp;#039;s proof utilized niche techniques Thom had discussed in private ChatGPT sessions, he challenged OpenAI&amp;#039;s assertions regarding user data exclusion in model training. This controversy underscores critical ethical and intellectual property risks, specifically the potential for AI vendors to ingest non-public user prompts to train models that subsequently race those same users to publication. Consequently, Thom urges the scientific and technical communities to demand transparent audits of AI training data pipelines to uphold rigorous academic attribution standards.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Breakthrough in Group Theory:&lt;/strong&gt; OpenAI published a solution to a long-standing open problem regarding non-sofic groups, building directly on prior foundational work by Andreas Thom and Gábor Kun.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Correcting Misleading Framing:&lt;/strong&gt; Thom successfully pushed OpenAI researchers to revise their initial public announcement, which had unfairly claimed a decade of zero progress while relying heavily on his 2019 paper.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Suspicions Over Chat Training:&lt;/strong&gt; Because the proof used non-mainstream techniques Thom had recently discussed at length with ChatGPT, he questioned whether his private prompts influenced the model&amp;#039;s capabilities.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Unsubstantiated Corporate Denials:&lt;/strong&gt; Following similar AI credit controversies, Thom concluded that OpenAI&amp;#039;s blanket denial regarding user data in training was unproven and materially misleading.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ethical Concerns in Research:&lt;/strong&gt; Using nonpublic mathematical ideas shared by users to train models that then outrace those users to publication presents severe ethical issues regarding attribution and consent.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Demanding Industry Transparency:&lt;/strong&gt; Thom emphasizes that the mathematical community must actively pressure AI companies to audit their training data pipelines and uphold rigorous academic standards.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/11/sair-competition-andrew-curtis-challenge/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;SAIR competition: Andrews-Curtis challenge&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The SAIR Foundation and Caltech launched an AI competition using reinforcement learning to solve the open Andrews-Curtis Conjecture.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The SAIR Foundation, in collaboration with Caltech&amp;#039;s Math-AI group, has launched the Andrews-Curtis Conjecture Challenge to tackle a prominent open problem in combinatorial group theory. The conjecture posits that any balanced presentation of the trivial group can be reduced to a trivial presentation using specific algebraic operations, namely relator inversion, multiplication, and conjugation. Because the problem can be modeled as a discrete state-space transformation process, it is uniquely structured for resolution via reinforcement learning and modern AI exploration techniques. Ultimately, the competition aims to leverage advanced computational search algorithms to advance automated mathematical discovery in complex search spaces.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Challenge Announcement and Scope&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The SAIR Foundation and Caltech&amp;#039;s Math-AI group have launched the Andrews–Curtis Conjecture Challenge to solve a prominent open problem in combinatorial group theory. The problem&amp;#039;s formulation as a combinatorial search problem makes it uniquely suited for reinforcement learning and AI-driven exploration.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;The Andrews-Curtis Conjecture&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The conjecture posits that any balanced presentation of the trivial group can be reduced to the trivial presentation using relator inversion, multiplication, and conjugation. Presentations that can be successfully transformed&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-09-11T09:27Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-09-11T09:27Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Croissant项目迁移至新域名，PWA用户需手动重新导入RSS订阅。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者宣布关闭Attic项目，但保留RSS阅读器Croissant并将其迁移至新子域名croissant.dbushell.com。Tauri macOS应用不受影响；PWA用户需手动导出并重新导入OPML/JSON格式的订阅数据。旧域名将保留至少一年，该开源项目功能已基本完备。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-09-11T05:45Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-09-11T05:45Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AT Protocol project Attic will sunset in December 2026 due to high technical complexity, rising costs, and low usage.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The AT Protocol side project &amp;quot;Attic&amp;quot; is scheduled to sunset on December 31, 2026, though user data remains secure due to the protocol&amp;#039;s decentralized Personal Data Server (PDS) architecture. The decision was driven by the technical complexity of aggregating multi-PDS data and processing the AT Protocol firehose as a solo side project, alongside escalating `.social` domain costs and declining personal usage. For developers interested in self-hosting, the project&amp;#039;s unmaintained SvelteKit source code has been made available on Tangled. Existing users can continue to export or manage their data using RSS feeds or tools like `pds.ls`.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Project Shutdown Announcement:&lt;/strong&gt; The AT Protocol side project Attic is officially scheduled to go offline on December 31, 2026.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Data Storage and Offboarding:&lt;/strong&gt; Because Attic relies on user Personal Data Servers (PDS) rather than central storage, user data remains intact and can be exported via RSS or managed with tools like pds.ls.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Domain Renewal Costs:&lt;/strong&gt; Escalating pricing for the .social top-level domain contributed to the decision to sunset the service.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Protocol Scaling Complexity:&lt;/strong&gt; Aggregating multi-PDS data and handling the AT Protocol firehose proved too complex for weekend side-project development.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Open Source Availability:&lt;/strong&gt; The unmaintained SvelteKit source code is available on Tangled for developers who want to self-host the application locally.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Post-Mortem Reflections:&lt;/strong&gt; The author cited a loss of personal usage and praised the app&amp;#039;s aesthetic design while reflecting on the habit of domain hoarding.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.vap.co.jp/chasergamew-movie/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;映画『チェイサーゲームW 水魚の交わり』Blu-ray BOX・Blu-ray・DVDが2027/1/27（水）発売決定！先着購入者特典・店舗別オリジナル特典も&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 介绍电影《チェイサーゲームW 水魚の交わり》特典、剧情与阵容。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本篇内容为电影《チェイサーゲームW 水魚の交わり》的宣发信息，涵盖蓝光/DVD各店铺购入特典、剧情梗概及演职员名单。影片讲述剧版7年后树与冬雨成为家人后的感情波折与成长，是一部由菅井友香、中村由利佳主演的大人百合电影。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍电影《チェイサーゲームW 水魚の交わり》各类蓝光/DVD的发售特典与不同店铺的限定优惠。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;概述电影剧情，讲述电视剧版7年后树与冬雨关系转变为家人后的感情迷惘与重新走近的故事。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;列出电影的主要演员阵容（菅井友香、中村由利佳等）及制作团队和发行等相关信息。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://game.kimetsu.com/hinokami2/news/?id=69593&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『鬼滅の刃 ヒノカミ血風譚2』「誕生日イベント：伊黒小芭内」が開始！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《鬼灭之刃 火之神血风谭2》开启“伊黑小芭内”生日活动。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为《鬼灭之刃 火之神血风谭2》官方公告，宣布于2026年9月10日至17日举办“蛇柱·伊黑小芭内”生日活动。玩家通过在线排位赛可获得活动积分，用以兑换伊黑小芭内的系统语音和印章等限定道具，使用特定角色参战还可享受积分加成。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;《鬼灭之刃 火之神血风谭2》宣布于2026年9月10日起开启“蛇柱·伊黑小芭内”生日活动。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;活动期间玩家参与排位赛可获取积分兑换道具，使用指定角色参战可获得额外积分。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;活动于9月10日至17日举行，可兑换伊黑小芭内的语音及印章等奖励，并说明了参与与兑换途径。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114458&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 7 部作品&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A curated weekly guide featuring seven diverse international film, television, and variety show recommendations across multiple genres.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This curated weekly roundup highlights a diverse selection of international film, television, and variety releases across multiple genres. Top series recommendations feature Guy Ritchie’s crime drama *The Gentlemen (Season 2)*, the investigative narrative *Ex-Partners*, and the identity-focused comedy *Chad Powers (Season 2)*. The selection also includes nuanced character studies such as the Japanese drama film *Fujiko* and the romance series *Wouldn&amp;#039;t Mind Dating You*, balanced by lighthearted Korean variety content like *Why Do You Climb Mountains?*. Finally, the list previews notable documentaries, dark crime thrillers, and major upcoming blockbuster announcements starring Tom Cruise and Brad Pitt.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;本周推介《绅士们》第二季、《前任拍档》与《查德·鲍尔斯》第二季，涵盖盖·里奇式黑帮犯罪、前任合作破案及身份探讨喜剧等丰富题材。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;电影《富士子》呈现单亲妈妈不屈世俗的独立精神，而日剧《要我和你交往也不是不行》则细腻刻画了同性恋爱的现实探讨与心理成长。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;韩国综艺《你为什么要爬山？》记录明星小白攀登雪山的爆笑旅程，《我剩下的恋爱》则聚焦重疾康复青年的勇敢爱恋。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;简要推荐了犯罪片《空枪》、权谋剧《韩国制造》第二季、喜剧《报社》第二季以及揭露现实残酷的纪录片《牧师妻之死》等多部作品。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;公布了灾难大片《哥斯拉 -0.0》、汤姆·克鲁斯主演《挖掘者》以及布拉德·皮特主演《野兽之心》等多&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114449&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple introduced new leadership and its ultra-thin first foldable, the iPhone Duo, prioritizing sleek design over peak performance.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Here is a comprehensive summary of the article:
-
-The latest Apple event signaled a major executive transition as John Ternus replaced Tim Cook for the opening keynote, reflecting a shift in the company&amp;#039;s core leadership. The presentation highlighted Apple&amp;#039;s first foldable device, the iPhone Duo, which strategically prioritizes an ultra-thin 5.2mm form factor over peak performance metrics. To achieve this minimal thickness, Apple made distinct engineering trade-offs, downgrading camera specifications and streamlining button configurations compared to the flagship Pro series. Consequently, the device presents a unique hardware balance—achieving Apple&amp;#039;s thinnest profile to date while carrying increased overall weight due to the structural demands of the foldable mechanism.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;本次 Apple 发布会首次由 John Ternus 接替 Tim Cook 开场主持，标志着苹果核心领导层的转换。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;iPhone Duo 产品定位&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;首款折叠屏 iPhone Duo 主打极致薄型设计而非最高性能，在影像规格和按键配置上相比 Pro 系列均有所缩水。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Duo 硬件设计细节&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;该机型创下最薄（5.2mm）但也最重（&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113605&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;「正常」已是不易：聊聊不那么标新立异的理想 i6&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 理想i6是一台配置丰富、补能高效且切中家用需求的均衡新能源车。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以第一人称视角详细评测了理想i6的购车预算、竞品对比、空间配置、驾驶质感及补能体验。文章风格客观真诚、细节详实。作者认为理想i6外观兼顾个性与实用，舒适性配置领先，5C超充极大缓解了补能焦虑，是一辆适合家庭长期持有的均衡新能源车型。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了将买车视为独立标志的购车背景，并阐述了选择符合个人生活方式车型的观点。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;依据个人稳定收入与无大额支出压力的现状，作者确定以一年到手收入（约25万元）作为合理购车预算。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过对比极氪7X、小米YU7、特斯拉Model Y等竞品后，作者因舒适性与实用性选择理想i6。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细记录理想i6的参数配置、选装项目及最终约27.3万元的落地价格与提车流程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;理想i6外观具有流线型与黑武士风格，展现出独特的德系韵味与低姿态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;得益于纯电平台布局，车辆提供充裕的储物与后排空间，并支持便捷的午休单人床模式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;车辆在隔音材料、主动降噪及各种电机运转噪音控制上表现优异，提升了整体高级感。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;底盘与空气悬架兼顾运动感与舒适度，过弯侧倾抑制好且路面颠簸过滤到位。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;车内配置电调方向盘、Nappa真皮及独立后排娱乐屏，细节用料与豪华感出众。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;基于5C超充网络，车辆实现了极快的补能速度与优秀的能耗控制，有效解决续航焦虑。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;基于Thor-U芯片的智驾系统在封闭道路表现良好，但城市复杂场景仍需人工监督接管。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;理想i6凭扎实配置与贴合家庭需求的设计成为实用之选，作者对其长期价值给予肯定。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114414&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新 iPhone 配件精选：多种组合一次配齐&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 iPhone 18 Pro系列专属配件与优惠组合选购指南。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了针对 iPhone 18 Pro/Pro Max 推出的五种配件选购组合，涵盖麦金獭抗反射钢化膜、AULUMU 导热手机壳、异泽 USB4 2.0 高速数据线、米物 67W 充电套装及多功能磁吸支架。文章梳理了各产品的技术卖点与实用场景，并给出针对性的组合选购建议，帮助用户以优惠价格一次性配齐新机所需配件。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对 iPhone 18 Pro/Pro Max 推出的五款配件优惠组合，覆盖防护、充电、数据连接与支撑等多种日常需求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍全新升级的麦金獭 AR 抗反射钢化膜，厚度增加至 0.17mm 提升耐用度，并获得德国 TÜV 莱茵认证。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍 AULUMU A18 散热手机壳，通过内置导热硅胶和铝合金镜头框缓解机身发热，兼具防护与磁吸功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍 EGIOZR 异泽 EZ20 全能数据线，具备 80Gbps 带宽与 240W 供电上限，兼顾高规格性能与轻便柔软设计。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍米物 67W 充电套装，主打小巧便携与多协议快充，适合桌面及通勤场景下的设备供电。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍 AULUMU 多功能磁吸支架，支持防滑指环、多角度支撑、悬挂及双面磁吸等多场景使用方式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结五种配件组合的针对性搭配建议与折扣信息，指引用户按需核对型号并选购合适套餐。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;科技爱好者周刊（第 412 期）：禁止 issue，只用 PR&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Tech Enthusiast Weekly #412 highlights Laravel’s PR-only policy, Claude’s AI math milestone, novel hardware innovations, and web development insights.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
-
-Issue #412 of *Tech Enthusiast Weekly* highlights a major shift in open-source project management, focusing on Laravel’s decision to disable GitHub Issues and exclusively accept Pull Requests to reduce spam using AI-assisted contributions. In AI milestones, Anthropic’s Claude successfully translated the proof of Fermat&amp;#039;s Last Theorem into the Lean proof assistant, generating a record-breaking 13-million-line formal mathematical program over 11 days. The edition also details novel hardware innovations, including Tesla&amp;#039;s commercially available Cybercab robotaxi, a camera-equipped Dyson toothbrush, and a Harvard-designed AI smart cane for visual navigation. Finally, technical insights cover security and web development topics, such as the rapid cracking of 512-bit RSA keys, modern CSS adaptive viewport properties, and the background story of Cloudflare&amp;#039;s co-founder.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Laravel 弃用 Issue&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Laravel 宣布禁止提交 issue 仅接受 Pull Request，旨在减少垃圾信息并借助 AI 降低社区贡献门槛。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;AI 证明费马大定理&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Anthropic 的 Claude AI 耗时11天将费马大定理证明转化为 Lean 语言，生成了包含 1300 万行代码的史上最长数学程序。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;本期介绍了可对外出售投资的特斯拉无人出租车 Cybercab、带有摄像头的戴森电动牙刷以及哈佛研发的 AI 导航手杖。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;涵盖 Cloudflare 创始人的悲剧故事、512位 RSA 密钥被快速破解的实验以及现代前端开发中自适应视口属性的&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - September 10, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-09-10</id>
-    <updated>2026-09-10T22:25:54.740Z</updated>
-    <published>2026-09-10T22:25:54.740Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>10 articles from 8 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 10, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;277.26027397260276&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    69.3%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;253&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;112&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;36&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████████░░░░░░░░░ 69.3%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;10&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22755&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Today I’ll mostly be listening to The Bothy Band, in memory of Paddy Keenan—what a piper! Ar dheis Dé go raibh a anam.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者听The Bothy Band音乐以悼念风笛手Paddy Keenan。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本短文为作者于2026年9月10日发布的随笔，表达了对风笛手Paddy Keenan的哀悼与敬意。作者计划当天主要聆听爱尔兰民谣乐队The Bothy Band的音乐作品以示纪念，展现了对音乐人的深切缅怀之情。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-9-10/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.9.10&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录日常琐碎生活与开发Playdate版Epoch太空游戏的进展。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以随笔形式记录了作者近期颓废又充实的日常生活。面对生活中的停滞与无聊，作者通过观看《Akira》、缝制Cayman方向盘套等琐事调节情绪，同时坚持为Playdate开发生成式3D太空游戏Epoch，展现了在虚无中主动寻找与创造生活意义的态度。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者讲述了深夜观看《Akira》4K重映的感受，以及近期因生活颓废而产生的虚幻体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者因多项生活事项处于等待状态而感到无聊，考虑购买手动挡二手车消遣，并感叹需要自己创造生活的意义。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者规划了购车后的通勤停放方案，并表达了等待法庭赔付的现状以及情绪在躁郁边缘徘徊的状态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了在Playdate上开发3D太空游戏Epoch的技术细节，以及尝试让AI改用Voxel Space渲染算法的进展。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者记录了重缝Cayman方向盘皮套、逛大统华超市以及观看新一季Grand Tour等日常琐事。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/09/put-an-av-test-at-the-start-of-your-slides/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Put an AV test at the start of your slides&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 建议在演讲文稿中加入音频测试页并准备后备方案以应对设备故障。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了在演示文稿开头嵌入音视频测试页的经验。因曾遭遇演讲场地音频故障，作者总结了无声、延迟和失真等常见AV设备问题，建议演讲者提前播放测试视频排查故障，并准备字幕或手语等后备预案，确保演示顺利进行。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者多年来习惯在演示文稿开头放置视觉测试卡，以便提前排查画面比例或色彩等展示问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;一次演讲中由于场地设备问题导致演示视频音频失效，使作者意识到音频输出极易出现意外故障。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;自此作者会在演示文稿开头嵌入音频测试视频，在演讲开始前播放以检验现场声音状况。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结了活动场地常见的各种AV设备故障，如无声、单声道、高延迟、声音失真及直播未同步等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者提醒不能盲目信任场地设备，建议为视频添加字幕或手语预案，必要时可用麦克风贴近扬声器应急。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Things That Caught My Attention &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thingsthatcaughtmyattention.com/e/s21e28-did-you-try-the-app&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;s21e28: Did you try the app?&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Coupling physical IoT services to mandatory mobile app dependencies creates severe operational friction and single points of failure.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The article critiques brittle digital-physical integrations by contrasting seamless cloud workflows with real-world services that enforce mandatory mobile application dependencies. Using Walmart&amp;#039;s EV charging rollout as a case study, the author illustrates how an app-first requirement introduces single points of failure through software glitches, poor error handling, and cellular network reliance. While competitors successfully deployed identical Alpitronic hardware using frictionless, tap-to-pay interfaces, Walmart&amp;#039;s app-centric architecture created severe operational friction and drove users away. Ultimately, the piece serves as an architectural cautionary tale against coupling physical IoT services to fragile app dependencies, while also previewing upcoming podcast discussions on government usability and organizational voice.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Web App Workflows:&lt;/strong&gt; The author reflects on seamless cloud data integration between platforms like Descript and Zoom while coming to terms with their identity as a modern content creator.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Civic Design and Tone:&lt;/strong&gt; Upcoming podcast episodes feature civic designer Dana Chisnell discussing government digital usability alongside Anna Pickard exploring organizational voice and tone.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;EV Infrastructure Expansion:&lt;/strong&gt; Walmart is leveraging its massive real estate footprint to deploy electric vehicle charging networks with potential solar power integration.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;App-Driven Usability Failures:&lt;/strong&gt; A real-world case study highlights how forcing users through a proprietary charging app creates severe friction due to software glitches, poor error handling, and cellular connectivity dependencies.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hardware vs Software UX:&lt;/strong&gt; Despite using identical Alpitronic hardware, a competitor succeeded by offering simple tap-to-pay payment while Walmart&amp;#039;s app-first approach drove customers away.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Load-Bearing Digital Liabilities:&lt;/strong&gt; Architecting real-world physical services around mandatory app connectivity transforms customer experience initiatives into fragile single points of failure.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/10/stable-singularity-of-the-euler-equations-on-r3/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Stable singularity of the Euler equations on R^3&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Researchers used an AI framework to discover and formally prove stable, self-similar singular solutions for 3D Euler equations.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Researchers have developed a novel AI-driven approach to discover stable, self-similar singular profiles for the unforced 3D Euler equations in free space. To overcome previous neural network failures like trivial solution collapses, the team combined a traveling-wave self-similar ansatz with FP64 precision and custom second-order optimizers (SS-eSOAP) to efficiently achieve high numerical accuracy. The resulting PINN solution converged to a scaling exponent near 0.5, directly validating long-standing theoretical predictions by Constantin et al. Finally, the authors converted the network outputs into piecewise-polynomial splines and applied arbitrary-precision interval arithmetic to compute tight energy bounds, formally proving the profile&amp;#039;s local stability.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Context and Publication&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The authors developed an AI-driven method to tackle unforced Euler equation singularities, releasing their paper and code right before related industry announcements. Despite initial mainstream media oversight, the work gained immediate recognition and validation within the research community.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Unforced Euler Singularities&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Unlike prior methods relying on boundaries or multi-scale discrete jumps, this research focuses on discovering self-similar singular profiles in free space. Previous attempts using neural networks failed because models collapsed into trivial solutions or lacked analytical precision.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;PINN Architecture Innovations&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The team adopted a traveling-wave self-similar ansatz paired with custom second-order optimizers like SS-eSOAP and high-precision FP64 arithmetic. This architecture made the optimization landscape tractable, delivering ultra-high accuracy without requiring massive compute resources.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Theoretical Alignment Checks&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The PINN solution converged to a scaling exponent near 0.5, directly aligning with mathematical predictions by Constantin et al. Systematically varying the convection terms in the PDE further validated the stability and correctness of the discovered profile.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Rigorous Stability Verification&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Because global outgoing properties failed to hold, the authors verified a weaker local outgoing property to establish profile stability. They converted PINN outputs into piecewise-polynomial splines, using arbitrary-precision interval arithmetic to compute tight energy bounds.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/10/crowdsourcing-a-list-of-general-resources-on-ai-and-mathematics/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Crowdsourcing a list of general resources on AI and mathematics&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者整理并分享了关于人工智能与数学领域的在线资源列表。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇集了关于人工智能与数学领域的在线资源，涵盖声明倡议、研究报告、专家观点讨论、学术研讨会及相关资源列表。作者阐述了整理该列表的初衷，并因提交量增多引导读者在评论区继续交流与补充新资源。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2store/?page_id=12016&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【9/20(日)】「けもケット17」にサイバーコネクトツーブース出展決定！『戦場のフーガ3』完全設定資料集を先行販売！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CyberConnect2 will offer advance sales of the official *Fuga: Melodies of Steel 3* art book at Kemoket 17.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Game development studio CyberConnect2 announced its booth presence at the Kemoket 17 event, taking place on September 20, 2026, at the Tokyo Ryutsu Center. The exhibit will feature advance sales of exclusive merchandise and promotional bonus items for *Fuga: Melodies of Steel 3*. The centerpiece offering is the official *Fuga: Melodies of Steel 3* Complete Art Book, a 208-page, full-color bilingual setting material collection priced at 4,400 yen.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Event Booth Announcement&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;CyberConnect2 will host a booth at Kemoket 17 on September 20, 2026, at Tokyo Ryutsu Center. The event features advance sales of exclusive merchandise and bonus items for Fuga: Melodies of Steel 3.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Complete Art Book&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The official Fuga: Melodies of Steel 3 setting material collection features 208 full-color pages with bilingual text for 4,400 yen&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.web.nhk/tv/pl/series-tep-RYWNP9GZQ5&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【9/15(火) 午前2:15～ NHK総合】松山洋出演の「神ゲー創造主エボリューション2025」再放送のお知らせ&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 介绍扶持与评选革新性独立游戏创作者的节目《神ゲー創造主エボリューション》。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了电视节目及大赛《神ゲー創造主エボリューション》。随着游戏开发环境的普及，业余游戏制作日益蓬勃。该活动通过半年以上的长时间跟踪与扶持，以“革新性”为核心标准评选优秀独立游戏。节目深入追踪决赛盛况，展示了创作者角逐业余游戏第一宝座的过程与创新成果。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了《神ゲー創造主エボリューション 2025》的播出安排与比赛概要，业余创作者们以“革新性”为标准角逐独立游戏冠军。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;列举了该节目从2023年至2026年期间播出的历届大赛及追踪纪录片的单集信息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;阐述了比赛设立背景，随着游戏开发环境的进步，该项目旨在通过半年多的时间扶持并评选出最具革新性的游戏作品。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114384&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1｜下一节：教学工作紧张忙碌，下一节课从从容容&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 **「下一节」** is an AI-assisted iOS app designed to streamline complex teaching schedules and daily workflows for educators.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Designed to replace obsolete schedule tools, **「下一节」 (Next Class)** is a specialized iOS application built with AI assistance to optimize the complex workflows of educators. Moving away from standard calendar timelines, the app utilizes a school-schedule-based core axis to dynamically handle odd/even week rotations, temporary class swaps, and non-teaching duties seamlessly. Its &amp;quot;Today&amp;quot; view acts as a real-time dashboard featuring next-class indicators, recess countdown timers, and integrated note-taking functionality to improve classroom pacing. Additionally, the application minimizes onboarding friction by supporting bulk data ingestion via Word and Excel documents alongside automated synchronization with statutory holiday schedule changes.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;作者因常用课表软件停运且市面应用无法满足需求，借助 AI 辅助将纸笔设计转化并上架了专门的教师课表 App「下一节」。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;应用抛弃传统日历的时间轴模式，以学校作息表为基准轴，方便教师在学校作息时间频繁变更时无缝切换。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;针对单双周排课、临时或永久调课以及看班值班等非教学事务，应用提供了灵活的计划与调整能力。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;通过「今日」页面展示下一节课信息、课间休息倒计时及课堂记录功能，帮助教师更有条理地掌控教学节奏。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;应用支持通过 Word 和 Excel 快速导入排课数据，并能自动更新适配法定节假日调休，降低使用门槛。&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;关键时刻可以救命的Web Locks API&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 利用Web Locks API解决多标签页断点续传冲突&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文针对多标签页下大文件断点续传导致的上传冲突问题进行探讨。分析了localStorage和Broadcast Channel API等传统方案的缺陷后，介绍了Web Locks API（navigator.locks）的原理与实现，展示了如何优雅避免并发重复上传并提升用户体验。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了在大文件断点续传场景下，用户打开同一URL的多个标签页会导致数据重复发送与进度条跳动的体验问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分析了使用localStorage结合轮询以及Broadcast Channel API等常见跨页面通信方案解决并发冲突时的局限性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了计算机开发中“锁”的概念，说明了通过加锁控制共享资源读写权限以实现同步访问的原理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示了使用Web Locks API（navigator.locks）解决上传冲突的代码实现方式及其带来的代码简化与体验提升效益。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明了navigator.locks.request()方法的可选参数设置，并列举了其他适合使用Web Locks API的场景。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;指出Web Locks API具有良好的浏览器兼容性，总结了在现代开发环境下该 API 的使用便利性。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
