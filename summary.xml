@@ -4,8 +4,259 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-09-22T23:01:47.960Z</updated>
+  <updated>2026-09-24T23:38:01.415Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - September 24, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-09-24</id>
+    <updated>2026-09-24T23:38:01.415Z</updated>
+    <published>2026-09-24T23:38:01.415Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>15 articles from 9 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 24, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;292.6027397260274&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    73.2%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;267&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;98&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;38&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████████░░░░░░░░ 73.2%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;15&lt;/strong&gt; articles from &lt;strong&gt;9&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22775&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Thursday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录博文发布信息、社交点赞及互动回复征集的元数据。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文包含一篇发布于2026年9月24日的网页帖子互动元数据，记录了发布时间、地理坐标（51° N, 0° W）、跨平台分享链接，以及五位用户的点赞动态和回应Ping网址征集。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22774&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The summer of ’26&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者总结了充满旅行与音乐的愉快夏天，准备回归居家生活。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在秋分之际回顾了2026年充满旅行、音乐与阳光的愉快夏天。他分享了前往西班牙参加Cáceres Irish Fleadh音乐节，以及游览希腊、意大利、科克和北爱尔兰避暑的经历，表达了对夏日美好时光的怀念，并准备回归居家生活迎接秋冬。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Charles Harries | Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://charlesharri.es/stream/walking-ghyll-24-september&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Walking Ghyll, 24 September&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记叙九月夜散步的体验，并对比回忆了极致安静的银河夜晚。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇记叙作者夜间散步（Walking Ghyll）的随笔。作者描绘了九月末温和月夜下的环境，捕捉到安静空气中传来的郊区杂音，并对比回忆了此前在Haughtongreen体验到的绝对宁静与壮丽银河。文风细腻自然，展现了对自然声音与寂静时刻的敏锐观察。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在九月末的夜晚出门散步（Walking Ghyll），发现天气温和，满月与繁星穿透薄云散发着光芒。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;静止的空气使得郊区的各种噪音格外清晰，包括狗吠声、管道机械声以及急驶而过的车辆轰鸣声。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆起此前在Haughtongreen体验到的极致宁静，那是无风无云、只有漫天银河旋转的独特时刻。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-09-24.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: September 24&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Software success relies on cautious AI deployment and leveraging Forward Deployed Engineers to enhance core products with field insights.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
+
+Rather than focusing on distant AI risks, immediate software vulnerabilities stem from recklessly deploying uncontained AI agents into production, a pragmatic focus on software health that extends to code ergonomics where minimalist syntax highlighting is favored for better readability. The post also analyzes the industry buzz surrounding the ambiguous &amp;quot;Forward Deployed Engineer&amp;quot; (FDE) role, noting that despite a lack of standard definition, the trend constructively revives core Agile and Domain-Driven Design principles to bridge developer-user communication gaps. Ultimately, the true value of an FDE lies not in delivering one-off client customizations, but in systematically feeding real-world field insights back into the core product platform.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Immediate AI Security Risks:&lt;/strong&gt; Rather than worrying about futuristic existential threats, the immediate danger stems from recklessly integrating current AI agents into systems without established security containment.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Rethinking Syntax Highlighting:&lt;/strong&gt; Overly colorful syntax themes dilute visual focus, whereas a minimalist approach using muted colors for context and bright accents for key elements improves overall code readability.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining Forward Deployed Engineers:&lt;/strong&gt; Despite growing industry buzz around the Forward Deployed Engineer (FDE) title, companies lack a shared definition, applying the label to roles ranging from sales engineers to hands-on consultants.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Rebranding Classic Agile Principles:&lt;/strong&gt; Although the FDE trend repackages long-standing Agile and Domain-Driven Design principles regarding developer-user collaboration, this modern framing provides a fresh push to solve persistent communication gaps.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Core FDE Mission:&lt;/strong&gt; A true Forward Deployed Engineer&amp;#039;s primary goal is not just delivering one-off client customizations, but feeding field insights back into the core platform to benefit all future users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/healthy-peer-feedback.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Healthy Feedback&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Healthy feedback acts like software telemetry, providing continuous, objective insights that resolve team friction before systemic failure occurs.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Healthy feedback serves as a vital tool for team growth by balancing genuine personal care with direct, objective challenge, relying on frameworks like Situation-Behavior-Impact (SBI) rather than subjective judgments. To build an effective culture, this exchange must transcend organizational hierarchy, requiring leaders to model vulnerability and treat all team members as peers. Operating much like software telemetry, continuous and immediate feedback provides real-time operational signals on team dynamics, allowing teams to address minor friction before it manifests as systemic failure.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Core Feedback Principles:&lt;/strong&gt; Feedback is inherently positive, designed either to strengthen confidence through praise or improve effectiveness through constructive criticism.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Radical Candor Framework:&lt;/strong&gt; Effective feedback requires balancing personal care with direct challenge, avoiding antipatterns like ruinous empathy or obnoxious aggression.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Feedback as Peer Sport:&lt;/strong&gt; Feedback should transcend organizational hierarchy, empowering all team members as peers while requiring leaders to actively model vulnerability.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Real-Time Team Telemetry:&lt;/strong&gt; Continuous feedback acts like software telemetry, providing essential signals about team health before major disruptions reveal hidden issues.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;In-the-Flow Delivery:&lt;/strong&gt; Exchanging feedback immediately following collaborative work ensures context is fresh and accelerates personal learning and growth.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Separating People from Problems:&lt;/strong&gt; Constructive feedback relies on objective observations structured around situation, behavior, and impact rather than subjective personal judgments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Some thoughts on HTML&amp;#039;s proposed previewsrc attribute&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者评估了HTML新增previewsrc提案，认为渐进式图片是更好选择。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了微软提出的在 HTML &amp;lt;img&amp;gt; 标签中新增 previewsrc 属性的提案。作者以审慎和批判的视角，从用户需求、开发者体验、无障碍性及属性命名（建议复用 &amp;lt;video&amp;gt; 的 poster）等维度展开分析。作者最终总结指出，相比增加新的 HTML 属性，直接使用渐进式图片（progressive images）或许是更简单、实用的替代方案。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软提出了标准化 previewsrc 属性的建议，用于在图片加载前显示预览图，作者对此表示关注并提出了相关疑问。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者强调 HTML 标准应首先服务于最终用户，质疑用户是否真的需要图片预览以及微软是否对此进行了充分的用户研究。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为也需要关注开发者的痛点，建议微软通过调查或分析已有网站数据来了解开发者的真实需求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者讨论了在图片加载缓慢或失败时，替代文本（alt text）与预览图在用户体验和无障碍性方面的对比。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在属性命名上，作者建议将 previewsrc 改为 poster，以保持与 &amp;lt;video&amp;gt; 元素的 poster 属性一致。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结指出，相比在 HTML 中引入新属性，使用渐进式图片（progressive images）对开发者而言是更简单且高效的替代方案。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/23/headlines-and-inside-stories-understanding-and-trust-in-ai-for-mathematics-science-and-engineering/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Headlines and inside stories: understanding and trust in AI for mathematics, science, and engineering&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Trust in scientific AI requires transparent, auditable frameworks that bridge raw predictive power with true physical understanding.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
+
+The integration of AI into scientific and mathematical disciplines highlights a critical tension between raw predictive output (*techne*) and human conceptual understanding (*episteme*). While unexplainable black-box AI systems succeed in rapidly verifiable domains like protein folding, high-stakes or empirically slow-to-verify applications require transparent, auditable causal chains to build trust. Furthermore, as demonstrated by Lean-verified Navier-Stokes proofs, formal logical correctness does not automatically yield practical engineering value, as theoretical singularities often fail to mirror real-world physical dynamics like energy dissipation. Ultimately, robust scientific modeling relies on auditable, modular frameworks—such as numerical stability theories in Computational Fluid Dynamics—to ensure reliability when extrapolating to unobserved real-world conditions.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;AI Proofs and Understanding&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;OpenAI&amp;#039;s Lean-verified proof of Navier-Stokes blow-up highlights the tension between verifying truth and advancing human conceptual understanding. A proof&amp;#039;s value lies not just in its correctness, but in its ability to illuminate underlying structures and methods.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Episteme Versus Techne&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Science balances explanatory understanding (episteme) with predictive craft (techne). When predictions are easily checked empirically, such as short-term weather or protein folding, black-box AI models can succeed without providing underlying explanations.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Need for Auditable Predictions&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;When empirical verification is slow, dangerous, or expensive—such as long-term climate projections—trust requires an auditable causal chain. In these scenarios, predictive tools must be grounded in transparent, verifiable steps rather than unexplainable outputs.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Mathematical Proofs Versus Reality&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;While the forced Navier-Stokes blow-up proof demonstrates a mathematical singularity, physical fluids dissipate energy at small scales before infinities occur. Consequently, the theoretical proof offers little practical insight into real-world physical turbulence.&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Rigor in Fluid Dynamics&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Engineering and climate modeling rely on Computational Fluid Dynamics (CFD), which builds trust through numerical stability theories and separately testable submodels. This auditable structure ensures reliability even when predicting previously unobserved conditions.&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-09-24T05:10Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-09-24T05:10Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Radicle因严重明文传输漏洞遭到质疑，作者对其安全性失去信任。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者指出 Radicle 项目存在严重安全漏洞。研究人员发现其网络协议在握手后通过明文 TCP 传输包含私有仓库在内的所有数据。作者批评开发团队在网络安全上的极度疏忽与缺乏专业能力，表示除非后续经过多家第三方权威机构审计，否则难以重新信任该项目。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/?p=12206&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【採用情報】急募！アーティストアシスタント募集 [アルバイト]（福岡本社・東京スタジオ・大阪スタジオ）&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 游戏视觉特效设计师助理兼职招聘启事。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本篇为游戏行业视觉特效设计师助理的兼职招聘信息。文章采用清晰规范的招聘公告风格，详细介绍了零门槛的岗位需求、福冈/东京/大阪三地的薪资待遇与工作时间、主要辅助工作内容（使用Unreal Engine和Photoshop等工具）、应聘条件及所需材料，旨在吸引对游戏制作抱有热情的求职者。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;招聘特效设计师助理，无需经验与技能，欢迎对游戏行业感兴趣的学生及求职者申请。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细说明了兼职雇用形式、福冈/东京/大阪三地工作地点、弹性工作时间以及各地区的时薪标准与交通费补贴。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;明确了岗位职责为辅助视觉特效设计师，包括收集参考资料、拍摄检查视频及使用Unreal Engine、Photoshop等工具进行基础操作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;列出应聘基础条件与加分项，要求具备电脑及基础软件操作能力，优先考虑对游戏制作有热情者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明了申请所需的简历、问卷及可选提交的作品集格式与提交要求。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了应聘提交入口，并声明对应聘者的个人信息进行严格保密。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114954&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 252｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Sspai editors evaluate their latest consumer tech purchases, covering personal care, audio gear, cameras, and mobile gaming hardware.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This edition of sspai&amp;#039;s &amp;quot;New Stuff&amp;quot; highlights editor reviews across personal care, audio, digital imaging, and mobile gaming hardware. Practical consumer devices like the Mijia Hair Dryer Pro and AirPods 5 were commended for ergonomic refinements, including adaptive noise cancellation, improved battery life, and intuitive controls. In digital imaging, DJI’s 2nd-gen panoramic camera streamlines post-processing through seamless ecosystem integration, while the compact OM System PEN camera offers deep color customization despite minor UI flaws. Finally, the upcoming iQOO 16 caters to mobile gamers with a high-refresh 2K 165Hz display and advanced virtual point-light ray-tracing capabilities.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;米家水离子吹风机 Pro:&lt;/strong&gt; 编辑 Clyde 在戴森损坏后入手了米家电吹风机 Pro，称赞其风速快、按键与磁吸设计合理且温度调控细腻，但风速降噪和调温旋钮阻尼仍有改进空间。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AirPods 5 使用体验:&lt;/strong&gt; 编辑 Lincoln 分享了 AirPods 5 无线充电盒版的佩戴感受，认为其半入耳无感佩戴配合自适应降噪十分舒适，耳机柄轻扫调节音量与提升的续航也显著改善了日常体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;DJI Osmo 360 II:&lt;/strong&gt; 编辑 Microhoo 体验了第二代大疆全景相机，认为其最大优势在于无缝融入大疆生态与轻松的日常记录体验，高动态范围和简化后期大大降低了全景拍摄的门槛。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;奥之心 PEN 相机:&lt;/strong&gt; 编辑 西鸽 入手了小巧轻便的奥之心 PEN 套机，虽然机身按键与配套 App 交互存在瑕疵，但丰富的预设色彩配方与颜色波轮为相机提供了极高折腾空间与可玩性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;iQOO 16 手机:&lt;/strong&gt; 编辑 北鸮 试用了即将在 9 月末发布的 iQOO 16 手机，其配备的 2K 165Hz 三星珠峰屏与虚拟点光源光追技术为手游玩家带来了极佳的画质与流畅操作体验。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/home-made-beverages-5&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;家庭饮品 DIY 指南（五）：特调咖啡及其他饮品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文分享了五款特调咖啡饮品的标准萃取参数与详细制作配方。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇实用型特调咖啡与特饮配方指南。作者详细列出了深烘拼配豆萃取Espresso的标准参数和茉莉花茶基底的浸泡方法，并给出了椰子淡奶咖啡、桂花椰青咖啡、葡萄美式、青柠冰美式及青提美式沙冰等五款特色特调饮品的详细原料配比与制作步骤，旨在为饮品制作提供清晰、可操作的技术指导。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍文章主题为特调咖啡与特饮配方，并说明Espresso萃取比例的统一标准。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;建议特调咖啡选用深烘偏坚果焦糖风味的拼配豆，并给出Espresso的具体萃取参数与设备建议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了商业大批量浸泡茉莉花茶的原料比例、水温、时间及冷却过滤方法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了椰子淡奶咖啡的具体原料配比与五步制作流程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了桂花椰青咖啡的原料用量与详细制作步骤。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了结合巨峰葡萄汁与茉莉花茶的葡萄美式配方及制作流程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了使用小青柠汁和香水柠檬制作青柠冰美式的配方与步骤。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了青提美式沙冰的原料选择、用量调整及打制步骤。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113823&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Microsoft’s 1995 joint venture with DreamWorks produced hits like *Medal of Honor*, shaping its future Xbox gaming strategy.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;In 1995, Microsoft partnered with DreamWorks SKG to form DreamWorks Interactive, marking a strategic early foray into the video game industry years before the launch of the Xbox. The joint venture aimed to synergize Hollywood&amp;#039;s cinematic storytelling with Microsoft&amp;#039;s software engineering capabilities and technical infrastructure. During its operation, the studio developed distinctive titles such as *The Neverhood* and created the critically acclaimed, genre-defining *Medal of Honor* franchise. Although Microsoft eventually divested its stake to Electronic Arts in 2000, this strategic collaboration provided crucial operational insights, technical experience, and industry positioning that helped shape Microsoft’s long-term gaming vision.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; 7.  **Final Quality Check**: Valid JSON, clear text, perfectly maps to the source content.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;1995年，梦工厂与微软合资&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114395&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;古董电脑室十周年记：为什么我不再是收藏家（上）&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Reflecting on a decade of vintage computing, the author shifts from hardware collecting to critical media archaeology and activism.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Here is a comprehensive technical summary of the article:
+
+Reflecting on the ten-year evolution of the &amp;quot;Vintage Computer Lab,&amp;quot; the author outlines a fundamental paradigm shift from accumulating physical hardware to practicing media archaeology and contemporary art activism. Originally rooted in the &amp;quot;PDA Museum,&amp;quot; the initiative was deeply influenced by open-source public archiving and early geek subcultures. The piece critically contrasts the older computing generation&amp;#039;s fetishization of raw hardware specifications with the contemporary generation&amp;#039;s shift toward symbolic and experiential technology consumption. Ultimately, it frames vintage hardware not as mere nostalgic artifacts to be hoarded, but as critical historical media to be archived and analyzed within a broader socio-technological context.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;作者回顾了「古董电脑室」十年的发展历程，完成了从实体硬件堆砌的收藏家向媒介考古与当代艺术行动者的核心转变。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;早期的「PDA博物馆」受到开源公共档案与极客圈层文化的双重影响。作者通过对比老一代的硬件规格拜物与新世代的符号消费&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114913&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Alibaba released new audio AI models alongside flagship mobile and wearable hardware from Xiaomi and Amazfit.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
+
+Alibaba has released the Qwen-Audio-3.1 large audio model series, delivering a comprehensive capability stack across speech understanding, generation, and interaction at significantly reduced API operational costs. On the mobile hardware front, Xiaomi hosted its autumn launch event to debut flagship smartphones powered by the next-generation Snapdragon 8 series chipset, alongside an expanded ecosystem of tablets and smart appliances. Additionally, Amazfit introduced the T-Rex Dual Solar, the world&amp;#039;s first smartwatch featuring dual-sided solar charging and full-color map navigation, while Razer announced new audio peripherals. Collectively, these updates highlight key industry advancements in cost-optimized multimodal AI deployment alongside next-generation mobile and outdoor hardware innovation.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;小米正式发布 18 Pro/Pro Max 旗舰手机，首发第六代骁龙 8 系列芯片，并同场推出了平板、手环及多款智能家电新品。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;阿里发布 Qwen-Audio-3.1 系列语音大模型，涵盖理解、生成、交互与创作全能力栈，且全线模型使用成本大幅下调。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Amazfit太阳能手表&amp;quot;,&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Amazfit 推出全球首款正反双面太阳能充电智能手表 T-Rex Dual Solar，具备 10 ATM 防水与全彩地图导航，专为户外探险打造。&amp;quot;&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;雷蛇推出售价 799 元的灰鲭鲨 X&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 第二外国语日语学院 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;北京第二外国语学院日语学院2026-2027学年第一学期教师坐班安排备案表&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 未提供文章内容。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;未提供需要总结的文章内容。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - September 22, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1772,270 +2023,6 @@ sspai has partnered with accessory brand PopSockets to host a free crowd-testing
 &lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;北京第二外国语学院日语学院2027年接收推免生工作安排&lt;/a&gt;&lt;/h3&gt;
 &lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 北二外日语学院发布2027年接收推免生预报名通知。&lt;/p&gt;
 &lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;北京第二外国语学院日语学院发布2027年推免生接收通知，拟招收日语语言文学、日语笔译及日语口译专业推免生。意向考生需关注关键时间节点，按时完成预报名、资格审查材料提交、缴费及报到流程并参加复试，相关校方与研招网报名系统网址已同步公布。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - September 13, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-09-13</id>
-    <updated>2026-09-13T22:12:16.844Z</updated>
-    <published>2026-09-13T22:12:16.844Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>4 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 13, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;280.54794520547944&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    70.1%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;256&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;109&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;36&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████████░░░░░░░░░ 70.1%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The expectations of privacy in driverless cars&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Autonomous vehicles actively monitor cabin interiors using cameras and AI, raising critical privacy trade-offs for passengers.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;While passengers often mistakenly perceive autonomous vehicles (AVs) as fully private spaces, providers like Waymo actively monitor cabin interiors using high-resolution cameras, AI analytics, and human remote operators to enforce safety policies. Although audio capture is technically constrained to active support calls, continuous visual telemetry enables operators to detect Terms of Service violations and dynamically alter vehicle routing, such as delivering non-compliant riders directly to law enforcement. Ultimately, these operational monitoring mechanisms highlight critical privacy trade-offs inherent to connected vehicle architectures, a concern further emphasized by historical industry incidents involving the unauthorized sharing of customer camera feeds.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;San Mateo Waymo Incident:&lt;/strong&gt; A Waymo remote operator tricked unruly teenagers into stopping the vehicle after they drank alcohol and shot toy guns inside, delivering them directly to local police.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Expectations of In-Car Privacy:&lt;/strong&gt; Passengers often mistakenly perceive driverless vehicles as fully private spaces, unlike traditional taxis where human drivers actively observe and listen to riders.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Precedent of Tesla Data Abuse:&lt;/strong&gt; The article highlights privacy risks by referencing past disclosures where Tesla employees shared intimate video footage recorded by customer in-car cameras.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Waymo&amp;#039;s In-Cabin Sensor Policies:&lt;/strong&gt; Waymo&amp;#039;s terms permit live and recorded camera monitoring for safety and rule enforcement, while audio collection is technical limited to active support calls.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Visual AI Surveillance Capabilities:&lt;/strong&gt; Even with audio safeguards in place, high-resolution interior cameras paired with AI analytics allow autonomous vehicles to visually monitor passenger behavior continuously.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Undisclosed Violation Detection Methods:&lt;/strong&gt; A separate incident involving a concealed firearm shows that Waymo actively flags Terms of Service violations, though the specific detection mechanisms remain undisclosed.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Things That Caught My Attention &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thingsthatcaughtmyattention.com/e/s21e29-what-does-recording-even-mean-do-it-stupid&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;s21e29: What does recording even mean?; Do it stupid first&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple’s ambient audio transcription sparks privacy debates, driving users to adopt tactics to evade automated recognition.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Apple has sparked significant privacy debates by launching a feature that continuously transcribes 15-second windows of ambient audio. This capability exposes a fundamental technical and legal tension between transient in-memory data processing and traditional definitions of persistent recording. Because converting fluid speech into permanent text eliminates conversational context and creates accountability risks, it generates substantial user anxiety. In response, individuals are increasingly adopting adaptive evasion tactics—such as linguistic euphemisms and visual camouflage—to circumvent automated recognition algorithms.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Podcast Updates and Guests:&lt;/strong&gt; The author recaps a recent podcast episode on workplace power skills with Dana Chisnell and announces upcoming interviews with prominent tech leaders.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apple Watch Live Rewind:&lt;/strong&gt; Apple introduced a feature designed to transcribe the last 15 seconds of ambient audio, triggering widespread privacy debates.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technical versus Social Recording:&lt;/strong&gt; The public debate highlights the tension between the necessity of transient data processing in computing memory and legal or social definitions of recording.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ephemerality of Spoken Word:&lt;/strong&gt; Transforming spoken thought into permanent written text creates anxiety by stripping away conversational context and accountability boundaries.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Evasion of Machine Surveillance:&lt;/strong&gt; People are adopting adaptive behaviors, such as language euphemisms and visual camouflage, to evade automated recognition algorithms.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/13/happy-those-able-to-know-the-causes-of-things/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Happy, those able to know the causes of things&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 LLMs are cultural tools for human insight, requiring open-weight models to ensure collaborative scientific progress over corporate profit.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Recent AI breakthroughs in complex mathematical proofs validate Large Language Models (LLMs) not as autonomous intelligent agents, but as cultural technologies built upon cumulative human progress. Grounded in Herbert Simon’s concept of bounded rationality and Bill Thurston’s philosophy of mathematics, the essay emphasizes that the true value of problem-solving lies in fostering deep human insight rather than generating raw outputs or verifying statements. Consequently, LLMs act as societal infrastructure—analogous to libraries or markets—that enable communities to collectively navigate and organize overwhelming cognitive complexity. To preserve this collaborative paradigm for scientific advancement, the author advocates for open-weight, community-driven AI models over profit-motivated corporate products.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Recent Mathematical Breakthroughs:&lt;/strong&gt; The author provides context around recent concurrent developments in Navier-Stokes and Euler equation proofs by both human researchers and AI models. This setup validates the perspective that AI outputs rely on and reflect cumulative human mathematical progress.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Optimistic Mathematical Outlook:&lt;/strong&gt; Rather than fearing AI-generated solutions to grand mathematical challenges, mathematicians can view novel LLM insights as a source of communal pride. The primary objective of mathematics remains fostering deep human understanding rather than simply generating outputs.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Value of Mathematical Digestion:&lt;/strong&gt; Drawing on Bill Thurston’s work, the author emphasizes that mathematical progress relies on the collective absorption and re-interpretation of ideas. The true value of mathematics lies in the insight gained through problem-solving rather than just verifying true/false statements.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Technology Versus Commercial Products:&lt;/strong&gt; The essay stresses the importance of separating underlying LLM technology from the commercial products pushed by major AI corporations. Open-weight and grassroots models represent an alternative future tailored to scientific and community-driven needs.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;LLMs as Cultural Artifacts:&lt;/strong&gt; LLMs should not be conceptualized as autonomous intelligent agents, but rather as cultural and social technologies. They serve as systems that allow humans to collectively organize, navigate, and leverage vast pools of accumulated knowledge.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Managing Bounded Rationality:&lt;/strong&gt; Grounded in Herbert Simon&amp;#039;s concept of bounded rationality, human societies construct social structures like markets and libraries to process information beyond individual capabilities. LLMs extend this tradition as tools designed to help groups navigate overwhelming cognitive complexity.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113880&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;搭建自己的 HomeLab（一）：聊聊我的硬件清单&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 This article outlines a cost-effective HomeLab architecture utilizing Docker containerization, heterogeneous compute hardware, and high-availability Synology storage.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This article details the architectural principles and hardware selections for a self-hosted HomeLab designed for data ownership, privacy, and technology experimentation. Guided by the KISS (Keep It Simple, Stupid) principle, the infrastructure prioritizes modular Docker containerization over complex Kubernetes orchestration and fragile All-in-One system architectures. The compute layer features a cost-effective, heterogeneous setup using an Intel M920x Tiny (Ubuntu/Docker) for central workloads, Mac devices, and a dual-Xeon GPU workstation for local AI model training. Financial investment is concentrated on a high-availability storage tier using Synology NAS units (DS218+ and DS923+) upgraded with 10GbE networking, expanded RAM, and SSD pools, while utilizing secondhand components for general server and networking nodes.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;HomeLab Core Concepts&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;A HomeLab acts as a personal home cloud that integrates computing, storage, networking, and peripherals to host private services. It requires minimal initial setup and can begin with basic hardware like a mini PC or NAS.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Motivations and Design Principles&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The project is driven by full data ownership, personal privacy, and rapid technology experimentation. It follows the KISS principle by leveraging Docker over Kubernetes and avoiding fragile All-in-One system architectures.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Hardware Criteria and Budgeting&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Hardware selections prioritize stability, cost-efficiency, scalability, and compatibility above all else. Main financial investments are allocated to reliable storage, while server nodes and network components utilize secondhand hardware.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Host Servers and Workstations&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;The compute cluster blends Mac devices, an Intel M920x Tiny running Ubuntu and Docker, and a dual-Xeon custom workstation equipped with GPUs for local AI model training.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;NAS and Storage Solutions&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Data management relies on a Synology DS218+ for daily drive synchronization and a DS923+ for primary backups. The storage setup is optimized with 10G network cards, RAM extensions, and SSD pools.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - September 12, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-09-12</id>
-    <updated>2026-09-12T22:03:11.146Z</updated>
-    <published>2026-09-12T22:03:11.146Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>5 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 12, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;279.45205479452056&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    69.9%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;255&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;110&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;36&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████████░░░░░░░░░ 69.9%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;5&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22756&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reading Lake of Souls: The Collected Short Fiction by Ann Leckie.&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文记录阅读Ann Leckie作品《Lake of Souls》的相关信息。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇简短的阅读记录，标注于2026年9月12日上午8:11（地理坐标51° N, 0° W）。内容主要提及作者正在阅读Ann Leckie的短篇小说集《Lake of Souls: The Collected Short Fiction》，并提供了Bookshop与Open Library的图书链接，同时邀请读者分享相关回应的URL链接。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(3 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/12/after-math/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;After Math&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI cannot fully solve mathematics because automated proofs lack the human intelligibility and conceptual insight required for scientific progress.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;OpenAI&amp;#039;s reported AI solution to the Navier–Stokes Millennium Prize Problem has reignited debates over machine intelligence, but framing mathematics as a winnable game like chess mischaracterizes the discipline&amp;#039;s core purpose. The assertion that AI has &amp;quot;solved&amp;quot; the problem conflates mere formal logical validity (machine certitude) with human intelligibility—the shareable insight necessary to advance collective knowledge. Without producing understandable and fruitful concepts, an automated proof fails to deliver a complete mathematical solution that enables further scientific progress. Ultimately, mathematics cannot be solved by algorithms alone, as the broader enterprise relies on human creators to invent new concepts, frame novel questions, and sustain collaborative scholarly communities.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;OpenAI&amp;#039;s Navier-Stokes Breakthrough:&lt;/strong&gt; OpenAI announced an AI-generated solution to the Navier–Stokes Millennium Prize Problem, triggering widespread debate over credit and AI&amp;#039;s impact on human mathematics. The achievement sparked comparisons to chess&amp;#039;s &amp;#039;Deep Blue moment,&amp;#039; raising existential questions about the discipline&amp;#039;s future.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mathematics Beyond Games:&lt;/strong&gt; Comparing mathematics to games like chess or Go mischaracterizes the nature and purpose of mathematical practice. Rather than retreating to &amp;#039;keep playing&amp;#039; despite machine dominance, mathematicians must examine what they are fundamentally seeking when doing math.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Flawed AI Narrative:&lt;/strong&gt; The claim that AI has &amp;#039;solved&amp;#039; math relies on two incorrect assumptions: that AI actually solved the problem and that math is solely about problem-solving. Real mathematical solutions require human intelligibility, and math encompasses far more than answering established questions.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Logical Versus Intelligible Proofs:&lt;/strong&gt; Mathematics relies on two distinct concepts of proof: logical validity, which provides formal certitude, and intelligibility, which conveys human understanding. AI can generate machine-verified logical proofs while leaving out the shareable insights required to advance human knowledge.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mere Answers Versus Solutions:&lt;/strong&gt; OpenAI provided a certified answer, but it remains unclear if it delivered a fruitful, intelligible solution. A genuine mathematical solution must grant certitude while enabling mathematicians to grasp ideas and make further progress.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Scope of Mathematics:&lt;/strong&gt; Even if future AI systems produce formally certified and fully intelligible proofs, mathematics cannot be &amp;#039;solved&amp;#039; like a game. The broader mathematical enterprise involves developing new concepts, asking novel questions, and sustaining creative scholarly communities.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/12/crowdsourcing-a-list-of-general-resources-on-the-purpose-value-and-nature-of-mathematics/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Crowdsourcing a list of general resources on the purpose, value, and nature of mathematics&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者发起众筹活动，收集并分享探讨数学本质与价值的书籍及资源。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在博客中发起众筹资源收集活动，旨在探讨数学的本质、价值与目的，纠正对数学研究的简单化偏见。文中整理了经典著作、非正式科普链接以及作者自身的文章与访谈，并邀请读者在评论区积极补充。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者发起众筹活动，旨在收集探讨数学本质、价值与目的的资源，以回应大众对数学研究的过度简化与误解。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;推荐了一系列由知名学者撰写的探讨数学哲学、研究实践与教育的经典图书和学术文章。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;列出了形式更为轻松非正式的数学科普资源，包括指南、联合创作的漫画及影响力海报。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;整理了作者本人历年来撰写的关于数学思维、好问题的价值以及研究哲学的文章与访谈。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;号召读者在评论区补充更多资源链接，并提供了社交媒体分享选项。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/12/the-status-of-the-hodge-conjecture/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The status of the Hodge conjecture&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文系统梳理了Hodge猜想的各种研究途径、最新进展及其局限性。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文系统梳理了Hodge猜想的研究现状、主要途径与最新进展。作者介绍了Hodge类的概念及Kähler流形上的反例，分析了仿射Zariski开集法、余维数归纳法（coniveau）以及利用多重线性代数构造特定Hodge类（如Markman关于Weil类的新突破）等途径，最后探讨了变分Hodge猜想及变形理论在一般情况下的局限性。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍Hodge类与Hodge条件的定义，说明Hodge猜想断言光滑复射影簇上的Hodge类皆为代数类，并指出该猜想推广至紧Kähler流形时存在反例。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;回顾了Cornalba与Griffiths提出的早期途径，即在仿射Zariski开集上将上同调类表示为复向量束的Chern类并尝试将其代数化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨了按余维数归纳的途径（coniveau概念），指出根据Deligne理论可将猜想化归为局部消灭问题，但Grothendieck表明满足该性质的类极其罕见。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;指出代数几何中虽缺乏对Hodge类的通用理解，但可通过多重线性代数技巧构造特定Hodge类（如Weil类），并提到了Markman在此方向的最新突破。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;从变分视角分析簇族中Hodge类的性质，介绍了Cattani-Deligne-Kaplan关于Hodge轨迹为闭代数子集的定理，并指出若轨迹未定义在数域上则可能构成反例。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论了变分Hodge猜想及变形理论（如半正则性条件），并结合Deligne-Beilinson上同调说明半正则性方法难以给出通用解决方案。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114461&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 This guide helps developers bypass AI recruitment filters, avoid hiring traps, and leverage AI tools for job hunting.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This guide shares practical experiences and actionable advice for software developers navigating the modern job market after dealing with automated recruitment systems and AI filtering. It details tactics for identifying hiring red flags, avoiding bloated or low-signal interview loops, and aligning candidate profiles with algorithmic job requirements. Additionally, the article outlines how job seekers can turn the tables by effectively utilizing AI tools for targeted technical interview preparation. Ultimately, it provides a realistic roadmap to help developers streamline their job search while efficiently dodging common recruitment traps.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; 岗位与算法&amp;quot; (Job Demands &amp;amp; Algorithms)&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; 5. &amp;quot;识别招聘陷阱&amp;quot; (Identifying Job Traps)&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; 6. &amp;quot;AI备战面试&amp;quot; (AI Interview Prep)&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; 7. &amp;quot;冗长凑数面试&amp;quot; (Flawed Interview Loops)&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; Let&amp;#039;s review title lengths:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
 &lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
 &lt;/div&gt;</content>
