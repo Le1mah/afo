@@ -4,8 +4,283 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-10-04T22:53:12.539Z</updated>
+  <updated>2026-10-07T00:03:52.536Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - October 7, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-10-07</id>
+    <updated>2026-10-07T00:03:52.536Z</updated>
+    <published>2026-10-07T00:03:52.536Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>16 articles from 11 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - October 7, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;306.8493150684931&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    76.7%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;280&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;85&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;40&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████████████░░░░░░░ 76.7%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;16&lt;/strong&gt; articles from &lt;strong&gt;11&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22791&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Tuesday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文为一则包含时间、位置及互动邀请的社交网络元信息。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇博客或社交媒体帖子的互动元数据与页脚信息。内容记录了发布时间（2026年10月6日）、地理坐标（51° N, 0° W）、社交平台链接（Mastodon、Bluesky）、用户Evil Jim O’Donnell的点赞记录，以及邀请读者提交回应链接（Ping）的互动提示。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22790&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Lake Of Souls by Ann Leckie&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 评 Ann Leckie 短篇集《Lake Of Souls》，推荐其人文主义科幻作品。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文推介并评价了 Ann Leckie 的科幻短篇集《Lake Of Souls》。文章首先论述了短篇小说在探索创意和拓展长篇世界观上的独特优势，随后介绍了书中涵盖的独立故事、Imperial Radch 系列及 The Raven Tower 世界三大类作品。评论者特别赞赏了 The Raven Tower 世界中宛如暗黑童话的故事，并高度评价了 Ann Leckie 深刻的人文主义写作风格，推荐读者阅读其所有作品。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为短篇小说是科幻概念探索和已有世界观拓展的理想载体。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍 Ann Leckie 的短篇集《Lake Of Souls》包含独立故事、Imperial Radch 系列以及 The Raven Tower 世界故事三大类别。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;评论者认为书中各项作品皆优秀，其中具有寓言色彩的 The Raven Tower 世界故事最为精彩。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表达了对 Ann Leckie 所有作品的高度认可，并赞赏其深刻的人文主义写作风格。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Why don’t more developers “use the platform”? | Read the Tea Leaves&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Developers often build redundant JavaScript abstractions, making refactoring back to native browser APIs vital for reducing codebase complexity.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Modern web developers frequently bypass native browser APIs due to historical habits formed during early browser fragmentation, combined with the superior developer ergonomics and documentation of framework ecosystems like React and npm. Additionally, engineers are often driven to re-implement platform capabilities in JavaScript by the psychological satisfaction of code ownership, career-advancing learning opportunities, and a reliance on imperative logic over declarative CSS. While building custom abstractions fosters individual technical growth, it often results in bloated, overly complex codebases that ignore built-in platform capabilities. Consequently, experienced software engineers deliver significant architectural value by identifying these unnecessary abstractions and refactoring redundant custom logic back to native platform features.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Platform Debate:&lt;/strong&gt; While web advocates implore developers to use native browser APIs, many developers remain skeptical. Understanding why developers choose custom code over built-in platform features is key to bridging this gap.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Historical Browser Gaps:&lt;/strong&gt; Historically, developers had to create custom solutions because browsers lacked standard features and evolved at different speeds. Libraries like jQuery were necessary to ensure consistency across fragmented browser environments.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ecosystem and Documentation:&lt;/strong&gt; Framework-centric ecosystems like React and npm encourage developers to reach for familiar components rather than raw platform APIs. Superior documentation and developer ergonomics on npm further incentivize using third-party libraries.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Joy of Building:&lt;/strong&gt; Building components from scratch offers developers a rewarding learning experience and a sense of ownership, known as the IKEA effect. Reinventing existing browser features like modal dialogs can feel more engaging than simply using built-in HTML tags.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Growth Through Customization:&lt;/strong&gt; Creating custom libraries and polyfills often serves as a primary pathway for developers to gain deep technical expertise. Filling platform gaps can motivate developers to eventually contribute directly to official browser standards.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;CSS Ignorance and Workarounds:&lt;/strong&gt; Developers often re-implement native layout and styling features in JavaScript due to a lack of deep CSS knowledge or past browser limitations. Imperative JavaScript logic is frequently favored over learning complex or historical CSS paradigms.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Universal Platform Skepticism:&lt;/strong&gt; Avoiding native platform capabilities is common across software engineering and often results in overly complex code. Experienced engineers frequently add value by replacing custom logic with out-of-the-box platform features.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thishueshallpass.clearleft.com/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;This hue shall pass | Colour contrast checker by Clearleft&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 This hue shall pass 是一款网页无障碍色彩对比度优化工具。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了网页无障碍调色板工具 This hue shall pass。作者针对传统对比度检测工具只能发现问题而无法直接解决的痛点，开发了这款能在浏览器中基于 Oklch 亮度值实时调整色彩并修复对比度的实用工具，旨在帮助设计师在保留品牌色彩特性的同时，高效优化数字产品的色彩无障碍体验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;This hue shall pass 是一款无障碍调色板检查与调整工具，能展示色彩对比度矩阵并通过 Oklch 亮度调节或自动魔棒修复不合规的颜色组合。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该工具解决了传统对比度检查工具无法即时修复色彩的问题，让设计师能够在浏览器中实时预览并优化调色板的无障碍表现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前工具处于 Beta 测试阶段，受 Contrast Grid 和 Contrast Finder 启发，基于原生 HTML/CSS 与 colordx 构建，并积极征集反馈。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22787&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reading The Mountain In The Sea by Ray Nayler.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录阅读《The Mountain In The Sea》并征集读后感。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇简短的阅读动态记录，作者分享了自己在2026年10月6日阅读Ray Nayler作品《The Mountain In The Sea》的时间与地理坐标信息。文中附带了Bookshop与Open Library的链接，并向读者征集相关读后感的反馈URL。整体呈现极简的随笔风格，体现了个人阅读记录与网络社群互动的结合。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/10/how-name-things/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A Practical Guide To Naming Things&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 This guide provides methodologies and tools for establishing standardized, scalable naming conventions across front-end codebases, design systems, and products.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This guide outlines resources and methodologies for establishing clear, standardized naming conventions across front-end codebases, design systems, and product features. It highlights tools for systematically organizing HTML/CSS/JS classes, color palettes, and UI layers, emphasizing structured token taxonomies (primitives, semantics, component roles) to support scalable, multi-brand architectures. Additionally, it advises leveraging real-world component galleries and aligning feature names with user outcomes rather than implementation details to improve discoverability and cross-team consistency. Finally, the article references dedicated naming repositories like Onym to assist teams with high-level product and service branding.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;General Code Naming:&lt;/strong&gt; Resources like Classnames offer thematically grouped word lists to inspire clearer names for HTML classes, CSS properties, and JavaScript functions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Color Naming Systems:&lt;/strong&gt; Comprehensive repositories provide thousands of unique color names to help developers move beyond raw hex codes and vague color identifiers.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Layer and Group Naming:&lt;/strong&gt; Effective layer and group names follow a logical, visual-agnostic structure that remains concise and universally understood across design teams.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Design Token Taxonomies:&lt;/strong&gt; Scalable multi-brand systems rely on structured token taxonomy maps to categorize semantics, primitives, and component roles clearly.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;UI Component Standards:&lt;/strong&gt; Tools like Component Gallery compile naming conventions from real-world design systems to help teams establish consistent interface vocabulary.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;User-Centric Feature Naming:&lt;/strong&gt; Feature names should align with user language and focus on practical outcomes to improve discoverability and overall adoption.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Product and Service Naming:&lt;/strong&gt; Dedicated repositories like Onym organize tools, etymologies, and methodologies to assist in naming new products, services, and brand initiatives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DatoCMS Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.datocms.com/blog/handling-less-common-scripts&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;When localization means more than just EN, DE, IT, ES, FR et al.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 DatoCMS added lazy-loaded Google Noto fonts for editor script rendering, requiring developers to audit their own frontends.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;True localization extends beyond simple string translations to encompass low-level script rendering, addressing systemic display failures such as missing character glyphs (&amp;quot;tofu&amp;quot;) and unattached diacritics (&amp;quot;dotted circles&amp;quot;). To systematically support 43 modern scripts without applying ad-hoc language patches, DatoCMS integrated Google Noto fallback fonts directly into its editor UI. To avoid performance degradation from massive font payloads, these fallback fonts are dynamically lazy-loaded only when matching scripts are detected in the editor. Consequently, because the CMS update only resolves issues within the content management interface, developers must independently audit their own application frontends to ensure complete multi-script font rendering and layout support.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;S&amp;#039;gaw Karen Rendering Bug:&lt;/strong&gt; A support ticket regarding misplaced dotted circles in S&amp;#039;gaw Karen text on Firefox revealed systemic browser rendering limitations for lesser-known scripts.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Localization Stack:&lt;/strong&gt; Localization extends beyond translation to include model structure, region-specific locales, workflow permissions, fallback APIs, text direction, and underlying script rendering.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Languages Versus Scripts:&lt;/strong&gt; Languages represent spoken communication, while scripts are the written system. Resolving rendering issues at the script level fixes text display across multiple languages simultaneously.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Understanding Text Rendering Failures:&lt;/strong&gt; Unrendered text fails via &amp;#039;tofu&amp;#039; boxes when a character glyph is completely missing, or &amp;#039;dotted circles&amp;#039; when text-shaping engines fail to attach diacritics to base letters.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Systemic Font Fallback Fix:&lt;/strong&gt; DatoCMS configured Google Noto fallback fonts to systematically support 43 modern scripts rather than applying individual patches for specific languages.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Lazy-Loading Fallback Fonts:&lt;/strong&gt; To avoid degrading CMS performance with massive font payloads, fallback fonts are dynamically lazy-loaded only when matching scripts are detected in the editor.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Frontend Localization Considerations:&lt;/strong&gt; Because the CMS update only impacts the content management UI, developers must audit their own application frontends to ensure proper multi-script font rendering and layout support.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 David Heinemeier Hansson &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/over-my-dead-pencil-fb0f3647&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Over my dead pencil&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI coding agents render manual syntax writing obsolete, shifting developers from code creators to orchestrators of autonomous systems.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Rapid advancements in AI coding agents have rendered manual code writing economically obsolete, forcing a profound shift away from hand-written syntax. Rather than functioning as simple developer tools, these agents operate as digital coworkers that execute rapidly while remaining dependent on human oversight and high-level problem solving. Although losing the status of exclusive code gatekeepers causes industry anxiety, plummeting development costs are simultaneously triggering a massive surge in software demand. Consequently, long-term career viability hinges on abandoning manual syntax generation in favor of guiding and orchestrating autonomous systems.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;End of Manual Coding:&lt;/strong&gt; Manual code writing is no longer economically viable due to the rapid advancement of AI coding agents. While many developers already rely on these agents, the explicit shift away from hand-written syntax remains a psychological shock to the industry.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI as Digital Coworkers:&lt;/strong&gt; AI should be viewed as a fast, capable digital coworker rather than just another developer tool. While these agents excel at execution, they still require human oversight, guidance, and occasional course correction.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Perceived Threat of Disintermediation:&lt;/strong&gt; The shift away from manual programming threatens the historical status of developers as exclusive gatekeepers of code. This perceived loss of indispensability is driving anxiety among engineers accustomed to traditional workflows.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Looming Software Bloom:&lt;/strong&gt; Plummeting development costs will trigger a massive expansion in software creation and automation projects. Developers who lean into AI capabilities will find vastly increased demand for high-level problem solving.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Embracing Agentic Workflows:&lt;/strong&gt; Refusing to collaborate with AI coding agents poses the primary long-term threat to a software engineering career. Success requires moving past manual coding syntax to embrace building alongside autonomous systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/527&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 527: Ready to Remiiix&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 聚焦 Remix 3 全栈框架、AI 智能体安全及最新前端技术动态。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期 Bytes 通讯（#527）重点介绍了全栈框架 Remix 3 及其内置的 HTTP、Auth 和 ORM 等特性，关注了 Google Cloud 举办的 AI 智能体安全部署系列活动，并汇总了 SvelteKit 3.0、React Compiler 和 Expo 智能体化等前沿动态。文章以幽默简练的科技简报风格，展示了 JavaScript 全栈化与 AI 自动化融合的趋势。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍本期 Bytes 通讯的核心内容，涵盖 Remix 3、AI 智能体安全以及代码报错分析等话题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;回顾 Remix 3 的发布以及团队变动背景，指出探讨重点已转向更广泛的开发生态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讨论全栈 JavaScript 框架的发展现状，指出 Remix 3 致力于成为减少依赖的真正全栈框架。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了 Remix 3 内置的 HTTP 服务器、身份认证、ORM 数据库连接、资源编译及 UI 组件库等特性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结了关于现代前端框架必要性的争论，并肯定了相关生态的资金与技术投入。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了 Google Cloud 推出的 Advent of Agents 活动，帮助开发者解决 AI 智能体在生产环境中的安全部署问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示了一个涉及数据缓存与直接修改引用的 JavaScript 错误识别挑战（Spot the Bug）。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;汇总了前端与 AI 领域的最新资讯，包括 SvelteKit 3.0 发布、React Compiler、Rust 编译优化及 Expo 的 AI 化发展。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解答了错误识别挑战的方案，指出需通过浅拷贝/深拷贝返回新对象以防止污染原始缓存数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/css-text-stroke/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;CSS Text Stroke: How to Outline Text in CSS&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文介绍了在 CSS 中使用 -webkit-text-stroke 实现文本描边的方法。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇关于 CSS 文本描边的技术教程。作者以简洁实用的风格，详细介绍了使用 -webkit-text-stroke 实现文字描边、空心效果及悬停动画的具体方法，并针对粗描边遮挡文字的问题提出了 paint-order 解决方案。同时对比了 text-shadow 方案，阐述了兼容性与无障碍优化建议。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍在 CSS 中使用 -webkit-text-stroke 属性为文本添加描边的方法及其跨浏览器兼容性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲解描边属性的简写形式以及拆分设置描边宽度和颜色的具体用法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明如何利用透明填充色实现空心字和文字轮廓效果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍利用 paint-order: stroke fill 解决粗描边向内侵蚀文字笔画的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲解结合 transition 实现在鼠标悬停时动态填充文字颜色的交互效果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对比 -webkit-text-stroke 与传统 text-shadow 实现描边的优缺点及应用场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解答关于浏览器兼容性、渐变描边限制及无障碍性（Accessibility）等常见问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Una Watch - SDK and Writing Your First App&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Linux 下 Una Watch 开发环境搭建与首个 Glance 应用开发教程。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇针对 Una Watch 的 Linux 开发环境配置与应用开发实操指南。针对官方文档分散的问题，作者整理了从安装 STM32CubeCLT 及 Una SDK、配置环境变量，到修改 C++ 代码编译首个“Hello, World!” Glance 应用并部署至手表的完整流程，帮助开发者高效上手。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (12 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者批评硬件厂商文档质量不佳，并针对 Linux 系统整理了一份快速搭建 Una Watch 开发环境的实操教程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了通过包管理器安装基础工具以及获取必要的 STM32CubeCLT 开发工具的前置步骤。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细说明了 STM32CubeCLT 的安装流程以及将其添加到系统 PATH 环境变量的方法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲解了克隆 Una SDK 仓库、初始化 ThirdParty 子模块以及安装 Python 依赖项的操作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了在终端校验各项依赖工具（如编译器、CMake 和 Python 库）是否安装成功的检查步骤。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;演示了通过复制代码并使用 CMake 编译示例 Alarm 应用来验证环境搭建成果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明了如何将 SDK 和编译器路径永久写入 ~/.bashrc 以便日后开发使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了通过复制 GlanceFloors 官方示例并修改 CMakeLists.txt 配置来创建 GlanceHello 新项目。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示了精简应用程序所需的 C++ 代码修改，删减无用传感逻辑并实现显示“Hello, World!”文本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明了使用 CMake 在命令行中编译该 GlanceHello 应用的指令流程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细描述了通过 USB 将编译生成的 .uapp 文件传输到 Una Watch 并重启手表进行测试的步骤。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结完成开发的祝贺，并提到了官方 SDK 最新添加的 LVGL 图形库支持。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Day We Met &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://thedaywemetcomic.tumblr.com/post/829686020714938368&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chapter 5, Page 6&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文仅包含第5章第6页的文本标识。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文仅包含“Chapter 5, Page 6”这一章节与页码标识信息，缺少具体的正文讨论或详细背景内容。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/10/06/hexagon/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Hexagon&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Hexagon is a non-profit repository designed to store, cite, and preserve LLM-assisted mathematics and theoretical computer science research.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Hexagon is a newly launched non-profit repository engineered to reliably store, cite, and preserve LLM-assisted research across mathematics and theoretical computer science. Built using OpenAI&amp;#039;s Codex and hosted on commercial cloud infrastructure, the platform addresses a key gap in academic publishing by hosting rapid micro-results and early-stage findings that traditional outlets like arXiv currently decline. Operating in beta, Hexagon accommodates everything from large lab collaborations to fully machine-generated papers. It equips researchers with developer-friendly capabilities, including ORCID-validated submissions, managed rate limits, programmatic API access, and direct integrations with mathematical formalization projects.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Hexagon Repository Announcement:&lt;/strong&gt; Hexagon is a newly founded non-profit repository designed to reliably store and cite mathematical and theoretical computer science research generated with LLM assistance.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Addressing LLM-Generated Results:&lt;/strong&gt; Traditional publishing is ill-suited for rapid side results discovered via LLMs, making a dedicated repository necessary to prevent important findings from remaining trapped on informal blogs or social media.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Scope and Paper Lifecycle:&lt;/strong&gt; Hexagon acts as an early-stage home for emerging mathematical ideas, accepting micro-results, large lab collaborations, and fully LLM-generated papers prior to formal arXiv submission.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Creation and Infrastructure:&lt;/strong&gt; The platform was built using OpenAI&amp;#039;s Codex and hosted on commercial cloud infrastructure after discussions revealed that arXiv would not accommodate this new category of LLM research.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Platform Governance and Features:&lt;/strong&gt; Currently in beta, Hexagon provides ORCID-validated account submissions, managed rate limits, programmatic API access, and integrations with existing mathematical formalization projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/10/06/changes-to-the-erdos-problems-web-site/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Changes to the Erdős problems web site&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The Erdős problems website removed competitive solve tracking to prioritize clear, high-quality proof writeups over raw AI dumps.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To combat a flood of unexplained, raw AI proofs that fostered gamification and degraded community discussions, the Erdős problems website is shifting its focus away from priority claims and competitive status tracking. The platform has frozen problem comments, removed &amp;quot;solved&amp;quot; statuses, and phased out credit-attribution language to decouple raw proof dumps from human-centric discourse. Moving forward, the site aims to cultivate human context, learning, and collaboration by prioritizing high-quality, well-explained proof writeups. Under this refreshed mission, contributions will be evaluated strictly on the clarity of their insights, regardless of whether they originate from human mathematicians or AI tools.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Impact of AI on Mathematics:&lt;/strong&gt; Rapid AI progress has helped solve complex Erdős problems, but it has also discouraged human mathematicians by flooding the site with unexplained solutions.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Prioritizing Human Flourishing:&lt;/strong&gt; Based on community feedback, the website is reorienting its mission toward helping human mathematicians learn, collaborate, and thrive.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Decline of Human Engagement:&lt;/strong&gt; Vibrant community discussions degraded over time as the platform increasingly became a venue for users to post raw AI proofs purely to claim priority.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Rejecting Raw Proof Repositories:&lt;/strong&gt; The author argues that raw AI proof repositories should remain separate from platforms intended to foster human context and mathematical curiosity.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Freezing Comments and Statuses:&lt;/strong&gt; To curb gamification, problem comments are frozen, problem statuses like &amp;#039;solved&amp;#039; are removed, and credit-attribution language is being phased out.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Focusing on Mathematical Exposition:&lt;/strong&gt; The site will now emphasize high-quality proof writeups and explanations, accepting clear contributions regardless of whether they originate from academics or AI tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202610/90080&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;公式コミカライズ『戦場のフーガ 鋼鉄のメロディ』第94.5話 公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《战场的赋格》漫画更新，CyberConnect2推出游戏行业指南新书。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文主要介绍了漫画《戦場のフーガ 鋼鉄のメロディ》第94.5话的更新与编辑部点评，并预告了第95话的上线时间。此外，文章还介绍了CyberConnect2社长松山洋为迎接公司成立30周年而出版的新书《ゲーム業界の攻略法》，该书为游戏业界从业者及求职者提供了实用经验与指导。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/115416&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;基于 Vaultwarden 和 Keyguard 的自托管密码管理实践&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Deploy a secure, self-hosted password management system using Dockerized Vaultwarden, Cloudflare Tunnel, and Keyguard clients.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To address rising subscription costs, the author implemented a self-hosted password management system by deploying Vaultwarden—a lightweight, community-maintained Bitwarden backend offering free TOTP and multi-user sharing—via Docker on a NAS. The deployment requires persistent data mapping, port conflict management, and accurate environment variables, utilizing Cloudflare Tunnel to satisfy browser HTTPS mandates without complex certificate setup. To secure the instance against abuse and unauthorized access, public registration must be disabled and background tokens cleared following account setup. Finally, the ecosystem is completed using the official Bitwarden plugin for desktop browsers and the open-source Keyguard client for mobile and cross-platform autofill and passkey migration.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;密码管理器迁移背景:&lt;/strong&gt; 由于主流密码管理器订阅价格上涨，作者决定利用现有的 NAS 搭建一套完全可控且免费的自托管密码管理系统。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Vaultwarden 核心优势:&lt;/strong&gt; Vaultwarden 是由社区维护的轻量级 Bitwarden 后端服务，不仅资源占用极小，还能免费解锁 TOTP 和多人共享等高级功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Docker 部署实践:&lt;/strong&gt; 在 NAS 上通过 Docker 部署 Vaultwarden 时，需要重点配置持久化数据目录映射、避免端口冲突并正确配置环境变量。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;HTTPS 与网络穿透:&lt;/strong&gt; 利用 Cloudflare Tunnel 进行内网穿透，既能满足现代浏览器对密码管理器的 HTTPS 安全要求，又能免去繁琐的证书配置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;必要的安全配置:&lt;/strong&gt; 个人账号注册完成后，需及时关闭公开注册功能并清理后台 Token，防止服务被他人滥用或遭遇非法访问。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;客户端与 Keyguard:&lt;/strong&gt; 桌面浏览器搭配 Bitwarden 官方插件，移动端与跨平台则推荐体验更好的开源客户端 Keyguard，以支持更顺畅的自动填充与通行密钥迁移。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - October 4, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -572,371 +847,6 @@ WebMCP is an emerging, zero-dependency browser standard that allows web applicat
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; Let&amp;#039;s use clear concise 2-4 words Chinese titles:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - September 26, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-09-26</id>
-    <updated>2026-09-26T22:30:30.042Z</updated>
-    <published>2026-09-26T22:30:30.042Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>3 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 26, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;294.7945205479452&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    73.7%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;269&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;96&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;38&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████████░░░░░░░░ 73.7%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;3&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/09/no-errors-no-warnings-no-gods-no-masters-html-purity-is-a-fetish/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No errors, no warnings, no gods, no masters - HTML Purity is a Fetish&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Although browsers easily render invalid HTML, writing standard-compliant code remains a valuable engineering discipline.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Despite 99% of top websites failing formal HTML validation, modern web browsers effortlessly render malformed markup by design, unlike rigid specifications such as XHTML or traditional compiled languages. While syntactic purity alone does not guarantee web accessibility or application quality, HTML&amp;#039;s inherent fault tolerance allows it to function more like an adaptable human language than a strict software contract. Nevertheless, adhering to valid HTML standards remains a valuable engineering discipline that eliminates parsing ambiguities, minimizes cross-browser rendering anomalies, and reflects professional software craftsmanship.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;HTML&amp;#039;s Forgiving Nature:&lt;/strong&gt; Browsers readily render malformed and non-standard HTML without complaint, making the language notoriously tolerant of syntax errors.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Widespread Web Invalidity:&lt;/strong&gt; Analysis of top global websites reveals that 99% fail basic HTML validation checks, demonstrating that valid code is rarely prioritized in practice.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Validity Versus Quality:&lt;/strong&gt; While the author maintains perfectly valid code, syntactically correct HTML alone does not guarantee accessibility, accuracy, or overall web quality.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Tolerance Over Strictness:&lt;/strong&gt; Unlike strict programming languages or failed specs like XHTML that break on minor syntax errors, HTML was designed to gracefully accommodate human mistake.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Linguistic Analogy of Code:&lt;/strong&gt; HTML behaves more like an adaptable human language than a rigid computer language, allowing browsers to parse ambiguous or flawed input effortlessly.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Case for Valid Code:&lt;/strong&gt; Writing precise, valid HTML reduces ambiguity, minimizes cross-browser rendering inconsistencies, and demonstrates professional self-respect and craftsmanship.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/26/a-value-based-approach-to-mathematics/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A value-based approach to mathematics&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Preserving value-based mathematics education is essential to protect human critical reasoning from the risks of AI over-reliance.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;While artificial intelligence offers the potential to expand the reach of mathematics and break down research silos, over-reliance on automated tools threatens to erode the intellectual resilience and critical thinking gained through manual problem-solving. Furthermore, commercial AI entities risk destabilizing the open-knowledge ecosystem of mathematics by monetizing generations of freely shared research without supporting the collaborative norms that enabled it. Beyond immediate technical utility, mathematics provides fundamental value by equipping individuals with abstract logic, curiosity-driven inquiry, and creative frameworks to navigate uncertainty. Consequently, preserving a value-based approach to mathematical education remains essential for cultivating the deep analytical reasoning and iterative problem-solving capabilities required for complex systems.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AI as Mathematical Amplifier:&lt;/strong&gt; AI has the potential to magnify the impact of mathematics by applying mathematical tools to new fields and reducing research siloing.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Risks of AI Over-Reliance:&lt;/strong&gt; Offloading critical thinking to AI risks depriving students and researchers of the intellectual growth that comes from struggling with complex problems.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Ethical Concerns with AI:&lt;/strong&gt; AI companies profit off generations of freely shared mathematical knowledge while undermining the open community norms that enabled those advances.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mathematical Impact on Society:&lt;/strong&gt; Beyond technical tools, mathematics equips humanity with logic, abstract modes of thought, and creative frameworks to navigate uncertainty.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Non-Linear Nature of Discovery:&lt;/strong&gt; Mathematical progress is often driven by curiosity and beauty rather than immediate utility, creating foundational theories that later power breakthrough applications.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Value of Mathematical Education:&lt;/strong&gt; Rigorous math training teaches students to navigate abstract systems, communicate complex ideas, and build resilience through iterative problem-solving.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114958&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;宜家 Matter 智能家居终于要来了？在中国市场它将如何破局&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 IKEA is launching affordable, optimized Matter smart home devices in China to overcome technical hurdles and market fragmentation.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;IKEA is expanding its smart home footprint in China with a new lineup of CCC-certified devices, executing a strategic migration from legacy Zigbee protocols to the universal Matter standard for cross-platform interoperability. To mitigate common early-stage Matter adoption hurdles such as provisioning failures and network instability, IKEA conducted joint hardware co-debugging with major ecosystem vendors to optimize firmware reliability. Navigating China’s fragmented smart home landscape and underdeveloped Thread mesh infrastructure, the company aims to drive adoption through aggressive price-to-performance positioning and plug-and-play remote control bundles.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;宜家多款支持 Matter 协议的智能家居新品已通过国家 CCC 认证，即将在中国市场正式开售。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;全面拥抱 Matter&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;宜家正从传统的 Zigbee 协议逐步全面迁移至通用 Matter 标准，致力于以低成本和极简交互实现跨平台无缝互联。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;针对早期配网失败与设备掉线等痛点，宜家与主流生态厂商开展物理联合调试，通过固件升级大幅提升了稳定度。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;面对国内 Thread 基础设施不足与生态割裂的现状，宜家通过出盒即用的遥控套装与极致性价比策略来降低门槛。&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - September 24, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-09-24</id>
-    <updated>2026-09-24T23:38:01.415Z</updated>
-    <published>2026-09-24T23:38:01.415Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>15 articles from 9 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - September 24, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;292.6027397260274&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#fbbc04&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    73.2%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;267&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;98&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q3&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;38&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████████░░░░░░░░ 73.2%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;15&lt;/strong&gt; articles from &lt;strong&gt;9&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22775&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Thursday session&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录博文发布信息、社交点赞及互动回复征集的元数据。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文包含一篇发布于2026年9月24日的网页帖子互动元数据，记录了发布时间、地理坐标（51° N, 0° W）、跨平台分享链接，以及五位用户的点赞动态和回应Ping网址征集。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22774&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The summer of ’26&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者总结了充满旅行与音乐的愉快夏天，准备回归居家生活。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在秋分之际回顾了2026年充满旅行、音乐与阳光的愉快夏天。他分享了前往西班牙参加Cáceres Irish Fleadh音乐节，以及游览希腊、意大利、科克和北爱尔兰避暑的经历，表达了对夏日美好时光的怀念，并准备回归居家生活迎接秋冬。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Charles Harries | Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://charlesharri.es/stream/walking-ghyll-24-september&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Walking Ghyll, 24 September&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记叙九月夜散步的体验，并对比回忆了极致安静的银河夜晚。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇记叙作者夜间散步（Walking Ghyll）的随笔。作者描绘了九月末温和月夜下的环境，捕捉到安静空气中传来的郊区杂音，并对比回忆了此前在Haughtongreen体验到的绝对宁静与壮丽银河。文风细腻自然，展现了对自然声音与寂静时刻的敏锐观察。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在九月末的夜晚出门散步（Walking Ghyll），发现天气温和，满月与繁星穿透薄云散发着光芒。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;静止的空气使得郊区的各种噪音格外清晰，包括狗吠声、管道机械声以及急驶而过的车辆轰鸣声。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆起此前在Haughtongreen体验到的极致宁静，那是无风无云、只有漫天银河旋转的独特时刻。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-09-24.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: September 24&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Software success relies on cautious AI deployment and leveraging Forward Deployed Engineers to enhance core products with field insights.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
-
-Rather than focusing on distant AI risks, immediate software vulnerabilities stem from recklessly deploying uncontained AI agents into production, a pragmatic focus on software health that extends to code ergonomics where minimalist syntax highlighting is favored for better readability. The post also analyzes the industry buzz surrounding the ambiguous &amp;quot;Forward Deployed Engineer&amp;quot; (FDE) role, noting that despite a lack of standard definition, the trend constructively revives core Agile and Domain-Driven Design principles to bridge developer-user communication gaps. Ultimately, the true value of an FDE lies not in delivering one-off client customizations, but in systematically feeding real-world field insights back into the core product platform.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Immediate AI Security Risks:&lt;/strong&gt; Rather than worrying about futuristic existential threats, the immediate danger stems from recklessly integrating current AI agents into systems without established security containment.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Rethinking Syntax Highlighting:&lt;/strong&gt; Overly colorful syntax themes dilute visual focus, whereas a minimalist approach using muted colors for context and bright accents for key elements improves overall code readability.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Defining Forward Deployed Engineers:&lt;/strong&gt; Despite growing industry buzz around the Forward Deployed Engineer (FDE) title, companies lack a shared definition, applying the label to roles ranging from sales engineers to hands-on consultants.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Rebranding Classic Agile Principles:&lt;/strong&gt; Although the FDE trend repackages long-standing Agile and Domain-Driven Design principles regarding developer-user collaboration, this modern framing provides a fresh push to solve persistent communication gaps.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Core FDE Mission:&lt;/strong&gt; A true Forward Deployed Engineer&amp;#039;s primary goal is not just delivering one-off client customizations, but feeding field insights back into the core platform to benefit all future users.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/healthy-peer-feedback.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Healthy Feedback&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Healthy feedback acts like software telemetry, providing continuous, objective insights that resolve team friction before systemic failure occurs.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Healthy feedback serves as a vital tool for team growth by balancing genuine personal care with direct, objective challenge, relying on frameworks like Situation-Behavior-Impact (SBI) rather than subjective judgments. To build an effective culture, this exchange must transcend organizational hierarchy, requiring leaders to model vulnerability and treat all team members as peers. Operating much like software telemetry, continuous and immediate feedback provides real-time operational signals on team dynamics, allowing teams to address minor friction before it manifests as systemic failure.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Core Feedback Principles:&lt;/strong&gt; Feedback is inherently positive, designed either to strengthen confidence through praise or improve effectiveness through constructive criticism.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Radical Candor Framework:&lt;/strong&gt; Effective feedback requires balancing personal care with direct challenge, avoiding antipatterns like ruinous empathy or obnoxious aggression.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Feedback as Peer Sport:&lt;/strong&gt; Feedback should transcend organizational hierarchy, empowering all team members as peers while requiring leaders to actively model vulnerability.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Real-Time Team Telemetry:&lt;/strong&gt; Continuous feedback acts like software telemetry, providing essential signals about team health before major disruptions reveal hidden issues.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;In-the-Flow Delivery:&lt;/strong&gt; Exchanging feedback immediately following collaborative work ensures context is fresh and accelerates personal learning and growth.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Separating People from Problems:&lt;/strong&gt; Constructive feedback relies on objective observations structured around situation, behavior, and impact rather than subjective personal judgments.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Some thoughts on HTML&amp;#039;s proposed previewsrc attribute&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者评估了HTML新增previewsrc提案，认为渐进式图片是更好选择。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了微软提出的在 HTML &amp;lt;img&amp;gt; 标签中新增 previewsrc 属性的提案。作者以审慎和批判的视角，从用户需求、开发者体验、无障碍性及属性命名（建议复用 &amp;lt;video&amp;gt; 的 poster）等维度展开分析。作者最终总结指出，相比增加新的 HTML 属性，直接使用渐进式图片（progressive images）或许是更简单、实用的替代方案。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软提出了标准化 previewsrc 属性的建议，用于在图片加载前显示预览图，作者对此表示关注并提出了相关疑问。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者强调 HTML 标准应首先服务于最终用户，质疑用户是否真的需要图片预览以及微软是否对此进行了充分的用户研究。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为也需要关注开发者的痛点，建议微软通过调查或分析已有网站数据来了解开发者的真实需求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者讨论了在图片加载缓慢或失败时，替代文本（alt text）与预览图在用户体验和无障碍性方面的对比。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在属性命名上，作者建议将 previewsrc 改为 poster，以保持与 &amp;lt;video&amp;gt; 元素的 poster 属性一致。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结指出，相比在 HTML 中引入新属性，使用渐进式图片（progressive images）对开发者而言是更简单且高效的替代方案。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/09/23/headlines-and-inside-stories-understanding-and-trust-in-ai-for-mathematics-science-and-engineering/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Headlines and inside stories: understanding and trust in AI for mathematics, science, and engineering&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Trust in scientific AI requires transparent, auditable frameworks that bridge raw predictive power with true physical understanding.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
-
-The integration of AI into scientific and mathematical disciplines highlights a critical tension between raw predictive output (*techne*) and human conceptual understanding (*episteme*). While unexplainable black-box AI systems succeed in rapidly verifiable domains like protein folding, high-stakes or empirically slow-to-verify applications require transparent, auditable causal chains to build trust. Furthermore, as demonstrated by Lean-verified Navier-Stokes proofs, formal logical correctness does not automatically yield practical engineering value, as theoretical singularities often fail to mirror real-world physical dynamics like energy dissipation. Ultimately, robust scientific modeling relies on auditable, modular frameworks—such as numerical stability theories in Computational Fluid Dynamics—to ensure reliability when extrapolating to unobserved real-world conditions.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;AI Proofs and Understanding&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;OpenAI&amp;#039;s Lean-verified proof of Navier-Stokes blow-up highlights the tension between verifying truth and advancing human conceptual understanding. A proof&amp;#039;s value lies not just in its correctness, but in its ability to illuminate underlying structures and methods.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Episteme Versus Techne&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Science balances explanatory understanding (episteme) with predictive craft (techne). When predictions are easily checked empirically, such as short-term weather or protein folding, black-box AI models can succeed without providing underlying explanations.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Need for Auditable Predictions&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 6:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;When empirical verification is slow, dangerous, or expensive—such as long-term climate projections—trust requires an auditable causal chain. In these scenarios, predictive tools must be grounded in transparent, verifiable steps rather than unexplainable outputs.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 7:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Mathematical Proofs Versus Reality&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 8:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;While the forced Navier-Stokes blow-up proof demonstrates a mathematical singularity, physical fluids dissipate energy at small scales before infinities occur. Consequently, the theoretical proof offers little practical insight into real-world physical turbulence.&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 9:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Rigor in Fluid Dynamics&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 10:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Engineering and climate modeling rely on Computational Fluid Dynamics (CFD), which builds trust through numerical stability theories and separately testable submodels. This auditable structure ensures reliability even when predicting previously unobserved conditions.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-09-24T05:10Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-09-24T05:10Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Radicle因严重明文传输漏洞遭到质疑，作者对其安全性失去信任。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者指出 Radicle 项目存在严重安全漏洞。研究人员发现其网络协议在握手后通过明文 TCP 传输包含私有仓库在内的所有数据。作者批评开发团队在网络安全上的极度疏忽与缺乏专业能力，表示除非后续经过多家第三方权威机构审计，否则难以重新信任该项目。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/?p=12206&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【採用情報】急募！アーティストアシスタント募集 [アルバイト]（福岡本社・東京スタジオ・大阪スタジオ）&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 游戏视觉特效设计师助理兼职招聘启事。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本篇为游戏行业视觉特效设计师助理的兼职招聘信息。文章采用清晰规范的招聘公告风格，详细介绍了零门槛的岗位需求、福冈/东京/大阪三地的薪资待遇与工作时间、主要辅助工作内容（使用Unreal Engine和Photoshop等工具）、应聘条件及所需材料，旨在吸引对游戏制作抱有热情的求职者。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;招聘特效设计师助理，无需经验与技能，欢迎对游戏行业感兴趣的学生及求职者申请。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细说明了兼职雇用形式、福冈/东京/大阪三地工作地点、弹性工作时间以及各地区的时薪标准与交通费补贴。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;明确了岗位职责为辅助视觉特效设计师，包括收集参考资料、拍摄检查视频及使用Unreal Engine、Photoshop等工具进行基础操作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;列出应聘基础条件与加分项，要求具备电脑及基础软件操作能力，优先考虑对游戏制作有热情者。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明了申请所需的简历、问卷及可选提交的作品集格式与提交要求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了应聘提交入口，并声明对应聘者的个人信息进行严格保密。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114954&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;新玩意 252｜少数派的编辑们最近买了啥？&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Sspai editors evaluate their latest consumer tech purchases, covering personal care, audio gear, cameras, and mobile gaming hardware.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This edition of sspai&amp;#039;s &amp;quot;New Stuff&amp;quot; highlights editor reviews across personal care, audio, digital imaging, and mobile gaming hardware. Practical consumer devices like the Mijia Hair Dryer Pro and AirPods 5 were commended for ergonomic refinements, including adaptive noise cancellation, improved battery life, and intuitive controls. In digital imaging, DJI’s 2nd-gen panoramic camera streamlines post-processing through seamless ecosystem integration, while the compact OM System PEN camera offers deep color customization despite minor UI flaws. Finally, the upcoming iQOO 16 caters to mobile gamers with a high-refresh 2K 165Hz display and advanced virtual point-light ray-tracing capabilities.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;米家水离子吹风机 Pro:&lt;/strong&gt; 编辑 Clyde 在戴森损坏后入手了米家电吹风机 Pro，称赞其风速快、按键与磁吸设计合理且温度调控细腻，但风速降噪和调温旋钮阻尼仍有改进空间。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;AirPods 5 使用体验:&lt;/strong&gt; 编辑 Lincoln 分享了 AirPods 5 无线充电盒版的佩戴感受，认为其半入耳无感佩戴配合自适应降噪十分舒适，耳机柄轻扫调节音量与提升的续航也显著改善了日常体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;DJI Osmo 360 II:&lt;/strong&gt; 编辑 Microhoo 体验了第二代大疆全景相机，认为其最大优势在于无缝融入大疆生态与轻松的日常记录体验，高动态范围和简化后期大大降低了全景拍摄的门槛。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;奥之心 PEN 相机:&lt;/strong&gt; 编辑 西鸽 入手了小巧轻便的奥之心 PEN 套机，虽然机身按键与配套 App 交互存在瑕疵，但丰富的预设色彩配方与颜色波轮为相机提供了极高折腾空间与可玩性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;iQOO 16 手机:&lt;/strong&gt; 编辑 北鸮 试用了即将在 9 月末发布的 iQOO 16 手机，其配备的 2K 165Hz 三星珠峰屏与虚拟点光源光追技术为手游玩家带来了极佳的画质与流畅操作体验。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/home-made-beverages-5&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;家庭饮品 DIY 指南（五）：特调咖啡及其他饮品&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文分享了五款特调咖啡饮品的标准萃取参数与详细制作配方。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇实用型特调咖啡与特饮配方指南。作者详细列出了深烘拼配豆萃取Espresso的标准参数和茉莉花茶基底的浸泡方法，并给出了椰子淡奶咖啡、桂花椰青咖啡、葡萄美式、青柠冰美式及青提美式沙冰等五款特色特调饮品的详细原料配比与制作步骤，旨在为饮品制作提供清晰、可操作的技术指导。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍文章主题为特调咖啡与特饮配方，并说明Espresso萃取比例的统一标准。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;建议特调咖啡选用深烘偏坚果焦糖风味的拼配豆，并给出Espresso的具体萃取参数与设备建议。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了商业大批量浸泡茉莉花茶的原料比例、水温、时间及冷却过滤方法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了椰子淡奶咖啡的具体原料配比与五步制作流程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了桂花椰青咖啡的原料用量与详细制作步骤。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了结合巨峰葡萄汁与茉莉花茶的葡萄美式配方及制作流程。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了使用小青柠汁和香水柠檬制作青柠冰美式的配方与步骤。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了青提美式沙冰的原料选择、用量调整及打制步骤。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/113823&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Microsoft’s 1995 joint venture with DreamWorks produced hits like *Medal of Honor*, shaping its future Xbox gaming strategy.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;In 1995, Microsoft partnered with DreamWorks SKG to form DreamWorks Interactive, marking a strategic early foray into the video game industry years before the launch of the Xbox. The joint venture aimed to synergize Hollywood&amp;#039;s cinematic storytelling with Microsoft&amp;#039;s software engineering capabilities and technical infrastructure. During its operation, the studio developed distinctive titles such as *The Neverhood* and created the critically acclaimed, genre-defining *Medal of Honor* franchise. Although Microsoft eventually divested its stake to Electronic Arts in 2000, this strategic collaboration provided crucial operational insights, technical experience, and industry positioning that helped shape Microsoft’s long-term gaming vision.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; 7.  **Final Quality Check**: Valid JSON, clear text, perfectly maps to the source content.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;1995年，梦工厂与微软合资&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114395&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;古董电脑室十周年记：为什么我不再是收藏家（上）&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Reflecting on a decade of vintage computing, the author shifts from hardware collecting to critical media archaeology and activism.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Here is a comprehensive technical summary of the article:
-
-Reflecting on the ten-year evolution of the &amp;quot;Vintage Computer Lab,&amp;quot; the author outlines a fundamental paradigm shift from accumulating physical hardware to practicing media archaeology and contemporary art activism. Originally rooted in the &amp;quot;PDA Museum,&amp;quot; the initiative was deeply influenced by open-source public archiving and early geek subcultures. The piece critically contrasts the older computing generation&amp;#039;s fetishization of raw hardware specifications with the contemporary generation&amp;#039;s shift toward symbolic and experiential technology consumption. Ultimately, it frames vintage hardware not as mere nostalgic artifacts to be hoarded, but as critical historical media to be archived and analyzed within a broader socio-technological context.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;作者回顾了「古董电脑室」十年的发展历程，完成了从实体硬件堆砌的收藏家向媒介考古与当代艺术行动者的核心转变。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;早期的「PDA博物馆」受到开源公共档案与极客圈层文化的双重影响。作者通过对比老一代的硬件规格拜物与新世代的符号消费&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114913&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Alibaba released new audio AI models alongside flagship mobile and wearable hardware from Xiaomi and Amazfit.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;**Summary:**
-
-Alibaba has released the Qwen-Audio-3.1 large audio model series, delivering a comprehensive capability stack across speech understanding, generation, and interaction at significantly reduced API operational costs. On the mobile hardware front, Xiaomi hosted its autumn launch event to debut flagship smartphones powered by the next-generation Snapdragon 8 series chipset, alongside an expanded ecosystem of tablets and smart appliances. Additionally, Amazfit introduced the T-Rex Dual Solar, the world&amp;#039;s first smartwatch featuring dual-sided solar charging and full-color map navigation, while Razer announced new audio peripherals. Collectively, these updates highlight key industry advancements in cost-optimized multimodal AI deployment alongside next-generation mobile and outdoor hardware innovation.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 1:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;小米正式发布 18 Pro/Pro Max 旗舰手机，首发第六代骁龙 8 系列芯片，并同场推出了平板、手环及多款智能家电新品。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 2:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;阿里发布 Qwen-Audio-3.1 系列语音大模型，涵盖理解、生成、交互与创作全能力栈，且全线模型使用成本大幅下调。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 3:&lt;/strong&gt; &amp;quot;title&amp;quot;: &amp;quot;Amazfit太阳能手表&amp;quot;,&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 4:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;Amazfit 推出全球首款正反双面太阳能充电智能手表 T-Rex Dual Solar，具备 10 ATM 防水与全彩地图导航，专为户外探险打造。&amp;quot;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Point 5:&lt;/strong&gt; &amp;quot;summary&amp;quot;: &amp;quot;雷蛇推出售价 799 元的灰鲭鲨 X&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 第二外国语日语学院 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;北京第二外国语学院日语学院2026-2027学年第一学期教师坐班安排备案表&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 未提供文章内容。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;未提供需要总结的文章内容。&lt;/p&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
 &lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
 &lt;/div&gt;</content>
