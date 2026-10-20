@@ -4,8 +4,288 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-10-19T23:21:17.815Z</updated>
+  <updated>2026-10-20T23:09:39.273Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - October 20, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-10-20</id>
+    <updated>2026-10-20T23:09:39.273Z</updated>
+    <published>2026-10-20T23:09:39.273Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>17 articles from 11 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - October 20, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;321.09589041095893&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    80.3%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;293&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;72&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;41&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████████████░░░░░░ 80.3%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;17&lt;/strong&gt; articles from &lt;strong&gt;11&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22807&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;This year’s FFConf is shaping up to be genuinely unmissable. So …um, you know …don’t miss it: https://2026.ffconf.org/ I’ll see you there!&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 推荐2026年FFConf会议并记录社区成员的互动。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇关于2026年FFConf会议的简短分享与讨论。作者推荐大家不要错过此次会议，并附上了官方网址。文章还记录了多位开发者和设计领域的专业人士对该活动的反响、分享以及点赞互动，展现了技术社区的活跃交流氛围。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Embracing Playful Imperfection With The CSS `random()` Function&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CSS random()函数为网页设计带来自然的不完美感与动态趣味。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了原生CSS random()函数在Web设计中的创新应用。作者Brecht De Ruyte探讨了如何在追求完美一致性的设计系统中引入适度的随机性与不完美感，从而打破数字界面的生硬感。文章详细解析了random()的语法规范、单位限制、步进调整、缓存键机制及浏览器支持情况，并通过文字倾斜和弹跳动画等实际CodePen演示，展示了其在活泼排版中的强大潜力，同时提醒开发者注意屏幕阅读器的无障碍适配问题。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;前端开发者Brecht De Ruyte探讨了原生CSS random()函数如何在保持设计系统一致性的同时，为网页带来自然的不完美感和趣味性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章指出虽然数字界面追求像素级完美，但现实世界充满有机的不规则美，CSS random()函数无需依赖JavaScript或预处理器就能实现这种效果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了CSS random()函数的语法规则、单位匹配要求、步长设置以及用于保持多属性同步的caching key机制。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;目前WebKit/Safari已支持该函数，Chrome 156正在逐步推出，开发者可使用@supports进行渐进式增强，未来还将支持random-item()函数。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过具体的排版演示案例，展示了如何利用random()为字母添加微小倾斜、偏移和不透明度变化，营造复古书籍的视觉质感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;强调了在拆分字母进行样式设计时必须注意无障碍访问问题，应使用aria-label隐藏视觉span，避免破坏屏幕阅读器的体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展示了第二个案例——通过为每个字母配置随机跳跃高度、倾斜角度和动画时长，实现类似蹦床效果的纯程序动态跳跃动画。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/531&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 531: A TypeScript Compiler Journey from Hell&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 TypeScript编译器移植潮引发生态分裂与反思。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文主要探讨了TypeScript编译器在采用Go语言重构后引发的多次生态“移植”浪潮，分析了不同团队对编译器进行二次开发的各种尝试（如Rust版和TS回迁版）。文章作者语气讽刺而幽默，同时穿插了代码Bug解析、Agentic Change Management代码审查工具、React Native更新及Google AI研究等科技行业热点资讯。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了TypeScript编译器在转向Go语言后引发的生态分裂与多次移植风潮，包括Go版、多个Rust版及回迁TypeScript的Vercel版等现状。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了Agentic Change Management工具，用于帮助团队管理AI生成的代码审查和海量PR。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨了Trigger.dev平台及其包含的JavaScript数组扁平化代码Bug分析与修复方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;汇总了Google Research开源harness2、React Native 0.88版本发布以及AI与开源软件开发趋势等科技圈动态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Jiajun的技术笔记 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://jiajunhuang.com/articles/2026_10_20-how_to_build_an_agent.md.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;如何写一个 Agent&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文深入剖析Agent的核心循环与组件，并提供从最小实现到工程落地的完整指南。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细拆解了基于大语言模型的Agent核心原理与实现方式。文章从Agent的循环骨架切入，逐一剖析了Prompt设计、工具集成、记忆系统、上下文管理以及Context Compaction等关键组件，并提供了一个基于Python的最小实现示例。作者指出，理解核心循环后，工程落地还需要关注工具权限、副作用、超时重试及可观测性等方面。文章行文结构清晰，兼具理论指导与实战代码，帮助开发者由浅入深地掌握从演示走向可用Agent的构建方法。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (13 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了Agent的核心是一个循环，即模型读取上下文、决定下一步、程序执行工具并返回结果，直到任务结束。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;一个实用的Agent由模型、Prompt、工具与执行器、上下文管理器、记忆系统、任务状态与调度器、观测与评估等组件构成。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Prompt需要把工作规则写清楚，明确目标、事实依据、工具调用逻辑及异常处理方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工具包括名称、描述和参数定义，其边界越清晰，模型越容易选对，程序也越容易校验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章通过Python和OpenAI Responses API演示了一个订单查询助手的最小实现代码。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在执行循环中，必须保存完整的response.output、实现严格的工具执行器并设置停止条件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;记忆系统可分为工作记忆、任务经历、长期事实与偏好以及可复用流程，负责信息的存取与生命周期管理。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;上下文管理器负责控制每次请求的输入长度，在接近预算时进行合理裁剪和组装。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Context Compaction用于将较长的历史整理成较小且足以继续执行任务的表示，解决长任务连续性问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;压缩后的摘要需要保留目标、硬约束和关键标识，且摘要是有损的，需要能找回原文。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Compaction服务于当前任务继续运行，而长期记忆服务于未来任务，两者在应用场景和生命周期上有所不同。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;从演示走向可用，还需要补上工具权限与副作用控制、超时重试与预算、可观测性和评估等工程能力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;理解Agent的核心循环后，可以更好地借助框架来管理模型调用、工具注册、会话状态和持久化等复杂需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/javascript-reserved-words/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;JavaScript Reserved Words: The Complete List of Keywords&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 全面解析JavaScript保留字的分类、规则与避坑指南。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文全面介绍了JavaScript中的保留字（Reserved Words）及其分类与使用规则。文章由浅入深地列举了始终保留的关键字、strict mode下的保留字、上下文关键词以及应当避免使用的名称，并通过代码示例展示了错误使用保留字引发的SyntaxError。同时，作者澄清了保留字在对象属性名中的合法性，并提供了对象解构与模块导入时的重命名解决方案。整体风格实用且条理清晰，适合各阶段开发者阅读。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了JavaScript中保留字的概念，指出其作为语法的一部分不能用作变量或函数名。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章列出了现代JavaScript中的各类保留字，包括始终保留的关键字以及字面量。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细区分了在strict mode下保留的关键字，以及在特定上下文中具有特殊含义但本身并非保留字的词汇。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;列举了虽然技术上未保留但应极力避免使用的名称，以防止潜在的错误和冲突。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了当错误使用保留字时会触发的SyntaxError，并说明了具体的浏览器报错表现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明了自ES5起，保留字完全可以作为对象的属性名和键值使用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了在对象解构和模块导入时，如何通过重命名来避开保留字的冲突。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过FAQ的形式解答了关于JavaScript保留字的常见疑问，如数量、let的归属等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Quackery - A Brief History of the Worst Ways to Cure Everything by Lydia Kang ★★★⯪☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 评一本趣味揭秘医疗骗局的书籍&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文对一本关于人类历史上虚假医疗骗局的趣味书籍进行了书评。作者指出该书文笔轻松幽默且充满讽刺，探讨了各种荒诞的医疗骗局与真实疗法之间的模糊界限，揭示了人类社会的种种矛盾。文章还赞扬了该书精美的电子版排版，但同时也遗憾地指出其缺乏参考文献和脚注，最终给出了三星半的好评推荐。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/10/20/an-experimental-ai-math-challenge-using-tenth-discriminant-bounds-to-explore-arguments-ruling-out-siegel-zeroes/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;An experimental AI-math challenge: using tenth discriminant bounds to explore arguments ruling out Siegel zeroes&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者发起一项AI辅助挑战，旨在通过新方法推导第十个判别式的有效上界。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文提出了一项实验性数学挑战，邀请读者利用AI工具推导第十个判别式的有效上界，以此绕过Heegner的传统方法并探索消除Landau-Siegel zeroes的新途径。作者倡导一种类似Polymath的协作精神，通过AI辅助评估不同数学论证的强度、优化常数，并推动数学研究与AI结合的负责任实践。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (1 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者结合近期关于利用AI辅助数学理解的“Math 2.0”演讲，提出了一个探索性挑战，旨在探讨Landau-Siegel zeroes与类数一问题（the tenth discriminant problem）之间的深厚联系。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-10-20T16:03Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-10-20T16:03Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 批评IndieWeb社区引入genAI并忽视其危害。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者对IndieWeb社区近期引入genAI和Claude技术感到担忧，并对社区成员Aaron Parecki回应中表现出的“genAI只是一种工具”的麻木态度表示失望和痛心，认为这种观点忽视了AI带来的实际危害。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/10/20/how-not-to-migrate-from-cloudflare-dns/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How not to migrate from Cloudflare DNS&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 切勿效仿的错误Cloudflare DNS迁移指南。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以极具讽刺和反讽的笔调，记录了一次糟糕的Cloudflare DNS迁移经历。作者通过故意不备份、随意删除域名、不提前配置新服务商以及事后才修复DNS记录等反面操作，幽默地讽刺了匆忙迁移DNS所带来的混乱与后果，文章风格诙谐且充满讽刺意味。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202610/90931&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【ファミ通.com】『戦場のフーガ』CC2松山がゲーム制作授業で“IPを預かるプロの作法”を語る。「何度も撃てるソウルキャノン」では原作ファンは喜ばない&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CC2松山社長が大学のゲーム制作授業でIPを預かるプロの作法を伝授。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文は、サイバーコネクトツーの松山洋社長が参加した大学の産学連携ゲーム制作授業の最終発表会の様子をレポートしている。学生たちが制作した『戦場のフーガ』を原作とする新作ゲームに対し、松山社長はIPを扱う際の作法やゲームのコアシステムを磨く重要性を厳しくかつ愛を持って指導した。結果を求められるプロの現場の厳しさと、次世代クリエイターへの期待が描かれている。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーのIP『戦場のフーガ』を用いた東京情報デザイン専門職大学の産学連携授業の最終発表会が実施された。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;シューティングゲームを制作したチームに対し、松山社長は原作の世界観やIPを借りる重みを無視した仕様だと厳しく指摘した。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;オートバトルゲームを制作したチームに対し、松山社長は不安から要素を足し算するのではなくコアのシステムを磨く重要性を説いた。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;すべての発表終了後、松山社長は学生たちへ開発現場の厳しさを伝えつつ、クリエイターとしての成長を期待する温かいエールを送った。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202610/90944&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;10/28（水）19時生配信！ゲームを題材にしたお笑い賞レース「ゲームネタGP」に特別審査員としてサイバーコネクトツー松山洋が参加決定&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 ゲームお笑い賞レースに松山洋氏が特別審査員として参加決定。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;ファミ通.com主催のゲームを題材にしたお笑い賞レース「ゲームネタグランプリ 2026」の開催情報を伝える記事です。10月28日の生配信に向け、サイバーコネクトツーの松山洋氏が特別審査員として参加することが発表され、大会の概要や審査員陣のコメント、配信詳細が紹介されています。ゲーム業界の著名人が審査に加わることで、芸人たちのネタにどのような評価が下されるのかという期待感を高める構成となっています。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;ファミ通.com主催のゲームお笑い賞レース「ゲームネタグランプリ 2026」が10月28日に生配信され、特別審査員としてサイバーコネクトツーの松山洋氏が参加することが決定した。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本大会では12組の芸人が優勝賞金100万円を目指してゲームを題材にしたお笑いネタを披露し、松山氏をはじめとする豪華審査員陣が審査を行う。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;松山洋氏はゲームクリエイターの視点からフェアに審査を行う意気込みを語っており、配信はYouTubeのファミ通TUBEにて予定されている。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/prime/story/inside-release-notes-261020&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Firefox推出Nova主题并经历妥协，折射其设计困境。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了Firefox推出的代号为Nova的全新界面现代化改造，梳理了Firefox历代主题设计的演变历史。文章指出，Nova在开发过程中曾因过于激进的悬浮布局引发争议，最终在社区反馈下做出了妥协。虽然此次更新显得有些温和，但它带回了紧凑布局并引入了全新的设计系统Acorn。作者认为，这次更新折射出Firefox在向现代设计靠拢与维持极客基本盘之间的两难抉择。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mozilla随Firefox 157推出了代号为Nova的全新视觉设计，旨在实现界面现代化并容纳更多新功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nova带来了重新绘制的图标、圆润的标签页以及烟紫色渐变主题，但也因改变用户习惯而受到批评。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Firefox的设计一直在「追赶潮流」与「简洁高效」间摇摆，文章回顾了从Phoenix到Proton的发展历史。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nova早期版本采用了类似Arc的激进悬浮布局，在收到负面反馈后，Mozilla最终放弃了该设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;由于放弃了悬浮布局，Nova的更新显得有些温和，主要区别在于更圆的按钮和紫色主题色。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nova重新带回了被弃用的「紧凑」界面布局，并在纵向高度上有所减少。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nova引入了基于标准化JSON格式的全新设计系统Acorn，提升了跨端迭代和深色模式支持的效率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于无法接受新设计的用户，Mozilla在about:config中保留了恢复Proton界面的临时退路。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nova的开发过程折射出Firefox在迎合主流现代设计与维护极客社区基本盘之间的两难困境。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/115475&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 vivo首款耳夹耳机Buds Clip综合表现无明显短板。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文对vivo首款耳夹式无线耳机vivo Buds Clip进行了全面深度评测。文章从包装配件、设计佩戴、声学结构、软件操控、信号续航、扬声器表现及声音主观听感等多维度展开分析，指出该耳机在佩戴舒适度、LDAC支持、空间音频和通话质量等方面表现优异，虽然在早期固件的触控识别灵敏度上仍有提升空间，但凭借均衡的音质和高性价比，成为了该价位段非常值得购买的耳夹产品。文章行文专业客观，评测维度细致。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了vivo推出的首款耳夹式无线耳机vivo Buds Clip，并对其包装与配件进行了简要说明。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细分析了Buds Clip的配色、外观做工、充电盒设计以及创新的C桥结构和佩戴舒适度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;评测了耳机的触控操作、软件功能、查找辅助以及双麦克风加骨传导的通话收音表现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对耳机的蓝牙主控、不同编解码模式下的信号稳定性、延迟表现以及续航和充电能力进行了测试。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨了耳机的动圈单元配置、空间音频效果、声压级以及漏音控制表现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;从低频、中频、高频及声场表现等方面详细描述了耳机的实际声音主观听感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结了vivo Buds Clip作为首款耳夹产品的优缺点及市场定位，认为其是该价位极具性价比的选择。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116661&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 为MacBook搭建双屏桌面的明基MA系列显示器体验。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了为 MacBook Pro 搭建双屏桌面的经验，重点对比了明基 32 英寸 4K 显示器（MA320U）与 27 英寸 5K 显示器（MA270S）。文章指出，通过将 Apple 设备的色彩风格作为日常色彩基准，并借助专门针对 macOS 优化的 MA 系列显示器，可以有效解决外接屏幕的色彩不一致和视觉割裂问题。作者分析了 4K 的清晰与 5K 在整数缩放下的细腻差异，以及雷电 4 菊花链和软件联动带来的原生级便捷体验，为 Mac 用户提供了实用的外接显示器选购与搭配参考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;随身笔记本屏幕尺寸有限，外接显示器已成为创作者提升后期效率的刚需，但不同显示器的色彩表现存在差异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为解决色彩对齐问题，作者选择将Apple设备作为日常色彩基准，并体验了专为Mac设计的明基MA系列显示器。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;MA系列主打开箱即用的苹果色与macOS底层联动，其中MA320U提供大空间扩展，MA270S则等比放大MacBook体验。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple色彩体系融入了人眼观感倾向，明基MA系列通过M-book模式与软件联动减少屏幕观感差异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;MA270S采用Nano Gloss镜面屏并具备智慧调光功能，能随日常光线变化自动调节，降低跨设备不确定性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在27英寸5K与32英寸4K的对比中，5K分辨率配合macOS能实现像素级整数缩放，呈现更细腻凝实的文字线条。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过雷电4菊花链与一根线连接，双屏桌面可与MacBook实现硬件级无缝整合与便捷操作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Display Pilot 2软件支持亮度同步与专注模式绑定，进一步抹平了第三方外设与macOS之间的隔阂。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为若追求Mac内屏般的熟悉观感，5K的MA270S是极佳选择，但4K显示器也依然能满足日常需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116430&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者为iPhone开发了基于Rime的「紫毫」输入法，实现移动端高度自定义、精准纠错与隐私保护。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了作者为解决 iPhone 用户缺少高质量 Rime 输入法体验而开发的「紫毫」输入法。文章详细阐述了紫毫的核心优势，包括内置雾凇拼音、支持方案导入与多端同步、创新的手机端按键纠错算法、上下文智能同音词预测、贴心的键盘细节优化以及严格的本地隐私保护和自备密钥的 AI 功能。作者采用亲切且富有极客精神的语调，全面展示了这款为深度用户私人定制的高效输入工具。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了作者在 iPhone 上开发「紫毫」输入法的背景，旨在解决 Rime 用户在移动端缺乏高度可定制且无广告输入体验的遗憾。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;紫毫基于 Rime 引擎，内置雾凇拼音，支持全拼、双拼、九宫格及多种繁简体输出，并提供丰富的快捷短语和功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;用户可直接在手机上导入 Rime 配置文件或通过 GitHub 仓库同步方案，并利用 iCloud 实现多端用户词库合并。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对手机打字易按错的痛点，紫毫开发了基于落点的纠错功能，在保证正确拼写优先的前提下大幅提升长句输入准确率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;输入法内置本地小模型，能根据光标前的上下文智能判断同音词的首选，提升输入效率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;紫毫在键盘细节上做了诸多优化，如表情键自定义、自动切换英文、适配折叠屏分屏等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;紫毫坚持隐私至上，所有打字、纠错及本地模型均在手机运行不上传，AI 功能则由用户自行配置密钥且具备隐私脱敏机制。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;输入法基础打字功能完全免费，Pro 版本采用买断制解锁高级 AI、主题及多设备同步等功能，目前已在 App Store 上线。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116758&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：MiniMax 发布 M3.1 Flash 模型等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 MiniMax发布新模型，索尼推出高端Walkman播放器。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为派早报内容，汇总了科技数码与互联网领域的最新动态。主要内容包括 MiniMax 发布 M3.1 Flash 模型、掌阅推出 Ocean 6 Pro 电纸书、索尼发布高端 Walkman 播放器、颂拓推出运动手表、微软延长 App-V Server 支持期限、国家网信办开展未成年人网络平台认定工作，以及 Apple 即将举办新品发布会等消息。文章全面盘点了近期热门科技新品与行业政策动态，为读者提供便捷的资讯速览。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;稀宇科技正式上线 MiniMax M3.1 Flash 模型，推理速度大幅提升且综合使用成本降低，主要面向复杂 Agent 任务与软件工程场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;掌阅推出 Ocean 6 Pro 电纸书阅读器，搭载 7 英寸柔光屏及 6 纳米八核处理器，售价 1799 元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;索尼发布新一代高端 Walkman 数字音乐播放器 Signature 系列两款新品及次旗舰 NW-ZX900，带来全方位的音质与供电系统升级。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;颂拓发布 Suunto Race 3S 智能运动手表，采用钛金属表圈与蓝宝石玻璃表镜，国行售价 3999 元。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软宣布将虚拟化组件 App-V Server 的支持期限延长至 2029 年 10 月 9 日，但后续不再开发新功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;国家网信办启动未成年人用户数量巨大等网络平台服务提供者认定工作，压实平台主体责任并明确了认定标准。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;其他消息方面，Apple 宣布将于北京时间 10 月 29 日凌晨举办本月第二场新品发布活动，少数派也推出了多项近期动态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 第二外国语日语学院 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;关于2026年7月日本语能力测试 成绩证书领取通知（2026年10月20日更新）&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 2026年JLPT成绩证书领取通知&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文发布了关于领取2026年7月5日及之前日本语能力测试成绩证书的通知。详细规定了分阶段的领取时间、具体的领取地点（人文楼228办公室），并提醒考生仔细阅读注意事项按时前往。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - October 19, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
