@@ -4,8 +4,255 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-10-20T23:09:39.273Z</updated>
+  <updated>2026-10-21T23:03:56.967Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - October 21, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-10-21</id>
+    <updated>2026-10-21T23:03:56.967Z</updated>
+    <published>2026-10-21T23:03:56.967Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>15 articles from 10 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - October 21, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;322.1917808219178&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    80.5%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;294&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;71&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;42&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████████████░░░░░░ 80.5%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;15&lt;/strong&gt; articles from &lt;strong&gt;10&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22809&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Wednesday session&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录特定时间的发布信息与互动。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了2026年10月21日星期三晚上8点35分的发布信息，包含地理坐标定位、多平台同步社交网络信息以及对读者回复的链接征集互动。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22808&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Patched my PHP within minutes of the update being released; super-smooth with no problems.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录了顺利完成PHP更新的个人日志。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者记录了在2026年10月21日快速完成PHP更新的经历，过程非常顺利且没有遇到任何问题。文章采用了简短的个人日志风格，记录了发布时间、地理坐标及跨平台分享信息，并展示了来自多位知名人士的点赞互动与回应机制。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/css-class-selector/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;CSS Class Selector: Single, Multiple and Combined Classes&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 全面解析CSS类选择器的基础用法与组合技巧。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文全面介绍了CSS类选择器的基础概念、组合方式、命名规则以及JavaScript交互操作。文章重点剖析了空格、无空格和逗号在选择器组合中的关键区别，对比了类与ID选择器的优劣，并给出了实用的命名建议和JS操作指南。作者风格清晰实用，适合前端开发人员巩固CSS核心基础。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了CSS类选择器的基础知识，类选择器以点号开头，是CSS中最常用的样式工具。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;单个HTML元素可以应用多个类名，通过空格分隔来实现样式的组合与复用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;组合类选择器时，空格、无空格和逗号代表不同的选择含义：无空格表示同时具备，空格表示后代，逗号表示选择器列表。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细讲解了多类组合（.a.b）、后代选择器（.a .b）以及逗号选择器（.a, .b）的具体应用场景。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨了标签与类名结合（如p.intro）的用法，指出其会提高特异性并降低复用性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对比了CSS类（Class）与ID选择器的区别，建议优先使用类来进行样式设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结了类名命名规则，包括区分大小写、命名应基于用途而非外观，以及避免以数字开头。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了如何使用JavaScript的classList属性来动态添加、移除、切换和检查类名。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过常见问题解答（FAQ）进一步澄清了多类添加、选择、优先级以及类名空格的混淆点。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/fragments/2026-10-21.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fragments: October 21&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 探讨AI内容信任危机、多样性活动取消及AI辅助调试新方法。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了Martin Fowler对近期技术与行业现象的几点思考。首先，他探讨了过度使用AI生成内容导致的信任危机，并附带提及了Grace Hopper Celebration会议取消对性别多样性的负面影响。随后，文章重点推荐了Cindy Sridharan关于在无法完全理解代码时利用AI进行高效调试的深度文章，阐述了AI代理与人类在数据处理和问题解决上的差异，强调工程师应专注于构建验证循环与控制机制。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Martin Fowler探讨了在人类交流中使用AI引发的信任危机，指出若内容带有明显的LLM风格，读者往往会直接失去兴趣，尽管这也带来了一些关于包容性和特殊辅助场景的思考。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章对Grace Hopper Celebration因资金问题而取消表示遗憾，认为这对软件行业中性别多样性的推动造成了挫折。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Fowler高度推荐了Cindy Sridharan关于在不理解代码时如何有效调试的长文，强调了AI代理与人类思维模式的不同。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Sridharan提出代理不应首先阅读代码，而应从收集原始数据和事实证据开始，通过三步法来进行高效的bug诊断。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章指出人类工程师在agent-native世界中的核心价值在于设计验证循环、提供控制机制以及对假设进行验证。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Technium &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kk.org/thetechnium/most-improbable-agent-of-you/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Most Improbable Agent of You&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 未来AI将走向去中心化，每个人都将拥有专属的个性化AI。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;文章探讨了AI从当前的大规模集中化走向未来个人去中心化的趋势。作者认为，随着计算成本的下降和效率的提升，功能强大的AI最终将能够在个人设备上运行，摆脱科技巨头的垄断。这种转变不仅能解决隐私和控制权问题，更重要的是能让每个人拥有专属的、反映自身个性的exoself，从而协助人们实现独一无二的人生追求。文章风格具有前瞻性和哲学思考色彩，作者主张技术应当服务于人的独特性。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;当前AI因依赖scaling law而极度集中在大企业手中，但人类生物智能的去中心化证明了其可行性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;随着计算效率提升和Moore&amp;#039;s Law的发展，未来几年内先进AI模型将能在个人设备上运行并降低训练成本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;海量数据中心可能只是暂时的技术支架，个人终端设备未来足以满足99%的工作需求并消除巨头垄断引发的争议。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;去中心化的AI能将权力分散，创造出像个人一样独特且无需妥协的专属智能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;未来的技术将分担通用任务，使每个人能够训练专属的exoself，实现独特的人生价值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过训练独一无二、甚至带点个性的专属AI，人们可以与它共同创造和管理生活，拒绝千篇一律。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;主流AI不会消失且能处理日常任务，但服务于创造者的AI应当是个性化且独特的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Twokinds &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://twokinds.keenspot.com/comic/1303/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;[1303] Threatening Family&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 漫画网站导航与功能提示页面&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为一个漫画网站的页面导航与功能说明区域，提供了包括第一页、上一页、归档、下一页、最新页以及书签等导航链接，同时提示用户可以使用键盘方向键或J和K键进行页面浏览，并标注了相关标签如Trace、Brahn&amp;#039;s_daughter和Evil_Trace。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/10/21/mathematics-is-a-subject-for-the-young/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Mathematics is a subject for the young&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI正在深刻改变数学研究，数学界亟需保护数据隐私并重构学术评价体系。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了人工智能对数学研究领域的深远影响。作者从近期AI在数学上的突破出发，类比国际象棋的发展，指出AI虽然能解决复杂问题并带来“证明的丰裕”，但数学的核心仍在於人类的理解。同时，文章严厉批评了AI公司在数据收集和竞争方面的伦理问题，呼吁加强数据保护、推动开源基础设施建设，并改革现有的学术信用与评价体系，以确保下一代数学家能够在受保护的环境中蓬勃发展。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章指出数学正经历历史上最快的变革，青年学者将塑造其未来，而OpenAI的Navier-Stokes成果标志着数学迎来了Deep Blue与Kasparov时刻。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;类比国际象棋，AI虽然能解决公开问题，但数学的核心在于追求人类的理解而非单纯的结果产出。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI系统在数学与物理学的交叉领域展现出巨大潜力，有望帮助实现物理学中有效理论的严格证明。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI公司在数据收集和商业竞争中存在严重冲突，急需防范其对数学工作者未发表想法的滥用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;为保护学术界权益，需要推行集体企业协议、加强数据监管并投资开源权重基础设施。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;随着证明从稀缺走向丰富，数学界原有的信用和评价体系需要变革，更加关注exposition、协作与创新方法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管未来几年数学将面目全非，但它将在下一代学者的手中继续繁荣发展，前提是建立必要的保护与规范。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-10-21T05:57Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-10-21T05:57Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 ACD项目旨在填补无障碍兼容性数据空白，亟需资金支持。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了Accessibility Compat Data (ACD)项目，指出当前平台缺乏类似Baseline或caniuse的无障碍兼容性数据工具。ACD项目旨在填补这一长期的行业空白，作者呼吁读者和科技巨头支持并资助该项目。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kamigame.jp/news/159231/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【神ゲー攻略】『.hack//Z.E.R.O.』はじめ”純度100％”で展開する30周年からの歩みとファンへの想い&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 サイバーコネクトツー30周年の歩みと新作『.hack//Z.E.R.O.』の裏側&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文は、設立30周年を迎えたサイバーコネクトツーの松山洋代表に対するTGS2026現地インタビュー記事です。30周年記念タイトル『.hack//Z.E.R.O.』実現の裏側や世界中の反響、自社パブリッシング展開への想いを語っています。また、320人規模に成長した現在も「少年漫画らしさ」を追求し続ける開発姿勢や、30年の感謝を伝えるために47都道府県を巡回する「サイバーコネクトツー展」の見どころについて詳しく紹介しています。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (13 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーの設立30周年を記念し、松山洋代表へのTGS2026現地インタビューを実施した。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新作『.hack//Z.E.R.O.』の反響や、自社パブリッシング、そしてファンへの感謝を語る。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;ファンが17年待ち望んだ『.hack//Z.E.R.O.』は、バンダイナムコエンターテインメントとの信頼関係により実現した。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーは30周年を迎えて進化し、今の技術力で世界中が夢中になる新しい『.hack』をお届けする。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;オリジナル作品の展開など事業の幅を広げ、両方の側面から世界中のファンに喜ばれるタイトルを目指す。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;320人規模に成長した現在も、創業時から変わらず「少年漫画を題材にしたゲーム開発」を大切にしている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;若いスタッフと一緒に作り上げた進化した「超アニメ表現」で、新しいワクワクをお見せする予定である。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;若い世代の感覚とベテランのノウハウを合わせた、両方を活かした正しいもの作りを行っている。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;「サイバーコネクトツー展」では、30年の歴史を彩る貴重な原画や絵コンテなどの資料を展示している。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;15年前の『Solatorobo それからCODAへ』の貴重なゲーム企画書を来場者が手に取って見ることができる。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2002年の『.hack』開発資料も展示されており、当時の貴重な制作の裏側をうかがい知ることができる。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;名セリフを集めたメインパネルは社内で話し合いながら選出し、何年経っても色褪せないアツい言葉が並ぶ。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;30年の感謝を形にするため、47都道府県での展覧会やファンミーティングを通じてユーザーに会いに行っている。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://manga.line.me/product/periodic?id=S133094&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;しごにんの侍 第五十六話「二郎長の唄」公開！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 未提供文章内容。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;请提供需要总结的文章内容。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 好色龍的網路生活觀察日誌 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://hornydragon.blogspot.com/feeds/7947675752596942479/comments/default&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;雜七雜八短篇漫畫翻譯2241&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 讀者針對部落格內容的留言與互動紀錄。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇部落格文章的評論區留言紀錄，包含讀者針對特定內容（如Fortnite dance及滑鼠惡搞程式）的簡短討論與回饋，反映了讀者的即時互動與聯想。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116820&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派Matrix社区周报：分享靠垫与路由器新玩意及长假装备热议。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派 Matrix 社区的周报内容，整合了社区作者分享的实用好物（如 MUJI 靠垫、中兴 Wi-Fi 7 路由器）、长假数码装备使用情况的一派热议，以及各类热门文章讨论。文章通过真实的用户体验和客观评价，展现了社区成员对数码产品与生活方式的深度思考，风格贴近生活且实用。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了少数派 Matrix 社区重启周报后的内容，包含作者分享的新玩意、一派热议以及社区摘要。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者 Cleo阿直 分享了 MUJI 柔软靠垫，称其触感极为舒适、包裹感强且百搭。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者 阿飞fay 分享了 ZTE中兴 Wi-Fi 7 路由器 BE7200Pro+，认为其网络稳定且性价比高，是摆脱断流的良品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;一派热议探讨了长假出门带了哪些“全程没掏出来”的数码装备，派友们纷纷分享了相机、笔记本和游戏机等设备的真实使用体验。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116445&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Vitals 是一款直观易用且支持 AI 协作的 macOS 系统监控应用。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了 macOS 系统监控应用 Vitals 的功能与特性。Vitals 相比自带的「活动监视器」更加直观易用，不仅能以 App 为单位整合资源消耗、追踪历史变化，还集成了 MCP 服务允许 AI 助手读取系统状态。文章详细阐述了其概览页面、指标详情、AI 集成、自定义外观及导出功能，最后总结了其适用人群与买断制价格信息。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vitals 是一款面向 macOS 的系统监控应用，能够实时监测硬件指标，并将应用资源占用等信息整合，提供多种查看方式及 AI 分析支持。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;打开 Vitals 的独立窗口可以看到「概览」页，汇总了六项主要硬件指标，并通过数字和图表直观展示实时变化和负载情况。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;「指标详情」页面为各项硬件及开发项目设计了独立页面，提供实时状态、历史曲线及高资源占用 App 等详细信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vitals 将 App 作为资源统计的主要单位，将进程归并到所属 App 下，并结合历史记录和资源提醒解决用户痛点。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vitals 提供 MCP 服务器，让支持 MCP 的 AI 助手读取系统状态，用户可以直接用自然语言向 AI 询问 Mac 运行情况。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vitals 提供简约且可自定义的窗口界面，支持更换配色、字体和布局密度等选项，满足不同视觉偏好。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;应用支持将监控结果导出为图片或 CSV 格式的历史记录，方便用户在电子表格等工具中继续分析。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vitals 支持窗口常驻置顶，并在菜单栏提供轻量化监控窗口及高负载红色高亮提醒功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Vitals 整合了系统状态、App 资源消耗、历史记录和开发环境管理，采用一次性买断模式，适合需要直观分析和 AI 协作的用户。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/115107&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 回溯世界首台UMPC三星Q1，探讨其如何模糊电脑与平板的界限。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以怀旧手记的形式，详细评测了世界首台UMPC设备三星Q1。作者回顾了平板电脑与UMPC的发展历史，梳理了三星Q1的各代型号配置，并重点展示了三星Q1F的外观设计、系统降级过程以及实际使用体验。文章语言细腻，兼具历史厚重感与数码极客的探索精神，最终得出结论：三星Q1在20年前就展现了电脑与平板形态自由切换的可能，为后世的移动设备提供了宝贵的探索经验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章追溯了平板电脑概念的历史，从早期的Dynabook和GRiDPad到微软的Tablet PC与Origami计划，引出本文主角——世界首台UMPC设备三星Q1。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了三星Q1各子型号的硬件配置与演变，重点说明了作者入手的三星Q1F型号及其特殊定位。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;分析了三星Q1的外观设计，包括7英寸电阻屏、摇杆、快捷键及机身自带支架等超前设计，兼顾了无键盘与易上手。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了该机型的真实配置，指出预装的Windows Vista系统在该配置下运行体验较为糟糕，开机缓慢。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;讲述了作者通过网页档案馆寻找原版Windows XP Tablet PC Edition 2005镜像并成功为Q1降级的全过程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;分享了降级后的实际体验，包括XP Tablet PC Edition对触控的适配，以及运行Office、浏览器和游戏时的现实局限性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;简要提及机器的内部散热风扇采用非无风扇设计，且内存可升级，具有一定的后期扩展性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过三星Q1配备外接键盘及后续迭代型号加回实体全键盘的趣闻，探讨了当年厂商在无键盘形态上的摇摆与探索。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结认为，尽管当年的UMPC未成主流，但三星Q1作为20年前的产物，已经模糊了电脑与平板的界限，展现了个人电脑形态的无限可能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116887&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 汇总DeepSeek遭美停用、理想发布三电体系及OpenAI新功能等科技资讯。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了多项科技与汽车领域的最新动态。主要内容包括美国政府指示机构停用DeepSeek引发的中美博弈，理想汽车发布自研“连山”三电体系，工信部就自动泊车新国标征求意见，万事达卡Apple Pay新增国内合作银行，引望与宁德时代合作智能换电，英国CMA要求苹果开放NFC支付，以及OpenAI推出ChatGPT Slides和锁定聊天功能。文章以资讯速递的形式，客观报道了行业政策、企业新品发布及技术更新。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;美国政府指示联邦民事机构停用DeepSeek及相关产品，中方对此表示强烈不满与坚决反对。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;理想汽车发布自研三电体系“连山”，涵盖电池、电驱及超充网络，并推出电池保障计划。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工信部就自动泊车等五项强制性国家标准征求意见，对组合泊车和自动泊车功能分级规范。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;万事达卡Apple Pay新增交通银行、中国邮政储蓄银行和兴业银行三家合作银行。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;引望与宁德时代、时代电服签署协议，在换电电池和换电网络方面展开智能化补能合作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;英国CMA要求苹果开放iPhone NFC支付并大幅降低相关费用，遭到苹果声明回应。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI上线ChatGPT Slides演示文稿生成功能以及支持PIN码与生物识别的锁定聊天功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - October 20, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1898,149 +2145,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;针对跑后懒得拉伸的问题，建议将拉伸动作融到日常生活或睡眠准备中，并介绍了自我按摩放松的技巧。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;指出恢复不仅限于拉伸，还包括运动后的逐渐冷身、合理的营养补充以及充足且高质量的睡眠。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;总结强调跑后恢复决定了身体状态，训练的进步是在恢复中完成的，同时顺带提及了减少久坐的重要性。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - October 10, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-10-10</id>
-    <updated>2026-10-10T23:18:13.276Z</updated>
-    <published>2026-10-10T23:18:13.276Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>6 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - October 10, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;310.13698630136986&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    77.5%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;283&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;82&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;40&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████████████░░░░░░░ 77.5%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;6&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22795&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Going to Florida. brb&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 adactio发布前往Florida的状态更新。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者adactio于2026年10月10日发布的一条简短状态更新，说明其正前往 Florida，并附带了坐标信息以及 Mastodon 和 Bluesky 等社交媒体链接。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/cannot-use-import-statement-outside-a-module/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Fix “Cannot use import statement outside a module” in JavaScript&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Fix the &amp;quot;Cannot use import statement outside a module&amp;quot; error by configuring ES module support in Node.js, TypeScript, and testing tools.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The &amp;quot;Cannot use import statement outside a module&amp;quot; error occurs when executing ES module (ESM) syntax within classic script or CommonJS contexts, requiring explicit runtime configuration such as adding `type=&amp;quot;module&amp;quot;` to browser `&amp;lt;script&amp;gt;` tags or Node.js `package.json` files. Transitioning to native ESM removes traditional CommonJS globals like `__dirname` (replacing them with `import.meta.dirname`), mandates explicit file extensions on relative imports, and requires import attributes for non-JavaScript files like JSON. For TypeScript projects, execution issues can be resolved by using `tsx` instead of `ts-node` or configuring `tsconfig.json` with `&amp;quot;module&amp;quot;: &amp;quot;NodeNext&amp;quot;`. Finally, testing environments impacted by this error can be fixed by adjusting Jest&amp;#039;s Babel transforms and `transformIgnorePatterns`, or by migrating to Vitest for out-of-the-box ESM support.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Understanding the Error:&lt;/strong&gt; The error occurs when JavaScript runs as a classic browser script or CommonJS file, neither of which supports native import statements. Resolving it requires explicitly instructing the runtime environment to parse the file as an ES module.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Fixing Browser Scripts:&lt;/strong&gt; Add type=&amp;quot;module&amp;quot; to script tags to enable ES module syntax in the browser. Be aware that browser modules defer automatically, block file:// protocol access due to CORS, and require explicit file extensions.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Node.js Configuration Options:&lt;/strong&gt; Enable ES modules in Node.js by adding &amp;quot;type&amp;quot;: &amp;quot;module&amp;quot; to package.json or renaming files to the .mjs extension. Alternatively, stay in CommonJS by using require() or dynamic import() functions.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;ES Module Quirks:&lt;/strong&gt; Switching to ES modules removes CommonJS globals like require and __dirname, requiring modern replacements like import.meta.dirname. Relative imports also require explicit file extensions, and JSON imports require import attributes.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;TypeScript Module Setup:&lt;/strong&gt; Use tsx instead of ts-node to execute TypeScript files directly without module configuration issues. When building with tsc, set module to NodeNext in tsconfig.json to match package.json settings.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Jest and Vitest Solutions:&lt;/strong&gt; Fix Jest CommonJS defaults by transforming code with Babel or adjusting transformIgnorePatterns for ESM node_modules. Switch to Vitest for out-of-the-box ES module support with minimal configuration.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Some quick thoughts on Unit Testing ActivityPub&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享了为ActivityBot编写测试面临的挑战并公开发布测试资源。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者分享了为 ActivityBot 框架编写测试时的经验与挑战。作者以幽默的口吻剖析了四类测试难题：基础文本验证、消息验证、HTTP Signatures 验证以及跨服务器通信自动化。针对 ActivityPub 规范分散的问题，作者将自己的测试资源公开共享以助力社区。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者坦言自己过去并不偏好测试驱动开发，并简述了单元测试的基本逻辑。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在为ActivityBot项目编写测试框架，并梳理了编写四类测试时遇到的难题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一类难题是基础文本验证，由于缺乏统一规范，ActivityPub用户名等格式校验较难实施。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二类难题是消息验证，WebFinger响应及各类消息结构标准分散，难以准确验证。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三类难题是签名验证，涉及HTTP Signatures的收集、重放校验及正确生成。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第四类难题是跨服务器通信，自动接收外部服务器消息及联调测试面临挑战。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将所有测试用例、消息及签名公开共享，希望能为类似项目的开发者提供帮助。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/10/10/math-2-0/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Math 2.0&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者分享“Math 2.0”讲座幻灯片并探讨AI与数学未来。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在文中分享了其在Caltech举办的“Math 2.0”公开讲座幻灯片。讲座梳理了从传统“Math 1.0”到当前AI自动化求解难题的现状，并提出了“Math 2.0”愿景，即利用AI工具赋能数学社区并促进数学在现实中的应用与协调。内容体现了作者对AI技术与数学学科融合发展的前瞻性洞察。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-10-10T10:30Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-10-10T10:30Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Deno因过度兼容Node及风投误导走向衰落，最终被Cloudflare收购。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文分析了Deno停止开发并被Cloudflare收购的深层原因。作者指出，在风险资本的压力下，Deno过度追求与Node.js的兼容性，导致自身失去了创新特色和迁移价值。最终Cloudflare以低价收购Deno团队以吸收其celld项目，宣告了这一曾经热门的开源项目在商业化困局中的落幕。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Deno官方宣布将停止运行时的开发，仅在未来一年内提供基础维护与安全更新，团队已被Cloudflare收购。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章回顾了Deno在团队裁员后的衰落轨迹，指出其方向偏离并最终被Cloudflare接管。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Ryan Dahl与Bert将领导新项目，把celld的代码和理念合并回Cloudflare的workerd自托管方案中。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者指出Cloudflare通过收购消除了开源竞争，其核心动机是为了获取Deno的celld项目。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Ryan Dahl在Hacker News上承认，Deno陷入了过度兼容Node.js的陷阱，失去了重新实现Node的意义。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者强调多年来自己一直持相同观点，认为Node开发者没有理由为了继续使用Node API而迁移到Deno。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为风险资本的干预导致了错误的商业决策并扼杀了创新，最终Deno以折价被资本收购落幕。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/115237&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1｜专注星空：让「少刷手机」这件事更愉悦一点&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Focus Starry Sky promotes mindful phone habits by combining intentional app usage limits with gamified constellation-building rewards.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;To overcome the rigidity of traditional app blockers, the &amp;quot;Focus Starry Sky&amp;quot; app requires users to set intentional usage durations immediately before launching restricted applications, automatically locking them once the specified time expires. To curb impulse browsing, it gamifies resistance by awarding collectible stars—which build a map of 88 real-world constellations—to users who refrain from opening apps, alongside a built-in Pomodoro timer for focused work. Additional features designed for intentional mobile habits include direct search to bypass recommendation feeds, scheduled late-night blocks, productive app reminders, and a Trends page for overall usage analytics. Currently accessible via TestFlight for public beta testing, the app offers a free lifetime membership to early adopters who test it for three days and submit valid feedback.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Addressing Smartphone Addiction:&lt;/strong&gt; Traditional app blockers rely on rigid daily limits that lack flexibility for varying daily needs. The developer created a new solution to curb mindless scrolling by forcing users to decide their usage duration right before opening an app.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pre-Usage Time Limits:&lt;/strong&gt; The app &amp;#039;Focus Starry Sky&amp;#039; prompts users to set a specific duration before launching restricted apps. Once the specified time elapses, the app automatically locks to prevent endless browsing.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Gamified Star Rewards:&lt;/strong&gt; To interrupt impulse app openings, users who choose not to open an app receive a collectible star. These stars build a personal constellation map based on 88 real-world astronomical constellations.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mindful Usage Features:&lt;/strong&gt; The app includes features like direct search to bypass recommendation feeds, reminders for productive apps, and scheduled late-night blocks. These tools actively encourage intentional mobile phone habits.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Pomodoro and Analytics:&lt;/strong&gt; A built-in Pomodoro timer rewards focused work with animated stars while blocking distractions. A detailed Trends page lets users analyze their overall smartphone usage habits over time.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Beta Testing Rewards:&lt;/strong&gt; The app is currently available via TestFlight for public beta testing. Early adopters who test the app for three days and submit valid feedback can earn a free lifetime membership.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
