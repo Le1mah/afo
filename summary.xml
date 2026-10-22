@@ -4,8 +4,215 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-10-21T23:03:56.967Z</updated>
+  <updated>2026-10-22T22:57:54.081Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - October 22, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-10-22</id>
+    <updated>2026-10-22T22:57:54.081Z</updated>
+    <published>2026-10-22T22:57:54.081Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>9 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - October 22, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;323.28767123287673&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    80.8%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;295&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;70&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;42&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████████████░░░░░░ 80.8%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;9&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-10-21/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.10.21&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录了日常生活、跑山聚会及游戏开发的心得。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者近期的日常生活与游戏开发心得。通过观看老电影《American Psycho》引发对时间流逝的感慨，接着描述了周末与朋友跑山聚会、为 Porsche 跑车进行万圣节装扮的趣事，最后分享了独立游戏项目 Epoch 在 Playdate 平台上的优化挑战及跨平台移植的新设想。文章风格轻松日常，展现了作者对生活和技术的双重热情。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者下班后与朋友观看老电影《American Psycho》重映，感慨时间流逝以及四分之一个世纪前的产物至今仍与日常生活紧密相关。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;周末作者与朋友们跑山聚会，为各自的 Porsche 跑车进行万圣节主题装扮并拍照留念，度过了有趣的一天。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了游戏开发项目 Epoch 在 Playdate 平台上的进展与优化难题，并萌生了将其移植到 iOS 和 macOS 平台的奇妙想法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/text-overflow-ellipsis/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Truncate Text in CSS: text-overflow: ellipsis and line-clamp&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文详解 CSS 中文本单行及多行截断的实现方法与常见布局失效方案。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细介绍了在 CSS 中使用 text-overflow 和 line-clamp 属性来实现单行及多行文本截断的方法。文章作者采用实用、条理清晰的技术指南风格，不仅讲解了基础属性的组合使用，还深入剖析了在 flexbox、CSS Grid、表格和内联元素中常见失效场景的解决方案，并补充了悬停显示全文和交互切换等高级技巧。核心结论是：通过正确配置 CSS 属性与布局约束，开发者可以优雅地解决各种复杂的文本溢出截断问题。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了使用 CSS 实现单行文本溢出显示省略号的方法，核心需结合 white-space、overflow 和 text-overflow 三个属性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过使用 -webkit-line-clamp 属性配合弹性盒子模型，可以轻松实现多行文本截断并在末尾显示省略号。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了包含 HTML 和 CSS 的完整演示示例，展示了不同截断场景下的布局应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对在真实布局中省略号不显示的问题，分别给出了在 flexbox、CSS Grid、表格单元格和内联元素中的解决方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;指出了使用 line-clamp 时内边距可能导致下一行文字露出的问题及正确的内边距处理方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了悬停显示完整文本和“阅读更多”折叠切换等更多实用的文本截断技巧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过常见问题解答（FAQ）汇总了关于文本截断的失效原因、多行截断、中间截断及 SEO 影响等疑难解答。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Gadget Review: Mokin 17 Port USB-C Tower ★★☆☆☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Mokin MODK2403扩展坞性能强劲但存在安全隐患。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文评测了Mokin推出的MODK2403 USB-C扩展坞。作者详细介绍了其丰富的接口配置、性能表现以及独特的LCD屏幕功能。虽然该扩展坞在硬件性能、端口数量和Linux兼容性上表现优异，但作者对其内置WiFi的安全漏洞、弱默认密码、神秘的HID和JTAG接口以及缺乏透明的隐私政策表示了严重担忧。最终，该产品因安全隐患获得了令人失望的评价。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Mokin推出的MODK2403是一款功能强大的USB-C扩展坞，配备了丰富的接口和一个用于显示天气等信息的LCD屏幕。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该扩展坞底部设计了硅胶吸盘，可以稳固地放置在平面上，虽然宣传为17个端口，但DisplayPort与HDMI端口共享。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;集成的黑白屏幕能够显示连接状态、分辨率和功率，连接WiFi后还可以显示天气，但缺乏定制选项和隐私政策。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在性能测试中，该扩展坞在Linux笔记本上运行完美，千兆以太网速度达到了预期，但USB-C传输速度略显平庸。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;音频方面，AB13X USB Audio表现正常，模拟输出与S/PDIF之间没有明显音质差异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对内置WiFi的安全性表示担忧，因为其具有弱默认密码且缺乏充分的隐私保护说明。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;设备上暴露的Espressif USB JTAG/serial调试单元和神秘的Realtek HID设备引发了对安全性和未来固件更新用途的疑问。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;关于隐私问题，Mokin表示用户和位置信息仅存储在本地且通过Google服务提供天气，但作者对此解释并不完全放心。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;拆解发现底部吸盘下有四个螺丝，内部包含三个电路板，但前部塑料件固定牢固难以完整拆卸。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管这款扩展坞在端口和性能上无可挑剔且设计优秀，但由于WiFi安全隐患和隐私政策的缺失，最终作者给出了令人失望的评分。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/10/22/simple-and-critical-zeros-of-the-riemann-zeta-function/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Simple and critical zeros of the Riemann zeta-function&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 本文总结了Riemann Hypothesis临界零点比例研究的历史进展与AI辅助的最新无条件证明突破。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由Caroline Turnage-Butterbaugh撰写，探讨了Riemann Hypothesis的支持证据，特别是关于临界线上非平凡零点比例的研究进展。文章回顾了从传统解析数论方法（如Selberg、Levinson、Montgomery的工作）到近期结合AI（如Anthropic的Claude模型）以及Lamzouri的无条件证明等重大突破。作者行文严谨且具有数学专业性，全面梳理了数学界在解决该问题过程中的历史演进与最新洞察。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章探讨了支持Riemann Hypothesis的证据，重点关注临界线上非平凡零点比例的下界，并感谢Terry Tao的邀请。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;回顾了Riemann Hypothesis的基本定义及历史背景，包括Prime Number Theorem和相关渐近公式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结了Selberg、Levinson、Conrey等人在无条件证明临界零点比例方面的重要历史成果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了Montgomery在1973年关于零点对相关性的开创性工作及其在假设RH下证明简单零点比例的方法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨了近期BGST-B团队在弱于RH假设下通过对相关性方法研究临界零点的新进展。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;阐述了Anthropic利用Claude模型及Bombieri论文无条件证明特定比例的突破，以及Lamzouri提出的更简洁证明方法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在结论中指出，尽管取得了重大突破且将比例提升，但即使达到100%也无法完全解决Riemann Hypothesis。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21862&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【重要】セキュリティ対策に伴うサイト一時停止のお知らせ&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 因安全对策相关下载网站临时关闭的通知。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一则关于网站因安全性对策而临时关闭的官方通知。文章风格严谨、正式，主要告知用户『戦場のフーガ』系列相关数字内容的下载站点暫停访问，并承诺在确认安全后尽快恢复。结论是提醒用户耐心等待并寻求谅解。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (2 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;官方发布重要通知，因进行セキュリティ対策，『戦場のフーガ』『戦場のフーガ2』『戦場のフーガ3』的デラックスエディションミニサントラ・デジタルアートブック的下载网站暂时无法访问。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;官方表示将在确认安全后恢复服务，实施时间从2026年10月22日开始且结束时间未定，同时请求用户的理解与配合。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/115437&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 用Claude Code将Muse装入ESP-Mosaico，验证硬件Vibe Coding。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者利用AI编程工具Claude Code将Meta的AI助手Muse装入乐鑫ESP-Mosaico模块化开发板的完整过程。作者通过提出需求并在硬件上验证，成功实现了贪吃蛇游戏、中文对话、拍照、语音合成及人体感应等功能。文章探讨了Vibe Coding在硬件开发中的成长价值，反映了物理世界反哺数字世界的趋势，展示了AI Agent与嵌入式硬件结合的巨大潜力。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了作者使用Anthropic的Claude Code将Muse个人AI助手装入乐鑫的ESP-Mosaico硬件开发板的过程，旨在证明Vibe Coding在硬件领域的快速成长，并反哺数字世界。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细记录了第一步通过提示词运行贪吃蛇游戏的过程，以及开发板在Vibe Mode下的环境搭建和测试表现，展现了AI在硬件开发中的初步应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了如何将Meta开源的Muse设备固件移植到开发板上，克服了工具版本不一致、刷机冲突和网络连接等问题，成功实现了应用部署。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过增加中文字体、摄像头拍照、离线及云端语音合成以及人体感应打招呼等功能，作者让Muse设备变得更加实用，同时优化了内存分配。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章探讨了Muse与开发板之间的指令交互机制，通过上报能力清单扩展了板子的功能，进一步展示了AI Agent在硬件设备上的协同潜力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116923&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple将于10月底推出OLED触屏MacBook与新款iPad mini等新品。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了 Apple 2026 年 10 月底新品发布前的相关爆料与资讯。文章主要介绍了即将亮相的搭载 OLED 触控屏幕的高端 MacBook（MacBook Ultra）、屏幕与芯片大幅升级的新款 iPad mini，以及搭载 M6 芯片的新款入门款 MacBook Pro 和 iMac。作者通过梳理 Mark Gurman 等多方供应链与媒体消息，详细分析了这些新品的配置亮点、交互设计改进及潜在售价，展现了 Apple 在硬件创新与交互融合上的最新探索。文章语言专业、信息密集，为读者提供了全面的新品前瞻指南。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple 发出主题为「高端局，高手来」的活动邀请函，计划于 10 月 28 日在洛杉矶举行新品体验活动，预计通过官网新闻稿公布新品。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;传闻中的高端 MacBook（可能命名为 MacBook Ultra）将成为本次活动的主角，配备支持触控的 OLED 屏幕及优化的 macOS 交互界面。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新型 MacBook Ultra 在便携性上有所改善，内部零件重新布局以实现明显减重，并搭载 M5 Pro 或 M5 Max 芯片。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新款 iPad mini 将迎来重大更新，包括升级至 8.4 英寸 OLED 屏幕、搭载 A20 Pro 芯片以及调整前置摄像头和扬声器设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;除 MacBook Ultra 和 iPad mini 外，Apple 还计划推出搭载 M6 芯片的入门款 14 英寸 MacBook Pro 和 iMac，预计于 11 月 6 日开售。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/115090&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录了在海外规范治疗ADHD的经历与药物带来的奇妙体验。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者在海外确诊并治疗ADHD的完整心路历程。文章对比了国内与海外在获取ADHD药物时的不同流程体验，详细描述了海外学校医疗中心从心理评估、身体检查、签署协议到逐步调整药物剂量的科学规范过程。作者通过亲身服用Vyvanse（唯稳思），细腻地剖析了药物对专注力、情绪管理、思维模式以及创造力的双面影响。文章语言风格真实生动，兼具理性的医学科普与感性的主观体验，最终表达了对构建完善、包容且规范的医疗支持系统的赞赏与思考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者曾因繁琐的管制药品流程和医生的冷漠放弃治疗ADHD，但在海外读研期间决定再次求诊学校的Wellbeing Center。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;海外学校的心理医生提供了极其包容和友好的接待，详细评估了作者的症状、家族病史及生活习惯，并给出了全方位的学校支持资源。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;经过血液检查和心电图等一系列严谨的身体评估，医生确认作者身体健康并给出了丰富的药物选择，最终推荐从低剂量的Vyvanse开始尝试。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者签署了严格的用药协议后顺利在药局取药，并在服用10mg Vyvanse后体验到了拖延改善、思绪清晰但药效较短的变化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在第二次复诊时，医生根据作者的反馈和身体状况，将Vyvanse的剂量安全地调整为了每天20mg。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;20mg的剂量带来了更强的专注力、情绪平稳以及对白日梦能力的暂时丧失，作者对此进行了复杂的自我审视与体验记录。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对比了不同ADHD药物的成分与原理，探讨了安非他命类药物的安全性，并强调了在专业医师监督下规范用药的重要性。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;学校通过尿检等常规检查防范药物滥用风险，同时构建了完善的心理支持和卫教系统，稳稳地接住了有需要的患者。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116953&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 荣耀发布WIN2新品，Google开源TorchTPU，沙丘3定档。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期派早报汇总了多项科技与数码领域的新动态。荣耀发布了WIN2系列游戏手机及多款生态新品；Google开源TorchTPU框架以推动AI应用在TPU上的运行；OpenBSD 8.0正式发布带来多项系统更新；海盗船推出搭载专利校准技术的SABRE v3 PRO鼠标；腾讯宣布元宝搜索对外开放；AMD的FSR 4.1将登陆XBOX主机；威联通推出多款USB4存储扩展设备；科幻电影《沙丘3》大陆定档12月31日；同时介绍了少数派的近期社区动态。整体内容紧凑全面，资讯丰富。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;荣耀在杭州举办新品发布会，推出了WIN2系列三款游戏手机、WIN平板、耳机及两款游戏手柄，覆盖不同配置与价格区间。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google宣布适配TPU的原生PyTorch框架TorchTPU已在GitHub开源，并推出专用工具与升级LiteRT以更好地支持AI应用迁移。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;开源类UNIX系统OpenBSD 8.0正式发布，在虚拟化系统、图形驱动、硬件兼容性及内存管理等方面进行了多项更新升级。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;海盗船推出SABRE v3 PRO PureVector鼠标系列，搭载先进硬件并引入专利独家校准技术以提升用户的瞄准速度与准确度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;腾讯云宣布元宝搜索正式通过腾讯云对外开放，构建了千亿级索引规模并接入多个垂直行业的信源提供高质量搜索服务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AMD宣布FSR 4.1技术即将登陆XBOX Series X|S游戏主机，同时在SDK 2.4中提供对Vulkan图形API的支持与帧率优化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;威联通宣布推出两款USB4大容量JBOD存储扩展设备以及一款可为NAS设备提供USB4接口的PCIe AIC扩展卡。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;科幻电影《沙丘3》确认内地定档12月31日上映，作为该系列三部曲最终篇集结了豪华演员阵容与制作班底。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派近期动态带来了海口创造之约活动、共创配件上新以及多篇社区精选文章和怀旧手记推荐。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - October 21, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2019,132 +2226,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;微软宣布自 2027 年起大规模部署自研 Azure Maia AI 系统，其中 Maia 300 将大幅提升 token 处理能力。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;LineageOS 团队发布了基于 Android 17 的 LineageOS 24.0 正式版，并同步推出网页端刷机工具。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Meta 推出了面向智能体任务的 Muse Wonder 和 Muse Wonder Full 模型，强化了复杂任务处理能力。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - October 11, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-10-11</id>
-    <updated>2026-10-11T23:24:07.480Z</updated>
-    <published>2026-10-11T23:24:07.480Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>5 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - October 11, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;311.2328767123288&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    77.8%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;284&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;81&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;40&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████████████░░░░░░░ 77.8%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;5&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/seo-checklist-for-developers/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;SEO Checklist for Developers: What Actually Matters&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 面向开发者的实用SEO检查清单，聚焦关键技术与内容优化。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一份面向开发者的SEO实用检查清单，由Marko Denic撰写。文章基于谷歌的官方文档，去除了行业迷信，专注于开发者能够控制的技术和内容要素。核心内容涵盖了确保页面可抓取、能够被索引、编写高质量内容、帮助搜索引擎理解、优化性能与稳定性、赢得自然链接以及正确测量数据等方面。作者文风直接、实用，旨在帮助开发者避开无效的SEO技巧，专注于真正重要的事情。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;大多数SEO建议是为营销人员准备的，而作为开发者，你控制着决定谷歌能否使用你页面的关键技术环节。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细列出了页面从服务器到被点击的各阶段流程，强调必须按顺序解决抓取和索引问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一步是确保每个页面可抓取，通过使用真实链接、保持XML sitemap干净以及正确配置robots.txt来实现。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二步是确保谷歌能够索引页面，通过返回正确的HTTP状态码、使用规范链接和适当的noindex标签。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三步是编写值得排名的页面，通过满足单一搜索意图并提供第一手经验和独特价值来赢得排名。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第四步是帮助谷歌理解页面并吸引搜索者点击，优化标题、描述、H标签、内部链接和结构化数据。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第五步是保持页面快速和稳定，重点关注LCP、INP和CLS等Core Web Vitals指标以及移动端优先。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第六步是通过提供有用的工具、教程等赢得自然链接，而不是依靠购买链接或垃圾SEO手段。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第七步是测量正确的数据，主要关注点击量，按年同比比较并对照谷歌的更新日期进行分析。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/open-link-in-new-tab/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How to Open a Link in a New Tab (HTML target=”_blank”)&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 HTML中通过target=_blank在新标签页打开链接&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了在HTML中如何使用target=&amp;quot;_blank&amp;quot;属性在新的浏览器标签页中打开链接，并探讨了相关安全性属性如rel=&amp;quot;noopener noreferrer&amp;quot;的重要性。文章还涉及了JavaScript实现方式、其他target属性值、批量处理外部链接以及何时适合使用新标签页的最佳实践。整体风格简洁实用，适合Web开发者参考。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;I paid people to try and follow my README&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 邀请真实用户测试并改进技术文档&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;开发者通常不擅长编写清晰的文档，而作者通过付费邀请真实用户进行远程测试，克服了自身对软件安装流程的盲目偏见。测试过程中，用户通过共享屏幕并大声说出操作感受，暴露了文档中的诸多盲点，如链接错误、术语晦涩及逻辑混乱等。作者根据反馈不断迭代优化 README，并强调与真人交流、倾听其情绪反应对于提升技术文档质量的重要性，这是 AI 无法替代的。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/2026/10/11/d-bus-hell/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;D-Bus Hell&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 博主幽默回应域名被误读，并探讨了名字与域名的由来。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文以幽默轻松的笔调回应了读者常将作者博客域名 dbushell.com 误读为“D-Bus Hell”的现象。作者通过考证域名注册历史，证明其早于 Linux 的 D-Bus 项目，随后深入探讨了自己姓氏的词源、家族历史以及域名选择背后的故事。文章展现了作者诙谐幽默、善于自嘲的写作风格，最终传达出对个人品牌与历史传承的接受与珍视。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者幽默地指出，许多读者常将他的博客域名 dbushell.com 误读为“D-Bus Hell”。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过查证 WHOIS 记录和维基百科，作者证明其域名注册时间早于 Linux 的 D-Bus 项目诞生，因此域名并非指代该技术。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者探讨了名字的词源与语言学中的“重新括号化”现象，认为名字可能源于“bushel”或约克郡的“Bossall”村庄。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过分析历史记录与姓氏分布，作者指出由于古代文盲率高和书写习惯，姓氏拼写往往存在诸多变体。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者反思了自己使用 dbushell.com 达半生之久的经历，虽然有时后悔没选更简单的域名，但最终决定保留它作为个人空间。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/115568&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科学跑后拉伸与全方位恢复指南&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由北京体育大学硕士阿帅撰写，主要探讨了跑步爱好者容易忽视的跑后拉伸与身体恢复问题。作者指出了跑后拉伸的常见误区，详细拆解了大腿前侧、臀部、小腿后侧及髂腰肌的正确拉伸方法，并强调了使用泡沫轴放松筋膜、保证充足拉伸时长的必要性。此外，文章还提供了将拉伸融入日常生活的实用技巧，并从冷身、营养补给和睡眠管理三个维度全面阐述了科学恢复的重要性。整体风格专业、细致且贴近跑者实际需求，旨在帮助读者告别跑后酸痛，实现健康跑步。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章指出很多人跑后会忽略拉伸或存在常见错误，并强调了正确拉伸大腿前侧、臀部、小腿后侧以及髂腰肌的重要性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细介绍了大腿前侧、臀部、小腿后侧和髂腰肌的正确拉伸动作要领与常见错误，并建议单次拉伸应持续30秒以上。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;强调除了肌肉拉伸外，还不能忽略包裹在肌肉外层的筋膜，建议每周用泡沫轴滚压全身筋膜来松解打结处。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了利用泡沫轴及垫上动作（如鸽子式）进行下肢筋膜放松与拉伸的具体方法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对跑后懒得拉伸的问题，建议将拉伸动作融到日常生活或睡眠准备中，并介绍了自我按摩放松的技巧。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;指出恢复不仅限于拉伸，还包括运动后的逐渐冷身、合理的营养补充以及充足且高质量的睡眠。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结强调跑后恢复决定了身体状态，训练的进步是在恢复中完成的，同时顺带提及了减少久坐的重要性。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
