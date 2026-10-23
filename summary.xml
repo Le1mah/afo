@@ -4,8 +4,223 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-10-22T22:57:54.081Z</updated>
+  <updated>2026-10-23T22:56:18.287Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - October 23, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-10-23</id>
+    <updated>2026-10-23T22:56:18.287Z</updated>
+    <published>2026-10-23T22:56:18.287Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>17 articles from 10 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - October 23, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;324.3835616438356&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    81.1%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;296&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;69&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;42&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████████████░░░░░░ 81.1%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;17&lt;/strong&gt; articles from &lt;strong&gt;10&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/journal/22813&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Pirate Queen by Ariel Lawhon&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《The Pirate Queen》因语言错误与考证粗糙遭读者愤怒弃书。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一篇针对Ariel Lawhon历史小说《The Pirate Queen》的尖锐书评。作者因书中对爱尔兰语的严重误用、缺乏常识的细节描写（如边走路边吹奏uilleann pipes）以及明显的编辑疏漏而选择弃书。文章批评该书缺乏起码的考证与严谨性，作者最终得出结论，认为这是一部粗制滥造的作品，并表达了对不尊重读者的失望。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对Ariel Lawhon所著的历史小说《The Pirate Queen》感到非常愤怒并最终弃书，尽管该书的题材和结构极具吸引力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中对爱尔兰语（Gaeilge）的错误使用让人出戏，尤其是将“tá”错误地当作“yes”来使用，且显然没有咨询过任何爱尔兰语母语者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;除了语言问题，书中还出现了角色边走路边吹奏uilleann pipes等违背常识的严重失误，暴露了极差的考证工作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中甚至出现了明显的文本冗余错误（如“No more distant flicker of lanterns in the distance”），且未被编辑发现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者通常会对未读完的书感到愧疚，但鉴于该书对读者的不尊重，作者认为这部作品非常粗制滥造，读者值得更好的作品。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22812&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Chuala mé an nuacht brónach go raibh Dónal Lunny imithe ar slí na fírinne. Laoch. Ar dheis Dé go raibh a anam.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 深切悼念音乐家Dónal Lunny逝世。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一则简短的悼词，表达了作者对爱尔兰音乐家Dónal Lunny逝世的悲痛与敬意，称赞他为英雄并为其祈祷。文章同时附带了社交媒体发布时间、地理坐标以及互动记录等信息，展现了典型的个人博客快讯风格。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.youtube.com/watch?v=62J3tbfpAEg&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;An Cábla agus an t-Amhrán - YouTube&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 YouTube平台官方链接与条款信息汇总&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文展示了YouTube平台的官方版权、联系方式、创作者服务、广告业务及开发者资源等链接信息，同时列出了服务条款、隐私政策与安全指南等法律与合规说明，最后附上了版权所有者信息与平台运行机制的简要提示。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22810&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Reading Palaces Of The Crow by Ray Nayler.&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者记录了阅读Ray Nayler作品的日志。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者于2026年10月23日上午10点36分在特定地理坐标下阅读Ray Nayler作品《Palaces Of The Crow》的阅读日志，并附带了相关书籍链接与回应征集信息。整体风格简短直观，体现了网络时代的碎片化阅读与互动记录方式。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Accordion Icons: Which Work Best?&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 折叠菜单应优先使用caret图标并避免分流菜单。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了网页设计中折叠菜单（accordion）图标的最佳实践，基于NN/g的研究分析了各种图标（如caret、arrow、plus/minus）对用户交互的影响。作者指出caret是展开折叠菜单的最安全选择，强调应避免使用会导致用户困惑的split menus，并建议通过下划线来明确区分链接。文章整体风格专业且实用，旨在帮助设计师提升UX和界面可用性。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-335/viewer?title_no=853933&amp;episode_no=350&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 335&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 DOGHAUS网络漫画页面与目录&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文主要展示了网络漫画平台WEBTOON上名为DOGHAUS的作品页面信息，包含了各话目录、订阅按钮、社交分享功能以及相关分类排名推荐。页面呈现了典型的自出版网络漫画界面结构，供读者浏览和互动。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/532&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 532: Pouring One Out for PHP&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 PHP曝出严重漏洞，开发人员正面临严峻的安全挑战与技术更新。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文主要报道了PHP因存在严重的php2shell漏洞而遭遇黑客攻击，分析了其成因及修复方法，并提及Node.js等技术栈也面临安全挑战。此外，文章还穿插了Sentry研讨会、Apify活动赞助、二叉树算法Bug解析以及开源社区的最新动态和工具发布。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/headless-wordpress/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Headless WordPress: What It Is, Pros and Cons, and How to Start&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 全面解析Headless WordPress的架构、优缺点与应用场景&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了Headless WordPress的概念、优缺点以及应用场景。文章阐述了如何通过WordPress REST API或WPGraphQL将WordPress作为后端，配合Next.js、Astro等前端框架构建现代网站。作者分析了Headless架构带来的前端自由度、高性能和安全性优势，同时也指出了失去传统插件生态、SEO配置复杂以及维护成本增加等挑战。整体行文逻辑清晰，适合开发者了解无头WordPress的实施方案与取舍。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;More phishing messages via Booking.com and Novotel&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记一次Booking.com预订后的钓鱼攻击及系统安全漏洞分析&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者在Booking.com预订酒店后遭遇精准钓鱼攻击的经历。通过对比两则WhatsApp钓鱼信息的技术特征与域名字段，作者排除了个人账号被黑的可能，认为漏洞出在酒店预订系统或平台的数据泄露与内部员工被收买导致的reservation hijacking。作者以客观且带有警示性的笔触剖析了这一普遍的安全隐患，并指出欧盟委员会已对Booking.com的数据安全与防钓鱼机制展开调查，呼吁用户保持警惕。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在Booking.com预订Novotel酒店几天后，通过WhatsApp收到了包含精确个人预订信息的钓鱼信息。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;分析两条风格略有不同的钓鱼信息发现，它们使用相同的措辞、在同一天注册了不同域名的网站，且网页源代码完全一致，暗示可能使用了现成的phishing kit。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者自身的Booking.com和邮箱账户安全防护严密，排除了个人账号泄露的可能性，问题更可能源于Booking.com、Novotel或其相关系统的泄露。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者致电酒店确认了预订并被提醒警惕诈骗，同时酒店迅速撇清关系，目前事件已向Accor和Booking.com举报。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;欧盟委员会近期正对Booking.com展开调查，重点审查其在防范钓鱼诈骗、数据共享以及消息服务设计方面的风险管理与安全保障措施。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/10/23/ias-applications-for-membership-in-the-school-of-mathematics/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;IAS applications for membership in the school of mathematics&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 IAS调整申请要求以缓解学者求职压力&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;IAS的会员计划开放了新一年的申请，并首次允许申请者仅基于已完成的研究提交重点突出的研究陈述，以缓解当前环境下的求职压力。作者预测其他学术部门和机构也会效仿这一做法，并呼吁读者分享其他数学职位的招聘信息。文章客观简练，反映了学术界对减轻求职者负担的关注与调整。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://note.com/cc2pr/n/nbc7395948183&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;トラブル対応は、トラブルが起きる前から始まっている&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 トラブルを未然に防ぐ開発支援の重要性&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了游戏制作公司CyberConnect2开发支援课在应对突发故障和日常支援时的理念。作者指出，所谓的“突然”故障往往源于平时被忽视的微小征兆，因此事前准备与把握影响范围至关重要。面对知识盲区时应理清事实并借助外部专家，同时故障解决后必须建立防止再次发生的机制。通过预留工作缓冲时间并将其投入到预防性改进中，才能为创作者创造平稳的日常工作环境。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツーの開発支援課マネージャーが、ゲーム制作における突発的なトラブル対応の裏側と、事前準備の重要性について語る。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;トラブルは突然起きるのではなく、小さな違和感や予兆の段階で見過ごされた結果であることが多い。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;大規模な対応や変更では、コストや納期だけでなく、影響範囲の把握と徹底した事前準備が明暗を分ける。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;前提知識が不足している突発トラブルに直面した際は、事実と推測を分け、AI活用や適切な専門家への相談が重要である。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;トラブルを直して終わりにするのではなく、再発防止の仕組み作りや自動化を行うことが開発支援の本質である。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;スケジュールにバッファを確保し、余った時間をトラブルを減らすための予防や改善に投資する必要がある。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;クリエイターがゲーム制作に没頭できる「何事もない日常」を守るため、裏側で先回りした仕組み作りを続けていく。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://game.kimetsu.com/hinokami2/news/?id=71507&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【宮崎・千葉・北海道】『鬼滅の刃 ヒノカミ血風譚2 Nintendo Switch™ 2 Edition + 「無限城編 第一章」キャラクターパス』イオンモール店舗にて店頭体験会の開催が決定！&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 鬼滅の刃 ヒノカミ血風譚2将举办线下试玩会&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;《鬼滅の刃 ヒノカミ血風譚2 Nintendo Switch™ 2 Edition + 「無限城編 第一章」キャラクターパス》宣布将在离子（イオン）商场举行线下试玩会。活动分别于10月31日、11月1日和11月3日在宫崎、津田沼North及苫小牧三家店铺举办，参与试玩者可获得限定角色贴纸。文章详细列出了各会场的举办时间、地址及注意事项，提醒玩家提前确认最新信息。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/117169&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 12 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派盘点本周12部值得一看的影视佳作与最新资讯。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部推出的影视推荐栏目，盘点了近期值得关注的12部优秀电影、剧集与动画作品，并附带了多部作品的精彩预告及行业动态。文章语言风格生动专业，通过对各部作品的深度点评与核心看点提炼，为读者提供了丰富且高质量的观影指南。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派编辑部带来了最新一期的「本周看什么」，推荐了包括《深夜食堂 6》、《终极名单 第二季》在内的 12 部近期值得一看的影视佳作。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细介绍了多部热门剧集与电影，如探讨永生苦与乐的《永属于你》、聚焦青春与足球的《青之芦苇 第二季》以及充满烟火气的国产律政剧《蒸蒸日上》等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;除了正片推荐外，本期内容还汇总了《指环王：力量之戒 第三季》等几则精彩预告，以及《沙丘 3》内地定档等最新的影视资讯。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116398&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 OPPO Enco X4降噪耳机体验评测&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文对OPPO Enco X4降噪真无线耳机进行了全面评测。文章从包装配件、外观设计、软件功能、降噪表现、连接续航以及音质听感等多维度展开分析，指出该耳机在降噪、佩戴和功能性上达到了旗舰第一梯队水准，但由于对AAC编码支持的局限性，更适合搭配欧加生态设备使用。作者文风专业详实，最终给予其IV级推荐评级。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章是TDS Studio对OPPO Enco X4降噪真无线耳机的首发评测，主要探讨其相比于上一代X3的各项进步与表现。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Enco X4采用全新包装风格，附带三对特殊硅胶耳套，在提升被动隔音的同时兼顾了佩戴耐久度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;耳机提供多种配色与细腻的外观设计，腔体饱满椭圆，具备IP55防尘防水能力，佩戴体验舒适稳固。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;操作上依靠带凸起纹理的压感区域，配合欢律app可实现多设备联动、语音互译及丰富的小功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;降噪综合能力处于行业第一梯队，虽然偶有底噪但整体降噪深度、通透模式和通话抗风噪表现优秀。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;信号连接支持LHDC 5.0，具备多设备切换和低延迟游戏模式，续航表现超出官方标称值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;搭载双动圈单元与双DAC分频，支持空间音频及多种声音模式，在LHDC编码下声音饱满流行化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在AAC编码下调音表现有所下降，因此该耳机更适合欧加体系内用户，总体评级为IV级推荐。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116979&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;破与立：设计视角下的 iPhone Duo&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 探讨设计与工程的关系及苹果在Ternus时代的新变革。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是作者在少数派的首次分享，探讨了设计与工程的关系及苹果在Ternus时代的产品变革。文章通过分析折叠屏产品Duo与Fold的对比、乔布斯对手写笔的态度等议题，指出设计是过程推演的结果，设计即工程。作者期待在AI无处不在的新时代，苹果能带来全新的产品语言与改变。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/117104&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 派早报报道Insta360 Mic、Claude Duet及苹果反垄断诉讼等科技动态。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期派早报汇总了科技行业的最新动态，涵盖硬件新品发布、企业并购与重组、反垄断诉讼及网络安全预警等多个领域。内容包括Insta360新款无线麦克风、Anthropic的Claude Duet智能体、PFU HHKB 30周年限量版键盘、Bose收购Skullcandy、EA调整游戏项目以及欧盟对Booking.com的调查等。文章信息密集，全面反映了近期科技数码与互联网行业的最新进展。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;周五派早报报道了Insta360发布Mic无线麦克风，Anthropic推出AI智能体Claude Duet等科技行业动态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Insta360推出定位介于Pro与Air之间的Mic无线麦克风，主打多功能组合与高性价比。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Anthropic发布基于Claude Opus 5.5的Claude Duet AI智能体，支持跨应用协同与安全支付。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;PFU为纪念HHKB诞生30周年推出全球限量300台的铝合金特别版键盘HHKB Professional Elite。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Bose宣布完成收购潮流耳机品牌Skullcandy，旨在扩大年轻消费群体市场覆盖面。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;EA宣布关闭BioWare工作室并砍掉《质量效应》新作，同时调整内部游戏研发重心。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;澳大利亚法院裁定苹果必须在当地开放iPhone侧载与第三方支付，苹果表示将上诉。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;欧盟委员会依据《数字服务法》对Booking.com启动正式调查，审查其虚假房源等风险。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;国家计算机病毒应急处理中心发布预警，提示境内出现多起Weaxor勒索病毒攻击事件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;早报还汇总了Spotify家庭组验证、Kindle Unlimited更名以及多项行业简讯内容。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;科技爱好者周刊（第 416 期）：编程已经面目全非&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI彻底颠覆传统编程，重塑软件开发未来。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了阮一峰主编的科技爱好者周刊第416期内容。核心聚焦于AI对软件开发职业与工具链的颠覆性重构，探讨了传统编程面目全非的现状与趋势。同时，内容涵盖了大模型争议、印度证书机构安全漏洞等科技热点，并分享了多项优质文章、开发工具及文摘，展现了作者对前沿科技的敏锐观察与思考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期周刊介绍了科技领域的最新动态，重点探讨了人工智能如何彻底改变传统的编程方式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细列举了AI对软件开发带来的多方面颠覆性影响，包括代码审查、单元测试等传统环节的消失。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;同时，周刊还记录了关于大模型区别对待用户的争议以及印度证书机构私钥被轻易破解的趣闻。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;最后，作者分享了一系列精选的英文科技文章、实用开发工具、学习资源、精美图片、文摘以及深刻的行业言论。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - October 22, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
