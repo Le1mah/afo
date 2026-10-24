@@ -4,8 +4,179 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-10-23T22:56:18.287Z</updated>
+  <updated>2026-10-24T22:11:11.563Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - October 24, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-10-24</id>
+    <updated>2026-10-24T22:11:11.563Z</updated>
+    <published>2026-10-24T22:11:11.563Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>7 articles from 6 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - October 24, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;325.47945205479454&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    81.4%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;297&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;68&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;42&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████████████░░░░░░ 81.4%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;7&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 David Heinemeier Hansson &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/seven-years-from-china-a63b03cc&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Seven years from China&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者重访中国后惊叹于其飞速发展的现代化与科技实力，呼吁西方警醒并重塑竞争力。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在时隔七年后重访中国深圳、杭州和北京，对中国在城市建设、科技创新、新能源汽车（如小米工厂）以及社会整体所展现出的惊人速度、雄心和现代化水平进行了全方位的赞叹。作者以亲历者的视角，将中国的高效运转、强烈的竞争意识与西方当前的停滞与落后进行了深刻对比，探讨了地缘政治与产业竞争的未来走向，同时呼吁西方清醒面对挑战，重拾信心与创新活力。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (26 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆了2011年首次去中国珠海参加赛车比赛时的情景，当时的印象是充满工业感、低空雾霾和粗粝的美学。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在随后几年里，作者频繁前往上海参加世界耐力锦标赛，虽然天际线渐亮但雾霾依旧，交通状况也充满狂野的边界感。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;新冠疫情爆发后，作者有七年时间未去中国，只能从西方远观其电子、服务和汽车领域的迅猛发展。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;直到最近一周走访深圳、杭州和北京，作者才真正惊叹于中国自其上次访问以来发生的巨大变化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;如今中国城市变得光鲜亮丽，高铁、机场和天际线充满未来感，曾经的雾霾和柴油发动机噪音已不复存在。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从未见过哪个国家变化如此之快，深圳速度和整个国家过去十年的高频运转取得了惊人的成果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;这种成就是靠巨大的努力换来的，深夜和清晨的频繁回复展现了中国社会极高且令人惊叹的节奏和期望值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;高强度的工作节奏虽然带来了996文化的代价，但也换来了极为非凡的发展成果。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者参观了小米位于北京的全自动汽车工厂，其高度机器人化和无人化的生产线令人震撼。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米在极短时间内实现了汽车的大规模交付，并推出了性能强劲且价格极具竞争力的SU7 Ultra。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;中国最大的物质变化是街头被眼花缭乱的国产电动汽车品牌取代，其舒适度和豪华感甚至超越了德国巨头。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;网约车体验豪华且价格低廉，反衬出燃油车的落伍，中国制造在物质层面上已达到极高水平。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;除了物质差异，中国人在科技公司和会议上表现出的好客、热情以及对技术的好奇心也给作者留下深刻印象。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管作者自带一定的知名度光环，但中国各界所展现出的乐观、雄心和驱动力依然与西方有着明显不同。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;将中国科技巨头与美国同行进行对比，可以发现双方在对话质量和执行速度上存在很大差异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;虽然旅行时间短可能带有滤镜，且中国也有自身挑战，但这些挑战未必比西方目前面临的更大。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于陷入停滞的西方国家而言，中国的高效、繁荣和安全整洁的城市具有相当的吸引力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作为西方人，面对中国由工程师领导、竞争激烈的市场，难免会产生羡慕甚至是对政体优势的反思。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;在国际地缘政治和贸易平衡中，中国的实力和极具竞争力的产品与服务才是客观存在的不争事实。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;欧美在许多加速向前的中国产业面前，面临着极其沉重的重返竞争力的工作任务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;未来有两种可能：一种是通过公平竞争实现共同繁荣与双赢，另一种是西方因忽视竞争警告而固步自封。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;西方需要清醒意识到目前的竞争态势，不能仅仅在工厂倒闭和企业破产时才被动感知危机的到来。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米的智能制造和快速交付是具体而鲜明的例证，而AI领域则是欧洲面临的另一巨大挑战。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;面对落后不应该陷入末日论和绝望情绪，每天都是做出不同选择、重塑竞争力的崭新机会。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;西方历史上有辉煌的工业成就，美国目前也依然在AI软件和SpaceX等领域领先，西方完全有能力迎接挑战。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对中国的雄心、精神和发展规模感到由衷惊叹，并对未来的再次访问充满期待。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/be-a-tech-bro-30db1962&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Be a tech bro&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 自豪做一名tech bro并推动技术进步。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了&amp;quot;tech bro&amp;quot;这一身份认同，作者认为应当为对computers和技术的真诚热爱以及相关的精英社群感到自豪，而不应向刻板印象或贬低性言论妥协。文章指出，个别不良行为或性别比例不应成为否定整个群体或技术的理由，并呼吁所有致力于技术进步的同行者互相支持、共同庆祝进步。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为人们应互相照应，而对他而言，共同的兴趣是computers，因此他自豪地认为自己是一个tech bro。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管该词有时被贬低用来攻击他人，但没有理由放弃这个词，也不应因为小肚鸡肠的人而退缩。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;人们应该为对computers、相关商业以及精英社群的热情感到骄傲，而不应感到羞耻。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;标签并不等于赋予了成为asshole或scammer的特权，问题的核心不在于他们对computers的兴趣或性别。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;虽然男性在computing领域占主导地位，但这不能成为集体定罪的理由，女性的少数地位也不应贬低其成就。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者呼吁所有致力于推动技术进步、庆祝发展并拒绝衰退的tech bro互相支持并共同前进。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/radial-gradient-css/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;CSS radial-gradient(): Syntax and Examples&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 详解CSS radial-gradient语法与应用&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了CSS属性radial-gradient()的语法规则与实际应用案例。文章详细讲解了径向渐变的形状、大小、位置以及颜色停止点的设置方法，并对比了radial-gradient与linear-gradient、conic-gradient的区别，最后解答了常见问题。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Get Ahead of Being Dead by Evie King ★★★★☆&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一本实用且包容的死亡行政事务规划指南。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了Evie King的新书，这是一本关于处理死亡相关行政事务（deadmin）的通俗指南。文章作者采用聊天和随意的风格，将死亡趣事与关于死者待遇的政治信息相结合，书中包含大量章节末尾的填空问题，旨在帮助读者轻松规划后事。该书具有极高的包容性，虽然这种非传统风格并不适合所有人，但它兼具挑战性与实用性，是一本值得购买并认真填写的佳作。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;oai-math-revised: a community hub for revising OpenAI’s math write-ups&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 数学界发起开源项目改进OpenAI的math write-ups&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了针对OpenAI的math write-ups存在理解难度高及引用不完整等问题，由Abhinav Nellore、Johannes Schmitt、Soledad Villar和Rachel Ward等人发起的开源社区项目oai-math-revised。该项目旨在通过包容性的协作来改进这些文档，并邀请全球数学爱好者、学生及学者参与贡献或申请成为管理员与审阅者，以提升数学文档的质量和可读性。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-10-24T06:14Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-10-24T06:14Z/&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 日本推理小说阅读心得与书单排名分享。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了近期阅读日本侦探与推理小说（包括shin honkaku风格）的心得与书单排名。文章按阅读时间顺序评价了Seishi Yokomizo、Masako Togawa的《The Master Key》以及Masahiro Imamura的《Death Among the Undead》等作品，展现了作者对该文学流派演变及现代创新的持续关注。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者近期阅读了更多shin honkaku等日本侦探推理小说，发现该流派的发展与其时代的社会价值观紧密相连。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者阅读了横沟正史（Seishi Yokomizo）的一些已翻译作品，认为其作品虽然具有娱乐性，但并未完全达到期望。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者刚读完户川昌子（Masako Togawa）于1962年出版的《The Master Key》，认为其角色塑造比典型作品更立体，并将其排在个人书单第三位。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者目前正在阅读今村昌弘（Masahiro Imamura）于2017年出版的《Death Among the Undead》，该书为该流派增添了现代元素，有望冲击前三名。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116128&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;在硅谷，遇见个人计算机历史&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 硅谷计算机历史博物馆参观记与个人计算机发展史&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者参观硅谷计算机历史博物馆（CHM）的经历，通过丰富的实物和历史资料，串联起从早期大型机、个人计算机的萌芽到图形界面、掌上设备以及万维网诞生的完整计算史。文章结合了技术演进与生动的历史故事，展现了科技先驱们的热情与创新，行文兼具人文关怀与极客情怀，最终呈现了一幅波澜壮阔的计算机技术发展全景图。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (15 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在国庆假期前往硅谷，参观了位于Mountain View的计算机历史博物馆（CHM），探寻个人计算机发展的历史脉络。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章回顾了早期大型计算机的发展，包括ENIAC的硬件结构及其背后的六位女性程序员，展示了计算机与使用者关系的变化。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了1959年推出的IBM 1401及其带动的批处理工作方式，以及磁芯存储板等早期硬件的制作细节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;PDP-1的出现让使用者能够通过控制台和显示器直接与计算机互动，并催生了早期电子游戏Spacewar!。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Xerox PARC研究中心通过Xerox Alto探索了图形界面、鼠标和网络连接等现代计算机交互方式的雏形。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;1970年代微处理器的普及促成了Homebrew Computer Club的诞生，为个人计算机的兴起奠定了社群基础。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Altair 8800登上杂志封面，成为早期个人电脑的标志性产品，并催生了Microsoft的BASIC业务。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;1976年推出的Apple I为主板集成形态，而Apple II则进一步完善了机身设计并迎来了VisiCalc电子表格软件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;IBM推出IBM PC（型号 5150）并带动了兼容机市场，推动个人电脑成为由众多厂商参与的产业。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple推出的Lisa和Macintosh引入了图形界面和鼠标操作，使电脑操作变得更加直观。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;1985年乔布斯收购Lucasfilm图形团队独立为Pixar，其早期曾尝试销售专业图像处理硬件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;展柜中的Photoshop包装盒展示了软件生态的延伸，数字图像处理开始在个人电脑上普及。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;1990年代的PDA尝试将计算能力带离桌面，Newton手写识别表现不佳，而Palm则通过务实设计获得了成功。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;2001年推出的iPod专注于音乐播放，通过与电脑同步开启了便携数字设备的新阶段。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Tim Berners-Lee在NeXT电脑上开发了最初的Web浏览器与服务器，万维网由此诞生，随后Google服务器机架展示了网络计算的发展。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - October 23, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -2224,223 +2395,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;现在块级元素也支持balance排版，只需将flex-wrap:wrap替换为flex-wrap:balance即可实现各行标签数量均等。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Flex布局通过flex-line-count属性可以指定均衡排版的行数，这一特性还可以衍生出瀑布流布局效果。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Flex布局balance排版具有良好的渐进增强兼容性，最后作者顺便分享了对阶跃星辰step-5模型的试用体验与碎碎念。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - October 13, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-10-13</id>
-    <updated>2026-10-13T23:39:42.819Z</updated>
-    <published>2026-10-13T23:39:42.819Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>13 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - October 13, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;313.4246575342466&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    78.4%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;286&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;79&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;40&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████████████░░░░░░ 78.4%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;13&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/css-before-after/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;CSS ::before and ::after Pseudo-Elements (With Examples)&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 全面解析CSS伪元素::before与::after的应用技巧&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细介绍了CSS中::before和::after伪元素的概念、工作原理及实际应用。文章通过丰富的代码示例，展示了如何利用伪元素实现装饰性引号、动画下划线、自定义列表符号、通知徽章、必填星号和工具提示等效果，并探讨了它们的默认内联属性、定位技巧及局限性。作者行文清晰实用，旨在帮助开发者掌握利用纯CSS增强页面视觉效果的高级技巧。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了CSS中的::before和::after伪元素，它们允许在不修改HTML的情况下通过CSS添加内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细讲解了伪元素的工作原理，重点强调必须设置content属性才能让伪元素生效。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对比了::before和::after的区别在于渲染位置的不同，并推荐使用现代的CSS3双冒号语法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明了伪元素默认是内联元素，可以通过修改display属性或绝对定位来控制尺寸和布局。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过多个实际案例展示了伪元素的具体应用，包括必填字段星号、提示框、编号标题以及图像遮罩等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;指出了伪元素的一些局限性，例如无法应用于被替换元素以及JavaScript无法直接选中它们。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在FAQ部分解答了常见问题，包括伪元素不显示的原因、与伪类的区别以及是否支持HTML标签等。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Martin Fowler &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/practitioner-voice.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The Craft of Practitioner Voice&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 提出源于实践经验与真实判断的全新写作类别Practitioner Voice。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了一种名为Practitioner Voice的新写作类别，区别于学术写作的过度严谨和Thought Leadership的浮华营销，以及AI生成的无生命力文本。作者Jim Highsmith指出，这种写作源于真实的经验与判断，敢于保留张力，信任读者的共鸣。文章分析了其实践特征与当代意义，并探讨了在AI时代如何保持独特的个人声音。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://martinfowler.com/articles/are-harnesses-worth-the-cost.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Are Harnesses Worth the Cost?&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 行为约束框架能显著提升小型AI模型的编码可靠性。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了在开发API服务时为编码智能体（coding agent）引入行为约束框架（behavioral harness）的成本与效果。作者通过实验发现，对于GPT-6 Sol等前沿模型，有无约束框架均能保持100%的成功率，但框架会增加Token消耗和成本；然而对于成本优化型模型（如GPT-6 Luna），引入行为约束后成功率从30%跃升至100%，且成本比前沿模型降低了33%。实验表明，行为约束框架是确保小型、成本优化型模型获得可靠结果的实用方法。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 评《The Thousand Deaths》的宿命悲剧与轮回设定。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是对Caroline Lea（笔名Caroline Finch）的新作《The Thousand Deaths》的书评。文章探讨了罗密欧与朱丽叶式悲剧的永恒主题与宿命感，分析了该书将星宿恋人轮回转世的独特设定，并赞赏了其优美的文笔、渐入佳境的节奏以及融合了浪漫奇幻（romantasy）与科幻元素的风格。作者对书中的情感深度和精妙的尾注给予了高度评价，最终给出五星满分评价并强烈推荐。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/10/13/2026-ams-committee-on-education-workshop-report/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026 AMS Committee on Education Workshop Report&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 美国数学学会发布数学研究生教育报告。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;美国数学学会（American Mathematical Society）于10月2日发布了一份关于数学科学研究生教育研讨会的报告，文章同时提供了丰富的社交媒体分享链接。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/10/12/this-is-normal-bad-work/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;This is normal bad work&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 批评OpenAI发布缺乏学术责任的粗糙论文。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者Sophie Huiberts通过对比数学界严格的学术规范与OpenAI发布论文的做法，批评OpenAI缺乏对科学文献应有的责任感。文章指出，数学家在发表定理时必须承担解释和培育文献的责任，而OpenAI则大量涌现缺乏归因、存在错误且难以解析的粗糙PDF，将其视为内部基准测试的废气。作者认为这种毫无羞耻感的行为不仅无益于科学进步，还抢先占用了本应由专家来完成的正常学术成果。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;数学界有一项共识：证明定理需要承担对数学领域的责任，包括清晰解释、 nurture the literature 以及修复差劲的表述，否则论文将无法进入学术正统。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;相比之下，OpenAI 的行为截然不同：他们不关心文献质量，缺乏适当的归因，存在撤稿级别的错误，承诺的代码未提供，其 PDF 严重阻碍了文献的发展且属于低质量工作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI 发布这些内容并非为了科学，而是内部基准测试的废气，他们不仅不承担学术责任，反而抢先发布并阻碍了其客户承担责任。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;10月6日并不是数学领域的划时代时刻，OpenAI 在 GitHub 上的行为只是当前技术水平下的正常进展，唯一的例外是他们发布劣质作品时毫无羞耻感。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202610/90769&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【『戦場のフーガ』開発記録】『インターミッション』第94.5回 公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《戦場のフーガ》第94.5话开发记录与第三部完结预告。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了ファミ通.com连载漫画《戦場のフーガ 鋼鉄のメロディ》第94.5话的幕后开发记录，作者松山洋分享了创作过程、获得バンダイナムコエンターテインメント使用许可的经历，并透露第三部即将迎来完结及第四部的计划。同时，文章还宣传了松山洋的新书《ゲーム業界の攻略法》。作者以轻松且热情的语调叙述，展现了对作品的自信与对合作伙伴的感谢。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;ファミ通.comで連載中のコミック『戦場のフーガ 鋼鉄のメロディ』第94.5話の幕間回について、松山洋氏のネームと足立先生の作画による制作裏話が語られている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;今話に登場する“彼”のキャラクターについて、バンダイナムコエンターテインメントから正式に使用許諾を得て描かれており、今後の本編にも深く関わってくることが明かされている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;物語の第三部は残り12話で完結予定であり、すでにプロットが完成して足立先生に渡されていることや、その後の驚愕の第四部への展開が予告されている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;編集部からのコメントとして、第94.5話の見どころや次回第95話の掲載予定日が案内されている。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;サイバーコネクトツー30周年に際し、松山洋氏が著したゲーム業界志望者向けの新バイブル『ゲーム業界の攻略法』が刊行されたことが紹介されている。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://x.com/kimetsu_csgame/status/2108029863080903138&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『鬼滅の刃 ヒノカミ血風譚』『鬼滅の刃 ヒノカミ血風譚2』ダウンロード版・ダウンロードカード版 価格改定のお知らせ&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 鬼滅の刃ゲーム版の価格改定のお知らせ&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;「鬼滅の刃」家庭用ゲーム公式アカウントは、人気ゲーム『鬼滅の刃 ヒノカミ血風譚』および『鬼滅の刃 ヒノカミ血風譚2』のダウンロード版とダウンロードカード版の価格改定を10月29日（木）より実施すると発表しました。公式アナウンスとして、ファンやプレイヤーに向けて詳細情報の確認を促す内容となっています。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(5 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116068&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派Matrix社区速递带来数码新玩意与热门讨论。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派Matrix社区速递周报，内容涵盖了季度创作作者表彰、作者分享的数码新玩意（如Xiaomi Watch S5手表与EVA联名香水评测）、一派热议的换机容量选择与系统升级体验，以及社区精选的效率工具和热门文章讨论，展现了丰富多元的数字生活与科技数码内容。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派重启Matrix周报并推出季度作者创作激励计划，表彰在新星和垂直领域有突出贡献的作者。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者@鸿苓等人获得新星作者表彰，同时《新玩意》栏目投稿呈现方式调整，欢迎读者投稿。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了Xiaomi Watch S5的使用体验，指出其表盘与微信功能不错，但存在续航与健康数据解释不足的问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者分享了Primaniacs EVA联名香水的体验，认为其低侵略性气味能为内向者提供安心感与气味壁垒。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;一派热议探讨了手机换机是否选择512GB起步以及升级新系统的满意度，引发用户广泛讨论。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章精选了近期热门文章的读者热评，涉及汽车设计、AI评估、老游戏移植等多个领域。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;社区精选摘要展示了多款效率工具、独立开发应用以及数码体验与数字生活相关的优质内容。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/115400&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 专为P人和ADHD设计的Pikko App用精力管理替代传统任务。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了一款专为P人和ADHD人群设计的精力管理App——Pikko。作者针对传统任务管理工具容易造成记了不做和选择困难的痛点，结合自身感知型人格的需求，开发了这款以精力为核心的工具。Pikko通过自研算法自动评估用户的精力状态与多维属性，智能推荐匹配当前状态的任务，并具备小票打印机、专注围栏和本地隐私保护等特色功能。文章采用亲历者的开发者视角，语言真诚且极具实用导向，展示了如何通过数字工具改善现代人的精力管理与拖延问题。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (11 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者曾尝试众多传统任务管理工具，发现它们更适合判断型人格，而自己作为感知型人格常陷入记了不做和不知从何下手的困境。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;为解决传统工具的痛点，作者开发了专为P人和ADHD设计的精力管理App——Pikko，旨在用精力代替复杂的任务管理。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pikko摒弃清单式思维，通过自研精力算法结合作息、心率等数据，在主屏幕实时展现当前精力状态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pikko从精力、设备、场景和心境四个维度自动描述任务，并根据状态实时调整列表，默认仅显示3条任务避免信息过载。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;用户默认可通过作息推算精力，佩戴Apple Watch时还可结合睡眠和心率数据让算法在本地不断自我进化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pikko刻意弱化时间提醒功能，仅对带有明显时间信息的任务添加提醒，减少用户被时间推着走的感觉。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过主屏幕向下滑动可开启小票打印机功能，根据算法推荐任务合集以避免内耗和拖延症。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pikko提供专注围栏功能，可根据地理位置自动激活并筛选适合当前场景的任务。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;完成任务后的卡片和专注小票会被收进任务卡夹，并支持加盖印章和保存为带有专属底色的分享图片。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pikko采用完全基于设备本地运行的设计，所有数据和算法均在本地处理，确保用户的隐私安全。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pikko目前在iPhone上有最好的体验，基础功能免费，高级功能可通过一次性付费解锁Pikko Pro使用。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116028&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;迈上生态新台阶，首期 Apple 应用孵化器顺利收官&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 首期Apple应用孵化器收官，赋能中国开发者迈向卓越。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文报道了首期Apple应用孵化器的顺利收官及Tim Cook的北京之行。文章介绍了该项目作为移动应用创新赛进阶版的定位，并详细列举了获奖团队Viba与豆芽看见在技术适配、市场拓展和商业模式上的成长。作者以客观赞赏的笔触，展现了Apple通过生态资源赋能中国开发者、助力其走向全球市场的实践成果。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple董事会执行董事长Tim Cook赴北京参加Apple应用孵化器首期最终展示日活动，该孵化器被视为移动应用创新赛的进阶版本，旨在赋能中国新一代开发者将app从优秀迈向卓越。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;获得最大奖「加速先锋奖」的Viba是一款AI个人灵感购物助手，它在孵化期间拓展了海外市场并优化了商业模式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;另一款获奖应用是为视障人士设计的无障碍应用「豆芽看见」，由具备相关残障背景的团队开发，解决了视障人群的真实生活需求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple的技术支持涵盖系统适配、界面设计及无障碍功能，Viba和豆芽看见都在孵化期间深度整合了Apple的软硬件技术与生态资源。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple通过设立孵化器基金等举措，为成熟开发者和创业者提供商业化赋能，标志着其在中国市场的开发者生态与编程教育迈向新台阶。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114561&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;高端，不只是材质而已：Apple Watch Edition 的前世今生&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple Watch Edition 历经材质实验，最终将高端工艺融入主流产品线。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文回顾了 Apple Watch Edition 的前世今生，探讨了 Apple 如何通过这一特殊系列探索高端智能手表的材质与工艺。从早期的 18K 金奢侈品尝试，到注重工艺难度的精密陶瓷，再到强调实用价值的钛金属，Apple Watch Edition 经历数次材质更迭。虽然该系列最终停产，但其积累的材料科学与制造工艺（如 3D 打印钛金属和陶瓷）已成功反哺主流产品线，推动 Apple 建立起一套独特的电子产品高级质感与量产逻辑。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在 Apple Watch 的发展历史中，Apple Watch Edition 曾是 Apple 围绕高端智能手表展开的一场持续数年的材质实验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一代 Apple Watch Edition 采用 18K 金并试水奢侈品市场，但随着电子产品迅速折旧的属性，该路线并未持续太久。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;随后 Apple 将材质转向精密陶瓷，通过提升制造工艺和加工难度来重新定义高端，展现现代材料科学与工艺水平。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Watch Series 3 推出了白色和灰色精密陶瓷表款，使手表的精致感和设计风格进一步提升。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2018 年的 Apple Watch Series 4 迎来了重大更新，虽然 Edition 系列缺席，但陶瓷表背依然保留并服务于内部工程需求。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2019 年 Apple Watch Series 5 发布，精密陶瓷再度回归，同时 Apple 引入了兼具轻量与耐用的钛金属材质。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2020 年的 Apple Watch Series 6 仅保留钛金属表款，精密陶瓷再次退出历史舞台。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2021 年的 Apple Watch Series 7 延续了钛金属材质，这也是 Apple Watch Edition 的最后一代。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2022 年钛金属 Apple Watch Edition 退场，同场亮相的 Apple Watch Ultra 接棒成为坚固耐用的户外钛金属表款。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2024 年 Apple Watch Series 10 取消不锈钢表款并引入抛光钛金属，使高级版本成为钛金属的标配。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2025 年的 Apple Watch Series 11 采用 3D 打印量产钛金属表壳，将复杂工艺带入大规模生产。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2026 年 Apple Watch Series 12 重新引入陶瓷表款，标志着陶瓷已成为常规的表壳材质选项之一。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Watch Series 12 的陶瓷表款搭配了陶瓷材质按扣，延续了早期 Edition 的专属细节设计。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;回顾历史，Apple Watch Edition 作为材质试验田成功探索了高端材质与工艺，最终将这些成果融入了整个 Apple Watch 产品线。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116033&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：一加发布一加 16，Google 推出 Fitbit Edge 等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 汇总科技行业近期新品发布与动态&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了科技领域的最新动态，主要内容包括一加发布旗舰手机一加 16、Google 推出 Fitbit Edge 手环、CMF 推出蓝牙音箱、微软扩大 Azure Maia 部署规模、LineageOS 24.0 发布以及 Meta 推出 Muse Wonder 模型等。文章以客观简讯的形式呈现，涵盖了硬件、操作系统、AI 模型等多维度的行业进展。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;一加发布了一加 16 手机，搭载第六代骁龙 8 平台、9000mAh 电池及 2 亿像素主摄，售价 5999 元起。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google 推出了定位介于 Air 与 Pixel Watch 之间的 Fitbit Edge 健身手环，售价 179.99 美元起。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing 旗下品牌 CMF 推出了模块化设计的 CMF Speaker 蓝牙音箱系列，提供两款型号。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软宣布自 2027 年起大规模部署自研 Azure Maia AI 系统，其中 Maia 300 将大幅提升 token 处理能力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;LineageOS 团队发布了基于 Android 17 的 LineageOS 24.0 正式版，并同步推出网页端刷机工具。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Meta 推出了面向智能体任务的 Muse Wonder 和 Muse Wonder Full 模型，强化了复杂任务处理能力。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
