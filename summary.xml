@@ -4,8 +4,242 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-11-03T01:56:38.397Z</updated>
+  <updated>2026-11-07T00:20:43.021Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - November 7, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-11-07</id>
+    <updated>2026-11-07T00:20:43.021Z</updated>
+    <published>2026-11-07T00:20:43.021Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>11 articles from 8 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - November 7, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;340.8219178082192&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    85.2%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;311&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;54&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;44&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████████████░░░░ 85.2%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;11&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Articles on Smashing Magazine — For Web Designers And Developers &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A New Community For In-House UX People&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Paul Boag 为企业内部 UX 人员推出 UX Insiders 互助社区。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Paul Boag 宣布与 Smashing Magazine 合作推出 UX Insiders 付费社区，专门支持企业内部 UX 从业者。文章以专业且具共情力的笔触，指出 UX 工作的核心难点在于利益相关者管理和 AI 趋势应对，而非单纯的设计。该社区通过每周会议和资源共享打破从业者的孤立状态，提供一个纯净的内部交流环境。最终旨在帮助成员通过外部视角和实战模板，更有效地解决职场中的管理与业务挑战。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Paul Boag 介绍了他在 Smashing Magazine 的长期背景，并宣布将于明年 1 月与该平台合作推出一项新计划。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章指出，数字工作中最难的部分往往不是设计本身，而是应对利益相关者、商业案例以及 AI 带来的管理挑战。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;许多 UX 从业者在组织内部感到孤立，缺乏外部视角来处理复杂的管理问题或快速变化的 AI 最佳实践。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Paul 宣布成立 UX Insiders，这是一个专门为企业内部 UX 专业人士、设计师和研究员打造的小型付费社区。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;该社区提供每周二的电话会议、私密 Slack 频道、会议记录摘要以及包含商业案例和模板的共享资源库。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Paul 将亲自主持会议并活跃在社区中，同时强调成员间基于真实经验的互助建议具有极高价值。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;社区严格仅限企业内部人员加入，以确保讨论的开放性，并防止外部机构或自由职业者的推销干扰。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文中详细说明了创始成员的优惠价格、2027 年 1 月 5 日的正式启动时间以及企业支付流程。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对机构负责人和自由职业者，作者推荐了类似的 Agency Academy 社区，并为 Smashing 读者提供限时折扣。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者表达了对新成员加入的期待，并提供个人联系方式以便解答关于社区申请的任何疑问。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/536&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 536: Parcel&amp;#039;s Big Rust Wave&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Parcel 3 采用 Rust 完全重写，实现百倍提速并脱离 Node。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文重点介绍了 Parcel 3 Alpha 的重大更新，该版本通过 Rust 完全重写彻底脱离了 Node.js，实现了冷启动速度百倍提升及内存占用的显著降低。文章风格幽默且极具技术洞察力，指出极致的性能将使传统的复杂缓存层变得多余。此外，文中还汇总了 AI 辅助编程、Node.js 安全更新及行业收购等前沿资讯，展示了前端构建工具向高性能原生化转型的趋势。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Parcel 3 alpha 发布，采用 Rust 完全重写并彻底摆脱对 Node.js 的依赖，显著缩小了安装体积并减少了依赖项。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;团队转向 Rust 是为了解决 JavaScript 核心在多线程内存共享方面的限制，并利用 AI 辅助处理繁琐的 Rust 代码编写。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;此次重写带来了高达 100 倍的冷启动速度提升，同时在各项基准测试中显著降低了内存占用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;极高的原生速度使得复杂的磁盘缓存和失效追踪机制变得不再必要，从而简化了系统并减少了潜在 Bug。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;插件系统现已原生化，通过稳定的 C 接口支持 Rust、Go 或 Swift 编写，并能通过嵌入式 QuickJS 运行 JS 插件。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Parcel 认为当构建速度足够快时，许多现有的构建工具复杂性将失去价值，这使其成为 Vite 和 Rspack 的强力竞争者。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;赞助商内容介绍了 Agentic Change Management 概念，旨在通过 AI 控制提升代码交付的安全性和效率。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文中包含一个 Spot the Bug 挑战，涉及识别代理流量以及一个简单的 JavaScript Queue 类实现分析。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Cool Bits 栏目汇总了 X.com 性能优化、Google API 关停、Node.js 安全发布及 OpenAI 收购等行业动态。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Spot the Bug 的解决方案指出，队列（Queue）的 peek() 方法应返回第一个元素而非最后一个元素。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Jiajun的技术笔记 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://jiajunhuang.com/articles/2026_11_06-upgrade_openwrt.md.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;OpenWrt 扩容实战：NVMe 分区已经扩大，但 df 显示空间不变&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 OpenWrt NVMe分区扩容后文件系统大小不变的排查与解决方法&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细记录了在OpenWrt系统下，针对NVMe分区扩容后根目录文件系统大小未更新的问题进行排查与修复的过程。作者发现直接使用resize2fs因resize_inode特性冲突而失败，最终通过tune2fs移除该特性并配合文件系统检查成功完成扩容。文章强调了区分磁盘分区与文件系统扩容的重要性，并提供了利用dmesg定位内核级错误的实战经验。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenWrt升级后遇到NVMe分区已扩大但系统根目录空间显示不变的问题。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者发现磁盘分区虽扩至14.4GB，但ext4文件系统仍维持在122MB，原因是分区扩容不代表文件系统扩容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过parted和内核信息确认NVMe分区已成功识别并扩展。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;确认OpenWrt根目录直接挂载在ext4类型的NVMe第二分区。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;尝试使用resize2fs在线扩容失败，报错提示参数无效。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过dmesg日志发现错误源于ext4的resize_inode特性与保留GDT块布局不兼容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;解决方法是安装tune2fs并移除resize_inode特性，之后成功执行文件系统扩容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结了分区与文件系统区别、工具使用及OpenWrt环境下的排障技巧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;全文总结强调了结合dmesg内核日志定位磁盘扩容问题的关键性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/css-hr/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How to Style an hr (Horizontal Rule) in CSS&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 全面解析如何使用CSS重置和美化HTML的hr水平分割线元素。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细介绍了在CSS中定制HTML的&amp;lt;hr&amp;gt;水平分割线样式的各种技巧与方法。作者首先指出浏览器默认&amp;lt;hr&amp;gt;样式较为棘手，必须先重置边框才能进行美观的自定义。文章随后通过丰富的代码示例，展示了如何实现不同颜色、粗细、虚线、点线、渐变效果、短居中线，以及带文字或图标的分割线。此外，作者还强调了&amp;lt;hr&amp;gt;元素的HTML5语义（代表主题转换），并附带了常见问题解答，适合前端开发者参考。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了如何使用CSS对HTML中的&amp;lt;hr&amp;gt;元素进行样式定制，首先需要重置其默认的边框样式。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细讲解了调整&amp;lt;hr&amp;gt;的颜色、粗细、虚线、点线以及渐变淡出效果的具体CSS代码实现方法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了如何创建居中的短横线以及在分割线中间添加文字或图标的高级布局技巧。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;探讨了在HTML5中正确使用&amp;lt;hr&amp;gt;语义化标签的场景，以及何时应该使用纯粹的CSS装饰线。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;最后的FAQ部分解答了关于修改颜色、调整粗细、制作垂直线及自闭合标签等常见问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/11/a-video-game-which-caused-real-world-violence/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A video game which caused real world violence&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Augmented reality risks real-world violence when immersive public play is misinterpreted as socially unacceptable behavior.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;While traditional gaming may reduce physical violence by sequestering players in controlled environments, Augmented Reality (AR) introduces unique social risks by blending digital mechanics with public spaces. A 2004 case study of the AR game *Mozzies* illustrates this friction, where a player’s camera-based movements were misinterpreted as surreptitious photography, leading to a violent confrontation and property destruction. This incident highlights a critical UX challenge in AR development: &amp;quot;immersion-blindness,&amp;quot; where high engagement causes users to ignore social norms and environmental context. Ultimately, the article suggests that while AR offers novel experiences, it necessitates a higher degree of situational awareness and safety considerations than traditional indoor gaming.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Games as Violence Deterrents:&lt;/strong&gt; The author suggests that the rise of video games may correlate with a decline in interpersonal violence by keeping potential aggressors in controlled, indoor environments.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Risks of Augmented Reality:&lt;/strong&gt; Unlike traditional gaming, Augmented Reality (AR) games like Pokémon Go can lead to real-world trouble, including trespassing and physical confrontations.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The Mozzies Incident:&lt;/strong&gt; A 2004 case study involving the early AR game &amp;#039;Mozzies&amp;#039; illustrates how camera-based gameplay led to a violent misunderstanding in a Singapore arcade.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Perception vs. Gameplay Mechanics:&lt;/strong&gt; While the player was engrossed in shooting virtual insects, his physical movements were misinterpreted by a bystander as surreptitiously taking inappropriate photographs.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Consequences of AR Misunderstanding:&lt;/strong&gt; The confrontation resulted in the destruction of an expensive Siemens SX1 mobile phone and highlighted the social risks of camera-dependent gaming in public.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Loss of Situational Awareness:&lt;/strong&gt; The victim admitted that the thrill of the game caused him to lose basic common sense, failing to realize how his actions appeared to those around him.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Indoor Gaming Safety:&lt;/strong&gt; The article concludes that while AR offers unique experiences, traditional indoor gaming remains a safer option for avoiding physical altercations and misunderstandings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/11/06/more-posts/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;More posts&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 汇总AI与数学研究相关的多篇学者文章与资源。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文汇总了多位学者关于数学研究与AI应用的探讨文章，涵盖了Pavel Etingof对年轻数学家使用AI的建议、Anna Gilbert对数学本质及批评的看法，以及Larry Guth和Atoosa Kasirzadeh对数学意义与进步的见解。该资源列表旨在引导读者思考数学在现代科技背景下的演变，并鼓励社区互动与分享。&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/118623&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;本周看什么 | 最近值得一看的 9 部作品&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Nine curated media recommendations highlighting social critiques, character-driven narratives, psychological thrillers, and upcoming high-profile cinematic releases.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This week’s media curation highlights a blend of systemic social critiques and character-driven narratives, ranging from the Korean remake of *Doctor X* tackling healthcare hierarchies to director Ahn Pan-seok’s exploration of emotional healing. Established franchises like *Dexter* and *The Gilded Age* return with updated narrative frameworks that address protagonist evolution and the impact of industrial shifts on social structures. The selection also features psychological thrillers and creative animations that utilize Rashomon-style storytelling and fantasy metaphors to explore complex themes like professional gender bias and deep-seated trauma. Finally, the list includes a low-budget &amp;quot;healing&amp;quot; reality show focused on culinary comfort and provides a strategic roadmap for high-profile sequels and 4K restorations slated through 2027.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Medical Drama Adaptation:&lt;/strong&gt; The article highlights a Korean remake of &amp;quot;Doctor X,&amp;quot; focusing on a freelance surgeon challenging hospital hierarchies and systemic corruption. It emphasizes the show&amp;#039;s relevance to modern Korean healthcare issues and social class disparities.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Romance and Healing:&lt;/strong&gt; A featured drama explores the relationship between an amputee student and a struggling graduate student, focusing on mutual emotional healing. This work serves as the final legacy of director Ahn Pan-seok, blending romance with realistic social challenges.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Crime Thriller Returns:&lt;/strong&gt; The return of &amp;quot;Dexter: Resurrection&amp;quot; marks the franchise&amp;#039;s 20th anniversary, introducing a unique &amp;quot;mid-life crisis&amp;quot; arc for the aging protagonist. The new season balances nostalgic elements with a fast-paced hunt for new serial killers in New York.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Period Drama Evolution:&lt;/strong&gt; Season 4 of &amp;quot;The Gilded Age&amp;quot; continues to document the clash between old and new money in 19th-century New York. This installment shifts focus toward the individual growth of female characters and the impact of industrial change on social structures.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Mystery and Suspense:&lt;/strong&gt; The review covers psychological thrillers that utilize Rashomon-style narratives to explore themes of sexual assault and professional gender bias. These series focus on the subjective nature of truth and the systemic difficulties women face in male-dominated environments.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Genre Film Innovations:&lt;/strong&gt; The article spotlights diverse films ranging from Filipino-inspired animation to cult horror using puppets as metaphors for toxic education. These works are noted for their creative visual styles and their ability to address deep-seated trauma through fantasy tropes.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Lifestyle and Variety:&lt;/strong&gt; The reality show &amp;quot;Haeparang Chamber&amp;quot; focuses on healing through food and coastal trekking along Korea&amp;#039;s eastern shore. It emphasizes the sincerity of actor Kim Dae-myung as he provides culinary comfort to travelers on a limited production budget.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Industry News Pipeline:&lt;/strong&gt; The report concludes with major updates on upcoming releases, including &amp;quot;The Hunger Games&amp;quot; prequel and a 4K re-release of &amp;quot;The Legend of 1900.&amp;quot; It also previews high-profile sequels and anime projects slated for release through 2027.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/118250&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;iPhone 变强了，但我没有&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派以感性视角呈现 iPhone 18 Pro Max 影像体验视频。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了少数派团队对 iPhone 18 Pro Max 影像系统的感性体验。作者张奕源Nick通过在深圳、香港和吉隆坡等地的实拍，将技术升级融入街头画面与生活感悟中。文章旨在引导读者通过 Bilibili、YouTube 等平台观看 4K 高清纪录短片，以一种非传统的、更具人文关怀的方式呈现 iPhone 的影像实力。&lt;/p&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/118570&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;更高能效比，带来新惊喜：M6 款 MacBook Pro 初探&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 The M6 MacBook Pro significantly boosts AI efficiency and memory bandwidth, optimizing local LLM performance for professional workflows.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;The M6 MacBook Pro introduces a 12-core architecture with 170GB/s memory bandwidth and an additional Neural Engine, specifically optimized for the increasing demands of local LLMs and AI-driven workflows. Real-world testing reveals efficiency gains that exceed theoretical benchmarks, with NPU-driven tasks like Whisper transcription seeing performance jumps of 40-50% over the M5. For developers and creators, the high unified memory capacity (up to 32GB) proves to be the critical factor for stability in resource-heavy environments, outperforming raw GPU core counts in complex plugin rendering. Ultimately, the M6 serves as a high-value bridge for users transitioning from the Air series, offering superior thermals, I/O, and a new PROLED XDR display option without the &amp;quot;Max&amp;quot; tier price premium.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (8 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Context and Evolution:&lt;/strong&gt; The M6 MacBook Pro arrives amidst global component price hikes, positioning Apple Silicon as a critical hardware platform for the current AI and large language model era.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Chassis and Display:&lt;/strong&gt; The physical design and weight remain identical to the previous generation, though a new PROLED XDR variant is introduced for users prioritizing display quality and portability.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;M6 SoC Architecture:&lt;/strong&gt; The M6 chip features a 12-core CPU architecture with increased memory bandwidth of 170GB/s and an additional Neural Engine to enhance AI processing capabilities.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;CPU Performance Gains:&lt;/strong&gt; Real-world audio rendering tests show the M6 significantly outperforming the M5, with CPU-heavy tasks seeing efficiency improvements that exceed theoretical benchmark scores.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Local AI Capabilities:&lt;/strong&gt; Increased memory bandwidth and 32GB RAM configurations allow the M6 to efficiently run larger local LLMs, providing faster token generation and better reasoning capabilities.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;NPU and Creative Tasks:&lt;/strong&gt; The M6 demonstrates a 40-50% improvement in NPU-driven tasks such as Whisper transcription and image optimization, drastically reducing time for specialized creative workflows.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Video Production Workloads:&lt;/strong&gt; Heavy DaVinci Resolve testing highlights that while GPU cores are vital, high unified memory capacity is the deciding factor for stability when using performance-heavy plugins.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Market Positioning:&lt;/strong&gt; The M6 MacBook Pro serves as a high-value option for users transitioning from the Air series who require better thermals, I/O, and display quality without the cost of &amp;#039;Max&amp;#039; tier chips.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/118587&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：国务院办公厅发布 2027 年部分节假日放假安排等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报盘点2027年放假安排及OpenAI、Discord等行业动态。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一份科技数码与互联网资讯早报，全面盘点了近期行业内的多项重要动态。内容涵盖国务院发布的2027年节假日放假安排、OpenAI推出支持GIF生成的Images 2.6模型、Nothing与JBL等厂商的新品音箱上市、月之暗面开放Kimi K3.1 Pro模型权重、《愤怒的小鸟 3》电影预告发布、App Store新增订阅挽留功能以及Discord计划使用Rust重写客户端等。文章兼具宏观政策与微观科技产品报道，风格客观详实，为读者快速梳理了科技领域的最新进展与趋势。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;国务院办公厅发布2027年节假日放假安排，全年仅3个节日涉及调休且春节连续放假9天。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI推出Images 2.6模型并支持ChatGPT原生GIF动图生成，同时提升图像生成速度。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Nothing CMF Speaker S/M蓝牙音箱国行上市，采用牛奶盒造型并支持多项实用配置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;JBL Professional发布3系列MkIII监听音箱及超低音音箱，升级声学系统与功放配置。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;月之暗面在Hugging Face平台开放Kimi K3.1 Pro模型权重，在多项评测中表现优异。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;派拉蒙影业发布游戏改编动画电影《愤怒的小鸟 3》第二支正式预告，计划于2026年底上映。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple在App Store Connect上线订阅挽留功能，允许开发者在用户取消订阅时展示挽留优惠。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Discord官方确认正使用Rust重写客户端，桌面端将以GPUI框架取代Electron以优化性能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后报道了OpenAI新模型传闻、AMD第三季度财报、蓝牙7.0引入HDT技术及少数派动态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;JS拖拽交互必用setPointerCapture方法&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Use `setPointerCapture` for modern drag-and-drop to enable seamless cross-platform interactions without global document-level event listeners.&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Modern drag-and-drop implementations should leverage the Pointer Events API and `setPointerCapture` rather than legacy mouse events and global document listeners for unified cross-platform compatibility. By calling `setPointerCapture` on `pointerdown`, the target element exclusively captures all subsequent pointer events, allowing smooth interactions even when the cursor leaves the element&amp;#039;s boundaries and eliminating the need for `document`-level event binding. Robust implementations must manage event lifecycles by releasing capture on `up`, `cancel`, or `lostpointercapture` events. Additionally, developers should utilize `requestPointerLock` for unbounded movement and `touch-action: none` to prevent native scrolling conflicts.&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Modernizing Drag-and-Drop Logic:&lt;/strong&gt; Traditional drag-and-drop implementations using mousedown and document-level mousemove listeners are considered obsolete for modern web development.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Universal Pointer Events:&lt;/strong&gt; Switching to Pointer Events like pointerdown and pointerup provides native cross-platform compatibility for both desktop and mobile devices.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;The setPointerCapture API:&lt;/strong&gt; This method allows a specific element to capture all subsequent pointer events, ensuring the drag interaction continues even if the cursor leaves the element&amp;#039;s boundaries.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Simplified Event Binding:&lt;/strong&gt; By using pointer capture, developers can bind move and up events directly to the target element rather than the global document or body.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Managing Capture Lifecycle:&lt;/strong&gt; Effective implementation requires calling setPointerCapture on down events and releasing it during up, cancel, or lostpointercapture events to maintain UI stability.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Related Pointer Control APIs:&lt;/strong&gt; Beyond basic dragging, developers should consider requestPointerLock for infinite movement and the touch-action CSS property to prevent native scroll conflicts.&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Legacy API Deprecation:&lt;/strong&gt; The older, non-standard setCapture() method is deprecated and must be replaced by the modern Pointer Events API in all current projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - November 3, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -1184,728 +1418,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;乐奇Rokid发布了包含AI眼镜和交互戒指在内的三款新品，进一步布局AR与AI硬件领域。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;Google DeepMind发布了实时交互模拟世界模型Genie 4，蚂蚁集团则推出了升级为事务管理者的AI助手灵光2.0。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;科技简讯部分涵盖了Apple回应iPhone Duo内屏问题、发布iOS 27.2正式版、OpenAI在多个科学领域取得成果以及NVIDIA和AMD与Meta的投资合作等内容。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - October 27, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-10-27</id>
-    <updated>2026-10-27T23:31:07.685Z</updated>
-    <published>2026-10-27T23:31:07.685Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>16 articles from 10 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - October 27, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;328.7671232876712&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    82.2%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;300&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;65&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;42&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████████████░░░░░ 82.2%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;16&lt;/strong&gt; articles from &lt;strong&gt;10&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://typewalk.net/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Typewalk – Lettering in public spaces&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 探索并记录城市公共空间中的独特字体设计。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Typewalk是一个记录和探索公共空间中字体设计的平台，用户可以捕捉城市街道、店面招牌和建筑立面上独特的Lettering，并创建或分享城市漫步路线。该平台汇集了全球多个城市的标志性字体遗产，鼓励人们参与Typographie的记录与归档，发现城市视觉文化的独特魅力。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://css-tricks.com/css-tricks-has-a-new-owner/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;CSS-Tricks has a new owner! | CSS-Tricks&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CSS-Tricks 重新回归独立运营并开启新篇章。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文宣布 CSS-Tricks 重新回归独立所有权，由长期参与者接管。文章回顾了该网站自 2007 年创立及 2022 年被 DigitalOcean 收购的历史，并展望了未来的发展方向，包括通过广告、新课程、会员体系和恢复简报来维持运营。作者强调将致力于打造一个更具包容性、面向初学者的前端学习社区，同时继续发布优质文章并赋能作者，展现了重振平台的决心与开放透明的态度。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Javascript Bytes &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://bytes.dev/archives/533&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Issue 533: TypeScript Can Read Your Weird Files&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 TypeScript 7.1引入Content Mappers支持任意文件类型检查&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文主要介绍了TypeScript 7.1 beta版本中引入的新功能Content Mappers，阐述了其如何通过插件将任意文件转换为虚拟TypeScript文件来解决非TS文件的类型检查问题。作者以幽默诙谐的风格剖析了这一特性的工作原理，并在文末分享了多项前端开发领域的最新资讯、工具推荐以及代码Bug解析。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了TypeScript 7.1 beta版本引入的新功能Content Mappers，它允许TypeScript读取和类型检查各种自定义文件格式。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了Content Mappers的工作原理，通过在tsconfig.json中注册插件，将任意文件转换为虚拟TypeScript文件以实现类型检查和IDE功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章最后分享了一些开发工具、技术资讯、开源项目更新以及一个JavaScript代码中的Bug解析示例。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/html-comments/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How to Comment in HTML (Single-Line, Multi-Line and Shortcuts)&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 全面解析HTML注释语法、快捷键及使用注意事项。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文全面介绍了HTML注释的语法和用法，包括单行与多行注释、代码调试中的临时隐藏方法、快捷键操作以及不规则嵌套和内容的限制。文章风格实用、条理清晰，适合初学者和开发者快速查阅HTML注释的核心知识与注意事项。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;简要介绍了HTML注释的基本语法，即使用&amp;lt;!--和--&amp;gt;包裹文本，浏览器会跳过这些内容。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细说明了HTML注释的使用方法，包括基本语法和可以放置的位置。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;解释了HTML没有专门的单行注释语法，相同的标签可以跨越多行使用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了如何通过注释来隐藏部分页面代码以便于调试或测试。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;警告开发者HTML注释不能嵌套，因为第一个--&amp;gt;会提前结束外层注释。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;列出了主流代码编辑器（如VS Code、JetBrains、Sublime Text）中用于注释的快捷键。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;指出了HTML注释内容的一些限制规则，例如不能以&amp;gt;或-&amp;gt;开头，也不能包含特定的字符组合。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/htaccess-301-redirect/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;301 Redirects in .htaccess: Copy-Paste Examples&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 全面解析.htaccess中301重定向的配置方法与实战技巧。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文由Marko Denic撰写，详细介绍了在Apache服务器的.htaccess文件中配置301重定向的实用方法与代码示例。文章采用结构清晰的技术指南风格，涵盖了从单页跳转、整站迁移、HTTPS强制、URL规范化到WordPress集成及nginx等效配置的全面内容。作者同时强调了使用curl进行测试的技巧，并指出了避免重定向死循环和SEO价值传递等核心要点，为开发者提供了极具参考价值的Web运维指南。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了301重定向的基本概念及在Apache服务器上通过.htaccess文件进行配置的方法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细讲解了单页面重定向、多页面管理以及利用RedirectMatch和mod_rewrite处理文件夹和域名跳转的规则。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;涵盖了HTTPS跳转、www与非www规范化、添加尾斜杠以及处理Query strings的具体代码示例。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;说明了在WordPress中放置重定向代码的正确位置，或使用插件来替代手动编辑服务器文件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;指出了使用curl进行测试的重要性，并列举了重定向链、循环等常见错误及规避方法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;提供了nginx环境下的重定向等效写法以及关于301重定向常见问题的FAQ解答。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/10/book-review-you-could-do-something-amazing-with-your-life-you-are-raoul-moat-andrew-hankinson/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: You Could Do Something Amazing with Your Life [You Are Raoul Moat] - Andrew Hankinson ★★★★☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 评析挑战读者认知的第二人称传记书籍。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文对Andrew Hankinson撰写的关于Raoul Moat的第二人称视角书籍进行了深刻的书评与探讨。作者通过巧妙地使用Moat本人的言论、官方报告及访谈，构建了一个既不美化也不过分同情、充满偏执与妄想的人物形象。文章探讨了社会责任、个人自主权以及面对精神健康问题时的两难抉择，并对警方在事件中的行为提出了质疑。整体文风客观且充满挑战性，给读者留下了深刻的反思空间。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 The Technium &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://kk.org/thetechnium/a-proposal-for-universal-national-service/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;A Proposal for Universal National Service&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 建议对18至21岁青年实行强制国民服务。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文作者提出了一项针对18至21岁年轻人的全员强制国民服务计划，涵盖军事与多元化的民事服务且不设豁免。文章详细阐述了该计划在军事、应急、环保、教学和数据整理等方面的具体工作内容，并指出其在促进教育、增进社会融合、对抗政治极化等方面的巨大 payoff。尽管面临高昂成本及制度挑战，作者认为其长期综合效益远超投入。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章作者提议所有18至21岁的年轻人应强制进行两年的国民服务，形式涵盖军事或民事服务且无豁免权，这对个人、国家乃至世界皆有益处。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;服役的具体工作范围广泛，包括军事各兵种、应急救援、公园户外劳务、教育辅导、数字化历史档案以及公共卫生和生态监测等。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;国民服务能够为年轻人提供有益的教育间隙，增强学习动机，远离屏幕，并通过跨背景合作有效缓解政治极化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;该计划的主要缺点在于高昂的财政成本以及对付费劳动力竞争和宪法层面的挑战，但这些问题可以通过长远效益和AI难以取代的岗位价值来弥补。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/10/27/the-quasi-riemann-hypothesis/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;The quasi-Riemann hypothesis&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Maksym Radziwill将在Courant主讲quasi-Riemann hypothesis。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一则简短的学术讲座通知，宣布Maksym Radziwill将于明天在Courant就quasi-Riemann hypothesis发表混合形式的演讲，并附带了大量的社交媒体分享链接。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/10/26/more-additional-blog-posts-and-articles/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;More additional blog posts and articles&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 学者探讨AI时代的Mathematics与LLMs发展。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文列举并盘点了一系列关于数学与AI发展的讨论文章与博客，涵盖了Pavel Etingof、Timothy Gowers、Elchanan Mossel、Ben Recht、Grant Sanderson等多位学者的观点，探讨了Mathematics、AI、LLMs、Reasoning等前沿议题，并邀请读者在评论区补充相关链接。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-10-27T08:43Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-10-27T08:43Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 CSS-Tricks迎来新主人Geoff Graham，独立技术出版物的回归备受行业鼓舞。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文围绕Geoff Graham收购并全职接管CSS-Tricks这一行业事件展开，表达了对独立技术出版物回归的喜悦与支持。作者通过引用业内人士观点，批判了行业中试图通过订阅制盘剥开发者价值的现象，同时对比了其他技术博客全面转向AI的现状，凸显了CSS-Tricks回归对于前端开发社区的重要意义。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Geoff Graham表达了自己接手并全职运营CSS-Tricks的喜悦、压力与期待。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;业界评论认为CSS-Tricks的回归是行业所需的重要胜利，并批判了某些试图垄断技术和收费的行业现象。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章指出独立技术出版物日益减少，并对部分博客全面转向AI的现象表达了失望与反思。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202610/92141&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;公式コミカライズ『戦場のフーガ 鋼鉄のメロディ』第95話 公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 ファミ通.comの最新ゲーム情報と漫画連載の紹介。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文主要介绍了ファミ通.com的相关游戏资讯与连载漫画信息，包括『戦場のフーガ 鋼鉄のメロディ』第95話の告知、サイバーコネクトツー松山洋氏による書籍『ゲーム業界の攻略法』の発売情報、さらに週間ゲームソフト売上ランキングや最新の関連記事・特集などを網羅しています。全体としてゲームファン向けの新着情報やメディアのプロモーションを多角的に伝える構成となっています。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 好色龍的網路生活觀察日誌 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://hornydragon.blogspot.com/feeds/153503527133674492/comments/default&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;雜七雜八短篇漫畫翻譯2242&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 读者对好色龍短篇漫畫的留言与感悟&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文为好色龍的網路生活觀察日誌部落格短篇漫畫翻译2242篇的读者评论合集。读者们通过留言表达了对特定漫画内容的喜爱、通关游戏的感悟以及对人生艰难的共鸣，展现了轻松互动的社群氛围。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/117633&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派Matrix社区重启周报并盘点派友九月剁手清单。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了少数派Matrix社区的重启动态与全新栏目内容，并汇总了第298期一派讨论中数百位派友在九月份的“剁手清单”。内容涵盖了平价钢笔体验、数码产品升级、智能家居配置、旅行攻略以及各类生活好物的真实评测与分享。作者通过轻松自然的语调，展示了社区成员丰富多彩的消费生活与对实用好物的追求。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派Matrix社区重启Matrix周报并调整新玩意栏目，金豪59调整版钢笔凭借高性价比和出色的铅笔写感成为作者的意外之喜。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在第298期一派讨论中，439名派友分享了自己在9月购买的各种好物，包括实用家电、数码产品、旅行装备以及日常生活用品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;多位派友分享了旅游出行体验，包括新疆、贵州、阿勒泰等地的大环线旅行，以及东京自由行的购物收获与感悟。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;派友们分享了各自的数码设备更新与升级经验，涵盖了iPhone新机、MacBook、人体工学椅以及扫地机器人等实用产品的使用感受。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/117557&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Apple Sports：不看新闻、不聊球，只看我关心的比赛&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Apple Sports帮体育迷高效追踪赛事。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了苹果官方推出的体育应用 Apple Sports 在国区上线后的使用体验与核心功能。作者从自身作为体育迷的角度出发，阐述了该应用如何帮助用户摆脱繁杂资讯的干扰，专注于比赛本身的比分、技术统计和实时战况。文章详细梳理了赛事关注、数据查看、小组件与实时活动等系统级功能，并指出了国区版本的局限性。整体文风客观实用，旨在为体育爱好者提供一款高效追踪赛事的工具指南。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者作为一个资深体育迷，曾通过各种平台获取体育资讯，但随着年龄增长和生活重心的改变，逐渐厌倦了无效信息。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Sports 官方应用国区上线，支持简体中文，它能让用户聚焦于比赛本身，提供丰富的体育内容与便捷的关注设置。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;应用提供赛事结果、技术统计和首发阵容等详细数据，方便没时间看直播的上班族快速了解比赛走势。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在比赛进行时，首页可显示即时比分与事件记录，并且不同运动项目会采用适配的计分和进程特点展示。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;用户可以通过小组件和实时活动等系统功能，在 iPhone 锁屏、灵动岛、Apple Watch 以及 Mac 菜单栏随时跟进比赛。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;国区版本虽已上线，但因缺乏流媒体版权，无法体验外区的一些生态联动，同时国内赛事目前也有所缺席。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple Sports 满足了作者在忙碌时快速了解主队赛况的需求，无需花费大量时间追踪繁杂的体育资讯。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/115855&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 通过NAS与NUT协议实现局域网多设备断电自动关机。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了利用NAS作为UPS总控，实现局域网内多台设备在断电时自动安全关机的详细教程。作者以威联通NAS和APC UPS为例，首先讲解了主控NAS的硬件接线、QTS后台配置及NUT服务验证；接着介绍了其他NAS作为从属客户端的网络连接方法；最后重点讲解了Windows系统利用开源WinNUT-Client软件接收NUT信号并配置自动关机的步骤。文章实用性强，步骤清晰，有效解决了多设备环境下的断电保护痛点。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了如何通过NAS作为UPS总控，解决普通民用UPS只能给单台设备供电导致局域网其他设备裸掉电的问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第一部分详细讲解了如何将威联通NAS通过USB直连UPS作为总控设备，并开启NUT网络UPS服务供局域网调用。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第二部分说明了局域网内其他从属NAS如何通过网络模式连接主控NAS的UPS信号并设置为NUT客户端。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;第三部分介绍了Windows系统通过开源WinNUT-Client软件读取NAS的UPS数据，实现断电后自动安全关机的方法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结部分指出借助NUT协议能用单台UPS实现局域网多设备协同断电保护，并预告了后续可能推出的扩展教程。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/117600&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Apple 发布 iPad mini (A20 Pro) 等&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 科技早报：Apple发布新款iPad mini，多AI巨头迎动态&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一份科技早报，主要汇总了近期科技领域的最新动态与产品发布。内容涵盖 Apple 发布新款 iPad mini (A20 Pro)、八家互联网企业签署营销自律公约、CHERRY 推出机械新轴体、HTC 公布口袋 AI 伴侣、OpenAI 发布 GPT-6.1 Terra 以及 Anthropic 计划发起 IPO 等行业热点。文章保持了客观简洁的资讯播报风格，全面梳理了近期软硬件及 AI 领域的关键进展。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple 于 10 月 26 日发布了搭载 A20 Pro 芯片及多项硬件升级的全新 iPad mini。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;八家互联网企业在第 33 届中国国际广告节上共同签署了《互联网营销宣传自律公约》。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;CHERRY 推出包含全新静音段落轴 MX EMERALD REEF 在内的三款新轴体。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;HTC 公布了一款预售价 99.99 美元的口袋 AI 互动伴侣 VIVEE。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;OpenAI 发布了主打视觉推理与计算机操作的主流模型 GPT-6.1 Terra。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Anthropic 宣布已向 SEC 提交 S-1 注册声明，拟进行首次公开募股并以 &amp;quot;ANT&amp;quot; 为代码上市。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - October 26, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-10-26</id>
-    <updated>2026-10-26T23:36:42.368Z</updated>
-    <published>2026-10-26T23:36:42.368Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>13 articles from 8 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - October 26, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;327.67123287671234&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    81.9%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;299&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;66&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;42&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;█████████████████████████░░░░░ 81.9%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;13&lt;/strong&gt; articles from &lt;strong&gt;8&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22815&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Monday session&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录2026年10月26日发布动态及社交互动信息。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了2026年10月26日星期一晚上9:10的发布信息，包含了地理坐标信息（51° N , 0° W）、多平台分享渠道（Mastodon、Bluesky）以及点赞互动记录，最后留有链接回应的征集。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 DOGHAUS &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.webtoons.com/en/canvas/doghaus-/no-336/viewer?title_no=853933&amp;episode_no=351&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;No. 336&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 WEBTOON漫画DOGHAUS第336话页面及目录索引&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文展示了WEBTOON平台上的CANVAS漫画《DOGHAUS》第336话的页面信息与导航内容。文章罗列了该漫画从早期到336话的所有章节索引、订阅选项、社交分享链接以及分类排名等平台功能模块。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 JustZht&amp;#039;s EchoChamber &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.justzht.com/2026-10-25/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;2026.10.25&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 记录游戏开发进展、生活感悟及法律纠纷处理。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者近期的生活与工作动态，主要涵盖独立游戏 Epoch 的跨平台开发进展、观影体验、为提升工作流而购置新电脑 Mac Studio 的决定，以及历时很久的肇事逃逸案件中与对方律师的法律交锋与进展。作者以随笔的风格，真实展现了自己在技术开发、日常生活及应对突发纠纷时的状态与心路历程。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Epoch 借助 Playdate API 兼容层实现了在 Mac 等平台上的原生运行，但开发重心依然聚焦于 Playdate。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者观看了电影 You Can See Everything，认为其十分烧脑且极具 meta documentary 特色。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者购买了 M5 Max 的 Mac Studio 用于日常工作流，并希望借此在圣诞假期前完成 Epoch 的开发。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者讲述了与对方律师在肇事逃逸案件上的强硬交锋与最新进展，目前赔偿事宜有望推进。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/check-node-version/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How to Check and Update Your Node Version (Windows, Mac, Linux)&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 全平台Node.js版本检查、更新及项目版本固定指南。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了在Windows、Mac和Linux系统上检查和更新Node.js版本的方法。作者详细讲解了如何通过终端或代码检查当前版本、选择合适的LTS版本、使用版本管理工具（如nvm、nvm-windows、fnm）或操作系统原生包管理器进行更新，以及如何在项目中固定Node版本。文章行文清晰、实用性强，旨在帮助开发者避免版本不一致带来的兼容性问题。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/window-opener/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;window.opener and target=”_blank”: The Tabnabbing Risk Explained&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 解析window.opener引发的reverse tabnabbing风险及防御策略。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文详细探讨了JavaScript中window.opener属性的安全隐患，重点解释了reverse tabnabbing（反向标签劫持）攻击的原理。攻击者利用新打开的页面篡改原页面的location，将其重定向至钓鱼网站以窃取凭证。文章给出了多种防御方案，包括在HTML中使用rel=&amp;quot;noopener&amp;quot;、JavaScript中配置noopener参数、以及部署Cross-Origin-Opener-Policy响应头。同时，文章说明了在OAuth等合法场景下如何通过postMessage安全地进行跨窗口通信。作者行文清晰，结构紧凑，为Web开发者提供了实用的安全指南。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了window.opener属性的作用及其在跨站链接中可能引发的reverse tabnabbing安全风险。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;被打开的恶意或受compromised页面虽然受同源策略限制，但仍可修改原页面的window.opener.location进行钓鱼攻击。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过在HTML链接中使用rel=&amp;quot;noopener&amp;quot;或在JavaScript中使用noopener参数，可以有效切断原页面引用，防范钓鱼风险。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管现代主流浏览器已将target=&amp;quot;dancer&amp;quot;默认视作包含noopener，但显式声明仍是最佳实践。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;网站可通过设置Cross-Origin-Opener-Policy头来全局保护跨域打开的页面。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在OAuth登录、支付等合法需要window.opener交互的场景下，应使用postMessage进行安全通信并严格校验源。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;FAQ部分解答了关于window.opener、reverse tabnabbing及noopener在2026年适用性的常见疑问。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/10/theatre-review-opera-untoucheds-the-telephone/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Theatre Review: Opera UnTouched&amp;#039;s &amp;quot;The Telephone&amp;quot; ★★★★★&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 办公室里的沉浸式喜剧歌剧体验极佳。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文评论了Opera UnTouched在伦敦一间真实办公室里上演的沉浸式喜剧歌剧。作者高度赞扬了演员的出色唱功、真正沉浸式的互动体验以及剧团精心准备的迎宾细节（如赠送Prosecco和lanyard）。整体文风轻松幽默且充满赞赏，作者唯一的遗憾是演出时间太短，并给出了五星好评。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Opera UnTouched在Tooting的一间真实办公室里上演了一部短小精悍的喜剧歌剧，给雨天带来了极大的欢乐。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;演员Grace Watkins和Stephen Whitford表现极其出色，演出真正做到了沉浸式，让观众仿佛置身于真实的办公室离职派对中。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者唯一的批评是演出时间太短，甚至愿意观看完整长度的作品并在不同办公室之间穿梭。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在演出开始前，剧团通过发放lanyard、迎宾Prosecco等巧妙的小细节瞬间温暖并征服了淋雨的观众。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;演出结束后，演职人员不仅呼吁填写反馈，还亲切地与观众交流，最终该剧获得了五星好评。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/recruit/?p=12267&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;【採用情報】急募！シネマティックアニメーターアシスタント募集 [アルバイト]（福岡本社・東京スタジオ・大阪スタジオ）&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 某游戏公司招募シネマティックアニメーター助理&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一则游戏公司关于シネマティックアニメーター助理的招聘启事。文章详细介绍了アルバイト的雇用条件、工作地点（包括福岡、東京、大阪）、工作时间、薪资待遇以及具体的募集要件与职责。要求应聘者具备PC基本操作能力及3DCG工具基础，并需提交简历、问卷及作品。公司提供转正机会，鼓励有志于游戏开发的求职者积极申请。&lt;/p&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.famitsu.com/article/202610/92062&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;『チェイサーゲーム』シーズン2 第75話 悪事千里（4）公開！&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 《チェイサーゲーム》シーズン2第75话更新及游戏业界相关资讯介绍。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了ファミ通.com连载漫画《チェイサーゲーム》シーズン2第75话的相关内容，包括游戏项目《天女世界》的交接、莲实的退职以及涉及警察的剧情发展。同时，文章推广了松山洋著作《ゲーム業界の攻略法》，并穿插了游戏资讯、销量排行及广告内容。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(4 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/117529&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派评 | 近期值得关注的 App&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 盘点近期值得关注的6款优质App应用。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是少数派编辑部带来的近期值得关注的 App 推荐盘点。文章详细介绍了 Very Good Camera、Controller for HomeKit 10、X 手势、2Dots、Floria 以及 Pomodoro Timer 共六款涵盖不同平台与场景的优质应用。通过客观细致的功能拆解与体验分享，展示了这些工具在摄影模拟、智能家居控制、系统手势扩展、Mac 刘海屏利用、情绪树洞及番茄效率管理等方面的创新亮点，为追求高效与品质生活的用户提供了丰富的软件选择。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了近期值得关注的多款优秀App，涵盖摄影、智能家居、手势操作、刘海屏小工具、情绪记录以及番茄钟等多个领域。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Very Good Camera 是一款主打模拟胶片相机质感和色彩的 iOS 相机应用，提供多种经典预设与完整的拍摄控制功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Controller for HomeKit 10 迎来了大版本更新，带来了自定义仪表盘和家庭共享功能，进一步补全了智能家居体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;X 手势是一款功能强大的 Android 全能单手操作工具，通过边缘手势和悬浮球等提供了丰富的快捷操作与扩展功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2Dots 是一款 Mac 刘海屏小工具，将刘海区域改造成高效的信息枢纽与多功能操作区，支持高度自定义。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Floria 结合了日记与情绪记录，通过思绪总结和陌生人互动，帮助用户在安全的环境中倾诉与疏导情感。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Pomodoro Timer 将番茄钟计时器与 App 限额功能相结合，允许用户通过完成任务与应用进行灵活的「讨价还价」以提升专注力。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/117414&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;秋冬换季护肤买什么，双 11 选购推荐&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 双十一秋冬换季护肤指南与精简搭配推荐&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一份针对双十一购物节的秋冬换季护肤指南。作者结合季节气候特点，提出了精简护肤、强化保湿与维稳的核心理念，详细介绍了从清洁、精华水、精华液、精华油、面霜、乳液到眼部护理的全套产品选购与搭配策略。文章风格专业且实用，兼顾不同肤质的需求，帮助读者在换季时科学理性地选择护肤品。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章作者应读者邀请，在双十一到来之际加更了一期秋冬护肤品选购与搭配建议，主要介绍新发现的护肤产品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;秋冬季节南北方气候干燥或湿冷，护肤清洁需要减少刺激，建议大多数肤质晚上用洗面奶、早上用清水或温和洁面。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;进入秋冬后护肤需注重精简，通过跳过爽肤水、组合精华与面霜、灵活使用乳液等策略来强化功效并保持皮肤稳定。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章推荐了三式解忧精粹水、THE GINZA澄晶焕能水和DALTON鱼子精华水三款适合不同肤质的精华水产品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对一般、油性和混合肤质，作者推荐了Diary 50%玻色因黑精华、Novexpert VC精华液等高效且实用的精华液。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于干敏肌等需要补充油脂的人群，作者推荐了醉象马鲁拉油和伊索澄彩保湿面部精油两款精华油产品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者将面霜分为保湿滋润型与强功效型，推荐了Instree紫洋葱面霜、宝拉珍选胜肽面霜和维蕾德全能霜等单品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在乳液方面，推荐了主打果酸保湿的芯丝翠温和修护乳液和适合油敏肌的John Jeff姜黄控油乳液。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;针对眼部护理，作者推荐了茱莉蔻肌源焕新眼部精华油和三式宝塔精华眼霜两款局部加强产品。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结指出秋冬护肤应以保湿维稳为先，读者可根据实际需求和现有库存灵活调整护肤搭配。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/115074&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;曲高和寡、终成绝唱：傲腾 P5800X 测试报告&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Intel傲腾P5800X深度评测：3D XPoint绝唱的极致性能与收藏价值&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文对Intel傲腾P5800X 1.6TB固态硬盘进行了全面深入的评测。文章首先介绍了3D XPoint存储介质与NAND闪存的本质区别，回顾了傲腾系列辉煌而曲折的历史。接着，作者详细测试了该盘在常规性能、基准测试、读写曲线、FIO以及SNIA-SSS-PTS-E 2.0规范下的各项表现。评测表明，凭借独特的物理特性，傲腾P5800X在延迟、随机读写和寿命上具有NAND SSD无法比拟的压倒性优势。作者风格严谨专业，结论认为虽然其不适合普通日常使用，但对于SSD发烧友来说，这款绝版产品极具收藏与致敬价值。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (10 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文带来了Intel傲腾P5800X 1.6TB的深入测评报告，探讨了采用3D XPoint存储介质的傲腾系列在底层原理上与NAND闪存的根本差异及其独特的物理特性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;傲腾系列拥有极低的读写延迟、超高且稳定的随机读写性能及惊人的写入寿命，但因成本高昂在商业上遭遇失败，Intel最终关停了傲腾业务使之成为绝响。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;近期小黄鱼上出现了大量傲腾P5800X的数据中心退役盘，对于发烧友而言价格具有了一定性价比，作者得以借来一块并进行了详细深入的测试。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;产品外观采用2.5寸SFF-8639企业级接口，拥有22W标称功耗，在Intel i9-14900K测试平台上展现了强劲的硬件规格与S.M.A.R.T状态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在CrystalDiskMark常规性能测试中，傲腾P5800X展现了极高的Q1T1单队列4K随机读取速度，且无SLC Cache降速问题，延迟表现极佳。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在PCMark 10和3DMark存储基准测试以及SPECworkstation 3.1中，傲腾P5800X均取得了遥遥领先的优异成绩，表现无敌。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;通过全盘范围的顺序和随机写入测试，傲腾P5800X展现了极其平滑且无需先擦后写的满血性能曲线，没有NAND SSD的脏盘性能衰减问题。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在Linux系统下通过ezFIO进行长时间混合测试，傲腾P5800X在各项测试中均表现稳定，其随机读写性能和低延迟优势远超NAND SSD。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;严格遵循SNIA-SSS-PTS-E 2.0规范的企业级测试表明，傲腾P5800X在稳态下的IOPS、延迟和吞吐量均呈现出绝对的水平线，性能表现极其稳健。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结认为，傲腾P5800X作为3D XPoint的绝唱堪称外星科技，虽然不推荐普通用户购买，但对于SSD发烧友和收藏者而言具有极高的技术致敬价值。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/117180&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 少数派联手红树林基金会开启深圳湾候鸟季公益直播与湿地保护行动。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了深圳湾在秋冬季节迎来的候鸟迁徙盛况，以及少数派联合红树林基金会举办的候鸟季公益直播和系列科普活动。文章强调了湿地生态保护的重要性，号召公众通过参与自然市集、了解防鸟撞知识以及购买环保公益衍生品等方式，将对自然的关注融入日常生活，共同守护候鸟与其赖以生存的湿地环境。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;每年秋冬季节，深圳湾迎来大批迁徙候鸟，成为观鸟爱好者期待的时节和公众认识候鸟的好机会。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;深圳湾是东亚—澳大利西亚候鸟迁飞通道的关键节点，拥有丰富的滩涂和湿地为鸟类提供栖息空间。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;10月底将举办黑琵自然市集与候鸟科普长廊活动，多角度向公众展示鸟类保护故事与湿地生态。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;候鸟的生存离不开湿地环境，红树林基金会自成立以来持续推动红树林生态系统的保护与恢复工作。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派将联合红树林基金会开展候鸟季公益直播，普及湿地保护，并引导公众将自然关注融入日常生活。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;公众可通过防鸟撞等日常小事参与保护，并在直播中了解和购买以湿地动物为原型的环保公益好物。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;10月30日晚，少数派联合红树林基金会推出深圳湾候鸟季特别直播，邀请大家共同关注和认识候鸟。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 张鑫旭-鑫空间-鑫生活 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;算了，还是讲下named-feature() @supports规则检测吧&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 介绍CSS特殊检测函数named-feature()及其在锚点定位与单轴滚动中的应用。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了CSS中特殊的@supports检测函数named-feature()及其两大经典用法。作者以通俗幽默的文风，深入探讨了该函数在检测锚点定位跟随transform行为以及单轴滚动容器能力方面的应用背景。文章指出，传统语法只能检测语法是否认识，而named-feature()能够检测浏览器底层行为或bug是否修复，从而帮助开发者更好地做新老特性兼容。尽管该特性非常小众且兼容性较新，但其背后的设计理念极具价值。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (5 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;本文介绍了一个特殊的CSS @supports检测函数named-feature()，并列举了两个经典用法。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者解释了引入named-feature(anchor-position-follows-transforms)的原因，用于解决旧版实现中transform后锚点定位坐标不更新的bug。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章详细说明了单轴溢出的问题，即历史遗留的次轴无法彻底裁剪导致粘性定位失效的现象。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;为了解决单轴滚动和粘性定位的冲突，CSS规范进行了修订，允许特定的overflow组合。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结了named-feature()特征检测虽然小众且兼容性较新，但其背后的故事和设计想法很有意思。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - October 25, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-10-25</id>
-    <updated>2026-10-25T22:13:11.263Z</updated>
-    <published>2026-10-25T22:13:11.263Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>4 articles from 4 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - October 25, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;326.5753424657534&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    81.6%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;298&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;67&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;42&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████████████░░░░░░ 81.6%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;4&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Adactio &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://adactio.com/notes/22814&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Imagining the sci-fi cabal meeting where Adrian Tchaikovsky and Ray Nayler divvied up their assignments: “Okay, we can both do octopuses and crows, but let’s toss a coin for mammoths; loser has to do spiders.”&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 调侃科幻作家分配创作题材的幽默短文。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文是一则发布于2026年10月25日的简短博客或社交媒体帖子，作者幽默地幻想了科幻作家Adrian Tchaikovsky和Ray Nayler在虚构的会议上分配科幻创作题材（如章鱼、乌鸦、猛犸象和蜘蛛）的情景。文章还包含了社交媒体互动信息，如发布平台、地理坐标、点赞记录和回应链接等元素。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/npm-uninstall-package/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;npm uninstall: How to Remove (and Update) npm Packages&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 npm包的卸载、更新与清理完全指南&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了npm包管理器的基础与进阶使用方法，重点讲解了如何使用npm uninstall及其别名来卸载单个、多个、开发及全局依赖包。文章还涵盖了项目清理、查找未使用的依赖、检查已安装包以及更新包版本（包括检查过期包、按版本范围更新和大版本升级）的操作指南，并对比了yarn和pnpm的等效命令，最后解答了常见问题。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 LiberNovo Omni是一款配备USB-C充电与电动按摩功能的舒适办公椅。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文评测了LiberNovo Omni这款带有USB-C充电功能和电动腰靠按摩的高端办公椅。文章以轻松幽默的笔调，从组装体验、特色功能、配件、价格及最终感受全方位介绍了该产品。作者认为其组装友好、舒适度极高且电动调节设计十分巧妙，虽然价格不菲但物有所值，给予了高度评价。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者介绍了LiberNovo Omni这款具备USB-C充电功能的舒适办公椅，并指出它拥有出色的舒适度和独特的电源供电特性。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;该椅子的组装过程非常简便，不仅提供视频教程和巨型纸板说明书，还贴心地附带了标记螺丝、六角扳手和安全手套。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;椅子配备了2200mAh的USB-C电池包，可以通过扶手上的按钮电动调节腰部支撑并提供内置背部按摩功能。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;椅子支持160度大角度倾斜且非常稳定，并搭配了一个坚固舒适的脚凳来提升休息体验。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;该椅子售价约700至1000英镑，虽然价格昂贵，但相比高端品牌仍具备价格优势且功能丰富。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者总结认为该电动调节和按摩功能虽然略带极客趣味，但整体舒适度与实用性极佳，给予极高评价。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/114741&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 60元小米遥控器改造AI编程实体控制器的完整指南&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了如何利用售价仅50至60元的小米蓝牙遥控器2 Pro（RC003），搭配开源软件与AI编程工具（如Codex、WorkBuddy等），打造一款低成本且体验扎实的Vibe Coding实体按键控制器。文章详细阐述了硬件选型理由、跨平台软件配置流程、常见排坑技巧以及在终端管理器Herdr中的具体键位映射方案。作者文风实用且注重细节，通过亲身体验展示了该方案在减少打字疲劳、提升多终端交互效率方面的显著效果。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章介绍了使用成本仅50-60元的小米蓝牙遥控器2 Pro（RC003）来打造AI编程实体控制器（Vibe Coding神器）的背景与动机。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;详细阐述了选择小米RC003作为控制硬件的原因，包括原生蓝牙BLE直连、金属质感机身、干脆清晰的按键段落感和优秀的盲操布局。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了通过开源软件打通系统与语音输入的配置流程，实现了macOS和Windows平台下的语音键监听、虚拟音频设备生成及与输入法的配合。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;分享了实际配置过程中的几个关键排坑技巧，包括SayAll引导界面的跳过、微信输入法独立Fn键的录入修复以及方向键快速连按的优化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;结合Herdr终端管理器、Codex及WorkBuddy等工具，具体讲解了空间直觉的按键映射方案及终端工作流的配置细节。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结了这套低成本硬件方案在实际日常使用中的真实感受，指出其显著提升了语音输入的意愿和多终端巡视的便利性。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - October 24, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-10-24</id>
-    <updated>2026-10-24T22:11:11.563Z</updated>
-    <published>2026-10-24T22:11:11.563Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>7 articles from 6 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - October 24, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;325.47945205479454&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    81.4%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;297&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;68&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;42&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;████████████████████████░░░░░░ 81.4%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;7&lt;/strong&gt; articles from &lt;strong&gt;6&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 David Heinemeier Hansson &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/seven-years-from-china-a63b03cc&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Seven years from China&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 作者重访中国后惊叹于其飞速发展的现代化与科技实力，呼吁西方警醒并重塑竞争力。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者在时隔七年后重访中国深圳、杭州和北京，对中国在城市建设、科技创新、新能源汽车（如小米工厂）以及社会整体所展现出的惊人速度、雄心和现代化水平进行了全方位的赞叹。作者以亲历者的视角，将中国的高效运转、强烈的竞争意识与西方当前的停滞与落后进行了深刻对比，探讨了地缘政治与产业竞争的未来走向，同时呼吁西方清醒面对挑战，重拾信心与创新活力。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (26 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者回忆了2011年首次去中国珠海参加赛车比赛时的情景，当时的印象是充满工业感、低空雾霾和粗粝的美学。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在随后几年里，作者频繁前往上海参加世界耐力锦标赛，虽然天际线渐亮但雾霾依旧，交通状况也充满狂野的边界感。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;新冠疫情爆发后，作者有七年时间未去中国，只能从西方远观其电子、服务和汽车领域的迅猛发展。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;直到最近一周走访深圳、杭州和北京，作者才真正惊叹于中国自其上次访问以来发生的巨大变化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;如今中国城市变得光鲜亮丽，高铁、机场和天际线充满未来感，曾经的雾霾和柴油发动机噪音已不复存在。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者从未见过哪个国家变化如此之快，深圳速度和整个国家过去十年的高频运转取得了惊人的成果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;这种成就是靠巨大的努力换来的，深夜和清晨的频繁回复展现了中国社会极高且令人惊叹的节奏和期望值。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;高强度的工作节奏虽然带来了996文化的代价，但也换来了极为非凡的发展成果。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者参观了小米位于北京的全自动汽车工厂，其高度机器人化和无人化的生产线令人震撼。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米在极短时间内实现了汽车的大规模交付，并推出了性能强劲且价格极具竞争力的SU7 Ultra。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;中国最大的物质变化是街头被眼花缭乱的国产电动汽车品牌取代，其舒适度和豪华感甚至超越了德国巨头。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;网约车体验豪华且价格低廉，反衬出燃油车的落伍，中国制造在物质层面上已达到极高水平。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;除了物质差异，中国人在科技公司和会议上表现出的好客、热情以及对技术的好奇心也给作者留下深刻印象。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管作者自带一定的知名度光环，但中国各界所展现出的乐观、雄心和驱动力依然与西方有着明显不同。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;将中国科技巨头与美国同行进行对比，可以发现双方在对话质量和执行速度上存在很大差异。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;虽然旅行时间短可能带有滤镜，且中国也有自身挑战，但这些挑战未必比西方目前面临的更大。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;对于陷入停滞的西方国家而言，中国的高效、繁荣和安全整洁的城市具有相当的吸引力。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作为西方人，面对中国由工程师领导、竞争激烈的市场，难免会产生羡慕甚至是对政体优势的反思。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;在国际地缘政治和贸易平衡中，中国的实力和极具竞争力的产品与服务才是客观存在的不争事实。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;欧美在许多加速向前的中国产业面前，面临着极其沉重的重返竞争力的工作任务。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;未来有两种可能：一种是通过公平竞争实现共同繁荣与双赢，另一种是西方因忽视竞争警告而固步自封。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;西方需要清醒意识到目前的竞争态势，不能仅仅在工厂倒闭和企业破产时才被动感知危机的到来。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;小米的智能制造和快速交付是具体而鲜明的例证，而AI领域则是欧洲面临的另一巨大挑战。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;面对落后不应该陷入末日论和绝望情绪，每天都是做出不同选择、重塑竞争力的崭新机会。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;西方历史上有辉煌的工业成就，美国目前也依然在AI软件和SpaceX等领域领先，西方完全有能力迎接挑战。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者对中国的雄心、精神和发展规模感到由衷惊叹，并对未来的再次访问充满期待。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://world.hey.com/dhh/be-a-tech-bro-30db1962&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Be a tech bro&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 自豪做一名tech bro并推动技术进步。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文探讨了&amp;quot;tech bro&amp;quot;这一身份认同，作者认为应当为对computers和技术的真诚热爱以及相关的精英社群感到自豪，而不应向刻板印象或贬低性言论妥协。文章指出，个别不良行为或性别比例不应成为否定整个群体或技术的理由，并呼吁所有致力于技术进步的同行者互相支持、共同庆祝进步。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者认为人们应互相照应，而对他而言，共同的兴趣是computers，因此他自豪地认为自己是一个tech bro。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管该词有时被贬低用来攻击他人，但没有理由放弃这个词，也不应因为小肚鸡肠的人而退缩。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;人们应该为对computers、相关商业以及精英社群的热情感到骄傲，而不应感到羞耻。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;标签并不等于赋予了成为asshole或scammer的特权，问题的核心不在于他们对computers的兴趣或性别。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;虽然男性在computing领域占主导地位，但这不能成为集体定罪的理由，女性的少数地位也不应贬低其成就。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者呼吁所有致力于推动技术进步、庆祝发展并拒绝衰退的tech bro互相支持并共同前进。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/radial-gradient-css/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;CSS radial-gradient(): Syntax and Examples&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 详解CSS radial-gradient语法与应用&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了CSS属性radial-gradient()的语法规则与实际应用案例。文章详细讲解了径向渐变的形状、大小、位置以及颜色停止点的设置方法，并对比了radial-gradient与linear-gradient、conic-gradient的区别，最后解答了常见问题。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: Get Ahead of Being Dead by Evie King ★★★★☆&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 一本实用且包容的死亡行政事务规划指南。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了Evie King的新书，这是一本关于处理死亡相关行政事务（deadmin）的通俗指南。文章作者采用聊天和随意的风格，将死亡趣事与关于死者待遇的政治信息相结合，书中包含大量章节末尾的填空问题，旨在帮助读者轻松规划后事。该书具有极高的包容性，虽然这种非传统风格并不适合所有人，但它兼具挑战性与实用性，是一本值得购买并认真填写的佳作。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 What&amp;#039;s new &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;oai-math-revised: a community hub for revising OpenAI’s math write-ups&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 数学界发起开源项目改进OpenAI的math write-ups&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了针对OpenAI的math write-ups存在理解难度高及引用不完整等问题，由Abhinav Nellore、Johannes Schmitt、Soledad Villar和Rachel Ward等人发起的开源社区项目oai-math-revised。该项目旨在通过包容性的协作来改进这些文档，并邀请全球数学爱好者、学生及学者参与贡献或申请成为管理员与审阅者，以提升数学文档的质量和可读性。&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 dbushell.com (all feeds) &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://dbushell.com/notes/2026-10-24T06:14Z/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;https://dbushell.com/notes/2026-10-24T06:14Z/&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 日本推理小说阅读心得与书单排名分享。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;作者分享了近期阅读日本侦探与推理小说（包括shin honkaku风格）的心得与书单排名。文章按阅读时间顺序评价了Seishi Yokomizo、Masako Togawa的《The Master Key》以及Masahiro Imamura的《Death Among the Undead》等作品，展现了作者对该文学流派演变及现代创新的持续关注。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者近期阅读了更多shin honkaku等日本侦探推理小说，发现该流派的发展与其时代的社会价值观紧密相连。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者阅读了横沟正史（Seishi Yokomizo）的一些已翻译作品，认为其作品虽然具有娱乐性，但并未完全达到期望。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者刚读完户川昌子（Masako Togawa）于1962年出版的《The Master Key》，认为其角色塑造比典型作品更立体，并将其排在个人书单第三位。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者目前正在阅读今村昌弘（Masahiro Imamura）于2017年出版的《Death Among the Undead》，该书为该流派增添了现代元素，有望冲击前三名。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116128&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;在硅谷，遇见个人计算机历史&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 硅谷计算机历史博物馆参观记与个人计算机发展史&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文记录了作者参观硅谷计算机历史博物馆（CHM）的经历，通过丰富的实物和历史资料，串联起从早期大型机、个人计算机的萌芽到图形界面、掌上设备以及万维网诞生的完整计算史。文章结合了技术演进与生动的历史故事，展现了科技先驱们的热情与创新，行文兼具人文关怀与极客情怀，最终呈现了一幅波澜壮阔的计算机技术发展全景图。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (15 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者在国庆假期前往硅谷，参观了位于Mountain View的计算机历史博物馆（CHM），探寻个人计算机发展的历史脉络。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;文章回顾了早期大型计算机的发展，包括ENIAC的硬件结构及其背后的六位女性程序员，展示了计算机与使用者关系的变化。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;介绍了1959年推出的IBM 1401及其带动的批处理工作方式，以及磁芯存储板等早期硬件的制作细节。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;PDP-1的出现让使用者能够通过控制台和显示器直接与计算机互动，并催生了早期电子游戏Spacewar!。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Xerox PARC研究中心通过Xerox Alto探索了图形界面、鼠标和网络连接等现代计算机交互方式的雏形。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;1970年代微处理器的普及促成了Homebrew Computer Club的诞生，为个人计算机的兴起奠定了社群基础。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Altair 8800登上杂志封面，成为早期个人电脑的标志性产品，并催生了Microsoft的BASIC业务。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;1976年推出的Apple I为主板集成形态，而Apple II则进一步完善了机身设计并迎来了VisiCalc电子表格软件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;IBM推出IBM PC（型号 5150）并带动了兼容机市场，推动个人电脑成为由众多厂商参与的产业。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Apple推出的Lisa和Macintosh引入了图形界面和鼠标操作，使电脑操作变得更加直观。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;1985年乔布斯收购Lucasfilm图形团队独立为Pixar，其早期曾尝试销售专业图像处理硬件。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;展柜中的Photoshop包装盒展示了软件生态的延伸，数字图像处理开始在个人电脑上普及。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;1990年代的PDA尝试将计算能力带离桌面，Newton手写识别表现不佳，而Palm则通过务实设计获得了成功。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;2001年推出的iPod专注于音乐播放，通过与电脑同步开启了便携数字设备的新阶段。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;Tim Berners-Lee在NeXT电脑上开发了最初的Web浏览器与服务器，万维网由此诞生，随后Google服务器机架展示了网络计算的发展。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
