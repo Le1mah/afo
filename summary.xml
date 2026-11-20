@@ -4,8 +4,131 @@
   <link href="https://github.com/tenki/afo" rel="alternate"/>
   <link href="https://github.com/tenki/afo" rel="self"/>
   <id>https://github.com/tenki/afo</id>
-  <updated>2026-11-15T23:42:39.257Z</updated>
+  <updated>2026-11-20T01:43:13.317Z</updated>
   <subtitle>Automatic summaries generated from Feeds.opml sources.</subtitle>
+  <entry>
+    <title>AFO AI Feed Digest - November 20, 2026</title>
+    <link href="https://github.com/tenki/afo" rel="alternate"/>
+    <id>daily-digest-2026-11-20</id>
+    <updated>2026-11-20T01:43:13.317Z</updated>
+    <published>2026-11-20T01:43:13.317Z</published>
+    <author>
+      <name>AFO Feed Digest</name>
+    </author>
+    <summary>3 articles from 3 feeds</summary>
+    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
+&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - November 20, 2026&lt;/h1&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
+  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;!-- SVG Progress Bar --&gt;
+  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
+    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
+  &lt;!-- Background --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
+  
+  &lt;!-- Progress fill --&gt;
+  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;355.06849315068496&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
+  
+  &lt;!-- Percentage text (centered) --&gt;
+  
+  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
+        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
+        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
+    88.8%
+  &lt;/text&gt;
+&lt;/svg&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Stats --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;324&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;41&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&quot;text-align: center;&quot;&gt;
+      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;46&lt;/div&gt;
+      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
+  &lt;noscript&gt;
+    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;███████████████████████████░░░ 88.8%&lt;/pre&gt;
+  &lt;/noscript&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;3&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 サイバーコネクトツー公式webサイト &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://www.cc2.co.jp/cc2news/?p=21928&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;公式コミカライズ『戦場のフーガ 鋼鉄のメロディ』16巻配信! 電子書籍【無料＆割引】セールも実施中!!&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 『戦場のフーガ 鋼鉄のメロディ』16巻配信と記念セール情報&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本文介绍了家庭用ゲーム『戦場のフーガ』の公式コミカライズ『戦場のフーガ 鋼鉄のメロディ』最新16巻の配信開始情報を伝えています。あらすじや単行本限定の付録・開発ブログの内容に触れつつ、12月4日まで開催される期間限定の無料・割引セールの詳細情報を案内しています。全体のテーマは新刊の発売告知および関連セールの宣伝であり、読者に向けた購買促進を目的としています。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (3 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;家庭用ゲーム『戦場のフーガ』の公式コミカライズ『戦場のフーガ 鋼鉄のメロディ』の電子書籍最新16巻が11月20日に配信開始されました。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;16巻ではマルトがフツの塔へ送り込まれ、マエストロやメイの介入を経て物語の舞台が月へと動き出します。単行本には限定付録や開発ブログも収録されています。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;最新刊の発売を記念して、12月4日まで『戦場のフーガ 鋼鉄のメロディ』の1巻から11巻を対象とした無料および割引セールが実施されています。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/119311&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Google发布Gemini 4 Neon模型，网易UU远程将推付费会员。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期派早报涵盖了科技领域的最新动态与产品发布。Google 推出了面向复杂任务的 Gemini 4 Neon AI 模型，网易 UU 远程宣布推出付费会员服务，Google Play 对应用折叠屏适配提出了强制要求。硬件方面，AMD 推出了 Instinct MI450X AI 加速器，微星上市了 AI 迷你主机。安全领域曝光了 Nginx 的多个远程代码执行漏洞，而微软则宣布将于明年停用 Microsoft To Do。此外，华为预告了轻薄新品发布会，少数派也分享了近期动态与客户端更新。文章内容全面，客观报道了科技行业的各项重大进展。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (9 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google 发布了面向复杂任务的 Gemini 4 Neon AI 模型，支持 100 万 token 上下文并优化了编程与网络安全功能。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;网易 UU 远程宣布将于 2026 年 12 月推出 VIP 和 SVIP 付费会员服务，同时承诺基础功能将继续免费。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;Google Play 宣布自 2027 年 4 月起强制要求应用适配折叠屏，并执行更严格的自适应标准。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AMD 推出了 Instinct MI450X AI 加速器，将 HBM4 显存容量降至 288GB 以优化运营成本。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;安全研究团队披露了 Nginx 的 5 个远程代码执行漏洞和一个 Linux 内核提权漏洞，官方已发布安全更新。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微软宣布将于 2027 年 6 月正式停用 Microsoft To Do 应用，个人账户需寻找其他替代方案。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;微星在中国市场推出了搭载 NVIDIA 芯片的 EdgeMesa N AI+ 迷你主机，提供强大的本地 AI 算力。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;华为宣布将于 11 月 24 日发布 Mate 90 Air 手机与 WATCH Air 智能手表，主打轻薄设计。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派近期开设了优秀作者评选专页，并上架了小纸 Pico 墨水屏设备及推出多项客户端更新与限时优惠。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 阮一峰的网络日志 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;科技爱好者周刊（第 420 期）：最分心的一年&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 AI让多任务并行更易导致分心，应做减法聚焦核心项目。&lt;/p&gt;
+&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;本期阮一峰科技爱好者周刊以2026年AI带来的“分心”现象为主题，探讨了AI虽然提高了生产力，但也让人容易陷入同时处理多个浅尝辄止项目的陷阱，呼吁人们做减法并聚焦核心目标。同时，周刊分享了《GTA6》的写实主义游戏体验、一句话科技新闻、多篇深度文章、实用开发工具、优质学习资源以及关于未来战争形态的文摘，内容兼具技术性与人文思考，风格客观务实。&lt;/p&gt;
+&lt;details style=&quot;margin: 8px 0;&quot;&gt;
+&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (14 sections)&lt;/summary&gt;
+&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;本期周刊封面为新建成的上海道教学院，记录了每周值得分享的科技内容。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;法国开发者亚历杭德罗·奥分享了2026年的年度回顾，表示AI让并行项目变多，导致人更容易分心且难以深入。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;AI虽然降低了项目启动的门槛，但也容易让人把时间浪费在膨胀的小项目上，忽视了高优先级的重要事情。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;正确的做法是利用AI做减法而不是加法，抵制诱惑，把精力和时间聚焦在最重要的核心项目上。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;3A游戏大作《GTA6》在本周发售，玩家对其高度还原现实的迈阿密大都市及丰富逼真的情节感到震惊。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文中详细讲述了一位玩家在《GTA6》中遇到的一起由交通事故引发的逼真且荒诞的碰瓷索赔情节。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;一句话消息板块介绍了电动滑板车改装沙发上街被拦、梁龙化石发现证明西欧北美曾有陆地通道以及黑猩猩未进化成人的最新病毒研究。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;推荐了多篇英文文章，涵盖黄仁勋事件深层分析、多智能体系统模式、检查空格的难度及个人如何定制芯片等。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;工具板块分享了sgrep、Netdata、FlowVision等多个实用的开源命令行工具、浏览器插件及桌面应用。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;资源板块列出了周刊导航站、从零开始制作中文小模型、浏览器工程等多个学习与开发资源。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;图片板块介绍了美国好奇号火星探测车的火星钻孔照片以及一套每次掷出数字总是不一样的特制骰子。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;文摘板块引用了英国军事学家的著作《未来的战争》，分析了传感器、射程和精度如何改变未来战争的形态与打法。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;言论板块收录了关于AI编码将瓶颈转移至代码审查、小型图标设计公司面临危机及人际交往价值等多位业者的观点。&lt;/li&gt;
+&lt;li style=&quot;margin: 4px 0;&quot;&gt;最后罗列了往年的经典回顾内容，并附带了版权声明与发表日期。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
+&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>AFO AI Feed Digest - November 15, 2026</title>
     <link href="https://github.com/tenki/afo" rel="alternate"/>
@@ -382,135 +505,6 @@
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;任天堂宣布“轻松登入”功能将于 2027 年 1 月下线，届时将不再支持通过 Google 或 Apple 账号快速登录。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;阿里发布 Qwen Code 1.0 版本，通过融合 Qoder 能力和统一事件机制，为开发者提供更强的 Agent 运行基础。&lt;/li&gt;
 &lt;li style=&quot;margin: 4px 0;&quot;&gt;少数派介绍近期动态，包括优秀作者评选结果展示以及多款硬件和会员服务的限时优惠活动。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #888; font-size: 0.9em; text-align: center;&quot;&gt;Generated by AFO Feed Digest&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>AFO AI Feed Digest - November 7, 2026</title>
-    <link href="https://github.com/tenki/afo" rel="alternate"/>
-    <id>daily-digest-2026-11-07</id>
-    <updated>2026-11-07T23:30:11.617Z</updated>
-    <published>2026-11-07T23:30:11.617Z</published>
-    <author>
-      <name>AFO Feed Digest</name>
-    </author>
-    <summary>4 articles from 3 feeds</summary>
-    <content type="html">&lt;div style=&quot;font-family: -apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;&quot;&gt;
-&lt;h1 style=&quot;border-bottom: 2px solid #333; padding-bottom: 10px; color: #222;&quot;&gt;📰 Daily Digest - November 7, 2026&lt;/h1&gt;
-
-&lt;div style=&quot;margin-bottom: 20px; padding: 15px; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); border-radius: 8px;&quot;&gt;
-  &lt;h2 style=&quot;margin: 0 0 10px 0; color: #333; font-size: 1.1em;&quot;&gt;📊 2026 Progress&lt;/h2&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;!-- SVG Progress Bar --&gt;
-  &lt;div style=&quot;margin: 10px 0;&quot;&gt;
-    &lt;svg width=&quot;100%&quot; height=&quot;28&quot; viewBox=&quot;0 0 400 28&quot; style=&quot;max-width: 400px;&quot;&gt;
-  &lt;!-- Background --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#e8eaed&quot; /&gt;
-  
-  &lt;!-- Progress fill --&gt;
-  &lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;340.8219178082192&quot; height=&quot;28&quot; rx=&quot;12&quot; ry=&quot;12&quot; fill=&quot;#ea4335&quot; /&gt;
-  
-  &lt;!-- Percentage text (centered) --&gt;
-  
-  &lt;text x=&quot;200&quot; y=&quot;15&quot; text-anchor=&quot;middle&quot; dominant-baseline=&quot;middle&quot; 
-        font-family=&quot;-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, sans-serif&quot; 
-        font-size=&quot;12&quot; font-weight=&quot;bold&quot; fill=&quot;#fff&quot;&gt;
-    85.2%
-  &lt;/text&gt;
-&lt;/svg&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Stats --&gt;
-  &lt;div style=&quot;display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin-top: 15px;&quot;&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;311&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Day of 2026&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;54&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Days Left&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;Q4&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Quarter&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div style=&quot;text-align: center;&quot;&gt;
-      &lt;div style=&quot;font-size: 1.5em; font-weight: bold; color: #333;&quot;&gt;44&lt;/div&gt;
-      &lt;div style=&quot;font-size: 0.8em; color: #666;&quot;&gt;Weeks Passed&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Text fallback (hidden by default, shown if SVG fails) --&gt;
-  &lt;noscript&gt;
-    &lt;pre style=&quot;font-family: monospace; margin: 10px 0;&quot;&gt;██████████████████████████░░░░ 85.2%&lt;/pre&gt;
-  &lt;/noscript&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;p style=&quot;color: #666; margin-bottom: 20px;&quot;&gt;Found &lt;strong&gt;4&lt;/strong&gt; articles from &lt;strong&gt;3&lt;/strong&gt; feeds&lt;/p&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Marko Denic &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(2 articles)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/emdash-cms/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;EmDash CMS Tutorial: Build Your First Site&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 EmDash is an open-source, Astro-powered CMS providing real-time, type-safe content management optimized for Cloudflare’s serverless stack.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;EmDash is an open-source, Astro-based CMS that leverages TypeScript and sandboxed plugins to provide a secure, passkey-first content management experience. The platform utilizes a decoupled publishing workflow with Portable Text (JSON) and Astro’s Live Content Collections, enabling real-time updates and full type safety through specialized hooks like `getEmDashCollection`. While natively optimized for Cloudflare’s serverless stack (D1, R2, and Workers), it maintains portability for Node.js environments and supports both SQLite and PostgreSQL. This architecture streamlines the developer experience by combining a CLI-driven setup with a direct database-to-render pipeline that eliminates the need for full site rebuilds during content updates.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (6 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Architecture and Core Features:&lt;/strong&gt; EmDash is an open-source, Astro-based CMS that replaces PHP with TypeScript and uses sandboxed plugins and structured JSON content. It prioritizes security with passkey-first authentication and offers native integration with Cloudflare’s serverless stack while remaining portable to Node.js.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Project Scaffolding:&lt;/strong&gt; Developers can initialize a project using a CLI tool that configures templates for either Node.js or Cloudflare environments. The setup includes a local SQLite database and generates a critical encryption key for managing plugin secrets.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Authentication and Admin Setup:&lt;/strong&gt; The CMS features a passwordless setup wizard that utilizes WebAuthn for passkey registration as the primary login method. The admin dashboard allows for immediate site configuration and content management without manual database provisioning.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Content Management Workflow:&lt;/strong&gt; EmDash employs a decoupled publishing workflow where drafts and published versions are managed separately in the database, allowing for live updates without site rebuilds. It supports revisions and scheduled publishing through a direct database-to-render pipeline.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Data Fetching and Type Safety:&lt;/strong&gt; The system leverages Astro’s Live Content Collections and specialized hooks like `getEmDashCollection` to fetch content with full TypeScript support. Content is stored as Portable Text (JSON), ensuring it can be rendered across different platforms using a standard UI component.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Deployment Strategies:&lt;/strong&gt; While optimized for Cloudflare Workers, D1, and R2, EmDash can also be deployed to any Node.js server using SQLite or PostgreSQL. Deployment involves using the Wrangler CLI for serverless environments, though local content must be migrated manually to production databases.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://markodenic.com/install-git-on-windows/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;How to Install Git on Windows (Step by Step)&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 Deploy and optimize Git on Windows using winget or manual installers, covering configuration, SSH authentication, and environment maintenance.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;Windows developers can deploy Git via `winget` for rapid setup or utilize the manual installer for granular control over PATH configurations, default branch naming, and editor integration. Essential post-installation steps include establishing global identity metadata and configuring SSH-based authentication to facilitate secure, passwordless remote operations. The guide outlines the standard workflow for initializing or cloning repositories while emphasizing long-term maintenance through automated update commands. Finally, it addresses critical architectural considerations, such as resolving PATH conflicts and choosing between native Git for Windows or a WSL-based environment.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Winget Installation Method:&lt;/strong&gt; Use the Windows Package Manager (winget) for a fast, command-line installation that applies sensible default settings automatically.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Manual Installer Configuration:&lt;/strong&gt; Download the official installer to manually customize critical options such as the default text editor, branch naming conventions, and PATH environment variables.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Post-Installation Global Config:&lt;/strong&gt; Configure your global username and email address to ensure all future commits are correctly attributed to your identity.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;GitHub SSH Authentication:&lt;/strong&gt; Generate an SSH key and link it to your GitHub account to enable secure, passwordless communication between your local machine and remote repositories.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Repository Initialization:&lt;/strong&gt; Start your development workflow by either cloning an existing project from a remote server or initializing a brand new local repository.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Maintenance and Updates:&lt;/strong&gt; Keep your Git installation current by using built-in update commands or winget to ensure you have the latest features and security patches.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Troubleshooting and WSL:&lt;/strong&gt; Resolve common PATH issues and decide between using Git for Windows or installing Git within the Windows Subsystem for Linux based on your environment.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 Terence Eden’s Blog &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 深刻探讨灾难规划中人文关怀与现实挑战的必读之作。&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;这本书深刻探讨了灾难规划与恢复工作，作者通过结合个人自传与专业分析，强调了在程序化的救援中融入人性化关怀的必要性。书中挑战了防灾领域的性别偏见，并尖锐批判了紧缩政策对国家应急能力的削弱。通过真实且残酷的案例，揭示了现实复杂性如何打破预设方案，是一部理解复杂灾难恢复逻辑的必读佳作。&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (4 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;作者最初对书中过多的个人传记内容感到不适，但随后意识到在灾难规划中融入人文关怀而非仅是冷冰冰的程序至关重要。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;书中强调了给予受害者哀悼空间的重要性，反击了对女性参与防灾的性别偏见，并严厉批评了紧缩政策对国家应对创伤能力的损害。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;尽管基调沉重且带有黑色幽默，但书中通过具体案例揭示了现实往往让最周密的灾难预案失效，展现了识别受害者的极端难度。&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;总结认为这是一部关于复杂恢复工作的必读之作，虽然内容沉重且残酷，但对于理解灾难救援的逻辑具有重要价值，给出了五星推荐。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
-&lt;h2 style=&quot;color: #444; margin: 16px 0;&quot;&gt;📰 少数派 &lt;span style=&quot;color: #888; font-size: 0.8em; font-weight: normal;&quot;&gt;(1 article)&lt;/span&gt;&lt;/h2&gt;
-&lt;h3 style=&quot;margin: 16px 0 8px 0; color: #333;&quot;&gt;▸ &lt;a href=&quot;https://sspai.com/post/116750&quot; style=&quot;color: #0066cc; text-decoration: none;&quot;&gt;一个 05 后的个人数码编年史&lt;/a&gt;&lt;/h3&gt;
-&lt;p style=&quot;margin: 4px 0; font-weight: bold; color: #555;&quot;&gt;💡 A Gen Z developer rejects algorithmic ecosystems for distraction-free hardware, seeking to reclaim open-source digital autonomy.&lt;/p&gt;
-&lt;p style=&quot;margin: 8px 0; color: #444; line-height: 1.6;&quot;&gt;This digital retrospective maps a Gen Z developer&amp;#039;s evolution from early consumer hardware to a critical engagement with device ecosystems, highlighting a preference for E-ink&amp;#039;s focus and the high-fidelity hardware of the Surface and MacBook lines. The narrative documents a conscious decoupling from mainstream &amp;quot;doomscrolling&amp;quot; and algorithmic media through experimental, distraction-free hardware like the Fairphone and Minimal Phone. Ultimately, the author frames their pursuit of Computer Science as a reaction against the modern mobile internet’s closed nature, seeking to reclaim the open-source ethos and digital freedom that characterized the early web.&lt;/p&gt;
-&lt;details style=&quot;margin: 8px 0;&quot;&gt;
-&lt;summary style=&quot;cursor: pointer; color: #666;&quot;&gt;📝 关键要点 (7 sections)&lt;/summary&gt;
-&lt;ul style=&quot;margin: 8px 0; padding-left: 20px; color: #555;&quot;&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Digital Childhood Roots:&lt;/strong&gt; The author recounts early encounters with an iPod touch and Nokia 106, marking the transition from simple gaming to digital enlightenment via a secondhand Xiaomi 4.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;E-ink and Literacy:&lt;/strong&gt; Kindle and the Sony DPT-RP1 are highlighted as pivotal devices that shaped the author&amp;#039;s reading habits and aesthetic appreciation for elegant, paper-like technology.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Apple Ecosystem Paradox:&lt;/strong&gt; Despite criticizing Apple&amp;#039;s closed nature, the author acknowledges the hardware&amp;#039;s superior quality, particularly how the MacBook&amp;#039;s screen facilitated a deep dive into world cinema.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Microsoft Surface Journey:&lt;/strong&gt; The author reflects on a loyalty to Surface hardware, valuing its unique design and &amp;#039;fanciness&amp;#039; despite the practical failures and productivity limitations of devices like the Surface Duo.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Niche Hardware Experiments:&lt;/strong&gt; Frustrated by mainstream distractions, the author transitioned through experimental devices like the Fairphone 5 to the Minimal Phone, using E-ink to successfully cure &amp;#039;doomscrolling.&amp;#039;&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Tech Industry Reflections:&lt;/strong&gt; As a Computer Science student, the author expresses a growing coldness toward modern tech trends while critiquing the negative social impacts of mobile internet and algorithmic media.&lt;/li&gt;
-&lt;li style=&quot;margin: 4px 0;&quot;&gt;&lt;strong&gt;Internet Utopianism:&lt;/strong&gt; The narrative concludes with a nostalgic look at the early internet&amp;#039;s culture of free resource sharing, which inspired the author&amp;#039;s pursuit of computer science and digital freedom.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr style=&quot;border: none; border-top: 2px solid #ddd; margin: 24px 0;&quot; /&gt;
